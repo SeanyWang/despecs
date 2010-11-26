@@ -21,9 +21,6 @@
 \newcommand{\mehrzeilen}[1][1]{\enlargethispage{#1\baselineskip}}
 
 
-\newcommand{\unit}[1]		{\textsl{#1}}
-
-
 % Zeilenabstand
 
 \usepackage{setspace} 
@@ -43,16 +40,32 @@
 
 %%%%%%%%%%%%%%%%
 
-\newenvironment{mainrule}{\textit{Rule}}{}
+%\newenvironment{mainrule}{\textit{Rule}}{}
+\newenvironment{mainrule}{}{}
 
-\newenvironment{example}{\textit{Example}}{}
-\newenvironment{type}{\begin{alltt}}{\end{alltt}}
+%\newfontfamily{\ht}[Mapping=tex-text]{Hoefler Text} 
+%\newfontfamily{\tnr}[Mapping=tex-text]{Times New Roman} 
+%\newenvironment{example}{\tnr\textit{Example}}{}
+%\newenvironment{example}{{\scshape Example}}{}
 
-%\newfontfamily{\greek}[Scale=1]{Minion Pro} 
-%\newfontfamily{\greek}[Scale=0.8]{Andale Mono} 
-\newfontfamily{\greek}[Scale=0.8]{Courier New} 
-\newenvironment{typeGreek}{\begin{alltt}\greek}{\end{alltt}}
+\newenvironment{example}{{\fontspec{Hoefler Text}{\scshape Example}}}{}
+%\newenvironment{example}{{\fontspec{DejaVu Sans}{\scshape Example}}}{}
 
-\newenvironment{exception}{\textit{Exception}}{}
 
-\newenvironment{clarification}{\textit{Clarification}}{}
+
+%\newenvironment{type}{\begin{alltt}}{\end{alltt}}
+
+\newenvironment{typeLatin}{\begin{alltt}\begin{tabular}{l}}{\end{tabular}\end{alltt}}
+
+\newcommand{\bs}{\textbackslash}
+\newenvironment{typeBetacode}{\begin{alltt}\small\begin{tabular}{l}}{\end{tabular}\end{alltt}}
+
+%\newfontfamily{\greek}[Scale=0.8]{Courier New} % [Scale=1]{Minion Pro}, [Scale=0.8]{Andale Mono} 
+\newfontfamily{\greek}[Scale=0.8]{DejaVu Sans Mono} 
+\newenvironment{typeGreek}{\begin{alltt}\greek\begin{tabular}{l}}{\end{tabular}\end{alltt}}
+
+\newenvironment{exception}{\small\textit{Exception}}{}
+%\newenvironment{exception}{\small}{}
+
+%\newenvironment{clarification}{\small\textit{Clarification}}{}
+\newenvironment{clarification}{\small}{}
