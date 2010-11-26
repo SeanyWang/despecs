@@ -1,0 +1,58 @@
+%!TEX TS-program = xelatex 
+%!TEX encoding = UTF-8 Unicode 
+%!TEX root = ../DESpecs.tex
+
+\usepackage{xspace} \xspaceaddexceptions{”}
+\usepackage{ifthen}
+
+\newcommand{\ch}[1]		{chapter~\ref{#1}}
+\newcommand{\sect}[1]		{section~\ref{#1}}
+\newcommand{\fig}[1]		{figure~\vref{#1}}
+\newcommand{\Fig}[1]		{Figure~\vref{#1}}
+\newcommand{\tbl}[1]		{table~\vref{#1}}
+
+\newcommand{\ie}			{i.e. }
+\newcommand{\eg}			{e.g. }
+
+\newcommand{\qq}			{\qquad}
+
+\newcommand{\spitz}[1]		{\ensuremath{\langle}#1\ensuremath{\rangle}}
+
+\newcommand{\mehrzeilen}[1][1]{\enlargethispage{#1\baselineskip}}
+
+
+\newcommand{\unit}[1]		{\textsl{#1}}
+
+
+% Zeilenabstand
+
+\usepackage{setspace} 
+\newenvironment{enum}{\begin{enumerate} \singlespacing} {\end{enumerate}}
+\newenvironment{items}{\begin{itemize} \singlespacing} {\end{itemize}}
+
+
+% verbatim
+
+\usepackage{alltt}
+\newcommand{\klein}{\small}
+\newenvironment{exakt}[1][\small]{\singlespacing#1\begin{alltt}}{\end{alltt}}
+
+\usepackage{shortvrb}
+\MakeShortVerb{\§}
+
+
+%%%%%%%%%%%%%%%%
+
+\newenvironment{mainrule}{\textit{Rule}}{}
+
+\newenvironment{example}{\textit{Example}}{}
+\newenvironment{type}{\begin{alltt}}{\end{alltt}}
+
+%\newfontfamily{\greek}[Scale=1]{Minion Pro} 
+%\newfontfamily{\greek}[Scale=0.8]{Andale Mono} 
+\newfontfamily{\greek}[Scale=0.8]{Courier New} 
+\newenvironment{typeGreek}{\begin{alltt}\greek}{\end{alltt}}
+
+\newenvironment{exception}{\textit{Exception}}{}
+
+\newenvironment{clarification}{\textit{Clarification}}{}
