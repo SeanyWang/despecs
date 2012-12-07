@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Therm_de_1912.tex" /> 
+<meta name="date" content="2005-03-02 20:12:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Therm_de_1912.css" /> 
+</head><body >
+
+<!--l. 13--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 14--><p class="noindent">
+</p><!--l. 15--><p class="noindent"><span 
+class="cmr-12">11. </span><span 
+class="cmbxti-10x-x-120">Thermodynamische Begr</span><span 
+class="cmbxti-10x-x-120">ündung </span> <br/><span 
+class="cmbxti-10x-x-120">des photochemischen</span>
+<span 
+class="cmbxti-10x-x-120">Äquivalentgesetzes; </span> <br/><span 
+class="cmbxti-10x-x-120">von A. Einstein.</span></p></div>
+<div class="center" >
+
+<!--l. 19--><p class="noindent">
+</p><!--l. 20--><p class="noindent">---------</p></div>
+<!--l. 23--><p class="indent">   Im folgenden wird auf wesentlich thermodynamischem <br/>Wege gleichzeitig das Wiensche Strahlungsgesetz und das <br/>photochemische Äquivalentgesetz abgeleitet. Unter dem letz-<br/>teren verstehe ich den Satz, daß es zur Zersetzung eines
+ <br/>Grammäquivalentes durch einen photochemischen Vorgang der <br/>absorbierten Strahlungsenergie <span 
+class="cmmi-10">N h<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /> </span>bedarf, falls man mit <span 
+class="cmmi-10">N </span> <br/>die Zahl der Moleküle im Gramm-Mol, mit <span 
+class="cmmi-10">h </span>die bekannte <br/>Konstante in Plancks Strahlungsformel, mit <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /> </span>die Frequenz <br/>der wirksamen Strahlung bezeichnet.<sup ><span 
+class="cmr-7">1</span></sup>) Das Gesetz erscheint <br/>im wesentlichen als eine konsequenz der Voraussetzung, daß <br/>die Zahl der pro Zeiteinheit zersetzten Moleküle der Dichte <br/>der wirksamen Strahlung proportional ist; doch ist hervor-<br/>zuheben, daß die thermodynamischen Zusammenhänge und das
+ <br/>Strahlungsgesetz es nicht gestatten, diese Annahme durch eine <br/>beliebige andere zu ersetzen, wie am Schlusse der Arbeit kurz <br/>gezeigt wird.
+</p><!--l. 42--><p class="indent">   Aus dem Folgenden geht ferner klar hervor, daß das <br/>Äquivalentgesetz bzw. die zu demselben führenden Annahmen <br/>nur so lange gelten, als die wirksame Strahlung dem Gültig-<br/>keitsbereiche des Wienschen Gesetzes angehört, Für solche <br/>Strahlung aber ist nun an der Gültigkeit des Gesetzes kaum <br/>mehr zu zweifeln.
+</p>
+<div class="center" >
+
+<!--l. 49--><p class="noindent">
+</p><!--l. 50--><p class="noindent"><span 
+class="cmsy-10">§ </span>1.  Über das thermodynamische Gleichgewicht <br/>zwischen Strahlung und einem teilweise dissoziierten Gase vom <br/>Standpunkt des Massenwirkungsgesetzes.</p></div>
+<!--l. 54--><p class="indent">   Es sei in einem Volumen <span 
+class="cmmi-10">V </span>eine Mischung dreier chemisch <br/>verschiedener Gase mit den Molekulargewichten <span 
+class="cmmi-10">m</span><sub ><span 
+class="cmr-7">1</span></sub>, <span 
+class="cmmi-10">m</span><sub ><span 
+class="cmr-7">2</span></sub>, <span 
+class="cmmi-10">m</span><sub ><span 
+class="cmr-7">3</span> <br/></sub> <br/>-----------
+</p><!--l. 59--><p class="indent">   1) Vgl. A. Einstein, Ann. d. Phys. <span 
+class="cmbx-10">4. </span>(17). p. 132. <pb/>
+</p><!--l. 65--><p class="indent">
+
+</p><!--l. 66--><p class="noindent">vorhanden. <span 
+class="cmmi-10">n</span><sub ><span 
+class="cmr-7">1</span></sub> sei die Anzahl g-Mole des ersten, <span 
+class="cmmi-10">n</span><sub ><span 
+class="cmr-7">2</span></sub> die des <br/>zweiten, <span 
+class="cmmi-10">n</span><sub ><span 
+class="cmr-7">3</span></sub> die des dritten Gases.<sup ><span 
+class="cmr-7">1</span></sup>) Zwischen diesen drei <br/>Molekülarten sei eine Reaktion möglich, darin bestehend, daß <br/>ein Molekül erster Art zerfällt in ein Molekül zweiter und ein <br/>Molekül dritter Art. Bei thermodynamischem Gleichgewichte <br/>besteht gleiche Häufigkeit der Reaktionen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_19120x.png" alt="m1 --&gt;  m2 + m3 " class="par-math-display"  /></center>
+<!--l. 78--><p class="nopar">
+</p><!--l. 82--><p class="noindent">und
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_19121x.png" alt="m2 + m3 --&gt; m1. " class="par-math-display"  /></center>
+<!--l. 88--><p class="nopar">
+</p><!--l. 92--><p class="indent">   Wir wollen den Fall ins Auge fassen, daß der Zerfall von <br/>Molekülen <span 
+class="cmmi-10">m</span><sub ><span 
+class="cmr-7">1</span></sub>
+ausschließlich durch die Wirkung der Wärme-<br/>strahlung erfolge, und zwar unter der Wirkung eines Teiles <br/>der Wärmestrahlung, dessen Frequenz sich wenig von einer
+ <br/>gewissen Frequenz <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span><sub ><span 
+class="cmr-7">0</span></sub> unterscheidet. Die bei einem derartigen <br/>Zerfall im Mittel absorbierte Strahlungsenergie sei <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /></span>. In diesem <br/>Falle muß umgekehrt bei dem Prozeß der Vereinigung von <span 
+class="cmmi-10">m</span><sub ><span 
+class="cmr-7">2</span></sub> <br/>und <span 
+class="cmmi-10">m</span><sub ><span 
+class="cmr-7">3</span></sub> zu <span 
+class="cmmi-10">m</span><sub ><span 
+class="cmr-7">1</span></sub> Strahlung von der Frequenzgegend <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span><sub ><span 
+class="cmr-7">0</span></sub>
+emittiert <br/>werden, und zwar ausschließlich Strahlung von der Frequenz-<br/>gegend <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span><sub ><span 
+class="cmr-7">0</span></sub>, und es muß die bei einem Wiedervereinigungsprozeß <br/>emittierte Strahlungsenergie im Mittel ebenfalls gleich <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>sein, <br/>da sonst das Strahlungsgleichgewicht durch die Existenz des <br/>Gases gestört würde; denn die Zahl der Zerfallprozesse ist <br/>gleich der Zahl der Vereinigungsprozesse.
+</p><!--l. 104--><p class="indent">   Besitzt das Gasgemisch die Temperatur <span 
+class="cmmi-10">T</span>, so wird thermo-<br/>dynamisches Gleichgewicht des Systems jedenfalls bestehen <br/>können, wenn die im Raum befindliche Strahlung in der Um-<br/>gebung der Frequenz <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span><sub ><span 
+class="cmr-7">0</span></sub> diejenige (monochromatische) Dichte <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /> </span> <br/>besitzt, welche zur Wärmestrahlung der Temperatur <span 
+class="cmmi-10">T </span>gehört.
+ <br/>Wir analysieren nun die beiden einander gerade aufhebenden <br/>Reaktionen genauer, indem wir über den Mechanismus der-<br/>selben gewisse Annahmen machen.
+</p><!--l. 114--><p class="indent">   Der Zerfall eines Moleküls erster Art geschehe so, wie <br/>wenn die übrigen Moleküle nicht da wären (Annahme I). Daraus <br/>folgt, daß wir die Zahl der pro Zeiteinheit zerfallenden Mole-<br/>küle erster Art deren Anzahl (<span 
+class="cmmi-10">n</span><sub ><span 
+class="cmr-7">1</span></sub>) unter sonst gleichen Um-<br/>ständen proportional, und daß wir die Zahl der pro Zeiteinheit
+ <br/>-----------
+</p><!--l. 123--><p class="indent">   1) Natürlich kann eines der Gase mit den Indizes 2 und 3 aus <br/>Elektronen bestehen. <pb/>
+</p><!--l. 129--><p class="indent">
+
+</p><!--l. 130--><p class="noindent">zerfallenden Moleküle als von den drei Gasdichten unabhängig <br/>anzusetzen haben. Außerdem nehmen wir an, daß die Wahr-<br/>scheinlichkeit dafür, daß ein Molekül erster Art in einem Zeit-<br/>teilchen zerfalle, der monochromatischen Strahlungsdichte <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /></span>
+ <br/>proportional sei (Annahme II).
+</p><!--l. 137--><p class="indent">   Hauptsächlich von der zweiten dieser Annahmen muß <br/>hervorgehoben werden, daß ihre Richtigkeit durchaus nicht <br/>selbstverständlich ist. Sie enthält die Aussage, daß die <br/>chemische Wirkung einer auf einen Körper fallenden Strahlung <br/>nur von der Gesamtmenge der wirkenden Strahlung abhänge, <br/>aber nicht von der Bestrahlungsintensität; die Existenz einer <br/>unteren Wirksamkeitsschwelle der Strahlung wird durch diese <br/>Annahme vollkommen ausgeschlossen. Wir setzen uns durch <br/>letztere in Widerspruch mit den Ergebnissen zweier Arbeiten
+ <br/>von E. Warburg<sup ><span 
+class="cmr-7">1</span></sup>), durch die ich die Anregung für die vor-<br/>liegende Arbeit empfing.
+</p><!--l. 150--><p class="indent">   Aus den beiden Annahmen folgt, daß die Zahl <span 
+class="cmmi-10">Z </span>der pro <br/>Zeiteinheit zerfallenden Moleküle erster Art gegeben ist durch <br/>den Ausdruck</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_19122x.png" alt="Z = A rn1. " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 156--><p class="nopar">
+</p><!--l. 159--><p class="noindent">Der Proportionalitätsfaktor <span 
+class="cmmi-10">A </span>kann nach dem Gesagten nur <br/>von der Gastemperatur
+<span 
+class="cmmi-10">T </span>abhängen. Nach dem Vorangehenden <br/>gilt die Gleichung auch in dem Falle, daß die Strahlungs-<br/>dichte <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /> </span>(bei der Frequenz <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span><sub ><span 
+class="cmr-7">0</span></sub>) eine andere ist, als zur Tem-<br/>peratur <span 
+class="cmmi-10">T </span>des Gases gehört.
+</p><!--l. 166--><p class="indent">   Von dem Wiedervereinigungsprozeß nehmen wir an, daß <br/>es ein gewöhnlicher Vorgang zweiter Ordnung im Sinne des <br/>Massenwirkungsgesetzes sei, daß also die Zahl der pro Volum-<br/>einheit und Zeiteinheit sich bildenden Moleküle erster Art dem <br/>Produkt der Konzentrationen <span 
+class="cmmi-10">n</span><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">/V</span> und <span 
+class="cmmi-10">n</span><sub ><span 
+class="cmr-7">3</span></sub><span 
+class="cmmi-10">/V </span>proportional sei,
+ <br/>wobei der Proportionalitätskoeffizient nur von der Gastemperatur, <br/>aber nicht von der Dichte der vorhandenen Strahlung abhänge <br/>(Annahme III). Die Zahl <span 
+class="cmmi-10">Z</span><span 
+class="cmsy-10">' </span>der sich in der Zeiteinheit bildenden <br/>Moleküle erster Art ist also</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_19123x.png" alt="Z'= A'.V  .n2.n3-.            V   V " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 182--><p class="nopar">
+</p><!--l. 185--><p class="noindent">-----------
+</p><!--l. 188--><p class="indent">   1) E. Warburg, Verh. d. Deutsch. Physik. Ges. <span 
+class="cmbx-10">9. </span>p. 24. 1908 und <br/>9. p. 21. 1909.
+<pb/>
+</p><!--l. 194--><p class="indent">
+
+</p><!--l. 195--><p class="indent">   Das von uns betrachtete, aus Strahlung und Gasgemisch <br/>bestehende System befindet sich stets im thermodynamischen <br/>Gleichgewicht, wenn die Zahl <span 
+class="cmmi-10">Z</span>
+der Zerfallsprozesse gleich <br/>ist der Zahl <span 
+class="cmmi-10">Z</span><span 
+class="cmsy-10">' </span>der Vereinigungsprozesse; denn es bleibt in <br/>diesem Falle nicht nur die Menge einer jeden Gasart, sondern
+ <br/>auch die Menge der vorhandenen Strahlung ungeändert.<sup ><span 
+class="cmr-7">1</span></sup>) Diese <br/>Bedingung lautet</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_19124x.png" alt=" n2n3  V-V-   j2j3   A --n1- = -j-- = A'r,   V       1 " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 209--><p class="nopar">
+</p><!--l. 213--><p class="noindent">wobei <span 
+class="cmmi-10">A </span>und <span 
+class="cmmi-10">A</span><span 
+class="cmsy-10">' </span>nur von der Temperatur der Gasmischung <br/>abhängen. Eine eigentümliche Konsequenz dieser Betrachtung <br/>ist die, daß bei gegebener Gastemperatur und beliebig ge-<br/>gebener Strahlungsdichte (d. h. auch Strahlungstemperatur) ein <br/>thermodynamisches Gleichgewicht möglich sein soll. Es liegt <br/>aber hierin kein Verstoß gegen den zweiten Hauptsatz, was <br/>damit zusammenhängt, daß mit einem Wärmeübergang von <br/>der Strahlung zum Gase ein bestimmter chemischer Prozeß <br/>zwangläufig verbunden ist; man kann mit Hilfe des von uns <br/>betrachteten Systems kein Perpetuum mobile zweiter Art kon-<br/>struieren.
+</p>
+<div class="center" >
+
+<!--l. 227--><p class="noindent">
+</p><!--l. 228--><p class="noindent"><span 
+class="cmsy-10">§ </span>2.  Thermodynamische Gleichgewichtsbedingung für das im <span 
+class="cmsy-10">§ </span>1 <br/>betrachtete System.</p></div>
+<!--l. 231--><p class="indent">   Ist <span 
+class="cmmi-10">S</span><sub ><span 
+class="cmmi-7">s</span></sub> die Entropie der im Volumen <span 
+class="cmmi-10">V </span>enthaltenen Strahlung, <br/><span 
+class="cmmi-10">S</span><sub ><span 
+class="cmmi-7">g</span></sub> diejenige des Gasgemisches, so muß für jeden der im vorigen <br/>Paragraph gefundenen Gleichgewichtszustände die Bedingung <br/>bestehen, daß für jede unendlich kleine virtuelle Änderung der <br/>Zustände von Strahlung und Gas die Änderung der Gesamt-<br/>entropie verschwindet. Die zu betrachtende virtuelle Änderung
+ <br/>besteht darin, daß die Energiemenge <span 
+class="cmmi-10">N <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>(aus der Umgebung <br/>von <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span><sub ><span 
+class="cmr-7">0</span></sub>) der Strahlung in Energie des Gasgemisches übergeht <br/>unter gleichzeitigem Zerfall eines Gasmoleküls (g-Mol) erster <br/>Art. Bei einer solchen virtuellen Änderung würde sich die <br/>Temperatur des Gemisches um einen nicht zu vernachlässigenden
+ <br/>----------- 
+</p><!--l. 242--><p class="indent">   1) Beim Lesen der Korrektur bemerke ich, daß dieser für das <br/>Folgende wesentliche Schluß nur unter der Voraussetzung gilt, daß bei <br/>gegebener Gastemperatur <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>von <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /></span>
+unabhängig ist. <pb/>
+</p><!--l. 250--><p class="indent">
+
+</p><!--l. 251--><p class="noindent">Betrag verändern. Um dies zu vermeiden, denken wir uns in <br/>bekannter Weise das Gasgemisch mit einem unendlich großen <br/>Wärmereservoir von derselben Temperatur
+<span 
+class="cmmi-10">T </span>in dauernder <br/>wärmeleitender Verbindung. Bei der virtuellen Änderung ändert <br/>sich dann die Temperatur des Gasgemisches nicht; dagegen <br/>ist zu berücksichtigen, daß das Wärmereservoir die Energie <br/><span 
+class="cmsy-10">-</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_19125x.png" alt="(dEs +d Eg)"  class="left" align="middle" /> bei der virtuellen Änderung in Form von Wärme <br/>aufnimmt, falls man mit <span 
+class="cmmi-10">E</span><sub ><span 
+class="cmmi-7">s</span></sub> die Energie der Strahlung, mit
+ <br/><span 
+class="cmmi-10">E</span><sub ><span 
+class="cmmi-7">g</span></sub> diejenige des Gases bezeichnet. Die Gleichgewichtsbedin-<br/>gung lautet deshalb</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-5r4"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_19126x.png" alt="dSs + d Sg- dEs-+-dEg-= 0 .                T " class="math-display"  /></center></td><td width="5%">(4)</td></tr></table>
+<!--l. 269--><p class="nopar">
+</p><!--l. 272--><p class="noindent">Wir haben nun die einzelnen Glieder dieser Gleichung zu <br/>berechnen. Es ist zunächst für die von uns betrachtete virtuelle <br/>Anderung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_19127x.png" alt="dEs = -N e, dS  = -N-e,   s     Ts " class="par-math-display"  /></center>
+<!--l. 283--><p class="nopar">
+</p><!--l. 287--><p class="noindent">wenn man mit <span 
+class="cmmi-10">T</span><sub ><span 
+class="cmmi-7">s</span></sub> die zur Strahlungsdichte <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /> </span>gehörige Tem-<br/>peratur bezeichnet. Die auf das Gas bezüglichen Variationen <br/>berechnen wir nach in der Thermodynamik geläufigen Methoden, <br/>wobei wir -- was für das Folgende nicht wesentlich ist --<br/>die spezifischen Wärmen als von der Temperatur unabhängig <br/>behandeln. Man erhält zunächst
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_19128x.png" alt="      sum 
+E0 = sum  n1{{cn1T + b1},      n1} S0 =   n1 cn1 lgT + c1 - R lg V  . " class="par-math-display"  /></center>
+<!--l. 303--><p class="nopar">
+
+</p><!--l. 307--><p class="indent">   Dabei bedeutet
+</p><!--l. 309--><p class="indent">   <span 
+class="cmmi-10">c</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span><sub ><span 
+class="cmr-5">1</span></sub></sub>  die Wärmekapazität pro g-Mol bei konstantem Volum,
+</p><!--l. 311--><p class="indent">   <span 
+class="cmmi-10">b</span><sub ><span 
+class="cmr-7">1</span></sub>    die Energie pro g-Mol der 1. Gasart bei <span 
+class="cmmi-10">T </span>= 0<span 
+class="cmmi-10">,</span>
+</p><!--l. 313--><p class="indent">   <span 
+class="cmmi-10">c</span><sub ><span 
+class="cmr-7">1</span></sub>    eine Integrationskonstante der Entropie der ersten Gasart.
+</p><!--l. 315--><p class="indent">   Aus diesen Gleichungen folgen unmittelbar die folgenden
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_19129x.png" alt="       sum 
+d Eg =   dn1{{cn1 T + b1},             } d S =  sum  dn  c  lg T + c - R - R lg n1 ,    g       1  n1       1           V " class="par-math-display"  /></center>
+<!--l. 326--><p class="nopar">
+</p><!--l. 330--><p class="noindent">wobei</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-6r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_191210x.png" alt="dn1 = -1,   dn2 = +1,  dn3 = +1 " class="math-display"  /></center></td><td width="5%">(4a<span 
+class="cmsy-10">'</span>)</td></tr></table>
+<!--l. 337--><p class="nopar">
+<pb/>
+</p><!--l. 344--><p class="indent">
+
+</p><!--l. 345--><p class="noindent">zu setzen ist. Gleichung (4) nimmt vermöge dieser Gleichungen <br/>für die Variationen und der Gleichung (3) die Form an
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_191211x.png" alt="                (     )   N-e-            A- - RTs + lg a - lg   A' r  = 0, " class="par-math-display"  /></center>
+<!--l. 353--><p class="nopar">
+</p><!--l. 357--><p class="noindent">wobei zur Abkürzung gesetzt ist</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-7r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_191212x.png" alt="                      {                        } lg a = N-e-+ 1- sum  dn1  cn lg T + c1- R - cn -  b1- .        R T   R           1               1   T " class="math-display"  /></center></td><td width="5%">(4a<span 
+class="cmsy-10">''</span>)</td></tr></table>
+<!--l. 365--><p class="nopar">
+</p><!--l. 368--><p class="noindent">Die mit <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-b.png" alt="a" class="10x-x-b" /> </span>bezeichnete Größe ist von <span 
+class="cmmi-10">T</span><sub ><span 
+class="cmmi-7">s</span></sub> unabhängig.
+</p>
+<div class="center" >
+
+<!--l. 371--><p class="noindent">
+</p><!--l. 372--><p class="noindent"><span 
+class="cmsy-10">§ </span>3.  Schlußfolgerungen aus der Gleichgewichtsbedingung.</p></div>
+<!--l. 375--><p class="indent">   Wir schreiben nun (4a) in der Form
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-8r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_191213x.png" alt="     '    -N-e r = A-a-e-R Ts.      A " class="math-display"  /></center></td><td width="5%">(4b)</td></tr></table>
+<!--l. 380--><p class="nopar">
+</p><!--l. 383--><p class="noindent">Da die Beziehung zwischen <span 
+class="cmmi-10">T</span><sub ><span 
+class="cmmi-7">s</span></sub> und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /> </span>unabhängig sein muß <br/>von <span 
+class="cmmi-10">T</span>, müssen die Größen <span 
+class="cmmi-10">A</span><span 
+class="cmsy-10">'</span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-b.png" alt="a" class="10x-x-b" />/A </span>und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>von <span 
+class="cmmi-10">T </span>unabhängig <br/>sein. Da diese Größen auch von <span 
+class="cmmi-10">T</span><sub ><span 
+class="cmmi-7">s</span></sub>
+unabhängig sind, so sind <br/>wir damit zu demjenigen Zusammenhang zwischen <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /> </span>und
+<span 
+class="cmmi-10">T</span><sub ><span 
+class="cmmi-7">s</span></sub> <br/>gelangt, der der Wienschen Strahlungsformel entspricht. Wir <br/>schließen hieraus:
+</p><!--l. 395--><p class="indent">   <span 
+class="cmti-10">Die im </span><span 
+class="cmsy-10">§</span><span 
+class="cmti-10">1 zugrunde gelegten Annahmen </span><span 
+class="cmti-10">über den Verlauf </span> <br/><span 
+class="cmti-10">photochemischer</span>
+<span 
+class="cmti-10">Vorg</span><span 
+class="cmti-10">änge sind mit dem empirisch bekannten </span> <br/><span 
+class="cmti-10">Gesetze der W</span><span 
+class="cmti-10">ärmestrahlung nur</span>
+<span 
+class="cmti-10">vereinbar, insofern die wirkende </span> <br/><span 
+class="cmti-10">Strahlung in den G</span><span 
+class="cmti-10">ültigkeitsbereich des Wienschen</span>
+<span 
+class="cmti-10">Strahlungs- </span> <br/><span 
+class="cmti-10">gesetzes f</span><span 
+class="cmti-10">ällt; in diesem Falle aber ist Wiens Gesetz eine Kon- </span> <br/><span 
+class="cmti-10">sequenz</span>
+<span 
+class="cmti-10">unserer Annahmen.</span>
+</p><!--l. 397--><p class="indent">   Schreiben wir Wiens Strahlungsformel unter Einführung <br/>der Planckschen Konstanten in der Form
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_191214x.png" alt="             h-n- r = 8p-hn3e- xTs ,       c3 " class="par-math-display"  /></center>
+<!--l. 403--><p class="nopar">
+</p><!--l. 407--><p class="noindent">so sehen wir durch Vergleichung mit (4b), daß die Gleichungen
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-9r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_191215x.png" alt="e = h n0, " class="math-display"  /></center></td><td width="5%">(5)</td></tr></table>
+<!--l. 413--><p class="nopar">
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-10r6"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_191216x.png" alt="  '         3 A-a-= 8-phn30-  A       c " class="math-display"  /></center></td><td width="5%">(6)</td></tr></table>
+<!--l. 420--><p class="nopar">
+</p><!--l. 424--><p class="noindent">erfülit sein müssen. Als wichtigste Konsequenz folgt also (5), <br/><span 
+class="cmti-10">da</span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-c.png" alt="b" class="cmmi-10x-x-c" align="middle" /> </span><span 
+class="cmti-10">ein Gasmolek</span><span 
+class="cmti-10">ül,</span>
+<span 
+class="cmti-10">welches unter Absorption von Strahlung von </span> <br/><pb/>
+</p><!--l. 429--><p class="indent">
+
+</p><!--l. 430--><p class="noindent"><span 
+class="cmti-10">der Frequenz </span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span><sub ><span 
+class="cmr-7">0</span></sub> <span 
+class="cmti-10">zerf</span><span 
+class="cmti-10">ällt, bei seinem Zerfall </span>(<span 
+class="cmti-10">im Mittel</span>) <span 
+class="cmti-10">die </span> <br/><span 
+class="cmti-10">Strahlungsenergie  </span><span 
+class="cmmi-10">h <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span><sub ><span 
+class="cmr-7">0</span></sub>
+<span 
+class="cmti-10">absorbiert. </span>Wir haben die einfachste <br/>Art der Reaktion vorausgesetzt, hätten aber Gleichung (5) auf <br/>demselben Wege wie hier auch für andere unter Lichtabsorption <br/>vor sich gehende Gasreaktionen ableiten können. Ebenso liegt <br/>es auf der Hand, daß die Beziehung in ähnlicher Weise für <br/>verdünnte Lösungen bewiesen werden kann. Sie dürfte wohl <br/>allgemein gültig sein.
+</p><!--l. 437--><p class="indent">   Wir ersetzen ferner mit Hilfe von (6) in (4a<span 
+class="cmsy-10">''</span>) die Größe <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-b.png" alt="a" class="10x-x-b" /></span>, <br/>so erhalten wir mit Berücksichtigung von (3), indem wir zur <br/>Abkürzung <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /></span><sub ><span 
+class="cmr-7">2</span></sub> <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /></span><sub ><span 
+class="cmr-7">3</span></sub> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_191217x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /></span><sub ><span 
+class="cmr-7">1</span></sub> = <span 
+class="cmmi-10">z </span>setzen und Wiens Strahlungsgesetz <br/>anwenden</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Therm_de_1912/fulltext/img/Einst_Therm_de_191218x.png" alt="                         sum     {                          } lgz = N-hv0-- N-hv0-+ 1-   dn1  cn1 lg T + c1- (cn1 + R) - b1 .        R T    R Ts    R                                T " class="par-math-display"  /></center>
+<!--l. 446--><p class="nopar">
+</p><!--l. 449--><p class="noindent">Diese Gleichung geht für <span 
+class="cmmi-10">T </span>= <span 
+class="cmmi-10">T</span><sub ><span 
+class="cmmi-7">s</span></sub> in die bekannte Gleichung <br/>für das Dissoziationsgleichgewicht für Gase über, ein Beweis <br/>dafür, daß die vorstehende Theorie mit der thermodynamischen <br/>Theorie der Dissoziation nicht in Widerspruch gerät.
+</p><!--l. 456--><p class="indent">   Prag, Januar 1912.
+</p>
+<div class="center" >
+
+<!--l. 458--><p class="noindent">
+</p><!--l. 459--><p class="noindent">(Eingegangen 18. Januar 1912.)</p></div>
+<div class="center" >
+
+<!--l. 463--><p class="noindent">
+</p><!--l. 464--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

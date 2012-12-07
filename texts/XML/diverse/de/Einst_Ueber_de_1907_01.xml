@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Ueber_de_1907_01.tex" /> 
+<meta name="date" content="2005-03-10 17:51:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Ueber_de_1907_01.css" /> 
+</head><body >
+
+<!--l. 16--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 17--><p class="noindent">
+</p><!--l. 18--><p class="noindent"><span 
+class="cmr-12x-x-120">12. </span><span 
+class="cmbxti-10x-x-144"> </span><span 
+class="cmbxti-10x-x-144">Über die vom Relativit</span><span 
+class="cmbxti-10x-x-144">ätsprinzip geforderte</span>
+ <br/><span 
+class="cmbxti-10x-x-144">Tr</span><span 
+class="cmbxti-10x-x-144">ägheit der Energie; </span> <br/><span 
+class="cmbxti-10x-x-144">von A. Einstein.</span></p></div>
+<div class="center" >
+
+<!--l. 23--><p class="noindent">
+</p><!--l. 24--><p class="noindent">----------</p></div>
+<!--l. 27--><p class="indent">   Das Relativitätsprinzip führt in Verbindung mit den <br/>Maxwellschen Gleichungen zu der Folgerung, daß die Träg-<br/>heit eines Körpers mit dessen Energieinhalt in ganz bestimmter <br/>Weise wachse bez. abnehme. Betrachtet man nämlich einen <br/>Körper, der gleichzeitig nach zwei entgegengesetzten Richtungen <br/>eine bestimmte Strahlungsenergie aussendet, und untersucht
+ <br/>man diesen Vorgang von zwei relativ zueinander gleichförmig <br/>bewegten Koordinatensystemen aus<sup ><span 
+class="cmr-8">1</span></sup>), von denen das eine <br/>relativ zu dem Körper ruht, und wendet man auf den Vor-<br/>gang -- von beiden Koordinatensystemen aus -- das Energie-<br/>prinzip an, so gelangt man zu dem Resultat, daß einem <br/>Energiezuwachs <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> <span 
+class="cmmi-12">E </span>des betrachteten Körpers stets ein Massen-<br/>zuwachs <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> <span 
+class="cmmi-12">E/V</span> <sup ><span 
+class="cmr-8">2</span></sup> entsprechen müsse, wobei <span 
+class="cmmi-12">V </span>die Lichtgeschwin-<br/>digkeit bedeutet.
+</p><!--l. 45--><p class="indent">   Der Umstand, daß der dort behandelte spezielle Fall eine <br/>Annahme von so außerordentlicher Allgemeinheit (über die Ab-<br/>hängigkeit der Trägheit von der Energie) notwendig macht, <br/>fordert dazu auf, in allgemeinerer Weise die Notwendigkeit <br/>bez. Berechtigung der genannten Annahme zu prüfen. Ins-<br/>besondere erhebt sich die Frage: Führen nicht andere spezielle <br/>Fälle zu mit der genannten Annahme unvereinbaren Folge-<br/>rungen? Einen ersten Schritt in dieser Hinsicht habe ich <br/>letztes Jahr unternommen<sup ><span 
+class="cmr-8">2</span></sup>), indem ich zeigte, daß jene An-<br/>nahme den Widerspruch der Elektrodynamik mit dem Prinzip <br/>von der Konstanz der Schwerpunktsbewegung (mindestens was <br/>die Glieder erster Ordnung anbelangt) aufhebt.
+</p><!--l. 60--><p class="indent">   Die <span 
+class="cmti-12">allgemeine </span>Beantwortung der aufgeworfenen Frage ist <br/>darum vorläufig nicht möglich, weil wir ein vollständiges, dem <br/>----------
+</p><!--l. 65--><p class="indent">   1) A. Einstein, Ann. d. Phys. <span 
+class="cmbx-12">18. </span>p. 639. 1905.
+</p><!--l. 67--><p class="indent">   2) A. Einstein, Ann. d. Phys. <span 
+class="cmbx-12">20. </span>p. 627. 1906. <pb/>
+</p><!--l. 72--><p class="indent">
+
+</p><!--l. 73--><p class="noindent">Relativitätsprinzip entsprechendes Weltbild einstweilen nicht <br/>besitzen. Wir müssen uns vielmehr auf die speziellen Fälle <br/>beschränken, welche wir ohne Willkür vom Standpunkt der <br/>Relativitätselektrodynamik gegenwärtig behandeln können. Zwei <br/>solche Fälle werden wir im folgenden betrachten; bei dem <br/>ersten derselben besteht das System, dessen träge Masse unter-<br/>sucht werden soll, in einem starren, starr elektrisierten Körper, <br/>bei dem zweiten Fall aus einer Anzahl gleichförmig bewegter <br/>Massenpunkte, welche aufeinander keine Kräfte ausüben.
+</p><!--l. 86--><p class="indent">   Bevor ich mit der Untersuchung beginne, muß ich hier <br/>noch eine Bemerkung über den mutmaßlichen Gültigkeitsbereich <br/>der Maxwellschen Gleichungen für den leeren Raum ein-<br/>schieben, um einem naheliegenden Einwand zu begegnen. In <br/>früheren Arbeiten habe ich gezeigt, daß unser heutiges elektro-<br/>mechanisches Weltbild nicht geeignet ist, die Entropieeigen-<br/>schaften der Strahlung sowie die Gesetzmäßigkeiten der <br/>Emission und Absorption der Strahlung und die der spezifischen <br/>Wärme zu erklären; es ist vielmehr nach meiner Meinung <br/>nötig anzunehmen, daß die Beschaffenheit eines jeglichen
+ <br/>periodischen Prozesses eine derartige ist, daß eine Umsetzung <br/>der Energie nur in bestimmten Quanten von endlicher Größe <br/>(Lichtquanten) vor sich gehen kann, daß also die Mannigfaltig-<br/>keit der in Wirklichkeit möglichen Prozesse eine kleinere ist <br/>als die Mannigfaltigkeit der im Sinne unserer heutigen theore-<br/>tischen Anschauungen möglichen Prozesse.<sup ><span 
+class="cmr-8">1</span></sup>) Einen Strahlungs-<br/>vorgang im besonderen hätten wir uns so zu denken, daß der <br/>momentane elektromagnetische Zustand in einem Raumteile <br/>durch eine <span 
+class="cmti-12">endliche </span>Zahl von Größen vollständig bestimmt <br/>sei -- im Gegensatze zur Vektorentheorie der Strahlung. So-<br/>lange wir jedoch nicht im Besitz eines Bildes sind, welches
+ <br/>den genannten Forderungen entspricht, werden wir uns natur-<br/>gemäß in allen Fragen, welche nicht Entropieverhältnisse <br/>sowie Umwandlungen elementar kleiner Energiemengen be-<br/>treffen, der gegenwärtigen Theorie bedienen, ohne fürchten zu <br/>müssen, dadurch zu unrichtigen Resultaten zu gelangen. Wie <br/>ich mir die heutige Sachlage in diesen Fragen denke, kann
+ <br/>----------
+</p><!--l. 121--><p class="indent">   1) A. Einstein, Ann. d. Phys. <span 
+class="cmbx-12">17. </span>p. 132. 1905; <span 
+class="cmbx-12">20. </span>p. 199. 1906 <br/>und <span 
+class="cmbx-12">22. </span>p. 180. 1907. <pb/>
+</p><!--l. 127--><p class="indent">
+
+</p><!--l. 128--><p class="noindent">ich am anschaulichsten durch folgenden fingierten Fall illu-<br/>strieren.
+</p><!--l. 131--><p class="indent">   Man denke sich, daß die molekularkinetische Theorie der <br/>Wärme noch nicht aufgestellt, daß aber mit voller Sicherheit <br/>nachgewiesen sei, daß die Brownsche Bewegung (Bewegung <br/>von in Flüssigkeiten suspendierten Teilchen) nicht auf äußerer <br/>Energiezufuhr beruhe, sondern daß klar erkannt sei, daß jene
+ <br/>Bewegungen mit Hilfe der Mecbanik und Thermodynamik nicht <br/>erklärt werden können. Man würde bei dieser Sachlage mit <br/>Recht zu dem Schlusse geführt, daß eine tiefgreifende Ände-<br/>rung der theoretischen Grundlagen Platz greifen müsse. Trotz-<br/>dem würde sich aber niemand scheuen, bei Behandlung aller <br/>Fragen, welche sich nicht auf Momentanzustände in kleinen <br/>Raumteilen beziehen, die Grundgleichungen der Mechanik und
+ <br/>Thermodynamik anzuwenden. In diesem Sinne können wir <br/>nach meiner Meinung mit Zuversicht unsere Betrachtungen <br/>auf die Maxwellschen Gleichungen stützen.
+</p><!--l. 150--><p class="indent">   Es scheint mir in der Natur der Sache zu liegen, daß <br/>das Nachfolgende zum Teil bereits von anderen Autoren klar-<br/>gestellt sein dürfte. Mit Rücksicht darauf jedoch, daß hier <br/>die betreffenden Fragen von einem neuen Gesichtspunkt aus <br/>behandelt sind, glaubte ich, von einer für mich sehr umständ-<br/>lichen Durchmusterung der Literatur absehen zu dürfen, zumal <br/>zu hoffen ist, daß diese Lücke von anderen Autoren noch aus-<br/>gefüllt werden wird, wie dies in dankenswerter Weise bei <br/>meiner ersten Arbeit über das Relativitätsprinzip durch Hrn. <br/>Planck und Hrn. Kaufmann bereits geschehen ist.
+</p>
+<div class="center" >
+
+<!--l. 164--><p class="noindent">
+</p><!--l. 165--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>1.   Über die kinetische Energie eines in gleichförmiger <br/>Translation begriffenen, äußeren Kräften unterworfenen starren <br/>Körpers.</p></div>
+<!--l. 172--><p class="indent">   Wir betrachten einen in gleichförmiger Translations-<br/>bewegung (Geschwindigkeit
+<span 
+class="cmmi-12">v</span>) in Richtung der wachsenden <br/><span 
+class="cmmi-12">x</span>-Koordinate eines ruhend gedachten Koordinatensystems (<span 
+class="cmmi-12">x,y,z</span>) <br/>befindlichen starren Körper. Wirken äußere Kräfte nicht auf <br/>ihn, so ist nach der Relativitätstheorie seine kinetische Energie <span 
+class="cmmi-12">K</span><sub ><span 
+class="cmr-8">0</span></sub>
+ <br/>gegeben durch die Gleichung<sup ><span 
+class="cmr-8">1</span></sup>)
+</p><!--l. 181--><p class="noindent">----------
+</p><!--l. 183--><p class="indent">   1) A. Einstein, Ann. d. Phys. <span 
+class="cmbx-12">17. </span>p. 917 ff. 1905. <pb/>
+</p><!--l. 188--><p class="indent">
+
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_010x.png" alt="             {        1           } K0  =  m V 2    V~ ------(---)-- - 1   ,                          v-  2                   1 -    V " class="par-math-display"  /></center>
+<!--l. 194--><p class="nopar">
+</p><!--l. 199--><p class="noindent">wobei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" /> </span>seine Masse (im gewöhnlichen Sinne) und <span 
+class="cmmi-12">V </span>die Licht-<br/>geschwindigkeit im Vakuum bedeutet. Wir wollen nun zeigen, <br/>daß nach der Relativitätstheorie dieser Ausdruck nicht mehr <br/>gilt, falls äußere Kräfte auf den Körper wirken, welche
+ <br/>einander das Gleichgewicht halten. Um den Fall behandeln <br/>zu können, müssen wir voraussetzen, daß jene Kräfte elektro-<br/>dynamische seien. Wir denken uns daher den Körper starr <br/>elektrisiert (mit kontinuierlich verteilter Elektrizität), und es <br/>wirke auf ihn ein elektromagnetisches Kraftfeld. Die elek-<br/>trische Dichte denken wir uns allenthalben als sehr gering <br/>und das Kraftfeld als intensiv, derart, daß die den Wechsel-<br/>wirkungen zwischen den elektrischen Massen des Körpers ent-<br/>sprechenden Kräfte gegenüber den vom äußeren Kraftfelde <br/>auf die elektrischen Ladungen des Körpers ausgeübten Kräfte
+ <br/>vernachlässigt werden können.<sup ><span 
+class="cmr-8">1</span></sup>) Die von dem Kraftfeld auf <br/>den Körper zwischen den Zeiten <span 
+class="cmmi-12">t</span><sub ><span 
+class="cmr-8">0</span></sub> und <span 
+class="cmmi-12">t</span><sub ><span 
+class="cmr-8">1</span></sub> übertragene <br/>Energie <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> <span 
+class="cmmi-12">E </span>ist gegeben durch den Ausdruck:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_011x.png" alt="         integral t3   integral 
+                    -r- D E  =     dt   vX  4p d x dy d z,         t0 " class="par-math-display"  /></center>
+<!--l. 226--><p class="nopar">
+</p><!--l. 230--><p class="noindent">wobei das Raumintegral über den Körper zu erstrecken und
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_012x.png" alt="r =   @ X-+  @-Y-+  @-Z-       @ x    @ y    @ z " class="par-math-display"  /></center>
+<!--l. 237--><p class="nopar"></p><!--l. 241--><p class="noindent">gesetzt ist. Diesen Ausdruck transformieren wir nach den in <br/>der oben zitierten Abhandlung angegebenen Transformations-<br/>gleichungen<sup ><span 
+class="cmr-8">2</span></sup>) auf dasjenige Ort-Zeitsystem (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-11.png" alt="j" class="cmmi-12x-x-11" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-10.png" alt="z" class="cmmi-12x-x-10" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /></span>), welches <br/>einem relativ zu dem Körper ruhenden, zu (<span 
+class="cmmi-12">x,y,z</span>) parallel-<br/>achsigen Koordinatensystem entspricht. Man erhält so in einer
+ <br/>Bezeichnung, welche der in jener Abhandlung benutzten genau <br/>entspricht, nach einfacher Rechnung
+</p>
+   <center class="par-math-display" >
+
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_013x.png" alt="         integral   integral        ' D E  =      b v X' r-- dq d j d z d t ,                    4p " class="par-math-display"  /></center>
+<!--l. 256--><p class="nopar">
+</p><!--l. 260--><p class="noindent">----------
+</p><!--l. 262--><p class="indent">   1) Wir führen diese Annahme ein, um annehmen zu können, daß <br/>die wirkenden Kräfte vermöge der Art, wie sie erzeugt sind, keinen be-<br/>schränkenden Bedingungen unterworfen seien.
+</p><!--l. 267--><p class="indent">   2) A. Einstein, Ann. d. Phys. <span 
+class="cmbx-12">17. </span><span 
+class="cmsy-10x-x-120">§§ </span>3 u. 6. 1905. <pb/>
+</p><!--l. 272--><p class="indent">
+
+</p><!--l. 273--><p class="noindent">wobei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-c.png" alt="b" class="cmmi-12x-x-c" align="middle" /> </span>wie dort den Ausdruck
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_014x.png" alt=" V~ ----1-------         (v--)2    1 -    V " class="par-math-display"  /></center>
+<!--l. 280--><p class="nopar">
+</p><!--l. 284--><p class="noindent">bedeutet. Es ist zu beachten, daß gemäß unseren Voraus-<br/>setzungen die Kräfte
+<span 
+class="cmmi-12">X</span><span 
+class="cmsy-10x-x-120">' </span>keine beliebigen sein dürfen. Sie <br/>müssen vielmehr zu jeder Zeit so beschaffen sein, daß der <br/>betrachtete Körper keine Beschleunigung erfährt. Hierfür er-<br/>hält man nach einem Satze der Statik die notwendige (aber
+ <br/>nicht hinreichende) Bedingung, daß von einem mit dem Körper <br/>bewegten Koordinatensystem aus betrachtet die Summe der <br/><span 
+class="cmmi-12">X</span>-Komponenten der auf den Körper wirkenden Kräfte stets <br/>verschwindet. Man hat also für jedes
+<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /></span>:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_015x.png" alt=" integral 
+   X'r'dq  dj dz =  0. " class="par-math-display"  /></center>
+<!--l. 299--><p class="nopar">
+</p><!--l. 303--><p class="noindent">Wären also die Grenzen für <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>in dem obigen Integralausdruck <br/>für <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> <span 
+class="cmmi-12">E </span>von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /> , <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-11.png" alt="j" class="cmmi-12x-x-11" align="middle" /> , <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-10.png" alt="z" class="cmmi-12x-x-10" align="middle" /></span>
+unabhängig, so wäre <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> <span 
+class="cmmi-12">E </span>= 0<span 
+class="cmmi-12">. </span>Dies ist <br/>jedoch nicht der Fall. Aus der Transformationsgleichung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_016x.png" alt="       (     v   ) t =  b  t +  -2-q              V " class="par-math-display"  /></center>
+<!--l. 312--><p class="nopar">
+</p><!--l. 316--><p class="noindent">folgt nämlich unmittelbar, daß die Zeitgrenzen im bewegten <br/>System sind:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_017x.png" alt="t =   t0- -  -v-q   und  t  =  t1  -  -v-q .       b     V 2                b     V 2 " class="par-math-display"  /></center>
+<!--l. 324--><p class="nopar">
+</p><!--l. 328--><p class="noindent">Wir denken uns das Integral im Ausdruck für <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> <span 
+class="cmmi-12">E </span>in drei <br/>Teile zerlegt.
+</p><!--l. 331--><p class="indent">   Der erste Teil umfasse die Zeiten <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>zwischen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_018x.png" alt="t     v          t 0--  --2 q  und  -0 , b    V            b " class="par-math-display"  /></center>
+<!--l. 337--><p class="nopar">
+</p><!--l. 341--><p class="noindent">der zweite Teil zwischen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_019x.png" alt="t0        t1 b-  und   b-, " class="par-math-display"  /></center>
+<!--l. 347--><p class="nopar">
+</p><!--l. 351--><p class="noindent">der dritte zwischen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0110x.png" alt="t1       t1    -v- b   und   b -  V 2 q . " class="par-math-display"  /></center>
+<!--l. 358--><p class="nopar">
+</p><!--l. 362--><p class="indent">   Der zweite Teil verschwindet, weil er von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" />,  <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-11.png" alt="j" class="cmmi-12x-x-11" align="middle" />,  <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-10.png" alt="z" class="cmmi-12x-x-10" align="middle" /> </span>unab-<br/>hängige Zeitgrenzen hat. Der erste und dritte Teil hat über-<br/>haupt nur dann einen bestimmten Wert, wenn die Annahme <br/><pb/>
+</p><!--l. 369--><p class="indent">
+
+</p><!--l. 370--><p class="noindent">gemacht wird, daß in der Nähe der Zeiten <span 
+class="cmmi-12">t </span>= <span 
+class="cmmi-12">t</span><sub ><span 
+class="cmr-8">0</span></sub> und <span 
+class="cmmi-12">t </span>= <span 
+class="cmmi-12">t</span><sub ><span 
+class="cmr-8">1</span></sub> <br/>die auf den Körper wirkenden Kräfte von der Zeit unabhängig <br/>seien, derart, daß für alle Punkte des starren Körpers zwischen <br/>den Zeiten
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0111x.png" alt="t =  t0 -  v--q  und   t =  t0      b     V2               b " class="par-math-display"  /></center>
+<!--l. 380--><p class="nopar">
+</p><!--l. 384--><p class="noindent">bez. zwischen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0112x.png" alt="t =  t1  und  t  =  t1--  -v- q      b              b    V 2 " class="par-math-display"  /></center>
+<!--l. 392--><p class="nopar">
+</p><!--l. 396--><p class="noindent">die elektrische Kraft <span 
+class="cmmi-12">X</span><span 
+class="cmsy-10x-x-120">' </span>von der Zeit unabhängig ist. Nennt <br/>man <span 
+class="cmmi-12">X</span><sub ><span 
+class="cmr-8">0</span></sub><span 
+class="cmsy-10x-x-120">'</span>
+bez. <span 
+class="cmmi-12">X</span><sub ><span 
+class="cmr-8">1</span></sub><span 
+class="cmsy-10x-x-120">' </span>die in diesen beiden Zeiträumen vor-<br/>handenen <span 
+class="cmmi-12">X</span><span 
+class="cmsy-10x-x-120">'</span>, so erhält man:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0113x.png" alt="            integral   2      '  '             integral   2       ' ' D  E =  -     v--b qX-1r--dq d j dz +    v--b q-X-0r-d q dj d z .               V2     4p                  V 2    4 p " class="par-math-display"  /></center>
+<!--l. 408--><p class="nopar">
+</p><!--l. 410--><p class="noindent">Nimmt man ferner an, daß am Anfang (<span 
+class="cmmi-12">t </span>= <span 
+class="cmmi-12">t</span><sub ><span 
+class="cmr-8">0</span></sub>) keine Kräfte <br/>auf den Körper wirken, so verschwindet das zweite dieser <br/>Integrale. Mit Rücksicht darauf, daß
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0114x.png" alt="   ' ' -X-1r-d q dj d z   4p " class="par-math-display"  /></center>
+<!--l. 420--><p class="nopar">
+</p><!--l. 423--><p class="noindent">die <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /></span>-Komponente <span 
+class="cmmi-12">K</span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi8-18.png" alt="q" class="cmmi-8x-x-18" align="middle" /></span></sub> der auf das Raumelement wirkenden <br/>ponderomotorischen Kraft ist, erhält man
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0115x.png" alt="              (v  )2                 --        sum 
+D E  =  -  V~ ----V--------    (q Kq) ,                    (v-)2              1  -   V " class="par-math-display"  /></center>
+<!--l. 432--><p class="nopar">
+</p><!--l. 436--><p class="noindent">wobei die Summe über alle Massenelemente des Körpers zu <br/>erstrecken ist.
+</p><!--l. 439--><p class="indent">   Wir haben also folgendes merkwürdige Resultat erhalten. <br/>Setzt man einen starren Körper, auf den ursprünglich keine <br/>Kräfte wirken, dem Einflusse von Kräften aus, welche dem <br/>Körper keine Beschleunigung erteilen, so leisten diese Kräfte <br/>-- von einem relativ zu dem Körper bewegten Koordinaten-<br/>system aus betrachtet -- eine Arbeit <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> <span 
+class="cmmi-12">E </span>auf den Körper, <br/>welche lediglich abhängt von der endgültigen Kräfteverteilung <br/>und der Translationsgeschwindigkeit. Nach dem Energieprinzip <br/>folgt hieraus unmittelbar, daß die kinetische Energie eines <br/>Kräften unterworfenen starren Körpers um <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> <span 
+class="cmmi-12">E </span>größer ist als
+ <br/><pb/>
+</p><!--l. 454--><p class="indent">
+
+</p><!--l. 455--><p class="noindent">die kinetische Energie desselben, ebenso rasch bewegten <br/>Körpers, falls keine Kräfte auf denselben wirken.
+</p>
+<div class="center" >
+
+<!--l. 460--><p class="noindent">
+</p><!--l. 461--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>2.   Über die Trägheit eines elektrisch geladenen starren <br/>Körpers.</p></div>
+<!--l. 466--><p class="indent">   Wir betrachten abermals einen starren, starr elektrisierten <br/>Körper, welcher eine gleichförmige Translationsbewegung im <br/>Sinne der wachsenden <span 
+class="cmmi-12">x</span>-Koordinaten eines ,,ruhenden&#8220; Ko-<br/>ordinatensystems ausführt (Geschwindigkeit <span 
+class="cmmi-12">v</span>). Ein äußeres
+ <br/>elektromagnetisches Kraftfeld sei nicht vorhanden. Wir wollen <br/>indessen jetzt das von den elektrischen Massen des Körpers <br/>erzeugte elektromagnetische Feld berücksichtigen. Wir be-<br/>rechnen zunächst die elektromagnetische Energie
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0116x.png" alt="         integral 
+E    1--   (X2 +  Y2 + Z2 +  L2 + M 2 + N 2)dx d yd z.   e= 8p " class="par-math-display"  /></center>
+<!--l. 481--><p class="nopar">
+</p><!--l. 485--><p class="noindent">Zu diesem Zweck transformieren wir diesen Ausdruck unter <br/>Benutzung der in der mehrfach zitierten Abhandlung ent-<br/>haltenen Transformationsgleichungen, indem wir unter dem <br/>Integral Größen einführen, welche sich auf ein mit dem Körper
+ <br/>bewegtes Koordinatensystem beziehen. Wir erhalten so:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0117x.png" alt="                |_            (v )2              _| 
+           integral             1 +  -- Ee =  -1-    1- |_ X'2 + -----(V--)--(Y '2 + Z'2) _|  d qd j dz .       8 p    b         1 -    v- 2                               V " class="par-math-display"  /></center>
+<!--l. 499--><p class="nopar">
+</p><!--l. 503--><p class="noindent">Es ist zu beachten, daß der Wert dieses Ausdruckes abhängt <br/>von der Orientierung des starren Körpers relativ zur Be-<br/>wegungsrichtung. Wenn sich daher die gesamte kinetische <br/>Energie des elektrisierten Körpers ausschließlich zusammen-<br/>setzte aus der kinetischen Energie <span 
+class="cmmi-12">K</span><sub ><span 
+class="cmr-8">0</span></sub>, welche dem Körper <br/>wegen seiner ponderabeln Masse zukommt, und dem Über-<br/>schuß der elektromagnetischen Energie des bewegten Körpers <br/>über die elektrostatische Energie des Körpers für den Fall <br/>der Ruhe, so wären wir damit zu einem Widerspruche ge-<br/>langt, wie leicht aus folgendem zu ersehen ist.
+</p><!--l. 516--><p class="indent">   Wir denken uns, der betrachtete Körper sei relativ zu <br/>dem mitbewegten 
+Koordinatensystem in unendlich langsamer <br/>Drehung begriffen, ohne daß äußere Einwirkungen während <br/>dieser Bewegung auf ihn stattfinden. Es ist klar, daß diese
+ <br/><pb/>
+</p><!--l. 523--><p class="indent">
+
+</p><!--l. 524--><p class="noindent">Bewegung kräftefrei möglich sein muß, da ja nach dem Rela-<br/>tivitätsprinzip die Bewegungsgesetze des Körpers relativ zu <br/>dem mitbewegten System dieselben sind wie die Bewegungs-<br/>gesetze in bezug auf ein ,,ruhendes&#8220; System. Wir betrachten
+ <br/>nun den gleichförmig bewegten und unendlich langsam sich <br/>drehenden Körper vom ,,ruhenden&#8220; System aus. Da die <br/>Drehung unendlich langsam sein soll, trägt sie zur kinetischen <br/>Energie nichts bei. Der Ausdruck der kinetischen Energie <br/>ist daher in dem betrachteten Fall derselbe wie wenn keine <br/>Drehung, sondern ausschließlich gleichförmige Paralleltrans-<br/>lation stattfände. Da nun der Körper relativ zur Bewegungs-<br/>richtung im Laufe der Bewegung verschiedene (beliebige) Lagen <br/>annimmt, und während der ganzen Bewegung das Energie-<br/>prinzip gelten muß, so ist klar, daß eine Abhängigkeit der <br/>kinetischen Energie eines in Translationsbewegung begriffenen <br/>elektrisierten Körpers von der Orientierung unmöglich ist.
+</p><!--l. 544--><p class="indent">   Dieser Widerspruch wird durch die Resultate des vorigen <br/>Paragraphen beseitigt. Die kinetische Energie des betrach-<br/>teten Körpers kann nämlich nicht berechnet werden wie die <br/>eines starren Körpers, auf den keine Kräfte wirken. Wir
+ <br/>haben vielmehr gemäß <span 
+class="cmsy-10x-x-120">§ </span>1 zu berücksichtigen, daß unser <br/>starrer Körper Kräften unterworfen ist, welche ihre Ursache in <br/>der Wechselwirkung zwischen den elektrischen Massen haben. <br/>Bezeichnen wir also mit <span 
+class="cmmi-12">K</span><sub ><span 
+class="cmr-8">0</span></sub> die kinetische Energie für den <br/>Fall, daß keine elektrischen Ladungen vorhanden sind, so er-<br/>halten wir für die gesamte kinetische Energie <span 
+class="cmmi-12">K </span>des Körpers <br/>den Ausdruck
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0118x.png" alt="K  =  K  +  D E + (E   -  E ),         0            e     s " class="par-math-display"  /></center>
+<!--l. 562--><p class="nopar">
+</p><!--l. 566--><p class="noindent">wobei <span 
+class="cmmi-12">E</span><sub ><span 
+class="cmmi-8">s</span></sub> die elektrostatische Energie des betrachteten Körpers <br/>im Zustand der Ruhe bedeutet. In unserem Falle hat man
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0119x.png" alt="          v2    1  integral      (@  X'    @ Y '  @ Z') D E  = -  ---b ---   qX'   ----- + -----+ ----   dq dj dz ,           V 2  4p           @ q     @ j    @ z " class="par-math-display"  /></center>
+<!--l. 577--><p class="nopar">
+</p><!--l. 581--><p class="noindent">woraus man durch partielle Integration mit Berücksichtigung <br/>des Umstandes, daß
+<span 
+class="cmmi-12">X</span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">, Y </span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">, Z</span><span 
+class="cmsy-10x-x-120">' </span>von einem Potential ableitbar <br/>sind, erhält
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0120x.png" alt="          v2    1  integral 
+D E  = -  --2 b---   (X'2 -  Y '2-  Z'2) dq dj dz .           V    8p 
+" class="par-math-display"  /></center>
+<!--l. 591--><p class="nopar"> <pb/>
+</p><!--l. 598--><p class="indent">
+
+</p><!--l. 599--><p class="indent">   Berücksichtigt man die im <span 
+class="cmsy-10x-x-120">§ </span>1 angegebenen Ausdrücke <br/>für <span 
+class="cmmi-12">K</span><sub ><span 
+class="cmr-8">0</span></sub> und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-c.png" alt="b" class="cmmi-12x-x-c" align="middle" /></span>, so erhält man für die kinetische Energie des <br/>elektrisierten starren Körpers den Ausdruck
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0121x.png" alt="                      (                   )       (        )             Es-      2  ------1------- K  =    m + V 2  .V      V~ ------(---)2 - 1   .                            1 -   -v                                  V " class="par-math-display"  /></center>
+<!--l. 609--><p class="nopar">
+</p><!--l. 613--><p class="noindent">Dieser Ausdruck ist, wie es sein muß, von der Orientierung <br/>des Körpers relativ zur Translationsrichtung unabhängig. Ver-<br/>gleicht man den Ausdruck für <span 
+class="cmmi-12">K </span>mit dem für die Energie <span 
+class="cmmi-12">K</span><sub ><span 
+class="cmr-8">0</span></sub> <br/>eines nicht elektrisch geladenen Körpers
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0122x.png" alt="            (                   ) 
+                     1 K0  =  m V 2   V~ ------(---)--- 1   ,                         v- 2                  1 -    V " class="par-math-display"  /></center>
+<!--l. 624--><p class="nopar">
+</p><!--l. 628--><p class="noindent">so erkennt man, daß der elektrostatisch geladene Körper eine <br/>träge Masse besitzt, welche die des nicht geladenen Körpers <br/>um die durch das Quadrat der Lichtgeschwindigkeit dividierte <br/>elektrostatische Energie übertrifft. Der Satz von der Trägheit <br/>der Energie wird also durch unser Resultat in dem behandelten
+ <br/>speziellen Fall bestätigt.
+</p>
+<div class="center" >
+
+<!--l. 637--><p class="noindent">
+</p><!--l. 638--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>3.   Bemerkungen betreffend die Dynamik des starren Körpers.</p></div>
+<!--l. 643--><p class="indent">   Nach dem Vorangehenden könnte es scheinen, als ob wir <br/>von dem Ziele, eine dem Relativitätsprinzip entsprechende <br/>Dynamik der Paralleltranslation des starren Körpers zu schaffen, <br/>nicht mehr weit entfernt wären. Man muß sich indessen daran <br/>erinnern, daß die im <span 
+class="cmsy-10x-x-120">§ </span>1 ausgeführte Untersuchung die Energie <br/>des Kräften unterworfenen starren Körpers nur für den Fall <br/>lieferte, daß jene Kräfte zeitlich konstant sind. Wenn zur <br/>Zeit <span 
+class="cmmi-12">t</span><sub ><span 
+class="cmr-8">1</span></sub> die Kräfte <span 
+class="cmmi-12">X</span><span 
+class="cmsy-10x-x-120">' </span>von der Zeit abhängen, so erweist sich <br/>die Arbeit <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> <span 
+class="cmmi-12">E</span>, also auch die Energie des starren Körpers, <br/>nicht nur als abhängig von denjenigen Kräften, welche zu <br/><span 
+class="cmti-12">einer </span>bestimmten Zeit 
+herrschen.
+</p><!--l. 658--><p class="indent">   Um die hier vorliegende Schwierigkeit möglichst drastisch <br/>zu beleuchten, denken wir uns folgenden einfachen Spezialfall. <br/>Wir betrachten einen starren Stab <span 
+class="cmmi-12">AB</span>, welcher relativ zu <br/>einem Koordinatensystem (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-11.png" alt="j" class="cmmi-12x-x-11" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-10.png" alt="z" class="cmmi-12x-x-10" align="middle" /></span>) ruhe, wobei die Stabachse <br/>in der <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-10.png" alt="z" class="cmmi-12x-x-10" align="middle" /></span>-Achse ruhe. Zu einer bestimmten Zeit <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /></span><sub ><span 
+class="cmr-8">0</span></sub>
+mögen <br/><pb/>
+</p><!--l. 666--><p class="indent">
+
+   auf  die  Stabenden  für  ganz  kurze  Zeit  entgegengesetzt  gleiche  <br/>Kräfte
+<span 
+class="cmmi-12">P </span>wirken, während der Stab in allen übrigen Zeiten <br/>Kräften nicht unterworfen sei.  Es  ist  klar,  daß  die  genannte,  <br/>zur  Zeit  <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /></span><sub ><span 
+class="cmr-8">0</span></sub>  auf  den  Stab  ausgeübte Wirkung eine Bewegung <br/>des Stabes <span 
+class="cmti-12">nicht  </span>erzeugt. Wir be-<br/>trachten nun
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0123x.png" alt="PIC" class="graphics" width="170.72433pt" height="68.28937pt"  /><!--tex4ht:graphics  
+name="img/Einst_Ueber_de_1907_0123x.png" src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/Einst_Ueber_de_1907_01_001.EPS"  
+--> genau denselben Vor-<br/>gang von einem                                        zum vorher be-<br/>nutzten parallelachsigen                                        Koordi-<br/>natensystem aus, relativ zu                                        welchem <br/>sich unser Stab in der Richtung                                        <span 
+class="cmmi-12">A</span>--<span 
+class="cmmi-12">B </span>mit der Geschwindigkeit <span 
+class="cmmi-12">v </span> <br/>bewegt. Von  dem  letztgenannten  Koordinatensystem  aus  beurteilt,  <br/>wirken  nun aber die Kraftimpulse in <span 
+class="cmmi-12">A </span>und <span 
+class="cmmi-12">B </span>nicht gleichzeitig; <br/>der Impuls in <span 
+class="cmmi-12">B </span>ist vielmehr gegen den Impuls in <span 
+class="cmmi-12">A </span>verspätet um <br/><span 
+class="cmmi-12">l<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-c.png" alt="b" class="cmmi-12x-x-c" align="middle" /></span>(<span 
+class="cmmi-12">v/V</span> <sup ><span 
+class="cmr-8">2</span></sup>) Zeiteinheiten, wobei
+<span 
+class="cmmi-12">l  </span>die  (ruhend  gemessene)  Stab-<br/>länge  bedeutet.  Wir  sind  also  zu  dem folgenden sonderbar <br/>aussehenden Resultat gekommen. Auf den bewegten Stab
+<span 
+class="cmmi-12">AB </span> <br/>wirkt  zuerst  in  <span 
+class="cmmi-12">A </span>ein  Kraftimpuls  und  darauf  nach  einiger  <br/>Zeit  ein entgegengesetzter in <span 
+class="cmmi-12">B</span>. Diese beiden Kraftimpulse <br/>kompensieren einander derart, daß die Bewegung des Stabes <br/>durch sie nicht modifiziert wird. Noch merkwürdiger erscheint <br/>der Fall, wenn wir nach der Energie des Stabes fragen zu
+ <br/>einer  Zeit,  in  welcher  der  Impuls  in  <span 
+class="cmmi-12">A </span>bereits  vorbei  ist,  <br/>während  der Impuls in <span 
+class="cmmi-12">B </span>noch nicht zu wirken begonnen hat. <br/>Der Impuls in <span 
+class="cmmi-12">A </span>hat auf den Stab Arbeit übertragen (weil <br/>der Stab bewegt ist); um diese Arbeit muß  sich  also  die  <br/>Energie  des  Stabes  vermehrt  haben.  Gleichwohl  hat sich weder <br/>die Geschwindigkeit des Stabes noch sonst eine auf ihn Bezug
+ <br/>habende Größe, von der wir die Energiefunktion des Stabes <br/>abhängen lassen könnten, geändert. Es scheint also eine Ver-<br/>letzung des Energieprinzipes vorzuliegen.
+</p><!--l. 706--><p class="indent">   Die <span 
+class="cmti-12">prinzipielle </span>Lösung dieser Schwierigkeit liegt auf der <br/>Hand. Indem wir implizite annehmen, durch die auf den <br/>Stab wirkenden Kräfte und durch die in demselben Augenblick <br/>herrschende Stabgeschwindigkeit den Momentanzustand des <br/>Stabes vollständig bestimmen zu können, nehmen wir an, daß <br/>ein Geschwindigkeitszuwachs des Körpers durch die ihn er-<br/>zeugende, irgendwo am Körper angreifende Kraft <span 
+class="cmti-12">momentan </span> <br/>erzeugt werde, daß also die Ausbreitung der auf einen Punkt <br/>des Körpers ausgeübten Kraft über den ganzen Körper keine <br/><pb/>
+</p><!--l. 720--><p class="indent">
+
+</p><!--l. 721--><p class="noindent">Zeit erfordere. Eine derartige Annahme ist, wie nachher ge-<br/>zeigt wird, mit dem Relativitätsprinzip nicht vereinbar. Wir <br/>sind also in unserem Falle offenbar genötigt, bei Einwirkung <br/>des Impulses in <span 
+class="cmmi-12">A </span>eine Zustandsänderung unbekannter Qualität <br/>im Körper anzunehmen, welche sich mit endlicher Geschwindig-<br/>keit in demselben ausbreitet und in kurzer Zeit eine Beschleu-<br/>nigung des Körpers bewirkt, falls innerhalb dieser Zeit nicht noch <br/>andere Kräfte auf den Körper wirken, deren Wirkungen die der <br/>erstgenannten kompensieren. Wenn also die Relativitätselektro-<br/>dynamik richtig ist, sind wir noch weit davon entfernt, eine <br/>Dynamik der Paralleltranslation des starren Körpers zu besitzen.
+</p><!--l. 736--><p class="indent">   Wir wollen nuu zeigen, daß nicht nur die Annahme <br/><span 
+class="cmti-12">momentaner </span>Ausbreitung irgend einer Wirkung, sondern all-<br/>gemeiner jede Annahme von der Ausbreitung einer Wirkung <br/>mit Überlichtgeschwindigkeit mit der Relativitätstheorie nicht
+ <br/>vereinbar ist.
+</p><!--l. 742--><p class="indent">   Längs der <span 
+class="cmmi-12">x</span>-Achse eines Koordinatensystems (<span 
+class="cmmi-12">x, y, z</span>) er-<br/>strecke sich ein Materialstreifen, relativ zu welchem sich eine <br/>gewisse Wirkung mit der Geschwindigkeit <span 
+class="cmmi-12">W </span>fortzupflanzen <br/>vermöge, und es möge sowohl in <span 
+class="cmmi-12">x </span>= 0 (Punkt
+<span 
+class="cmmi-12">A</span>) als auch <br/>in <span 
+class="cmmi-12">x </span>= + <span 
+class="cmmi-12">l </span>(Punkt <span 
+class="cmmi-12">B</span>) sich je ein relativ zum Koordinaten-<br/>system (<span 
+class="cmmi-12">x, y, z</span>) ruhender Beobachter befinden. Der Beob-<br/>achter in <span 
+class="cmmi-12">A </span>sende vermittelst der oben genannten Wirkung <br/>Zeichen zu dem Beobachter in <span 
+class="cmmi-12">B</span>
+durch den Materialstreifen, <br/>welch letzterer nicht ruhe, sondern sich mit der Geschwindigkeit <br/><span 
+class="cmmi-12">v </span>( <span 
+class="cmmi-12">&lt; V </span>) in der negativen <span 
+class="cmmi-12">x</span>-Richtung bewege. Das Zeichen wird <br/>dann, wie aus <span 
+class="cmsy-10x-x-120">§ </span>5 (l. c.) hervorgeht, mit der Geschwindigkeit
+ <br/></p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0124x.png" alt="-W-----v--      W--v 1 -   V 2 " class="par-math-display"  /></center>
+<!--l. 755--><p class="nopar">
+</p><!--l. 759--><p class="noindent">von <span 
+class="cmmi-12">A </span>nach <span 
+class="cmmi-12">B </span>übertragen. Die Zeit <span 
+class="cmmi-12">T</span>, welche zwischen <br/>Zeichengebung in <span 
+class="cmmi-12">A </span>und Zeichenempfang in <span 
+class="cmmi-12">B </span>verstreicht, ist also <br/></p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0125x.png" alt="      1 -  W--v T =  l------V-2 .        W   - v " class="par-math-display"  /></center>
+<!--l. 767--><p class="nopar">
+</p><!--l. 771--><p class="noindent">Die Geschwindigkeit <span 
+class="cmmi-12">v </span>kann jeglichen Wert annehmen, der <br/>kleiner ist als
+<span 
+class="cmmi-12">V. </span>Wenn also <span 
+class="cmmi-12">W &gt; V </span>ist, wie wir ange-<br/>nommen haben, so kann man
+<span 
+class="cmmi-12">v </span>stets so wählen, daß <span 
+class="cmmi-12">T &lt; </span>0 <br/>ist. Dies Resultat besagt, daß wir einen Übertragungs-<br/><pb/>
+</p><!--l. 777--><p class="indent">
+
+</p><!--l. 778--><p class="noindent">mechanismus für möglich halten müßten, bei dessen Benutzung <br/>die erzielte Wirkung der (etwa von einem Willensakt begleiteten) <br/>Ursache <span 
+class="cmti-12">vorangeht. </span>Wenn dies Resultat auch, meiner Meinung <br/>nach, rein logisch genommen keinen Widerspruch enthält, so <br/>widerstreitet es doch so unbedingt dem Charakter unserer <br/>gesamten Erfahrung, daß durch dasselbe die Unmöglichkeit <br/>der Annahme
+<span 
+class="cmmi-12">W &gt; V </span>zur Genüge erwiesen ist.
+</p>
+<div class="center" >
+
+<!--l. 789--><p class="noindent">
+</p><!--l. 790--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>4.   Über die Energie eines Systems, welches aus einer Anzahl <br/>kräftefrei bewegter Massenpunkte besteht.</p></div>
+<!--l. 795--><p class="indent">   Betrachtet man den Ausdruck für die kinetische Energie <span 
+class="cmmi-12">k </span> <br/>eines mit der Geschwindigkeit <span 
+class="cmmi-12">v </span>bewegten Massenpunktes (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" /></span>)
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0126x.png" alt="          {        1          } k =  m V 2   V~ -------------- 1   ,                     (v--)2                1 -    V " class="par-math-display"  /></center>
+<!--l. 803--><p class="nopar">
+</p><!--l. 807--><p class="noindent">so fällt auf, daß dieser Ausdruck die Gestalt einer Differenz <br/>besitzt. Es ist nämlich
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0127x.png" alt="     ||                  ||v=v      ||                  || k =  |m V2  V~ ----1------|    .      ||            (v  )2||      |        1 -   V-  |                          v=0 " class="par-math-display"  /></center>
+<!--l. 815--><p class="nopar">
+</p><!--l. 819--><p class="noindent">Frägt man nicht speziell nach der kinetischen Energie, sondern <br/>nach der Energie <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span>
+des bewegten Massenpunktes schlechtweg, <br/>so ist <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /> </span>= <span 
+class="cmmi-12">k </span>+ konst. Während man nun in der klassischen <br/>Mechanik die willkürliche Konstante in dieser Gleichung am
+ <br/>bequemsten verschwinden läßt, erhält man in der Relativitäts-<br/>mechanik den einfachsten Ausdruck für <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span>, indem man den <br/>Nullpunkt der Energie so wählt, daß die Energie <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span><sub ><span 
+class="cmr-8">0</span></sub> für den <br/>ruhenden Massenpunkt <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" />V</span> <sup ><span 
+class="cmr-8">2</span></sup> gesetzt wird.<sup ><span 
+class="cmr-8">1</span></sup>) Man erhält dann
+</p>
+
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0128x.png" alt="         2-------1------- e  = m V   V~       ( v )2 .              1 -    --                     V " class="par-math-display"  /></center>
+<!--l. 834--><p class="nopar">
+</p><!--l. 838--><p class="noindent">An dieser Wahl des Nullpunktes der Energie werden wir im <br/>folgenden festhalten.
+</p><!--l. 841--><p class="noindent">----------
+</p><!--l. 843--><p class="indent">   1) Es ist zu beachten, daß die vereinfachende Festsetzung <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" />V</span> <sup ><span 
+class="cmr-8">2</span></sup>  = <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span><sub >
+<span 
+class="cmr-8">0</span></sub> <br/>zugleich der Ausdruck des Prinzipes der Äquivalenz von Masse und <br/>Energie ist, und daß im Falle des masselosen elektrisierten Körpers <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span><sub ><span 
+class="cmr-8">0</span></sub> <br/>nichts anderes ist als seine elektrostatische Energie. <pb/>
+</p><!--l. 852--><p class="indent">
+
+</p><!--l. 853--><p class="indent">   Wir führen nun wieder die zwei stets relativ zueinander <br/>bewegten Koordinatensysteme (<span 
+class="cmmi-12">x, y, z</span>) und (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-11.png" alt="j" class="cmmi-12x-x-11" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-10.png" alt="z" class="cmmi-12x-x-10" align="middle" /></span>) ein. Relativ <br/>zu (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-11.png" alt="j" class="cmmi-12x-x-11" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-10.png" alt="z" class="cmmi-12x-x-10" align="middle" /></span>) sei ein Massenpunkt <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" /> </span>mit der Geschwindigkeit <span 
+class="cmmi-12">w </span> <br/>bewegt in einer Richtung, welche mit der positiven <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /></span>-Achse <br/>den Winkel <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /> </span>bilde. Unter Benutzung der in <span 
+class="cmsy-10x-x-120">§ </span>5 (l. c.) her-<br/>geleiteten Beziehungen läßt sich leicht die Energie <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span>
+des Massen-<br/>punktes, bezogen auf das System (<span 
+class="cmmi-12">x, y, z</span>) bestimmen. Man
+ <br/>erhält
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0129x.png" alt="             1 + v-w-cos-f- e =  m V 2 V~ ---------V V~ -2-------.                   v2        w2             1  - --2   1 -  -2-                  V          V " class="par-math-display"  /></center>
+<!--l. 869--><p class="nopar">
+</p><!--l. 873--><p class="noindent">Sind mehrere Massenpunkte vorhanden, denen verschiedene <br/>Massen, Geschwindigkeiten und Bewegungsrichtungen zukommen, <br/>so erhalten wir für deren Gesamtenergie <span 
+class="cmmi-12">E </span>den Ausdruck
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0130x.png" alt="      ------1-------{  sum       2  ------1-------} E  =   V~  ----(----)2-      mV  .  V~ -----(---)2-          1 -   v-                   1 -   w-                V                          V 
+            v       {  sum     m w cos f   }     +  V~ ----(----)--       V~ -----(---)--  .               -v  2                w- 2          1-   V              1-    V " class="par-math-display"  /></center>
+<!--l. 889--><p class="nopar">
+</p><!--l. 893--><p class="noindent">Bis jetzt haben wir über den Bewegungszustand des Systems (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-11.png" alt="j" class="cmmi-12x-x-11" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-10.png" alt="z" class="cmmi-12x-x-10" align="middle" /></span>) <br/>relativ zu den bewegten Massen nichts festgesetzt. Wir können <br/>und wollen hierüber nun folgende, den Bewegungszustand von <br/>(<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-11.png" alt="j" class="cmmi-12x-x-11" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-10.png" alt="z" class="cmmi-12x-x-10" align="middle" /></span>) eindeutig bestimmende Bedingungen festsetzen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0131x.png" alt=" sum       m wq                sum       m wj     V~ -----(----)--=  0 ,        V~ ----(----)--0,       1 -   w-  2                 1-   -w  2             V                          V                sum  -----m-wz-----                   V~  ----(-w--)2-=  0 ,                     1 -   --                           V " class="par-math-display"  /></center>
+<!--l. 911--><p class="nopar">
+</p><!--l. 915--><p class="noindent">wobei <span 
+class="cmmi-12">w</span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi8-18.png" alt="q" class="cmmi-8x-x-18" align="middle" /></span></sub><span 
+class="cmmi-12">, w</span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi8-11.png" alt="j" class="cmmi-8x-x-11" align="middle" /></span></sub><span 
+class="cmmi-12">, w</span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi8-10.png" alt="z" class="cmmi-8x-x-10" align="middle" /></span></sub> die Komponenten von <span 
+class="cmmi-12">w </span>bezeichnen. Dieser <br/>Festsetzung entspricht in der klassischen Mechanik die Be-<br/>dingung, daß das Bewegungsmoment des Massensystems in <br/>bezug auf (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-11.png" alt="j" class="cmmi-12x-x-11" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-10.png" alt="z" class="cmmi-12x-x-10" align="middle" /></span>) verschwinde. Dann erhalten wir
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0132x.png" alt="     (                          )       s um 
+E  =       m V 2 .  V~ ---1-------  . V~ -----1-------,                          ( w )2           (  v )2                      1-    V-         1 -   V- " class="par-math-display"  /></center>
+<!--l. 927--><p class="nopar"> <pb/>
+</p><!--l. 934--><p class="indent">
+
+</p><!--l. 935--><p class="noindent">oder, indem man die Energie <span 
+class="cmmi-12">E</span><sub ><span 
+class="cmr-8">0</span></sub> des Systems relativ zum <br/>System (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-11.png" alt="j" class="cmmi-12x-x-11" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-10.png" alt="z" class="cmmi-12x-x-10" align="middle" /></span>) einführt:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0133x.png" alt="E  =  E0-.V 2 V~ ----1-------.       V 2           ( v- )2                 1 -   V " class="par-math-display"  /></center>
+<!--l. 942--><p class="nopar">
+</p><!--l. 946--><p class="noindent">Vergleicht man diesen Ausdruck mit dem für die Energie <br/>eines mit der Geschwindigkeit <span 
+class="cmmi-12">v </span>bewegten Massenpunktes
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0134x.png" alt="                1 e =  mV 2 V~ -----(----)--,                   -v  2             1 -   V " class="par-math-display"  /></center>
+<!--l. 954--><p class="nopar">
+</p><!--l. 958--><p class="noindent">so erhält man folgendes Resultat: In bezug auf die Abhängig-<br/>keit der Energie vom Bewegungszustand des Koordinaten-<br/>systems, auf welches die Vorgänge bezogen werden, läßt sich <br/>ein System gleichförmig bewegter Massenpunkte ersetzen durch <br/>einen einzigen Massenpunkt von der Masse
+<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" /> </span>= <span 
+class="cmmi-12">E</span><sub ><span 
+class="cmr-8">0</span></sub><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_01/fulltext/img/Einst_Ueber_de_1907_0135x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmr-8">2</span></sup><span 
+class="cmmi-12">.</span>
+</p><!--l. 967--><p class="indent">   Ein System bewegter Massenpunkte besitzt also -- als <br/>Ganzes genommen -- desto mehr Trägheit, je rascher die <br/>Massenpunkte relativ zueinander bewegt sind. Die Abhängig-<br/>keit ist wieder gegeben durch das in der Einleitung angegebene
+ <br/>Gesetz.
+</p><!--l. 973--><p class="indent">   Bern, Mai 1907. </p>
+<div class="center" >
+
+<!--l. 975--><p class="noindent">
+</p><!--l. 976--><p class="noindent">(Eingegangen 14. Mai 1907.)</p></div>
+<div class="center" >
+
+<!--l. 979--><p class="noindent">
+</p><!--l. 981--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

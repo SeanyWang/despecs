@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<archimedes xmlns:xlink="http://www.w3.org/1999/xlink" >      <info>
+        <author>Pseudo Euclid</author>
+        <title>de ponderoso et levi</title>
+        <date>1565</date>
+        <place>Venice</place>
+        <translator>Tartaglia</translator>
+        <lang>fr</lang>
+        <cvs_file>eucli_ponde_059_it_1565.xml</cvs_file>
+        <cvs_version></cvs_version>
+        <locator>059.xml</locator>
+</info>      <text>
+<pb xlink:href="059/01/001.jpg"></pb><front>
+
+<section><p type="head"><s id="id.000001">PARTICELLA DELLA COSA LEGGIERA,<lb></lb>ET GRAVE D&#039;EVCLIDE</s></p></section></front><body><chap><p type="main">
+<s id="id.000002">1 I CORPI vguali di grandezza ſono quelli, che riempieno i luoghi uguali.</s></p><p>
+<s id="id.000003">2 I corpi diuerſi di grandezza ſono quelli, che riempieno i luoghi non uguali.</s></p><p>
+<s id="id.000004">3 I corpi maggiori di grandezza ſi dicono quei, iquali ſono di luoghi piu amplo.</s></p><p>
+<s id="id.000005">4 I corpi uguali di potentia ſono quelli, i moti de iquali ſono uguali, per mezzo e di t<expan abbr="ẽ">em</expan><lb></lb>po e d&#039;aria, o d&#039;acqua ugali, &amp; per ſpatii uguali.</s></p><p>
+<s id="id.000006">5 I corpi diuerſi di potentia ſono, i moti d&#039;iquali ſono uguali a diuerſo tempo.</s></p><p>
+<s id="id.000007">6 De i corpi diuerſi di potentia, quello ſi dice il maggior di potentia, il quale mouendoſi<lb></lb>conſuma manco tempo. il menor di potentia è queſto, che conſuma piu tempo.</s></p><p>
+<s id="id.000008">7 I corpi della iſteſſa ſorte ſono quelli, che eſſendo uguali di grandezza ſono anco di<lb></lb>potentia.</s></p><p>
+<s id="id.000009">8 I corpi di diuerſa ſorte ſono quelli, iquali eſſendo di grandezza uguali, non ſono di po<lb></lb>tentia, benche ſi muouano per lo medeſimo mezo.</s></p><p>
+<s id="id.000010">9 De i corpi di diuerſa ſorte il piu potente ſi dice queſto, che è piu ſodo.</s></p><p type="head">
+<s id="id.000011"><emph type="italics"></emph>Theorema primo<emph.end type="italics"></emph.end></s></p><p type="main">
+<s id="id.000012">De i corpi de diuerſa di potentia quello, che per il maggior ſpatio ſi moue, ha piu pot<expan abbr="ẽ">en</expan>tia.</s></p><p>
+<s id="id.000013">Siano a. e .b. due corpi. </s>
+<s id="id.000014">Siano .g.d. &amp; e.f. due ſpatii .g.<lb></lb>d. il  maggior, per loqual lo a. ſi moue .e.f. il menor, per lo<lb></lb><figure id="id.059.01.001.1.jpg" xlink:href="059/01/001/1.jpg"></figure>qual il b. ſi moue. </s>
+<s id="id.000015">Riſecarto dal ſpatio di .g.d. il ſpatio di<lb></lb>g.r. di modo, che ſia al ſpatio di. e.f. uguale il ſpatio di .g.<lb></lb>r. il rimanente è chiaro da ſe.</s></p><p type="head">
+<s id="id.000016"><emph type="italics"></emph>Theorema ſecondo<emph.end type="italics"></emph.end></s></p><p type="main">
+<s id="id.000017">Se i corpi dell&#039;iſteſſa ſorte ſaranno tra ſe moltiplici, ſa<lb></lb>ranno parimente le loro potentie moltiplici.</s></p><p>
+<s id="id.000018">Sia il corpo .a.g. doppio al corpo .d. della medeſima ſorte, dico eſſer anco doppio di po<lb></lb>t<expan abbr="ẽ">en</expan>tia.</s>
+<s id="id.000019">Perciò del corpo .a.g. ſia la potentia .e.h. </s>
+<s id="id.000020">Del d. poi il c. &amp; a.g. ſecondo l&#039;ecceſſo del <lb></lb>moltiplice ſi parta in a,b. &amp; b,g. di maniera che la pot<expan abbr="ẽ">en</expan>tia<lb></lb><figure id="id.059.01.001.2.jpg" xlink:href="059/01/001/2.jpg"></figure>dell&#039;uno e del&#039;altro ſi ſia uguale alla potentia del copo di<lb></lb>eſſo d, laqual era c.</s>
+<s id="id.000021">Dapoi partimmo il corpo a,g, nelle par<lb></lb>ti, a,b. b,g, pari al corpo d. coſi partiamo la potentia .e,h.<lb></lb>nelle parti ,e,r, &amp; ,r,h, pari alla potentia del .c. egli è mani<lb></lb>feſto, che la potentia .e.h. riuſciſca doppia potentia.</s></p><p type="head">
+<s id="id.000022"><emph type="italics"></emph>Theorema terzo<emph.end type="italics"></emph.end></s></p><p type="main">
+<s id="id.000023">De i corpi dell&#039;iſteſſa ſorte è una  mediſima proportione<lb></lb>&amp; di grandezza e di potentia.</s></p><p>
+<s id="id.000024">Sia il corpo .a. doppio del corpo .b. della medeſima ſorte.<lb></lb><figure id="id.059.01.001.3.jpg" xlink:href="059/01/001/3.jpg"></figure>dico come il corpo .a. e al corpo .b. coſi il g. potentia del cor<lb></lb>po .a. ſia chiaro eſſer al .d. potentia del corpo .b. ſe al modo,<lb></lb>che partiamo i corpi, coſi partiamo parimente le potentie<lb></lb>molticheuolmente dall&#039;una e dall&#039;altra parte.</s></p><p type="head">
+<s id="id.000025"><emph type="italics"></emph>Theorema quarto<emph.end type="italics"></emph.end></s></p><p type="main">
+<s id="id.000026">I corpi ſono dell&#039;iſteſſa ſorte tra di ſe, iquali ſono di par <lb></lb>pot<expan abbr="ẽ">en</expan>tia el corpo della medeſima ſorte, perche tolte le ugua<lb></lb>lità a quel terzo ſaranno le virtù loro pari percioche ſono <lb></lb>uguali le potentie del terzo.</s></p><p>
+<s id="id.000027">Saranno i corpi della ſorte medeſima, de iquali e una proportione &amp; grandezza, &amp; <lb></lb>di potentia, </s>
+<s id="id.000028">Se come  il corpo .a. al corpo .b. coſi la potentia del corpo ,a, al d, potentia del <lb></lb>corpo ,b, dico i corpi .a. b. eſſere dell&#039;iſteſſa ſorte, percioche poniamo il corpo ,a, ugual al <lb></lb>corpo, la potentia del qual ſia lo .r. </s>
+<s id="id.000029">Saranno adonque come il b. allo .a. coſi lo .r. alla poten<lb></lb>tia di eſſo .a. laquale e il g. </s>
+<s id="id.000030">Il reſto e manifeſto.</s></p><p type="head">
+<s id="id.000031">IL FINE</s></p></chap></body></text></archimedes>

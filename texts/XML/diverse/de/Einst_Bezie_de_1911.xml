@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Bezie_de_1911.tex" /> 
+<meta name="date" content="2005-02-25 10:08:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Bezie_de_1911.css" /> 
+</head><body >
+
+<!--l. 15--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 16--><p class="noindent">
+</p><!--l. 17--><p class="noindent"><span 
+class="cmr-12">9. </span><span 
+class="cmbxti-10x-x-120">Eine Beziehung zwischen dem elastischen </span> <br/><span 
+class="cmbxti-10x-x-120">Verhalten</span>
+<span 
+class="cmbxti-10x-x-120">und der spezifischen W</span><span 
+class="cmbxti-10x-x-120">ärme bei festen </span> <br/><span 
+class="cmbxti-10x-x-120">K</span><span 
+class="cmbxti-10x-x-120">örpern mit</span>
+<span 
+class="cmbxti-10x-x-120">einatomigem Molek</span><span 
+class="cmbxti-10x-x-120">ül; </span> <br/><span 
+class="cmbxti-10x-x-120">von A. Einstein.</span></p></div>
+<div class="center" >
+
+<!--l. 23--><p class="noindent">
+</p><!--l. 24--><p class="noindent">--------</p></div>
+<!--l. 27--><p class="indent">   Mein Kollege, Hr. Prof. Zangger, machte mich auf eine <br/>wichtige Bemerkung aufmerksam, die Sutherland<sup ><span 
+class="cmr-7">1</span></sup>) neulich <br/>publizierte. Dieser stellte sich die Frage, ob die elastischen <br/>Kräfte fester Körper Kräfte derselben Art seien wie diejenigen <br/>Kräfte, welche die Träger der ultraroten Eigenschwingungen <br/>in ihre Ruhelage zurücktreiben, also deren Eigenfrequenzen <br/>bedingen. Er fand, daß diese Frage mit großer Wahrschein-<br/>lichkeit zu bejahen sei auf Grund folgender Tatsache: die <br/>ultraroten Eigenfrequenzen sind von derselben Größenordnung <br/>wie diejenigen Frequenzen, welche man anwenden mußte, um <br/>elastische Transversalschwingungen durch den Körper zu senden, <br/>deren halbe Wellenlänge gleich ist dem Abstand benachbarter
+ <br/>Moleküle des Körpers.
+</p><!--l. 43--><p class="indent">   Bei aller Wichtigkeit der Sutherlandschen Betrachtung <br/>ist es aber klar, daß man auf diesem Wege nicht mehr er-<br/>langen kann als eine rohe Größenordnungsbeziehung, und zwar <br/>insbesondere aus dem Grunde, weil anzunehmen ist, daß die <br/>bekannten ultraroten Eigenschwingungen in der Hauptsache <br/>als Schwingungen der verschieden geladenen Ionen eines Moleküls <br/>gegeneinander, die elastischen Schwingungen aber als Schwin-<br/>gungen der ganzen Moleküle gegeneinander aufzufassen sind. <br/>Es scheint mir deshalb, daß eine genauere Prüfung der Suther-<br/>landschen Idee nur bei Stoffen mit einatomigem Molekül <br/>möglich sei, denen nach der Erfahrung und nach dem theoreti-<br/>schen Bilde optisch nachweisbare Eigenschwingungen von der <br/>bekannten Art nicht zukommenen. Nach der von mir auf die <br/>----------
+</p><!--l. 61--><p class="indent">   1) W. Sutherland, Phil. Mag. (6) <span 
+class="cmbx-10">20</span>. p. 657. 1910. <pb/>
+</p><!--l. 67--><p class="indent">
+
+</p><!--l. 68--><p class="noindent">Planksche Theorie der Strahlung gegründete Theorie der <br/>spezifischen Wärme fester Körper<sup ><span 
+class="cmr-7">1</span></sup>) ist es aber möglich, die <br/>Eigenfrequenzen der einatomigen Körper, welche Träger der <br/>Wärme sind, aus der Abhängigkeit der spezifischen Wärme <br/>von der Temperatur zu ermitteln. Diese Eigenfrequenzen <br/>kann man benutzen, um die Sutherlandsche Auffassung zu <br/>prüfen, indem man diese Eigenfrequenzen mit jenen vergleicht, <br/>die sich aus der Elastizität ergeben. Eine Art, wie dies ge-<br/>schehen kann, ist im folgenden gegeben, und es sei gleich <br/>hier bemerkt, daß sich beim Silber auf dem angedeuteten <br/>Wege Sutherlands Auffassung von der Wesensgleichheit der
+ <br/>elastischen und der die Eigenfrequenz bestimmenden Kräfte <br/>befriedigend bestätigte.
+</p><!--l. 85--><p class="indent">   An eine <span 
+class="cmti-10">exakte </span>Berechnung der Eigenschwingungsfrequenzen <br/>aus den elastischen Konstanten ist vorläufig nicht zu denken. <br/>Wir bedienen uns vielmehr hier einer rohen, der in der voran-<br/>gehenden Arbeit benutzten ähnlichen Rechenmethode, die aber <br/>wohl im Wesentlichen das Richtige treffen dürfte.
+</p><!--l. 92--><p class="indent">   Wir denken uns zunächst die Moleküle der Substanz nach <br/>einem quadratischen Raumgitter angeordnet. Es hat dann <br/>jedes Molekül 26 Nachbarmoleküle, die allerdings nicht gleich <br/>weit von demselben entfernt sind. Wir werden aber so rechnen,
+ <br/>wie wenn diese 26 Nachbarmoleküle im Ruhestande alle gleich <br/>weit vom betrachteten Molekül entfernt wären.
+</p><!--l. 100--><p class="indent">   Wir haben nun irgend eine plausible, möglichst einfache <br/>Darstellung der Molekularkräfte zu wählen. Da führen wir <br/>zuerst die für das folgende fundamentale, in der vorangehenden <br/>Mitteilung für Flüssigkeiten erwiesene Voraussetzung ein, daß
+ <br/>jedes Molekül nur mit seinen Nachbarmolekülen, nicht aber <br/>mit entfernteren Molekülen in Wechselwirkung stehe. Zwei <br/>Nachbarmoleküle mögen eine Zentralkraft aufeinander ausüben, <br/>welche verschwindet, wenn der Abstand der Moleküle gleich <span 
+class="cmmi-10">d</span>
+ <br/>ist. Ist ihr Abstand gleich <span 
+class="cmmi-10">d </span><span 
+class="cmsy-10">- </span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmr10-1.png" alt="D" class="10x-x-1" />, so wirke eine Abstoßungs-<br/>kraft von der Größe
+<span 
+class="cmmi-10">a</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmr10-1.png" alt="D" class="10x-x-1" />.
+</p><!--l. 114--><p class="indent">   Nun berechnen wir die Kraft, welche die 26 Nachbar-<br/>moleküle der Verrückung eines Moleküls entgegensetzen. Dabei <br/>denken wir uns die 26 Nachbarmoleküle, statt auf einer Würfel-<br/>----------
+</p><!--l. 120--><p class="indent">   1) A. Einstein, Ann. d. Phys. <span 
+class="cmbx-10">22. </span>p. 180. 1907. <pb/>
+</p><!--l. 126--><p class="indent">
+
+</p><!--l. 127--><p class="noindent">oberfläche, auf einer Kugelfläche von gleich großem räumlichem <br/>Inhalt verteilt, deren Radius gleich <span 
+class="cmmi-10">d </span>zu wählen ist, so daß <br/>wir haben
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_19110x.png" alt="4  3       n- 3 d p  = 8 N , " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 134--><p class="nopar">
+</p><!--l. 138--><p class="noindent">wenn <span 
+class="cmmi-10">v </span>das Molekularvolumen der Substanz und <span 
+class="cmmi-10">N </span>die Zahl <br/>der Moleküle in einem Grammolekül bedeutet. Wir denken <br/>uns das im Mittelpunkt der Kugel liegende Molekül in be-<br/>liebiger Richtung um die gegen <span 
+class="cmmi-10">d </span>kleine Länge <span 
+class="cmmi-10">x </span>verschoben <br/>und berechnen die der Verschiebung entgegenwirkende Kraft <br/>so, wie wenn die Masse der 26 Moleküle gleichförmig über <br/>die Kugeloberfläche verteilt wäre. Auf dem vom Molekül aus <br/>gezogenen elementar kleinen körperlichen Winkel <span 
+class="cmmi-10">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmmi10-1f.png" alt="x" class="10x-x-1f" /></span>, dessen <br/>Achse mit der Richtung der Verschiebung <span 
+class="cmmi-10">x </span>den Winkel <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmmi10-23.png" alt="h" class="10x-x-23" /> </span> <br/>bilde, liegen dann 26<span 
+class="cmmi-10">.</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_19111x.png" alt="(dx /4p)"  class="left" align="middle" /> Moleküle, welche in Richtung <br/>der Verschiebung <span 
+class="cmmi-10">x </span>die Kraft
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_19112x.png" alt="  26 - 4p-dx.a .x cos h .cos h " class="par-math-display"  /></center>
+<!--l. 158--><p class="nopar">
+</p><!--l. 162--><p class="noindent">liefern. Durch Integration bekommen wir für die auf das <br/>verschobene Molekül wirkende Kraft den Wert
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_19113x.png" alt="-  26 ax.    3 " class="par-math-display"  /></center>
+<!--l. 168--><p class="nopar">
+</p><!--l. 172--><p class="indent">   Hieraus ergibt sich, wenn man hinzunimmt, daß <span 
+class="cmmi-10">M</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_19114x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-10">N </span> <br/>gleich ist der Masse eines Moleküls (<span 
+class="cmmi-10">M </span>= Molekulargewicht der <br/>Substanz), die Eigenfrequenz <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /> </span>und die dieser entsprechende <br/>Vakuumwellenlänge <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /> </span>des Moleküls. Es ist
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_19115x.png" alt="         V~ -------- n =  1--  26 a. N-      2p   3    M " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 184--><p class="nopar">
+</p><!--l. 188--><p class="noindent">und
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_19116x.png" alt="           V~ -3---M-- c  = 2p e   -- ---.             26 a N " class="math-display"  /></center></td><td width="5%">(2a)</td></tr></table>
+<!--l. 195--><p class="nopar">
+</p><!--l. 199--><p class="indent">   Wir berechnen nun auf Grund derselben Näherungs-<br/>annahmen den Kompressibilitätskoeffizienten der Substanz. Zu <br/>diesem Zwecke drücken wir die bei einer gleichmäßigen Kom-<br/>pression aufzuwendende Arbeit <span 
+class="cmmi-10">A </span>auf zwei verschiedene Arten <br/>aus und setzen beide Ausdrücke einander gleich.
+</p><!--l. 206--><p class="indent">   Es ist <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_19117x.png" alt="(a /2)"  class="left" align="middle" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmr10-1.png" alt="D" class="10x-x-1" /><sup ><span 
+class="cmr-7">2</span></sup> die für die Verkleinerung des Abstandes <br/>zweier benachbarter Moleküle um <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmr10-1.png" alt="D" class="10x-x-1" /> aufzuwendende Arbeit. <br/><pb/>
+</p><!--l. 213--><p class="indent">
+
+</p><!--l. 214--><p class="noindent">Da jedes Molekül 26 benachbarte Moleküle hat, so ist die <br/>zur Verkleinerung seines Abstandes von den Nachbarmolekülen <br/>aufzuwendende Arbeit 26<span 
+class="cmmi-10">.</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_19118x.png" alt="(a/2)"  class="left" align="middle" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmr10-1.png" alt="D" class="10x-x-1" /><sup ><span 
+class="cmr-7">2</span></sup> Da es in der Volumen-<br/>einheit <span 
+class="cmmi-10">N</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_19119x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /> </span>Moleküle gibt und jeder Term <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_191110x.png" alt="(a/2)"  class="left" align="middle" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmr10-1.png" alt="D" class="10x-x-1" /><sup ><span 
+class="cmr-7">2</span></sup> zu zwei
+ <br/>Molekülen gehört, erhält man
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_191111x.png" alt="     26   N-    2 A  =  4  . n aD  . " class="par-math-display"  /></center>
+<!--l. 231--><p class="nopar">
+</p><!--l. 235--><p class="indent">   Ist <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmmi10-1f.png" alt="x" class="10x-x-1f" /> </span>andererseits die Kompressibilität, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmr10-2.png" alt="Q" class="10x-x-2" /> die Kontraktion <br/>der Volumeneinheit, so ist <span 
+class="cmmi-10">A  </span>=  1<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_191112x.png" alt="/"  class="left" align="middle" /> 2<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmmi10-1f.png" alt="x" class="10x-x-1f" />.</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmr10-2.png" alt="Q" class="10x-x-2" /><sup ><span 
+class="cmr-7">2</span></sup><span 
+class="cmmi-10">, </span>oder, da <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmr10-2.png" alt="Q" class="10x-x-2" />  =  3<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmr10-1.png" alt="D" class="10x-x-1" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_191113x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-10">d </span>ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_191114x.png" alt="      9  D2 A  =  - ---2-.       2 x.d " class="par-math-display"  /></center>
+<!--l. 247--><p class="nopar">
+</p><!--l. 251--><p class="indent">   Durch gleichsetzen dieser beiden Werte für <span 
+class="cmmi-10">A </span>erhält man
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-5r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_191115x.png" alt="     18 ---v--- x =  26 a.d2.N . " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 257--><p class="nopar">
+</p><!--l. 261--><p class="indent">   Durch Eliminieren von <span 
+class="cmmi-10">a </span>und <span 
+class="cmmi-10">d </span>aus den Gleichungen (1), <br/>2a) und (3) erhält man
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_191116x.png" alt="         (  )1/3 c =  2 V~ p-  -6    -C1-M 1/3r1/6 V~ x = 1,08.103.M 1/3r1/6  V~ x        6  p     N /3 " class="par-math-display"  /></center>
+
+<!--l. 281--><p class="nopar">
+</p><!--l. 285--><p class="indent">   Die Formel setzt natürlich voraus, daß Polymerisation <br/>nicht stattfindet. Im folgenden sind die Eigenwellenlängen <br/>(als Maß für die Eigenfrequenzen) derjenigen Metalle nach <br/>dieser Formel berechnet, für welche Grüneisen<sup ><span 
+class="cmr-7">1</span></sup>) die kubische
+ <br/>Kompressibilität angegeben hat. Es ergibt sich<sup ><span 
+class="cmr-7">2</span></sup>):
+</p><!--l. 295--><p class="noindent"><!--tex4ht:inline--></p><div class="tabular"><table class="tabular" 
+cellspacing="0" cellpadding="0" rules="groups" 
+frame="border" id="TBL-1-" ><colgroup id="TBL-1-1g"><col 
+id="TBL-1-1" /></colgroup><colgroup id="TBL-1-2g"><col 
+id="TBL-1-2" /></colgroup><colgroup id="TBL-1-3g"><col 
+id="TBL-1-3" /></colgroup><colgroup id="TBL-1-4g"><col 
+id="TBL-1-4" /></colgroup><tr 
+class="hline"><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td></tr><tr 
+class="hline"><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td></tr><tr  
+ valign="baseline" id="TBL-1-1-"><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-1-1"  
+class="td11">             Stoff             </td><td  align="center" style="white-space:nowrap; text-align:center;" id="TBL-1-1-2"  
+class="td11">      <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" />.</span>10<sup ><span 
+class="cmr-7">4</span></sup>      </td><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-1-3"  
+class="td11">              Stoff          </td><td  align="right" style="white-space:nowrap; text-align:right;" id="TBL-1-1-4"  
+class="td11">       <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" />.</span>10<sup ><span 
+class="cmr-7">4</span></sup>      </td>
+</tr><tr 
+class="hline"><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td></tr><tr 
+class="hline"><td><hr /></td><td><hr /></td><td><hr /></td><td><hr /></td></tr><tr  
+ valign="baseline" id="TBL-1-2-"><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-2-1"  
+class="td11">                                 </td><td  align="center" style="white-space:nowrap; text-align:center;" id="TBL-1-2-2"  
+class="td11">                  </td><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-2-3"  
+class="td11">                               </td><td  align="right" style="white-space:nowrap; text-align:right;" id="TBL-1-2-4"  
+class="td11">                    </td>
+</tr><tr  
+ valign="baseline" id="TBL-1-3-"><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-3-1"  
+class="td11">Aluminium    .   .   .          </td><td  align="center" style="white-space:nowrap; text-align:center;" id="TBL-1-3-2"  
+class="td11">         45         </td><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-3-3"  
+class="td11">Palladium .   .   .   .        </td><td  align="right" style="white-space:nowrap; text-align:right;" id="TBL-1-3-4"  
+class="td11">         58         </td>
+</tr><tr  
+ valign="baseline" id="TBL-1-4-"><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-4-1"  
+class="td11">Kupfer   .   .   .   .   .          </td><td  align="center" style="white-space:nowrap; text-align:center;" id="TBL-1-4-2"  
+class="td11">         53         </td><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-4-3"  
+class="td11">Platin   .   .   .   .   .        </td><td  align="right" style="white-space:nowrap; text-align:right;" id="TBL-1-4-4"  
+class="td11">         66         </td>
+</tr><tr  
+ valign="baseline" id="TBL-1-5-"><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-5-1"  
+class="td11">Silber    .   .   .   .   .          </td><td  align="center" style="white-space:nowrap; text-align:center;" id="TBL-1-5-2"  
+class="td11">         73         </td><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-5-3"  
+class="td11">Kadmium .   .   .   .        </td><td  align="right" style="white-space:nowrap; text-align:right;" id="TBL-1-5-4"  
+class="td11">       115         </td>
+</tr><tr  
+ valign="baseline" id="TBL-1-6-"><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-6-1"  
+class="td11">Gold  .   .   .   .   .   .          </td><td  align="center" style="white-space:nowrap; text-align:center;" id="TBL-1-6-2"  
+class="td11">         79         </td><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-6-3"  
+class="td11">Zinn  .   .   .   .   .   .        </td><td  align="right" style="white-space:nowrap; text-align:right;" id="TBL-1-6-4"  
+class="td11">       102         </td>
+</tr><tr  
+ valign="baseline" id="TBL-1-7-"><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-7-1"  
+class="td11">Nickel    .   .   .   .   .         </td><td  align="center" style="white-space:nowrap; text-align:center;" id="TBL-1-7-2"  
+class="td11">         45         </td><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-7-3"  
+class="td11">Blei   .   .   .   .   .   .        </td><td  align="right" style="white-space:nowrap; text-align:right;" id="TBL-1-7-4"  
+class="td11">       135         </td>
+</tr><tr  
+ valign="baseline" id="TBL-1-8-"><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-8-1"  
+class="td11">Eisen     .   .   .   .   .         </td><td  align="center" style="white-space:nowrap; text-align:center;" id="TBL-1-8-2"  
+class="td11">         46         </td><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-8-3"  
+class="td11">Wismut .   .   .   .   .        </td><td  align="right" style="white-space:nowrap; text-align:right;" id="TBL-1-8-4"  
+class="td11">       168         </td>
+</tr><tr  
+ valign="baseline" id="TBL-1-9-"><td  align="left" style="white-space:nowrap; text-align:left;" id="TBL-1-9-1"  
+class="td11">                                    </td>
+   </tr></table></div>
+<!--l. 311--><p class="indent">   Nach der aus der Planckschen Strahlungstheorie ab-<br/>geleiteten Theorie der spezifischen Wärme soll letztere gegen <br/>----------
+</p><!--l. 316--><p class="indent">   1) E. Grüneisen, Ann. d. Phys. 25. p. 848. 1908.
+</p><!--l. 318--><p class="indent">   2) Die Temperaturabhängigkeit der kubischen Kompressibilität ist <br/>hierbei vernachlässigt. <pb/>
+</p><!--l. 325--><p class="indent">
+
+</p><!--l. 326--><p class="noindent">den Nullwert der absoluten Temperatur abfallen nach folgen-<br/>dem Gesetz:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_191117x.png" alt="          - -a (a )2           e T   -- C =  3 R (---a--T--)2            - T-           e     - 1 " class="par-math-display"  /></center>
+<!--l. 335--><p class="nopar">
+</p><!--l. 339--><p class="noindent">wobei <span 
+class="cmmi-10">C </span>die auf das Grammolekel bezogene spezifische Wärme <br/>bedeutet, und
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/Einst_Bezie_de_191118x.png" alt="h-n =  a =  h.e-  k          k.c " class="par-math-display"  /></center>
+<!--l. 346--><p class="nopar">
+</p><!--l. 350--><p class="noindent">gesetzt ist. Hierbei sind <span 
+class="cmmi-10">h </span>und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmmi10-1f.png" alt="x" class="10x-x-1f" /> </span>die Konstanten der Planck-<br/>schen Strahlungsformel. Man kann daher aus dem Verlauf <br/>der spezifischen Wärme <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /> </span>ein zweites Mal bestimmen. Der <br/>einzige, der oben angeführten Stoffe, dessen spezifische Wärme <br/>bei tiefen Temperaturen hinreichend genau bestimmt ist, ist <br/>das Silber. Für dieses fand Nernst<sup ><span 
+class="cmr-7">1</span></sup>)   <span 
+class="cmmi-10">a </span>= 162, woraus sich <br/><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" />.</span>10<sup ><span 
+class="cmr-7">4</span></sup> = 90 ergibt, während wir aus den elastischen Kon-<br/>stanten <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Bezie_de_1911/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" />.</span>10<sup ><span 
+class="cmr-7">4</span></sup> = 73 berechnet haben. Diese nahe Überein-<br/>stimmung ist wahrhaft überraschend. Eine noch exaktere <br/>Prüfung der Sutherlandschen Auffassung wird sich wohl <br/>nur dadurch erzielen lassen, daß man die molekulare Theorie <br/>der festen Körper vervollkommnet.
+</p><!--l. 366--><p class="noindent">----------
+</p><!--l. 369--><p class="indent">   1) Vgl. W. Nernst, Bulletin des Seances de la Société franç. de <br/>Phys. 1910. 1 fase.
+</p>
+<div class="center" >
+
+<!--l. 372--><p class="noindent">
+</p><!--l. 373--><p class="noindent">(Eingegangen 30. November 1910.)</p></div>
+<div class="center" >
+
+<!--l. 376--><p class="noindent">
+</p><!--l. 377--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Istdi_de_1905.tex" /> 
+<meta name="date" content="2005-02-25 10:08:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Istdi_de_1905.css" /> 
+</head><body >
+
+<!--l. 13--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 14--><p class="noindent">
+</p><!--l. 15--><p class="noindent"><span 
+class="cmr-12">13. </span><span 
+class="cmbxti-10x-x-120">Ist die Tr</span><span 
+class="cmbxti-10x-x-120">ägheit eines K</span><span 
+class="cmbxti-10x-x-120">örpers von seinem</span>
+ <br/><span 
+class="cmbxti-10x-x-120">Energieinhalt abh</span><span 
+class="cmbxti-10x-x-120">ängig? </span> <br/><span 
+class="cmbxti-10x-x-120">von A. Einstein.</span></p></div>
+<div class="center" >
+
+<!--l. 20--><p class="noindent">
+</p><!--l. 21--><p class="noindent">--------</p></div>
+<!--l. 24--><p class="indent">   Die Resultate einer jüngst in diesen Annalen von mir <br/>publizierten elektrodynamischen Untersuchung<sup ><span 
+class="cmr-7">1</span></sup>) führen zu einer <br/>sehr interessanten Folgerung, die hier abgeleitet werden soll.
+</p><!--l. 29--><p class="indent">   Ich legte dort die Maxwell-Hertzschen Gleichungen für <br/>den leeren Raum nebst dem Maxwellschen Ausdruck für die <br/>elektromagnetische Energie des Raumes zugrunde und außer-<br/>dem das Prinzip:
+</p><!--l. 34--><p class="indent">   Die Gesetze, nach denen sich die Zustände der physi-<br/>kalischen Systeme ändern, sind unabhängig davon, auf welches <br/>von zwei relativ zueinander in gleichförmiger Parallel-Trans-<br/>lationsbewegung befindlichen Koordinatensystemen diese Zu-<br/>standsänderungen bezogen werden (Relativitätsprinzip).
+</p><!--l. 41--><p class="indent">   Gestützt auf diese Grundlagen<sup ><span 
+class="cmr-7">2</span></sup>) leitete ich unter anderem <br/>das nachfolgende Resultat ab (l. c. <span 
+class="cmsy-10">§ </span>8):
+</p><!--l. 44--><p class="indent">   Ein System von ebenen Lichtwellen besitze, auf das Ko-<br/>ordinatensystem (<span 
+class="cmmi-10">x</span>, <span 
+class="cmmi-10">y</span>, <span 
+class="cmmi-10">z</span>) bezogen, die Energie <span 
+class="cmmi-10">l</span>; die Strahl-<br/>richtung (Wellennormale) bilde den Winkel <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10x-x-27" align="middle" /> </span>mit der <span 
+class="cmti-10">x</span>-Achse <br/>des Systems. Führt man ein neues, gegen das System (<span 
+class="cmmi-10">x</span>, <span 
+class="cmmi-10">y</span>, <span 
+class="cmmi-10">z</span>) <br/>in gleichförmiger Paralleltranslation begriffenes Koordinaten-<br/>system (<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /></span>) ein, dessen Ursprung sich mit der Geschwindig-<br/>keit <span 
+class="cmmi-10">v </span>längs der <span 
+class="cmti-10">x</span>-Achse bewegt, so besitzt die genannte Licht-<br/>menge -- im System (<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /></span>) gemessen -- die Energie:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/Einst_Istdi_de_19050x.png" alt="     1- -vcosf l*= l V~ -V-(--)2,        1-  vV- " class="par-math-display"  /></center>
+<!--l. 56--><p class="nopar">
+</p><!--l. 60--><p class="noindent">wobei <span 
+class="cmmi-10">V </span>die Lichtgeschwindigkeit bedeutet. Von diesem Re-<br/>sultat machen wir im folgenden Gebrauch.
+</p><!--l. 63--><p class="noindent">----------
+</p><!--l. 66--><p class="indent">   1) A. Einstein, Ann. d. Phys. <span 
+class="cmbx-10">17. </span>p. 891. 1905.
+</p><!--l. 68--><p class="indent">   2) Das dort benutzte Prinzip der Konstanz der Lichtgeschwindig-<br/>keit ist natürlich in den Maxwellschen Gleichungen enthalten. <pb/>
+</p><!--l. 75--><p class="indent">
+
+</p><!--l. 76--><p class="indent">   Es befinde sich nun im System (<span 
+class="cmmi-10">x</span>, <span 
+class="cmmi-10">y</span>, <span 
+class="cmmi-10">z</span>) ein ruhender <br/>Körper, dessen Energie -- auf das System (<span 
+class="cmmi-10">x</span>, <span 
+class="cmmi-10">y</span>, <span 
+class="cmmi-10">z</span>) bezogen --<br/><span 
+class="cmmi-10">E</span><sub ><span 
+class="cmr-7">0</span></sub> sei. Relativ zu dem wie oben mit der Geschwindigkeit <span 
+class="cmmi-10">v </span> <br/>bewegten System (<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /></span>) sei die Energie des Körpers
+<span 
+class="cmmi-10">H</span><sub ><span 
+class="cmr-7">0</span></sub>.
+</p><!--l. 84--><p class="indent">   Dieser Körper sende in einer mit der <span 
+class="cmti-10">x</span>-Achse den <br/>Winkel <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10x-x-27" align="middle" /> </span>bildenden Richtung ebene Lichtwellen von der <br/>Energie <span 
+class="cmmi-10">L</span>/2 (relativ zu (<span 
+class="cmmi-10">x</span>, <span 
+class="cmmi-10">y</span>, <span 
+class="cmmi-10">z</span>) gemessen) und gleichzeitig eine <br/>gleich große Lichtmenge nach der entgegengesetzten Richtung. <br/>Hierbei bleibt der Körper in Ruhe in bezug auf das System <br/>(<span 
+class="cmmi-10">x</span>, <span 
+class="cmmi-10">y</span>, <span 
+class="cmmi-10">z</span>). Für diesen Vorgang muß das Energieprinzip gelten <br/>und zwar (nach dem Prinzip der Relativität) in bezug auf beide <br/>Koordinatensysteme. Nennen wir <span 
+class="cmmi-10">E</span><sub ><span 
+class="cmr-7">1</span></sub> bez. <span 
+class="cmmi-10">H</span><sub ><span 
+class="cmr-7">1</span></sub> die Energie des <br/>Körpers nach der Lichtaussendung relativ zum System (<span 
+class="cmmi-10">x</span>, <span 
+class="cmmi-10">y</span>, <span 
+class="cmmi-10">z</span>) <br/>bez. (<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /></span>) gemessen, so erhalten wir mit Benutzung der oben <br/>angegebenen Relation:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/Einst_Istdi_de_19051x.png" alt="          [      ]            L-  L- E0 = E1 +  2 + 2  ,           |_                           _| 
+H  = H  + |_  L-1 V~ --Vvcosf-+ L-1 V~ +-Vvcosf _| 
+ 0    1    2   1- (v)2   2   1- (v)2                    V             V                        = H1 +  V~ --L----.                                 1- (v)2                                     V " class="par-math-display"  /></center>
+<!--l. 114--><p class="nopar">
+</p><!--l. 117--><p class="noindent">Durch Subtraktion erhält man aus diesen Gleichungen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/Einst_Istdi_de_19052x.png" alt="                        {  V~ --1-----   } (H0 - E0)- (H1 - E1) = L       (v)2 - 1  .                            1 -  V " class="par-math-display"  /></center>
+<!--l. 123--><p class="nopar">
+</p><!--l. 126--><p class="noindent">Die beiden in diesem Ausdruck auftretenden Differenzen von <br/>der Form <span 
+class="cmmi-10">H </span><span 
+class="cmsy-10">-</span><span 
+class="cmmi-10">E </span>haben einfache physikalische Bedeutungen. <br/><span 
+class="cmmi-10">H </span>und <span 
+class="cmmi-10">E </span>sind Energiewerte desselben Körpers, bezogen auf <br/>zwei relativ zueinander bewegte Koordinatensysteme, wobei
+ <br/>der Körper in dem einen System (System (<span 
+class="cmmi-10">x</span>, <span 
+class="cmmi-10">y</span>, <span 
+class="cmmi-10">z</span>)) ruht. Es <br/>ist also klar, daß die Differenz <span 
+class="cmmi-10">H </span><span 
+class="cmsy-10">- </span><span 
+class="cmmi-10">E </span>sich von der kinetischen <br/>Energie <span 
+class="cmmi-10">K </span>des Körpers in bezug auf das andere System <br/>(System (<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /></span>)) nur durch eine additive Konstante <span 
+class="cmmi-10">C </span>unter-<br/>scheiden kann, welche von der Wahl der willkürlichen addi-<br/><pb/>
+</p><!--l. 143--><p class="indent">
+
+</p><!--l. 144--><p class="noindent">tiven Konstanten der Energien <span 
+class="cmmi-10">H </span>und <span 
+class="cmmi-10">E </span>abhängt. Wir können <br/>also setzen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/Einst_Istdi_de_19053x.png" alt="H0 - E0 = K0 + C, H1 - E1 = K1 + C, " class="par-math-display"  /></center>
+<!--l. 153--><p class="nopar">
+</p><!--l. 157--><p class="noindent">da <span 
+class="cmmi-10">C </span>sich während der Lichtaussendung nicht ändert. Wir <br/>erhalten also:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/Einst_Istdi_de_19054x.png" alt="            {     1        } K0 - K1 = L    V~ ---(v)2-- 1  .                1 -  V- " class="par-math-display"  /></center>
+<!--l. 163--><p class="nopar">
+</p><!--l. 166--><p class="noindent">Die kinetische Energie des Körpers in bezug auf (<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /></span>) nimmt <br/>infolge der Lichtaussendung ab, und zwar um einen von den <br/>Qualitäten des Körpers unabhängigen Betrag. Die Differenz <br/><span 
+class="cmmi-10">K</span><sub ><span 
+class="cmr-7">0</span></sub> <span 
+class="cmsy-10">-</span><span 
+class="cmmi-10">K</span><sub ><span 
+class="cmr-7">1</span></sub> hängt ferner von der Geschwindigkeit ebenso ab wie <br/>die kinetische Energie des Elektrons (l. c. <span 
+class="cmsy-10">§ </span>10).
+</p><!--l. 172--><p class="indent">   Unter Vernachlässigung von Größen vierter und höherer <br/>Ordnung können wir setzen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Istdi_de_1905/fulltext/img/Einst_Istdi_de_19055x.png" alt="              2 K0 - K1 = L2-v-.           V  2 " class="par-math-display"  /></center>
+<!--l. 178--><p class="nopar">
+</p><!--l. 181--><p class="noindent">Aus dieser Gleichung folgt unmittelbar:
+</p><!--l. 184--><p class="indent">   Gibt ein Körper die Energie <span 
+class="cmmi-10">L </span>in Form von Strahlung <br/>ab, so verkleinert sich seine Masse um <span 
+class="cmmi-10">L</span>/<span 
+class="cmmi-10">V</span> <sup ><span 
+class="cmr-7">2</span></sup>. Hierbei ist es <br/>offenbar unwesentlich, daß die dem Körper entzogene Energie <br/>gerade in Energie der Strahlung übergeht, so daß wir zu der <br/>allgemeineren Folgerung geführt werden:
+</p><!--l. 191--><p class="indent">   Die Masse eines Körpers ist ein Maß für dessen Energie-<br/>inhalt; ändert sich die Energie um <span 
+class="cmmi-10">L</span>, so ändert sich die Masse <br/>in demselben Sinne um
+<span 
+class="cmmi-10">L</span>/9 . 10<sup ><span 
+class="cmr-7">20</span></sup>, wenn die Energie in Erg <br/>und die Masse in Grammen gemessen wird.
+</p><!--l. 195--><p class="indent">   Es ist nicht ausgeschlossen, daß bei Körpern, deren <br/>Energieinhalt in hohem Maße veränderlich ist (z. B. bei den <br/>Radiumsalzen), eine Prüfung der Theorie gelingen wird.
+</p><!--l. 200--><p class="indent">   Wenn die Theorie den Tatsachen entspricht, so überträgt <br/>die Strahlung trägheit zwischen den emittierenden und absor-<br/>bierenden Körpern.
+</p><!--l. 204--><p class="indent">   Bern, September 1905.
+</p>
+
+<div class="center" >
+
+<!--l. 206--><p class="noindent">
+</p><!--l. 207--><p class="noindent">(Eingegangen 27. September 1905.)</p></div>
+<div class="center" >
+
+<!--l. 210--><p class="noindent">
+</p><!--l. 211--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

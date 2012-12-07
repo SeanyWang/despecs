@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Ueber_de_1907_03.tex" /> 
+<meta name="date" content="2005-02-25 10:11:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Ueber_de_1907_03.css" /> 
+</head><body >
+
+<!--l. 12--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 13--><p class="noindent">
+</p><!--l. 14--><p class="noindent"><span 
+class="cmr-12">10. </span><span 
+class="cmbxti-10x-x-120">Über die G</span><span 
+class="cmbxti-10x-x-120">ültigkeitsgrenze des Satzes </span> <br/><span 
+class="cmbxti-10x-x-120">vom</span>
+<span 
+class="cmbxti-10x-x-120">thermodynamischen Gleichgewicht und </span><span 
+class="cmbxti-10x-x-120">über </span> <br/><span 
+class="cmbxti-10x-x-120">die</span>
+<span 
+class="cmbxti-10x-x-120">M</span><span 
+class="cmbxti-10x-x-120">öglichkeit einer neuen Bestimmung der</span>
+ <br/><span 
+class="cmbxti-10x-x-120">Elementarquanta; von A. Einstein.</span></p></div>
+<div class="center" >
+
+<!--l. 21--><p class="noindent">
+</p><!--l. 22--><p class="noindent">----------</p></div>
+<!--l. 25--><p class="indent">   Der Zustand eines physikalischen Systems sei im Sinne <br/>der Thermodynamik bestimmt durch die Parameter <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-16.png" alt="m" class="cmmi-10x-x-16" align="middle" /> </span>etc. <br/>(z. B. Anzeige eines Thermometers, Länge oder Volumen eines <br/>Körpers, Substanzmenge einer gewissen Art in einer Phase). <br/>Ist das System mit anderen Systemen nicht in Wechselwirkung, <br/>was wir annehmen, so wird nach der Tkermodynamik Gleich-<br/>gewicht bei bestimmten Werten <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /></span><sub ><span 
+class="cmr-7">0</span></sub>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-16.png" alt="m" class="cmmi-10x-x-16" align="middle" /></span><sub ><span 
+class="cmr-7">0</span></sub> etc. der Parameter statt-<br/>haben, für welche Werte die Entropie <span 
+class="cmmi-10">S </span>des Systems ein
+ <br/>Maximum ist. Nach der molekularen Theorie der Wärme <br/>jedoch ist dies nicht genau, sondern nur angenähert richtig; <br/>nach dieser Theorie besitzt der Parameter <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /> </span>auch bei Tem-<br/>peraturgleichgewicht keinen konstanten Wert, sondern einen <br/>unregelmäßig schwankenden, der sich von <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /></span><sub ><span 
+class="cmr-7">0</span></sub> allerdings nur <br/>äußerst selten beträchtlich entfernt.
+</p><!--l. 43--><p class="indent">   Die theoretische Untersuchung des statistischen Gesetzes, <br/>welchem diese Schwankungen unterworfen sind, scheint auf <br/>den ersten Blick bestimmte Festsetzungen in betreff des an-<br/>zuwendenden molekularen Bildes zu erfordern. Dies ist jedoch <br/>nicht der Fall. Es genügt vielmehr im wesentlichen, die <br/>bekannte Boltzmannsche Beziehung anzuwenden, welche die <br/>Entropie <span 
+class="cmmi-10">S </span>mit der statistischen Wahrscheinlichkeit eines Zu-<br/>standes verbindet. Diese Beziehung lautet bekanntlich
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_030x.png" alt="    R S = N- lg W, " class="par-math-display"  /></center>
+<!--l. 56--><p class="nopar">
+</p><!--l. 60--><p class="noindent">wobei <span 
+class="cmmi-10">R </span>die Konstante der Gasgleichung und <span 
+class="cmmi-10">N </span>die Anzahl <br/>der Moleküle in einem Grammäquivalent bedeutet.
+</p><!--l. 64--><p class="indent">   Wir fassen einen Zustand des Systems ins Auge, in <br/>welchem der Parameter <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /> </span>den von <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /></span><sub ><span 
+class="cmr-7">0</span></sub> sehr wenig abweichenden <br/>Wert <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /></span><sub ><span 
+class="cmr-7">0</span></sub> + <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>besitzt. Um den Parameter <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /> </span>auf umkehrbarem <br/>Wege vom Werte <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /></span><sub ><span 
+class="cmr-7">0</span></sub> zum Werte <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /> </span>bei konstanter Energie <span 
+class="cmmi-10">E</span>
+ <br/><pb/>
+</p><!--l. 73--><p class="indent">
+
+</p><!--l. 74--><p class="noindent">zu bringen, wird man eine Arbeit <span 
+class="cmmi-10">A </span>dem System zuführen und <br/>die entsprechende Wärmemenge dem System entziehen müssen. <br/>Nach thermodynamischen Beziehungen ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_031x.png" alt="    integral        integral 
+
+A =   dE -   T dS, " class="par-math-display"  /></center>
+<!--l. 82--><p class="nopar">
+</p><!--l. 86--><p class="noindent">oder, da die betrachtete Änderung unendlich klein und <br/><span 
+class="cmex-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmex10-52.png" alt=" integral " class="cmex-10x-x-52" align="middle" /></span>
+ <span 
+class="cmmi-10">dE</span> = 0 ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_032x.png" alt="A = - T (S - S0). " class="par-math-display"  /></center>
+<!--l. 92--><p class="nopar">
+</p><!--l. 95--><p class="noindent">Andererseits ist aber nach dem Zusammenhang zwischen <br/>Entropie und Zustandswahrscheinlichkeit:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_033x.png" alt="        R      ( W ) S -S0 = --  lg   ---  .         N       W0 " class="par-math-display"  /></center>
+<!--l. 102--><p class="nopar">
+</p><!--l. 105--><p class="noindent">Aus den beiden letzten Gleichungen folgt:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_034x.png" alt="     R-T-    W-- A = - N   lg W0 " class="par-math-display"  /></center>
+<!--l. 111--><p class="nopar">
+</p><!--l. 115--><p class="noindent">oder
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_035x.png" alt="         --N-A W  = W0 e R T . " class="par-math-display"  /></center>
+<!--l. 121--><p class="nopar">
+</p><!--l. 125--><p class="indent">   Dies Resultat insolviert eine gewisse Ungenauigkeit, indem <br/>man ja eigentlich nicht von der Wahrscheinlichkeit eines <span 
+class="cmti-10">Zu- </span> <br/><span 
+class="cmti-10">standes</span>, sondern nur von der Wahrscheinlichkeit eines Zustands-<br/><span 
+class="cmti-10">gebietes </span>reden kann. Schreiben wir statt der gefundenen
+ <br/>Gleichung
+</p>
+
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_036x.png" alt="d W = konst.e-NRT-Adc, " class="par-math-display"  /></center>
+<!--l. 135--><p class="nopar">
+</p><!--l. 139--><p class="noindent">so ist das letztere Gesetz ein exaktes. Die Willkür, welche <br/>darin liegt, daß wir das Differential von <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /> </span>und nicht das <br/>Differential irgendeiner Funktion von <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /> </span>in die Gleichung ein-<br/>gesetzt haben, wird auf unser Resultat nicht von Einfluß sein.
+</p><!--l. 145--><p class="indent">   Wir setzen nun <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /> </span>= <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /></span><sub ><span 
+class="cmr-7">0</span></sub> + <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>und beschränken uns auf den <br/>Fall, daß <span 
+class="cmmi-10">A</span>
+nach positiven Potenzen von <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>entwickelbar ist, <br/>und daß nur das erste nicht verschwindende Glied dieser Ent-<br/>wickelung zum Werte des Exponenten merklich beiträgt bei <br/>solchen Werten von <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /></span>, für welche die Exponentialfunktion noch <br/>merklich von Null verschieden ist. Wir setzen also <span 
+class="cmmi-10">A </span>= <span 
+class="cmmi-10">a<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /></span><sup ><span 
+class="cmr-7">2</span></sup> <br/>und erhalten:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_037x.png" alt="                  2 dW  = konst. e- NRTae de. " class="par-math-display"  /></center>
+<!--l. 158--><p class="nopar"> <pb/>
+</p><!--l. 165--><p class="indent">
+
+</p><!--l. 166--><p class="indent">   Es gilt also in diesem Falle für die Abweichungen <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>das <br/>Gesetz der zufälligen Fehler. Für den Mittelwert der Arbeit <span 
+class="cmmi-10">A </span> <br/>erhält man den Wert:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_038x.png" alt="    1 R- A = 2 NT . " class="par-math-display"  /></center>
+<!--l. 173--><p class="nopar">
+</p><!--l. 177--><p class="indent">   Das Quadrat der Schwankung <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>eines Parameters <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /> </span>ist <br/>also im Mittel so groß, daß die äußere Arbeit <span 
+class="cmmi-10">A</span>, welche man <br/>bei strenger Gültigkeit der Thermodynamik anwenden müßte, <br/>um den Parameter <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /> </span>bei konstanter Energie des Systems <br/>von <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /></span><sub ><span 
+class="cmr-7">0</span></sub>
+auf <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /></span><sup ><span 
+class="cmr-7">0</span></sup> + <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_039x.png" alt=" V~ --   e2"  class="sqrt"  /> zu verändern, gleich <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_0310x.png" alt="1 2"  class="frac" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_0311x.png" alt="-R N"  class="frac" align="middle" /><span 
+class="cmmi-10">T </span>ist (also gleich <br/>dem dritten Teil der mittleren kinetischen Energie eines Atoms).
+</p><!--l. 188--><p class="indent">   Führt man für <span 
+class="cmmi-10">R </span>und <span 
+class="cmmi-10">N </span>die Zahlenwerte ein, so erhält <br/>man angenähert:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_0312x.png" alt="A = 10-16T. " class="par-math-display"  /></center>
+<!--l. 194--><p class="nopar">
+</p>
+<div class="center" >
+
+<!--l. 198--><p class="noindent">
+</p><!--l. 199--><p class="noindent">----------</p></div>
+<!--l. 202--><p class="indent">   Wir wollen nun das gefundene Resultat auf einen kurz ge-<br/>schlossenen Kondensator von der (elektrostatisch gemessenen) <br/>Kapazität <span 
+class="cmmi-10">c </span>anwenden. Ist <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_0313x.png" alt=" V~ --   p2"  class="sqrt"  /> die Spannung (elektrostatisch), <br/>welche der Kondensator im Mittel infolge der molekularen <br/>Unordnung annimmt, so ist
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_0314x.png" alt="A =  1c p2 = 10-16T.      2 " class="par-math-display"  /></center>
+<!--l. 212--><p class="nopar">
+</p><!--l. 215--><p class="noindent">Wir nehmen an, der Kondensator sei ein Luftkondensator <br/>und er bestehe aus zwei ineinandergeschobenen Plattensystemen <br/>von je 30 Platten. Jede Platte habe von den benachbarten <br/>des anderen Systems im Mittel den Abstand 1 mm. Die Größe <br/>der Platten sei 100 cm<sup ><span 
+class="cmr-7">2</span></sup>. Die Kapazität <span 
+class="cmmi-10">c </span>ist dann ca. 5000. <br/>Für gewöhnliche Temperatur erhält man dann
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_0315x.png" alt=" V~ -----   -2---        -9   pstat. = 3,4.10 . " class="par-math-display"  /></center>
+<!--l. 227--><p class="nopar">
+</p><!--l. 229--><p class="noindent">In Volt gemessen erhält man
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_0316x.png" alt=" V~ -2---    -6   pVolt = 10  . " class="par-math-display"  /></center>
+<!--l. 235--><p class="nopar">
+</p><!--l. 239--><p class="indent">   Denkt man sich die beiden Plattensysteme relativ zu-<br/>einander beweglich, so daß sie vollständig auseinander ge-<br/>schoben werden können, so kann man erzielen, daß die Kapazität <br/>nach dem Auseinanderschieben von der Größenordnung 10 ist.
+ <br/><pb/>
+</p><!--l. 247--><p class="indent">
+
+</p><!--l. 248--><p class="noindent">Nennt man <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /> </span>die Potentialdifferenz, welche durch das Aus-<br/>einanderschieben aus <span 
+class="cmmi-10">p</span>
+entsteht, so hat man
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/Einst_Ueber_de_1907_0317x.png" alt=" V~ -2-   - 6 5000   p = 10  .  10  = 0,0005 Volt. " class="par-math-display"  /></center>
+<!--l. 256--><p class="nopar">
+</p><!--l. 260--><p class="indent">   Schließt man also den Kondensator bei zusammengescho-<br/>benen Plattensystemen kurz, und schiebt man dann, nachdem <br/>die Verbindung unterbrochen ist, die Plattensysteme ausein-<br/>ander, so erhält man zwischen den Plattensystemen Spannungs-<br/>differenzen von der Größenordnung eines halben Millivolt.
+</p><!--l. 267--><p class="indent">   Es scheint mir nicht ausgeschlossen zu sein, daß diese <br/>Spannungsdifferenzen der Messung zugänglich sind. Falls man <br/>nämlich Metallteile elektrisch verbinden und trennen kann, <br/>ohne daß hierbei noch andere <span 
+class="cmti-10">unregelm</span><span 
+class="cmti-10">ä</span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1907_03/fulltext/img/cmmi10-c.png" alt="b" class="cmmi-10x-x-c" align="middle" /></span><span 
+class="cmti-10">ige </span>Potentialdiffe-<br/>renzen von gleicher Größenordnung wie die soeben berechneten <br/>auftreten, so muß man durch Kombination des obigen Platten-<br/>kondensators mit einem Multiplikator zum Ziele gelangen <br/>können. Es wäre dann ein der Brownschen Bewegung ver-<br/>wandtes Phänomen auf dem Gebiete der Elektrizität gegeben, <br/>daß zur Ermittelung der Größe
+<span 
+class="cmmi-10">N </span>benutzt werden könnte.
+</p><!--l. 281--><p class="indent">   Bern, Dezember 1906.
+</p>
+<div class="center" >
+
+<!--l. 283--><p class="noindent">
+</p><!--l. 284--><p class="noindent">(Eingegangen 12. Dezember 1906.)</p></div>
+<div class="center" >
+
+<!--l. 288--><p class="noindent">
+</p><!--l. 289--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

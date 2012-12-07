@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Theor_de_1903.tex" /> 
+<meta name="date" content="2005-03-02 20:10:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Theor_de_1903.css" /> 
+</head><body >
+
+<!--l. 13--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 14--><p class="noindent">
+</p><!--l. 15--><p class="noindent"><span 
+class="cmr-12">9.</span><span 
+class="cmbxti-10x-x-120">Eine Theorie der Grundlagen der Thermo- </span> <br/><span 
+class="cmbxti-10x-x-120">dynamik;</span>
+<span 
+class="cmbxti-10x-x-120">von A. Einstein.</span></p></div>
+<div class="center" >
+
+<!--l. 19--><p class="noindent">
+</p><!--l. 20--><p class="noindent">--------</p></div>
+<!--l. 23--><p class="indent">   In einer neulich erschienenen Arbeit habe ich gezeigt, <br/>daß die Sätze vom Temperaturgleichgewicht und der Entropie-<br/>begriff mit Hülfe der kinetischen Theorie der Wärme her-<br/>geleitet werden können. Es drängt sich nun naturgemäß die <br/>Frage auf, ob die kinetische Theorie auch wirklich notwendig <br/>ist, um jene Fundamente der Wärmetheorie herleiten zu können, <br/>oder ob vielleicht bereits Voraussetzungen allgemeinerer Art <br/>dazu genügen können. Daß dieses letztere der Fall ist, und <br/>durch welche Art von Überlegungen man zum Ziele gelangen <br/>kann, soll in dieser Abhandlung gezeigt werden.
+</p>
+<div class="center" >
+
+<!--l. 36--><p class="noindent">
+</p><!--l. 37--><p class="noindent"><span 
+class="cmsy-10">§ </span>1.  Über eine allgemeine mathematische Darstellung der Vor-<br/>gänge in isolierten physikalischen Systemen.</p></div>
+<!--l. 41--><p class="indent">   Der Zustand irgend eines von uns betrachteten physi-<br/>kalischen Systems sei eindeutig bestimmt durch sehr viele (<span 
+class="cmmi-10">n</span>) <br/>skalare Größen <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">,  p</span><sub ><span 
+class="cmr-7">2</span></sub> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub>, welche wir Zustandsvariabeln <br/>nennen. Die Änderung des Systems in einem Zeitelement <span 
+class="cmmi-10">dt </span> <br/>ist dann durch die Änderungen <span 
+class="cmmi-10">dp</span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">,  dp</span><sub ><span 
+class="cmr-7">2</span></sub> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10">dp</span><sub ><span 
+class="cmmi-7">n</span></sub> bestimmt, <br/>welche die Zustandsvariabeln in jenem Zeitelement erleiden.
+</p><!--l. 47--><p class="indent">   Das System sei isoliert, d. h. das betrachtete System stehe <br/>mit anderen Systemen nicht in Wechselwirkung. Es ist dann <br/>klar, daß der Zustand des Systems in einem bestimmten Zeit-<br/>moment in eindeutiger Weise die Veränderung des Systems <br/>im nächsten Zeitelement <span 
+class="cmmi-10">dt</span>, d. h. die Größen <span 
+class="cmmi-10">dp</span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">, dp</span><sub ><span 
+class="cmr-7">2</span></sub> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10">dp</span><sub ><span 
+class="cmmi-7">n</span></sub> <br/>bestimmt. Diese Aussage ist gleichbedeutend mit einem System <br/>von Gleichungen von der Form:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_19030x.png" alt="dpi dt = fi (p1 ... pn) (i = 1 ... i = n), " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 57--><p class="nopar">
+</p><!--l. 61--><p class="noindent">wobei die <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10x-x-27" align="middle" /> </span>eindeutige Funktionen ihrer Argumente sind.
+</p><!--l. 63--><p class="indent">   Für ein solches System von linearen Differentialgleichungen <br/>existiert im allgemeinen keine Integralgleichung von der Form <br/>
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_19031x.png" alt="f (p1 ...pn) = knost., " class="par-math-display"  /></center>
+<!--l. 70--><p class="nopar"> <pb/>
+</p><!--l. 77--><p class="indent">
+
+</p><!--l. 78--><p class="noindent">welche die Zeit nicht explizite enthält. Für das Gleichungs-<br/>system aber, welches die Veränderungen eines nach außen <br/>abgeschlossenen, physikalischen Systems darstellt, müssen wir <br/>annehmen, daß mindestens eine solche Gleichung besteht, näm-<br/>lich die Energiegleichung:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_19032x.png" alt="E(p1 ...pn) = knost. " class="par-math-display"  /></center>
+<!--l. 88--><p class="nopar">
+</p><!--l. 91--><p class="noindent">Wir nehmen zugleich an, daß keine weitere, von dieser unab-<br/>hängige Integralgleichung solcher Art vorhanden sei.
+</p>
+<div class="center" >
+
+<!--l. 96--><p class="noindent">
+</p><!--l. 97--><p class="noindent"><span 
+class="cmsy-10">§ </span>2.  Über die stationäre Zustandsverteilung unendlich vieler <br/>isolierter physikalischer Systeme, welche nahezu gleiche Energie <br/>besitzen.</p></div>
+<!--l. 101--><p class="indent">   Die Erfahrung zeigt, daß ein isoliertes physikalisches <br/>System nach einer gewissen Zeit einen Zustand annimmt, in <br/>welchem sich keine wahrnehmbare Größe des Systems mehr <br/>mit der Zeit ändert; wir nennen diesen Zustand den stationären. <br/>Es wird also offenbar nötig sein, daß die Funktionen <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10x-x-27" align="middle" /></span><sub ><span 
+class="cmmi-7">i</span></sub> eine <br/>gewisse Bedingung erfüllen, damit die Gleichungen (1) ein <br/>solches physikalisches System darstellen können.
+</p><!--l. 111--><p class="indent">   Nehmen wir nun an, daß eine wahrnehmbare Größe stets <br/>durch einen zeitlichen Mittelwert einer gewissen Funktion der <br/>Zustandsvariabeln <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span></sub> <span 
+class="cmmi-10">...</span><span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub> bestimmt sei, und daß diese Zu-<br/>standsvariabeln <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span></sub> <span 
+class="cmmi-10">...</span><span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub> immer wieder dieselben Wertsysteme <br/>mit stets gleichbleibender Häufigkeit annehmen, so folgt aus <br/>dieser Bedingung, welche wir zur Voraussetzung erheben wollen, <br/>mit Notwendigkeit die Konstanz der Mittelwerte aller Funk-<br/>tionen der Größen <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span></sub> <span 
+class="cmmi-10">...</span><span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub>; nach dem obigen also auch die <br/>Konstanz jeder wahrnehmbaren Größe.
+</p><!--l. 123--><p class="indent">   Diese Voraussetzung wollen wir genau präzisieren. Wir <br/>betrachten ein physikalisches System, welches durch die Glei-<br/>chungen (1) dargestellt und dessen Energie <span 
+class="cmmi-10">E </span>sei, von einem <br/>beliebigen Zeitpunkte an die Zeit <span 
+class="cmmi-10">T </span>hindurch. Denken wir
+ <br/>uns ein beliebiges Gebiet <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-0.png" alt="G" class="10x-x-0" /> der Zustandsvariabeln <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span></sub> <span 
+class="cmmi-10">...</span><span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub> <br/>gewählt, so werden in einem bestimmten Zeitpunkt der Zeit <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-0.png" alt="G" class="10x-x-0" /> <br/>die Werte der Variabeln <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span></sub> <span 
+class="cmmi-10">...</span><span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub> in diesem Gebiete <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-0.png" alt="G" class="10x-x-0" /> ge-<br/>legen sein, oder sie liegen außerhalb desselben; sie werden <br/>also während eines Bruchteiles der Zeit <span 
+class="cmmi-10">T</span>, welchen wir <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /> </span> <br/>nennen wollen, in dem gewählten Gebiete
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-0.png" alt="G" class="10x-x-0" /> liegen. Unsere <br/>Bedingung lautet dann folgendermaßen: Wenn <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span></sub> <span 
+class="cmmi-10">...</span><span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub> Zu-<br/><pb/>
+</p><!--l. 141--><p class="indent">
+
+</p><!--l. 142--><p class="noindent">standsvariable eines physikalischen Systems sind, also eines <br/>Systems, welches einen stationären Zustand annimmt, so be-<br/>sitzt die Größe <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_19033x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-10">T </span>für <span 
+class="cmmi-10">T </span>= <span 
+class="cmsy-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmsy10-31.png" alt=" oo " class="10x-x-31" /> </span>für jedes Gebiet <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-0.png" alt="G" class="10x-x-0" /> einen be-<br/>stimmten Grenzwert. Dieser Grenzwert ist für jedes unend-<br/>lich kleine Gebiet unendlich klein.
+</p><!--l. 148--><p class="indent">   Auf diese Voraussetzung kann man folgende Betrachtung <br/>gründen. Seien sehr viele (<span 
+class="cmmi-10">N</span>) unabhängige physikalische <br/>Systeme vorhanden, welche sämtlich durch das nämliche Glei-<br/>chungssystem (1) dargestellt seien. Wir greifen einen beliebigen <br/>Zeitpunkt <span 
+class="cmmi-10">t </span>heraus und fragen nach der Verteilung der mög-<br/>lichen Zustände unter diesen <span 
+class="cmmi-10">N </span>Systemen, unter der Voraus-<br/>setzung, daß die Energie <span 
+class="cmmi-10">E </span>aller Systeme zwischen <span 
+class="cmmi-10">E</span><sup ><span 
+class="cmsy-7">*</span></sup> und <br/>dem unendlich benachbarten Werte <span 
+class="cmmi-10">E</span><sup ><span 
+class="cmsy-7">*</span></sup> + <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-e.png" alt="d" class="10x-x-e" /> E</span><sup ><span 
+class="cmsy-7">*</span></sup> liege. Aus <br/>der oben eingeführten Voraussetzung folgt sofort, daß die <br/>Wahrscheinlichkeit dafür, daß die Zustandsvariabeln eines zu-<br/>fällig herausgegriffenen der <span 
+class="cmmi-10">N </span>Systeme in der Zeit <span 
+class="cmmi-10">t </span>innerhalb <br/>des Gebietes <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-0.png" alt="G" class="10x-x-0" /> liegen, den Wert
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_19034x.png" alt="lim  t- = knost. T= oo  T " class="par-math-display"  /></center>
+<!--l. 169--><p class="nopar">
+</p><!--l. 173--><p class="noindent">habe. Die Zahl der Systeme, deren Zustandsvariable in der <br/>Zeit <span 
+class="cmmi-10">t </span>innerhalb des Gebietes <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-0.png" alt="G" class="10x-x-0" /> liegen, ist also:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_19035x.png" alt="       t- N.Tli=mo o  T , " class="par-math-display"  /></center>
+<!--l. 180--><p class="nopar">
+</p><!--l. 184--><p class="noindent">also eine von der Zeit unabhängige Größe. Bezeichnet <span 
+class="cmmi-10">g </span>ein <br/>in allen Variabeln unendlich kleines Gebiet der Koordinaten <br/><span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span> </sub><span 
+class="cmmi-10">...</span><span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub>, so ist also die Anzahl der Systeme, deren Zustands-<br/>variable zu einer beliebigen Zeit das beliebig gewählte un-<br/>endlich kleine Gebiet <span 
+class="cmmi-10">g </span>erfüllen:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_19036x.png" alt="                  integral 
+d N = e(p1 ... pn) d p1 ... pn.                  g 
+" class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 195--><p class="nopar">
+</p><!--l. 199--><p class="indent">   Die Funktion <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>gewinnt man, indem man die Bedingung <br/>in Zeichen faßt, daß die durch die Gleichung (2) ausgedrückte <br/>Zustandsverteilung eine stationäre ist. Es sei im speziellen <br/>das Gebiet <span 
+class="cmmi-10">g </span>so gewählt, daß <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span></sub> zwischen den bestimmten <br/>Werten <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span></sub>
+und <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span> </sub> +  <span 
+class="cmmi-10">dp</span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">,  p</span><sub ><span 
+class="cmr-7">2</span></sub> zwischen <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">2</span></sub> und <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">2</span></sub> + <span 
+class="cmmi-10">dp</span><sub ><span 
+class="cmr-7">2</span></sub> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub> <br/>zwischen <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub> und <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub>  +  <span 
+class="cmmi-10">dp</span><sub ><span 
+class="cmmi-7">n</span></sub>
+gelegen ist, dann ist für die Zeit <span 
+class="cmti-10">t </span> <br/>
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_19037x.png" alt="dNt =  e(p1 ... pn) . dp1 .d p2 ... dpn, " class="par-math-display"  /></center>
+<!--l. 210--><p class="nopar"> <pb/>
+</p><!--l. 217--><p class="indent">
+
+</p><!--l. 218--><p class="noindent">wobei der Index von <span 
+class="cmmi-10">dN </span>die Zeit bezeichnet. Mit Berück-<br/>sichtigung der Gleichung (1) erhält man ferner für die Zeit <br/><span 
+class="cmmi-10">t </span>+  <span 
+class="cmmi-10">dt </span>und dasselbe Gebiet der Zustandsvariabeln
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_19038x.png" alt="                 n sum =n@ (e fn) dNt+dt =  dNt -     --@-pn-- .dp1 ... dpn.d t.                  n=1 " class="par-math-display"  /></center>
+<!--l. 228--><p class="nopar">
+</p><!--l. 231--><p class="noindent">Da aber <span 
+class="cmmi-10">dN</span><sub ><span 
+class="cmmi-7">t</span></sub> = <span 
+class="cmmi-10">dN</span><sub ><span 
+class="cmmi-7">t </span><span 
+class="cmr-7">+ </span><span 
+class="cmmi-7">dt</span></sub> ist, da die Verteilung eine stationäre <br/>ist, so ist
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_19039x.png" alt=" sum   @-(e-fn)-      @ pn   = 0. " class="par-math-display"  /></center>
+<!--l. 239--><p class="nopar">
+</p><!--l. 242--><p class="noindent">Daraus ergibt sich
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190310x.png" alt="   sum           sum                  sum 
+-     @-fn=     @-(log-e).fn =     @-(log-e).d-pn = d-(log-e),       @ fn         @ pn              @ pn    d t     d t " class="par-math-display"  /></center>
+<!--l. 252--><p class="nopar">
+</p><!--l. 256--><p class="noindent">wobei <span 
+class="cmmi-10">d</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190311x.png" alt="(log e)"  class="left" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190312x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-10">dt</span> die Veränderung der Funktion log <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>für ein <br/>einzelnes System nach der Zeit unter Berücksichtigung der <br/>zeitlichen Veränderung der Größen <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub>
+bezeichnet.
+</p><!--l. 261--><p class="indent">   Man erhält ferner:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190313x.png" alt="       integral  n= sum n@fn e = e-  dtn=1@pn+y(E) = e-m+y(E). " class="par-math-display"  /></center>
+<!--l. 266--><p class="nopar">
+</p><!--l. 268--><p class="noindent">Die unbekannte Funktion <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-20.png" alt="y" class="10x-x-20" /></span>; ist die von der Zeit unabhängige <br/>Integrationskonstante, welche von den Variabeln <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span></sub> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub> zwar <br/>abhängen, sie jedoch, nach der im <span 
+class="cmsy-10">§ </span>1 gemachten Voraus-<br/>setzung, nur in der Kombination, wie sie in der Energie <span 
+class="cmmi-10">E</span>
+ <br/>auftreten, enthalten kann.
+</p><!--l. 273--><p class="indent">   Da aber <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-20.png" alt="y" class="10x-x-20" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190314x.png" alt="(E)"  class="left" align="middle" /> = <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-20.png" alt="y" class="10x-x-20" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190315x.png" alt="(E*)"  class="left" align="middle" /> = konst. für alle <span 
+class="cmmi-10">N </span>betrachteten <br/>Systeme ist, reduziert sich für unseren Fall der Ausdruck <br/>für <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>auf:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190316x.png" alt="          -  integral  dtn= sum n @@fnp e = konst. e    n=1 n = konst. e-m. " class="par-math-display"  /></center>
+<!--l. 280--><p class="nopar">
+</p><!--l. 282--><p class="noindent">Nach dem obigen ist nun:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190317x.png" alt="            - m integral 
+dN = konst. e     dp1...dpn.                 g " class="par-math-display"  /></center>
+<!--l. 288--><p class="nopar"> <pb/>
+</p><!--l. 295--><p class="indent">
+
+</p><!--l. 296--><p class="indent">   Der Einfachheit halber führen wir nun neue Zustands-<br/>variabeln für die betrachteten Systeme ein; sie mögen mit <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> <br/>bezeichnet werden. Es ist dann:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190318x.png" alt="     ---e--m---  integral 
+dN =  D-(p1 ...pn)  dp1...dpn,       D (p1 ...pn)g " class="par-math-display"  /></center>
+<!--l. 303--><p class="nopar">
+</p><!--l. 307--><p class="noindent">wobei das Symbol <span 
+class="cmmi-10">D </span>die Funktionaldeterminante bedeutet. <br/>-- Wir wollen nun die neuen Koordinaten so wählen, daß
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190319x.png" alt="      D (p1 ...pn) e-m = D-(p-...p-)           1    n " class="par-math-display"  /></center>
+<!--l. 314--><p class="nopar">
+</p><!--l. 318--><p class="noindent">werde. Diese Gleichung läßt sich auf unendlich viele Arten <br/>befriedigen, z. B. wenn man setzt:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190320x.png" alt="p2 = p2         integral 
+p3 = p3   p1 =  e-m. dp1. . . .. pn = pn " class="par-math-display"  /></center>
+<!--l. 336--><p class="nopar">
+</p><!--l. 339--><p class="noindent">Wir erhalten also unter Benutzung der neuen Variabeln
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190321x.png" alt="            integral 
+dN = konst.  dp1... dpn. " class="par-math-display"  /></center>
+<!--l. 345--><p class="nopar">
+</p><!--l. 348--><p class="noindent">Im folgenden wollen wir uns stets solche Variabeln eingeführt <br/>denken.
+</p>
+<div class="center" >
+
+<!--l. 352--><p class="noindent">
+</p><!--l. 353--><p class="noindent"><span 
+class="cmsy-10">§ </span>3.  Über die Zustandsverteilung eines Systems, welches ein <br/>System von relativ unendlich großer Energie berührt.</p></div>
+
+<!--l. 357--><p class="indent">   Wir nehmen nun an, daß jedes der <span 
+class="cmmi-10">N </span>isolierten Systeme, <br/>aus zwei Teilsystemen <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" />
+und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span>, welche in Wechselwirkung <br/>stehen, zusammengesetzt sei. Der Zustand des Teilsystems <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /> <br/>möge durch die Werte der Variabeln <span 
+class="cmmi-10">II</span><sub ><span 
+class="cmr-7">1</span></sub> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10">II</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-15.png" alt="c" class="7x-x-15" /></span></sub>, der Zustand <br/>des Systems <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /> </span>durch die Werte der Variabeln <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span><sub ><span 
+class="cmr-7">1</span> </sub> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span><sub ><span 
+class="cmmi-7">l</span></sub> be-<br/>stimmt sein. Ferner setze sich die Energie <span 
+class="cmmi-10">E</span>, welche für <br/>jedes System zwischen den Werten <span 
+class="cmmi-10">E</span><sup ><span 
+class="cmsy-7">*</span></sup> und
+<span 
+class="cmmi-10">E</span><sup ><span 
+class="cmsy-7">*</span></sup> +  <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-e.png" alt="d" class="10x-x-e" /> E</span><sup ><span 
+class="cmsy-7">*</span></sup> liegen <br/>mag, also bis auf unendlich kleines gleich <span 
+class="cmmi-10">E</span><sup ><span 
+class="cmsy-7">*</span></sup> sein soll, bis <br/>auf unendlich kleines, aus zwei Termen zusammen, von denen <br/>der erste <span 
+class="cmmi-10">H </span>nur durch die Werte der Zustandsvariabeln von <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" />, <br/>der zweite <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /> </span>nur durch die der Zustandsvariabeln von <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /> </span>be-<br/>stimmt sei, sodaß bis auf relativ unendlich kleines gilt:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190322x.png" alt="E = H + j. " class="par-math-display"  /></center>
+<!--l. 371--><p class="nopar"> <pb/>
+</p><!--l. 378--><p class="indent">
+
+</p><!--l. 379--><p class="noindent">Zwei in Wechselwirkung stehende Systeme, welche diese Be-<br/>dingung erfüllen, nennen wir zwei sich berührende Systeme. <br/>Wir setzen noch voraus, daß <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /> </span>gegen <span 
+class="cmmi-10">H </span>unendlich klein sei.
+</p><!--l. 383--><p class="indent">   Für die Anzahl <span 
+class="cmmi-10">dN</span><sub ><span 
+class="cmr-7">1</span></sub> der <span 
+class="cmmi-10">N</span>-Systeme, deren Zustands-<br/>variabeln <span 
+class="cmmi-10">II</span><sub ><span 
+class="cmr-7">1</span></sub> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10">II</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-15.png" alt="c" class="7x-x-15" /></span></sub> und
+<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span><sub ><span 
+class="cmr-7">1</span></sub> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span><sub ><span 
+class="cmmi-7">l</span></sub> in den Grenzen zwischen <br/><span 
+class="cmti-10">II</span><sub ><span 
+class="cmr-7">1</span></sub> und <span 
+class="cmmi-10">II</span><sub ><span 
+class="cmr-7">1</span></sub> + <span 
+class="cmmi-10">dII</span><sub ><span 
+class="cmr-7">1</span></sub>, <span 
+class="cmti-10">II</span><sub ><span 
+class="cmr-7">2</span></sub> und <span 
+class="cmmi-10">II</span><sub ><span 
+class="cmr-7">2</span></sub> + <span 
+class="cmmi-10">dII</span><sub ><span 
+class="cmr-7">2</span></sub> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10">II</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-15.png" alt="c" class="7x-x-15" /></span></sub> und
+<span 
+class="cmmi-10">II</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-15.png" alt="c" class="7x-x-15" /></span></sub> + <span 
+class="cmmi-10">dII</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-15.png" alt="c" class="7x-x-15" /></span></sub> <br/>und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span><sub ><span 
+class="cmr-7">1</span></sub> und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span><sub ><span 
+class="cmr-7">1</span></sub> + <span 
+class="cmmi-10">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span><sub ><span 
+class="cmr-7">1</span></sub>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span><sub ><span 
+class="cmr-7">2</span></sub> und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span><sub ><span 
+class="cmr-7">2</span></sub> + <span 
+class="cmmi-10">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span><sub ><span 
+class="cmr-7">2</span></sub> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span><sub ><span 
+class="cmmi-7">l</span></sub> und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span><sub ><span 
+class="cmr-7">1</span></sub> + <span 
+class="cmmi-10">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span><sub ><span 
+class="cmmi-7">l</span></sub> <br/>liegen, ergibt sich der Ausdruck:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190323x.png" alt="dN1 = C .dII1 ... dIIc .d p1 ... dpl, " class="par-math-display"  /></center>
+<!--l. 393--><p class="nopar">
+</p><!--l. 397--><p class="noindent">wobei <span 
+class="cmmi-10">C </span>eine Funktion von <span 
+class="cmmi-10">E  </span>=  <span 
+class="cmmi-10">H </span>+  <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /> </span>sein kann.
+</p><!--l. 399--><p class="indent">   Da aber nach der obigen Annahme die Energie eines <br/>jeden betrachteten Systems bis auf unendlich kleines den <br/>Wert <span 
+class="cmmi-10">E</span><sup ><span 
+class="cmsy-7">*</span></sup> besitzt, so können wir, ohne an dem Resultat etwas <br/>zu ändern, <span 
+class="cmmi-10">C </span>durch konst. <span 
+class="cmmi-10">e</span><sup ><span 
+class="cmsy-7">-</span><span 
+class="cmr-7">2 </span><span 
+class="cmmi-7">h E</span><sup ><span 
+class="cmsy-5">*</span></sup>
+      </sup> = konst.<span 
+class="cmmi-10">e</span><sup ><span 
+class="cmsy-7">-</span><span 
+class="cmr-7">2 </span><span 
+class="cmmi-7">h </span><span 
+class="cmr-7">(</span><span 
+class="cmmi-7">H</span><span 
+class="cmr-7">+</span><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-11.png" alt="j" class="cmmi-7x-x-11" align="middle" /></span><span 
+class="cmr-7">)</span></sup> ersetzen, <br/>wobei <span 
+class="cmmi-10">h </span>eine noch näher zu definierende Konstante bedeutet. <br/>Der Ausdruck für <span 
+class="cmmi-10">dN</span><sub ><span 
+class="cmr-7">1</span></sub> geht also über in:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190324x.png" alt="d N1 = konst.e-2h(H +j).dII1 ... dIIc.dp1 ... d pl. " class="par-math-display"  /></center>
+<!--l. 410--><p class="nopar">
+</p><!--l. 414--><p class="indent">   Die Anzahl der Systeme, deren Zustandsvariabeln <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /> </span>zwischen <br/>den angedeuteten Grenzen liegen, während die Werte der <br/>Variabeln <span 
+class="cmti-10">II </span>keiner beschränkenden Bedingung unterworfen <br/>sind, wird sich also in der Form
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190325x.png" alt="                              integral 
+d N2 = konst.e-2hj.dp1 ... dpl   e-2hHd II1 ... dIIc " class="par-math-display"  /></center>
+<!--l. 423--><p class="nopar">
+</p><!--l. 427--><p class="noindent">darstellen lassen, wobei das Integral über alle Werte der <span 
+class="cmti-10">II </span> <br/>auszudehnen ist, denen Werte der Energie <span 
+class="cmmi-10">H </span>zukommen, welche <br/>zwischen <span 
+class="cmmi-10">E</span><sup ><span 
+class="cmsy-7">*</span></sup><span 
+class="cmsy-10">- </span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /> </span>und
+<span 
+class="cmmi-10">E</span><sup ><span 
+class="cmsy-7">*</span></sup> + <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-e.png" alt="d" class="10x-x-e" /> E</span><sup ><span 
+class="cmsy-7">*</span></sup><span 
+class="cmsy-10">- </span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /> </span>gelegen sind. Wäre die <br/>Integration ausgeführt, so hätten wir die Zustandsverteilung <br/>der Systeme <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /> </span>gefunden. Dies ist nun tatsächlich möglich.
+</p><!--l. 432--><p class="indent">   Wir setzen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190326x.png" alt=" integral 
+  e-2 h H         .d II1 ... d IIc = x (E), " class="par-math-display"  /></center>
+
+<!--l. 438--><p class="nopar">
+</p><!--l. 442--><p class="noindent">wobei die Integration auf der linken Seite über alle Werte <br/>der Variabeln zu erstrecken ist, für welche <span 
+class="cmmi-10">H </span>zwischen den be-<br/>stimmten Werten <span 
+class="cmmi-10">E </span>und <span 
+class="cmmi-10">E </span>+ <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-e.png" alt="d" class="10x-x-e" /> E</span><sup ><span 
+class="cmsy-7">*</span></sup>
+liegt. Das Integral, welches <br/>im Ausdruck <span 
+class="cmmi-10">dN</span><sub ><span 
+class="cmr-7">2</span></sub> auftritt, nimmt dann die Form an
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190327x.png" alt="x (E* - j), " class="par-math-display"  /></center>
+<!--l. 451--><p class="nopar">
+</p><!--l. 455--><p class="noindent">oder, da <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /> </span>gegen <span 
+class="cmmi-10">E</span><sup ><span 
+class="cmsy-7">*</span></sup> unendlich klein ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190328x.png" alt="x (E*) - x'(E*) .j . " class="par-math-display"  /></center>
+<!--l. 460--><p class="nopar"> <pb/>
+</p><!--l. 467--><p class="indent">
+
+</p><!--l. 468--><p class="indent">   Läßt sich also <span 
+class="cmmi-10">h </span>so wählen, daß <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1f.png" alt="x" class="10x-x-1f" /></span><span 
+class="cmsy-10">'</span>(<span 
+class="cmmi-10">E</span><sup ><span 
+class="cmsy-7">*</span></sup>) = 0, so reduziert <br/>sich das Integral auf eine vom Zustand von <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /> </span>unabhängige <br/>Größe.
+</p><!--l. 471--><p class="indent">   Es läßt sich bis auf unendlich kleines setzen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190329x.png" alt="              integral 
+        -2hE                   -2hE x(E) = e       dII1 ... dIIc = e   .w (E), " class="par-math-display"  /></center>
+<!--l. 477--><p class="nopar">
+</p><!--l. 481--><p class="noindent">wo die Grenzen der Integration gleich sind wie oben, und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-21.png" alt="w" class="10x-x-21" /> </span> <br/>eine neue Funktion von <span 
+class="cmmi-10">E</span>
+bedeutet.
+</p><!--l. 484--><p class="indent">   Die Bedingung für <span 
+class="cmmi-10">h </span>nimmt nun die Form an:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190330x.png" alt="              * x'(E*) = e-2hE .{w'(E*) - 2hw (E*)}= 0, " class="par-math-display"  /></center>
+<!--l. 490--><p class="nopar">
+</p><!--l. 494--><p class="noindent">folglich:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190331x.png" alt="     w'(E*) h = 12w-(E*)-. " class="par-math-display"  /></center>
+<!--l. 500--><p class="nopar">
+</p><!--l. 503--><p class="noindent">Es sei <span 
+class="cmmi-10">h </span>in dieser Weise gewählt, dann wird der Ausdruck <br/>für <span 
+class="cmmi-10">dN</span><sub ><span 
+class="cmr-7">2</span></sub> die Form annehmen:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190332x.png" alt="dN2 = konst. e-2 h jd p1 ... dpl. " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 511--><p class="nopar">
+</p><!--l. 514--><p class="noindent">Bei geeigneter Wahl der Konstanten stellt dieser Ausdruck <br/>die Wahrscheinlichkeit dafür dar, daß die Zustandsvariabeln <br/>eines Systems, welches ein anderes von relativ 
+unendlich großer <br/>Energie berührt, innerhalb der angedeuteten Grenzen liegen. <br/>Die Größe <span 
+class="cmmi-10">h </span>hängt dabei lediglich vom Zustande jenes Systems <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /> <br/>von relativ unendlich großer Energie ab.
+</p>
+<div class="center" >
+
+<!--l. 520--><p class="noindent">
+</p><!--l. 521--><p class="noindent"><span 
+class="cmsy-10">§ </span>4. Über absolute Temperatur und Wärmegleichgewicht.</p></div>
+<!--l. 524--><p class="indent">   Der Zustand des Systems <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /> </span>hängt also lediglich von der <br/>Größe <span 
+class="cmmi-10">h </span>ab, und diese lediglich vom Zustande des Systems <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" />. <br/>Wir nennen die Größe 1<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190333x.png" alt="/"  class="left" align="middle" /> 4<span 
+class="cmmi-10">hz </span>= <span 
+class="cmmi-10">T </span>die absolute Temperatur <br/>des Systems <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" />, wobei <span 
+class="cmmi-10">z </span>eine universelle Konstante bedeutet.
+</p><!--l. 529--><p class="indent">   Nennen wir das System <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /> </span>,,Thermometer&#8220;, so können wir <br/>sofort die Sätze aussprechen:
+</p><!--l. 531--><p class="indent">   1. Der Zustand des Thermometers hängt nur ab von der <br/>absoluten Temperatur des Systems <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" />, nicht aber von der Art <br/>der Berührung der Systeme <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /> und
+<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" />.</span>
+</p><!--l. 535--><p class="indent">   2. Erteilen zwei Systeme <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub> und <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">2</span></sub> einem Thermo-<br/>meter <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /> </span>gleichen Zustand im Falle der Berührung, so be-<br/>sitzen sie gleiche absolute Temperatur, und erteilen folglich <br/><pb/>
+</p><!--l. 540--><p class="indent">
+
+</p><!--l. 541--><p class="noindent">einem anderen Thermometer <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span><span 
+class="cmsy-10">' </span>im Falle der Berührung eben-<br/>falls gleichen Zustand.
+</p><!--l. 544--><p class="indent">   Seien ferner zwei Systeme <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub> und <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">2</span></sub> in Berührung mit-<br/>einander und <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub>
+außerdem in Berührung mit einem Thermo-<br/>meter <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span>. Es hängt dann die Zustandsverteilung von <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /> </span>ledig-<br/>lich von der Energie des Systems (<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub> + <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">2</span></sub>), bez. von der <br/>Größe <span 
+class="cmmi-10">h</span><sub ><span 
+class="cmr-7">1</span><span 
+class="cmmi-7">,</span><span 
+class="cmr-7">2</span></sub> ab. Denkt man sich die Wechselwirkung von <br/><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub> und <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">2</span></sub> unendlich langsam abnehmend, so ändert sich <br/>dadurch der Ausdruck für die Energie <span 
+class="cmmi-10">H</span><sub ><span 
+class="cmr-7">1</span><span 
+class="cmmi-7">,</span><span 
+class="cmr-7">2</span></sub> des Systems <br/>(<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub> + <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">2</span></sub>) nicht, wie leicht aus unserer Definition von der <br/>Berührung und dem im letzten Paragraphen aufgestellten Aus-<br/>druck für die Größe <span 
+class="cmmi-10">h</span>
+zu ersehen ist. Hat endlich die <br/>Wechselwirkung ganz aufgehört, so hängt die Zustandsver-<br/>teilung von <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span>, welche sich während der Trennung von <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub>
+und <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">2</span></sub> <br/>nicht ändert, nunmehr von <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub> ab, also von der Größe <span 
+class="cmmi-10">h</span><sub ><span 
+class="cmr-7">1</span></sub>; <br/>wobei der Index die Zugehörigkeit zum System <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub> allein an-<br/>deuten soll. Es ist also:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190334x.png" alt="h1 = h1 2. " class="par-math-display"  /></center>
+<!--l. 563--><p class="nopar">
+</p><!--l. 566--><p class="noindent">Durch eine analoge Schlußweise hätte man erhalten können:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190335x.png" alt="h2 = h1 2, " class="par-math-display"  /></center>
+<!--l. 573--><p class="nopar">
+</p><!--l. 577--><p class="noindent">also
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190336x.png" alt="h1 = h2, " class="par-math-display"  /></center>
+<!--l. 583--><p class="nopar">
+</p><!--l. 587--><p class="noindent">oder in Worten: Trennt man zwei sich berührende Systeme <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub> <br/>und <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">2</span></sub> welche ein isoliertes System (<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub> + <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">2</span></sub>) von der absoluten <br/>Temperatur <span 
+class="cmmi-10">T </span>bilden, so besitzen nach der Trennung die nun-<br/>mehrigen isolierten Systeme <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub> und <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">2</span></sub> gleiche Temperatur.
+ <br/>Wir denken uns ein gegebenes System mit einem idealen <br/>Gase in Berührung. Dieses Gas sei unter dem Bilde der <br/>kinetischen Gastheorie vollkommen darstellbar. Als System <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /> </span> <br/>betrachten wir ein einziges einatomiges Gasmolekül von der <br/>Masse <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-16.png" alt="m" class="cmmi-10x-x-16" align="middle" /></span>, dessen Zustand durch seine rechtwinkligen Koordi-<br/>naten <span 
+class="cmmi-10">x</span>, <span 
+class="cmmi-10">y</span>, <span 
+class="cmmi-10">z </span>und die Geschwindigkeiten <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /> </span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /> </span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /> </span>vollkommen <br/>bestimmt sei. Wir erhalten dann nach <span 
+class="cmsy-10">§ </span>3 für die Wahr-<br/>scheinlichkeit, daß die Zustandsvariabeln dieses Moleküles <br/>zwischen den Grenzen <span 
+class="cmmi-10">x </span>und <span 
+class="cmmi-10">x </span>+ <span 
+class="cmmi-10">dx</span> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /> </span>und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /> </span>+ <span 
+class="cmmi-10">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /> </span>liegen, <br/>den bekannten Maxwellschen Ausdruck:
+</p>
+   <center class="par-math-display" >
+
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190337x.png" alt="d W = konst.e- hm (q2+j2+z2).dx ... dz. " class="par-math-display"  /></center>
+<!--l. 604--><p class="nopar"> <pb/>
+</p><!--l. 611--><p class="indent">
+
+</p><!--l. 612--><p class="noindent">Daraus erhält man durch Integration für den Mittelwert der <br/>lebendigen Kraft dieses Moleküles
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190338x.png" alt="--------------- m-  2   2   2    1-- 2 (q + j + z ) = 4h. " class="par-math-display"  /></center>
+<!--l. 620--><p class="nopar">
+</p><!--l. 624--><p class="indent">   Die kinetische Gastheorie lehrt aber, daß diese Größe bei <br/>konstantem Volumen des Gases proportional dem vom Gase <br/>ausgeübten Drucke ist. Dieser ist definitionsgemäß der in <br/>der Physik als absolute Temperatur bezeichneten Größe pro-<br/>portional. Die von uns als absolute Temperatur bezeichnete <br/>Größe ist also nichts anderes als die mit dem Gasthermo-<br/>meter gemessene Temperatur eines Systems.
+</p>
+<div class="center" >
+
+<!--l. 633--><p class="noindent">
+</p><!--l. 634--><p class="noindent"><span 
+class="cmsy-10">§ </span>5.  Über unendlich langsame Prozesse.</p></div>
+<!--l. 637--><p class="indent">   Wir haben bisher nur Systeme ins Auge gefaßt, welche <br/>sich im stationären Zustande befanden. Wir wollen nun auch <br/>Veränderungen von stationären Zuständen untersuchen, jedoch <br/>nur solche, welche sich so langsam vollziehen, daß die in einem
+ <br/>beliebigen Momente herrschende Zustandsverteilung von der <br/>stationären nur unendlich wenig abweicht; oder genauer ge-<br/>sprochen, daß in jedem Momente die Wahrscheinlichkeit, daß <br/>die Zustandsvariabeln in einem gewissen Gebiete
+<span 
+class="cmmi-10">G </span>liegen, bis <br/>auf unendlich kleines durch die oben gefundene Formel dar-<br/>gestellt sei. Eine solche Veränderung nennen wir einen un-<br/>endlich langsamen Prozeß.
+</p><!--l. 651--><p class="indent">   Wenn die Funktionen <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10x-x-27" align="middle" /></span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> (Gleichung (1)) und die Energie <span 
+class="cmmi-10">E </span> <br/>eines Systems bestimmt sind, so ist nach dem vorigen auch <br/>seine stationäre Zustandsverteilung bestimmt. Ein unendlich <br/>langsamer Prozeß wird also dadurch bestimmt sein, daß sich
+ <br/>entweder <span 
+class="cmmi-10">E </span>ändert oder die Funktionen <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10x-x-27" align="middle" /></span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> die Zeit explizite <br/>enthalten, oder beides zugleich, jedoch so, daß die entsprechen-<br/>den Differentialquotienten nach der Zeit sehr klein sind.
+</p><!--l. 657--><p class="indent">   Wir haben angenommen, daß die Zustandsvariabeln eines <br/>isolierten Systems sich nach Gleichungen (1) verändern. Um-<br/>gekehrt wird aber nicht stets, wenn ein System von Glei-<br/>chungen (1) existiert, nach denen sich die Zustandsvariabeln <br/>eines Systems ändern, dieses System ein isoliertes sein müssen. <br/>Es kann nämlich der Eall eintreten, daß ein betrachtetes <br/>System derart unter dem Einfluß anderer Systeme sich be-<br/><pb/>
+</p><!--l. 668--><p class="indent">
+
+</p><!--l. 669--><p class="noindent">findet, daß dieser Einfluß lediglich von Funktionen von ver-<br/>änderlichen Koordinaten beeinflussender Systeme abhängt, die <br/>sich bei konstanter Zustandsverteilung der beeinflussenden <br/>Systeme nicht ändern. In diesem Falle wird die Veränderung <br/>der Koordinaten <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> des betrachteten Systems auch durch ein <br/>System von der Form der Gleichungen (1) darstellbar sein. <br/>Die Funktionen <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10x-x-27" align="middle" /></span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> werden aber dann nicht nur von der <br/>physikalischen Natur des betreffenden Systems, sondern auch <br/>von gewissen Konstanten abhängen, welche durch die beein-<br/>flussenden Systeme und deren Zustandsverteilungen definiert <br/>sind. Wir nennen diese Art von Beeinflussung des betrachteten <br/>Systems eine adiabatische. Es ist leicht einzusehen, daß für <br/>die Gleichungen (1) auch in diesem Falle eine Energiegleichung <br/>existiert, solange die Zustandsverteilungen der adiabatisch <br/>beeinflussenden Systeme sich nicht ändern. Ändern sich die <br/>Zustände adiabatisch beeinflussender Systeme, so ändern sich <br/>die Funktionen <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10x-x-27" align="middle" /></span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> des betrachteten Systems explizite mit der <br/>Zeit, wobei in jedem Moment die Gleichungen (1) ihre Gültig-<br/>keit behalten. Wir nennen eine solche Änderung der Zustands-<br/>verteilung des betrachteten Systems eine adiabatische.
+</p><!--l. 684--><p class="indent">   Wir betrachten nun eine zweite Art von Zustandsver-<br/>änderungen eines Systems
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" />. Es liege ein System <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /> zu <br/>Grunde, welches adiabatisch beeinflußt sein kann. Wir nehmen <br/>an, daß das System <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /> in der Zeit <span 
+class="cmmi-10">t </span>= 0 mit einem System
+<span 
+class="cmmi-10">P </span> <br/>von verschiedener Temperatur in solche Wechselwirkung trete, <br/>wie wir sie oben als ,,Berührung&#8220; bezeichnet haben, und ent-<br/>fernen das System <span 
+class="cmmi-10">P</span>
+nach der zum Ausgleich der Tempe-<br/>raturen von <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /> und <span 
+class="cmmi-10">P </span>nötigen Zeit. Es hat sich dann die <br/>Energie von <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /> geändert. Während des Prozesses sind die
+ <br/>Gleichungen (1) von <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /> ungültig, vor und nach dem Prozesse <br/>aber gültig, wobei die Funktionen <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10x-x-27" align="middle" /></span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> vor und nach dem <br/>Prozesse dieselben sind. Einen solchen Prozeß nennen wir <br/>einen ,,isopyknischen&#8220; und die <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /> zugeführte Energie ,,zu-<br/>geführte Wärme&#8220;.
+</p><!--l. 697--><p class="indent">   Bis auf relativ unendlich kleines läßt sich nun offenbar <br/>jeder unendlich langsame Prozeß eines Systems <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /> aus einer <br/>Aufeinanderfolge von unendlich kleinen adiabatischen und iso-<br/>pyknischen Prozessen konstruieren, sodaß wir, um einen Gesamt-<br/>überblick zu erhalten, nur die letzteren zu studieren haben.
+<pb/>
+</p><!--l. 704--><p class="indent">
+
+</p>
+<div class="center" >
+
+<!--l. 705--><p class="noindent">
+</p><!--l. 706--><p class="noindent"><span 
+class="cmsy-10">§ </span>6.  Über den Entropiebegriff.</p></div>
+<!--l. 709--><p class="indent">   Es liege ein physikalisches System vor, dessen momentaner <br/>Zustand durch die Werte der Zustandsvariabeln <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span></sub> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub> voll-<br/>kommen bestimmt sei. Dieses System mache einen kleinen, <br/>unendlich langsamen Prozeß durch, indem die das System
+ <br/>adiabatisch beeinflussenden Systeme eine unendlich kleine Zu-<br/>standsveränderung erfahren, und außerdem dem betrachteten <br/>System durch berührende Systeme Energie zugeführt wird. <br/>Wir tragen den adiabatisch beeinflussenden Systemen dadurch
+ <br/>Rechnung, daß wir festsetzen, die Energie <span 
+class="cmmi-10">E </span>des betrachteten <br/>Systems sei außer von
+<span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span></sub> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub> noch von gewissen Para-<br/>metern <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /></span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /></span><sub ><span 
+class="cmr-7">2</span></sub> <span 
+class="cmmi-10">...</span> abhängig, deren Werte durch die Zustands-<br/>verteilungen der das System adiabatisch beeinflussenden Systeme
+ <br/>bestimmt seien. Bei rein adiabatischen Prozessen gilt in <br/>jedem Moment ein Gleichungssystem (1), dessen Funktionen <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10x-x-27" align="middle" /></span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> <br/>außer von den Koordinaten <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> auch von den langsam ver-<br/>änderlichen Größen <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /> </span>abhängen; es gilt dann auch bei adia-<br/>batischen Prozessen in jedem Moment die Energiegleichung, <br/>welche die Form besitzt:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190339x.png" alt=" sum 
+   @-E-fn = 0.    @ pv " class="par-math-display"  /></center>
+<!--l. 726--><p class="nopar">
+</p><!--l. 729--><p class="noindent">Wir untersuchen nun die Energiezunahme des Systems während <br/>eines beliebigen unendlich kleinen, unendlich langsamen Prozesses.
+</p><!--l. 734--><p class="indent">   Für jedes Zeitelement <span 
+class="cmmi-10">dt </span>des Prozesses gilt:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-5r4"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190340x.png" alt="       sum  @ E       sum  @ E d E =    @-c-dc +    @-pn dpn. " class="math-display"  /></center></td><td width="5%">(4)</td></tr></table>
+<!--l. 740--><p class="nopar">
+
+</p><!--l. 743--><p class="noindent">Für einen unendlich kleinen isopyknischen Prozeß verschwinden <br/>in jedem Zeitelement sämtliche <span 
+class="cmmi-10">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /></span>, mithin auch das erste <br/>Glied der rechten Seite dieser Gleichung. Da aber <span 
+class="cmmi-10">dE </span>nach <br/>dem vorigen Paragraphen für einen isopyknischen Prozeß als
+ <br/>zugeführte Wärme zu betrachten ist, so ist für einen solchen <br/>Prozeß die zugeführte Wärme <span 
+class="cmmi-10">dQ </span>durch den Ausdruck:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190341x.png" alt="      sum  -@E- dQ =    @ pn d pn " class="par-math-display"  /></center>
+<!--l. 752--><p class="nopar">
+</p><!--l. 756--><p class="noindent">dargestellt.
+</p><!--l. 759--><p class="indent">   Für einen adiabatischen Prozeß aber, während dessen <br/>stets die Gleichungen (1) gelten, ist nach der Energiegleichung <br/>
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190342x.png" alt=" sum             sum 
+   @-E-d pn =    @ E-fn d t = 0.    @ pn          @ pn " class="par-math-display"  /></center>
+<!--l. 767--><p class="nopar"> <pb/>
+</p><!--l. 774--><p class="indent">
+
+</p><!--l. 775--><p class="noindent">Andererseits ist nach dem vorigen Paragraphen für einen adia-<br/>batischen Prozeß
+<span 
+class="cmmi-10">dQ </span>= 0, sodaß auch für einen adiabatischen <br/>Prozeß
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190343x.png" alt="      sum  @-E- dQ =    @ pn d pn " class="par-math-display"  /></center>
+<!--l. 783--><p class="nopar">
+</p><!--l. 787--><p class="noindent">gesetzt werden kann. Diese Gleichung muß also für einen <br/>beliebigen Prozeß in jedem Zeitelement als gültig betrachtet <br/>werden. Die Gleichung (4) geht also über in
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-6r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190344x.png" alt="      sum 
+dE =     @ E-dc+ d Q .          @ c " class="math-display"  /></center></td><td width="5%">(4<span 
+class="cmsy-10">'</span>)</td></tr></table>
+<!--l. 795--><p class="nopar">
+</p><!--l. 798--><p class="noindent">Dieser Ausdruck stellt auch bei veränderten Werten von <span 
+class="cmmi-10">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-15.png" alt="c" class="10x-x-15" /> </span> <br/>und von <span 
+class="cmmi-10">dQ </span>die während des ganzen unendlich kleinen Prozesses <br/>stattfindende Veränderung der Energie des Systems dar.
+</p><!--l. 802--><p class="indent">   Am Anfang und am Ende des Prozesses ist die Zustands-<br/>verteilung des betrachteten Systems eine stationäre und wird, <br/>wenn das System vor und nach dem Prozesse mit einem <br/>Systeme von relativ unendlich großer Energie in Berührung <br/>steht, welche Annahme nur von formaler Bedeutung ist, durch <br/>die Gleichung definiert von der Form:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190345x.png" alt="d W = konst. e-2 hE. dp1 ... dpn     = e c- 2h E.dp ... dp ,                 1      n " class="par-math-display"  /></center>
+<!--l. 818--><p class="nopar">
+
+</p><!--l. 822--><p class="noindent">wobei <span 
+class="cmmi-10">dW </span>die Wahrscheinlichkeit dafür bedeutet, daß die <br/>Werte der Zustandsvariabeln des Systems in einem beliebig <br/>herausgegriffenen Zeitmoment zwischen den angedeuteten Grenzen <br/>liegen. Die Konstante <span 
+class="cmmi-10">c </span>ist durch die Gleichung definirt:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-7r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190346x.png" alt=" integral 
+    c- 2 h E    e      .d p1 ... dpn = 1, " class="math-display"  /></center></td><td width="5%">(5)</td></tr></table>
+<!--l. 829--><p class="nopar">
+</p><!--l. 833--><p class="noindent">wobei die Integration über alle Werte der Variabeln zu er-<br/>strecken ist.
+</p><!--l. 836--><p class="indent">   Gelte Gleichung (5) speziell vor dem betrachteten Prozesse, <br/>so gilt nach demselben:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-8r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190347x.png" alt=" integral              (  s um  @E  )   e(c+dc)-2(h+dh) E+   @c-dc .dp  ... dp  = 1                               1      n " class="math-display"  /></center></td><td width="5%">(5<span 
+class="cmsy-10">'</span>)</td></tr></table>
+<!--l. 844--><p class="nopar">
+</p><!--l. 848--><p class="noindent">und aus den beiden letzten Gleichungen ergibt sich:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190348x.png" alt=" integral  (                          )     dc - 2E dh- 2 h sum  @-E-.d c .ec-2 h E.d p ... dp = 0,                        @ c                 1      n " class="par-math-display"  /></center>
+<!--l. 855--><p class="nopar"> <pb/>
+</p><!--l. 862--><p class="indent">
+
+</p><!--l. 863--><p class="noindent">oder, da bei der Integration der Klammerausdruck als eine <br/>Konstante gelten kann, da die Energie <span 
+class="cmmi-10">E </span>des Systems vor <br/>und nach dem Prozesse sich nie merklich von einem bestimmten <br/>Mittelwerte unterscheidet, und unter Berücksichtigung von <br/>Gleichung (5):
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-9r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190349x.png" alt="                sum   @ E- d c- 2E dh - 2h    @ c d c = 0. " class="math-display"  /></center></td><td width="5%">(5<span 
+class="cmsy-10">''</span>)</td></tr></table>
+<!--l. 872--><p class="nopar">
+</p><!--l. 874--><p class="noindent">Nach Gleichung (4<span 
+class="cmsy-10">'</span>) ist aber:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190350x.png" alt="             sum   @ E - 2h dE + 2h    @-c d c+ 2 hdQ = 0 " class="par-math-display"  /></center>
+<!--l. 880--><p class="nopar">
+</p><!--l. 884--><p class="noindent">und durch Addition dieser beiden Gleichungen erhält man:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190351x.png" alt="2 h.dQ = d (2 hE  - c) " class="par-math-display"  /></center>
+<!--l. 890--><p class="nopar">
+</p><!--l. 894--><p class="noindent">oder, da 1<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190352x.png" alt="/"  class="left" align="middle" />4<span 
+class="cmmi-10">h </span>= <span 
+class="cmmi-10">z .T</span>
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190353x.png" alt="       (        ) dQ-= d   E-- 2z c = d S. T        T " class="par-math-display"  /></center>
+<!--l. 900--><p class="nopar">
+</p><!--l. 903--><p class="noindent">Diese Gleichung sagt aus, das <span 
+class="cmmi-10">dQ</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190354x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-10">T </span>ein vollständiges Differential <br/>einer Größe ist, welche wir die Entropie <span 
+class="cmmi-10">S </span>des Systems nennen <br/>wollen. Unter Berücksichtigung von 
+Gleichung (5) erhält man:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190355x.png" alt="                             integral 
+                  E-           -2 h E S = 2z(2h E -c) = T + 2z log  e     d p1 ... dpn, " class="par-math-display"  /></center>
+<!--l. 911--><p class="nopar">
+</p><!--l. 915--><p class="noindent">wobei die Integration über alle Werte der Variabeln zu er-<br/>strecken ist.
+</p>
+<div class="center" >
+
+<!--l. 918--><p class="noindent">
+</p><!--l. 919--><p class="noindent"><span 
+class="cmsy-10">§ </span>7.  Über die Wahrscheinlichkeit von Zustandsverteilungen.</p></div>
+<!--l. 922--><p class="indent">   Um den zweiten Hauptsatz in seiner allgemeinsten Form <br/>herzuleiten, müssen wir die Wahrscheinlichkeit von Zustands-<br/>verteilungen untersuchen.
+</p><!--l. 926--><p class="indent">   Wir betrachten eine sehr große Zahl (<span 
+class="cmmi-10">N</span>) isolierte Systeme, <br/>welche alle durch das nämliche Gleichungssystem (1) darstellbar <br/>seien, und deren Energie bis auf unendlich kleines überein-<br/>stimme. Die Zustandsverteilung dieser <span 
+class="cmmi-10">N</span>
+Systeme läßt sich <br/>dann jedenfalls darstellen durch eine Gleichung von der Form:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-10r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190356x.png" alt="dN  = e(p1 ...pn, t)dp1 ... d pn, " class="math-display"  /></center></td><td width="5%">(2<span 
+class="cmsy-10">'</span>)</td></tr></table>
+<!--l. 937--><p class="nopar">
+</p><!--l. 941--><p class="noindent">wobei <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>im allgemeinen von den Zustandsvariabeln <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span></sub> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub> <br/>und außerdem von der Zeit explizite abhängt. Die Funktion <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /></span> <br/>charakterisiert hierbei die Zustandsverteilung vollständig.
+</p><!--l. 945--><p class="indent">   Aus <span 
+class="cmsy-10">§ </span>2 geht hervor, daß, wenn die Zustandsverteilung <br/>konstant ist, was bei sehr großen Werten von <span 
+class="cmmi-10">t </span>nach unseren <br/><pb/>
+</p><!--l. 951--><p class="indent">
+
+</p><!--l. 952--><p class="noindent">Voraussetzungen stets der Fall ist, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>= konst. sein muß, sodaß <br/>also für eine stationäre Zustandsverteilung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190357x.png" alt="d N = konst. dp1...dpn " class="par-math-display"  /></center>
+<!--l. 960--><p class="nopar">
+</p><!--l. 964--><p class="noindent">ist.
+</p><!--l. 968--><p class="indent">   Daraus folgt sofort, daß die Wahrscheinlichkeit <span 
+class="cmmi-10">dW </span>dafür, <br/>daß die Werte der Zustandsvariabeln eines zufällig heraus-<br/>gegriffenen der <span 
+class="cmmi-10">N </span>Systeme, in dem unendlich kleinen, innerhalb <br/>der angenommenen Energiegrenzen gelegenen Gebiete <span 
+class="cmmi-10">g </span>der
+ <br/>Zustandsvariabeln gelegen sind, der Ausdruck:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190358x.png" alt="             integral 
+dW  = konst.   dp1...dpn. 
+            g " class="par-math-display"  /></center>
+<!--l. 976--><p class="nopar">
+</p><!--l. 979--><p class="noindent">Dieser Satz läßt sich auch so aussprechen: Teilt man das <br/>ganze in Betracht kommende, durch die angenommenen Energie-<br/>grenzen bestimmte Gebiet der Zustandsvariabeln in <span 
+class="cmmi-10">l </span>Teil-<br/>gebiete <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">,g</span><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span><span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7">l</span></sub> derart, daß
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190359x.png" alt=" integral    integral           integral 
+
+  =    = ... =   , g1   g2         gl " class="par-math-display"  /></center>
+<!--l. 987--><p class="nopar">
+</p><!--l. 991--><p class="noindent">und bezeichnet man mit <span 
+class="cmmi-10">W</span><sub ><span 
+class="cmr-7">1</span></sub>, <span 
+class="cmmi-10">W</span><sub ><span 
+class="cmr-7">2</span></sub> etc. die Wahrscheinlichkeiten <br/>dafür, daß die Werte der Zustandsvariabeln des beliebig heraus-<br/>gegriffenen Systems in einem gewissen Zeitpunkt innerhalb <br/><span 
+class="cmmi-10">g</span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">, g</span><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span> liegen, so ist
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190360x.png" alt="                    1 W1 = W2 = ...= Wl = l. " class="par-math-display"  /></center>
+<!--l. 1000--><p class="nopar">
+</p><!--l. 1003--><p class="noindent">Das momentane Zugehören des betrachteten Systems zu einem <br/>bestimmten dieser Gebiete <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">...</span><span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7">l</span></sub> ist also genau ebenso wahr-<br/>scheinlich, als das Zugehören zu irgend einem anderen dieser <br/>Gebiete.
+</p><!--l. 1008--><p class="indent">   Die Wahrscheinlichkeit dafür, daß von <span 
+class="cmmi-10">N </span>betrachteten <br/>Systeme zu einer zufällig herausgegriffenen Zeit <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /></span><sub ><span 
+class="cmr-7">1</span></sub> zum Ge-<br/>biete <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmr-7">1</span></sub>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /></span><sub ><span 
+class="cmr-7">2</span></sub> zum Gebiete <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmr-7">2</span></sub> <span 
+class="cmmi-10">...</span> <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /></span><sub ><span 
+class="cmmi-7">l</span></sub> zum Gebiete <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7">l</span></sub>
+gehören, <br/>ist also 
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190361x.png" alt="     (1)N       N! W  =  l    e-! e!-... e-!,             1  2     n " class="par-math-display"  /></center>
+<!--l. 1017--><p class="nopar">
+</p><!--l. 1021--><p class="noindent">oder auch, da <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /></span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /></span><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /></span><sub ><span 
+class="cmmi-7">n</span></sub> als sehr große Zahlen zu denken sind:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190362x.png" alt="                e sum =l log W  = konst. -    e log e.                 e=1 " class="par-math-display"  /></center>
+<!--l. 1029--><p class="nopar"> <pb/>
+</p><!--l. 1036--><p class="indent">
+
+</p><!--l. 1037--><p class="noindent">Ist <span 
+class="cmmi-10">l </span>groß genug, so kann man hierfür ohne merklichen Fehler <br/>setzen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190363x.png" alt="                 integral 
+
+log W  = konst. -   e log edp1...dpn. " class="par-math-display"  /></center>
+<!--l. 1045--><p class="nopar">
+</p><!--l. 1048--><p class="noindent">In dieser Gleichung bedeutet <span 
+class="cmmi-10">W </span>die Wahrscheinlichkeit dafür, <br/>daß die bestimmte, durch die Zahlen <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /></span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">,<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /></span><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /></span><sub ><span 
+class="cmmi-7">l</span></sub>, bez. durch <br/>eine bestimmte Funktion <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>von <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">...</span><span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">n</span></sub> gemäß Gleichung (2<span 
+class="cmsy-10">'</span>) <br/>ausgedrückte Zustandsverteilung zu einer bestimmten Zeit
+ <br/>herrscht.
+</p><!--l. 1053--><p class="indent">   Wäre in dieser Gleichung <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>= konst., d. h. von den <span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> un-<br/>abhängig zwischen den betrachteten Energiegrenzen, so wäre <br/>die betrachtete Zustandsverteilung stationär, und, wie leicht <br/>zu beweisen, der Ausdruck für die Wahrscheinlichkeit <span 
+class="cmmi-10">W </span>der
+ <br/>Zustandsverteilung ein Maximum. Ist <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>von den Werten der <br/><span 
+class="cmmi-10">p</span><sub ><span 
+class="cmmi-7">v</span></sub> abhängig, so läßt sich zeigen, daß der Ausdruck für log <span 
+class="cmmi-10">W </span> <br/>für die betrachtete Zustandsverteilung kein Extremum besitzt, <br/>d. h. es gibt dann von der betrachteten Zustandsverteilung
+ <br/>unendlich wenig verschiedene, für welche <span 
+class="cmmi-10">W </span>größer ist.
+</p><!--l. 1061--><p class="indent">   Verfolgen wir die betrachteten <span 
+class="cmmi-10">N </span>Systeme eine beliebige <br/>Zeit hindurch, so wird sich die Zustandsverteilung, also auch <span 
+class="cmmi-10">W </span> <br/>beständig mit der Zeit ändern, und wir werden anzunehmen <br/>haben, daß immer wahrscheinlichere Zustandsverteilungen auf <br/>unwahrscheinliche folgen werden, d. h. daß <span 
+class="cmmi-10">W </span>stets zunimmt, <br/>bis die Zustandsverteilung konstant und <span 
+class="cmmi-10">W </span>ein Maximum ge-<br/>worden ist.
+</p><!--l. 1067--><p class="indent">   In den folgenden Paragraphen wird gezeigt, daß aus <br/>diesem Satze der zweite Hauptsatz der Thermodynamik ge-<br/>folgert werden kann.
+</p><!--l. 1071--><p class="indent">   Zunächst ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190364x.png" alt="   integral                      integral 
+-   e'log e'd p1 ...dpn &gt;= -   eloged p1 ...d pn, " class="par-math-display"  /></center>
+<!--l. 1077--><p class="nopar">
+</p><!--l. 1081--><p class="noindent">wobei durch die Funktion <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>die Zustandsverteilung der <span 
+class="cmmi-10">N </span>Systeme <br/>zu einer gewissen Zeit <span 
+class="cmmi-10">t</span>, durch die Funktion <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /></span><span 
+class="cmsy-10">' </span>die Zustands-<br/>verteilung zu einer gewissen späteren Zeit <span 
+class="cmmi-10">t</span><span 
+class="cmsy-10">' </span>bestimmt, und <br/>die Integration beiderseits über alle Werte der Variabeln zu <br/>erstrecken ist. Wenn ferner die Größen log <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /> </span>und log <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-22.png" alt="e" class="10x-x-22" /></span><span 
+class="cmsy-10">' </span>der
+ <br/><pb/>
+</p><!--l. 1089--><p class="indent">
+
+</p><!--l. 1090--><p class="noindent">einzelnen unter den <span 
+class="cmmi-10">N </span>Systemen sich nicht merklich von ein-<br/>ander unterscheiden, so geht, da
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190365x.png" alt=" integral               integral 
+                   '   e dp1...dpn =   edp1 ...dpn = N, " class="par-math-display"  /></center>
+<!--l. 1097--><p class="nopar">
+</p><!--l. 1101--><p class="noindent">die letzte Gleichung über in:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-11r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190366x.png" alt="- loge'&gt;= - loge. " class="math-display"  /></center></td><td width="5%">(6)</td></tr></table>
+<!--l. 1107--><p class="nopar">
+</p>
+<div class="center" >
+
+<!--l. 1111--><p class="noindent">
+</p><!--l. 1112--><p class="noindent"><span 
+class="cmsy-10">§ </span>8.  Anwendung der gefundenen Resultate auf einen <br/>bestimmten Fall.</p></div>
+<!--l. 1115--><p class="indent">   Wir betrachten eine endliche Zahl von physikalischen <br/>Systemen <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span>, welche zusammen ein isoliertes System <br/>bilden, welches wir Gesamtsystem nennen wollen. Die Systeme <br/><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span> sollen thermisch nicht merklich in Wechselwirkung <br/>stehen, wohl aber können sie sich adiabatisch beeinflussen. <br/>Die Zustandsverteilung eines jeden der Systeme <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span>, die <br/>wir Teilsysteme nennen wollen, sei bis auf unendlich kleines <br/>eine stationäre. Die absoluten Temperaturen der Teilsysteme <br/>können beliebig und voneinander verschieden sein.
+</p><!--l. 1123--><p class="indent">   Die Zustandsverteilung des Systems <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span><sub ><span 
+class="cmr-7">1</span></sub> wird sich nicht <br/>merklich von derjenigen Zustandsverteilung unterscheiden, welche <br/>gelten würde, wenn <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span><sub ><span 
+class="cmr-7">1</span></sub>
+mit einem physikalischen System von <br/>derselben Temperatur in Berührung stände. Wir können daher <br/>dessen Zustandsverteilung durch die Gleichung darstellen:
+</p>
+
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190367x.png" alt="                    integral 
+       s(1)-2h(1)E(1)     (1)     (1) d w1 = e             dp1 ...dp(n),                    g " class="par-math-display"  /></center>
+<!--l. 1132--><p class="nopar">
+</p><!--l. 1136--><p class="noindent">wobei die Indizes (1) die Zugehörigkeit zum Teilsystem <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span><sub ><span 
+class="cmr-7">1</span></sub> an-<br/>deuten sollen.
+</p><!--l. 1139--><p class="indent">   Analoge Gleichungen gelten für die übrigen Teilsysteme. <br/>Da die augenblicklichen Werte der Zustandsvariabeln der ein-<br/>zelnen Teilsysteme von denen der anderen unabhängig sind, <br/>so erhalten wir für die Zustandsverteilung des Gesamtsystems <br/>eine Gleichung von der Form:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-12r7"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190368x.png" alt="                    sum c - 2h E   integral 
+dw = dw1.dw2 ...= e   n   n  n  dp1 ... dpn,                              g " class="math-display"  /></center></td><td width="5%">(7)</td></tr></table>
+<!--l. 1151--><p class="nopar">
+</p><!--l. 1155--><p class="noindent">wobei die Summation über alle Systeme, die Integration über <br/>das beliebige in allen Variabeln des Gesamtsystems unendlich <br/>kleine Gebiet <span 
+class="cmmi-10">g </span>zu erstrecken ist.
+<pb/>
+</p><!--l. 1162--><p class="indent">
+
+</p><!--l. 1163--><p class="indent">   Wir nehmen nun an, daß die Teilsysteme <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span> nach <br/>einer gewissen Zeit in beliebige Wechselwirkung zueinander <br/>treten, bei welchem Prozesse aber das Gesamtsystem stets <br/>ein isoliertes bleiben möge. Nach Verlauf einer gewissen Zeit
+ <br/>möge ein Zustand des Gesamtsystems eingetreten sein, bei <br/>welchem die Teilsysteme
+<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span> einander thermisch nicht <br/>beeinflussen und bis auf unendlich kleines sich im stationären <br/>Zustand befinden.
+</p><!--l. 1174--><p class="indent">   Es gilt dann für die Zustandsverteilung des Gesamtsystems <br/>eine Gleichung, welche der vor dem Prozesse gültigen voll-<br/>kommen analog ist:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-13r8"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190369x.png" alt="                               integral 
+   '    '    '      sum  (c'n- 2h'nE'n) dw  = dw1.dw2 ...= e              dp1... d pn.                                g " class="math-display"  /></center></td><td width="5%">(7<span 
+class="cmsy-10">'</span>)</td></tr></table>
+<!--l. 1183--><p class="nopar">
+</p><!--l. 1186--><p class="noindent">Wir betrachten nun <span 
+class="cmmi-10">N </span>solcher Gesamtsysteme. Für jedes <br/>derselben gelte bis auf unendlich kleines zur Zeit <span 
+class="cmmi-10">t </span>die Glei-<br/>chung (7), zur Zeit <span 
+class="cmmi-10">t</span><span 
+class="cmsy-10">' </span>die Gleichung (7<span 
+class="cmsy-10">'</span>). Es wird dann die <br/>Zustandsverteilung der betrachteten <span 
+class="cmmi-10">N </span>Gesamtsysteme zu den <br/>Zeiten <span 
+class="cmmi-10">t </span>und
+<span 
+class="cmmi-10">t</span><span 
+class="cmsy-10">' </span>gegeben sein durch die Gleichungen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190370x.png" alt="dNt = N.e  sum (cn- 2hnEn).dp1... dpn.            sum  '   ' ' dN 't = N.e (cn-2hnEn).d p1... dpn. " class="par-math-display"  /></center>
+<!--l. 1199--><p class="nopar">
+</p><!--l. 1202--><p class="noindent">Auf diese beiden Zustandsverteilungen wenden wir nun die <br/>Resultate des vorigen Paragraphen an. Es sind hier sowohl die
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190371x.png" alt="        sum 
+e = N.e  (cn-2hnEn) " class="par-math-display"  /></center>
+<!--l. 1210--><p class="nopar">
+
+</p><!--l. 1214--><p class="noindent">als auch die
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190372x.png" alt="e'= N.e  sum  (c'n-2h'nE'n) " class="par-math-display"  /></center>
+<!--l. 1221--><p class="nopar">
+</p><!--l. 1225--><p class="noindent">für die einzelnen der <span 
+class="cmmi-10">N </span>Systeme nicht merklich verschieden, <br/>sodaß wir Gleichung (6) anwenden können, welche liefert
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190373x.png" alt=" sum                sum 
+   (2h'E' - c') &gt;=   (2h E - c) , " class="par-math-display"  /></center>
+<!--l. 1232--><p class="nopar">
+</p><!--l. 1236--><p class="noindent">oder indem man beachtet, daß die Größen 2<span 
+class="cmmi-10">h</span><sub ><span 
+class="cmr-7">1</span></sub> <span 
+class="cmmi-10">E</span><sub ><span 
+class="cmr-7">1</span></sub> <span 
+class="cmsy-10">- </span><span 
+class="cmmi-10">c</span><sub ><span 
+class="cmr-7">1</span></sub>, <br/>2<span 
+class="cmmi-10">h</span><sub ><span 
+class="cmr-7">2</span></sub> <span 
+class="cmmi-10">E</span><sub ><span 
+class="cmr-7">2</span></sub> <span 
+class="cmsy-10">- </span><span 
+class="cmmi-10">c</span><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">,</span><span 
+class="cmmi-10">...</span> nach <span 
+class="cmsy-10">§ </span>6 bis auf eine universelle Konstante <br/>mit den Entropien <span 
+class="cmmi-10">S</span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">, S</span><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span> der Teilsysteme übereinstimmen:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-14r8"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190374x.png" alt="S'1 + S'2 + ...&gt;= S1 + S2 + ..., " class="math-display"  /></center></td><td width="5%">(8)</td></tr></table>
+<!--l. 1243--><p class="nopar">
+</p><!--l. 1247--><p class="noindent">d. h. die Summe der Entropien der Teilsysteme eines isolierten <br/>Systems ist nach einem beliebigen Prozesse gleich oder größer <br/>als die Summe der Entropien der Teilsysteme vor dem Prozesse. <pb/>
+</p><!--l. 1255--><p class="indent">
+
+</p>
+<div class="center" >
+
+<!--l. 1256--><p class="noindent">
+</p><!--l. 1257--><p class="noindent"><span 
+class="cmsy-10">§ </span>9.  Herleitung des zweiten Hauptsatzes.</p></div>
+<!--l. 1260--><p class="indent">   Es liege nun ein isoliertes Gesamtsystem vor, dessen Teil-<br/>systeme <span 
+class="cmmi-10">W</span>, <span 
+class="cmmi-10">M </span>und
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">,</span> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span> heißen mögen. Das System <span 
+class="cmmi-10">W</span>, <br/>welches wir Wärmereservoir nennen wollen, besitze gegen das <br/>System <span 
+class="cmmi-10">M </span>(Maschine) eine unendlich große Energie. Ebenso <br/>sei die Energie der miteinander in adiabatischer Wechsel-<br/>wirkung stehenden Systeme
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">,</span> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span> gegen diejenige der <br/>Maschine <span 
+class="cmmi-10">M </span>unendlich groß. Wir nehmen an, daß die sämt-<br/>lichen Teilsysteme <span 
+class="cmmi-10">M, W,</span> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">,</span> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span> sich im stationären Zu-<br/>stand befinden.
+</p><!--l. 1269--><p class="indent">   Es durchlaufe nun die Maschine <span 
+class="cmmi-10">M </span>einen beliebigen Kreis-<br/>prozeß, wobei sie die Zustandsverteilungen der Systeme <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">,</span> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span> <br/>durch adiabatische Beeinflussung unendlich langsam ändere, <br/>d. h. Arbeit leiste, und von dem Systeme <span 
+class="cmmi-10">W </span>die Wärme-<br/>menge <span 
+class="cmmi-10">Q </span>aufnehme. Am Ende des Prozesses wird dann die <br/>gegenseitige adiabatische Beeinflussung der Systeme <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">,</span> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span> <br/>eine andere sein als vor dem Prozesse. Wir sagen, die <br/>Maschine <span 
+class="cmmi-10">M </span>hat die Wärmemenge <span 
+class="cmmi-10">Q </span>in Arbeit verwandelt.
+</p><!--l. 1277--><p class="indent">   Wir berechnen nun die Zunahme der Entropie der ein-<br/>zelnen Teilsysteme, welche bei dem betrachteten Prozeß ein-<br/>tritt. Die Zunahme der Entropie des Wärmereservoirs <span 
+class="cmmi-10">W </span>be-<br/>trägt nach den Resultaten des <span 
+class="cmsy-10">§</span> 6 <span 
+class="cmsy-10">- </span><span 
+class="cmmi-10">Q/T, </span>wenn <span 
+class="cmmi-10">T </span>die absolute <br/>Temperatur bedeutet. Die Entropie von <span 
+class="cmmi-10">M </span>ist vor und nach <br/>dem Prozeß dieselbe, da das System <span 
+class="cmmi-10">M </span>einen Kreisprozeß <br/>durchlaufen hat. Die Systeme <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">,</span> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/cmr10-6.png" alt="S" class="10x-x-6" /><sub ><span 
+class="cmr-7">2</span></sub><span 
+class="cmmi-10">...</span> ändern ihre Entropie <br/>während des Prozesses überhaupt nicht, da diese Systeme nur <br/>unendlich langsame adiabatische Beeinflussung erfahren. Die <br/>Entropievermehrung <span 
+class="cmmi-10">S</span><span 
+class="cmsy-10">'- </span><span 
+class="cmmi-10">S </span>des Gesamtsystems erhält also <br/>den Wert
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190375x.png" alt="S'- S = -Q-.          T " class="par-math-display"  /></center>
+<!--l. 1289--><p class="nopar">
+</p><!--l. 1292--><p class="noindent">Da nach dem Resultate des Vorigen Paragraphen diese Größe <br/><span 
+class="cmmi-10">S</span><span 
+class="cmsy-10">'-</span><span 
+class="cmmi-10">S </span>stets <span 
+class="msam-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/msam10-3d.png" alt="&gt;=" class="10x-x-3d" /> </span>0 ist, so folgt
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1903/fulltext/img/Einst_Theor_de_190376x.png" alt="Q &lt;= 0. " class="par-math-display"  /></center>
+<!--l. 1298--><p class="nopar">
+</p><!--l. 1301--><p class="noindent">Diese Gleichung spricht die Unmöglichkeit der Existenz eines <br/>Perpetuum mobile zweiter Art aus.
+</p><!--l. 1305--><p class="indent">   Bern, Januar 1903.
+</p>
+
+<div class="center" >
+
+<!--l. 1307--><p class="noindent">
+</p><!--l. 1308--><p class="noindent">(Eingegangen 26. Januar 1903.)</p></div>
+<div class="center" >
+
+<!--l. 1311--><p class="noindent">
+</p><!--l. 1312--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE archimedes SYSTEM "../dtd/archimedes.dtd">
+<archimedes xmlns:xlink="http://www.w3.org/1999/xlink">      <info>
+        <author>Pseudo Euclid</author>
+        <title>de ponderoso et levi</title>
+        <date>1565</date>
+        <place>Venice</place>
+        <translator>Tartaglia</translator>
+        <lang>fr</lang>
+        <cvs_file>eucli_ponde_059_it_1565.xml</cvs_file>
+        <cvs_version/>
+        <locator>059.xml</locator>
+</info>      <text>
+<pb xlink:href="059/01/001.jpg" /><front>
+
+<section><p type="head"><s id="id.000001">PARTICELLA DELLA COSA LEGGIERA,<lb/>ET GRAVE D'EVCLIDE</s></p></section></front><body><chap><p type="main">
+<s id="id.000002">1 I CORPI vguali di grandezza &longs;ono quelli, che riempieno i luoghi uguali.</s></p><p>
+<s id="id.000003">2 I corpi diuer&longs;i di grandezza &longs;ono quelli, che riempieno i luoghi non uguali.</s></p><p>
+<s id="id.000004">3 I corpi maggiori di grandezza &longs;i dicono quei, iquali &longs;ono di luoghi piu amplo.</s></p><p>
+<s id="id.000005">4 I corpi uguali di potentia &longs;ono quelli, i moti de iquali &longs;ono uguali, per mezzo e di t<expan abbr="&etilde;">em</expan><lb/>po e d'aria, o d'acqua ugali, &amp; per &longs;patii uguali.</s></p><p>
+<s id="id.000006">5 I corpi diuer&longs;i di potentia &longs;ono, i moti d'iquali &longs;ono uguali a diuer&longs;o tempo.</s></p><p>
+<s id="id.000007">6 De i corpi diuer&longs;i di potentia, quello &longs;i dice il maggior di potentia, il quale mouendo&longs;i<lb/>con&longs;uma manco tempo. il menor di potentia &egrave; que&longs;to, che con&longs;uma piu tempo.</s></p><p>
+<s id="id.000008">7 I corpi della i&longs;te&longs;&longs;a &longs;orte &longs;ono quelli, che e&longs;&longs;endo uguali di grandezza &longs;ono anco di<lb/>potentia.</s></p><p>
+<s id="id.000009">8 I corpi di diuer&longs;a &longs;orte &longs;ono quelli, iquali e&longs;&longs;endo di grandezza uguali, non &longs;ono di po<lb/>tentia, benche &longs;i muouano per lo mede&longs;imo mezo.</s></p><p>
+<s id="id.000010">9 De i corpi di diuer&longs;a &longs;orte il piu potente &longs;i dice que&longs;to, che &egrave; piu &longs;odo.</s></p><p type="head">
+<s id="id.000011"><emph type="italics"/>Theorema primo<emph.end type="italics"/></s></p><p type="main">
+<s id="id.000012">De i corpi de diuer&longs;a di potentia quello, che per il maggior &longs;patio &longs;i moue, ha piu pot<expan abbr="&etilde;">en</expan>tia.</s></p><p>
+<s id="id.000013">Siano a. e .b. due corpi. </s>
+<s id="id.000014">Siano .g.d. &amp; e.f. due &longs;patii .g.<lb/>d. il  maggior, per loqual lo a. &longs;i moue .e.f. il menor, per lo<lb/><figure id="id.059.01.001.1.jpg" xlink:href="059/01/001/1.jpg"/>qual il b. &longs;i moue. </s>
+<s id="id.000015">Ri&longs;ecarto dal &longs;patio di .g.d. il &longs;patio di<lb/>g.r. di modo, che &longs;ia al &longs;patio di. e.f. uguale il &longs;patio di .g.<lb/>r. il rimanente &egrave; chiaro da &longs;e.</s></p><p type="head">
+<s id="id.000016"><emph type="italics"/>Theorema &longs;econdo<emph.end type="italics"/></s></p><p type="main">
+<s id="id.000017">Se i corpi dell'i&longs;te&longs;&longs;a &longs;orte &longs;aranno tra &longs;e moltiplici, &longs;a<lb/>ranno parimente le loro potentie moltiplici.</s></p><p>
+<s id="id.000018">Sia il corpo .a.g. doppio al corpo .d. della mede&longs;ima &longs;orte, dico e&longs;&longs;er anco doppio di po<lb/>t<expan abbr="&etilde;">en</expan>tia.</s>
+<s id="id.000019">Perci&ograve; del corpo .a.g. &longs;ia la potentia .e.h. </s>
+<s id="id.000020">Del d. poi il c. &amp; a.g. &longs;econdo l'ecce&longs;&longs;o del <lb/>moltiplice &longs;i parta in a,b. &amp; b,g. di maniera che la pot<expan abbr="&etilde;">en</expan>tia<lb/><figure id="id.059.01.001.2.jpg" xlink:href="059/01/001/2.jpg"/>dell'uno e del'altro &longs;i &longs;ia uguale alla potentia del copo di<lb/>e&longs;&longs;o d, laqual era c.</s>
+<s id="id.000021">Dapoi partimmo il corpo a,g, nelle par<lb/>ti, a,b. b,g, pari al corpo d. co&longs;i partiamo la potentia .e,h.<lb/>nelle parti ,e,r, &amp; ,r,h, pari alla potentia del .c. egli &egrave; mani<lb/>fe&longs;to, che la potentia .e.h. riu&longs;ci&longs;ca doppia potentia.</s></p><p type="head">
+<s id="id.000022"><emph type="italics"/>Theorema terzo<emph.end type="italics"/></s></p><p type="main">
+<s id="id.000023">De i corpi dell'i&longs;te&longs;&longs;a &longs;orte &egrave; una  medi&longs;ima proportione<lb/>&amp; di grandezza e di potentia.</s></p><p>
+<s id="id.000024">Sia il corpo .a. doppio del corpo .b. della mede&longs;ima &longs;orte.<lb/><figure id="id.059.01.001.3.jpg" xlink:href="059/01/001/3.jpg"/>dico come il corpo .a. e al corpo .b. co&longs;i il g. potentia del cor<lb/>po .a. &longs;ia chiaro e&longs;&longs;er al .d. potentia del corpo .b. &longs;e al modo,<lb/>che partiamo i corpi, co&longs;i partiamo parimente le potentie<lb/>molticheuolmente dall'una e dall'altra parte.</s></p><p type="head">
+<s id="id.000025"><emph type="italics"/>Theorema quarto<emph.end type="italics"/></s></p><p type="main">
+<s id="id.000026">I corpi &longs;ono dell'i&longs;te&longs;&longs;a &longs;orte tra di &longs;e, iquali &longs;ono di par <lb/>pot<expan abbr="&etilde;">en</expan>tia el corpo della mede&longs;ima &longs;orte, perche tolte le ugua<lb/>lit&agrave; a quel terzo &longs;aranno le virt&ugrave; loro pari percioche &longs;ono <lb/>uguali le potentie del terzo.</s></p><p>
+<s id="id.000027">Saranno i corpi della &longs;orte mede&longs;ima, de iquali e una proportione &amp; grandezza, &amp; <lb/>di potentia, </s>
+<s id="id.000028">Se come  il corpo .a. al corpo .b. co&longs;i la potentia del corpo ,a, al d, potentia del <lb/>corpo ,b, dico i corpi .a. b. e&longs;&longs;ere dell'i&longs;te&longs;&longs;a &longs;orte, percioche poniamo il corpo ,a, ugual al <lb/>corpo, la potentia del qual &longs;ia lo .r. </s>
+<s id="id.000029">Saranno adonque come il b. allo .a. co&longs;i lo .r. alla poten<lb/>tia di e&longs;&longs;o .a. laquale e il g. </s>
+<s id="id.000030">Il re&longs;to e manife&longs;to.</s></p><p type="head">
+<s id="id.000031">IL FINE</s></p></chap></body></text></archimedes>

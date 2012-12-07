@@ -1,0 +1,3963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="zho-Hant">社會問題辭典</title>
+            <title xml:lang="zho">Shehui wenti cidian</title>
+            <title xml:lang="eng">Dictionary of Social Problems</title>
+            <author>Chen Shousun 陳綬蓀 (eds.)</author>
+            <editor>Chen Shousun 陳綬蓀</editor>
+         </titleStmt>
+         <publicationStmt>
+            <date>1929</date>
+            <idno>???</idno>
+            <availability>
+               <p>open access</p>
+               <p>http://echo.mpiwg-berlin.mpg.de/policy/oa_basics/declaration</p>
+               <p>free</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Automatically created from the ECHO source; ECHO version 1.0; Script version 2011-06-03</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="zho">zho</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+	  <text xml:lang="zh" type="free">
+		    <front>
+			      <pb facs="0001" n="1"/>
+         <fw type="head">一畫至二畫　一人卜十丁</fw>
+			      <div type="toc">
+				        <head xml:space="preserve">總目錄</head>
+				        <table rows="3" cols="2">
+					          <head xml:space="preserve">一畫</head>
+					          <row>
+						            <cell xml:space="preserve">一夫一妻</cell>
+						            <cell xml:space="preserve">一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">一夫多妻</cell>
+						            <cell xml:space="preserve">一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">一妻多夫</cell>
+						            <cell xml:space="preserve">二</cell>
+					          </row>
+				        </table>
+				        <table rows="19" cols="2">
+					          <head xml:space="preserve">二畫</head>
+					          <row>
+						            <cell xml:space="preserve">人口</cell>
+						            <cell xml:space="preserve">二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">人口論</cell>
+						            <cell xml:space="preserve">八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">人文主義</cell>
+						            <cell xml:space="preserve">二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">人本主義</cell>
+						            <cell xml:space="preserve">二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">人民主權說</cell>
+						            <cell xml:space="preserve">三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">人身買賣</cell>
+						            <cell xml:space="preserve">三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">人為的社會</cell>
+						            <cell xml:space="preserve">一四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">人<g type="R">道</g>主義</cell>
+						            <cell xml:space="preserve">一四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">人道教</cell>
+						            <cell xml:space="preserve">一五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">人種</cell>
+						            <cell xml:space="preserve">一五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">人頭稅</cell>
+						            <cell xml:space="preserve">一五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">人類</cell>
+						            <cell xml:space="preserve">一六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">人類的社會學</cell>
+						            <cell xml:space="preserve">一六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">人類學</cell>
+						            <cell xml:space="preserve">一七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">人權宣言</cell>
+						            <cell xml:space="preserve">一七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">卜勒哈諾夫</hi></cell>
+						            <cell xml:space="preserve">一七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">十一月革命</cell>
+						            <cell xml:space="preserve">一八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">十字軍</cell>
+						            <cell xml:space="preserve">一八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">丁韙良<unclear reason="illegible"/></hi></cell>
+						            <cell xml:space="preserve">一九</cell>
+					          </row>
+				        </table>
+				        <pb facs="0002" n="2"/>
+            <fw type="head">三畫　三凡土士大女子小山工</fw>
+				        <table rows="36" cols="2">
+					          <head xml:space="preserve">三畫</head>
+					          <row>
+						            <cell xml:space="preserve">三一八慘案</cell>
+						            <cell xml:space="preserve">二〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">三月革命</cell>
+						            <cell xml:space="preserve">二二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">三合會</cell>
+						            <cell xml:space="preserve">二二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">三民主義</cell>
+						            <cell xml:space="preserve">二二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">凡得威爾德</hi></cell>
+						            <cell xml:space="preserve">二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">土人問題</cell>
+						            <cell xml:space="preserve">二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">土地</cell>
+						            <cell xml:space="preserve">二八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">士麥林格</hi></cell>
+						            <cell xml:space="preserve">二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">大山郁夫</hi></cell>
+						            <cell xml:space="preserve">二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">大不列<g type="R">顛</g>鑛夫聯合會</cell>
+						            <cell xml:space="preserve">三〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">大同主義</cell>
+						            <cell xml:space="preserve">三〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">大杉榮</hi></cell>
+						            <cell xml:space="preserve">三一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">大<g type="R">逆</g>事件</cell>
+						            <cell xml:space="preserve">三三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">女子國有論</cell>
+						            <cell xml:space="preserve">三四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">子口稅</cell>
+						            <cell xml:space="preserve">三五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">小地主</cell>
+						            <cell xml:space="preserve">三八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">山川均</hi></cell>
+						            <cell xml:space="preserve">三八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">山川菊榮</hi></cell>
+						            <cell xml:space="preserve">三九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">山東問題</cell>
+						            <cell xml:space="preserve">三九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工人保護法</cell>
+						            <cell xml:space="preserve">四一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工會條例</cell>
+						            <cell xml:space="preserve">四二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工業立國</cell>
+						            <cell xml:space="preserve">四七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工業的社會問題</cell>
+						            <cell xml:space="preserve">四八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工業政策</cell>
+						            <cell xml:space="preserve">五〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工業動員</cell>
+						            <cell xml:space="preserve">五一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工業衞生</cell>
+						            <cell xml:space="preserve">五一</cell>
+					          </row>
+					          <pb facs="0003" n="3"/>
+					          <row>
+						            <cell xml:space="preserve">工業簿記</cell>
+						            <cell xml:space="preserve">五一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工場</cell>
+						            <cell xml:space="preserve">五二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工場制工業</cell>
+						            <cell xml:space="preserve">五三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工場委員會制度</cell>
+						            <cell xml:space="preserve">五五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工場法</cell>
+						            <cell xml:space="preserve">五九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工場閉鎖</cell>
+						            <cell xml:space="preserve">六二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工場勞動者</cell>
+						            <cell xml:space="preserve">六三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工場<g type="R">監</g>督官</cell>
+						            <cell xml:space="preserve">六三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工場衞生</cell>
+						            <cell xml:space="preserve">六三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工團主義</cell>
+						            <cell xml:space="preserve">六四</cell>
+					          </row>
+				        </table>
+				        <table rows="65" cols="2">
+					          <head xml:space="preserve">四畫</head>
+					          <row>
+						            <cell xml:space="preserve">不具勞動者問題</cell>
+						            <cell xml:space="preserve">六八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">不勞收入</cell>
+						            <cell xml:space="preserve">六九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">不勞所得</cell>
+						            <cell xml:space="preserve">七〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">不當獲利</cell>
+						            <cell xml:space="preserve">七〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">不熟<g type="R">練</g>勞動者</cell>
+						            <cell xml:space="preserve">七〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">不<g type="R">變</g>資本</cell>
+						            <cell xml:space="preserve">七二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中世手工業<g type="R">組</g>合</cell>
+						            <cell xml:space="preserve">七二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中世基爾特</cell>
+						            <cell xml:space="preserve">七二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中外合辦銀行</cell>
+						            <cell xml:space="preserve">七五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中央集權</cell>
+						            <cell xml:space="preserve">七六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中國司法制度</cell>
+						            <cell xml:space="preserve">七七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中國金融機關</cell>
+						            <cell xml:space="preserve">八一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中國政黨</cell>
+						            <cell xml:space="preserve">九二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中國救濟制度</cell>
+						            <cell xml:space="preserve">九二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中國<g type="R">紙</g>幣制度</cell>
+						            <cell xml:space="preserve">九五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中國婦女參政<g type="R">運</g>動</cell>
+						            <cell xml:space="preserve">九九</cell>
+					          </row>
+					          <pb facs="0004" n="4"/>
+					          <row>
+						            <cell xml:space="preserve">中國婦女職業問題</cell>
+						            <cell xml:space="preserve">九九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中國貨幣制度史</cell>
+						            <cell xml:space="preserve">九九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中國貨幣問題</cell>
+						            <cell xml:space="preserve">一〇二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中國銀行<g type="V">概</g>况</cell>
+						            <cell xml:space="preserve">一一〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中間階<g type="R">級</g></cell>
+						            <cell xml:space="preserve">一一〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中間階級運動</cell>
+						            <cell xml:space="preserve">一一一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">五一節</cell>
+						            <cell xml:space="preserve">一一一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">五卅運動</cell>
+						            <cell xml:space="preserve">一一一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">五月一日</cell>
+						            <cell xml:space="preserve">一一七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">五四運動</cell>
+						            <cell xml:space="preserve">一一七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">五權憲法</cell>
+						            <cell xml:space="preserve">一二〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">公企業</cell>
+						            <cell xml:space="preserve">一二一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">公估局</cell>
+						            <cell xml:space="preserve">一二一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">公社</cell>
+						            <cell xml:space="preserve">一二一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">公娼</cell>
+						            <cell xml:space="preserve">一二二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">公設澡堂</cell>
+						            <cell xml:space="preserve">一二二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">公衆的快樂主義</cell>
+						            <cell xml:space="preserve">一二三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">分業</cell>
+						            <cell xml:space="preserve">一二四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">反軍國主義</cell>
+						            <cell xml:space="preserve">一二六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">孔帕湼拉</hi></cell>
+						            <cell xml:space="preserve">一二六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">孔德</hi></cell>
+						            <cell xml:space="preserve">一二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">少年裁判所</cell>
+						            <cell xml:space="preserve">一二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">巴克斯</hi></cell>
+						            <cell xml:space="preserve">一二八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">巴定</hi></cell>
+						            <cell xml:space="preserve">一二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">巴洛斯</hi></cell>
+						            <cell xml:space="preserve">一二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">巴苦寧</hi></cell>
+						            <cell xml:space="preserve">一二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">巴倍夫</hi></cell>
+						            <cell xml:space="preserve">一三〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">戶口</cell>
+						            <cell xml:space="preserve">一三二</cell>
+					          </row>
+					          <pb facs="0005" n="5"/>
+					          <row>
+						            <cell xml:space="preserve">戶口調查</cell>
+						            <cell xml:space="preserve">一三四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">戶籍</cell>
+						            <cell xml:space="preserve">一三五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">戶籍法</cell>
+						            <cell xml:space="preserve">一三六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">手工幫</cell>
+						            <cell xml:space="preserve">一三六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">文化</cell>
+						            <cell xml:space="preserve">一三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">文化主義</cell>
+						            <cell xml:space="preserve">一三八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">文化的德謨克拉西</cell>
+						            <cell xml:space="preserve">一三九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">文化國家</cell>
+						            <cell xml:space="preserve">一三九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">文藝復興</cell>
+						            <cell xml:space="preserve">一三九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">日本共產黨事件</cell>
+						            <cell xml:space="preserve">一四一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">日本明治<g type="R">維</g>新</cell>
+						            <cell xml:space="preserve">一四二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">日本貨幣制度</cell>
+						            <cell xml:space="preserve">一四四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">日本勞動教育</cell>
+						            <cell xml:space="preserve">一四四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">日本無產政黨</cell>
+						            <cell xml:space="preserve">一四六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">日本農民協會</cell>
+						            <cell xml:space="preserve">一六三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">日本廢除不平等條<g type="R">約</g>的<g type="R">經</g><g type="RV">過</g></cell>
+						            <cell xml:space="preserve">一六四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">比利時貨幣制度</cell>
+						            <cell xml:space="preserve">一六五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">父系</cell>
+						            <cell xml:space="preserve">一六七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">父權</cell>
+						            <cell xml:space="preserve">一六七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">牙行</cell>
+						            <cell xml:space="preserve">一六八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">王安石</hi></cell>
+						            <cell xml:space="preserve">一六八</cell>
+					          </row>
+				        </table>
+				        <table rows="62" cols="2">
+					          <head xml:space="preserve">五畫</head>
+					          <row>
+						            <cell xml:space="preserve">世界主義</cell>
+						            <cell xml:space="preserve">一六九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">世界苦</cell>
+						            <cell xml:space="preserve">一七〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">主權</cell>
+						            <cell xml:space="preserve">一七〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">代理商</cell>
+						            <cell xml:space="preserve">一七一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">出版法</cell>
+						            <cell xml:space="preserve">一七一</cell>
+					          </row>
+					          <pb facs="0006" n="6"/>
+					          <row>
+						            <cell xml:space="preserve">出版權</cell>
+						            <cell xml:space="preserve">一七一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">出獄人保護事業</cell>
+						            <cell xml:space="preserve">一七二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">加爾</hi></cell>
+						            <cell xml:space="preserve">一七二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">加爾特爾</cell>
+						            <cell xml:space="preserve">一七三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">卡盆特</hi></cell>
+						            <cell xml:space="preserve">一七五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">卡培</hi></cell>
+						            <cell xml:space="preserve">一七六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">古典學派</cell>
+						            <cell xml:space="preserve">一七七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">可變資本</cell>
+						            <cell xml:space="preserve">一七七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">右傾</cell>
+						            <cell xml:space="preserve">一七七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">外國郵政</cell>
+						            <cell xml:space="preserve">一七七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">外國郵政匯兌</cell>
+						            <cell xml:space="preserve">一七八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">失業問題</cell>
+						            <cell xml:space="preserve">一七九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">失業保險</cell>
+						            <cell xml:space="preserve">一八二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">奴婢</cell>
+						            <cell xml:space="preserve">一八四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">奴隸問題</cell>
+						            <cell xml:space="preserve">一八七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">市</cell>
+						            <cell xml:space="preserve">一八九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">布拉池佛德</cell>
+						            <cell xml:space="preserve">一九〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">布林德</hi></cell>
+						            <cell xml:space="preserve">一九一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">布浪葵</hi></cell>
+						            <cell xml:space="preserve">一九一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">布浪葵黨</cell>
+						            <cell xml:space="preserve">一九二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">布累</hi></cell>
+						            <cell xml:space="preserve">一九二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">布稜他諾</hi></cell>
+						            <cell xml:space="preserve">一九二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">布爾塞維克</cell>
+						            <cell xml:space="preserve">一九二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">布爾塞維克主義</cell>
+						            <cell xml:space="preserve">一九七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">布蘭汀</hi></cell>
+						            <cell xml:space="preserve">二〇〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">布蘭德</hi></cell>
+						            <cell xml:space="preserve">二〇〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">平民教育運動</cell>
+						            <cell xml:space="preserve">二〇一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">平民圖書<g type="R">館</g></cell>
+						            <cell xml:space="preserve">二〇一</cell>
+					          </row>
+					          <pb facs="0007" n="7"/>
+					          <row>
+						            <cell xml:space="preserve">平均地權</cell>
+						            <cell xml:space="preserve">二〇二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">平等</cell>
+						            <cell xml:space="preserve">二〇四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">戊戌政變</cell>
+						            <cell xml:space="preserve">二〇五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">本位貨幣</cell>
+						            <cell xml:space="preserve">二〇七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">正<g type="R">統</g>學派</cell>
+						            <cell xml:space="preserve">二〇七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">母系</cell>
+						            <cell xml:space="preserve">二〇八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">母性保護論</cell>
+						            <cell xml:space="preserve">二〇八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">母性教育論</cell>
+						            <cell xml:space="preserve">二〇九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">母權</cell>
+						            <cell xml:space="preserve">二一〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">民主主義</cell>
+						            <cell xml:space="preserve">二一〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">瓦特</hi></cell>
+						            <cell xml:space="preserve">二一一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">瓦格湼</hi></cell>
+						            <cell xml:space="preserve">二一二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">甘粕事件</cell>
+						            <cell xml:space="preserve">二一二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">生存最小限度</cell>
+						            <cell xml:space="preserve">二一三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">生存競爭</cell>
+						            <cell xml:space="preserve">二一六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">生存權</cell>
+						            <cell xml:space="preserve">二一八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">生育制限</cell>
+						            <cell xml:space="preserve">二一九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">生產</cell>
+						            <cell xml:space="preserve">二二一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">生產力學說</cell>
+						            <cell xml:space="preserve">二二二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">生產協作社</cell>
+						            <cell xml:space="preserve">二二四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">生產過剩</cell>
+						            <cell xml:space="preserve">二二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">白拉米</hi></cell>
+						            <cell xml:space="preserve">二二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">白軍</cell>
+						            <cell xml:space="preserve">二二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">白<g type="R">蓮</g>教</cell>
+						            <cell xml:space="preserve">二二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">白蓮會</cell>
+						            <cell xml:space="preserve">二三〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">白黎斯</hi></cell>
+						            <cell xml:space="preserve">二三〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">皮斯</hi></cell>
+						            <cell xml:space="preserve">二三一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">皮幣</cell>
+						            <cell xml:space="preserve">二三一</cell>
+					          </row>
+					          <pb facs="0008" n="8"/>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">石川三四郎</hi></cell>
+						            <cell xml:space="preserve">二三一</cell>
+					          </row>
+				        </table>
+				        <table rows="62" cols="2">
+					          <head xml:space="preserve">六畫</head>
+					          <row>
+						            <cell xml:space="preserve">交<g type="R">通</g></cell>
+						            <cell xml:space="preserve">二三二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">交通政策</cell>
+						            <cell xml:space="preserve">二三四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">企業</cell>
+						            <cell xml:space="preserve">二三四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">企業家</cell>
+						            <cell xml:space="preserve">二三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">仲裁裁判制度</cell>
+						            <cell xml:space="preserve">二三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">伊里</hi></cell>
+						            <cell xml:space="preserve">二三八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">休謨</hi></cell>
+						            <cell xml:space="preserve">二三九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">共同經營</cell>
+						            <cell xml:space="preserve">二三九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">共同經濟</cell>
+						            <cell xml:space="preserve">二四〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">共同管理</cell>
+						            <cell xml:space="preserve">二四一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">共和政治</cell>
+						            <cell xml:space="preserve">二四三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">共產主義</cell>
+						            <cell xml:space="preserve">二四四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">列國在華鐵路事業</cell>
+						            <cell xml:space="preserve">二四五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">列國在華鑛山事業</cell>
+						            <cell xml:space="preserve">二四五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">列國對華政治借欵</cell>
+						            <cell xml:space="preserve">二四五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">列國對華貿易</cell>
+						            <cell xml:space="preserve">二四五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">列寧</hi></cell>
+						            <cell xml:space="preserve">二四五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">合名會社</cell>
+						            <cell xml:space="preserve">二四八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">合意<g type="R">結</g>婚</cell>
+						            <cell xml:space="preserve">二四八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">合資會社</cell>
+						            <cell xml:space="preserve">二四八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">同族結婚</cell>
+						            <cell xml:space="preserve">二四八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">同業組合運動</cell>
+						            <cell xml:space="preserve">二四九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">同盟罷工</cell>
+						            <cell xml:space="preserve">二四九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">在華外國銀行</cell>
+						            <cell xml:space="preserve">二五一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">地上權</cell>
+						            <cell xml:space="preserve">二五一</cell>
+					          </row>
+					          <pb facs="0009" n="9"/>
+					          <row>
+						            <cell xml:space="preserve">地方自治</cell>
+						            <cell xml:space="preserve">二五一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">地域團體</cell>
+						            <cell xml:space="preserve">二五三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">宇宙</cell>
+						            <cell xml:space="preserve">二五三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">安息日</cell>
+						            <cell xml:space="preserve">二五四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">安部磯雄</hi></cell>
+						            <cell xml:space="preserve">二五四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">托馬</hi></cell>
+						            <cell xml:space="preserve">二五五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">托爾斯泰</hi></cell>
+						            <cell xml:space="preserve">二五五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">收入</cell>
+						            <cell xml:space="preserve">二五六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">收穫<g type="R">遞</g>減的法則</cell>
+						            <cell xml:space="preserve">二五六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">有產階級</cell>
+						            <cell xml:space="preserve">二五七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">汎德主義</cell>
+						            <cell xml:space="preserve">二五八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">犯罪</cell>
+						            <cell xml:space="preserve">二五九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">犯罪人類學</cell>
+						            <cell xml:space="preserve">二五九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">犯罪心理學</cell>
+						            <cell xml:space="preserve">二六〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">犯罪社會學</cell>
+						            <cell xml:space="preserve">二六〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">犯罪階級</cell>
+						            <cell xml:space="preserve">二六一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">犯罪種族</cell>
+						            <cell xml:space="preserve">二六一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">犯罪學</cell>
+						            <cell xml:space="preserve">二六一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">百倫協約</cell>
+						            <cell xml:space="preserve">二六三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">百貨店</cell>
+						            <cell xml:space="preserve">二六三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">考茨基</hi></cell>
+						            <cell xml:space="preserve">二六四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">自由都市</cell>
+						            <cell xml:space="preserve">二六四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">自由貿易</cell>
+						            <cell xml:space="preserve">二六七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">自足經濟</cell>
+						            <cell xml:space="preserve">二六九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">自治殖民地</cell>
+						            <cell xml:space="preserve">二七〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">自治運動</cell>
+						            <cell xml:space="preserve">二七〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">自耕農</cell>
+						            <cell xml:space="preserve">二七二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">自殺</cell>
+						            <cell xml:space="preserve">二七三</cell>
+					          </row>
+					          <pb facs="0010" n="10"/>
+					          <row>
+						            <cell xml:space="preserve">自然法說</cell>
+						            <cell xml:space="preserve">二七三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">自然社會</cell>
+						            <cell xml:space="preserve">二七四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">自然經濟</cell>
+						            <cell xml:space="preserve">二七四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">血族團體</cell>
+						            <cell xml:space="preserve">二七五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">行</cell>
+						            <cell xml:space="preserve">二七六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">行政法</cell>
+						            <cell xml:space="preserve">二七七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">行政審判</cell>
+						            <cell xml:space="preserve">二七七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">西思蒙第</hi></cell>
+						            <cell xml:space="preserve">二七八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">西摩勒耳</hi></cell>
+						            <cell xml:space="preserve">二七八</cell>
+					          </row>
+				        </table>
+				        <table rows="33" cols="2">
+					          <head xml:space="preserve">七畫</head>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">亨德孫</hi></cell>
+						            <cell xml:space="preserve">二七九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">伯克</hi></cell>
+						            <cell xml:space="preserve">二七九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">伯倫斯太恩</hi></cell>
+						            <cell xml:space="preserve">二八〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">佐治</hi></cell>
+						            <cell xml:space="preserve">二八〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">佐野學</hi></cell>
+						            <cell xml:space="preserve">二八一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">佛教</cell>
+						            <cell xml:space="preserve">二八一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">佛蘭克林</hi></cell>
+						            <cell xml:space="preserve">二八三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">克拉克</hi></cell>
+						            <cell xml:space="preserve">二八三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">克來恩斯</hi></cell>
+						            <cell xml:space="preserve">二八四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">克魯泡特金</hi></cell>
+						            <cell xml:space="preserve">二八四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">判加斯特</hi></cell>
+						            <cell xml:space="preserve">二八五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">判加斯特</hi></cell>
+						            <cell xml:space="preserve">二八五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">利</hi></cell>
+						            <cell xml:space="preserve">二八五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">君主政治</cell>
+						            <cell xml:space="preserve">二八六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">君主特權</cell>
+						            <cell xml:space="preserve">二八六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">宋巴爾特</hi></cell>
+						            <cell xml:space="preserve">二八七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">局外中立</cell>
+						            <cell xml:space="preserve">二八七</cell>
+					          </row>
+					          <pb facs="0011" n="11"/>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">希爾佛丁</hi></cell>
+						            <cell xml:space="preserve">二八八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">快樂主義</cell>
+						            <cell xml:space="preserve">二八八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">快樂經濟</cell>
+						            <cell xml:space="preserve">二八九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">李佳白</hi></cell>
+						            <cell xml:space="preserve">二八九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">李普克尼希</hi></cell>
+						            <cell xml:space="preserve">二九〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">李普克尼希</hi></cell>
+						            <cell xml:space="preserve">二九二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">李嘉圖</hi></cell>
+						            <cell xml:space="preserve">二九三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">步耳克利</hi></cell>
+						            <cell xml:space="preserve">二九三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">沙貝</hi></cell>
+						            <cell xml:space="preserve">二九四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">男女同權問題</cell>
+						            <cell xml:space="preserve">二九四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">私娼</cell>
+						            <cell xml:space="preserve">二九七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">罕忒</hi></cell>
+						            <cell xml:space="preserve">二九七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">貝散特</hi></cell>
+						            <cell xml:space="preserve">二九八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">赤化運動</cell>
+						            <cell xml:space="preserve">二九八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">赤軍</cell>
+						            <cell xml:space="preserve">二九八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">赤旗事件</cell>
+						            <cell xml:space="preserve">二九九</cell>
+					          </row>
+				        </table>
+				        <table rows="89" cols="2">
+					          <head xml:space="preserve">八畫</head>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">亞伯拉罕</hi></cell>
+						            <cell xml:space="preserve">二九九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">亞伯特</hi></cell>
+						            <cell xml:space="preserve">二九九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">亞理士多德</hi></cell>
+						            <cell xml:space="preserve">三〇〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">亞當斯</hi></cell>
+						            <cell xml:space="preserve">三〇四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">來因都市同盟</cell>
+						            <cell xml:space="preserve">三〇四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">刑法</cell>
+						            <cell xml:space="preserve">三〇五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">制錢</cell>
+						            <cell xml:space="preserve">三〇六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">刺法爾格</hi></cell>
+						            <cell xml:space="preserve">三〇六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">券狀黨運動</cell>
+						            <cell xml:space="preserve">三〇六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">協定關稅</cell>
+						            <cell xml:space="preserve">三〇八</cell>
+					          </row>
+					          <pb facs="0012" n="12"/>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">叔爾測對力赤</hi></cell>
+						            <cell xml:space="preserve">三〇九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">和平主義</cell>
+						            <cell xml:space="preserve">三〇九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">和平運動</cell>
+						            <cell xml:space="preserve">三一〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">和爾斯特</hi></cell>
+						            <cell xml:space="preserve">三一二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">固定資本</cell>
+						            <cell xml:space="preserve">三一三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">奇普利哥尼</hi></cell>
+						            <cell xml:space="preserve">三一三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">孟革</hi></cell>
+						            <cell xml:space="preserve">三一四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">孟梭利尼</hi></cell>
+						            <cell xml:space="preserve">三一六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">孟德斯鳩</hi></cell>
+						            <cell xml:space="preserve">三一六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">季節運動</cell>
+						            <cell xml:space="preserve">三一七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">官僚政治</cell>
+						            <cell xml:space="preserve">三一七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">官銀號</cell>
+						            <cell xml:space="preserve">三一八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">幸德秋水</hi></cell>
+						            <cell xml:space="preserve">三一八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">所有權</cell>
+						            <cell xml:space="preserve">三一九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">所得稅</cell>
+						            <cell xml:space="preserve">三二〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">房屋稅</cell>
+						            <cell xml:space="preserve">三二一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">拉夫洛夫</hi></cell>
+						            <cell xml:space="preserve">三二一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">拉坡坡爾特</hi></cell>
+						            <cell xml:space="preserve">三二三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">拉馬克</hi></cell>
+						            <cell xml:space="preserve">三二三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">拉爾金</hi></cell>
+						            <cell xml:space="preserve">三二四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">拉@爾</hi></cell>
+						            <cell xml:space="preserve">三二四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">放任主義</cell>
+						            <cell xml:space="preserve">三二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">易出</cell>
+						            <cell xml:space="preserve">三二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">朋斯</cell>
+						            <cell xml:space="preserve">三二八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">股票</cell>
+						            <cell xml:space="preserve">三二八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">服役結婚</cell>
+						            <cell xml:space="preserve">三二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">河上肇</hi></cell>
+						            <cell xml:space="preserve">三二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">河田嗣郎</hi></cell>
+						            <cell xml:space="preserve">三三〇</cell>
+					          </row>
+					          <pb facs="0013" n="13"/>
+					          <row>
+						            <cell xml:space="preserve">治外法權問題</cell>
+						            <cell xml:space="preserve">三三〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法</cell>
+						            <cell xml:space="preserve">三三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法王</cell>
+						            <cell xml:space="preserve">三三八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法西斯蒂黨</cell>
+						            <cell xml:space="preserve">三三九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法冷求組<g type="R">織</g></cell>
+						            <cell xml:space="preserve">三四三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法的社會主義</cell>
+						            <cell xml:space="preserve">三四三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法治國</cell>
+						            <cell xml:space="preserve">三四七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法律</cell>
+						            <cell xml:space="preserve">三四七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法律行為</cell>
+						            <cell xml:space="preserve">三四八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法國勞動總同盟</cell>
+						            <cell xml:space="preserve">三四八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法貨</cell>
+						            <cell xml:space="preserve">三五〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法醫學</cell>
+						            <cell xml:space="preserve">三五一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法蘭西工場法</cell>
+						            <cell xml:space="preserve">三五一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法蘭西社會主義運動</cell>
+						            <cell xml:space="preserve">三五二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法蘭西救濟事業</cell>
+						            <cell xml:space="preserve">三五五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法蘭西貨幣制度</cell>
+						            <cell xml:space="preserve">三五六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法蘭西勞動運動</cell>
+						            <cell xml:space="preserve">三五七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">波尼法卓</hi></cell>
+						            <cell xml:space="preserve">三五七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">物理學</cell>
+						            <cell xml:space="preserve">三五七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">物質</cell>
+						            <cell xml:space="preserve">三五八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">直接行動</cell>
+						            <cell xml:space="preserve">三五九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">知識階級</cell>
+						            <cell xml:space="preserve">三六〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">知覺</cell>
+						            <cell xml:space="preserve">三六〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">社倉</cell>
+						            <cell xml:space="preserve">三六一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">社會主義</cell>
+						            <cell xml:space="preserve">三六一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">社會民主主義</cell>
+						            <cell xml:space="preserve">三七四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">社會改良主義</cell>
+						            <cell xml:space="preserve">三七四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">社會保險</cell>
+						            <cell xml:space="preserve">三七六</cell>
+					          </row>
+					          <pb facs="0014" n="14"/>
+					          <row>
+						            <cell xml:space="preserve">社會問題</cell>
+						            <cell xml:space="preserve">三七七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">近世國家</cell>
+						            <cell xml:space="preserve">三八〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">金本位</cell>
+						            <cell xml:space="preserve">三八〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">金匯兌本位</cell>
+						            <cell xml:space="preserve">三八一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">金銀比價</cell>
+						            <cell xml:space="preserve">三八一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">金融</cell>
+						            <cell xml:space="preserve">三八二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">金融市場</cell>
+						            <cell xml:space="preserve">三八三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">金融機關</cell>
+						            <cell xml:space="preserve">三八三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">門<g type="R">羅</g>主義</cell>
+						            <cell xml:space="preserve">三八三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">阿立斯托克拉西</hi></cell>
+						            <cell xml:space="preserve">三八四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">阿伯</hi></cell>
+						            <cell xml:space="preserve">三八四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">阿克來</hi></cell>
+						            <cell xml:space="preserve">三八五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">阿拉丁</hi></cell>
+						            <cell xml:space="preserve">三八六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">阿坡羅</hi></cell>
+						            <cell xml:space="preserve">三八六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">阿威林</hi></cell>
+						            <cell xml:space="preserve">三八七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">阿斯岐司</hi></cell>
+						            <cell xml:space="preserve">三八七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">阿爾伯特</hi></cell>
+						            <cell xml:space="preserve">三八七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">阿德勒</hi></cell>
+						            <cell xml:space="preserve">三八七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">阿德勒</hi></cell>
+						            <cell xml:space="preserve">三八八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">阿德勒</hi></cell>
+						            <cell xml:space="preserve">三八八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">阿德勒</hi></cell>
+						            <cell xml:space="preserve">三八九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">青幫</cell>
+						            <cell xml:space="preserve">三八九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">非買同盟</cell>
+						            <cell xml:space="preserve">三八九</cell>
+					          </row>
+				        </table>
+				        <table rows="65" cols="2">
+					          <head xml:space="preserve">九畫</head>
+					          <row>
+						            <cell xml:space="preserve">俄國革命</cell>
+						            <cell xml:space="preserve">三九〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">俄羅斯共產黨</cell>
+						            <cell xml:space="preserve">三九五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">俘虜</cell>
+						            <cell xml:space="preserve">三九七</cell>
+					          </row>
+					          <pb facs="0015" n="15"/>
+					          <row>
+						            <cell xml:space="preserve">保險</cell>
+						            <cell xml:space="preserve">三九八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">保險政策</cell>
+						            <cell xml:space="preserve">三九九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">保險業法</cell>
+						            <cell xml:space="preserve">四〇〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">保護國</cell>
+						            <cell xml:space="preserve">四〇〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">保護勞動者</cell>
+						            <cell xml:space="preserve">四〇一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">保護貿易</cell>
+						            <cell xml:space="preserve">四〇二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">信用</cell>
+						            <cell xml:space="preserve">四〇三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">信用協作社</cell>
+						            <cell xml:space="preserve">四〇六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">信用貨借協作社</cell>
+						            <cell xml:space="preserve">四〇七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">信用經濟</cell>
+						            <cell xml:space="preserve">四〇八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">勃郎</hi></cell>
+						            <cell xml:space="preserve">四〇八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">勃魯斯</hi></cell>
+						            <cell xml:space="preserve">四〇九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">南北戰爭</cell>
+						            <cell xml:space="preserve">四一〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">南滿鉄道株式會社</cell>
+						            <cell xml:space="preserve">四一一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">哈生克勒弗</hi></cell>
+						            <cell xml:space="preserve">四二八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">哈第</hi></cell>
+						            <cell xml:space="preserve">四二八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">哈第</hi></cell>
+						            <cell xml:space="preserve">四二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">哈塞</hi></cell>
+						            <cell xml:space="preserve">四二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">契約說</cell>
+						            <cell xml:space="preserve">四二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">威特靈</hi></cell>
+						            <cell xml:space="preserve">四三〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">威爾遜</hi></cell>
+						            <cell xml:space="preserve">四三一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">宣傳</cell>
+						            <cell xml:space="preserve">四三一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">帝國主義</cell>
+						            <cell xml:space="preserve">四三二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">律師</cell>
+						            <cell xml:space="preserve">四三五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">拜測爾</hi></cell>
+						            <cell xml:space="preserve">四三五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">政黨</cell>
+						            <cell xml:space="preserve">四三五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">柏拉圖</hi></cell>
+						            <cell xml:space="preserve">四四一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">柏刻爾</hi></cell>
+						            <cell xml:space="preserve">四四二</cell>
+					          </row>
+					          <pb facs="0016" n="16"/>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">柏格爾</hi></cell>
+						            <cell xml:space="preserve">四四二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">柏澤斯</hi></cell>
+						            <cell xml:space="preserve">四四二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">柏藍</hi></cell>
+						            <cell xml:space="preserve">四四三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">洛克斐勒</hi></cell>
+						            <cell xml:space="preserve">四四三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">洛瑟</hi></cell>
+						            <cell xml:space="preserve">四四四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">洛德伯爾圖斯</hi></cell>
+						            <cell xml:space="preserve">四四四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">洛澤斯</hi></cell>
+						            <cell xml:space="preserve">四四六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">洪秀全</hi></cell>
+						            <cell xml:space="preserve">四四六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">科林</hi></cell>
+						            <cell xml:space="preserve">四四六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">科斯塔</hi></cell>
+						            <cell xml:space="preserve">四四七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">科爾伯</hi></cell>
+						            <cell xml:space="preserve">四四七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">科學的社會主義</cell>
+						            <cell xml:space="preserve">四四七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">科學的管理法</cell>
+						            <cell xml:space="preserve">四四九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">突然變異說</cell>
+						            <cell xml:space="preserve">四五〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">紅幫</cell>
+						            <cell xml:space="preserve">四五〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">美國工場法</cell>
+						            <cell xml:space="preserve">四五一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">美國社會主義運動</cell>
+						            <cell xml:space="preserve">四五三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">美國救濟事業</cell>
+						            <cell xml:space="preserve">四五四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">美國貨幣制度</cell>
+						            <cell xml:space="preserve">四五六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">美國勞動運動</cell>
+						            <cell xml:space="preserve">四五七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">美國勞動聯合會</cell>
+						            <cell xml:space="preserve">四五八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">美國獨立宣言</cell>
+						            <cell xml:space="preserve">四五九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">耶爾福綱領</cell>
+						            <cell xml:space="preserve">四六一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">若累斯</hi></cell>
+						            <cell xml:space="preserve">四六二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">苦力幫</cell>
+						            <cell xml:space="preserve">四六三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">苦痛經濟</cell>
+						            <cell xml:space="preserve">四六三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">英國貨幣制度</cell>
+						            <cell xml:space="preserve">四六三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">軍國主義</cell>
+						            <cell xml:space="preserve">四六五</cell>
+					          </row>
+					          <pb facs="0017" n="17"/>
+					          <row>
+						            <cell xml:space="preserve">軍需品</cell>
+						            <cell xml:space="preserve">四六五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">重農學派</cell>
+						            <cell xml:space="preserve">四六五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">限界效用</cell>
+						            <cell xml:space="preserve">四六六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">革命</cell>
+						            <cell xml:space="preserve">四六七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">革特</hi></cell>
+						            <cell xml:space="preserve">四六八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">食人種類</cell>
+						            <cell xml:space="preserve">四六九</cell>
+					          </row>
+				        </table>
+				        <table rows="71" cols="2">
+					          <head xml:space="preserve">十畫</head>
+					          <row>
+						            <cell xml:space="preserve">修正派社會主義</cell>
+						            <cell xml:space="preserve">四六九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">俸<g type="R">給</g></cell>
+						            <cell xml:space="preserve">四七三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">俸給生活者問題</cell>
+						            <cell xml:space="preserve">四七三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">俾斯麥</hi></cell>
+						            <cell xml:space="preserve">四七五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">個人主義</cell>
+						            <cell xml:space="preserve">四七六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">個人的快樂主義</cell>
+						            <cell xml:space="preserve">四七九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">倍伯兒</hi></cell>
+						            <cell xml:space="preserve">四七九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">倫敦</hi></cell>
+						            <cell xml:space="preserve">四八〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">倭兒夫</hi></cell>
+						            <cell xml:space="preserve">四八一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">倭鏗</hi></cell>
+						            <cell xml:space="preserve">四八一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">原始人</cell>
+						            <cell xml:space="preserve">四八二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">原始共產制</cell>
+						            <cell xml:space="preserve">四八二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">原始共產團體</cell>
+						            <cell xml:space="preserve">四八五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">原始狀態</cell>
+						            <cell xml:space="preserve">四八五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">原始社會</cell>
+						            <cell xml:space="preserve">四八五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">原始期</cell>
+						            <cell xml:space="preserve">四八六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">哥老會</cell>
+						            <cell xml:space="preserve">四八六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">哥森</hi></cell>
+						            <cell xml:space="preserve">四八七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">哥爾德曼</hi></cell>
+						            <cell xml:space="preserve">四八七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">唐才常</hi></cell>
+						            <cell xml:space="preserve">四八八</cell>
+					          </row>
+					          <pb facs="0018" n="18"/>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">孫中山</hi></cell>
+						            <cell xml:space="preserve">四八八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">孫能菲爾斯</hi></cell>
+						            <cell xml:space="preserve">五〇二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">家內工業</cell>
+						            <cell xml:space="preserve">五〇二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">家長</cell>
+						            <cell xml:space="preserve">五〇四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">家長政治</cell>
+						            <cell xml:space="preserve">五〇五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">家族</cell>
+						            <cell xml:space="preserve">五〇六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">家族共產體</cell>
+						            <cell xml:space="preserve">五〇六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">家族經濟</cell>
+						            <cell xml:space="preserve">五〇七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">家族經濟的工業</cell>
+						            <cell xml:space="preserve">五〇七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">庫平</cell>
+						            <cell xml:space="preserve">五〇八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">徒弟制度</cell>
+						            <cell xml:space="preserve">五〇八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">恩格爾</hi></cell>
+						            <cell xml:space="preserve">五〇九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">時代思潮</cell>
+						            <cell xml:space="preserve">五一一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">時代精神</cell>
+						            <cell xml:space="preserve">五一一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">時代錯誤</cell>
+						            <cell xml:space="preserve">五一一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">格勒善法則</cell>
+						            <cell xml:space="preserve">五一一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">格雷</hi></cell>
+						            <cell xml:space="preserve">五一二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">栖聶</hi></cell>
+						            <cell xml:space="preserve">五一二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">海上保險</cell>
+						            <cell xml:space="preserve">五一三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">海外移民</cell>
+						            <cell xml:space="preserve">五一四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">海底電線</cell>
+						            <cell xml:space="preserve">五一四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">海運同盟</cell>
+						            <cell xml:space="preserve">五一五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">海運政策</cell>
+						            <cell xml:space="preserve">五一五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">海運補助費</cell>
+						            <cell xml:space="preserve">五一六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">海德曼</hi></cell>
+						            <cell xml:space="preserve">五一六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">消費</cell>
+						            <cell xml:space="preserve">五一七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">消費者餘剩</cell>
+						            <cell xml:space="preserve">五一八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">消費協作社</cell>
+						            <cell xml:space="preserve">五一九</cell>
+					          </row>
+					          <pb facs="0019" n="19"/>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">特洛厄爾斯特刺</hi></cell>
+						            <cell xml:space="preserve">五二三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">留學生問題</cell>
+						            <cell xml:space="preserve">五二三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">疾病保險</cell>
+						            <cell xml:space="preserve">五二四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">破產</cell>
+						            <cell xml:space="preserve">五二五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">秘密結社</cell>
+						            <cell xml:space="preserve">五二五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">租借地</cell>
+						            <cell xml:space="preserve">五二五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">純正社會學</cell>
+						            <cell xml:space="preserve">五二五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">紙幣</cell>
+						            <cell xml:space="preserve">五二六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">紙錢</cell>
+						            <cell xml:space="preserve">五二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">荒政</cell>
+						            <cell xml:space="preserve">五二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">記<g type="R">述</g>的社會學</cell>
+						            <cell xml:space="preserve">五二八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">財政</cell>
+						            <cell xml:space="preserve">五二八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">馬克多那爾</hi></cell>
+						            <cell xml:space="preserve">五二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">馬克斯</hi></cell>
+						            <cell xml:space="preserve">五二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">馬克團體</cell>
+						            <cell xml:space="preserve">五三二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">馬政</cell>
+						            <cell xml:space="preserve">五三三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">馬隆</hi></cell>
+						            <cell xml:space="preserve">五三三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">馬爾薩斯</hi></cell>
+						            <cell xml:space="preserve">五三四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">馬爾薩斯人口論</cell>
+						            <cell xml:space="preserve">五三五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">馬爾薩斯主義</cell>
+						            <cell xml:space="preserve">五三五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">高田保馬</hi></cell>
+						            <cell xml:space="preserve">五三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">高鼻素之</hi></cell>
+						            <cell xml:space="preserve">五三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">高爾塞</hi></cell>
+						            <cell xml:space="preserve">五三七</cell>
+					          </row>
+				        </table>
+				        <table rows="108" cols="2">
+					          <head xml:space="preserve">十一畫</head>
+					          <row>
+						            <cell xml:space="preserve">偉偉宴尼</cell>
+						            <cell xml:space="preserve">五三八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">健康保險</cell>
+						            <cell xml:space="preserve">五三九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">偶像破壞</cell>
+						            <cell xml:space="preserve">五三九</cell>
+					          </row>
+					          <pb facs="0020" n="20"/>
+					          <row>
+						            <cell xml:space="preserve">剩餘價值</cell>
+						            <cell xml:space="preserve">五三九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">勒啦波列</hi></cell>
+						            <cell xml:space="preserve">五四一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">動物虐待防止事業</cell>
+						            <cell xml:space="preserve">五四一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">動產稅</cell>
+						            <cell xml:space="preserve">五四二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">動產銀行</cell>
+						            <cell xml:space="preserve">五四二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">唯心論</cell>
+						            <cell xml:space="preserve">五四三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">唯物史觀</cell>
+						            <cell xml:space="preserve">五四四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">商務公所</cell>
+						            <cell xml:space="preserve">五五〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">商埠</cell>
+						            <cell xml:space="preserve">五五一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">商業</cell>
+						            <cell xml:space="preserve">五五二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">商業使用人</cell>
+						            <cell xml:space="preserve">五五四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">商業政策</cell>
+						            <cell xml:space="preserve">五五四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國民</cell>
+						            <cell xml:space="preserve">五五四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國民性</cell>
+						            <cell xml:space="preserve">五五五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國民保險</cell>
+						            <cell xml:space="preserve">五五五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國民經濟</cell>
+						            <cell xml:space="preserve">五五六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國民經濟學</cell>
+						            <cell xml:space="preserve">五五六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國民道德</cell>
+						            <cell xml:space="preserve">五五六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國定關稅</cell>
+						            <cell xml:space="preserve">五五七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國家</cell>
+						            <cell xml:space="preserve">五五七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國家有機體說</cell>
+						            <cell xml:space="preserve">五五九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國家社會主義</cell>
+						            <cell xml:space="preserve">五五九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國家聯合</cell>
+						            <cell xml:space="preserve">五六一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國庫</cell>
+						            <cell xml:space="preserve">五六一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國際</cell>
+						            <cell xml:space="preserve">五六二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國際公法</cell>
+						            <cell xml:space="preserve">五六二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國際主義</cell>
+						            <cell xml:space="preserve">五六二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國際私法</cell>
+						            <cell xml:space="preserve">五六三</cell>
+					          </row>
+					          <pb facs="0021" n="21"/>
+					          <row>
+						            <cell xml:space="preserve">國際貨幣</cell>
+						            <cell xml:space="preserve">五六三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國際勞動者同盟</cell>
+						            <cell xml:space="preserve">五六四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國際勞動者保護法</cell>
+						            <cell xml:space="preserve">五七一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國際勞動會議</cell>
+						            <cell xml:space="preserve">五七二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國際經濟會議</cell>
+						            <cell xml:space="preserve">五七三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國際道德</cell>
+						            <cell xml:space="preserve">五七五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國際價值學說</cell>
+						            <cell xml:space="preserve">五七五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國際聯盟</cell>
+						            <cell xml:space="preserve">五七五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國權恢復運動</cell>
+						            <cell xml:space="preserve">五七六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">培根</hi></cell>
+						            <cell xml:space="preserve">五八三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">基督</hi></cell>
+						            <cell xml:space="preserve">五八四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">基督教</cell>
+						            <cell xml:space="preserve">五八四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">基督教社會主義</cell>
+						            <cell xml:space="preserve">五八八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">基督教青年會</cell>
+						            <cell xml:space="preserve">五九〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">基爾特</cell>
+						            <cell xml:space="preserve">五九〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">基爾特社會主義</cell>
+						            <cell xml:space="preserve">五九〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">婆羅門教</cell>
+						            <cell xml:space="preserve">五九六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">婦女問題</cell>
+						            <cell xml:space="preserve">五九八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">婦女參政權問題</cell>
+						            <cell xml:space="preserve">六〇〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">婦女勞動問題</cell>
+						            <cell xml:space="preserve">六〇二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">婦女解放</cell>
+						            <cell xml:space="preserve">六〇三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">婦女運動</cell>
+						            <cell xml:space="preserve">六〇三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">婦女職業問題</cell>
+						            <cell xml:space="preserve">六〇五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">密爾蘭</hi></cell>
+						            <cell xml:space="preserve">六〇八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">常平倉</cell>
+						            <cell xml:space="preserve">六〇九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">常關</cell>
+						            <cell xml:space="preserve">六〇九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">康多塞</hi></cell>
+						            <cell xml:space="preserve">六一〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">康西德隆</hi></cell>
+						            <cell xml:space="preserve">六一一</cell>
+					          </row>
+					          <pb facs="0022" n="22"/>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">康拉德</hi></cell>
+						            <cell xml:space="preserve">六一二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">康德</hi></cell>
+						            <cell xml:space="preserve">六一二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">強制保險制度</cell>
+						            <cell xml:space="preserve">六一三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">得布茲</hi></cell>
+						            <cell xml:space="preserve">六一三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">從量稅</cell>
+						            <cell xml:space="preserve">六一四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">從價稅</cell>
+						            <cell xml:space="preserve">六一四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">排滿運動</cell>
+						            <cell xml:space="preserve">六一五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">教育統計</cell>
+						            <cell xml:space="preserve">六一八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">教權主義</cell>
+						            <cell xml:space="preserve">六一九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">救世軍</cell>
+						            <cell xml:space="preserve">六一九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">救濟收入</cell>
+						            <cell xml:space="preserve">六二〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">救濟稅</cell>
+						            <cell xml:space="preserve">六二〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">梅林</hi></cell>
+						            <cell xml:space="preserve">六二一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">條約</cell>
+						            <cell xml:space="preserve">六二一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">欲望</cell>
+						            <cell xml:space="preserve">六二三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">產婦保險</cell>
+						            <cell xml:space="preserve">六二五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">產業革命</cell>
+						            <cell xml:space="preserve">六二五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">產業協作社</cell>
+						            <cell xml:space="preserve">六二八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">產業預備軍</cell>
+						            <cell xml:space="preserve">六二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">畢然<g type="R">納</g></hi></cell>
+						            <cell xml:space="preserve">六三二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">票莊</cell>
+						            <cell xml:space="preserve">六三三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">移人民</cell>
+						            <cell xml:space="preserve">六三三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">移民</cell>
+						            <cell xml:space="preserve">六三三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">移民政策</cell>
+						            <cell xml:space="preserve">六三五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">移民限制問題</cell>
+						            <cell xml:space="preserve">六三五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">移出民</cell>
+						            <cell xml:space="preserve">六三六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">移殖</cell>
+						            <cell xml:space="preserve">六三六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">第一國際</cell>
+						            <cell xml:space="preserve">六三七</cell>
+					          </row>
+					          <pb facs="0023" n="23"/>
+					          <row>
+						            <cell xml:space="preserve">第二國際</cell>
+						            <cell xml:space="preserve">六三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">第二半國際</cell>
+						            <cell xml:space="preserve">六三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">第三國際</cell>
+						            <cell xml:space="preserve">六三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">第四國際</cell>
+						            <cell xml:space="preserve">六三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">脫落茨基</hi></cell>
+						            <cell xml:space="preserve">六三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">荷治<unclear reason="illegible"/>斯金</hi></cell>
+						            <cell xml:space="preserve">六三九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">莫理斯</hi></cell>
+						            <cell xml:space="preserve">六三九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">被支配階級</cell>
+						            <cell xml:space="preserve">六四〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">被告人</cell>
+						            <cell xml:space="preserve">六四〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">被<g type="R">選</g>舉權</cell>
+						            <cell xml:space="preserve">六四〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">貧民問題</cell>
+						            <cell xml:space="preserve">六四二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">貨幣分量說</cell>
+						            <cell xml:space="preserve">六四三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">貨幣經濟</cell>
+						            <cell xml:space="preserve">六四三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">通商條約</cell>
+						            <cell xml:space="preserve">六四五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">通行稅</cell>
+						            <cell xml:space="preserve">六四六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">部族</cell>
+						            <cell xml:space="preserve">六四六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">郵政</cell>
+						            <cell xml:space="preserve">六四六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">野蠻</cell>
+						            <cell xml:space="preserve">六四七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">陸克</hi></cell>
+						            <cell xml:space="preserve">六四七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">麻生久</hi></cell>
+						            <cell xml:space="preserve">六四八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">黃色組合</cell>
+						            <cell xml:space="preserve">六四八</cell>
+					          </row>
+				        </table>
+				        <table rows="57" cols="2">
+					          <head xml:space="preserve">十二畫</head>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">傳立葉</hi></cell>
+						            <cell xml:space="preserve">六四九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">備荒</cell>
+						            <cell xml:space="preserve">六五〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">割讓地</cell>
+						            <cell xml:space="preserve">六五〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">勞力收入</cell>
+						            <cell xml:space="preserve">六五〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">勞兵會</cell>
+						            <cell xml:space="preserve">六五一</cell>
+					          </row>
+					          <pb facs="0024" n="24"/>
+					          <row>
+						            <cell xml:space="preserve">勞動者保護法</cell>
+						            <cell xml:space="preserve">六五二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">勞動條件</cell>
+						            <cell xml:space="preserve">六五三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">勞動組合</cell>
+						            <cell xml:space="preserve">六五四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">勞動組合法</cell>
+						            <cell xml:space="preserve">六六三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">勞動階級</cell>
+						            <cell xml:space="preserve">六六五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">勞動會議所</cell>
+						            <cell xml:space="preserve">六六五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">勞動<g type="R">節</g></cell>
+						            <cell xml:space="preserve">六六六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">勞農俄羅斯</cell>
+						            <cell xml:space="preserve">六六七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">博愛主義</cell>
+						            <cell xml:space="preserve">六六八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">喀萊爾</hi></cell>
+						            <cell xml:space="preserve">六六八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">喜爾得希藍</hi></cell>
+						            <cell xml:space="preserve">六六九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">堺利彥</hi></cell>
+						            <cell xml:space="preserve">六七〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">奢侈稅</cell>
+						            <cell xml:space="preserve">六七〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">富國論</cell>
+						            <cell xml:space="preserve">六七二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">揆內</hi></cell>
+						            <cell xml:space="preserve">六七二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">提列特</hi></cell>
+						            <cell xml:space="preserve">六七三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">斐希特</hi></cell>
+						            <cell xml:space="preserve">六七四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">斯巴哥</hi></cell>
+						            <cell xml:space="preserve">六七四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">斯巴爾<g type="R">達</g>克斯團</cell>
+						            <cell xml:space="preserve">六七五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">普通選舉</cell>
+						            <cell xml:space="preserve">六七五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">普通警察</cell>
+						            <cell xml:space="preserve">六七七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">普魯東</hi></cell>
+						            <cell xml:space="preserve">六七七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">最低賃銀法</cell>
+						            <cell xml:space="preserve">六七七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">最惠國條欵</cell>
+						            <cell xml:space="preserve">六八一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">森戶辰男</hi></cell>
+						            <cell xml:space="preserve">六八五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">減債基金制度</cell>
+						            <cell xml:space="preserve">六八六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">湯姆孫</hi></cell>
+						            <cell xml:space="preserve">六八六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">無政府主義</cell>
+						            <cell xml:space="preserve">六八七</cell>
+					          </row>
+					          <pb facs="0025" n="25"/>
+					          <row>
+						            <cell xml:space="preserve">無產知識階級</cell>
+						            <cell xml:space="preserve">六九一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">無產階級</cell>
+						            <cell xml:space="preserve">六九二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">異族結婚</cell>
+						            <cell xml:space="preserve">六九二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">發永蘭</hi></cell>
+						            <cell xml:space="preserve">六九三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">童工</cell>
+						            <cell xml:space="preserve">六九四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">筋肉勞動</cell>
+						            <cell xml:space="preserve">六九五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">筋肉勞動主義</cell>
+						            <cell xml:space="preserve">六九五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">結社</cell>
+						            <cell xml:space="preserve">六九六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">結婚</cell>
+						            <cell xml:space="preserve">六九六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">統計</cell>
+						            <cell xml:space="preserve">六九七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">腓立堡</hi></cell>
+						            <cell xml:space="preserve">六九八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">華工問題</cell>
+						            <cell xml:space="preserve">六九八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">華盛頓</hi></cell>
+						            <cell xml:space="preserve">七〇二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">虛無主義及虛無黨</cell>
+						            <cell xml:space="preserve">七〇二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">裁兵廢督</cell>
+						            <cell xml:space="preserve">七〇四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">貴族</cell>
+						            <cell xml:space="preserve">七〇四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">貴族政治</cell>
+						            <cell xml:space="preserve">七〇六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">買賣結婚</cell>
+						            <cell xml:space="preserve">七〇六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">費賓協會</cell>
+						            <cell xml:space="preserve">七〇六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">賀川豐彥</hi></cell>
+						            <cell xml:space="preserve">七〇七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">開墾</cell>
+						            <cell xml:space="preserve">七〇八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">間接稅</cell>
+						            <cell xml:space="preserve">七〇八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">隆格</hi></cell>
+						            <cell xml:space="preserve">七〇九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">集合意識</cell>
+						            <cell xml:space="preserve">七〇九</cell>
+					          </row>
+				        </table>
+				        <table rows="60" cols="2">
+					          <head xml:space="preserve">十三畫</head>
+					          <row>
+						            <cell xml:space="preserve">傭雇者責任法</cell>
+						            <cell xml:space="preserve">七一〇</cell>
+					          </row>
+					          <pb facs="0026" n="26"/>
+					          <row>
+						            <cell xml:space="preserve">傷害保險</cell>
+						            <cell xml:space="preserve">七一一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">勤工儉學</cell>
+						            <cell xml:space="preserve">七一二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">塔刻</hi></cell>
+						            <cell xml:space="preserve">七一三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">塞利格曼</hi></cell>
+						            <cell xml:space="preserve">七一四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">奧培海麥</hi></cell>
+						            <cell xml:space="preserve">七一四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">奧爾</hi></cell>
+						            <cell xml:space="preserve">七一四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">廉價<g type="R">迫</g>賣政策</cell>
+						            <cell xml:space="preserve">七一五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">意大利勞動運動</cell>
+						            <cell xml:space="preserve">七一五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">意大利社會主義運動</cell>
+						            <cell xml:space="preserve">七一六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">愛斯納</hi></cell>
+						            <cell xml:space="preserve">七一八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">愛琿條約</cell>
+						            <cell xml:space="preserve">七一八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">感化事業</cell>
+						            <cell xml:space="preserve">七一八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">感化法</cell>
+						            <cell xml:space="preserve">七二〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">感化院</cell>
+						            <cell xml:space="preserve">七二〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">新中間階級</cell>
+						            <cell xml:space="preserve">七二〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">新馬爾薩斯主義</cell>
+						            <cell xml:space="preserve">七二〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">新經濟政策</cell>
+						            <cell xml:space="preserve">七二一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">暗殺</cell>
+						            <cell xml:space="preserve">七二三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">會審公廨</cell>
+						            <cell xml:space="preserve">七二三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">楊</hi></cell>
+						            <cell xml:space="preserve">七二五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">當舖</cell>
+						            <cell xml:space="preserve">七二五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">倭奴</cell>
+						            <cell xml:space="preserve">七二六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">禁酒運動</cell>
+						            <cell xml:space="preserve">七二六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">禁慾主義</cell>
+						            <cell xml:space="preserve">七二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">經濟</cell>
+						            <cell xml:space="preserve">七二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">經濟政策</cell>
+						            <cell xml:space="preserve">七二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">經濟學</cell>
+						            <cell xml:space="preserve">七三〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">經營</cell>
+						            <cell xml:space="preserve">七三二</cell>
+					          </row>
+					          <pb facs="0027" n="27"/>
+					          <row>
+						            <cell xml:space="preserve">義倉</cell>
+						            <cell xml:space="preserve">七三六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">義務</cell>
+						            <cell xml:space="preserve">七三六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">聖西門</hi></cell>
+						            <cell xml:space="preserve">七三六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">聖西亞滿得</hi></cell>
+						            <cell xml:space="preserve">七三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">萬國主義</cell>
+						            <cell xml:space="preserve">七三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">葛德文</hi></cell>
+						            <cell xml:space="preserve">七三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">補助貨幣</cell>
+						            <cell xml:space="preserve">七三八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">詭辯學派</cell>
+						            <cell xml:space="preserve">七三八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">資本</cell>
+						            <cell xml:space="preserve">七三八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">資本主義</cell>
+						            <cell xml:space="preserve">七四三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">資本主義國家對華政治侵略</cell>
+						            <cell xml:space="preserve">七四七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">資本主義國家在華經濟侵略</cell>
+						            <cell xml:space="preserve">七五二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">資本家階級</cell>
+						            <cell xml:space="preserve">七五九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">農本主義</cell>
+						            <cell xml:space="preserve">七六〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">農村問題</cell>
+						            <cell xml:space="preserve">七六五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">農業底衰<g type="R">退</g></cell>
+						            <cell xml:space="preserve">七六六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">農業社會問題</cell>
+						            <cell xml:space="preserve">七七二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">農業保護主義與工商立國主義</cell>
+						            <cell xml:space="preserve">七七六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">農業政策</cell>
+						            <cell xml:space="preserve">七七八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">運用資本</cell>
+						            <cell xml:space="preserve">七八六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">運<g type="R">輸</g></cell>
+						            <cell xml:space="preserve">七八七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">鈴木文治</hi></cell>
+						            <cell xml:space="preserve">七八七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">過勞</cell>
+						            <cell xml:space="preserve">七八八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">過激主義</cell>
+						            <cell xml:space="preserve">七八九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">過激派</cell>
+						            <cell xml:space="preserve">七八九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">達尼爾</hi></cell>
+						            <cell xml:space="preserve">七八九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">達爾文</hi></cell>
+						            <cell xml:space="preserve">七九〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">雷德勒</hi></cell>
+						            <cell xml:space="preserve">七九〇</cell>
+					          </row>
+					          <pb facs="0028" n="28"/>
+					          <row>
+						            <cell xml:space="preserve">電氣工業</cell>
+						            <cell xml:space="preserve">七九〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">電報</cell>
+						            <cell xml:space="preserve">七九一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">電話</cell>
+						            <cell xml:space="preserve">七九一</cell>
+					          </row>
+				        </table>
+				        <table rows="29" cols="2">
+					          <head xml:space="preserve">十四畫</head>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">團卑</hi></cell>
+						            <cell xml:space="preserve">七九二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">團體交涉權</cell>
+						            <cell xml:space="preserve">七九三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">團體移民</cell>
+						            <cell xml:space="preserve">七九四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">寡頭政治</cell>
+						            <cell xml:space="preserve">七九五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">實踐社會學</cell>
+						            <cell xml:space="preserve">七九五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">實驗社會學</cell>
+						            <cell xml:space="preserve">七九五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">慈善</cell>
+						            <cell xml:space="preserve">七九六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">歌德</hi></cell>
+						            <cell xml:space="preserve">七九七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">演<g type="R">繹</g>法</cell>
+						            <cell xml:space="preserve">七九七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">演繹學派</cell>
+						            <cell xml:space="preserve">七九七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">漢撒同盟</cell>
+						            <cell xml:space="preserve">七九八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">監獄</cell>
+						            <cell xml:space="preserve">七九九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">監獄衞生</cell>
+						            <cell xml:space="preserve">七九九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">福本和夫</hi></cell>
+						            <cell xml:space="preserve">八〇〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">種族社會</cell>
+						            <cell xml:space="preserve">八〇一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">窩@</hi></cell>
+						            <cell xml:space="preserve">九〇二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">窩雷斯</hi></cell>
+						            <cell xml:space="preserve">八〇二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">窩雷斯</hi></cell>
+						            <cell xml:space="preserve">八〇二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">窩德</hi></cell>
+						            <cell xml:space="preserve">八〇三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">管子</hi></cell>
+						            <cell xml:space="preserve">八〇三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">蒲士</hi></cell>
+						            <cell xml:space="preserve">八〇四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">蒲徠斯</hi></cell>
+						            <cell xml:space="preserve">八〇四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">赫胥黎</hi></cell>
+						            <cell xml:space="preserve">八〇五</cell>
+					          </row>
+					          <pb facs="0029" n="29"/>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">赫爾岑</hi></cell>
+						            <cell xml:space="preserve">八〇五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">赫爾茲加</hi></cell>
+						            <cell xml:space="preserve">八〇六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">銀本位</cell>
+						            <cell xml:space="preserve">八〇六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">銀兩</cell>
+						            <cell xml:space="preserve">八〇七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">銀錠</cell>
+						            <cell xml:space="preserve">八〇七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">領事裁判權</cell>
+						            <cell xml:space="preserve">八〇八</cell>
+					          </row>
+				        </table>
+				        <table rows="26" cols="2">
+					          <head xml:space="preserve">十五畫</head>
+					          <row>
+						            <cell xml:space="preserve">價值</cell>
+						            <cell xml:space="preserve">八〇八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">價格</cell>
+						            <cell xml:space="preserve">八一三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">廣告</cell>
+						            <cell xml:space="preserve">八一四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">德利翁</hi></cell>
+						            <cell xml:space="preserve">八一五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">德國社會主義運動</cell>
+						            <cell xml:space="preserve">八一五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">德國革命</cell>
+						            <cell xml:space="preserve">八一九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">德國貨幣制度</cell>
+						            <cell xml:space="preserve">八二二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">德國勞動運動</cell>
+						            <cell xml:space="preserve">八二三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">德謨克拉西</cell>
+						            <cell xml:space="preserve">八二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">徹斯</hi></cell>
+						            <cell xml:space="preserve">八二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">撫順炭鑛</cell>
+						            <cell xml:space="preserve">八二八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">摩里士</hi></cell>
+						            <cell xml:space="preserve">八二八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">摩立斯</hi></cell>
+						            <cell xml:space="preserve">八二八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">暴動</cell>
+						            <cell xml:space="preserve">八二八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">概念</cell>
+						            <cell xml:space="preserve">八二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">標夏</hi></cell>
+						            <cell xml:space="preserve">八三〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">歐文</hi></cell>
+						            <cell xml:space="preserve">八三〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">節制資本</cell>
+						            <cell xml:space="preserve">八三二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">蓬巴威<unclear reason="illegible"/>克</hi></cell>
+						            <cell xml:space="preserve">八三三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">衝動</cell>
+						            <cell xml:space="preserve">八三三</cell>
+					          </row>
+					          <pb facs="0030" n="30"/>
+					          <row>
+						            <cell xml:space="preserve">複本位</cell>
+						            <cell xml:space="preserve">八三三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">複合國</cell>
+						            <cell xml:space="preserve">八三四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">複選舉制</cell>
+						            <cell xml:space="preserve">八三四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">賣淫</cell>
+						            <cell xml:space="preserve">八三五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">養老保險</cell>
+						            <cell xml:space="preserve">八三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">魯意喬治</hi></cell>
+						            <cell xml:space="preserve">八三七</cell>
+					          </row>
+				        </table>
+				        <table rows="18" cols="2">
+					          <head xml:space="preserve">十六畫</head>
+					          <row>
+						            <cell xml:space="preserve">學生運動</cell>
+						            <cell xml:space="preserve">八三八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">憲法</cell>
+						            <cell xml:space="preserve">八四三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">機能社會</cell>
+						            <cell xml:space="preserve">八四五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">機械</cell>
+						            <cell xml:space="preserve">八四五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">機械的<g type="R">連</g>帶</cell>
+						            <cell xml:space="preserve">八四九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">歷史派經濟學</cell>
+						            <cell xml:space="preserve">八四九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">澤豐茲</hi></cell>
+						            <cell xml:space="preserve">八五〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">獨裁政治</cell>
+						            <cell xml:space="preserve">八五一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">盧梭</hi></cell>
+						            <cell xml:space="preserve">八五二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">盧梭</hi></cell>
+						            <cell xml:space="preserve">八五二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">盧森堡</hi></cell>
+						            <cell xml:space="preserve">八五三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">興中會</cell>
+						            <cell xml:space="preserve">八六〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">衞布</hi></cell>
+						            <cell xml:space="preserve">八六〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">衞布</hi></cell>
+						            <cell xml:space="preserve">八六〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">錢莊</cell>
+						            <cell xml:space="preserve">八六〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">霍卜特曼</hi></cell>
+						            <cell xml:space="preserve">八六一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">霍蒲孫</hi></cell>
+						            <cell xml:space="preserve">八六一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">龍波洛梭</hi></cell>
+						            <cell xml:space="preserve">八六二</cell>
+					          </row>
+				        </table>
+				        <table rows="12" cols="2">
+					          <head xml:space="preserve">十七畫</head>
+					          <pb facs="0031" n="31"/>
+					          <row>
+						            <cell xml:space="preserve">優生學</cell>
+						            <cell xml:space="preserve">八六二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">優勝慾</cell>
+						            <cell xml:space="preserve">八六三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">幫</cell>
+						            <cell xml:space="preserve">八六四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">彌拉波</hi></cell>
+						            <cell xml:space="preserve">八六六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">彌爾</hi></cell>
+						            <cell xml:space="preserve">八六六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">彌爾</hi></cell>
+						            <cell xml:space="preserve">八六八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">營業稅</cell>
+						            <cell xml:space="preserve">八六九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">聯合國家</cell>
+						            <cell xml:space="preserve">八六九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">聯省自治</cell>
+						            <cell xml:space="preserve">八六九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">輿論</cell>
+						            <cell xml:space="preserve">八七〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">講壇社會主義</cell>
+						            <cell xml:space="preserve">八七一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">賽得爾</hi></cell>
+						            <cell xml:space="preserve">八七二</cell>
+					          </row>
+				        </table>
+				        <table rows="11" cols="2">
+					          <head xml:space="preserve">十八畫</head>
+					          <row>
+						            <cell xml:space="preserve">職業</cell>
+						            <cell xml:space="preserve">八七二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">職業病</cell>
+						            <cell xml:space="preserve">八七四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">職業婦女</cell>
+						            <cell xml:space="preserve">八七四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">舊中間階級</cell>
+						            <cell xml:space="preserve">八七五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">舊教社會運動</cell>
+						            <cell xml:space="preserve">八七五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">薩叟立池</hi></cell>
+						            <cell xml:space="preserve">八七六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">謨爾</hi></cell>
+						            <cell xml:space="preserve">八七六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">邊沁</hi></cell>
+						            <cell xml:space="preserve">八七六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">韓非子</hi></cell>
+						            <cell xml:space="preserve">八七七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">騎士</cell>
+						            <cell xml:space="preserve">八七七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">魏司曼</hi></cell>
+						            <cell xml:space="preserve">八七九</cell>
+					          </row>
+				        </table>
+				        <table rows="10" cols="2">
+					          <head xml:space="preserve">十九畫</head>
+					          <row>
+						            <cell xml:space="preserve">懷特勒案</cell>
+						            <cell xml:space="preserve">八七九</cell>
+					          </row>
+					          <pb facs="0032" n="32"/>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">羅立亞</hi></cell>
+						            <cell xml:space="preserve">八七九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">羅斯</hi></cell>
+						            <cell xml:space="preserve">八八〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">羅斯福</hi></cell>
+						            <cell xml:space="preserve">八八〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">藝術</cell>
+						            <cell xml:space="preserve">八八〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">藝術的社會主義</cell>
+						            <cell xml:space="preserve">八八一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">關平</cell>
+						            <cell xml:space="preserve">八八二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">關稅</cell>
+						            <cell xml:space="preserve">八八二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">關稅同盟</cell>
+						            <cell xml:space="preserve">八八三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">關稅制度</cell>
+						            <cell xml:space="preserve">八八四</cell>
+					          </row>
+				        </table>
+				        <table rows="9" cols="2">
+					          <head xml:space="preserve">二十畫</head>
+					          <row>
+						            <cell xml:space="preserve">勸工場</cell>
+						            <cell xml:space="preserve">八八五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">競爭衝動</cell>
+						            <cell xml:space="preserve">八八五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">蘇維埃勞農大會</cell>
+						            <cell xml:space="preserve">八八六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">蘇維埃勞農政治</cell>
+						            <cell xml:space="preserve">八八六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">警察國家</cell>
+						            <cell xml:space="preserve">八八八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">議會</cell>
+						            <cell xml:space="preserve">八八八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">議會主義</cell>
+						            <cell xml:space="preserve">八八九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">議會政治</cell>
+						            <cell xml:space="preserve">八八九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">饑饉</cell>
+						            <cell xml:space="preserve">八九〇</cell>
+					          </row>
+				        </table>
+				        <table rows="5" cols="2">
+					          <head xml:space="preserve">二十一畫</head>
+					          <row>
+						            <cell xml:space="preserve">辯證法</cell>
+						            <cell xml:space="preserve">八九一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">鐵工業</cell>
+						            <cell xml:space="preserve">八九二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">鐵路</cell>
+						            <cell xml:space="preserve">八九三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">鐵路共管說</cell>
+						            <cell xml:space="preserve">八九三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">鐵路政策</cell>
+						            <cell xml:space="preserve">八九三</cell>
+					          </row>
+					          <pb facs="0033" n="33"/>
+				        </table>
+				        <table rows="2" cols="2">
+					          <head xml:space="preserve">二十二畫</head>
+					          <row>
+						            <cell xml:space="preserve">權力</cell>
+						            <cell xml:space="preserve">八九四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">龔勃爾</hi></cell>
+						            <cell xml:space="preserve">八九五</cell>
+					          </row>
+				        </table>
+				        <table rows="3" cols="2">
+					          <head xml:space="preserve">二十三畫</head>
+					          <row>
+						            <cell xml:space="preserve">鑛夫</cell>
+						            <cell xml:space="preserve">八九六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">鑛毒問題</cell>
+						            <cell xml:space="preserve">八九六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">鑛業</cell>
+						            <cell xml:space="preserve">八九七</cell>
+					          </row>
+				        </table>
+				        <table rows="59" cols="2">
+					          <head xml:space="preserve">一畫</head>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">山格爾</hi></cell>
+						            <cell xml:space="preserve">八九九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">工業的封建主義</cell>
+						            <cell xml:space="preserve">九〇〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中國工會運動</cell>
+						            <cell xml:space="preserve">九〇〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">中國關稅制度</cell>
+						            <cell xml:space="preserve">九〇一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">五口通商</cell>
+						            <cell xml:space="preserve">九〇二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">井田制度</cell>
+						            <cell xml:space="preserve">九〇二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">巴黎公社</cell>
+						            <cell xml:space="preserve">九〇三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">巴黎和平會議</cell>
+						            <cell xml:space="preserve">九〇四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">太平天國</cell>
+						            <cell xml:space="preserve">九〇四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">文明</cell>
+						            <cell xml:space="preserve">九〇六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">世界產業勞動者同盟</cell>
+						            <cell xml:space="preserve">九〇六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">民族自决運動</cell>
+						            <cell xml:space="preserve">九〇七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">甘地</hi></cell>
+						            <cell xml:space="preserve">九〇七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">共產村</cell>
+						            <cell xml:space="preserve">九〇七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">全國代表大會</cell>
+						            <cell xml:space="preserve">九〇七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">朱執信</hi></cell>
+						            <cell xml:space="preserve">九一一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">住宅問題</cell>
+						            <cell xml:space="preserve">九一一</cell>
+					          </row>
+					          <pb facs="0034" n="34"/>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">宋教仁</hi></cell>
+						            <cell xml:space="preserve">九一二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">亞丹•斯密</hi></cell>
+						            <cell xml:space="preserve">九一三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">林則徐</hi></cell>
+						            <cell xml:space="preserve">九一四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">法國革命</cell>
+						            <cell xml:space="preserve">九一四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">社會有機體說</cell>
+						            <cell xml:space="preserve">九一五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">社會契約有機體說</cell>
+						            <cell xml:space="preserve">九一六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">社會契約說</cell>
+						            <cell xml:space="preserve">九一六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">保甲法</cell>
+						            <cell xml:space="preserve">九一七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">封建制度</cell>
+						            <cell xml:space="preserve">九一七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">徐錫麟</hi></cell>
+						            <cell xml:space="preserve">九一八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">限界効用說</cell>
+						            <cell xml:space="preserve">九一八</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">秋 瑾</hi></cell>
+						            <cell xml:space="preserve">九一九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">弱小民族</cell>
+						            <cell xml:space="preserve">九二〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">租界收囘運動</cell>
+						            <cell xml:space="preserve">九二〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">租庸調</cell>
+						            <cell xml:space="preserve">九二一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國立勞動所</cell>
+						            <cell xml:space="preserve">九二二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國恥<g type="RV">紀</g>念</cell>
+						            <cell xml:space="preserve">九二二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">國際勞動局</cell>
+						            <cell xml:space="preserve">九二二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">陳天華</hi></cell>
+						            <cell xml:space="preserve">九二三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">陳英士</hi></cell>
+						            <cell xml:space="preserve">九二三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">陪審制度</cell>
+						            <cell xml:space="preserve">九二四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">喇嘛教</cell>
+						            <cell xml:space="preserve">九二五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">階級</cell>
+						            <cell xml:space="preserve">九二五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">階級鬥爭</cell>
+						            <cell xml:space="preserve">九二六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">華盛頓會議</cell>
+						            <cell xml:space="preserve">九二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">跛行本位</cell>
+						            <cell xml:space="preserve">九二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">黃花岡之役</cell>
+						            <cell xml:space="preserve">九二七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">黃　興</hi></cell>
+						            <cell xml:space="preserve">九二八</cell>
+					          </row>
+					          <pb facs="0035" n="35"/>
+					          <row>
+						            <cell xml:space="preserve">買　辦</cell>
+						            <cell xml:space="preserve">九二九</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">勢力範圍</cell>
+						            <cell xml:space="preserve">九三〇</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">經濟鬥爭</cell>
+						            <cell xml:space="preserve">九三一</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">義和團事件</cell>
+						            <cell xml:space="preserve">九三二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">廖仲愷</hi></cell>
+						            <cell xml:space="preserve">九三二</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">漕　運</cell>
+						            <cell xml:space="preserve">九三三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">賃銀制度</cell>
+						            <cell xml:space="preserve">九三三</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">賃銀鐵則</cell>
+						            <cell xml:space="preserve">九三四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">蔡　鍔</hi></cell>
+						            <cell xml:space="preserve">九三四</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">罷工權</cell>
+						            <cell xml:space="preserve">九三五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">鴉片戰爭</cell>
+						            <cell xml:space="preserve">九三五</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">濟南慘案</cell>
+						            <cell xml:space="preserve">九三六</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve">優先權</cell>
+						            <cell xml:space="preserve">九三七</cell>
+					          </row>
+					          <row>
+						            <cell xml:space="preserve"><hi rend="underline">羅 素</hi></cell>
+						            <cell xml:space="preserve">九三七</cell>
+					          </row>
+				        </table>
+			      </div>
+			      <div type="section">
+				        <head xml:space="preserve">附錄</head>
+				        <p>
+					          <s xml:space="preserve">世界社會問題年表</s>
+				        </p>
+				        <p>
+					          <s xml:space="preserve">社會問題參考書</s>
+				        </p>
+			      </div>
+			      <div type="section">
+				        <head xml:space="preserve">索引</head>
+				        <p>
+					          <s xml:space="preserve">人名地名對照表</s>
+				        </p>
+			      </div>
+		    </front>
+
+		    <body>
+			      <pb facs="0557" n="557"/>
+         <fw type="head">十一畫　國</fw>
+			      <div type="entry">
+				        <head xml:space="preserve">國家</head>
+				        <p>
+               <seg type="translation" xml:space="preserve"><foreign xml:lang="en">State</foreign>, 德 <foreign xml:lang="de">Staat</foreign></seg>
+            </p>
+				        <p>
+					          <s xml:space="preserve">〔概說〕 凡在一定的國土上，</s>
+					          <s xml:space="preserve">有統治組織的人類<lb/>集合體，</s>
+					          <s xml:space="preserve">謂之國家。</s>
+					          <s xml:space="preserve">土地、人民、政治是成立國家的<lb/>三要素，</s>
+					          <s xml:space="preserve">三者缺其一，</s>
+					          <s xml:space="preserve">不得稱為國家。</s>
+					          <s xml:space="preserve">其中尤以統治關<lb/>係為最重要，</s>
+					          <s xml:space="preserve"><g type="R">即</g>一階級沒有對於其他階級的支配關<lb/>係，</s>
+					          <s xml:space="preserve">不得成立為國家。</s>
+					          <s xml:space="preserve">元來以上對於國家的解釋，</s>
+					          <s xml:space="preserve">自近<lb/>代成立完備的國家組織後才有的，</s>
+					          <s xml:space="preserve">然國家的意義，</s>
+					          <s xml:space="preserve"><g type="R">隨</g><lb/>時代的推移，</s>
+					          <s xml:space="preserve">也有許多變<g type="R">遷</g>。</s>
+				        </p>
+				        <p>
+					          <s xml:space="preserve"><hi rend="double underline">歐洲</hi>古代的政治團體只限於都市。</s>
+					          <s xml:space="preserve">例如<hi rend="double underline">希臘</hi>人對<lb/>於國家使用 <foreign xml:lang="la">Polis</foreign> （市）的文字，</s>
+					          <s xml:space="preserve"><hi rend="double underline"><g type="R">羅</g>馬</hi>人使用 <foreign xml:lang="la">Civitas</foreign> <lb/>或 <foreign xml:lang="la">respublica</foreign> 的文字，</s>
+					          <s xml:space="preserve">可知古代國家明明是以都市<lb/>為中心。</s>
+					          <s xml:space="preserve"><g type="R">這</g>種狀態由古代<g type="R">繼</g><g type="R">續</g>到中世，</s>
+					          <s xml:space="preserve">後來隨時代的
+				<pb facs="0558" n="558"/><fw type="head">十一畫　國</fw>
+					變遷，</s>
+					          <s xml:space="preserve">漸由都市推廣到地方。</s>
+					          <s xml:space="preserve">如<hi rend="double underline">德</hi>文 <foreign xml:lang="de">Landtag, Land-<lb/>staatsrecht</foreign> 等文字，</s>
+					          <s xml:space="preserve">即是表示地方發達的起原。</s>
+					          <s xml:space="preserve">然至<lb/>中世以後，</s>
+					          <s xml:space="preserve">大國家主義底觀念漸生，</s>
+					          <s xml:space="preserve">君主與國家視為<lb/>同體，</s>
+					          <s xml:space="preserve">至含有近代意義的國家概念，</s>
+					          <s xml:space="preserve">由此發生。</s>
+					          <s xml:space="preserve">這種推<lb/>移變遷，</s>
+					          <s xml:space="preserve">在我國正不少<g type="R">適</g><hi rend="circled underline">當</hi>的例證：</s>
+					          <s xml:space="preserve">我國古代到<hi rend="double underline">周代</hi><lb/>止的國家，</s>
+					          <s xml:space="preserve">是含有一種都市或城市的意義。</s>
+					          <s xml:space="preserve">當時稱<hi rend="circled underline">國</hi><lb/>或<hi rend="circled underline">國</hi>中，</s>
+					          <s xml:space="preserve">僅指都城內的事，</s>
+					          <s xml:space="preserve">到<hi rend="double underline"><g type="V">漢</g>代</hi>大帝國的組織至於<lb/>完備，</s>
+					          <s xml:space="preserve">國家觀念，</s>
+					          <s xml:space="preserve">也漸變更，</s>
+					          <s xml:space="preserve">由<hi rend="double underline">漢代</hi>到<hi rend="double underline">六朝</hi>，</s>
+					          <s xml:space="preserve">國家便作君<lb/>主的代名詞，</s>
+					          <s xml:space="preserve">或被用作政府的意義。</s>
+					          <s xml:space="preserve">這種變遷正與在<lb/><hi rend="double underline">歐洲</hi>無異。</s>
+					          <s xml:space="preserve">然近代的國家概念又是如何呢？</s>
+					          <s xml:space="preserve">自十八世<lb/>紀以來隨政治的思想上起了大變化，</s>
+					          <s xml:space="preserve">國家底解釋，</s>
+					          <s xml:space="preserve">並<lb/>不是如從前以君主或政府為中心的了，</s>
+					          <s xml:space="preserve">凡國民即是<lb/>國家底本體的思想，</s>
+					          <s xml:space="preserve">由是發達。</s>
+				        </p>
+				        <p>
+					          <s xml:space="preserve">〔發達〕 關於國家的起源，</s>
+					          <s xml:space="preserve">除開<hi rend="circled underline">神意說契約說</hi>外，<lb/></s>
+					          <s xml:space="preserve">以社會學的見地作根據，</s>
+					          <s xml:space="preserve">有<hi rend="circled underline">家族起源說</hi>與<hi rend="circled underline">征服起源<lb/>說</hi>兩種。</s>
+					          <s xml:space="preserve">許多學者都主張國家底起源在家族；</s>
+					          <s xml:space="preserve">即承認<lb/>古代國家不過儼若屬於一家長下的人類的集團而<lb/>已。</s>
+					          <s xml:space="preserve">所以古代國家底勢力非常微弱。</s>
+					          <s xml:space="preserve">此不但古代國家<lb/>如是，</s>
+					          <s xml:space="preserve">就是近世大國家組織未發生以前，</s>
+					          <s xml:space="preserve">所謂一種小<lb/>國家制度，</s>
+					          <s xml:space="preserve">不過比古代國家底規模稍大一點。</s>
+					          <s xml:space="preserve">例如十<lb/>四世紀，</s>
+					          <s xml:space="preserve"><hi rend="double underline">日耳曼</hi>底獨立國，</s>
+					          <s xml:space="preserve">約六百以上，</s>
+					          <s xml:space="preserve">當時許多小國<lb/>家保全分立的狀態。</s>
+					          <s xml:space="preserve">這些小國家不待言是古代家族<lb/>的國家，</s>
+					          <s xml:space="preserve">到成立今日大國家止的一種過渡的狀態。</s>
+					          <s xml:space="preserve">當<lb/>時不是沒有世界之國家的大帝國底形態存在，</s>
+					          <s xml:space="preserve">不過<lb/>沒有完全的國家組織，</s>
+					          <s xml:space="preserve">征服者僅以盟主的資格，</s>
+					          <s xml:space="preserve">君臨<lb/>於多數國家上罷了。</s>
+					          <s xml:space="preserve">國家底單位，</s>
+					          <s xml:space="preserve">依然保全從來的一<lb/>種小國家。</s>
+					          <s xml:space="preserve">可是後來隨人類智識的進步，</s>
+					          <s xml:space="preserve">社會的交涉，<lb/></s>
+					          <s xml:space="preserve">也漸頻繁，</s>
+					          <s xml:space="preserve">交通機關亦至發達，</s>
+					          <s xml:space="preserve">所以結果釀成劇烈的
+				<pb facs="0559" n="559"/><fw type="head">十一畫　國</fw>
+					生存競爭，</s>
+					          <s xml:space="preserve">不問<unclear reason="illegible"/>是個人或是國家，</s>
+					          <s xml:space="preserve">弱肉強食的事實，</s>
+					          <s xml:space="preserve">至<lb/>於顯<hi rend="circled underline">明</hi>。</s>
+					          <s xml:space="preserve">這種現象使小國家，</s>
+					          <s xml:space="preserve">自覺互相分裂的不利，</s>
+					          <s xml:space="preserve">漸<lb/>至合同而成立大國<hi rend="circled underline">家</hi>凡除開在<hi rend="double underline">歐洲</hi>的五六大國及<lb/>與併行的幾個國家，</s>
+					          <s xml:space="preserve">並<hi rend="double underline">中國</hi>、<hi rend="double underline">美國</hi>、<hi rend="double underline">日本</hi>外的諸國，<lb/></s>
+					          <s xml:space="preserve">不是作某國底殖民地、就是被壓迫於某國底勢下。<lb/></s>
+					          <s xml:space="preserve">又不僅止此，</s>
+					          <s xml:space="preserve">國家又要締結同盟條約，</s>
+					          <s xml:space="preserve">聯合威勢，</s>
+					          <s xml:space="preserve">或與<lb/>各國相爭，</s>
+					          <s xml:space="preserve">擴張領土，</s>
+					          <s xml:space="preserve">經營殖民地等，</s>
+					          <s xml:space="preserve">以擴充其大國家<lb/>的資格。</s>
+					          <s xml:space="preserve">所以近代國家，</s>
+					          <s xml:space="preserve">與古代並中世國家，</s>
+					          <s xml:space="preserve">完全不同<lb/>了。</s>
+				        </p>
+			      </div>
+
+			      <pb facs="0880" n="880"/>
+         <fw type="head">十九畫　羅藝</fw>
+			      <div type="entry">
+				        <head xml:space="preserve">藝術</head>
+				        <p>
+               <seg type="translation" xml:space="preserve"><foreign xml:lang="en">Art</foreign>, 德 <foreign xml:lang="de">Kunst</foreign>.</seg>
+            </p>
+				        <p>
+					          <s xml:space="preserve">藝術有三個解釋。</s>
+					          <s xml:space="preserve">一、最廣義的解釋；</s>
+					          <s xml:space="preserve">指含有技巧與<lb/>思考的一切活動與製造而言。</s>
+					          <s xml:space="preserve">例如機械工製造機械，<lb/></s>
+					          <s xml:space="preserve">木工建築房屋，</s>
+					          <s xml:space="preserve">都是含有技巧與思考的活動，</s>
+					          <s xml:space="preserve">所以屬<lb/>於藝術部類。</s>
+					          <s xml:space="preserve">二、稍狹義的解釋：</s>
+					          <s xml:space="preserve">指不但僅含技巧與思<lb/>考，</s>
+					          <s xml:space="preserve">並且有審美的價值。</s>
+					          <s xml:space="preserve">在這個解釋的藝術與<hi rend="circled underline">美術</hi>同
+				<pb facs="0881" n="881"/><fw type="head">十九畫　藝</fw>
+					意義，</s>
+					          <s xml:space="preserve">例如<hi rend="circled underline">崇高美</hi>、<hi rend="circled underline">滑稽美</hi>都屬此部。</s>
+					          <s xml:space="preserve">三、最狹義的解<lb/>釋：</s>
+					          <s xml:space="preserve">只限於美術底一部，</s>
+					          <s xml:space="preserve">例如彫刻、<g type="R">繪</g>畫。</s>
+					          <s xml:space="preserve">但用得最多<lb/>的是最狹義，</s>
+					          <s xml:space="preserve">最廣義的一般稱為<hi rend="circled underline">技</hi>術，</s>
+					          <s xml:space="preserve">稍狹義的稱為<lb/><hi rend="circled underline">普通藝術</hi>。</s>
+				        </p>
+			      </div>
+		    </body>
+	  </text>
+</TEI>

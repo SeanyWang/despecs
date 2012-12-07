@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Ueber_de_1910.tex" /> 
+<meta name="date" content="2005-03-10 17:36:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Ueber_de_1910.css" /> 
+</head><body >
+
+<!--l. 12--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 13--><p class="noindent">
+</p><!--l. 14--><p class="noindent"><span 
+class="cmr-12x-x-120">2</span><span 
+class="cmbx-12x-x-120">. </span><span 
+class="cmbxti-10x-x-144">Über einen Satz </span> <br/><span 
+class="cmbxti-10x-x-144">der Wahrscheinlichkeitsrechnung</span>
+<span 
+class="cmbxti-10x-x-144">und seine </span> <br/><span 
+class="cmbxti-10x-x-144">Anwendung in der Strahlungstheorie; </span> <br/><span 
+class="cmbxti-10x-x-144">von</span>
+<span 
+class="cmbxti-10x-x-144">A. Einstein und L. Hopf.</span></p></div>
+<div class="center" >
+
+<!--l. 20--><p class="noindent">
+</p><!--l. 21--><p class="noindent">----------</p></div>
+<div class="center" >
+
+<!--l. 24--><p class="noindent">
+</p><!--l. 25--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>1.   Das physikalische Problem als Ausgangspunkt.</p></div>
+<!--l. 29--><p class="indent">   Will man in der Theorie der Temperaturstrahlung irgend <br/>eine Wirkung der Strahlung berechnen, etwa die auf einen <br/>Oszillator wirkende Kraft, so verwendet man dazu stets als <br/>analytischen Ausdruck für die elektrische oder magnetische
+ <br/>Kraft Fouriersche Reihen der allgemeinen Gestalt
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_19100x.png" alt=" sum               -t                t-    nA n sin 2 p nT  + Bn  cos 2 p n T . " class="par-math-display"  /></center>
+<!--l. 40--><p class="nopar">
+</p><!--l. 43--><p class="noindent">Hierbei ist das Problem gleich auf einen bestimmten Raum-<br/>punkt spezialisiert, was für das Folgende ohne Bedeutung <br/>ist, <span 
+class="cmmi-12">t </span>bedeutet die variable Zeit, <span 
+class="cmmi-12">T </span>die sehr große Zeitdauer, <br/>für welche die Entwickelung gilt. Bei der Berechnung irgend-<br/>welcher Mittelwerte -- und nur solche kommen in der Strahlungs-<br/>theorie überhaupt vor -- nimmt man die einzelnen Koeffi-<br/>zienten <span 
+class="cmmi-12">A</span><sub ><span 
+class="cmmi-8">n</span></sub>, <span 
+class="cmmi-12">B</span><sub ><span 
+class="cmmi-8">n</span></sub> als unabhängig voneinander an, man setzt voraus, <br/>daß jeder Koeffizient unabhängig von den Zahlenwerten der <br/>anderen das Gauss sche Fehlergesetz befolge, so daß die
+ <br/>Wahrscheinlichkeit<sup ><span 
+class="cmr-8">1</span></sup>)   <span 
+class="cmmi-12">dW </span>einer Kombination von Werten <span 
+class="cmmi-12">A</span><sub >
+<span 
+class="cmmi-8">n</span></sub>, <span 
+class="cmmi-12">B</span><sub ><span 
+class="cmmi-8">n</span></sub> <br/>sich aus den Wahrscheinlichkeiten der einzelnen Koeffizienten <br/>einfach als Produkt darstellen müsse.</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+   <center class="math-display" >
+
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_19101x.png" alt="d W  = WA   .WA   ... WB   .WB   ... dA1 ... dB1 ...           1      2       1     2 " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 58--><p class="nopar">
+</p><!--l. 62--><p class="indent">   Da bekanntlich die Strahlungslehre, so wie sie exakt aus <br/>den allgemein anerkannten Fundamenten der Elektrizitäts-<br/>----------
+</p><!--l. 67--><p class="indent">   1) Unter ,,Wahrscheinlichkeit eines Koeffizienten&#8220; ist offenbar <br/>folgendes zu verstehen: Wir denken uns die elektrische Kraft in sehr <br/>vielen Zeitmomenten in Fourier sche Reihen entwickelt. Derjenige <br/>Bruchteil dieser Entwickelungen, bei welchem ein Koeffizient in einem <br/>bestimmten Wertbereich liegt, ist die Wahrscheinlichkeit dieses Wert-<br/>bereiches des betreffenden Koeffizienten.
+<pb/>
+</p><!--l. 78--><p class="indent">
+
+</p><!--l. 79--><p class="noindent">theorie und der statistischen Mechanik folgt, in unlösbare Wider-<br/>sprüche mit der Erfahrung führt, liegt es nahe, dieser ein-<br/>fachen Annahme der Unabhängigkeit zu mißtrauen und ihr die <br/>Schuld an den Mißerfolgen der Strahlungstheorie zuzuschreiben.
+</p><!--l. 85--><p class="indent">   Im folgenden soll nun gezeigt werden, daß dieser Ausweg <br/>unmöglich ist, daß sich vielmehr das physikalische Problem <br/>auf ein rein mathematisches zurückführen läßt, das zum <br/>statistischen Gesetze (1) führt.
+</p><!--l. 91--><p class="indent">   Betrachten wir nämlich die aus einer bestimmten Rich-<br/>tung herkommende<sup ><span 
+class="cmr-8">1</span></sup>) Strahlung, so hat diese gewiß einen höheren <br/>Grad von Ordnung, als die gesamte in einem Punkte wirkende <br/>Strahlung. Die Strahlung aus einer bestimmten Richtung
+ <br/>können wir aber immer noch auffassen als von sehr vielen <br/>Emissionszentren herrührend, d. h. wir können die Fläche, <br/>welche die Strahlung aussendet, noch in sehr viele unabhängig <br/>voneinander ausstrahlende Flächenelemente zerlegen; denn der <br/>Entfernung dieser Fläche vom Aufpunkt sind ja keine Grenzen <br/>gesteckt, also auch nicht ihrer gesamten Ausdehnung. In <br/>diese von den einzelnen Flächenelementen herrührenden Strah-<br/>lungselemente führen wir wieder ein höheres Ordnungsprinzip <br/>ein, indem wir diese Strahlungselemente alle als von gleicher <br/>Form und nur durch eine zeitliche Phase verschieden auf-<br/>fassen; mathematisch gesprochen: die Koeffizienten der Fourier-<br/>schen Reihen, welche die Strahlung der einzelnen Flächenele-<br/>mente darstellen, seien für alle Flächenelemente dieselben, nur <br/>der Anfangspunkt der Zeit von Element zu Element verschie-<br/>den. Können wir Gleichung (1) unter Zugrundelegung dieser <br/>Ordnungsprinzipien beweisen, so gilt sie a fortiori für den <br/>Fall, daß man diese Ordnungsprinzipien fallen läßt. Be-<br/>zeichnet der Index <span 
+class="cmmi-12">s </span>das einzelne Flächenelement, so erhält <br/>die dort ausgesandte Strahlung die Form:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_19102x.png" alt=" sum                 t---ts-   (n) an sin 2p n   T   . " class="par-math-display"  /></center>
+<!--l. 124--><p class="nopar">
+</p><!--l. 127--><p class="noindent">Die gesamte von uns betrachtete Strahlung wird also dar-<br/>gestellt durch die Doppelsummen:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_19103x.png" alt="            (                                                )  sum s   sum n a    sin 2p n t-cos 2 pn ts - cos 2p n t-sin 2p n ts  .           n            T          T             T          T " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 136--><p class="nopar">
+</p><!--l. 139--><p class="noindent">----------
+</p><!--l. 142--><p class="indent">   1) genauer; ,,einem bestimmten Elementarwinkel <span 
+class="cmmi-12">d</span><span 
+class="cmbx-12">x</span> entsprechende&#8220; <br/>Annalen der Physik. IV. Folge. 38. <pb/>
+</p><!--l. 148--><p class="indent">
+
+</p><!--l. 149--><p class="noindent">Vergleichung von (2) und (1) führt also zu den Ausdrücken:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_19104x.png" alt="             sum            ts {  An =  an   s cos 2 pn T  ,              sum            ts    Bn =  an    n sin 2 pn -- ,                          T " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 160--><p class="nopar">
+</p><!--l. 164--><p class="noindent"><span 
+class="cmmi-12">n </span>ist eine sehr große Zahl, <span 
+class="cmmi-12">t</span><sub ><span 
+class="cmmi-8">s</span></sub> kann jeden Wert zwischen 0 <br/>und <span 
+class="cmmi-12">T </span>annehmen, die einzelnen Summanden
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_19105x.png" alt="cos 2p n ts  bzw.   sin 2 pn ts          T                  T " class="par-math-display"  /></center>
+<!--l. 174--><p class="nopar">
+</p><!--l. 178--><p class="noindent">liegen also regellos zwischen <span 
+class="cmsy-10x-x-120">-</span>1 und +1 verteilt und sind <br/>gleich wahrscheinlich positiv wie negativ. Können wir für <br/>eine Kombination von Summen solcher Größen allgemein die <br/>Gültigkeit unserer Gleichung (1) nachweisen, so ist damit auch <br/>die Unmöglichkeit erwiesen, irgend ein Ordnungsprinzip in die <br/>im leeren Raum sich ausbreitende Strahlung einzuführen.
+</p>
+<div class="center" >
+
+<!--l. 188--><p class="noindent">
+</p><!--l. 189--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>2.   Formulierung des allgemeinen mathematischen Problems.</p></div>
+<!--l. 193--><p class="indent">   Wir stellen uns also folgendes mathematische Problem: <br/>Gegeben ist eine sehr große Anzahl von Elementen, deren <br/>Zahlenwerte <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>ein bekanntes statistisches Gesetz befolgen <br/>(entsprechend den <span 
+class="cmmi-12">t</span><sub ><span 
+class="cmmi-8">s</span></sub>). Von jedem dieser 
+Zahlenwerte werden <br/>gewisse Funktionen <span 
+class="cmmi-12">f</span><sub ><span 
+class="cmr-8">1</span></sub> (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>) <span 
+class="cmmi-12">f</span><sub ><span 
+class="cmr-8">2</span></sub> (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>)<span 
+class="cmmi-12">...</span> gebildet (entsprechend
+ <br/><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_19106x.png" alt="                         ) sin 2 p n ts-n .cos 2p n ts          T             T"  class="left" align="middle" />. Diese Funktionen müssen wir <br/>noch einer Einschränkung unterwerfen: Es ergibt sich nämlich <br/>aus der Wahrscheinlichkeit, daß eine der Größen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>zwischen <br/><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>+ <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>liegt, ein statistisches Gesetz für die <span 
+class="cmmi-12">f</span>; die Wahr-<br/>scheinlichkeit <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_19107x.png" alt="(f)"  class="left" align="middle" /> <span 
+class="cmmi-12">df, </span>daß <span 
+class="cmmi-12">f </span>einen Zahlenwert zwischen <span 
+class="cmmi-12">f </span> <br/>und <span 
+class="cmmi-12">f </span>+ <span 
+class="cmmi-12">df</span>
+habe, sei nun stets eine solche Funktion, daß der <br/>Mittelwert
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_19108x.png" alt="      + integral  oo 
+f-=     f f (f) df =  0. 
+    - oo 
+" class="par-math-display"  /></center>
+<!--l. 216--><p class="nopar">
+</p><!--l. 219--><p class="noindent">(Es ist leicht einzusehen, daß unsere Funktionen sin und cos <br/>wirklich diese Voraussetzung erfüllen; denn wenn jeder Wert <br/>von <span 
+class="cmmi-12">t</span><sub ><span 
+class="cmmi-8">s</span></sub> zwischen 0 und <span 
+class="cmmi-12">T </span>gleich wahrscheinlich ist, verschwinden <br/>die Mittelwerte <span class="overline"> sin  2 <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmmi12-19.png" alt="p" class="12x-x-19" /> n</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_19109x.png" alt="ts -- T"  class="frac" align="middle" /></span> und <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191010x.png" alt="---------ts-) cos 2 p n-- .           T"  class="left" align="middle" />
+<pb/>
+</p><!--l. 229--><p class="indent">
+
+</p><!--l. 230--><p class="indent">   Wir fassen nun eine (sehr große) Anzahl <span 
+class="cmmi-12">Z </span>solcher Ele-<br/>mente <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>zu einem System zusammen. Zu einem derartigen <br/>System gehören bestimmte Summen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191011x.png" alt=" sum                sum 
+    (Z)f1(a),       (Z)f2(a) ... " class="par-math-display"  /></center>
+<!--l. 239--><p class="nopar">
+</p><!--l. 242--><p class="noindent">(entsprechend den Koeffizienten <span 
+class="cmmi-12">A</span><sub ><sub ><span 
+class="cmmi-6">n</span></sub></sub><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191012x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">a</span><sub ><sub ><span 
+class="cmmi-6">n</span></sub></sub><span 
+class="cmmi-12">,</span>  <span 
+class="cmmi-12">B</span><sub ><sub ><span 
+class="cmmi-6">n</span></sub></sub><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191013x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">a</span><sub ><sub ><span 
+class="cmmi-6">n</span></sub></sub>). Wir stellen <br/>uns die Aufgabe, das statistische Gesetz zu ermitteln, welches <br/>eine Kombination dieser Summen befolgt.
+</p><!--l. 250--><p class="indent">   Zunächst müssen wir über einen prinzipiellen Punkt Klar-<br/>heit schaffen:
+</p><!--l. 253--><p class="indent">   Das statistische Gesetz, das die Summen <span 
+class="cmex-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmex10-c-50.png" alt=" sum " class="10-120x-x-50" /></span>
+  selbst be-<br/>folgen, wird gar nicht von der Anzahl <span 
+class="cmmi-12">Z </span>der Elemente un-<br/>abhängig sein. Das können wir leicht an dem einfachen <br/>Spezialfall sehen, daß <span 
+class="cmmi-12">f</span>(<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>) nur die Werte +1 und <span 
+class="cmsy-10x-x-120">-</span>1 an-<br/>nehmen könne. Dann ist offenbar:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191014x.png" alt=" sum           sum 
+   (Z+1) =    (Z)± 1 " class="par-math-display"  /></center>
+<!--l. 262--><p class="nopar">
+</p><!--l. 266--><p class="noindent">und
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191015x.png" alt=" sum ------    sum ----     2    =     2 +  1.    (Z+1)      (Z) " class="par-math-display"  /></center>
+<!--l. 273--><p class="nopar">
+</p><!--l. 277--><p class="noindent">Der quadratische Mittelwert der Summe wächst also pro-<br/>portional mit der Anzahl der Elemente. Wollen wir also zu <br/>einem von <span 
+class="cmmi-12">Z </span>unabhängigen statistischen Gesetze gelangen, so <br/>dürfen wir nicht die <span 
+class="cmex-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmex10-c-50.png" alt=" sum " class="10-120x-x-50" /></span>
+  betrachten, sondern, da <span class="overline"> <span 
+class="cmex-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmex10-c-50.png" alt=" sum " class="10-120x-x-50" /></span>
+  <sup ><span 
+class="cmr-8">2</span></sup></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191016x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">Z </span>kon-<br/>stant bleibt, die Größen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191017x.png" alt="       sum 
+     ---- S =   V~ --.        Z " class="par-math-display"  /></center>
+<!--l. 289--><p class="nopar">
+</p>
+<div class="center" >
+
+
+<!--l. 293--><p class="noindent">
+</p><!--l. 294--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>3. Statistisches Gesetz der einzelnen <span 
+class="cmmi-12">S</span>.</p></div>
+<!--l. 298--><p class="indent">   Ehe wir nun eine Kombination aller Größen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191018x.png" alt="        sum 
+S(n) = --(Z) V~ fn(a)-              Z " class="par-math-display"  /></center>
+<!--l. 303--><p class="nopar">
+</p><!--l. 306--><p class="noindent">untersuchen, wollen wir das Wahrscheinlichkeitsgesetz einer <br/>einzelnen solchen Größe aufstellen.
+</p><!--l. 309--><p class="indent">   Wir betrachten eine Vielheit von <span 
+class="cmmi-12">N</span>-Systemen der oben <br/>definierten Art. Zu jedem System gehört ein Zahlenwert <span 
+class="cmmi-12">S</span>. <br/>Diese Größen befolgen wegen der statistischen Verteilung der <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span> <br/>ein gewisses Wahrscheinlichkeitsgesetz, so daß die Anzahl der <br/>Systeme, deren Zahlenwert zwischen <span 
+class="cmmi-12">S </span>und <span 
+class="cmmi-12">S </span>+ <span 
+class="cmmi-12">dS</span>
+liegt:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-5r4"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191019x.png" alt="dN  = F  (S) d S . " class="math-display"  /></center></td><td width="5%">(4)</td></tr></table>
+<!--l. 319--><p class="nopar">
+<pb/>
+</p><!--l. 326--><p class="indent">
+
+</p><!--l. 327--><p class="noindent">Fügen wir nun zu den aus <span 
+class="cmmi-12">Z</span>-Elementen bestehenden Systemen <br/>noch je ein weiteres Element, d. h. gehen wir von <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmmi-8">Z</span></sub> zu <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmmi-8">Z</span><span 
+class="cmr-8">+1</span></sub> <br/>über, so werden die einzelnen Glieder unserer Vielheit ihren <br/>Zahlenwert ändern und in ein anderes Gebiet <span 
+class="cmmi-12">dS </span>einrücken. <br/>Wenn es trotzdem möglich sein soll, zu einem von <span 
+class="cmmi-12">Z</span>
+unab-<br/>hängigen statistischen Gesetz zu gelangen, so darf sich bei <br/>diesem Übergang die Anzahl <span 
+class="cmmi-12">dN </span>nicht ändern. Es muß also <br/>in ein bestimmtes (in unserem einfachsten Fall eindimensionales) <br/>Gebiet <span 
+class="cmmi-12">dS </span>die gleiche Anzahl von Systemen ein- wie austreten. <br/>Bezeichnet <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> die Zahl der Systeme, welche vom Übergang <br/>von <span 
+class="cmmi-12">Z </span>zu <span 
+class="cmmi-12">Z </span>+ 1 Elementen einen gewissen Zahlenwert <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">0</span></sub>
+durch-<br/>schreiten und zwar sowohl der Größe wie der Richtung nach, <br/>so muß:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-6r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191020x.png" alt="divP  = 0, " class="math-display"  /></center></td><td width="5%">(5)</td></tr></table>
+<!--l. 347--><p class="nopar">
+</p><!--l. 351--><p class="noindent">also
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191021x.png" alt="d P ----=  0 d S " class="par-math-display"  /></center>
+<!--l. 358--><p class="nopar">
+</p><!--l. 362--><p class="noindent">und, da ja <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> für <span 
+class="cmmi-12">S </span>= <span 
+class="cmsy-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmsy10-c-31.png" alt=" oo " class="10-120x-x-31" /> </span>jedenfalls gleich 0 sein muß, auch</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-7r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191022x.png" alt="P = 0 . 
+" class="math-display"  /></center></td><td width="5%">(6)</td></tr></table>
+<!--l. 368--><p class="nopar">
+</p><!--l. 372--><p class="noindent">Nun ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191023x.png" alt="          sum                   V~ -------            (Z+1)f (a)            Z       f(a) S(Z+1) = -- V~ -------- = S(Z)   ------+  V~ ------ ,              Z +  1            Z + 1     Z  + 1 " class="par-math-display"  /></center>
+<!--l. 381--><p class="nopar">
+</p><!--l. 385--><p class="noindent">oder, da <span 
+class="cmmi-12">Z </span>eine sehr große Zahl sein soll:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-8r7"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191024x.png" alt="                S(Z)   f(a)- S(Z+1) = S(Z)-  2Z  +   V~ -- .                          Z " class="math-display"  /></center></td><td width="5%">(7)</td></tr></table>
+<!--l. 393--><p class="nopar">
+</p><!--l. 396--><p class="noindent">Die Anzahl <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> setzt sich also aus zwei Teilen zusammen, <br/>einem <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /><sub ><span 
+class="cmr-8">1</span></sub>, der vom Summanden <span 
+class="cmsy-10x-x-120">-</span><span 
+class="cmmi-12">S</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191025x.png" alt="/"  class="left" align="middle" /> 2 <span 
+class="cmmi-12">Z</span> und einem <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /><sub ><span 
+class="cmr-8">2</span></sub>, der <br/>von <span 
+class="cmmi-12">f</span>(<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>)<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191026x.png" alt="/"  class="left" align="middle" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191027x.png" alt=" V~ --   Z"  class="sqrt"  /> herrührt.
+</p><!--l. 404--><p class="indent">   <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /><sub ><span 
+class="cmr-8">1</span></sub> enthält alle diejenigen <span 
+class="cmmi-12">S</span>, welche in einem positiven <br/>Abstand <span 
+class="msam-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/msam10-c-35.png" alt="&lt;=" class="10-120x-x-35" /></span> <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">0</span></sub><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191028x.png" alt="/"  class="left" align="middle" />2 <span 
+class="cmmi-12">Z</span>
+vom Werte <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">0</span></sub> gelegen waren; und zwar <br/>durchschreiten diese Glieder <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">0</span></sub> in negativer Richtung. Ihre <br/>Anzahl ist, da <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">0</span></sub><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191029x.png" alt="/"  class="left" align="middle" /> 2 <span 
+class="cmmi-12">Z</span> eine sehr kleine Zahl ist, bis auf un-<br/>endlich kleine Größen höherer Ordnung:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-9r8"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191030x.png" alt="P  = - -S0-F (S ) .  1     2 Z     0 " class="math-display"  /></center></td><td width="5%">(8)</td></tr></table>
+<!--l. 417--><p class="nopar">
+</p><!--l. 420--><p class="noindent">Zur Anzahl <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /><sub ><span 
+class="cmr-8">2</span></sub> kommt ein Beitrag aus jeder beliebigen posi-<br/>tiven und negativen Entfernung <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> von <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">0</span></sub>, und zwar ein <br/><pb/>
+</p><!--l. 426--><p class="indent">
+
+</p><!--l. 427--><p class="noindent">positiver oder negativer Beitrag, je nachdem <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> negativ oder <br/>positiv ist. In der Entfernung <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> ist die Anzahl <span 
+class="cmmi-12">dN </span>gegeben <br/>durch</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191031x.png" alt="F (S0 + D) dS =  F (S0 + D) d D , " class="par-math-display"  /></center>
+<!--l. 437--><p class="nopar"></p><!--l. 441--><p class="noindent">oder, da doch nur kleine Werte von <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> ins Gewicht fallen, durch <br/></p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191032x.png" alt="{            (    )   }                dF--   F (S0) + D   dD       dD  .                     S0 " class="par-math-display"  /></center>
+<!--l. 449--><p class="nopar">
+</p><!--l. 452--><p class="noindent">Von dieser Anzahl durchqueren alle diejenigen den Wert <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">0</span></sub> <br/>in positiver Richtung, die, von einem negativen <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> herkommend, <br/>ein so großes <span 
+class="cmmi-12">f</span>(<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>) haben, daß
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191033x.png" alt="f(a)  V~ ---&gt;=  |D | ,   Z " class="par-math-display"  /></center>
+<!--l. 461--><p class="nopar">
+</p><!--l. 464--><p class="noindent">also die Anzahl
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191034x.png" alt="  + integral o o 
+
+    f (f )df . -D V~ Z- " class="par-math-display"  /></center>
+<!--l. 471--><p class="nopar">
+</p><!--l. 474--><p class="noindent">In der negativen Richtung geht analog die Anzahl
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191035x.png" alt="   V ~ -  -D integral   Z     f (f) df . 
+- oo 
+" class="par-math-display"  /></center>
+<!--l. 481--><p class="nopar">
+</p><!--l. 484--><p class="noindent">So wird:</p>
+   <center class="par-math-display" >
+
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191036x.png" alt="              {                     }         integral 0                 (d F )       integral + oo 
+P2 =      dD   F  (S0) + D   ----          f (f)d f                             d D   S0     V~ -      -  oo                             - D V~ -Z        integral  oo   {            (    )   } - integral D Z                           d-F-    -    dD   F  (S0) + D   d D           f (f)d f .      0                          S0  -  oo 
+" class="par-math-display"  /></center>
+<!--l. 501--><p class="nopar">
+</p><!--l. 504--><p class="noindent">Durch partielle Integration geht dies über in:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191037x.png" alt="         integral 0   {                 (    )   }   (       )                             D2-   dF--           V ~ --   V~ -- P2 = -    d D   D .F (S0) +  2    dD       f  - D   Z  .  Z        - oo                              S0         integral  oo    {               2(     )  }   (        )      -    dD   D  .F (S ) + D--  d-F-      f  - D V~ Z-  . V~ Z-.                        0     2   d D   S        0                               0 " class="par-math-display"  /></center>
+<!--l. 522--><p class="nopar"></p><!--l. 525--><p class="noindent">Da nun nach Voraussetzung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191038x.png" alt="  + integral  oo 
+    f f(f )df =  0 
+- oo 
+" class="par-math-display"  /></center>
+<!--l. 531--><p class="nopar"> <pb/>
+</p><!--l. 538--><p class="indent">
+
+</p><!--l. 539--><p class="noindent">wird, wenn wir <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191039x.png" alt=" V~ --   Z"  class="sqrt"  /> = <span 
+class="cmmi-12">f </span>als Variable einführen:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-10r9"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191040x.png" alt="            1  (d F )    integral + oo 
+   P 2 = - ----  ----      f 2f (f)d f {          2Z    dD   S0                (    )   - oo 
+           -1--  dF--    --2        = - 2 Z   dD     .f  .                       S0 " class="math-display"  /></center></td><td width="5%">(9)</td></tr></table>
+<!--l. 553--><p class="nopar">
+</p><!--l. 556--><p class="noindent">(8) und (9) in (6) eingesetzt, ergeben die Differentialgleichung:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191041x.png" alt="      ---d F S F + f 2----=  0,          d S " class="par-math-display"  /></center>
+<!--l. 563--><p class="nopar">
+</p><!--l. 567--><p class="noindent">deren Lösung:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-11r10"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191042x.png" alt="            - S22 F  = const.e  2f , " class="math-display"  /></center></td><td width="5%">(10)</td></tr></table>
+<!--l. 574--><p class="nopar">
+
+</p><!--l. 578--><p class="noindent">das Gausssche Fehlergesetz ausspricht.
+</p>
+<div class="center" >
+
+<!--l. 583--><p class="noindent">
+</p><!--l. 584--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>4.   Statistisches Gesetz einer Kombination aller <span 
+class="cmmi-12">S</span><sup ><span 
+class="cmr-8">(</span><span 
+class="cmmi-8">n</span><span 
+class="cmr-8">)</span></sup>.</p></div>
+<!--l. 588--><p class="indent">   Wir dehnen nun die Betrachtungen des vorigen Paragraphen <br/>vom eindimensionalen Fall auf den beliebig vieler Dimen-<br/>sionen aus. Wir haben diesmal eine Kombination von vielen <br/>Größen <span 
+class="cmmi-12">S</span><sup ><span 
+class="cmr-8">(</span><span 
+class="cmmi-8">n</span><span 
+class="cmr-8">)</span></sup> zu betrachten. Die Anzahl der in einem un-<br/>endlich kleinen Gebiete <span 
+class="cmmi-12">dS</span><sup ><span 
+class="cmr-8">(1)</span></sup> <span 
+class="cmmi-12">dS</span><sup ><span 
+class="cmr-8">(2)</span></sup><span 
+class="cmmi-12">...</span> liegenden Systeme sei:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-12r11"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191043x.png" alt="         (  (1)   (2)  )    (1)   (2) d N  = F  S   , S   ... dS   d S   ... " class="math-display"  /></center></td><td width="5%">(11)</td></tr></table>
+<!--l. 600--><p class="nopar">
+</p><!--l. 603--><p class="noindent">Wieder fordern wir, daß <span 
+class="cmmi-12">dN </span>sich nicht ändern soll, wenn wir <br/>von <span 
+class="cmmi-12">S</span><sub><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191044x.png" alt="(Z)"  class="left" align="middle" /></sub><sup> <span 
+class="cmr-8">(</span><span 
+class="cmmi-8">n</span><span 
+class="cmr-8">)</span></sup>
+zu <span 
+class="cmmi-12">S</span><sub><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191045x.png" alt="(Z+1)"  class="left" align="middle" /></sub><sup> <span 
+class="cmr-8">(</span><span 
+class="cmmi-8">n</span><span 
+class="cmr-8">)</span></sup> übergehen, wieder führt dies zu der Diffe-<br/>rentialgleichung (5)
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191046x.png" alt="div P = 0 . " class="par-math-display"  /></center>
+<!--l. 611--><p class="nopar">
+</p><!--l. 614--><p class="noindent">Nur hat die Anzahl <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> in unserem jetzigen Fall Komponenten <br/>in jeder Richtung
+<span 
+class="cmmi-12">S</span><sup ><span 
+class="cmr-8">(1)</span></sup><span 
+class="cmmi-12">, S</span><sup ><span 
+class="cmr-8">(2)</span></sup><span 
+class="cmmi-12">...</span><span 
+class="cmmi-12">, </span>die wir mit <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /><sup ><span 
+class="cmr-8">(1)</span></sup>, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /><sup ><span 
+class="cmr-8">(2)</span></sup><span 
+class="cmmi-12">...</span> be-<br/>zeichnen wollen. (5) nimmt also die Gestalt an
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191047x.png" alt="        (n)  sum    @-P---    n @ S(n) = 0. 
+" class="par-math-display"  /></center>
+<!--l. 624--><p class="nopar">
+</p><!--l. 627--><p class="noindent">Zwischen <span 
+class="cmmi-12">S</span><sub><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191048x.png" alt="(Z)"  class="left" align="middle" /></sub><sup> <span 
+class="cmr-8">(</span><span 
+class="cmmi-8">n</span><span 
+class="cmr-8">)</span></sup> und <span 
+class="cmmi-12">S</span><sub><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191049x.png" alt="(Z+1)"  class="left" align="middle" /></sub><sup> <span 
+class="cmr-8">(</span><span 
+class="cmmi-8">n</span><span 
+class="cmr-8">)</span></sup> besteht, wie früher Gleichung (7), <br/>daher bleiben die Betrachtungen des vorigen Paragraphen <br/>vollkommen gültig zur Berechnung der einzelnen <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /><sup ><span 
+class="cmr-8">(</span><span 
+class="cmmi-8">n</span><span 
+class="cmr-8">)</span></sup>. Es <br/>wird also
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191050x.png" alt="                ---@ F P(n) = S(n)F +  f2n------                   @ S(n) " class="par-math-display"  /></center>
+<!--l. 637--><p class="nopar"> <pb/>
+</p><!--l. 644--><p class="indent">
+
+</p><!--l. 645--><p class="noindent">Wir können diesen Ausdruck noch vereinfachen, indem wir <br/>alle <span class="overline"><span 
+class="cmmi-12">f</span><sub><span 
+class="cmmi-8">n</span></sub><sup><span 
+class="cmr-8">2</span></sup></span> als gleich annehmen. Dies kommt ersichtlich nur <br/>darauf hinaus, daß wir die einzelnen Funktionen <span 
+class="cmmi-12">f</span><sub ><span 
+class="cmmi-8">n</span></sub> mit passen-<br/>den Konstanten multipliziert denken. (Im speziellen Fall <br/>unserer sin und cos ist diese vereinfachende Annahme von <br/>selbst erfüllt.)
+</p><!--l. 653--><p class="indent">   So erhalten wir schließlich für die Funktion <span 
+class="cmmi-12">F </span>die Diffe-<br/>rentialgleichung:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-13r12"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191051x.png" alt=" sum      @   (         --- @ F )    n ---(n)  S(n)F  + f2----(n)   = 0.      @ S               @ S " class="math-display"  /></center></td><td width="5%">(12)</td></tr></table>
+<!--l. 662--><p class="nopar">
+</p><!--l. 666--><p class="noindent">Zur Lösung dieser Differentialgleichung führt uns die Be-<br/>trachtung des über den ganzen Raum erstreckten Integrals:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-14r13"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191052x.png" alt="     integral      sum n1 { (        ---      )2}        -1    n    S(n)F + f 2-@ F--    d S(1) ...dS(n1)        F   0                 @ S(n) {     integral  n1  { (                 ) (                 )}         sum         (n)     -2-@-F--     (n)  --2@-log-F--      (1)      (n1)   =       n    S   F +  f @ S(n)    S   + f   @ S(n)    d S   ...dS    .         0 " class="math-display"  /></center></td><td width="5%">(13)</td></tr></table>
+<!--l. 685--><p class="nopar">
+</p><!--l. 688--><p class="noindent">Nun ist aber: 
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191053x.png" alt="   integral   sum n1 { (        --- @ F  )     }         n    S(n)F + f 2---(n)  S(n)  dS(1)...d S(n1)       0                 @ S    integral  (    sum n1            sum n1            ) =      F    nS(n)2 + f2-   n S(n)-@-F--  dS(1)...d S(n1),                                  @ S(n)           0              0 " class="par-math-display"  /></center>
+<!--l. 705--><p class="nopar">
+</p><!--l. 709--><p class="noindent">oder wenn wir den zweiten Summanden partiell integrieren <br/>und bedenken, daß im Unendlichen <span 
+class="cmmi-12">F </span>= 0 sein muß,
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191054x.png" alt="        (                   )     integral      sum n1   (n)2  ---         (1)      (n ) =    F      n S    - f 2 .n1  dS   ...d S  1 .            0 " class="par-math-display"  /></center>
+<!--l. 719--><p class="nopar">
+</p><!--l. 722--><p class="noindent">Dieser Ausdruck verschwindet aber, weil
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191055x.png" alt=" integral 
+   F S(n)2d S(1)...d S(n1) " class="par-math-display"  /></center>
+<!--l. 729--><p class="nopar">
+</p><!--l. 733--><p class="noindent">nichts anderes ist, als der im letzten Paragraphen abgeleitete <br/>Mittelwert <span class="overline"><span 
+class="cmmi-12">S</span><sup ><span 
+class="cmr-8">(</span><span 
+class="cmmi-8">n</span><span 
+class="cmr-8">)2</span></sup></span><span 
+class="cmmi-12">,</span>
+falls nur ein einziges <span 
+class="cmmi-12">S </span>betrachtet wird; für <br/>diesen folgt aus Gleichung (10)
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191056x.png" alt="---  --- S2 = f2 . " class="par-math-display"  /></center>
+<!--l. 741--><p class="nopar"> <pb/>
+</p><!--l. 748--><p class="indent">
+
+</p><!--l. 749--><p class="noindent">Andererseits wird durch partielle Integration:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191057x.png" alt="         { (                  )           }     integral   sum       (n)    --- @ F    ---@ log F       (1)      (n )              S  F  + f2 ---(n)  f2 ----(n)--  dS   ...d S  1     integral              (     @ S(         @ S      )}      --2       sum     --@---   (n)    -2--@-F--      (1)      (n1) =    f  log F       @ S(n)  S   F + f  @ S(n)   d S   ...d S    , " class="par-math-display"  /></center>
+<!--l. 766--><p class="nopar">
+</p><!--l. 770--><p class="noindent">was nach Gleichung (12) ebenfalls verschwindet.
+</p><!--l. 773--><p class="indent">   Somit ist erwiesen, daß das Integral (13) verschwindet; <br/>dies ist aber wegen des quadratischen Charakters des Inte-<br/>granden nur möglich, wenn überall für jedes <span 
+class="cmmi-12">n</span>
+gilt:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-15r14"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191058x.png" alt="        --- S(n)F + f 2-@-F-- = 0.            @ S(n) " class="math-display"  /></center></td><td width="5%">(14)</td></tr></table>
+<!--l. 782--><p class="nopar">
+</p><!--l. 785--><p class="noindent">So gelangen wir also für <span 
+class="cmmi-12">F </span>zu einem statistischen Gesetz, <br/>welches in bezug auf jedes <span 
+class="cmmi-12">S</span><sup ><span 
+class="cmr-8">(</span><span 
+class="cmmi-8">n</span><span 
+class="cmr-8">)</span></sup> mit dem Gaussschen Fehler-<br/>gesetz identisch ist:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-16r15"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191059x.png" alt="                2       2             - S(21f)2- - S(22f)2- F =  const.e     .e      . " class="math-display"  /></center></td><td width="5%">(15)</td></tr></table>
+<!--l. 795--><p class="nopar">
+</p><!--l. 798--><p class="noindent">Die Wahrscheinlichkeit einer Kombination von Werten <span 
+class="cmmi-12">S</span><sup ><span 
+class="cmr-8">(</span><span 
+class="cmmi-8">n</span><span 
+class="cmr-8">)</span></sup> <br/>setzt sich also einfach als Produkt aus den Wahrscheinlich-<br/>keiten der einzelnen <span 
+class="cmmi-12">S</span><sup ><span 
+class="cmr-8">(</span><span 
+class="cmmi-8">n</span><span 
+class="cmr-8">)</span></sup>
+zusammen.
+</p><!--l. 804--><p class="indent">   Es ist klar, daß, wenn für <span 
+class="cmmi-12">S</span><sup ><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191060x.png" alt="(1)"  class="left" align="middle" /></sup><span 
+class="cmmi-12">, S</span><sup ><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191061x.png" alt="(2)"  class="left" align="middle" /></sup><span 
+class="cmmi-12">...</span> die Gleichung (15) <br/>gilt, dieselbe Gleichung für eine Kombination von Größen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191062x.png" alt="S(n)'= a  S(n)          n " class="par-math-display"  /></center>
+<!--l. 812--><p class="nopar">
+</p><!--l. 816--><p class="noindent">erfüllt ist. In diesem Falle tritt statt <span class="overline"><span 
+class="cmmi-12">f</span><sup ><span 
+class="cmr-8">2</span></sup></span> die Größe <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span><sub >
+<span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/cmmi8-19.png" alt="p" class="8x-x-19" /></span></sub><sup ><span 
+class="cmr-8">2</span></sup> <span class="overline"><span 
+class="cmmi-12">f</span><sup ><span 
+class="cmr-8">2</span></sup></span> <br/>in die Exponenten ein. Von der Art der <span 
+class="cmmi-12">S</span><sup ><span 
+class="cmr-8">(</span><span 
+class="cmmi-8">n</span><span 
+class="cmr-8">)</span><span 
+class="cmsy-8">'</span></sup> sind aber die <br/>Koeffizienten <span 
+class="cmmi-12">A</span><sub >
+<span 
+class="cmmi-8">n</span></sub>, <span 
+class="cmmi-12">B</span><sub ><span 
+class="cmmi-8">n</span></sub> unseres physikalischen Problems; und <br/>zwar ist</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191063x.png" alt="  (n)      An S    = --V ~ ---,        an   Z " class="par-math-display"  /></center>
+<!--l. 826--><p class="nopar">
+</p><!--l. 830--><p class="noindent">also</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1910/fulltext/img/Einst_Ueber_de_191064x.png" alt="a  =  a  V~  Z-   n    n " class="par-math-display"  /></center>
+<!--l. 836--><p class="nopar">
+</p><!--l. 840--><p class="noindent">zu setzen.
+</p><!--l. 843--><p class="indent">   Somit ist auch die Gültigkeit der Gleichung (1) und die <br/>Unmöglichkeit erwiesen, eine wahrscheinlichkeits-theoretische <br/>Beziehung zwischen den Koeffizienten der die Temperatur-<br/>strahlung darstellenden Fourierreihe aufzustellen.
+</p>
+<div class="center" >
+
+<!--l. 849--><p class="noindent">
+</p><!--l. 850--><p class="noindent">(Eingegangen 29. August 1910.)</p></div>
+
+<div class="center" >
+
+<!--l. 854--><p class="noindent">
+</p><!--l. 855--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

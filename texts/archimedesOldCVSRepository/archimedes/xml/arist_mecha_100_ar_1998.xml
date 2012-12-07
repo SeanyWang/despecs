@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE archimedes SYSTEM "../dtd/archimedes.dtd" >
+<archimedes>
+<info>
+    <author>Pseudo-Aristotle</author>
+    <title>Nutaf min al-hiyal</title> 
+    <date>1998</date>
+    <place>Berlin</place>
+    <translator/>
+    <lang>ar</lang>
+    <cvs_file></cvs_file>
+    <cvs_version></cvs_version>
+    <locator>100.xml</locator>
+</info>
+<text>
+<front/>
+<body>
+<chap>
+<p n="1">
+<s id="A010010001">^nutaf min Aal-Hiyal (^qAla ^&gt;arisTwTAlys) yataEaj~aba Aal-nAs minhA &lt;im~A fy Aal-&gt;a$yA' Aal~aty taEriDu TabEAF fa-mim~A lA yuElamu Eil~atuhu wa-&lt;im~A fy Aal-&gt;a$yA' Aal-muxAlifap li-l-TabE fa-mim~A yuEmalu bi-Aal-SinAEap li-manfaEap Aal-nAs li-&gt;an~a Aal-TabyEap tulzimu &gt;abadAF jihap wAHidap wa-&gt;am~A manAfiE Aal-nAs fa-&lt;in~ahA taxtalifu &lt;ixtilAfAF kavyrAF.</s>
+<s id="A010010101">^wa-kul~ Eamal Easir muxAlif li-l-TabE yuHtAju fyhi &lt;ilY Hiyal SinAEiy~ap wa-l-*`lika SArat Aal-&gt;aSAgir taqwY EalY Aal-&gt;akAbir.</s>
+<s id="A010010102">^fa-Aal-masA}il Aal-Hyliy~ap mu$tarika li-l-Eulwm Aal-riyADiy~ap wa-Aal-TabyEiy~ap maEAF wa-*`lika &gt;an~a Aal-kayf fyhimA huwa min Aal-Eulwm Aal-riyADiy~ap &gt;am~A fy mA*A fa-min Aal-Eulwm Aal-TabyEiy~ap ka-Eamal Aal-bayram &lt;i*A zAda viqluhu Har~aka Aal-$ay' Aal-vaqyl saryEAF.</s>
+<s id="A010010103">^wa-Aal-dA}irap Eil~ap h`*A wa-mA &gt;a$bahahu.</s>
+<s id="A010010104">Aal-&gt;aEjab mA &lt;ijtamaEa fyhi Aal-&gt;a$yA' Aal-mutaDAd~ap wa-fy Aal-dA}irap tajtamiEu Harakap wa-sukwn wa-fy &lt;iHATatihA &lt;inxifAD wa-&lt;inHidAr wa-baynahumA min Aal-tamAs~ kamA bayna Aal-&gt;aEZam wa-Aal-&gt;aSgar baynahumA Aal-musAwy wa-bayna Aal-&gt;axmaS wa-Aal-muHdawdab Aal-mustaqym.</s>
+<s id="A010010105">^wa-fy HarakatihA Aal-wAHidap taDAd~ min &gt;amAma wa-xalfa wa-fawqa wa-taHta.</s>
+<s id="A010010106">^wa-Aal-xaT~ yarsumuhA bi-Aal-Harakap min jAnib wa-Aal-sukwn min jAnib wa-yantahy Hayvu &lt;ibtada&gt;a wa-yantaqilu &lt;ilY mA minhu &lt;intaqala.</s>
+<s id="A010010107">^wa-&lt;in~a HarakAt Aal-nuqaT Aal~aty tufraDu Ealayhi muxtalifap Aal-surEap fa-Aal-&gt;aqrab &lt;ilY Aal-Taraf Aal-sAkin minhu &gt;abTa&gt;.</s>
+<s id="A010010108">wa-gayru munkar Aan takwna hiya &gt;aw~al Aal-&gt;uEjwbAt wa-mabda&amp;uhA.</s>
+<s id="A010010201">^wa-Aal-&gt;a$yA' Aal~aty taEriDu fy Aal-mawAzyn &lt;in~amA taEriDu lahA bi-sabab Aal-dA}irap wa-yansubu &lt;ilayhA wa-&gt;am~A Aal~aty taEriDu fy Aal-bayram fa-&lt;in~ahA tansubu &lt;ilY Aal-myzAn.</s>
+<s id="A010010202">^wa-l-&gt;an~a Aal-dA}irap Aal-wAHidap qad tataHar~aku Harakatayn muxtalifatayn wa-yumkinu Aan tuEmala dawA}ir tataHar~aku Harakap wAHidap minhA HarakAt kavyrap.</s>
+<s id="A010010203">^wa-h`*A &gt;aSl li-HarakAt kavyrap mutaDAd~ap Eajyba fa-Aal-ZAhir minhA Harakap wAHidap wa-taxfy Eil~atuhA.</s></p>
+<p n="2" type="head">
+<s id="A010020001">^mas&gt;alap</s>
+</p><p n="3">
+<s id="A010020101">^kamA yuqAlu lima SArat Aal-mawAzyn Aal-kibAr &gt;aHad~ wa-&gt;akvar &lt;istiqSA'F min Aal-mawAzyn Aal-SigAr.</s>
+<s id="A010020102">^wa-mabda&gt; Aal-jawAb min h`*ihi Aal-Eil~ap Aan yuTlaba lima SAra Aal-xaT~ Aal~a*y yaxruju min markaz Aal-dA}irap wa-kAna TawylAF fa-kAna li-*`lika buEd nihAyatihi min Aal-markaz buEdAF &gt;aEZam kAnat Harakap nihAyatihi &gt;asraEu &lt;i*A taHar~akA jamyEAF bi-quw~ap wAHidap.</s>
+<s id="A010020103">^wa-Aal-&gt;asraE huwa Aal~a*y min Aal-mutaHar~ikayn yaqTaEu masAfap &gt;aEZam fy zamAn wAHid.</s>
+<s id="A010020104">^wa-Aal-&gt;abEad min Aal-markaz yaqTaEu masAfap &gt;aEZam min madArihi wa-Aal-&gt;aqrab masAfapF &gt;aSgar.</s>
+<s id="A010020105">^wa-tatabay~anu min h`*ihi Aal-Eil~ap &gt;an~a EilAqap Aal-myzAn takwnu markazAF li-&gt;an~ahA vAbitap jihatay Aal-Eamwd Ean janbatay Aal-EilAqap taqwmAn maqAm xuTwT xArijiy~a Ean Aal-markaz.</s>
+<s id="A010020106">^wa-&lt;i*A kAna Aal-Eamwd &gt;aTwal taHar~akat nihAyatuhu bi-Aal-viql Aal-wAHid HarakapF &gt;a$ad~a min Aal-Harakap Aal~aty yataHar~akuhA &lt;i*A kAna &gt;aqSar.</s>
+<s id="A010020107">^wa-baED Aal-&gt;avqAl &lt;i*A wuDiEa fy Aal-mawAzyn Aal-SigAr fa-lam yaHduv Eanhu mayl &lt;ilY jihatihi li-Sigarihi wa-qiSar Eamwd Aal-myzAn.</s>
+<s id="A010020108">^wa-Ain wuDiEa fy myzAn kabyr kAna minhu mayl bay~in li-Twl Aal-lisAn wa-Aal-Eamwd.</s>
+</p>
+</chap>
+</body>
+<back/>
+</text>
+</archimedes>

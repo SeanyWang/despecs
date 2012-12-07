@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Antwo_de_1915.tex" /> 
+<meta name="date" content="2005-03-01 19:47:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Antwo_de_1915.css" /> 
+</head><body >
+
+<!--l. 13--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 14--><p class="noindent">
+</p><!--l. 15--><p class="noindent"><span 
+class="cmr-12">2. </span><span 
+class="cmbxti-10x-x-120">Antwort auf eine Abhandlung M. v. Laues </span> <br/><span 
+class="cmbxti-10x-x-120">,,Ein Satz</span>
+<span 
+class="cmbxti-10x-x-120">der Wahrscheinlichlceitsrechnung und </span> <br/><span 
+class="cmbxti-10x-x-120">seine Anwendung</span>
+<span 
+class="cmbxti-10x-x-120">auf die Strahlungstheorie&#8220;; </span> <br/><span 
+class="cmbxti-10x-x-120">von A. Einstein.</span></p></div>
+<div class="center" >
+
+<!--l. 21--><p class="noindent">
+</p><!--l. 22--><p class="noindent">--------</p></div>
+<!--l. 25--><p class="indent">   In der zitierten Arbeit bringt Laue die mathematische <br/>Grundlage der Statistik der Strahlung in eine Form, die an <br/>Prägnanz und Schönheit nichts zu wünschen übrigläßt. Was <br/>aber die Anwendung jener Grundlage auf die Strahlungs-<br/>theorie anbelangt, so scheint er mir einem bedenklichen Irr-<br/>tume zum Opfer gefallen zu sein, der dringend Berichtigung <br/>fordert. Wenn Laues Behauptung, daß die Koeffizienten <br/>der Fourierentwicklung der bei natürlicher Strahlung auf-<br/>tretenden örtlichen Schwingung nicht voneinander statistisch <br/>unabhängig zu sein brauchten, berechtigt wäre, böte sich <br/>wirklich ein höchst aussichtsreicher Weg zur Überwindung <br/>der Schwierigkeiten dar, welche in der theoretischen Un-<br/>verdaulichkeit aller Gesetze besteht, in denen das Planck-<br/>sche ,,<span 
+class="cmmi-10">h</span>&#8220; eine Rolle spielt. Dies war eben der Grund, der <br/>mich vor fünf Jahren veranlaßte, in einer mit L. Hopf zu-<br/>sammen publizierten Arbeit diese Frage näher zu prüfen.
+</p><!--l. 45--><p class="indent">   Das Resultat jener in ihrer Durchführung nicht ganz <br/>einwandfreien Arbeit, wird von Laue als richtige Konsequenz <br/>der zugrunde gelegten Voraussetzungen anerkannt. Aber <br/>Laue bestreitet die Zulässigkeit der Grundvoraussetzung, <br/>die sich so formulieren läßt:
+</p><!--l. 52--><p class="indent">   Wenn ich dadurch eine vollkommen ungeordnete Strah-<br/>lung (statistisch unabhängige Fourierkoeffizienten) erhalte <br/>daß ich unendlich viele vollkommen gegebene, ganz mitein-<br/>ander übereinstimmende Strahlungen derart superponiere, daß <br/>bei dieser Superposition die Gesamtphasen dieser superponierten <br/>Strahlungen zufällig gewählt werden, so muß die natürliche <br/>Strahlung erst recht statistisch ungeordnet sein.
+</p><!--l. 61--><p class="indent">   Diese Grundvoraussetzung schien mir damals evident. <br/>Der Umstand aber, daß sie von einem so erfahrenen Fachmann, <br/><pb/>
+</p><!--l. 67--><p class="indent">
+
+</p><!--l. 68--><p class="noindent">wie Laue, nicht geteilt wird, beweist das Gegenteil. Ich will <br/>deshalb im folgenden einen Beweis geben, der von einer der-<br/>artigen Voraussetzung frei ist und -- wie ich hoffe -- un-<br/>widerleglich dartut, daß unsere Undulationstheorie die sta-<br/>tistische Unabhängigkeit der Fourierkoeffizienten unbedingt <br/>fordert. Bevor ich diesen Beweis beginne, will ich aber zeigen, <br/>warum die in den Teilen II und III der Laueschen Abhand-<br/>lung gegebene Betrachtung nach meiner Ansicht nicht be-<br/>weisend ist.
+</p><!--l. 79--><p class="indent">   Laue betrachtet eine Strahlung, die durch eine große <br/>Anzahl unregelmäßig über eine Schicht von der Dicke <span 
+class="cmmi-10">c <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /> </span>ver-<br/>teilter Resonatoren senkrecht zu dieser Schicht emittiert wird. <br/>Im Teile II seiner Abhandlung nimmt er an, daß alle diese
+ <br/>Resonatoren gleichzeitig und nach demselben Gesetze schwin-<br/>gen; im Teile III, daß die Schwingungen aller Resonatoren <br/>durch dasselbe, als gegeben zu denkende statistische Gesetz <br/>beherrscht seien. In beiden Fällen ergibt sich nicht die sta-<br/>tistische Unabhängigkeit der Fourierkoeffizienten der Ent-<br/>wicklung für die resultierende Strahlung. Hieraus darf aber <br/>nach meiner Meinung keineswegs die Zulässigkeit der Hypo-<br/>these gefolgert werden, daß auch <span 
+class="cmti-10">bei der nat</span><span 
+class="cmti-10">ürlichen Strahlung</span>
+ <br/>jene Unabhängigkeit nicht vorhanden sei. Denn es ist doch <br/>gar nicht gesagt, daß der Grad von Unordnung, welchen jene <br/>ungeordnete Verteilung der Resonatoren über die Schicht <br/>von der Dicke <span 
+class="cmmi-10">c <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /> </span>mit sich bringt, derselbe sei wie bei der <br/>natürlichen Strahlung.
+</p><!--l. 92--><p class="indent">   Dieser Verdacht erhebt sich um so dringender, als nach <br/>Laues rechnerischen Ergebnissen der Grad der statistischen <br/>Abhängigkeit zweier durch die Indizes <span 
+class="cmmi-10">p </span>und
+<span 
+class="cmmi-10">p</span><span 
+class="cmsy-10">' </span>charakteri-<br/>sierten Glieder der Entwicklung für die resultierende Strah-<br/>lung wesentlich durch den Wert
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_19150x.png" alt="p(p---p')t     T " class="par-math-display"  /></center>
+<!--l. 102--><p class="nopar">
+</p><!--l. 106--><p class="noindent">bedingt werde, d. h. <span 
+class="cmti-10">durch eine von der Schichtdicke abh</span><span 
+class="cmti-10">ängige </span> <br/><span 
+class="cmti-10">Gr</span><span 
+class="cmti-10">öße</span>, während doch eine derartige statistische Abhängigkeit <br/>bei der natürlichen Strahlung -- falls eine solche vorhanden <br/>wäre -- nichts zu tun haben dürfte mit der besonderen Er-<br/>zeugungsart der betrachteten Strahlung.
+</p><!--l. 113--><p class="indent">   Nach meiner Ansicht ist daher keiner der von Laue <br/>betrachteten Fälle der natürlichen Strahlung bezüglichen <br/><pb/>
+</p><!--l. 119--><p class="indent">
+
+</p><!--l. 120--><p class="noindent">Unordnung äquivalent, so daß aus seinen Ergebnissen über <br/>die natürliche Strahlung nichts gefolgert werden kann. Ich <br/>halte vielmehr meine frühere Behauptung aufrecht und <br/>suche dieselbe im folgenden durch einen neuen Beweis zu <br/>stützen, indem ich mich der von Laue in seiner Arbeit dar-<br/>gelegten Sätze aus der Wahrscheinlichkeitsrechnung bediene.
+</p>
+<div class="center" >
+
+<!--l. 129--><p class="noindent">
+</p><!--l. 132--><p class="noindent"><span 
+class="cmbsy-10">§</span><span 
+class="cmbx-10">1. Statistische Eigenschaften einer Strahlung, die durch</span>
+ <br/><span 
+class="cmbx-10">Superposition unendlich vieler, voneinander unabh</span><span 
+class="cmbx-10">ängig erzeugter</span>
+ <br/><span 
+class="cmbx-10">Strahlungen entstanden ist.</span></p></div>
+<!--l. 135--><p class="indent">   Jede der betrachteten Teilstrahlungen sei durch eine <br/>Fouriersche Entwicklung von der Form
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_19151x.png" alt=" sum              t              t    an(n)cos 2pn --+ bn(n)sin 2pn --  n             T              T " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 141--><p class="nopar">
+</p><!--l. 145--><p class="noindent">für das Zeitintervall 0 bis <span 
+class="cmmi-10">T </span>dargestellt, wobei die Koeffizienten <br/>dem Wahrscheinlichkeitsgesetz
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_19152x.png" alt="       (n)   (n)    (n)      (n)     (n)    (n)      (n) dW  = f  (a1  ...az  ..., b1  ...bz  ) da1  ... dbz  ... " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+
+<!--l. 154--><p class="nopar">
+</p><!--l. 158--><p class="noindent">genügen sollen, welches Gesetz für jedes (<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span>), d. h. für jede der <br/>betrachteten Teilstrahlungen ein besonderes sein kann. Das <br/>Gesetz sei ferner ein solches, daß
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_19153x.png" alt="          integral 
+   --n       n (n)  (n)      (n) {  an  =   an f  d a1  ... d bz = 0    --n   integral    n (n)   (n)       (n)    bn =    bn f  d a1  ... dbz  = 0 " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 171--><p class="nopar">
+</p><!--l. 175--><p class="indent">   Die resultierende Strahlung ist für das Zeitintervall 0 bis <span 
+class="cmmi-10">T </span> <br/>durch die Entwicklung
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-5r4"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_19154x.png" alt="         sum  A   cos 2pn t-+B   sin 2pn t-          n   n        T    n        T {    sum   sum  (                             )   =         an(n) cos 2pn t-+bn(n) sin 2pn t      n  n               T              T " class="math-display"  /></center></td><td width="5%">(4)</td></tr></table>
+<!--l. 186--><p class="nopar">
+
+</p><!--l. 190--><p class="noindent">gegeben, woraus die Gültigkeit der Beziehungen
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-6r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_19155x.png" alt="   An =  sum  an(n) {        n          sum    (n)    Bn =    bn          n " class="math-display"  /></center></td><td width="5%">(5)</td></tr></table>
+<!--l. 199--><p class="nopar">
+</p><!--l. 203--><p class="noindent">hervorgeht. Welches statistische Gesetz folgt für die Fourier-<br/>koeffizienten <span 
+class="cmmi-10">A</span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">...</span><span 
+class="cmmi-10">B</span><sub ><span 
+class="cmmi-7">z</span></sub>?
+<pb/>
+</p><!--l. 210--><p class="indent">
+
+</p><!--l. 211--><p class="indent">   Aus einer Betrachtung, die der im Teile I der Laueschen <br/>Arbeit durchgeführten ganz analog ist, findet man, daß das <br/>gesuchte statistische Gesetz das folgende ist:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-7r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_19156x.png" alt="               sum 
+             -mn(amnAmAn+bm nBm Bn+2gmnAm Bn) dW  = konst.e                                dA1 ...dBz. " class="math-display"  /></center></td><td width="5%">(6)</td></tr></table>
+<!--l. 218--><p class="nopar">
+</p><!--l. 220--><p class="noindent">Hieraus ersieht man, daß durch Superposition unendlich vieler <br/>Teilstrahlungen die statistische Unabhängigkeit der Fourier-<br/>Koeffizienten noch keineswegs garantiert wird. Wohl aber <br/>gestattet das Gesetz (6) die Frage nach der statistischen Un-<br/>abhängigkeit der Fourierkoeffizienten auf eine einfachere Frage <br/>zu reduzieren. Jene statistische Unabhängigkeit wird nämlich <br/>dann und nur dann erfüllt sein, wenn im Exponenten der <br/>Exponentialfunktion nur die Quadrate der
+<span 
+class="cmmi-10">A</span><sub ><span 
+class="cmmi-7">m</span></sub> und <span 
+class="cmmi-10">B</span><sub ><span 
+class="cmmi-7">m</span></sub>, aber <br/>keine Produkte dieser Größen auftreten; d. h. es muß sein:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-8r7"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_19157x.png" alt="{  amn = bmn = 0  f¨ur m /= n          gmn = 0. " class="math-display"  /></center></td><td width="5%">(7)</td></tr></table>
+<!--l. 235--><p class="nopar">
+</p><!--l. 239--><p class="indent">   Es ist ferner wegen (3) und (5) klar, daß im Falle sta-<br/>tistischer Unabhängigkeit die Beziehungen
+</p>
+
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-9r8"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_19158x.png" alt="  ------  ------ { AmAn  = BmBn  = 0  f¨ur m /= n           ------           AmBn  = 0 " class="math-display"  /></center></td><td width="5%">(7a)</td></tr></table>
+<!--l. 248--><p class="nopar">
+</p><!--l. 252--><p class="noindent">bestehen müssen. Da die Zahl der Bedingungen (7a) gleich <br/>ist der Zahl der Bedingungen (7), und alle Bedingungen (7a) <br/>voneinander unabhängig sind, so folgt, daß im Falle der Gültig-<br/>keit von (6) die Bedingungen (7a) <span 
+class="cmti-10">hinreichend </span>sind für die
+ <br/>statistische Unabhängigkeit der Fourierkoeffizienten.
+</p><!--l. 260--><p class="indent">   Wir gelangen daher zu folgendem vorläufigen Ergebnis: <br/>Da wir von der natürlichen Strahlung annehmen müssen, daß <br/>ihre statistischen Eigenschaften durch Superposition von in-<br/>kohärenten Teilstrahlungen nicht geändert werden, so sind <br/>die Gleichungen (7a) bei der natürlichen Strahlung hinreichende <br/>Bedingungen für die statistische Unabhängigkeit der Fourier-<br/>koeffizienten.
+</p>
+<div class="center" >
+
+<!--l. 269--><p class="noindent">
+</p><!--l. 272--><p class="noindent"><span 
+class="cmbsy-10">§</span><span 
+class="cmbx-10">2. Nachweis der statistischen Unabh</span><span 
+class="cmbx-10">ängigkeit der Fourier-</span>
+ <br/><span 
+class="cmbx-10">koeffizienten bei der nat</span><span 
+class="cmbx-10">ürlichen Strahlung.</span></p></div>
+<!--l. 275--><p class="indent">   Es sei <span 
+class="cmmi-10">F</span>(<span 
+class="cmmi-10">t</span>) eine Komponente des Strahlungsvektors sta-<br/>tionärer natürlicher Strahlung, gegeben für unendlich lange <br/>Zeit. <span 
+class="cmmi-10">T </span>sei eine gegen die Schwingungsdauer der langwelligsten <br/><pb/>
+</p><!--l. 282--><p class="indent">
+
+</p><!--l. 283--><p class="noindent">in der Strahlung auftretenden Lichtart große Zeitdauer. Zwischen <br/>den Zeiten <span 
+class="cmmi-10">t</span><sub ><span 
+class="cmr-7">0</span></sub> und
+<span 
+class="cmmi-10">t</span><sub ><span 
+class="cmr-7">0</span></sub> + <span 
+class="cmmi-10">T </span>sei <span 
+class="cmmi-10">F</span>(<span 
+class="cmmi-10">t</span>) dargestellt durch die Fourier-<br/>reihe
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-10r8"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_19159x.png" alt="   (                                 )  sum              t--t0            t--t0     An  cos 2p n T   + Bn sin 2p n  T    .  n " class="math-display"  /></center></td><td width="5%">(4a)</td></tr></table>
+<!--l. 291--><p class="nopar">
+</p><!--l. 295--><p class="indent">   Es ist klar, daß die zu <span 
+class="cmmi-10">F</span>(<span 
+class="cmmi-10">t</span>) gehörigen Fourierkoeffizienten <br/><span 
+class="cmmi-10">A</span><sub ><span 
+class="cmmi-7">n</span></sub>, <span 
+class="cmmi-10">B</span><sub ><span 
+class="cmmi-7">n</span></sub> von der Wahl der Epoche <span 
+class="cmmi-10">t</span><sub ><span 
+class="cmr-7">0</span></sub> abhängen werden. Indem <br/>wir die Entwicklung für sehr viele, zufällig gewählte <span 
+class="cmmi-10">t</span><sub ><span 
+class="cmr-7">0</span></sub> aus-<br/>geführt denken, erlangen wir ein statistisches Material zur <br/>Ableitung statistischer Eigenschaften der Koeffizienten <span 
+class="cmmi-10">A</span><sub ><span 
+class="cmmi-7">n</span></sub>, <span 
+class="cmmi-10">B</span><sub ><span 
+class="cmmi-7">n</span></sub>, <br/>welche wir bei der natürlichen Strahlung notwendig fordern <br/>müssen.
+</p><!--l. 304--><p class="indent">   Um diese Eigenschaften abzuleiten, entwickeln wir <span 
+class="cmmi-10">F</span>(<span 
+class="cmmi-10">t</span>) <br/>in eine Fourierreihe zwischen den Zeiten 0 und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-23.png" alt="h" class="10x-x-23" /></span>, wobei <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-23.png" alt="h" class="10x-x-23" /> </span> <br/>eine gegenüber <span 
+class="cmmi-10">T </span>sehr große Zeitdauer sei. Für dies Zeit-<br/>intervall sei
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-11r8"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191510x.png" alt="               (           )        sum              t- F (t) = n an cos  2p nh + fn  . " class="math-display"  /></center></td><td width="5%">(8)</td></tr></table>
+<!--l. 314--><p class="nopar">
+</p><!--l. 318--><p class="indent">   Wählen wir <span 
+class="cmmi-10">t</span><sub ><span 
+class="cmr-7">0</span></sub> zwischen <span 
+class="cmmi-10">t </span>= 0 und <span 
+class="cmmi-10">t </span>= <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-23.png" alt="h" class="10x-x-23" /></span><span 
+class="cmsy-10">-</span><span 
+class="cmmi-10">T</span>, so können <br/>die Koeffizienten <span 
+class="cmmi-10">A</span><sub ><span 
+class="cmmi-7">n</span></sub> und
+<span 
+class="cmmi-10">B</span><sub ><span 
+class="cmmi-7">n</span></sub> durch <span 
+class="cmmi-10">t</span><sub ><span 
+class="cmr-7">0</span></sub> und die Koeffizienten <br/><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-b.png" alt="a" class="10x-x-b" /></span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10x-x-27" align="middle" /></span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> der Entwicklung (8) ausgedrückt werden; man er-<br/>hält zunächst 
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-12r9"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191511x.png" alt="          sum  { t0 integral +T      (          )    (         )  }   An = -2         an cos 2pn t-+fn   cos  2pn t--t0- d t        T  n    t             h                T {             t00+T        2- sum  {   integral        (   -t    )     (    t--t0)   }   Bn = T          an cos 2pnh + fn   sin  2pn  T    dt  .           n   t0 " class="math-display"  /></center></td><td width="5%">(9)</td></tr></table>
+<!--l. 338--><p class="nopar">
+</p><!--l. 340--><p class="noindent">Führt man die Integration aus, so erhält man, indem man <br/>in bekannter Weise Glieder mit dem Faktor <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191512x.png" alt="p(n/h1+p/T)"  class="frac" align="middle" /> gegen <br/>solche mit dem Faktor <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191513x.png" alt="p(n/1h-n/T-)"  class="frac" align="middle" />
+vernachlässigt:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-13r10"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191514x.png" alt="                   (      )    (          )           sum     sin-p-nTh--n(-cos-xn)n +-2pn-t0h-   An =    n an          p  nTh-- n {         sum         ( T-   )   (         t0)   Bn = -    ansin p-nh---n(-sin--xn)n-+2pn-h- ,           n             p nTh-- n " class="math-display"  /></center></td><td width="5%">(10)</td></tr></table>
+<!--l. 359--><p class="nopar">
+<pb/>
+</p><!--l. 365--><p class="indent">
+
+</p><!--l. 366--><p class="noindent">wobei
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191515x.png" alt="       (       )           T- xnn = p  nh + n  + fn " class="par-math-display"  /></center>
+<!--l. 372--><p class="nopar">
+</p><!--l. 376--><p class="noindent">gesetzt ist. Die Formeln (10) gelten nur für Werte von <span 
+class="cmmi-10">t</span><sub ><span 
+class="cmr-7">0</span></sub> <br/>zwischen <span 
+class="cmmi-10">t</span><sub ><span 
+class="cmr-7">0</span></sub> = 0 und
+<span 
+class="cmmi-10">t</span><sub ><span 
+class="cmr-7">0</span></sub> = <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-23.png" alt="h" class="10x-x-23" /> </span><span 
+class="cmsy-10">- </span><span 
+class="cmmi-10">T</span>, weil die Entwicklung ge-<br/>mäß (8) nur für das Zeitintervall 0 <span 
+class="cmsy-10">- </span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-23.png" alt="h" class="10x-x-23" /></span>
+gilt. Wir erlauben <br/>uns jedoch, die Formel (8) für das Intervall 0 <span 
+class="cmsy-10">- </span>(<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-23.png" alt="h" class="10x-x-23" /> </span>+ <span 
+class="cmmi-10">T</span>) an-<br/>zuwenden. Damit ersetzen wir zwischen den Zeitwerten <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-23.png" alt="h" class="10x-x-23" /> </span> <br/>und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-23.png" alt="h" class="10x-x-23" /> </span>+ <span 
+class="cmmi-10">T</span>
+die Funktion <span 
+class="cmmi-10">F</span>(<span 
+class="cmmi-10">t</span>) durch die Werte von <span 
+class="cmmi-10">F</span>(<span 
+class="cmmi-10">t</span>) zwischen <br/>den Zeiten 0 und <span 
+class="cmmi-10">T</span>. Durch dieses Vorgehen werden im fol-<br/>genden unsere Mittelwertbetrachtungen gefälscht, aber nur <br/>relativ unendlich wenig, weil das Zeitintervall <span 
+class="cmmi-10">T </span>gegen
+<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-23.png" alt="h" class="10x-x-23" /> </span>un-<br/>endlich klein ist. Von dieser Erwägung ausgehend, werden <br/>wir die Gleichungen (10) so anwenden, wie wenn sie im ganzen <br/>Intervall 0 <span 
+class="cmmi-10">&lt; t</span><sub ><span 
+class="cmr-7">0</span></sub> <span 
+class="cmmi-10">&lt; <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-23.png" alt="h" class="10x-x-23" /> </span>gelten würden.
+</p><!--l. 393--><p class="indent">   Wir bilden nun mit Hilfe von (10) den Mittelwert <span class="overline"><span 
+class="cmmi-10">A</span><sub ><span 
+class="cmmi-7">m</span></sub> <span 
+class="cmmi-10">A</span><sub ><span 
+class="cmmi-7">n</span></sub><span 
+class="cmmi-10">,</span></span> <br/>d. h. die Größe
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191516x.png" alt="------  1  integral h Am An = h-  Am An dt0.           0 " class="par-math-display"  /></center>
+<!--l. 400--><p class="nopar">
+</p><!--l. 403--><p class="noindent">Dabei tritt das Integral
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191517x.png" alt=" h   (            )    (           )  integral               t0-               t0   cos xmm + 2pm h   cos  xnn + 2pnh   dt0 0
+" class="par-math-display"  /></center>
+<!--l. 411--><p class="nopar">
+</p><!--l. 415--><p class="noindent">auf. Dieses verschwindet wegen der Ganzzahligkeit von <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-16.png" alt="m" class="cmmi-10x-x-16" align="middle" /> </span>und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span>, <br/>wenn <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-16.png" alt="m" class="cmmi-10x-x-16" align="middle" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191518x.png" alt="/="  class="neq" align="middle" /><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span>, und hat für <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-16.png" alt="m" class="cmmi-10x-x-16" align="middle" /> </span>= <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /> </span>den Wert <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191519x.png" alt="h 2"  class="frac" align="middle" />(<span 
+class="cmsy-10">-</span>1)<sup ><span 
+class="cmmi-7">m</span><span 
+class="cmsy-7">-</span><span 
+class="cmmi-7">n</span></sup>. <br/>Mit Rücksicht darauf ergibt die erste der Gleichungen (10)
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-14r11"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191520x.png" alt="                           (       )     (      ) ------  (- 1)m-n  sum    2sin p n Th- m  sin p nTh-- n Am An = --2-        an ---p2(n-T--m)--(nT---n)----                  n             h        h " class="math-display"  /></center></td><td width="5%">(11)</td></tr></table>
+<!--l. 428--><p class="nopar">
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191521x.png" alt="  1  sum    2      sin2 pnTh- = 2    an p2(n-T--m)--(nT---n).                h        h " class="par-math-display"  /></center>
+<!--l. 438--><p class="nopar">
+</p><!--l. 442--><p class="indent">   A priori ist klar, daß eine statistische Abhängigkeit nur <br/>zwischen Strahlungskomponenten von sehr nahe gleicher <br/>Frequenz zu erwarten ist. <span 
+class="cmmi-10">m </span>und <span 
+class="cmmi-10">n</span>
+gehören also demselben <br/>engen Spektralbereich an, ebenso jene Werte von <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span>, welche
+ <br/>zu unserer Summe merklich beitragen. <pb/>
+</p><!--l. 452--><p class="indent">
+
+</p><!--l. 453--><p class="indent">   In (11) ist der Bruch auf der rechten Seite eine wegen <br/>der Kleinheit von <span 
+class="cmti-10">T/</span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-23.png" alt="h" class="10x-x-23" /> </span>mit
+<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /> </span>langsam veränderliche Größe. <br/>Deshalb kann bezüglich der Größe <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-b.png" alt="a" class="10x-x-b" /></span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi7-1d.png" alt="v" class="7x-x-1d" /></span></sub><sup ><span 
+class="cmr-7">2</span></sup> über viele aufe nander <br/>folgende Glieder ohne merkbaren Fehler gemittelt werden, <br/>und es wird jener Mittelwert <span class="overline"><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-b.png" alt="a" class="10x-x-b" /></span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub><sup ><span 
+class="cmr-7">2</span></sup></span> als Konstante aus der Summe <br/>herausgesetzt werden können, da die Summation überhaupt <br/>nur über einen engen Spektralbereich zu erstrecken ist. Die
+ <br/>über den Bruch erstreckte Summe kann dann noch in ein <br/>Integral verwandelt werden, so daß man erhält:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-15r12"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191522x.png" alt="------  1 --2-h- integral  -----sin2-x------ Am An = 2 an pT    (x - m p)(x - np)d x. " class="math-display"  /></center></td><td width="5%">(12)</td></tr></table>
+<!--l. 466--><p class="nopar">
+</p><!--l. 470--><p class="indent">   Das Integral kann ohne merklichen Fehler zwischen <span 
+class="cmsy-10">-<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmsy10-31.png" alt=" oo " class="10x-x-31" /></span> <br/>und + <span 
+class="cmsy-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmsy10-31.png" alt=" oo " class="10x-x-31" /> </span>genommen werden, statt zwischen der durch den <br/>vorerwähnten Spektralbereich bestimmten Grenzen.
+</p><!--l. 475--><p class="indent">   Dieses Integral hat für <span 
+class="cmmi-10">m </span>= <span 
+class="cmmi-10">n </span>den Wert <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span>, verschwindet <br/>aber stets<sup ><span 
+class="cmr-7">1</span></sup>), wenn <span 
+class="cmmi-10">m</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191523x.png" alt="/="  class="neq" align="middle" /><span 
+class="cmmi-10">n</span>
+(<span 
+class="cmmi-10">m </span>und <span 
+class="cmmi-10">n </span>sind ganze Zahlen). Damit <br/>ist zunächst das Verschwinden von
+<span class="overline"><span 
+class="cmmi-10">A</span><sub ><span 
+class="cmmi-7">m</span></sub> <span 
+class="cmmi-10">A</span><sub ><span 
+class="cmmi-7">n</span></sub></span> (für <span 
+class="cmmi-10">m</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191524x.png" alt="/="  class="neq" align="middle" /><span 
+class="cmmi-10">n</span>) bewiesen; <br/>der Beweis für das Verschwinden von <span class="overline"><span 
+class="cmmi-10">B</span><sub ><span 
+class="cmmi-7">m</span></sub> <span 
+class="cmmi-10">B</span><sub ><span 
+class="cmmi-7">n</span></sub></span>
+(für <span 
+class="cmmi-10">m</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191525x.png" alt="/="  class="neq" align="middle" /><span 
+class="cmmi-10">n</span>) und <br/><span class="overline"><span 
+class="cmmi-10">A</span><sub ><span 
+class="cmmi-7">m</span></sub> <span 
+class="cmmi-10">B</span><sub ><span 
+class="cmmi-7">n</span></sub></span> ist analog zu führen. Aus dem Verschwinden dieser
+ <br/>Mittelwerte folgt nach <span 
+class="cmsy-10">§</span>1 die behauptete statistische Un-<br/>abhängigkeit der Fourierkoeffizienten.
+</p><!--l. 486--><p class="noindent">----------
+</p><!--l. 489--><p class="indent">   1) Das Integral ist nämlich gleich
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191526x.png" alt="        (                          )    1      + integral  oo  sin2x      + integral o o  sin2x (m---n)p-     x--mp--dx-    x---npdx  .          -  oo           -  oo 
+" class="par-math-display"  /></center>
+<!--l. 496--><p class="nopar">
+</p><!--l. 499--><p class="noindent">Jedes der letzteren Integrale ist gleich
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/Einst_Antwo_de_191527x.png" alt=" + integral  oo   2     sin-ydy = 0. - oo   y " class="par-math-display"  /></center>
+<!--l. 505--><p class="nopar">
+</p><!--l. 509--><p class="indent">   <span 
+class="cmti-10">Bemerkung zur Korrektur</span>: Statt bei der Auswertung von (11) über <br/>viele aufeinanderfolgende Summenglieder zu mitteln, kann man auch un-<br/>endlich viele, voneinander unabhängige Entwicklungen (8) zugrunde legen <br/>und über diese mitteln. Nimmt man an (11) jene Mittelwertbildung vor, <br/>so tritt der dementsprechend verstandene Mittelwert <span class="overline"><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi10-b.png" alt="a" class="10x-x-b" /></span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Antwo_de_1915/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub><sup ><span 
+class="cmr-7">2</span></sup></span> vor das Summen-<br/>zeichen. Das Endresultat bleibt natürlich dasselbe.
+</p>
+<div class="center" >
+
+<!--l. 519--><p class="noindent">
+</p><!--l. 520--><p class="noindent">(Eingegangen 24. Juni 1915.)</p></div>
+<div class="center" >
+
+<!--l. 523--><p class="noindent">
+</p><!--l. 524--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

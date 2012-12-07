@@ -1,0 +1,447 @@
+<?xml version="1.0"?>
+<arch_idlist>
+<record>
+	<id>001</id>
+	<filename>agric_remet_001_la_1556.xml</filename>
+</record>
+<record>
+	<id>002</id>
+	<filename>agric_remet_002_en.xml</filename>
+</record>
+<record>
+	<id>003</id>
+	<filename>alber_archi_003_en_1755.xml</filename>
+</record>
+<record>
+	<id>004</id>
+	<filename>alber_reaed_004_la_1485.xml</filename>
+</record>
+<record>
+	<id>005</id>
+	<filename>gueva_mecha_005_la_1627.xml</filename>
+</record>
+<record>
+	<id>006</id>
+	<filename>baifl_renav_006_la_1537.xml</filename>
+</record>
+<record>
+	<id>007</id>
+	<filename>baldi_mecha_007_la_1621.xml</filename>
+</record>
+<record>
+	<id>008</id>
+	<filename>berga_disco_008_it_1579.xml</filename>
+</record>
+<record>
+	<id>009</id>
+	<filename>bianc_locam_009_la_1615.xml</filename>
+</record>
+<record>
+	<id>010</id>
+	<filename>borel_demot_010_la_1670.xml</filename>
+</record>
+<record>
+	<id>011</id>
+	<filename>borro_demot_011_la_1575.xml</filename>
+</record>
+<record>
+	<id>012</id>
+	<filename>borro_fluss_012_it_1561.xml</filename>
+</record>
+<record>
+	<id>013</id>
+	<filename>boyle_exper_013_en_1660.xml</filename>
+</record>
+<record>
+	<id>014</id>
+	<filename>buona_demot_014_la_1591.xml</filename>
+</record>
+<record>
+	<id>015</id>
+	<filename>carda_propo_015_la_1570.xml</filename>
+</record>
+<record>
+	<id>016</id>
+	<filename>carda_subti_016_la_1663.xml</filename>
+</record>
+<record>
+	<id>017</id>
+	<filename>casat_mecha_017_la_1684.xml</filename>
+</record>
+<record>
+	<id>018</id>
+	<filename>casat_terra_018_la_1658.xml</filename>
+</record>
+<record>
+	<id>019</id>
+	<filename>catan_avver_019_it_1582.xml</filename>
+</record>
+<record>
+	<id>020</id>
+	<filename>caver_metod_020_it_1891.xml</filename>
+</record>
+<record>
+	<id>021</id>
+	<filename>cered_disco_021_it_1567.xml</filename>
+</record>
+<record>
+	<id>022</id>
+	<filename>cevag_geome_022_la_1692.xml</filename>
+</record>
+<record>
+	<id>023</id>
+	<filename>comma_centr_023_la_1565.xml</filename>
+</record>
+<record>
+	<id>024</id>
+	<filename>delfi_fluxu_024_la_1559.xml</filename>
+</record>
+<record>
+	<id>025</id>
+	<filename>fabri_dialo_025_la_1665.xml</filename>
+</record>
+<record>
+	<id>026</id>
+	<filename>fabri_tract_026_la_1646.xml</filename>
+</record>
+<record>
+	<id>027</id>
+	<filename>gasse_demot_027_la_1642.xml</filename>
+</record>
+<record>
+	<id>028</id>
+	<filename>gasse_propo_028_la_1646.xml</filename>
+</record>
+<record>
+	<id>029</id>
+	<filename>gheta_promo_029_la_1603.xml</filename>
+</record>
+<record>
+	<id>030</id>
+	<filename>landi_ecphr_030_la_1552.xml</filename>
+</record>
+<record>
+	<id>031</id>
+	<filename>lorin_forti_031_it_1609.xml</filename>
+</record>
+<record>
+	<id>032</id>
+	<filename>manuz_eleme_032_it_1557.xml</filename>
+</record>
+<record>
+	<id>033</id>
+	<filename>melli_disco_033_it_1583.xml</filename>
+</record>
+<record>
+	<id>034</id>
+	<filename>merse_prelu_034_fr_1634.xml</filename>
+</record>
+<record>
+	<id>035</id>
+	<filename>monan_mecha_035_la_1599.xml</filename>
+</record>
+<record>
+	<id>036</id>
+	<filename>monte_mecha_036_la_1577.xml</filename>
+</record>
+<record>
+	<id>037</id>
+	<filename>monte_mecha_037_it_1581.xml</filename>
+</record>
+<record>
+	<id>038</id>
+	<filename>morel_scala_038_it_1567.xml</filename>
+</record>
+<record>
+	<id>039</id>
+	<filename>newto_philo_039_la_1713.xml</filename>
+</record>
+<record>
+	<id>040</id>
+	<filename>salus_mathe_040_en_1667.xml</filename>
+</record>
+<record>
+	<id>041</id>
+	<filename>stell_mecha_041_it_1597.xml</filename>
+</record>
+<record>
+	<id>042</id>
+	<filename>tarta_quesi_042_la_1554.xml</filename>
+</record>
+<record>
+	<id>043</id>
+	<filename>valer_centr_043_la_1604.xml</filename>
+</record>
+<record>
+	<id>044</id>
+	<filename>varro_demot_044_la_1584.xml</filename>
+</record>
+<record>
+	<id>045</id>
+	<filename>vitru_archi_045_it_1567.xml</filename>
+</record>
+<record>
+	<id>046</id>
+	<filename>merse_theol_046_fr_1634.xml</filename>
+</record>
+<record>
+	<id>047</id>
+	<filename>galil_mecha_047_fr_1634.xml</filename>
+</record>
+<record>
+	<id>048</id>
+	<filename>vitru_archi_048_la_1567.xml</filename>
+</record>
+<record>
+	<id>049</id>
+	<filename>jorda_ratio_049_la_1565.xml</filename>
+</record>
+<record>
+	<id>050</id>
+	<filename>jorda_ponde_050_la_1533.xml</filename>
+</record>
+<record>
+	<id>051</id>
+	<filename>schot_mecha_051_la_1657.xml</filename>
+</record>
+<record>
+	<id>052</id>
+	<filename>baroc_heron_052_la_1572.xml</filename>
+</record>
+<record>
+	<id>054</id>
+	<filename>gehle_physi_054_de_1798.xml</filename>
+</record>
+<record>
+	<id>055</id>
+	<filename>gehle_physi_055_de_1787.xml</filename>
+</record>
+<record>
+	<id>056</id>
+	<filename>eucli_ponde_056_la_1537.xml</filename>
+</record>
+<record>
+	<id>057</id>
+	<filename>eucli_ponde_057_la_1900.xml</filename>
+</record>
+<record>
+	<id>058</id>
+	<filename>eucli_ponde_058_fr_1565.xml</filename>
+</record>
+<record>
+	<id>059</id>
+	<filename>eucli_ponde_059_it_1565.xml</filename>
+</record>
+<record>
+	<id>060</id>
+	<filename>eucli_ponde_060_en.xml</filename>
+</record>
+<record>
+	<id>061</id>
+	<filename>eucli_ponde_061_en.xml</filename>
+</record>
+<record>
+	<id>062</id>
+	<filename>marci_regul_062_la_1639.xml</filename>
+</record>
+<record>
+	<id>063</id>
+	<filename>marci_figur_063_la_1648.xml</filename>
+</record>
+<record>
+	<id>064</id>
+	<filename>balia_demot_064_la_1646.xml</filename>
+</record>
+<record>
+	<id>065</id>
+	<filename>galil_syste_065_en_1661.xml</filename>
+</record>
+<record>
+	<id>066</id>
+	<filename>galil_doctr_066_en_1661.xml</filename>
+</record>
+<record>
+	<id>067</id>
+	<filename>fosca_epist_067_en_1661.xml</filename>
+</record>
+<record>
+	<id>068</id>
+	<filename>caste_mensu_068_en_1661.xml</filename>
+</record>
+<record>
+	<id>069</id>
+	<filename>galil_disco_069_en_1665.xml</filename>
+</record>
+<record>
+	<id>070</id>
+	<filename>galil_mecha_070_en_1665.xml</filename>
+</record>
+<record>
+	<id>071</id>
+	<filename>desca_mecha_071_en_1665.xml</filename>
+</record>
+<record>
+	<id>072</id>
+	<filename>rober_ferma_072_en_1665.xml</filename>
+</record>
+<record>
+	<id>073</id>
+	<filename>archi_natat_073_en_1662.xml</filename>
+</record>
+<record>
+	<id>074</id>
+	<filename>galil_natat_074_en_1663.xml</filename>
+</record>
+<record>
+	<id>075</id>
+	<filename>tarta_inven_075_en_1664.xml</filename>
+</record>
+<record>
+	<id>076</id>
+	<filename>balia_demot_076_la_1638.xml</filename>
+</record>
+<record>
+	<id>077</id>
+	<filename>monte_aeque_077_la_1588.xml</filename>
+</record>
+<record>
+	<id>078</id>
+	<filename>hutto_dicti_078_en_1795.xml</filename>
+</record>
+<record>
+	<id>079</id>
+	<filename>lucre_natur_079_la_1566.xml</filename>
+</record>
+<record>
+        <id>080</id>
+        <filename>arist_mecha_080_el_1831.xml</filename>
+</record>
+<record>
+        <id>081</id>
+        <filename>desca_princ_081_la_1644.xml</filename>
+</record>
+<record>
+        <id>082</id>
+        <filename>lucre_natur_082_la_1893.xml</filename>
+</record>
+<record>
+        <id>083</id>
+        <filename>galil_demot_083_la_1890.xml</filename>
+</record>
+<record>
+        <id>084</id>
+        <filename>monte_mecha_084_en_1969.xml</filename>
+</record>
+<record>
+        <id>085</id>
+        <filename>stevi_weegc_085_nl_1586.xml</filename>
+</record>
+<record>
+        <id>086</id>
+        <filename>vitru_archi_0086_la_1912.xml</filename>
+</record>
+<record>
+        <id>087</id>
+        <filename>achil_propo_087_la_1545.xml</filename>
+</record>
+<record>
+        <id>088</id>
+        <filename>pappu_coll8_088_el_1876.xml</filename>
+</record>
+<record>
+        <id>089</id>
+        <filename>heron_mecha_089_el_1899.xml</filename>
+</record>
+<record>
+        <id>090</id>
+        <filename>torri_opere_090_la.xml</filename>
+</record>
+<record>
+        <id>091</id>
+        <filename>pollu_onoma_091_el_1900.xml</filename>
+</record>
+<record>
+        <id>092</id>
+        <filename>heron_pneum_092_el_1899.xml</filename>
+</record>
+<record>
+        <id>093</id>
+        <filename>heron_belop_093_el_1918.xml</filename>
+</record>
+<record>
+        <id>094</id>
+        <filename>galil_demot_094_en_2000.xml</filename>
+</record>
+<record>
+        <id>095</id>
+        <filename>pappu_coll8_095_en_1970.xml</filename>
+</record>
+<record>
+        <id>096</id>
+        <filename>heron_mecha_096_ar_1900.xml</filename>
+</record>
+<record>
+        <id>097</id>
+        <filename>heron_mecha_097_en_1999.xml</filename>
+</record>
+<record>
+        <id>098</id>
+        <filename>pappu_coll8_098_ar_1970.xml</filename>
+</record>
+<record>
+        <id>099</id>
+        <filename>desca_princ_099_la_1905.xml</filename>
+</record>
+<record>
+        <id>100</id>
+        <filename>arist_mecha_100_ar_1998.xml</filename>
+</record>
+<record>
+        <id>101</id>
+        <filename>arist_mecha_101_en_1980.xml</filename>
+</record>
+<record>
+        <id>102</id>
+        <filename>arist_mecha_102_en_2003.xml</filename>
+</record>
+<record>
+        <id>103</id>
+        <filename>epicu_physi_103_el_1887.xml</filename>
+</record>
+<record>
+        <id>104</id>
+        <filename>epicu_physi_104_el_1566.xml</filename>
+</record>
+<record>
+        <id>105</id>
+        <filename>eucli_eleme_105_el.xml</filename>
+</record>
+<record>
+        <id>106</id>
+        <filename>arist_mecha_106_la_1560.xml</filename>
+</record>
+<record>
+        <id>107</id>
+        <filename>picco_mecha_107_it_1582.xml</filename>
+</record>
+<record>
+        <id>108</id>
+        <filename>arist_mecha_108_el_1982.xml</filename>
+</record>
+<record>
+        <id>109</id>
+        <filename>heron_pneum_109_it_1582.xml</filename>
+</record>
+<record>
+        <id>110</id>
+        <filename>heron_pneum_110_it_1589.xml</filename>
+</record>
+<record>
+        <id>111</id>
+        <filename>heron_pneum_111_it_1592.xml</filename>
+</record>
+<record>
+        <id>112</id>
+        <filename>heron_pneum_112_la_1575.xml</filename>
+</record>
+</arch_idlist>

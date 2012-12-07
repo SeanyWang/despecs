@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="utf-8"?><echo xmlns="http://www.mpiwg-berlin.mpg.de/ns/echo/1.0/" xmlns:de="http://www.mpiwg-berlin.mpg.de/ns/de/1.0/" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:echo="http://www.mpiwg-berlin.mpg.de/ns/echo/1.0/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0RC">
+  <metadata>
+    <dcterms:identifier>ECHO:54K7BX2W.xml</dcterms:identifier>
+    <dcterms:creator identifier="GND:10001271X">Angeli, Stefano</dcterms:creator>
+    <dcterms:title xml:lang="it">Terze considerationi sopra una lettera di Gio. Alfonso Borelli</dcterms:title>
+    <dcterms:date xsi:type="dcterms:W3CDTF">1668</dcterms:date>
+    <dcterms:language xsi:type="dcterms:ISO639-3">ita</dcterms:language>
+    <dcterms:rights>CC-BY-SA</dcterms:rights>
+    <dcterms:license xlink:href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</dcterms:license>
+    <dcterms:rightsHolder xlink:href="http://www.mpiwg-berlin.mpg.de">Max Planck Institute for the History of Science, Library</dcterms:rightsHolder>
+  </metadata>
+  <text xml:lang="it" type="free">
+<div xml:id="echoid-div1" type="section" level="1" n="1"><pb file="0001" n="1"/>
+<pb file="0002" n="2"/>
+<pb file="0003" n="3"/>
+<pb file="0004" n="4"/>
+<handwritten/>
+<handwritten/>
+<handwritten/>
+<pb file="0005" n="5"/>
+</div>
+<div xml:id="echoid-div2" type="section" level="1" n="2">
+<head xml:id="echoid-head1" xml:space="preserve">TERZE</head>
+<head xml:id="echoid-head2" xml:space="preserve">CONSIDER ATIONI</head>
+<head xml:id="echoid-head3" xml:space="preserve">SOPRA VNA LETTERA</head>
+<head xml:id="echoid-head4" style="it" xml:space="preserve">Del Molto Illuſtre, &amp; Eccellentiſſimo Signor</head>
+<head xml:id="echoid-head5" xml:space="preserve">GIO: ALFONSO BORELLI <lb/>Meſſineſe Mattematico nello Studio di Piſa, <lb/>SCRITTA DA QVESTI IN REPLICA <lb/>Di alcune Dottrine incidentemente tocche</head>
+<head xml:id="echoid-head6" xml:space="preserve">DA FRA <lb/>STEFANO DE GL ANGELI <lb/>VENETIANO</head>
+<head xml:id="echoid-head7" style="it" xml:space="preserve">MATTEM ATICO NELLO STVDIO DI PADOVA <lb/>Nelle ſue prime Conſiderationi ſopra la forza di certo Argomento <lb/>contro il moto diurno della Terra,</head>
+<head xml:id="echoid-head8" xml:space="preserve">ESPRESSE DA QVESTO IN VN DIALOGO <lb/>Quinto in ordine.</head>
+  <figure>
+    <image file="0005-01" xlink:href="http://echo.mpiwg-berlin.mpg.de/zogilib?fn=/permanent/library/54K7BX2W/figures/0005-01"/>
+  </figure>
+</div>
+<div xml:id="echoid-div3" type="section" level="1" n="3">
+<head xml:id="echoid-head9" xml:space="preserve">IN VENETIA, M. DC. LXVIII.</head>
+<head xml:id="echoid-head10" xml:space="preserve">Appreſſo li Heredi Leni.</head>
+<head xml:id="echoid-head11" style="it" xml:space="preserve">CON LICENZA DE SVPERIORI.</head>
+<pb file="0006" n="6"/>
+<pb file="0007" n="7"/>
+</div>
+<div xml:id="echoid-div4" type="section" level="1" n="4">
+<head xml:id="echoid-head12" xml:space="preserve">ALL´ILL VSTR<emph style="sp">MO</emph>. EDOTTISS<emph style="sp">MO</emph>. SIG.</head>
+<head xml:id="echoid-head13" xml:space="preserve">Signor, e Patron Colendiſſimo</head>
+<head xml:id="echoid-head14" xml:space="preserve">IL SIGNOR</head>
+<head xml:id="echoid-head15" xml:space="preserve">MICHIEL´ ANGELO <lb/>RICCI.</head>
+<p style="it">
+  <s xml:id="echoid-s1" xml:space="preserve">IL Signor Gio: </s>
+  <s xml:id="echoid-s2" xml:space="preserve">Aifonſo Borelli, <lb/>che con tanti ſuoi parti publicati <lb/>al mondo ba manifeſtato la gran-<lb/>dezza del ſuo ſapere, ne bà dato <lb/>vn nuouo rincontro, mentre ba-<lb/>uendo moſſo al Signor di Fermat, <lb/>&amp; </s>
+  <s xml:id="echoid-s3" xml:space="preserve">à me certa lite litteraria, per deciderla ne bà <lb/>eletto vn Giudice il più idoneo, e competente, che <lb/>vno ſi poteſſe imaginare, cioè V. </s>
+  <s xml:id="echoid-s4" xml:space="preserve">S. </s>
+  <s xml:id="echoid-s5" xml:space="preserve">Illuſtriſsima. <lb/></s>
+  <s xml:id="echoid-s6" xml:space="preserve">T<unsure/>o per me più che volontieri mi ſottopongo al ſuo <lb/>purgato giudicio, e profondo intendimento. </s>
+  <s xml:id="echoid-s7" xml:space="preserve">E per <lb/>renderla informata delle mie ragioni, già che il Si-<lb/>gnor Borelli è ſtato il primo à parlare nel ſuo famo-
+<pb file="0008" n="8"/>
+ſolibro _De Vi Percuſſionis_; </s>
+  <s xml:id="echoid-s8" xml:space="preserve">al che io bò riſpoſto <lb/>nelli miei primi Dialoghi; </s>
+  <s xml:id="echoid-s9" xml:space="preserve">&amp; </s>
+  <s xml:id="echoid-s10" xml:space="preserve">eglibàreplicato nella <lb/>Lettera diretta à V. </s>
+  <s xml:id="echoid-s11" xml:space="preserve">S. </s>
+  <s xml:id="echoid-s12" xml:space="preserve">Illuſtriſsimali giorni paſſati, <lb/>anch´io ſottometto alla conſideratione del ſuo per-<lb/>ſpicaciſsimo ingegno le mie ragioni in queſto Dialo-<lb/>ghetto. </s>
+  <s xml:id="echoid-s13" xml:space="preserve">Non mi eſtendo nelle douute lodi, nè in <lb/>altro conueniente alli miei doueri, &amp; </s>
+  <s xml:id="echoid-s14" xml:space="preserve">al ſuo gran <lb/>merito, acciò che altri non poſſa ſoſpettare, che io <lb/>pretenda contaminar la ſuarettitudine con li oße-<lb/>quĳ. </s>
+  <s xml:id="echoid-s15" xml:space="preserve">Per tanto conogni ſimplicità, e ſchiettezza <lb/>lariueriſco, emirattifico.</s>
+  <s xml:id="echoid-s16" xml:space="preserve"/>
+</p>
+<p style="it">
+  <s xml:id="echoid-s17" xml:space="preserve">DiV. </s>
+  <s xml:id="echoid-s18" xml:space="preserve">s. </s>
+  <s xml:id="echoid-s19" xml:space="preserve">Illuſtriſsima</s>
+</p>
+<p>
+  <s xml:id="echoid-s20" xml:space="preserve">Venètia li 15. </s>
+  <s xml:id="echoid-s21" xml:space="preserve">Giugno 1668.</s>
+  <s xml:id="echoid-s22" xml:space="preserve"/>
+</p>
+<p style="it">
+  <s xml:id="echoid-s23" xml:space="preserve">Deuotiſs<emph style="sp">mo</emph>. </s>
+  <s xml:id="echoid-s24" xml:space="preserve">&amp; </s>
+  <s xml:id="echoid-s25" xml:space="preserve">Obligatiſs<emph style="sp">mo</emph>. </s>
+  <s xml:id="echoid-s26" xml:space="preserve">Seru<emph style="sp">re</emph>.</s>
+  <s xml:id="echoid-s27" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s28" xml:space="preserve">F. </s>
+  <s xml:id="echoid-s29" xml:space="preserve">Stefano de gl´Angeli.</s>
+  <s xml:id="echoid-s30" xml:space="preserve"/>
+</p>
+<pb file="0009" n="9"/>
+</div>
+<div xml:id="echoid-div5" type="section" level="1" n="5">
+<head xml:id="echoid-head16" xml:space="preserve">AL CORTESE <lb/>LETTORE.</head>
+<p>
+  <s xml:id="echoid-s31" xml:space="preserve">TI ſtupirai ò Lettore nel vedere tan-<lb/>te diſpute fatte ſopra vna coſa, <lb/>che non è nel mondo, cioè il <lb/>moto diurno della Terra. </s>
+  <s xml:id="echoid-s32" xml:space="preserve">Si <lb/>controuerte trà noi quello, che <lb/>ſuccederebbe quando queſta ſi <lb/>moueſſe. </s>
+  <s xml:id="echoid-s33" xml:space="preserve">Nelli miei primi Dialoghi publicati il <lb/>Settembre proſſimo paſſato diceuo, che la ſemi-<lb/>tà del graue cadente in queſto caſo ſarebbe certa <lb/>linea Spirale, il ſpatio contenuto dalla quale, e <lb/>dal ſemidiametro, quando il moto ſi continuaſ-<lb/>ſe ſinoal centro, haueuo molto prima geometri-
+<pb file="0010" n="10"/>
+camente mifurato. </s>
+  <s xml:id="echoid-s34" xml:space="preserve">Eperche il Signor Gio: </s>
+  <s xml:id="echoid-s35" xml:space="preserve">Al-<lb/>fonſo Borelli Mattematico digniſſimo nello Stu-<lb/>dio di Piſa ſi è compiaciuto d´impugnare queſta-<lb/>dottrina nel ſuo Libro _De Vi Percuſſionis_ anco pri-<lb/>ma che la publicaſſi, io che la tengo vera, mi <lb/>ſono ritrouato in neceſſità di difenderla. </s>
+  <s xml:id="echoid-s36" xml:space="preserve">Hà re-<lb/>plicato il Signor Borelli à quanto hò detto li me-<lb/>ſi paſſati in certa elegante lettera diretta all´Illu-<lb/>ſtriſſimo, e Dottiſſimo Signor Michiel´ Angelo <lb/>Ricci, nella quale, ſe bene profeſſa nel princi-<lb/>pio non voler conſiderare, che le coſe dottrina-<lb/>li, vi inſeriſce ſoſpetti tali del mio modo di pro-<lb/>cedere, che per leuarli queſte falſe impreſſioni, <lb/>mi ritrouo conſtretto à replicare. </s>
+  <s xml:id="echoid-s37" xml:space="preserve">Haueuo con-<lb/>ſtantemente determinato di non ſcriuer piùaltro <lb/>in ſimile propoſito, e l´hauerei eſequito quando <lb/>il Signor Borelli haueſſe replicato coſe tali, che <lb/>tù le poteſſi giudicare dalla ſola lettura, ma ha-<lb/>uendo riempiuta queſta lettera di queſti ſoſpetti <lb/>della mia ingenuità, e modo diprocedere, non <lb/>poſſo, nè deuo tacere in conto alcuno ſe non <lb/>voglio dar à vedere d´acconſentire, eſſendo tro-<lb/>pogeloſo, che il mondo tutto ſapia, che io l´hò <lb/>ſempre riuerito, e ſtimato quanto meritano le ſue <lb/>gran virtù.</s>
+  <s xml:id="echoid-s38" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s39" xml:space="preserve">Queſta è l´vnica cagione del mio ſcriuere, nel <lb/>che hò certamente adempito al mio debito, e <lb/>dato pace al mio animo. </s>
+  <s xml:id="echoid-s40" xml:space="preserve">Sarà in tuo arbitrio il
+<pb file="0011" n="11"/>
+leggere, ŏ nò, ſi come io ſono patrone dicon-<lb/>ſumare li miei ſtipendij come più mi piace, non <lb/>richiedendo date coſa alcuna.</s>
+  <s xml:id="echoid-s41" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s42" xml:space="preserve">Viui felice.</s>
+  <s xml:id="echoid-s43" xml:space="preserve"/>
+</p>
+<pb file="0012" n="12"/>
+</div>
+<div xml:id="echoid-div6" type="section" level="1" n="6">
+<head xml:id="echoid-head17" xml:space="preserve">NOI REFORMATORI</head>
+<head xml:id="echoid-head18" xml:space="preserve">Dello Studio di Padoua.</head>
+<p>
+  <s xml:id="echoid-s44" xml:space="preserve">HAuendo veduto per fede del Padre Inquiſito-<lb/>re nel Libro intitolato Terze Conſideratio-<lb/>ni, del Reu. </s>
+  <s xml:id="echoid-s45" xml:space="preserve">P. </s>
+  <s xml:id="echoid-s46" xml:space="preserve">Stefano degl´Angeli, non eſſerui coſa <lb/>alcuna contra la Santa Fede Cattolica, e parimente <lb/>per atteſtato del Segretario noſtro, niente contro <lb/>Prencipi, e buoni coſtumi, concedemo licenza à li <lb/>Heredi Leni di poterlo ſtampare, oſſeruando gl´ordi-<lb/>ni, &amp; </s>
+  <s xml:id="echoid-s47" xml:space="preserve">c.</s>
+  <s xml:id="echoid-s48" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s49" xml:space="preserve">Dat. </s>
+  <s xml:id="echoid-s50" xml:space="preserve">à 10. </s>
+  <s xml:id="echoid-s51" xml:space="preserve">Luglio 1668.</s>
+  <s xml:id="echoid-s52" xml:space="preserve"/>
+</p>
+<p style="it">
+  <s xml:id="echoid-s53" xml:space="preserve">[Aluiſe Contarini Cau. </s>
+  <s xml:id="echoid-s54" xml:space="preserve">Proc. </s>
+  <s xml:id="echoid-s55" xml:space="preserve">Reform.</s>
+  <s xml:id="echoid-s56" xml:space="preserve"/>
+</p>
+<p style="it">
+  <s xml:id="echoid-s57" xml:space="preserve">[Andrea Piſani Proc. </s>
+  <s xml:id="echoid-s58" xml:space="preserve">Reform.</s>
+  <s xml:id="echoid-s59" xml:space="preserve"/>
+</p>
+<p style="it">
+  <s xml:id="echoid-s60" xml:space="preserve">[Angelo Correr Cau. </s>
+  <s xml:id="echoid-s61" xml:space="preserve">Proc. </s>
+  <s xml:id="echoid-s62" xml:space="preserve">Reform.</s>
+  <s xml:id="echoid-s63" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s64" xml:space="preserve">Angelo Nicoloſi Segret.</s>
+  <s xml:id="echoid-s65" xml:space="preserve"/>
+</p>
+<pb o="1" file="0013" n="13"/>
+</div>
+<div xml:id="echoid-div7" type="section" level="1" n="7">
+<head xml:id="echoid-head19" xml:space="preserve">DIALOGO QVINTO</head>
+<head xml:id="echoid-head20" xml:space="preserve">INTERLOCVTORI <lb/>CONTE LESZCZYNSKY</head>
+<p style="it">
+  <s xml:id="echoid-s66" xml:space="preserve">Ofreddi, e Mattematico di Padoua.</s>
+  <s xml:id="echoid-s67" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s68" xml:space="preserve">TRà le molte viſite con le quali ven-<lb/>go continuamente fauorito da tan-<lb/>ti amici, e patroni in queſta mia <lb/>penoſa infermità, e lunga purga, <lb/>niuna certamente poteua hora <lb/>giungere più opportuna di quella <lb/>delli miei cariſſimi Signori Conte, &amp; </s>
+  <s xml:id="echoid-s69" xml:space="preserve">Ofreddi. </s>
+  <s xml:id="echoid-s70" xml:space="preserve">Poi-<lb/>che eſſendo il Signor Franceſco Vernon Ingleſe, che <lb/>già molti giorni partì da Bologna, dopò ampio giro <lb/>per Milano, &amp; </s>
+  <s xml:id="echoid-s71" xml:space="preserve">altre Città di Lombardia, poco fà ca-<lb/>pitato a Padoua, hà anco portata la tanto deſiata let-<lb/>tera del dottiſſimo Signor Gio: </s>
+  <s xml:id="echoid-s72" xml:space="preserve">Alfonſo Borelli Meſ-<lb/>ſineſe Mattematico nel nobiliſſimo ſtudio di Piſa, <lb/>con la quale ſi è compiaciuto honorare di riſpoſta, <lb/>queltanto, che leggiermente toccaſſimo nelli noſtri <lb/>primi Dialoghi concernente alla ſua dottrina pur in-
+<pb o="2" file="0014" n="14"/>
+cidentemente tocca nel ſuo famoſiſſimo Libro _De Vi_ <lb/>_Percuſſionis_.</s>
+  <s xml:id="echoid-s73" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s74" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s75" xml:space="preserve">Io riceuo due conſolationi in queſto pun-<lb/>to; </s>
+  <s xml:id="echoid-s76" xml:space="preserve">la prima è, che mi pare vederla queſta mattina <lb/>aſſai migliorata dalla ſua diſpoſitione; </s>
+  <s xml:id="echoid-s77" xml:space="preserve">l´altra che ſia <lb/>finalmente capitata queſta lettera.</s>
+  <s xml:id="echoid-s78" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s79" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s80" xml:space="preserve">Io pure hò li medeſimi motiui di ralle-<lb/>grarme, che hà il Sig. </s>
+  <s xml:id="echoid-s81" xml:space="preserve">Conte. </s>
+  <s xml:id="echoid-s82" xml:space="preserve">E quanto a queſta <lb/>lettera modeſtamente mi lamentarei del dottiſſimo <lb/>Signor Mengoli, che potendola mandare per la po-<lb/>ſta ordinaria habbia ſcielto vna ſtrada sì lunga, ſe <lb/>l´inuiarla non foſſe ſtata ſua mera benignità, e corte-<lb/>ſia.</s>
+  <s xml:id="echoid-s83" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s84" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s85" xml:space="preserve">Horsù già che finalmente è com parſa non <lb/>defraudiamo più la noſtra curioſità, ma procuriamo <lb/>di ſatollarla con la ſua conſideratione.</s>
+  <s xml:id="echoid-s86" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s87" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s88" xml:space="preserve">Anzi che biſogna defraudarla ſino che non <lb/>hà recuperata intieramente la ſalute primiera, acciò <lb/>non fomentiamo con l´applicatione l´ecceſſiuo ca-<lb/>lore, che tanto l´offende.</s>
+  <s xml:id="echoid-s89" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s90" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s91" xml:space="preserve">Realmente non poſſo che deplorar l´habi-<lb/>to infelice della mia teſta, il quale non mi permette <lb/>applicare alli ſtudij che non manifeſtiſſimo detri-<lb/>mento della mia ſalute. </s>
+  <s xml:id="echoid-s92" xml:space="preserve">Mà non credo che farò gran <lb/>fatica nell´intelligenza delli dubij del Signor Borel-<lb/>li, perche hauendo ſcorſa queſta lettera hò ſcoperto <lb/>in eſſa la ſolita chiarezza, e diſinuoltura dell´Autore. <lb/></s>
+  <s xml:id="echoid-s93" xml:space="preserve">Oltre che sò eſſer egli tanto benigno, e corteſe, che
+<pb o="3" file="0015" n="15"/>
+riceuerà da noi quello, che pòtiamo dare, non quel-<lb/>lo, che ſi douerebbe. </s>
+  <s xml:id="echoid-s94" xml:space="preserve">Hauendola adunque traſcorſa <lb/>hò notato nel principio d´eſſa vna coſa, che mi è riu-<lb/>ſcita nuoua, cioè che il P. </s>
+  <s xml:id="echoid-s95" xml:space="preserve">Merſenno alla faccia 5. </s>
+  <s xml:id="echoid-s96" xml:space="preserve">de <lb/>ſuoi Fenomeni Baliſtici dica, che il Signor di Fermat <lb/>habbia conſiderata la linea, che deſcriuerebbe il <lb/>graue cadente, ſuppoſto falſamente muouerſi la Ter-<lb/>ra, e che già molti anni ne ſia ſtata mandata la de-<lb/>moſtratione al Galileo. </s>
+  <s xml:id="echoid-s97" xml:space="preserve">Queſta coſa mi è riuſcito, <lb/>come hò già detto, nuoua, perche nè io tengo l´o-<lb/>pere del P. </s>
+  <s xml:id="echoid-s98" xml:space="preserve">Merſenno, nè mai l´hò vedute che alla <lb/>sfuggita. </s>
+  <s xml:id="echoid-s99" xml:space="preserve">Hò però gran piacere d´eſſermi accompa-<lb/>gnato in queſta ſpeculatione con huomo tanto fa-<lb/>moſo, qual´è ſtato il Sig di Fermat; </s>
+  <s xml:id="echoid-s100" xml:space="preserve">di cui ſe bene <lb/>non hò mai veduto coſa alcuna, hò però, è già molti <lb/>anni quando mi ritrouauo in Roma dall´Illuſtriſſi-<lb/>mo, e dottiſſimo Signor Michiel´ Angelo Ricci, e <lb/>poi ſucceſſiuamente da molti altri peritiſſimi Geo-<lb/>metri, vdito celebrarlo per ſoggetto realmente ſin-<lb/>golariſſimo. </s>
+  <s xml:id="echoid-s101" xml:space="preserve">Onde è mia gran ventura, ch´egli mi <lb/>habbia ad eſſere ſcudo contro li vigoroſi colpi del <lb/>Sig. </s>
+  <s xml:id="echoid-s102" xml:space="preserve">Borelli.</s>
+  <s xml:id="echoid-s103" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s104" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s105" xml:space="preserve">Mà in gratia prima che habbiamo a ripa-<lb/>rarſi da queſti gran colpi, V. </s>
+  <s xml:id="echoid-s106" xml:space="preserve">S. </s>
+  <s xml:id="echoid-s107" xml:space="preserve">mi reduca a memoria <lb/>il punto della queſtione, che paſſa trà lei, &amp; </s>
+  <s xml:id="echoid-s108" xml:space="preserve">il Si-<lb/>gnor Borelli, della quale io per hora non bene mi <lb/>arricordo.</s>
+  <s xml:id="echoid-s109" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s110" xml:space="preserve">Matt, Supponiamo nel ſeguente Schema, che
+<pb o="4" file="0016" n="16"/>
+C E, ſia il ſemidiametro della Terra, &amp; </s>
+  <s xml:id="echoid-s111" xml:space="preserve">A E, altezza <lb/>di vna Torre, e nella ſua ſommità eſſer il graue A; </s>
+  <s xml:id="echoid-s112" xml:space="preserve">ſe <lb/>per mera Ipoteſi ſi moueſſe <lb/>
+<anchor type="figure" xlink:label="fig-0016-01a" xlink:href="fig-0016-01"/>
+la Terra circa il proprio cen-<lb/>tro con il ſolo moto diurno <lb/>il graue A, collocato nella <lb/>cima della Torre deſcriue-<lb/>rebbe con moto equabile <lb/>l´arco A F B, ma mouendoſi <lb/>il graue all´ingiù, queſti ſi <lb/>mouerebbe di due moti, vno <lb/>circolare proueniente dal <lb/>moto diurno, l´altro all´ingiù <lb/>deriuante dalla grauità. </s>
+  <s xml:id="echoid-s113" xml:space="preserve">On-<lb/>de da queſti due moti ne re-<lb/>ſultarebbe, che il graue deſcriueſſe la linea A G H. <lb/></s>
+  <s xml:id="echoid-s114" xml:space="preserve">La controuerſia è, ſe il graue in tutti li punti della <lb/>A G H, riteneſſe la medeſima velocità circolare, la <lb/>quale haueua in A. </s>
+  <s xml:id="echoid-s115" xml:space="preserve">Io dico di nò; </s>
+  <s xml:id="echoid-s116" xml:space="preserve">ma che paſſan-<lb/>do ſucceſsiuamente per punti di diuerſe, e diuerſe <lb/>circonferenze, e ſempre minori quanto più ſi acco-<lb/>ſta al centro, ſi moueſſe in eſsi con la velocità, con <lb/>la quale ſono deſcritte le circonferenze. </s>
+  <s xml:id="echoid-s117" xml:space="preserve">Per eſſem-<lb/>pio, il mobile arriuato in G, non ritenerebbe la me-<lb/>deſima velocità, che haueua in A, ma quella, con la <lb/>quale ſi muoue il punto D, tanto minore di quella <lb/>del punto A, proportionatamente quanto C D, è mi-<lb/>nore della C A. </s>
+  <s xml:id="echoid-s118" xml:space="preserve">Queſta è la mia opinione, della
+<pb o="5" file="0017" n="17"/>
+quale dice il Signor Borelli nella facciata 2. </s>
+  <s xml:id="echoid-s119" xml:space="preserve">_la qual_ <lb/>_propoſitione aßume egli per coſa vera, nè ſi troua altra ra-_ <lb/>_gione per confermarla, che la ſua mera autorità_. </s>
+  <s xml:id="echoid-s120" xml:space="preserve">Nel che <lb/>certamente non hà ragione, mentre queſta propoſi-<lb/>tione non è mia, ma di tutti quelli, li quali hanno ri-<lb/>ſpoſto alle ragioni addotte contro il siſtema Coper-<lb/>nicano; </s>
+  <s xml:id="echoid-s121" xml:space="preserve">onde io non mi hò arrogato il confermare <lb/>la propoſitione con la mia autorità, ma hò ſeguito in <lb/>ciò l´autorità delli altri, li quali in altro modo non <lb/>procurano ſaluare il moto delli graui cadenti per la <lb/>perpendicolare all´Orizonte; </s>
+  <s xml:id="echoid-s122" xml:space="preserve">il moto delle Nuuole, <lb/>&amp; </s>
+  <s xml:id="echoid-s123" xml:space="preserve">Vccelli per l´Aria; </s>
+  <s xml:id="echoid-s124" xml:space="preserve">e ſimili. </s>
+  <s xml:id="echoid-s125" xml:space="preserve">E per tralaſciar gl´al-<lb/>tri, facia gratia il Sig. </s>
+  <s xml:id="echoid-s126" xml:space="preserve">Borelli di vedere il Galileo nel <lb/>2. </s>
+  <s xml:id="echoid-s127" xml:space="preserve">Dialogo del Siſtema Coſmico, e trouerà che nella <lb/>facciata 119. </s>
+  <s xml:id="echoid-s128" xml:space="preserve">latina dice. </s>
+  <s xml:id="echoid-s129" xml:space="preserve">_Si motus rectus, verſus ter-_ <lb/>_ræ centum vniformis eſſet, cum ſit etiam vniformis ille_ <lb/>_circularis in Orientem; </s>
+  <s xml:id="echoid-s130" xml:space="preserve">apparet, ex vtroque componi mo-_ <lb/>_tum per lineam ſpiralem, vnam ex illarum genere quas de-_ <lb/>_finiuit Archimedes in Libro de Spiralibus. </s>
+  <s xml:id="echoid-s131" xml:space="preserve">Eæ ſunt, quan-_ <lb/>_do punctum mouetur vniformiter ſuper linea recta vnifor-_ <lb/>_miter quoque circumducta circa alterum extremorum eius_ <lb/>_punctum fixum, tamquam circulationis ipſius centrum._ <lb/></s>
+  <s xml:id="echoid-s132" xml:space="preserve">_Sed cum motus rectus corporis grauis cadentis continuè ſit_ <lb/>_acceleratus, neceſſe eſt vt linea compoſitis duobus à moti-_ <lb/>_bus deſcripta, maiori ſubinde proportione ſucceſſiuè recedat_ <lb/>_à circumferentia illius circuli, quem deſcripſiſſet, centrum_ <lb/>_grauitatis lapidis, ſi lapis in turris ſummitate manſiſſet._ </s>
+  <s xml:id="echoid-s133" xml:space="preserve"><lb/>_neceſſe quoque eſt, vt iſta receſſio à principio ſit exigua, imò_
+<pb o="6" file="0018" n="18"/>
+_minima &amp; </s>
+  <s xml:id="echoid-s134" xml:space="preserve">ſi quid minimo minus est. </s>
+  <s xml:id="echoid-s135" xml:space="preserve">ſiquidem graue de-_ <lb/>_ſcendens, dum exit quiete, hoc eſt, priuatione motus deor-_ <lb/>_ſum &amp; </s>
+  <s xml:id="echoid-s136" xml:space="preserve">motum rectum deorſum ingreditur neceſſariò tran-_ <lb/>_ſit per omnes gradus tarditatis, inter quietem, &amp; </s>
+  <s xml:id="echoid-s137" xml:space="preserve">quam-_ <lb/>_cumque velocitatem interiectos, &amp; </s>
+  <s xml:id="echoid-s138" xml:space="preserve">c_. </s>
+  <s xml:id="echoid-s139" xml:space="preserve">Ecco adunque che <lb/>il Galileo eſplica la deſcrittione di queſta ſemita del <lb/>moto del graue nel medeſimo modo, che facio io, <lb/>&amp; </s>
+  <s xml:id="echoid-s140" xml:space="preserve">il graue ſi muoue del moto circolare equabile ſo-<lb/>pra il ſemidiametro, &amp; </s>
+  <s xml:id="echoid-s141" xml:space="preserve">in conſequenza in tutti li <lb/>punti di eſſo con quella velocità con la quale ſi muo-<lb/>uono eſsi, come apunto diceua Archimede; </s>
+  <s xml:id="echoid-s142" xml:space="preserve">dalla <lb/>dottrina del quale non vi è altra diuerſità, che nell´-<lb/>acceleratione del graue per il ſemidiametro. </s>
+  <s xml:id="echoid-s143" xml:space="preserve">Io <lb/>adunque hò ſeguito l´autorità de gl´altri, la quale <lb/>però non valerà vn iota, quando l´opinione del Sig. <lb/></s>
+  <s xml:id="echoid-s144" xml:space="preserve">Borelli venga confirmata con ragioni euidenti. </s>
+  <s xml:id="echoid-s145" xml:space="preserve">Que-<lb/>ſti adunque per il contrario ſtima, _Eßer impoſſibile,_ <lb/>_che il moto tranſuerſale conferito alla pietra dalla ſupposta_ <lb/>_vertigine della ſommità della torre, ò dell´albero della na-_ <lb/>_ue intorno al centro della terra, poſſa andar ritardandoſi_ <lb/>_ſecondo che più s´auuicina al centro terreſtre doue finalmen-_ <lb/>_te abbia da eſtinguerſi; </s>
+  <s xml:id="echoid-s146" xml:space="preserve">ma ſtimo, in qualunque luogo del-_ <lb/>_la ſceſa egli ſi troui, che debba ritenere il medeſimo grado di_ <lb/>_velocità trauerſale, e per conſequenza trapaßare ſpazzi_ <lb/>_eguali in tempi eguali in tutti li cerchi, che egli trapaſſa_.</s>
+  <s xml:id="echoid-s147" xml:space="preserve"/>
+</p>
+<div xml:id="echoid-div7" type="float" level="2" n="1">
+  <figure xlink:label="fig-0016-01" xlink:href="fig-0016-01a">
+    <image file="0016-01" xlink:href="http://echo.mpiwg-berlin.mpg.de/zogilib?fn=/permanent/library/54K7BX2W/figures/0016-01"/>
+  </figure>
+</div>
+<p>
+  <s xml:id="echoid-s148" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s149" xml:space="preserve">Se il Signor Borelli non proua con ragioni <lb/>queſta ſua dottrina, ſi può ben dire con giuſta verità <lb/>di lui quello, che dice di lei, cioè che confermi que-
+<pb o="7" file="0019" n="19"/>
+ſta propoſitione con la ſua mera autorità, mentre <lb/>credo, che ſia ſingolare. </s>
+  <s xml:id="echoid-s150" xml:space="preserve">Quanti hò veduto che trat-<lb/>tino queſta queſtione del moto della Terra li hò ve-<lb/>duto ad affatticarſi a conſeruare il moto del graue <lb/>verſo Oriente corriſpondente al punto ſottopoſto-<lb/>gli nell´Orizonte, ma che habbino creduto muouer-<lb/>ſi il graue con il moto circolare più velocemente di <lb/>queſto, come ſegue dalle dottrine del Sign. </s>
+  <s xml:id="echoid-s151" xml:space="preserve">Borelli, <lb/>&amp; </s>
+  <s xml:id="echoid-s152" xml:space="preserve">hò fatto vedere nel Dialogo 2. </s>
+  <s xml:id="echoid-s153" xml:space="preserve">alla facciata 118. <lb/></s>
+  <s xml:id="echoid-s154" xml:space="preserve">io non ne hò veduto alcuno. </s>
+  <s xml:id="echoid-s155" xml:space="preserve">Il Galileo, Gaſſendo, <lb/>e tanti altri giudicano, che il vento perpetuo verſo <lb/>Occidente nella Zona torrida prouenga dall´aria, <lb/>che ſeparata dalla Terra non ſeguiti totalmente il <lb/>ſuo moto verſo Oriente. </s>
+  <s xml:id="echoid-s156" xml:space="preserve">L´eſperienza del Cannone <lb/>perpendicolare all´Orizonte del Carteſio da noi re-<lb/>giſtrata nel 4. </s>
+  <s xml:id="echoid-s157" xml:space="preserve">Dialogo alla facciata 100. </s>
+  <s xml:id="echoid-s158" xml:space="preserve">faceua che <lb/>delle 24. </s>
+  <s xml:id="echoid-s159" xml:space="preserve">volte le 22. </s>
+  <s xml:id="echoid-s160" xml:space="preserve">la ricaduta foſſe più Occiden-<lb/>tale, e ciò perche il graue ſtaccato dalla Terra non <lb/>ſeguita apuntino la ſua velocita. </s>
+  <s xml:id="echoid-s161" xml:space="preserve">In ſomma li Co-<lb/>pernicani ſudano la fronte à conſeruare la corriſpon-<lb/>dente velocità, e molti ſi contentano concedere <lb/>qualche maggior tardità nel graue, ma niuno certa-<lb/>mente, che io habbia veduto, concede maggior ce-<lb/>lerità, come vuole il Sig. </s>
+  <s xml:id="echoid-s162" xml:space="preserve">Borelli.</s>
+  <s xml:id="echoid-s163" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s164" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s165" xml:space="preserve">Nonſolo pare al Sig. </s>
+  <s xml:id="echoid-s166" xml:space="preserve">Borelli eſſerui ragioni <lb/>per lui, ma anco eſperienze.</s>
+  <s xml:id="echoid-s167" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s168" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s169" xml:space="preserve">Eſperienze? </s>
+  <s xml:id="echoid-s170" xml:space="preserve">O queſte sì, che mi danno <lb/>l´anima. </s>
+  <s xml:id="echoid-s171" xml:space="preserve">Vediamole con preſtezza.</s>
+  <s xml:id="echoid-s172" xml:space="preserve"/>
+</p>
+<pb o="8" file="0020" n="20"/>
+<p style="it">
+  <s xml:id="echoid-s173" xml:space="preserve">_Cont._ </s>
+  <s xml:id="echoid-s174" xml:space="preserve">Perche io veggo, _dice egli_, che quell´impeto, e <lb/>grado di velocità, che ſi è conferito ad vn mobile, ſi può ben <lb/>egli debilitare, &amp; </s>
+  <s xml:id="echoid-s175" xml:space="preserve">eſtinguere, ò da vn´impeto contrario, ò <lb/>da qualche reſistenza, che egli incontri, ma non già perche <lb/>egli muti direzione; </s>
+  <s xml:id="echoid-s176" xml:space="preserve">ſi che quel mobile, che ſi muoue col ſuo <lb/>grado di velocità acquiſtato, ò per linearetta, ò per vna cir-<lb/>conferenza di cerchio, quando accada, che egli ſimplicemente <lb/>muti la via, ò per rifleſſione, ò perche egli incurui il viaggio <lb/>più di prima, e ſi conduca à cerchi minori, e ſi vede, chere-<lb/>tiene la medeſima velocità, che aueua prima.</s>
+  <s xml:id="echoid-s177" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s178" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s179" xml:space="preserve">Queſta parmi dottrina molto ſoda, ma non <lb/>giudico, che facia contro di noi, anzi che confermi <lb/>le noſtre dottrine. </s>
+  <s xml:id="echoid-s180" xml:space="preserve">E veniamo al noſtro caſo nel <lb/>ſeguente Schema. </s>
+  <s xml:id="echoid-s181" xml:space="preserve">Il graue A, nella ſommità del-<lb/>la torre A, ſi moueua con il moto diurno con vn tal <lb/>grado di velocità corriſpondente all´arco A B. </s>
+  <s xml:id="echoid-s182" xml:space="preserve">Que-<lb/>ſto mouendoſi all´ingiù ſia peruenuto nel punto G. <lb/></s>
+  <s xml:id="echoid-s183" xml:space="preserve">Io dico che in G, non ſi muoue con la velocità cir-<lb/>colare di A, e ciò per l´auree dottrine del Signor Bo-<lb/>relli.</s>
+  <s xml:id="echoid-s184" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s185" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s186" xml:space="preserve">O queſto sì, che ſarebbe contro la ſua in-<lb/>tentione.</s>
+  <s xml:id="echoid-s187" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s188" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s189" xml:space="preserve">S´arreccordi Sig. </s>
+  <s xml:id="echoid-s190" xml:space="preserve">Ofreddi delle cagioni, che <lb/>aſſegnaſsimo nel Dialog. </s>
+  <s xml:id="echoid-s191" xml:space="preserve">1. </s>
+  <s xml:id="echoid-s192" xml:space="preserve">alla facciata 46. </s>
+  <s xml:id="echoid-s193" xml:space="preserve">debili-<lb/>tanti il moto, vna delle quali era, che il mobile do-<lb/>ueua diuidere, e cacciare il mezo per il quale ſi mo-<lb/>ueua dal proprio luogo, al qual cacciamento, e diui-<lb/>ſione haueua il mezo la ſua repugnanza; </s>
+  <s xml:id="echoid-s194" xml:space="preserve">e perche
+<pb o="9" file="0021" n="21"/>
+_Omne agens agendo repatitur, &amp; </s>
+  <s xml:id="echoid-s195" xml:space="preserve">repatiendo debilitatur,_ <lb/>ne ſeguiua, che l´empito nel mobile ſi andaſſe eſtin-<lb/>guendo. </s>
+  <s xml:id="echoid-s196" xml:space="preserve">Hora non dice il Signor Borelli, che l´em-<lb/>pito s´eſtingue _da qualche reſistenza che egli incontri?_</s>
+  <s xml:id="echoid-s197" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s198" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s199" xml:space="preserve">Tanto dice in queſte ſue dottrine ſopra <lb/>regiſtrate.</s>
+  <s xml:id="echoid-s200" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s201" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s202" xml:space="preserve">Il graue adunque A, arriuato v.</s>
+  <s xml:id="echoid-s203" xml:space="preserve">g. </s>
+  <s xml:id="echoid-s204" xml:space="preserve">in G, incon-<lb/>tra il mezo G, che nõ ſi muo-<lb/>
+<anchor type="figure" xlink:label="fig-0021-01a" xlink:href="fig-0021-01"/>
+ue con la medeſima velocità <lb/>circolare di A, ma con la <lb/>corriſpondente al D, minore <lb/>dell´A. </s>
+  <s xml:id="echoid-s205" xml:space="preserve">Lo deue adunque di-<lb/>uidere, e cacciare dal pro-<lb/>prio luogo, e queſto deue <lb/>reſiſtere alla ſua diuiſione, e <lb/>cacciamento, &amp; </s>
+  <s xml:id="echoid-s206" xml:space="preserve">in conſe-<lb/>guenza debilitare l´empito <lb/>primiero A. </s>
+  <s xml:id="echoid-s207" xml:space="preserve">Adunque l´em-<lb/>pito A, non ſi può conſerua-<lb/>re ſempre il medeſimo, mà è <lb/>neceſſario, che ſi vada ſempre più, e più debilitando <lb/>quanto più ſi accoſta al centro, paſſando per parti <lb/>del mezo, che meno, e meno ſi muouono, &amp; </s>
+  <s xml:id="echoid-s208" xml:space="preserve">in con-<lb/>ſequenza più, e più reſiſtono. </s>
+  <s xml:id="echoid-s209" xml:space="preserve">Per hora baſti queſto, <lb/>perche ſotto aſſegnaremo anco altra cagione nel no-<lb/>ſtro caſo perche queſt´empito debba debilitarſi. </s>
+  <s xml:id="echoid-s210" xml:space="preserve">Mà <lb/>prima di conſiderare l´eſperienze del Signor Borelli <lb/>riflettiamo ſopra il moto delli proietti, cioè come in
+<pb o="10" file="0022" n="22"/>
+eſſi vada eſtinguendoſi l´empito in qual ſi ſia modo <lb/>in eſſi impreſſo. </s>
+  <s xml:id="echoid-s211" xml:space="preserve">Viene il proietto moſſo dal proi-<lb/>ciente, e nel ſtaccarſi da eſſo riceue vn tal grado di <lb/>velocità; </s>
+  <s xml:id="echoid-s212" xml:space="preserve">ma queſto ſtaccato che ſia dal proiciente, <lb/>non ſi conſerua il medeſimo in minimo tempo, poi-<lb/>che incontrando immediatamente la reſiſtenza del <lb/>mezo, principia ſubito à debilitarſi.</s>
+  <s xml:id="echoid-s213" xml:space="preserve"/>
+</p>
+<div xml:id="echoid-div8" type="float" level="2" n="2">
+  <figure xlink:label="fig-0021-01" xlink:href="fig-0021-01a">
+    <image file="0021-01" xlink:href="http://echo.mpiwg-berlin.mpg.de/zogilib?fn=/permanent/library/54K7BX2W/figures/0021-01"/>
+  </figure>
+</div>
+<p>
+  <s xml:id="echoid-s214" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s215" xml:space="preserve">Tanto che giudica V. </s>
+  <s xml:id="echoid-s216" xml:space="preserve">S. </s>
+  <s xml:id="echoid-s217" xml:space="preserve">che ſtaccatoſi, v. <lb/></s>
+  <s xml:id="echoid-s218" xml:space="preserve">g. </s>
+  <s xml:id="echoid-s219" xml:space="preserve">la palla nell´Artigliaria dal fuoco, che la cacciaua <lb/>con 8. </s>
+  <s xml:id="echoid-s220" xml:space="preserve">gradi di velocità, per niun tempo conſerui <lb/>queſti 8. </s>
+  <s xml:id="echoid-s221" xml:space="preserve">gradi?</s>
+  <s xml:id="echoid-s222" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s223" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s224" xml:space="preserve">Stimo ciò neceſſario. </s>
+  <s xml:id="echoid-s225" xml:space="preserve">Altrimenti quando <lb/>per qualche tempo, e ſpatio riteneſſe tutto l´empito, <lb/>non sò vedere perche queſto poi doueſſe debilitarſi, <lb/>mẽtre nõ vi ſaria maggior ragione del poco, che del <lb/>poco più. </s>
+  <s xml:id="echoid-s226" xml:space="preserve">Subito adunque prencipia debilitarſi, <lb/>perche ſubito il mezo principia à reſiſtere. </s>
+  <s xml:id="echoid-s227" xml:space="preserve">Stabili-<lb/>ta queſta dottrina, adduca Sig. </s>
+  <s xml:id="echoid-s228" xml:space="preserve">Conte l´eſperienze <lb/>del Sig. </s>
+  <s xml:id="echoid-s229" xml:space="preserve">Borelli.</s>
+  <s xml:id="echoid-s230" xml:space="preserve"/>
+</p>
+<p style="it">
+  <s xml:id="echoid-s231" xml:space="preserve">_Cont._ </s>
+  <s xml:id="echoid-s232" xml:space="preserve">Vna naue, _dice egli,_ che abbia concepito, ò dal <lb/>vento, ò daremi vn determinato grado di velocità quando <lb/>ella ſi riuolta, e deſcriue viaggi più curui, e ſi vede, che <lb/>ſcorre col medeſimo impeto di prima, e lo ſteßo ſi oſſerua ne <lb/>gli Vccelli volanti, e in tutti i proietti.</s>
+  <s xml:id="echoid-s233" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s234" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s235" xml:space="preserve">Se parliamo di vna naue in cui ò ſofi il ven-<lb/>to, ò ſi adoprino liremi con la medeſima forza, cer-<lb/>to che ne ſegue la medeſima velocità, ſi muoua que-<lb/>ſta ò per circolo maſſimo, ò per minore, purche il
+<pb o="11" file="0023" n="23"/>
+mezo ſia il medeſimo, cioè ò egualmente moſſo, ò <lb/>egualmente reſiſtente. </s>
+  <s xml:id="echoid-s236" xml:space="preserve">Lo ſteſſo accade alli V ccel-<lb/>li, quando nel muouer ſe ſteſſi adoprano la medeſi-<lb/>ma forza. </s>
+  <s xml:id="echoid-s237" xml:space="preserve">Nè altro ſuccede alli proietti quando ſo-<lb/>no moſſi dalla forza medeſima ſino che ſono vniti al <lb/>ſuo proiciente. </s>
+  <s xml:id="echoid-s238" xml:space="preserve">Se poi la naue, &amp; </s>
+  <s xml:id="echoid-s239" xml:space="preserve">altri ſono moſſi <lb/>dall´empito concepito dal vento, remi, &amp;</s>
+  <s xml:id="echoid-s240" xml:space="preserve">c. </s>
+  <s xml:id="echoid-s241" xml:space="preserve">quali <lb/>non più operino, all´hora il moto ſi và à poco à po-<lb/>co debilitando, mà egualmente in tutti li giri, che <lb/>formano maggiori, ò minori. </s>
+  <s xml:id="echoid-s242" xml:space="preserve">Queſte eſperienze <lb/>del Signor Borelli ſono veriſſime, mà non sò vedere <lb/>come facino contro di noi, e che ſimilitudine hab-<lb/>bino con la noſtra controuerſia.</s>
+  <s xml:id="echoid-s243" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s244" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s245" xml:space="preserve">Ne adduce vn´altra, che dice eſſer aſſai ſi-<lb/>mile à quella, che ſi controuerte. </s>
+  <s xml:id="echoid-s246" xml:space="preserve">A B C, ſia vn pen-<lb/>dolo, il filo del quale <lb/>
+<anchor type="figure" xlink:label="fig-0023-01a" xlink:href="fig-0023-01"/>
+paſſi per l´anello B, <lb/>fermato nel palco di <lb/>vna ſtanza, ſi riuolti il <lb/>pendolo in guiſa, che <lb/>la palla di piombo A, <lb/>deſcriui il cerchio A <lb/>DE, imprimendoli vn <lb/>determinato grado di <lb/>velocità, ſe tiri il ter-<lb/>mine del filo C, ſino <lb/>in H, in maniera, che <lb/>_la lunghezza del pendolo B F, ſia la quarta parte di A B,_
+<pb o="12" file="0024" n="24"/>
+_allora vedremo dalla palla F, deſcriuerſi il cerchio F G, in_ <lb/>_iempo minore, cioè la metà di quello, che vi voleua à compi-_ <lb/>_re il cerchio ADE, e però la velocità in F G, ſarà la mede-_ <lb/>_ſima, che aueua la palla nel ſito A._ </s>
+  <s xml:id="echoid-s247" xml:space="preserve">Così allungandoſi il <lb/>pendolo ſi amplieranno le reuolutioni della palla, <lb/>ma ſempre ſarà la velocità medeſima.</s>
+  <s xml:id="echoid-s248" xml:space="preserve"/>
+</p>
+<div xml:id="echoid-div9" type="float" level="2" n="3">
+  <figure xlink:label="fig-0023-01" xlink:href="fig-0023-01a">
+    <image file="0023-01" xlink:href="http://echo.mpiwg-berlin.mpg.de/zogilib?fn=/permanent/library/54K7BX2W/figures/0023-01"/>
+  </figure>
+</div>
+<p>
+  <s xml:id="echoid-s249" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s250" xml:space="preserve">Io ſcommetterei ogni bellacoſa, che il Si-<lb/>gnor Borelli non hà fatto queſta eſperienza.</s>
+  <s xml:id="echoid-s251" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s252" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s253" xml:space="preserve">Fatta, ò non fatta poco importa. </s>
+  <s xml:id="echoid-s254" xml:space="preserve">Io pure <lb/>credo più il nò, che il sì. </s>
+  <s xml:id="echoid-s255" xml:space="preserve">E giudico, che chi tenterà <lb/>queſt´eſperienza incontrarà in difficoltà inſuperabi-<lb/>li, nè potrà accertarſi eſſer vera la dottrina del Signor <lb/>Borelli. </s>
+  <s xml:id="echoid-s256" xml:space="preserve">Ma quando anco foſſe veriſſima l´eſperien-<lb/>za, queſta non dimoſtra lo ſteſſo douer ſucceder nel <lb/>moto delli graui all´ingiù mouendoſi la Terra, per <lb/>vna particolar cagione, che diremo militare nel mo-<lb/>to delli graui, e non in queſto del pendolo.</s>
+  <s xml:id="echoid-s257" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s258" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s259" xml:space="preserve">Mi perſuade però la ragione, che la palla <lb/>non poſſi trattenere la velocità medeſima deſcriuen-<lb/>do le circonferenze A E, G F, ma queſta debba più <lb/>debilitarſi deſcriuendo G F, che A E; </s>
+  <s xml:id="echoid-s260" xml:space="preserve">anzi che ten-<lb/>go di fermo, che non ſi conſerui nè anco per vn mo-<lb/>mento, ma ſubito principia à debilitarſi; </s>
+  <s xml:id="echoid-s261" xml:space="preserve">onde nè <lb/>meno deſcriuendo la circonferenza A E, ſi conſerui <lb/>il medeſimo empito. </s>
+  <s xml:id="echoid-s262" xml:space="preserve">Sia conferita alla palla A, vna <lb/>tal velocità, verb. </s>
+  <s xml:id="echoid-s263" xml:space="preserve">g. </s>
+  <s xml:id="echoid-s264" xml:space="preserve">di gradi 8. </s>
+  <s xml:id="echoid-s265" xml:space="preserve">e ſeparata queſta dal <lb/>principio mouente principij deſcriuere la circonfe-<lb/>renza A D E. </s>
+  <s xml:id="echoid-s266" xml:space="preserve">Perche il mezo reſiſte alla diſunione
+<pb o="13" file="0025" n="25"/>
+ſua, e ſuo cacciamento dal proprio luogo debilita la <lb/>velocità della palla in guiſa, che arriuata queſta in <lb/>D, non è più de gradi 8. </s>
+  <s xml:id="echoid-s267" xml:space="preserve">e così è ſucceſsiuamente; <lb/></s>
+  <s xml:id="echoid-s268" xml:space="preserve">onde compito il ſemigiro A D E, &amp; </s>
+  <s xml:id="echoid-s269" xml:space="preserve">arriuata in E, <lb/>ſarebbe anco più meno di gradi 8. </s>
+  <s xml:id="echoid-s270" xml:space="preserve">Hora ſupponia-<lb/>mo, che la palla ſia tirata in F, e concediamo al <lb/>Sig. </s>
+  <s xml:id="echoid-s271" xml:space="preserve">Borelli, che in queſto retiramento non ſia debi-<lb/>litata la velocità, che haueua in E, (il che però diffi-<lb/>cilmente io credo poſſa eſſere). </s>
+  <s xml:id="echoid-s272" xml:space="preserve">Queſta deſcriuendo <lb/>la circonferenza G F, pur il mezo reſiſterà e debili-<lb/>terà. </s>
+  <s xml:id="echoid-s273" xml:space="preserve">Onde non mi par poſsibile, che ſi poſſa con-<lb/>ſeruare la medeſima velocità, ma credo che queſta <lb/>ſempre più ſe debiliti. </s>
+  <s xml:id="echoid-s274" xml:space="preserve">Ma paſsiamo all´altra eſpe-<lb/>rienza.</s>
+  <s xml:id="echoid-s275" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s276" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s277" xml:space="preserve">Dice pure, che queſta ſarà non meno chia-<lb/>ra, &amp; </s>
+  <s xml:id="echoid-s278" xml:space="preserve">euidente della paſſata. </s>
+  <s xml:id="echoid-s279" xml:space="preserve">A B C, ſia vn vaſo co-<lb/>nico ſaldato nell´aſſe C D, &amp; </s>
+  <s xml:id="echoid-s280" xml:space="preserve">infilzato nel forame <lb/>traſuerſale E, d´vna ſtanza F G, e con il vertice in-<lb/>feriore D, ſi appoggi in vn forame del pauimento in <lb/>maniera che tutto il vaſo ſia volubile intorno al ſuo <lb/>aſſe, e perpendicolare all´Orizonte; </s>
+  <s xml:id="echoid-s281" xml:space="preserve">habbia detto <lb/>vaſo vna zona, ò riſalto H I, circolare, nel qual poſſa <lb/>girare, e ſoſtenerſi vna pallottolina. </s>
+  <s xml:id="echoid-s282" xml:space="preserve">Poſta queſta <lb/>in A, nell´orlo ſupremo del vaſo ſi facia girare que-<lb/>ſto, e concepita vna tal velocità dalla palla ſi laſci <lb/>cadere in H; </s>
+  <s xml:id="echoid-s283" xml:space="preserve">arriuata in H, la palla con la velocità <lb/>concepita in A, nel tempo di vna girata del vaſo non <lb/>farà vna ſola reuolutione per il circolo minore H I,
+<pb o="14" file="0026" n="26"/>
+ma vna, e tanto di più, v.</s>
+  <s xml:id="echoid-s284" xml:space="preserve">g. </s>
+  <s xml:id="echoid-s285" xml:space="preserve">la circonferenza H O, ſi <lb/>che queſta parte <lb/>
+<anchor type="figure" xlink:label="fig-0026-01a" xlink:href="fig-0026-01"/>
+con tutta lacircon-<lb/>ferenza ſijno eguali <lb/>alla circonferenza <lb/>A B.</s>
+  <s xml:id="echoid-s286" xml:space="preserve"/>
+</p>
+<div xml:id="echoid-div10" type="float" level="2" n="4">
+  <figure xlink:label="fig-0026-01" xlink:href="fig-0026-01a">
+    <image file="0026-01" xlink:href="http://echo.mpiwg-berlin.mpg.de/zogilib?fn=/permanent/library/54K7BX2W/figures/0026-01"/>
+  </figure>
+</div>
+<p>
+  <s xml:id="echoid-s287" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s288" xml:space="preserve">Che il Si-<lb/>gnor Borelli hab-<lb/>bia fatta queſta eſ-<lb/>perienza mi è più <lb/>duro da digerire, <lb/>che della paſſata.</s>
+  <s xml:id="echoid-s289" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s290" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s291" xml:space="preserve">Quando <lb/>anco foſſe ſtata fat-<lb/>ta, e foſſe più che <lb/>vera, non per queſto hauerei occaſione di partirmi <lb/>dalla mia opinione primiera: </s>
+  <s xml:id="echoid-s292" xml:space="preserve">nè credo che ſimili <lb/>eſperienze habbino che fare con il moto delli graui <lb/>nell´I poteſi ſemico pernicana.</s>
+  <s xml:id="echoid-s293" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s294" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s295" xml:space="preserve">Che bella coſa, che ſarebbe in queſta eſpe-<lb/>rienza del Sig. </s>
+  <s xml:id="echoid-s296" xml:space="preserve">Borelli veder la pallottolina A, arri-<lb/>uata in H, dar 50. </s>
+  <s xml:id="echoid-s297" xml:space="preserve">girate, e più quanto ſi vuole nel <lb/>mentre che il vaſo compiſſe vna girata ſola; </s>
+  <s xml:id="echoid-s298" xml:space="preserve">e ciò <lb/>ſarebbe quando il circolo A B, conteneſſe l´HI, 50. <lb/></s>
+  <s xml:id="echoid-s299" xml:space="preserve">e più volte; </s>
+  <s xml:id="echoid-s300" xml:space="preserve">il che può eſſere in inſinito quanto più <lb/>s´accoſta al C.</s>
+  <s xml:id="echoid-s301" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s302" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s303" xml:space="preserve">Grande infortunio ſarebbe il noſtro, ſe ſi <lb/>moueſſe la Terra, che la diſceſa del graue venga im-
+<pb o="15" file="0027" n="27"/>
+pedita dalla corpulenza della Terra, perche ſe que-<lb/>ſta giraſſe, e foſſe forata ſino al centro, e noi foſsimo <lb/>iui, ſe è vero, che come dice il Sign. </s>
+  <s xml:id="echoid-s304" xml:space="preserve">Borelli, ſino al <lb/>centro il graue tratteneſſe la medeſima velocità, che <lb/>haueua nella ſommità della Torre, perche li concen-<lb/>trici all´arco, che deſcriue il graue nella predetta <lb/>ſommità vicini al centro ſono infinitamente minori <lb/>di quella portione di eſſo deſcritta nel tempo della <lb/>diſceſſa, il graue prima di arriuar al centro girarebbe <lb/>inſinite volte intorno ad eſſo. </s>
+  <s xml:id="echoid-s305" xml:space="preserve">Anzi che forſe non <lb/>gl´arriuarebbe che in lunghiſsimo tempo, e forſe <lb/>mai, mentre, come dice il Sign. </s>
+  <s xml:id="echoid-s306" xml:space="preserve">Borelli alla facciata <lb/>20. </s>
+  <s xml:id="echoid-s307" xml:space="preserve">il moto all´ingiù ſi anderebbe ſempre più debili-<lb/>tando, cioè li ſpatij paſſati non caminarebbero con <lb/>la proportione delli quadrati delli tempi.</s>
+  <s xml:id="echoid-s308" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s309" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s310" xml:space="preserve">Non intendo ciò troppo bene.</s>
+  <s xml:id="echoid-s311" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s312" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s313" xml:space="preserve">Nel Schema del Sign. </s>
+  <s xml:id="echoid-s314" xml:space="preserve">Borelli ſpiegato da <lb/>noi à carte 4. </s>
+  <s xml:id="echoid-s315" xml:space="preserve">il graue A, ſtando fermo nella ſommità <lb/>della Torre farebbe l´arco ſimile all´AM, in 4. </s>
+  <s xml:id="echoid-s316" xml:space="preserve">ſecon-<lb/>di horarij mouendoſi la Terra, ma cadendo non per-<lb/>coterebbe la ſuperſicie della Terra in H, ma più oltre <lb/>in guiſa che queſti ſia eguale al ſimile all´ AM. </s>
+  <s xml:id="echoid-s317" xml:space="preserve">E ma-<lb/>nifeſto, che ſeguitandoſi il moto verſo il centro <lb/>C, ſi arriuerà à circoli tali, che ſaranno moltiſsi-<lb/>me volte minori dell´arco nell´ A B, che deſcriue-<lb/>rebbe il graue nel medeſimo tempo. </s>
+  <s xml:id="echoid-s318" xml:space="preserve">Onde moltiſ-<lb/>ſime volte girarebbe per eſſo. </s>
+  <s xml:id="echoid-s319" xml:space="preserve">Sì che ſe quello, che <lb/>cadeſſe foſſe qualche animal viuo, le aſsicuro, che
+<pb o="16" file="0028" n="28"/>
+hauerebbe vn gran capogiro, e ſtordimento.</s>
+  <s xml:id="echoid-s320" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s321" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s322" xml:space="preserve">Fetonte forſe hauerà eſperimentato quan-<lb/>to dice il Sig. </s>
+  <s xml:id="echoid-s323" xml:space="preserve">Borelli, perche fulminato da Gioue <lb/>douete principiar à piombare molto lontano dal Pò <lb/>ſopra il qual cadete.</s>
+  <s xml:id="echoid-s324" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s325" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s326" xml:space="preserve">Gran maeſtria biſogneria, che foſſe ſtata <lb/>quella dell´A quila, che credendo il capo caluo del <lb/>miſero Eſchilo vna picha gli laſciò cader ſopra la. <lb/></s>
+  <s xml:id="echoid-s327" xml:space="preserve">Teſtudine per romperla; </s>
+  <s xml:id="echoid-s328" xml:space="preserve">gran maeſtria dico, men-<lb/>tre doueria tanto eſſerſi allontanata dal perpendico-<lb/>lo ſopra eſſo quanto era neceſſario acciò cadeſſe ſo-<lb/>pra il capo preciſamente.</s>
+  <s xml:id="echoid-s329" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s330" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s331" xml:space="preserve">Queſte ſono fauole, che non hanno che fa-<lb/>re con le ſodezze della queſtione, la qual trattiamo. <lb/></s>
+  <s xml:id="echoid-s332" xml:space="preserve">Però Sig. </s>
+  <s xml:id="echoid-s333" xml:space="preserve">Conte vediamo le ragioni con le quali il <lb/>Sig. </s>
+  <s xml:id="echoid-s334" xml:space="preserve">Borelli conferma la ſua opinione.</s>
+  <s xml:id="echoid-s335" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s336" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s337" xml:space="preserve">La ſomma della ragione regiſtrata da eſſo <lb/>alla facciata 5. </s>
+  <s xml:id="echoid-s338" xml:space="preserve">in ſoſtanza conſiſte, che _idem manens_, <lb/>_idem ſemper facit idem._ </s>
+  <s xml:id="echoid-s339" xml:space="preserve">Hora l´empito acquiſtato dal <lb/>graue nella ſommità della torre reſta ſempre il me-<lb/>deſimo, non venendo ne impedito, ne contraſtato. <lb/></s>
+  <s xml:id="echoid-s340" xml:space="preserve">E così nel caſo noſtro dice, che il graue A, acquiſta-<lb/>ta vna tal velocità, e mouendoſi all´ingiù, quella ve-<lb/>locità non viene impedita, ne contraſtata, &amp;</s>
+  <s xml:id="echoid-s341" xml:space="preserve">c. </s>
+  <s xml:id="echoid-s342" xml:space="preserve">Se <lb/>A E, foſſe vna canna capace della palla cadente, al-<lb/>lora ſarebbe vera la noſtra dottrina, eſſendo la palla <lb/>trattenuta pregioniera nella canna, come anco ſi de-<lb/>ſcriuarebbe la noſtra Spirale, ſe ad vſo geometrico
+<pb o="17" file="0029" n="29"/>
+ſi faceſſe tal ſuppoſitione, ma trattandoſi del graue <lb/>libero, e _ſui iuris_ moſſo per l´aria libera, e moſſa <lb/>con la medeſima velocità, trattenerà ſempre il me-<lb/>deſimo grado di velocità.</s>
+  <s xml:id="echoid-s343" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s344" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s345" xml:space="preserve">Da queſte ſue dottrine ſe ne caua la riſpo-<lb/>ſta. </s>
+  <s xml:id="echoid-s346" xml:space="preserve">Perche il graue e incontra in oſtacoli, &amp; </s>
+  <s xml:id="echoid-s347" xml:space="preserve">è qua-<lb/>ſi trattenuto. </s>
+  <s xml:id="echoid-s348" xml:space="preserve">Incontra in oſtacoli, perche arriuato <lb/>v.</s>
+  <s xml:id="echoid-s349" xml:space="preserve">g. </s>
+  <s xml:id="echoid-s350" xml:space="preserve">in G, incontra il mezo G, che non ſi muoue con <lb/>la medeſima velocità A, onde deue impedire il ſuo <lb/>moto. </s>
+  <s xml:id="echoid-s351" xml:space="preserve">Viene quaſi trattenuto per quanto horhora <lb/>dirò.</s>
+  <s xml:id="echoid-s352" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s353" xml:space="preserve">Che la mole Terraquea ſia sferica fiſicamente è <lb/>manifeſto; </s>
+  <s xml:id="echoid-s354" xml:space="preserve">e ſi aſſegna communemente per più va-<lb/>lida cagione, che tutti li corpi, che la compongono <lb/>deſiderano vna intima vnione fra ſe, la quale conſe-<lb/>guiſcono nel miglior modo che poſſono componen-<lb/>do vn corpo di ſigura, per così dire, più vna di tutte <lb/>le altre, quale è la sferica. </s>
+  <s xml:id="echoid-s355" xml:space="preserve">Da ciò ne ſegue, che tutti <lb/>anelino, &amp; </s>
+  <s xml:id="echoid-s356" xml:space="preserve">aſpirino al centro delle coſe graui, con <lb/>il quale hanno vn tal riſpetto. </s>
+  <s xml:id="echoid-s357" xml:space="preserve">Quindi pure ne ſegue <lb/>che collocate in vn ſito di queſto gran corpo sferico <lb/>non ſi laſcino cacciar da quello, che con violenza, <lb/>ma ſe ſe gl´apre l´addito di poterſegli più accoſtare, <lb/>ſubito precipitino verſo quello. </s>
+  <s xml:id="echoid-s358" xml:space="preserve">Da queſto pari-<lb/>mente ne ſegue, che per ipoteſi girata la Terra circa <lb/>il proprio centro, le parti ad eſſa contigue, &amp; </s>
+  <s xml:id="echoid-s359" xml:space="preserve">ane-<lb/>lanti all´vnione con il centro con quella virtù, che <lb/>noi chiamiamo grauità, girino parimente con eſſa,
+<pb o="18" file="0030" n="30"/>
+rimirando coſtantemente da quella parte, che ſono il <lb/>centro per la via più breue, che è quella linea, che <lb/>congiunge il graue, &amp; </s>
+  <s xml:id="echoid-s360" xml:space="preserve">il centro. </s>
+  <s xml:id="echoid-s361" xml:space="preserve">Hora nel Schema <lb/>del Sig. </s>
+  <s xml:id="echoid-s362" xml:space="preserve">Borelli poſto il graue A, nella ſommità della <lb/>Torre A E, e girata queſta con la Terra, il graue A, <lb/>deſcriue l´arco A F M, e ſempre rimira il centro per <lb/>la medeſima linea fiſica A C, perche queſta corre <lb/>dietro al graue. </s>
+  <s xml:id="echoid-s363" xml:space="preserve">Staccato il graue dalla Torre hà in <lb/>realtà impreſſa vna velocità, che lo porta in giro, mà <lb/>vna velocità reſpettiua verſo il centro, qual deue <lb/>ſempre mantenere, e conſeruare rimirandolo nel me-<lb/>deſimo modo, e per la medeſima perpendicolare, <lb/>che gli corre pur dietro, ſe non gli ſopragiunga altra <lb/>cagione, che lo ſoſpinga, ò impediſca.</s>
+  <s xml:id="echoid-s364" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s365" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s366" xml:space="preserve">Sà il Sign. </s>
+  <s xml:id="echoid-s367" xml:space="preserve">Borelli, che il Keplero, &amp; </s>
+  <s xml:id="echoid-s368" xml:space="preserve">altri <lb/>eſplicano queſto moto, come anco quello proue-<lb/>niente dalla grauità per vna virtù calamitica. </s>
+  <s xml:id="echoid-s369" xml:space="preserve">Io non <lb/>voglio fondarmi ſopra queſta dottrina, ma per vna <lb/>ſimilitudine poniamo che il punto C, ſia centro di <lb/>vna sfera di Calamita eſquiſita, nella circonferenza <lb/>della quale ſia il Polo E, e dentro la sfera della ſua <lb/>attiuità ſia collocata la sferetta di ferro A, ma impe-<lb/>dita con qualche oſtacolo, che non poſſa correre ad <lb/>vnirſi con il Polo E; </s>
+  <s xml:id="echoid-s370" xml:space="preserve">e queſti corpi ſiano collocati <lb/>ſopra qualche piano Orizontale, che poſſa girarſi <lb/>intorno al centro C; </s>
+  <s xml:id="echoid-s371" xml:space="preserve">ſi facino girare; </s>
+  <s xml:id="echoid-s372" xml:space="preserve">il polo E, <lb/>deſcriuerà l´Arco E H, &amp; </s>
+  <s xml:id="echoid-s373" xml:space="preserve">il ferro A, l´arco A M, mag-<lb/>giore, &amp; </s>
+  <s xml:id="echoid-s374" xml:space="preserve">in conſequenza con maggior velocità; </s>
+  <s xml:id="echoid-s375" xml:space="preserve">ſia
+<pb o="19" file="0031" n="31"/>
+leuato l´oſtacolo, sì che il ferro corra ad vnirſi con <lb/>la Calamita, e nel tempo che ſi conſuma nel farſi <lb/>queſta vnione il Polo E, ſia arriuato in H. </s>
+  <s xml:id="echoid-s376" xml:space="preserve">Crede il <lb/>Signor Borelli, che il Ferro ſi vnirà con il Polo H, ò <lb/>pure con il punto O, per cagione della maggior ve-<lb/>locità circolare? </s>
+  <s xml:id="echoid-s377" xml:space="preserve">Io per me credo con il Polo E, in <lb/>H, perche queſto rimira, &amp; </s>
+  <s xml:id="echoid-s378" xml:space="preserve">all´vnione con queſto <lb/>aſpira.</s>
+  <s xml:id="echoid-s379" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s380" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s381" xml:space="preserve">Si aſtenga Signor <lb/>
+<anchor type="figure" xlink:label="fig-0031-01a" xlink:href="fig-0031-01"/>
+Conte dalle parole _Io giu-_ <lb/>_dico, io credo, io ſtimo_, per-<lb/>che queſte non piaciono <lb/>al Sig. </s>
+  <s xml:id="echoid-s382" xml:space="preserve">Borelli, il quale di-<lb/>ce à carte 9. </s>
+  <s xml:id="echoid-s383" xml:space="preserve">che in vece <lb/>di queſte il Sig. </s>
+  <s xml:id="echoid-s384" xml:space="preserve">Profeſſo-<lb/>re doueua produre qual-<lb/>che ragione, delle quali <lb/>non ne adduce vna.</s>
+  <s xml:id="echoid-s385" xml:space="preserve"/>
+</p>
+<div xml:id="echoid-div11" type="float" level="2" n="5">
+  <figure xlink:label="fig-0031-01" xlink:href="fig-0031-01a">
+    <image file="0031-01" xlink:href="http://echo.mpiwg-berlin.mpg.de/zogilib?fn=/permanent/library/54K7BX2W/figures/0031-01"/>
+  </figure>
+</div>
+<p>
+  <s xml:id="echoid-s386" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s387" xml:space="preserve">Le parole _io giu-_ <lb/>_dico, io credo, io ſtimo_, ſono <lb/>parole di modeſtia nelle <lb/>concluſioni ſiſiche, trà le quali, e le pure matt emati-<lb/>che vi è grandiſſima differenza. </s>
+  <s xml:id="echoid-s388" xml:space="preserve">Queſte ſono certiſ-<lb/>ſime come dedotte da principij infallibili, quelle <lb/>piene di dubietà, come prouenienti da principij in-<lb/>certi. </s>
+  <s xml:id="echoid-s389" xml:space="preserve">E ſi come delle concluſioni mattematiche pu-<lb/>re ſi può dire à piena bocca, _io dico, io affermo, &amp; </s>
+  <s xml:id="echoid-s390" xml:space="preserve">c._ <lb/></s>
+  <s xml:id="echoid-s391" xml:space="preserve">così nelle ſiſiche parmi gran pettulanza il proceder
+<pb o="20" file="0032" n="32"/>
+in altro modo, che conlo _io giudico, io credo, io ſtimo._</s>
+  <s xml:id="echoid-s392" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s393" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s394" xml:space="preserve">A torto dice il Sig. </s>
+  <s xml:id="echoid-s395" xml:space="preserve">Borelli, che da noi non <lb/>ſia ſtata addotta ragione alcuna, perche sà bene ſe <lb/>habbiamo addotto quella almeno, che gl´hà dato <lb/>ranto faſtidio, come confeſſa alle facciate 12. </s>
+  <s xml:id="echoid-s396" xml:space="preserve">13. </s>
+  <s xml:id="echoid-s397" xml:space="preserve">&amp;</s>
+  <s xml:id="echoid-s398" xml:space="preserve">c. <lb/></s>
+  <s xml:id="echoid-s399" xml:space="preserve">cioè che la caduta del graue ſarebbe più Orientale <lb/>della perpendicolare, il qual aſſurdo non ſi può fug-<lb/>gire.</s>
+  <s xml:id="echoid-s400" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s401" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s402" xml:space="preserve">Nella facciata 10. </s>
+  <s xml:id="echoid-s403" xml:space="preserve">&amp; </s>
+  <s xml:id="echoid-s404" xml:space="preserve">anco in altri luoghi ſi <lb/>lamenta in vn certo modo della rigidezza con la <lb/>quale ſi procede nel conſiderare le coſe ſue, mentre <lb/>vi è gran differenza dalle coſe puramente geometri-<lb/>che alle fiſico-mattematiche; </s>
+  <s xml:id="echoid-s405" xml:space="preserve">in quelle non è lecito <lb/>variare pure vn iota dalle prime ſuppoſitioni, in <lb/>queſte non vi è neceſſario queſto rigore; </s>
+  <s xml:id="echoid-s406" xml:space="preserve">in queſte <lb/>ſi può variare qualche coſa, e baſta, che ſi verifichi-<lb/>no le coſe proſſimamente, altrimente il rechiedere <lb/>queſta puntualità nelle coſe fiſico-mattematiche il <lb/>_ſummum ius, eſt ſumma iniuria._</s>
+  <s xml:id="echoid-s407" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s408" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s409" xml:space="preserve">Realmente ſi vede, che la paſſione ne ac-<lb/>cieca nelli proprij intereſſi, sì che non deſcerniamo, <lb/>quello che ſia per noi, ò contro noi. </s>
+  <s xml:id="echoid-s410" xml:space="preserve">In queſto ſuo <lb/>lamento ſomminiſtra il Sig. </s>
+  <s xml:id="echoid-s411" xml:space="preserve">Borelli al Sig. </s>
+  <s xml:id="echoid-s412" xml:space="preserve">di Fermat, <lb/>&amp; </s>
+  <s xml:id="echoid-s413" xml:space="preserve">à me vn capo di difeſa il maggiore, che poteſſimo <lb/>penſare, quando però ne haueſſimo biſogno, il che <lb/>nonè. </s>
+  <s xml:id="echoid-s414" xml:space="preserve">Faciamo noi la noſtra ſuppoſitione geome-<lb/>trica, che vn punto ſi muoua dalla circonferenza <lb/>verſo il centro con due moti vno circolare equabile,
+<pb o="21" file="0033" n="33"/>
+ſopra il ſemidiametro, l´altro all´ingiù accelerato, e <lb/>come confeſſa il Sig. </s>
+  <s xml:id="echoid-s415" xml:space="preserve">Borelli ne deduciamo con ve-<lb/>rità geometricamente, che queſti ſemita ſarebbe <lb/>vna linea ſpirale. </s>
+  <s xml:id="echoid-s416" xml:space="preserve">Applichiamo queſta conſidera-<lb/>tione aſtratta al moto ſiſico del graue cadente nell´i-<lb/>poteſi ſemicopernicana, e ne deduciamo, che pur <lb/>quella linea ſarebbe ſpirale. </s>
+  <s xml:id="echoid-s417" xml:space="preserve">Ne ſgrida il Sig. </s>
+  <s xml:id="echoid-s418" xml:space="preserve">Borelli <lb/>nel ſuo ſottiliſſimo libro _De Vipercuſſionis_ alla faccia-<lb/>ta 109. </s>
+  <s xml:id="echoid-s419" xml:space="preserve">_Sed prædicti auctores non animaduertunt ſe in_ <lb/>_bypotheſi aſſumpta non perſistere._ </s>
+  <s xml:id="echoid-s420" xml:space="preserve">Perche? </s>
+  <s xml:id="echoid-s421" xml:space="preserve">_Supponunt_ <lb/>_enim eodem impetu traſuerſali mobile A, moueri,_ il che <lb/>non è vero. </s>
+  <s xml:id="echoid-s422" xml:space="preserve">Mà quando anco noi faceſſimo queſta <lb/>ſuppoſitione, &amp; </s>
+  <s xml:id="echoid-s423" xml:space="preserve">in fatti queſta linea fiſica deuiaſſe <lb/>dalla noſtraſpirale geometrica, quanta ſarebbe que-<lb/>ſta deuiatione? </s>
+  <s xml:id="echoid-s424" xml:space="preserve">Pochiſſima; </s>
+  <s xml:id="echoid-s425" xml:space="preserve">ſecondo li calcoli del <lb/>Sig. </s>
+  <s xml:id="echoid-s426" xml:space="preserve">Borelli non più di {8/10} di vn oncia di piede. </s>
+  <s xml:id="echoid-s427" xml:space="preserve">Ie-<lb/>ſus Sig. </s>
+  <s xml:id="echoid-s428" xml:space="preserve">Borelli, che rigore è il voſtro in vna queſtio-<lb/>ne ſiſico-mattematica? </s>
+  <s xml:id="echoid-s429" xml:space="preserve">Non vedete che il voſtro _ſum-_ <lb/>_mum ius est ſumma iniuria?_ </s>
+  <s xml:id="echoid-s430" xml:space="preserve">In pura geometria la pro-<lb/>poſitione è vera, mà fiſicamente queſta linea deuia <lb/>qualche tantino dalla ſpirale; </s>
+  <s xml:id="echoid-s431" xml:space="preserve">ſe hà adunque ſubito <lb/>da notare de inauertente così occulato geometra, e <lb/>tanto benemerito delle ſcienze, quale è ſtato il Sign. <lb/></s>
+  <s xml:id="echoid-s432" xml:space="preserve">di Fermat? </s>
+  <s xml:id="echoid-s433" xml:space="preserve">Ma ſe adoperate voi queſti rigori con li <lb/>altri richiedendo vna così ſottiliſſima preciſione nel-<lb/>le queſtioni fiſico-mattematiche, perche non vi con-<lb/>tentate, che li altri richiedino anco in voi la mede-<lb/>ſima? </s>
+  <s xml:id="echoid-s434" xml:space="preserve">Lamentateui di voi, e non di noi; </s>
+  <s xml:id="echoid-s435" xml:space="preserve">poiche voi
+<pb o="22" file="0034" n="34"/>
+ne hauete dato eſſempio, e ſete ſtato il primo à muo-<lb/>uerci la lite, &amp; </s>
+  <s xml:id="echoid-s436" xml:space="preserve">è ben giuſto, che ci difendiamo, &amp; </s>
+  <s xml:id="echoid-s437" xml:space="preserve"><lb/>adoperiamo contro voi l´arme medeſime, che voi <lb/>vſate contro di noi.</s>
+  <s xml:id="echoid-s438" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s439" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s440" xml:space="preserve">Dal ſine della facciata 10. </s>
+  <s xml:id="echoid-s441" xml:space="preserve">ſino quaſi per <lb/>tutta la facciata 12. </s>
+  <s xml:id="echoid-s442" xml:space="preserve">ogni coſa è piena di ſtupori, e <lb/>merauiglie.</s>
+  <s xml:id="echoid-s443" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s444" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s445" xml:space="preserve">Hò notato anch´io così alla sfuggita nel <lb/>leggere, queſti ſtupori; </s>
+  <s xml:id="echoid-s446" xml:space="preserve">e acciò che il Sig. </s>
+  <s xml:id="echoid-s447" xml:space="preserve">Borelli ſe <lb/>deſinganni, e conoſca quanto falſamente habbia ſo-<lb/>ſpettato della ſincerità della ſeruitù, che gli profeſſo, <lb/>e della ſtima, che facio delle ſue gran virtù, e della <lb/>profondità del ſuo ſapere, è neceſſario, che alla con-<lb/>ſideratione de quanto dice, io facia precedere vn <lb/>racconto veridico.</s>
+  <s xml:id="echoid-s448" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s449" xml:space="preserve">Già anni 5. </s>
+  <s xml:id="echoid-s450" xml:space="preserve">hebbi fortuna d´incontrare nella miſu-<lb/>ra delle mie infinite ſpirali inuerſe, che hò publicata <lb/>ſolo li meſi paſſati nel mio libretto, conla quale oc-<lb/>caſione conobbi, che la ſemità del graue cadente <lb/>ſarebbe fuori della circonferenza del circolo, e non <lb/>dentro, come contro il famoſo Galileo diceua l´al-<lb/>tretanto famoſo Riccioli nel ſuo Almageſto. </s>
+  <s xml:id="echoid-s451" xml:space="preserve">Ne <lb/>auiſai queſto con mia lettera, e ne riceuei riſpoſta <lb/>tale, che mi obligò à ſcriuergli con maggior riſolu-<lb/>tione; </s>
+  <s xml:id="echoid-s452" xml:space="preserve">e tanto s´inoltrò il negotio, che io m´impe-<lb/>gnai ſeco, che hauerei ſtampato li miei ſenſi. </s>
+  <s xml:id="echoid-s453" xml:space="preserve">Diſte-<lb/>ſi la meſura delle infinite ſpirali, &amp; </s>
+  <s xml:id="echoid-s454" xml:space="preserve">in vn ſcholio toc-<lb/>cauo queſta controuerſia con il P. </s>
+  <s xml:id="echoid-s455" xml:space="preserve">Riccioli, ma per
+<pb o="23" file="0035" n="35"/>
+varij impedimenti differij la ſtampa del mio libret-<lb/>to. </s>
+  <s xml:id="echoid-s456" xml:space="preserve">L´anno paſſato mentre mi ritrouauo in Padoua <lb/>per la feſta del Santo capitò vn certo da Bologna, il <lb/>quale mi portò à donare da parte del dottiſſimo Sig. <lb/></s>
+  <s xml:id="echoid-s457" xml:space="preserve">Montanari vn´eſemplare delli ſuoi Eſperimenti Fiſi-<lb/>co-mattematici, e perche queſto mi fù diretto per <lb/>opera di vn ſuo ſcolare, mi mandò di più queſto di <lb/>propria corteſia vn trattatelo manuſcritto del mede-<lb/>ſimo Montanari, nel quale ſi conteneua quella dot-<lb/>trina delli angoli de diuerſa inclinatione da me regi-<lb/>ſtrata nel mio Dialogo ſecondo alla facciata 119. </s>
+  <s xml:id="echoid-s458" xml:space="preserve">ac-<lb/>ciò ne diceſſi il mio parere. </s>
+  <s xml:id="echoid-s459" xml:space="preserve">Queſta ſcritturetta mi <lb/>riduſſe à memoria l´impegno nel quale mi trouauo <lb/>con il P. </s>
+  <s xml:id="echoid-s460" xml:space="preserve">Riccioli; </s>
+  <s xml:id="echoid-s461" xml:space="preserve">sì che venuto à Venetia princi-<lb/>piai à ſcriuere li miei primi Dialoghi, li quali mentre <lb/>ſcriueuo mi fù da parte del Sign. </s>
+  <s xml:id="echoid-s462" xml:space="preserve">Borelli fatto il pre-<lb/>tioſo regalo del ſuo eruditiſſimo libro _De Vi Percuſſio-_ <lb/>_nis_, il quale non potendo per le predette occupatio-<lb/>ni ſtudiare, come era mio deſiderio, &amp; </s>
+  <s xml:id="echoid-s463" xml:space="preserve">hauendo già <lb/>ſcritto à Bologna al Sig. </s>
+  <s xml:id="echoid-s464" xml:space="preserve">Montanari, con il quale non <lb/>haueuo hauuto prima amicitia, con occaſione di rin-<lb/>gratiarlo del dono fattomi, qualche coſa circa la dot-<lb/>trina delle mie Spirali, queſti impedito dal male <lb/>d´occhi mi fece ſcriuere dal predetto ſcolaro, che il <lb/>dottiſſimo Sig. </s>
+  <s xml:id="echoid-s465" xml:space="preserve">Caſſini gli haueua detto ſcriuer qual-<lb/>che coſa di queſta Spirale il Sig. </s>
+  <s xml:id="echoid-s466" xml:space="preserve">Borelli nel predetto <lb/>libro; </s>
+  <s xml:id="echoid-s467" xml:space="preserve">il che poi fù da me conſiderato nel mio primo <lb/>Dialogo della facciata 29. </s>
+  <s xml:id="echoid-s468" xml:space="preserve">e poi vn giorno acciden-
+<pb o="24" file="0036" n="36"/>
+talmente vidi quel tanto, che mi diede materia di <lb/>ſcriuere quanto hò ſcritto nel 2. </s>
+  <s xml:id="echoid-s469" xml:space="preserve">dalla facciata 113. <lb/></s>
+  <s xml:id="echoid-s470" xml:space="preserve">Queſta è la pura verità, che douerà ſeruire à deſim-<lb/>preſſionare il Sig. </s>
+  <s xml:id="echoid-s471" xml:space="preserve">Borelli, &amp; </s>
+  <s xml:id="echoid-s472" xml:space="preserve">à ſodisfare alle ſue me-<lb/>rauiglie, le quali Sig. </s>
+  <s xml:id="echoid-s473" xml:space="preserve">Conte può prencipiar à rappre-<lb/>ſentare.</s>
+  <s xml:id="echoid-s474" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s475" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s476" xml:space="preserve">Nella facciata 10. </s>
+  <s xml:id="echoid-s477" xml:space="preserve">dice. </s>
+  <s xml:id="echoid-s478" xml:space="preserve">_Non poſſo poi diſſi-_ <lb/>_mulare la marauiglia, che mi hà recato il ſentir che la me-_ <lb/>_dicina contro quelli angoli ineguali ſotteſi dal moto traſuer-_ <lb/>_ſale della palla cadente dalla cima della Torre aſſeriti da me_ <lb/>_alla facciata_ 109. </s>
+  <s xml:id="echoid-s479" xml:space="preserve">_ſia la varia inclinatione con la quale la_ <lb/>_palla percuote il pauimento, non ſapendo io capire, che hab-_ <lb/>_bia che fare vno con l´altro, &amp;</s>
+  <s xml:id="echoid-s480" xml:space="preserve">c_.</s>
+  <s xml:id="echoid-s481" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s482" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s483" xml:space="preserve">Per digerire il miſtero de gl´angoli, che ag-<lb/>grauaua lo ſtomaco del Sig. </s>
+  <s xml:id="echoid-s484" xml:space="preserve">Ofreddi non gli fù ſom-<lb/>miniſtrata medicina, mà bene il calore non da me, <lb/>ma dal Sig. </s>
+  <s xml:id="echoid-s485" xml:space="preserve">Geminiano Montanari nel Dial. </s>
+  <s xml:id="echoid-s486" xml:space="preserve">2. </s>
+  <s xml:id="echoid-s487" xml:space="preserve">della <lb/>facciata 119. </s>
+  <s xml:id="echoid-s488" xml:space="preserve">Quella dottrina adunque de gl´angoli <lb/>non è mia, ma del Sign. </s>
+  <s xml:id="echoid-s489" xml:space="preserve">Montanari, come eſpreſſa-<lb/>mente dichiaro nel citato luogo, ſaputa nel modo <lb/>che hò detto diſopra, e non dal Sig. </s>
+  <s xml:id="echoid-s490" xml:space="preserve">Borelli, dal qua-<lb/>le certamente non hò preſo motiuo alcuno. </s>
+  <s xml:id="echoid-s491" xml:space="preserve">Non mi <lb/>pare però, che queſta gl´habbia à dare tanta materia <lb/>da merauigliarſi.</s>
+  <s xml:id="echoid-s492" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s493" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s494" xml:space="preserve">Mà egli non ſolo caua materia di meraui-<lb/>gliarſi, ma anco di vedere chiaramente in quanto <lb/>infelice concetto lei lo tenga, che voglia che habbia <lb/>ad imparare, quello, che èſcritto in migliaia di libri,
+<pb o="25" file="0037" n="37"/>
+e che lo sà ſino la feccia de gli huomini, cioè che il <lb/>tiro perpendicolare ſia il più valido ditutti gl´altri, e <lb/>di queſti ſempre li meno obliqui, &amp;</s>
+  <s xml:id="echoid-s495" xml:space="preserve">c.</s>
+  <s xml:id="echoid-s496" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s497" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s498" xml:space="preserve">Io confeſſo liberamente alle Signorie loro, <lb/>che quando hò traſcorſa queſta lettera del Sign. </s>
+  <s xml:id="echoid-s499" xml:space="preserve">Bo-<lb/>relli, non viè ſtata coſa alcuna, che mi habbia dato <lb/>maggior faſtidio, e meſſomi in ſtato di replicare per <lb/>mia ſcolpa che queſta, conſiderando quanto à torto, <lb/>e quanto facilmente queſto virtuoſo s´inſuſpetiſca <lb/>del procedere delli ſuoi antichi ſeruitori, vno delli <lb/>quali profeſſo io di eſſere voglia, ò non voglia. </s>
+  <s xml:id="echoid-s500" xml:space="preserve">Io <lb/>per me giuro à Dio, che in tutto quel diſcorſo, che <lb/>principia dalla pagina 119. </s>
+  <s xml:id="echoid-s501" xml:space="preserve">linea 19. </s>
+  <s xml:id="echoid-s502" xml:space="preserve">non vi è pure <lb/>vna parola diretta contro lui, nè io sò vedere da che <lb/>lo poſſa cauare. </s>
+  <s xml:id="echoid-s503" xml:space="preserve">Facia gratia di rileggere quel luo-<lb/>go, e vederà, che ſi lamenta à torto.</s>
+  <s xml:id="echoid-s504" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s505" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s506" xml:space="preserve">Mà anco quando ſi foſſe parlato ſeco, non <lb/>mi pare, che haueſſe tanta cagione diſdegnarſi, qua-<lb/>ſi che ſi ſtimi vno della faccia del volgo, mentre non <lb/>ſi pretende, che vno habbia ad imparare, che la per-<lb/>coſſa perpendicolare ſia la più valida, e delle altre <lb/>quella, che è meno obliqua, ma che queſta dottrina <lb/>triuiale habbia che fare nella percoſſa del graue ca-<lb/>dente anco quando queſto ſi moueſſe di moto equa-<lb/>bile per la via curua, la qual incontreria nelli archi <lb/>concentreci al centro della Terra tanto meno obli-<lb/>quamente quanto più il graue ſi accoſtaſſe al cen-<lb/>tro; </s>
+  <s xml:id="echoid-s507" xml:space="preserve">la quale dottrina non è tanto triuiale, e nota _lip-_
+<pb o="26" file="0038" n="38"/>
+_pis, &amp; </s>
+  <s xml:id="echoid-s508" xml:space="preserve">tonſoribus_, e per eſſer bene capita tiene biſo-<lb/>gno di qualche eſplicatione geometrica, e proua tri-<lb/>gonometrica, come ſe ſiamo ingegnati di fare nel <lb/>noſtro Dial. </s>
+  <s xml:id="echoid-s509" xml:space="preserve">2.</s>
+  <s xml:id="echoid-s510" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s511" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s512" xml:space="preserve">Haurebbe ſperato il Sig. </s>
+  <s xml:id="echoid-s513" xml:space="preserve">Borelli dalla beni-<lb/>gnità di V. </s>
+  <s xml:id="echoid-s514" xml:space="preserve">S. </s>
+  <s xml:id="echoid-s515" xml:space="preserve">che ſi foſſe compiaciuta di vedere <lb/>quello che hà aggionto à queſta da eſſo nomata vol-<lb/>gariſſima dottrina, cioè la vera meſura del momento <lb/>delle percoſſe in diuerſe inclinationi, le quali non <lb/>ſono miſurate da gl´angoli dell´incidenza, come tal´ <lb/>vno moſtra di credere, ma dà loro ſeni retti.</s>
+  <s xml:id="echoid-s516" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s517" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s518" xml:space="preserve">Mi diſpiace grandemente, che quando hò <lb/>ſcritto quelli Dialoghi non hò letto le recondite <lb/>dottrine del Sig. </s>
+  <s xml:id="echoid-s519" xml:space="preserve">Borelli; </s>
+  <s xml:id="echoid-s520" xml:space="preserve">le quali però anco quando <lb/>haueſſi lette, ò non ſarebbero da me ſtate addotte, ò <lb/>al più alla sfuggita, come hò anco fatto di quelle del <lb/>Sign. </s>
+  <s xml:id="echoid-s521" xml:space="preserve">Montanari, mentre ò vere, ò falſe non credo <lb/>che habbino punto che fare con la queſtione che <lb/>trattiamo; </s>
+  <s xml:id="echoid-s522" xml:space="preserve">nè il graue nell´ipoteſi ſemicopernicana <lb/>percuoterebbe ſecondo me ſopra il pauimento ad <lb/>angoli obliqui, ma ſempre perpendicolarmente; <lb/></s>
+  <s xml:id="echoid-s523" xml:space="preserve">mentre la percoſſa prouiene dalla ſola direttione all´-<lb/>ingiù, &amp; </s>
+  <s xml:id="echoid-s524" xml:space="preserve">il pauimento corre dietro al graue, il quale <lb/>ſempre ſi ritroua nella perpendicolare ad eſſo, come <lb/>hò ſpiegato inſinite volte nelli miei Dialoghi.</s>
+  <s xml:id="echoid-s525" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s526" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s527" xml:space="preserve">Nella medeſima facciata 11. </s>
+  <s xml:id="echoid-s528" xml:space="preserve">ramemora <lb/>anco altra ſua dottrina regiſtrata nel cit. </s>
+  <s xml:id="echoid-s529" xml:space="preserve">luogo _De Vi_ <lb/>_Percuſſionis_, addotta per ſodisfare alla demoſtratione
+<pb o="27" file="0039" n="39"/>
+ſiſico-mattematica, che è ſtata cagione ditante con-<lb/>trouerſie, e quiui inſeriſce vna parenteſi nella quale <lb/>ſi lamenta di lei con queſte parole. </s>
+  <s xml:id="echoid-s530" xml:space="preserve">_Della quale non sò_ <lb/>_perche ſua Riuerenza ſi ſia preſa autorità d´indouinare chi_ <lb/>_ſia l´Autore, quando io per degni riſpetti l´hò voluto ta-_ <lb/>_cere_.</s>
+  <s xml:id="echoid-s531" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s532" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s533" xml:space="preserve">Chi ſia l´autore, che impugna il Sig. </s>
+  <s xml:id="echoid-s534" xml:space="preserve">Borelli <lb/>in quel luogo io non lo sò; </s>
+  <s xml:id="echoid-s535" xml:space="preserve">sò bene che la dottrina <lb/>è la medeſima, che quella del P. </s>
+  <s xml:id="echoid-s536" xml:space="preserve">Riccioli. </s>
+  <s xml:id="echoid-s537" xml:space="preserve">Mà à gran <lb/>torto ſi lamenta di me, mentre io non hò ſcoperto <lb/>chi ſia quello contro chi ſcriua qucſte ſue dottri-<lb/>ne.</s>
+  <s xml:id="echoid-s538" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s539" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s540" xml:space="preserve">Facia gratia il Sign. </s>
+  <s xml:id="echoid-s541" xml:space="preserve">Borelli di riuedere il <lb/>Dial. </s>
+  <s xml:id="echoid-s542" xml:space="preserve">2. </s>
+  <s xml:id="echoid-s543" xml:space="preserve">alla facciata 119. </s>
+  <s xml:id="echoid-s544" xml:space="preserve">e trouerà, che io dico que-<lb/>ſte parole. </s>
+  <s xml:id="echoid-s545" xml:space="preserve">[Mà nè meno io sò ſe il Sig. </s>
+  <s xml:id="echoid-s546" xml:space="preserve">Borelli parli <lb/>con il P. </s>
+  <s xml:id="echoid-s547" xml:space="preserve">Riccioli, ò nò, mentre non lo nomina. </s>
+  <s xml:id="echoid-s548" xml:space="preserve">Re-<lb/>cita quaſi la ſua dottrina, e l´impugna, ma vi miſchia <lb/>qualche coſa diuerſa.</s>
+  <s xml:id="echoid-s549" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s550" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s551" xml:space="preserve">Et io ſoggiungo. </s>
+  <s xml:id="echoid-s552" xml:space="preserve">E vero, che la dottrina <lb/>da lui recitata è quaſi la medeſima del P. </s>
+  <s xml:id="echoid-s553" xml:space="preserve">Riccioli, e <lb/>per riſponderle porta belle dottrine, &amp;</s>
+  <s xml:id="echoid-s554" xml:space="preserve">c.</s>
+  <s xml:id="echoid-s555" xml:space="preserve">]</s>
+</p>
+<p>
+  <s xml:id="echoid-s556" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s557" xml:space="preserve">Se bene il Sig. </s>
+  <s xml:id="echoid-s558" xml:space="preserve">Borelli non nomina il Padre <lb/>Riccioli, viene però queſti dalle dottrine iui regi-<lb/>ſtrate circonſcritto contante circonſtanze, che chi <lb/>indouinaſſe intender di eſſo non meritarebbe altra <lb/>lode, che d´Aſtrologo abruzzeſe, il quale poi in ſo-<lb/>ſtanza era quello, che conoſceua il ſterco all´odore, <lb/>e le ſpine al tatto.</s>
+  <s xml:id="echoid-s559" xml:space="preserve"/>
+</p>
+<pb o="28" file="0040" n="40"/>
+<p>
+  <s xml:id="echoid-s560" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s561" xml:space="preserve">Alla facciata 12. </s>
+  <s xml:id="echoid-s562" xml:space="preserve">gli ſouuiene di ammirare <lb/>di nuouo la rigida ſottigliezza del Sign. </s>
+  <s xml:id="echoid-s563" xml:space="preserve">Profeſſore, <lb/>mentre gli rinfaccia l´ecceſſo della velocità traſuer-<lb/>ſale del ſaſſo ſopra la velocità del pauimento. </s>
+  <s xml:id="echoid-s564" xml:space="preserve">Et eſ-<lb/>clama, _ma Dio buono! quanto ſarà mai queſto ecceſſo, che_ <lb/>_ei lo ſtima atto à poter fare qualche ſenſibile percoſſa?_ </s>
+  <s xml:id="echoid-s565" xml:space="preserve">E <lb/>perche queſto ecceſſo lo troua vn dito, ricerca vno <lb/>in tutto il genere humano, che poſſa diſcerner que-<lb/>ſta differenza.</s>
+  <s xml:id="echoid-s566" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s567" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s568" xml:space="preserve">Anche à me ſouuiene di nuouo di ammirare <lb/>la rigida ſottigliezza del Sig. </s>
+  <s xml:id="echoid-s569" xml:space="preserve">Borelli, mentre ſgrida <lb/>il Sig. </s>
+  <s xml:id="echoid-s570" xml:space="preserve">di Fermat, &amp; </s>
+  <s xml:id="echoid-s571" xml:space="preserve">altri, _ſed prædicti auctores non ani-_ <lb/>_maduertunt, ſe in hypotheſi aßumpta non perſiſtere_. </s>
+  <s xml:id="echoid-s572" xml:space="preserve">Mà <lb/>Dio buono Sig. </s>
+  <s xml:id="echoid-s573" xml:space="preserve">Borelli! quando anco foſſe vera la <lb/>voſtra falſa dottrina, cioè che il graue tratteneſſe <lb/>ſempre la medeſima velocità circolare, quanto de-<lb/>uiarebbe la noſtra Spirale geometrica da queſta li-<lb/>nea ſiſica? </s>
+  <s xml:id="echoid-s574" xml:space="preserve">Quanto ſarebbe il predetto ecceſſo? </s>
+  <s xml:id="echoid-s575" xml:space="preserve">Vn <lb/>dito. </s>
+  <s xml:id="echoid-s576" xml:space="preserve">Si troui vno nel genere humano, che poſſa <lb/>diſtinguer queſta differenza.</s>
+  <s xml:id="echoid-s577" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s578" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s579" xml:space="preserve">Parmi che V.</s>
+  <s xml:id="echoid-s580" xml:space="preserve">S. </s>
+  <s xml:id="echoid-s581" xml:space="preserve">giochi molto bene di ri-<lb/>mando, e tanto più quanto che non mi pare che il <lb/>Sig. </s>
+  <s xml:id="echoid-s582" xml:space="preserve">Borelli habbia conuinto V.</s>
+  <s xml:id="echoid-s583" xml:space="preserve">S. </s>
+  <s xml:id="echoid-s584" xml:space="preserve">cioè che la Spira-<lb/>le ſiſica deuij dalla loro geometrica, mentre la con-<lb/>ſeruatione della velocità medeſima non viene pro-<lb/>uata à ſufficienza. </s>
+  <s xml:id="echoid-s585" xml:space="preserve">Bene lei proua à fufficienza, che <lb/>data queſta identità di acceleratione vi ſia quell´ec-<lb/>ceſſo benche picciolo.</s>
+  <s xml:id="echoid-s586" xml:space="preserve"/>
+</p>
+<pb o="29" file="0041" n="41"/>
+<p>
+  <s xml:id="echoid-s587" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s588" xml:space="preserve">Nella facciata medeſima 12. </s>
+  <s xml:id="echoid-s589" xml:space="preserve">paſſa à quella <lb/>parte, dice egli, che hà ſembianza di grandiſſima <lb/>aſſurdità, in maniera che più toſto viene ſtimata opi-<lb/>niòne da ciechi, che da ſenſati. </s>
+  <s xml:id="echoid-s590" xml:space="preserve">Queſta è, che quan-<lb/>do foſſe vero, che il graue cadente tratteneſſe il me-<lb/>deſimo empito circolare queſto caderebbe fuori <lb/>della perpendicolare all´Orizonte, e ſempre più <lb/>Orientale di eſſa.</s>
+  <s xml:id="echoid-s591" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s592" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s593" xml:space="preserve">Si fermi Sig. </s>
+  <s xml:id="echoid-s594" xml:space="preserve">Conte, e laſci, che io ammiri <lb/>quanto ſia vero, che _per quæ quis peccat per hæc, &amp; </s>
+  <s xml:id="echoid-s595" xml:space="preserve">tor-_ <lb/>_quetur_. </s>
+  <s xml:id="echoid-s596" xml:space="preserve">Noti V. </s>
+  <s xml:id="echoid-s597" xml:space="preserve">S. </s>
+  <s xml:id="echoid-s598" xml:space="preserve">come ſi ſtorce il Sig. </s>
+  <s xml:id="echoid-s599" xml:space="preserve">Borelli per-<lb/>che nel Dial. </s>
+  <s xml:id="echoid-s600" xml:space="preserve">2. </s>
+  <s xml:id="echoid-s601" xml:space="preserve">alla facciata 116. </s>
+  <s xml:id="echoid-s602" xml:space="preserve">io dico queſte pa-<lb/>role. </s>
+  <s xml:id="echoid-s603" xml:space="preserve">[Nè io sò ſe il Sig. </s>
+  <s xml:id="echoid-s604" xml:space="preserve">Borelli habbia oſſeruato, <lb/>che quando foſſe vera queſta ſua dottrina, e che il <lb/>graue A, ſi moueſſe ſempre con la medeſima veloci-<lb/>tà, &amp;</s>
+  <s xml:id="echoid-s605" xml:space="preserve">c.</s>
+  <s xml:id="echoid-s606" xml:space="preserve">] e quì dico, che il graue caderebbe più Orien-<lb/>tale della perpendicolare. </s>
+  <s xml:id="echoid-s607" xml:space="preserve">Hora queſte parole, parmi <lb/>molto modeſto, muouono il Sig. </s>
+  <s xml:id="echoid-s608" xml:space="preserve">Borelli à lamentarſi <lb/>in certo modo, che la ſua viene ſtimata opinione da <lb/>ciechi, &amp;</s>
+  <s xml:id="echoid-s609" xml:space="preserve">c. </s>
+  <s xml:id="echoid-s610" xml:space="preserve">Mà il Sig. </s>
+  <s xml:id="echoid-s611" xml:space="preserve">di Fermat, &amp; </s>
+  <s xml:id="echoid-s612" xml:space="preserve">altri dicono, che la <lb/>ſemita del graue cadente ſarebbe la Spirale. </s>
+  <s xml:id="echoid-s613" xml:space="preserve">Il Sign. <lb/></s>
+  <s xml:id="echoid-s614" xml:space="preserve">Borelli dice non dubioſamente come facio io, ma <lb/>riſsolutamente, che queſta è opinione da ciechi. </s>
+  <s xml:id="echoid-s615" xml:space="preserve"><lb/>_Sed prædicti auctores non animaduertunt ſe in hypotheſi_ <lb/>_aſſumpta non perſistere_. </s>
+  <s xml:id="echoid-s616" xml:space="preserve">La mia fraſe di parlare non <lb/>piace à lui, e la ſua è prima ſpiaciuta à gl´altri, &amp; </s>
+  <s xml:id="echoid-s617" xml:space="preserve">eſſo <lb/>ragioneuolmente incontra in quel diſguſto, che fuo-<lb/>ri di ragione hà prima dato à gl´altri. </s>
+  <s xml:id="echoid-s618" xml:space="preserve">Comanda la
+<pb o="30" file="0042" n="42"/>
+lege di natura, _Quod tibi non vis alteri ne feceris_. </s>
+  <s xml:id="echoid-s619" xml:space="preserve">Se-<lb/>guiti Sig. </s>
+  <s xml:id="echoid-s620" xml:space="preserve">Conte.</s>
+  <s xml:id="echoid-s621" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s622" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s623" xml:space="preserve">Confeſſa, che queſta coſa l´hà adombrato <lb/>in guiſa, che hà alterato e l´ipoteſi, e la linea, che de-<lb/>ſcriue il graue cadente, come vederemo più à baſſo. <lb/></s>
+  <s xml:id="echoid-s624" xml:space="preserve">Dice però alle facciate 13. </s>
+  <s xml:id="echoid-s625" xml:space="preserve">14. </s>
+  <s xml:id="echoid-s626" xml:space="preserve">e 15. </s>
+  <s xml:id="echoid-s627" xml:space="preserve">che queſto de-<lb/>uiamento è pochiſſimo, e con calcolo fondato in <lb/>ottimo diſcorſo ne deduce, che è {8/10} di vn´ oncia di <lb/>piede, quale non è poſſibile, che noi conoſciamo <lb/>con il noſtro ſenſo. </s>
+  <s xml:id="echoid-s628" xml:space="preserve">E quì molto bene diſcorre ſopra <lb/>la gran difficoltà del poterſi accertare della caduta <lb/>del graue, e del diſcendere per la perpendicolare, <lb/>mentre ſono infiniti li accidenti, che lo poſſono far <lb/>cadere hora da vna parte hora dall´altra, come con-<lb/>ferma con certa eſperienza da eſſo fatta.</s>
+  <s xml:id="echoid-s629" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s630" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s631" xml:space="preserve">Tutto ſtà bene. </s>
+  <s xml:id="echoid-s632" xml:space="preserve">Baſta à me, che volendo <lb/>ſottigliare li no ſtri diſcorſi ſiano fondati, che per al-<lb/>tro tutto quello, che porta per ſua ſcuſa lo poſſiamo <lb/>ancor noi addure con maggior fondamento per ſal-<lb/>uare che la linea fiſica deſcritta dal graue cadente ſa-<lb/>rebbe la noſtra Spirale. </s>
+  <s xml:id="echoid-s633" xml:space="preserve">Solo aggiongerò, che _cæteris_ <lb/>_paribus_ in tutte le cadute ſi douerebbe più dal noſtro <lb/>ſenſo diſcerner la deuiatione dalla perpendicolare <lb/>più Orientale, che verſo altra parte. </s>
+  <s xml:id="echoid-s634" xml:space="preserve">Per eſſempio <lb/>concediamo al Sig. </s>
+  <s xml:id="echoid-s635" xml:space="preserve">Borelli, che la motione dell´aria <lb/>poſſa far deuiare il graue vn dito dalla perpendico-<lb/>lare hora verſo Occidente, hora verſo Oriente, ſem-<lb/>pre ſarà più oſſeruabile quella verſo Oriente, che
+<pb o="31" file="0043" n="43"/>
+verſo Occidente, perche quella riuſcirebbe di doi <lb/>diti, cioè vno per la motione dell´aria, e l´altro per <lb/>il proprio moto del graue, e queſta nulla, perche <lb/>quel dito che darebbe la motione dell´aria verſo <lb/>Occidente lo leuarebbe il moto proprio del graue <lb/>verſo Oriente. </s>
+  <s xml:id="echoid-s636" xml:space="preserve">Onde chi la ſottigliaſſe bene forſe <lb/>trouarebbe qualche differenza. </s>
+  <s xml:id="echoid-s637" xml:space="preserve">Se arrecordino pe-<lb/>rò loro Signori, che quanti hanno ſcritto in ſimile <lb/>propoſito concedono più toſto qualche deuiatione <lb/>verſo Occidente, che verſo Oriente, mentre durano <lb/>bene fatica à fare che il graue poſſa ſeguire il moto <lb/>della Terra, ma che lo preceda non sò di hauer ve-<lb/>duto alcuno fuori, che il Sig. </s>
+  <s xml:id="echoid-s638" xml:space="preserve">Borelli, che I´habbia <lb/>penſato.</s>
+  <s xml:id="echoid-s639" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s640" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s641" xml:space="preserve">Nella facciata 16. </s>
+  <s xml:id="echoid-s642" xml:space="preserve">dice, che ſe bene gli pa-<lb/>reua, che quanto ſin hora hà detto foſſe ſufficiente à <lb/>ſcuſare la detta deuiatione, nulladimeno hà poi pen-<lb/>ſato altra nuoua dottrina non auertita da alcun´altro <lb/>mediante la quale ſi veriſica che il graue trattenga <lb/>ſempre il medeſimo empito circolare, e ſia ſempre <lb/>nella ſteſſa perpendicolare all´ Orizonte. </s>
+  <s xml:id="echoid-s643" xml:space="preserve">E per <lb/>eſplicare queſto ſuo nuouo penſamento, ricor-<lb/>da _quella natural proprietà del moto circolare, che hà fa-_ <lb/>_cultà d´eſtrudere, &amp; </s>
+  <s xml:id="echoid-s644" xml:space="preserve">allontanare ì mobili dalla circonfe-_ <lb/>_renza, nella quale prima ſi moueuano per vna linea retta_ <lb/>_tangente il cerchio nel punto della ſeparatione, qualunque_ <lb/>_volta accada, che il mobìle ſi ſpicchi dalla detta circon-_ <lb/>_ferenza, &amp;</s>
+  <s xml:id="echoid-s645" xml:space="preserve">c._ </s>
+  <s xml:id="echoid-s646" xml:space="preserve">Dice poi che queſta coſa è commune-
+<pb o="32" file="0044" n="44"/>
+mente riceuuta come certa, &amp; </s>
+  <s xml:id="echoid-s647" xml:space="preserve">euidente.</s>
+  <s xml:id="echoid-s648" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s649" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s650" xml:space="preserve">Queſta dottrina non è altrimente commu-<lb/>nemente riceuuta, &amp; </s>
+  <s xml:id="echoid-s651" xml:space="preserve">in queſta generalità è falſa. </s>
+  <s xml:id="echoid-s652" xml:space="preserve">Li <lb/>graui che ſono girati ò ſono girati per la circonferen-<lb/>za di vn circolo al centro del quale ſijno portati dal-<lb/>la grauità propria, ò nò. </s>
+  <s xml:id="echoid-s653" xml:space="preserve">Quando girano nel primo <lb/>modo come accaderebbe nel moto della Terra, que-<lb/>ſta rotatione non hà virtù di eſtrudere. </s>
+  <s xml:id="echoid-s654" xml:space="preserve">Lega il Sig. <lb/></s>
+  <s xml:id="echoid-s655" xml:space="preserve">Borelli il Galileo nel Dialogo 2. </s>
+  <s xml:id="echoid-s656" xml:space="preserve">del Siſtema coſmi-<lb/>co nella pag. </s>
+  <s xml:id="echoid-s657" xml:space="preserve">lat. </s>
+  <s xml:id="echoid-s658" xml:space="preserve">137. </s>
+  <s xml:id="echoid-s659" xml:space="preserve">e vederà con quanta euidenza <lb/>dimoſtri queſta verità. </s>
+  <s xml:id="echoid-s660" xml:space="preserve">Le ruote che eſtrudono ſo-<lb/>no quelle al centro delle quali l´eſtruſo non è porta-<lb/>to dalla propria grauità, e queſte ſono tutte le noſtre <lb/>ruote, eccettuata la Terra, poiche in quella vi è la <lb/>pugna di moti verſo diuerſe parti, non in queſta co-<lb/>me beniſſimo dice il Keplero nel libr. </s>
+  <s xml:id="echoid-s661" xml:space="preserve">1. </s>
+  <s xml:id="echoid-s662" xml:space="preserve">dell´Epito-<lb/>me dell´ Aſtron. </s>
+  <s xml:id="echoid-s663" xml:space="preserve">Coper. </s>
+  <s xml:id="echoid-s664" xml:space="preserve">alla facciata 137. </s>
+  <s xml:id="echoid-s665" xml:space="preserve">il qual <lb/>combattimento cagiona quell´empito, &amp; </s>
+  <s xml:id="echoid-s666" xml:space="preserve">eſtruſio-<lb/>ne.</s>
+  <s xml:id="echoid-s667" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s668" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s669" xml:space="preserve">E crede V. </s>
+  <s xml:id="echoid-s670" xml:space="preserve">S. </s>
+  <s xml:id="echoid-s671" xml:space="preserve">che il Sig. </s>
+  <s xml:id="echoid-s672" xml:space="preserve">Borelli ſoggetto <lb/>così perito non ſapia quello che dice il Galileo? </s>
+  <s xml:id="echoid-s673" xml:space="preserve">Io <lb/>giudico che molto bene habbia viſto, e reuiſto quel-<lb/>le dottrine del Galileo, e nulladimeno ciò non lo <lb/>muoui dalla ſua opinione. </s>
+  <s xml:id="echoid-s674" xml:space="preserve">Diuerſo è il caſo del Ga-<lb/>lileo dal noſtro. </s>
+  <s xml:id="echoid-s675" xml:space="preserve">Iui ſi tratta del graue non ſeparato <lb/>dalla ruota, quì di quello, che ſia già ſeparato. </s>
+  <s xml:id="echoid-s676" xml:space="preserve">Dirà <lb/>adunque forſi il Sig. </s>
+  <s xml:id="echoid-s677" xml:space="preserve">Borelli, quando il graue è con-<lb/>gionto con la Terra, &amp; </s>
+  <s xml:id="echoid-s678" xml:space="preserve">è per eſſempio appoggiato
+<pb o="33" file="0045" n="45"/>
+ſopra la ſommità della torre la vertigine diurna non <lb/>è ſufficiente à eſtruderlo da ſe; </s>
+  <s xml:id="echoid-s679" xml:space="preserve">ma venga ſeparato <lb/>dalla torre, e ſia _ſui iuris_, all´hora l´empito circolare <lb/>degenererà in rettilineo equabile fatto per la tan-<lb/>gente. </s>
+  <s xml:id="echoid-s680" xml:space="preserve">Così credo egli intendere mentre dice di ſo-<lb/>pra maniſeſtamente muouerſi per la tangente _qua-_ <lb/>_lunque volta accada, che il mobile ſi ſpicchi dalla detta cir-_ <lb/>_conferenza_.</s>
+  <s xml:id="echoid-s681" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s682" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s683" xml:space="preserve">Queſta Sig. </s>
+  <s xml:id="echoid-s684" xml:space="preserve">Ofreddi è vna acutiſſima ſotti-<lb/>gliezza, e tanto acuta, che tengo di certo che ſi ſpun-<lb/>terà. </s>
+  <s xml:id="echoid-s685" xml:space="preserve">Mi riſponda in gratia. </s>
+  <s xml:id="echoid-s686" xml:space="preserve">Perche appoggiata <lb/>quanto debolmente lei vuole la pietra, per eſſempio, <lb/>ſopra la ſommità della torre, e moſſa per falſa ipoteſi <lb/>la Terra con la reuolution diurna, queſta quantun-<lb/>que tanto veloce non l´eſtrude?</s>
+  <s xml:id="echoid-s687" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s688" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s689" xml:space="preserve">Perche la grauità propria l´inclina al mo-<lb/>to verſo il centro, onde contraſtando queſto momen-<lb/>to con la velocità diurna viene queſta ſuperata da <lb/>quello; </s>
+  <s xml:id="echoid-s690" xml:space="preserve">e così la pietra è trattenuta ſopra la ſommi-<lb/>tà della torre, come beniſſimo dimoſtra il Galileo <lb/>nel citato luogo.</s>
+  <s xml:id="echoid-s691" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s692" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s693" xml:space="preserve">Beniſſimo; </s>
+  <s xml:id="echoid-s694" xml:space="preserve">mi dica di nuouo. </s>
+  <s xml:id="echoid-s695" xml:space="preserve">Supponia-<lb/>mo che la pietra ſia ſeparata dalla torre, l´empito <lb/>proueniente dalla velocità diurna ſi accreſce in eſſa.</s>
+  <s xml:id="echoid-s696" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s697" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s698" xml:space="preserve">Signor nò. </s>
+  <s xml:id="echoid-s699" xml:space="preserve">Se non ſi ſcema come diciamo <lb/>noi, almeno ſi conſerua il medeſimo in ſentenza del <lb/>Sig. </s>
+  <s xml:id="echoid-s700" xml:space="preserve">Borelli, ſolo ſi muta di circolare in rettilineo per <lb/>la tangente.</s>
+  <s xml:id="echoid-s701" xml:space="preserve"/>
+</p>
+<pb o="34" file="0046" n="46"/>
+<p>
+  <s xml:id="echoid-s702" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s703" xml:space="preserve">Adagio Sign. </s>
+  <s xml:id="echoid-s704" xml:space="preserve">Ofreddi. </s>
+  <s xml:id="echoid-s705" xml:space="preserve">L´empito, ò mo-<lb/>mento proueniente dalla grauità all´ingiù ſi conſerua <lb/>ſempre il medeſimo?</s>
+  <s xml:id="echoid-s706" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s707" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s708" xml:space="preserve">Non Signore, mà queſti ſi và ſempre au-<lb/>mentando in proportione del tempo della diſceſa.</s>
+  <s xml:id="echoid-s709" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s710" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s711" xml:space="preserve">Tanto che maggiore è l´empito della pie-<lb/>tra quando ſi muoue all´ingiù, che quando ſtaua <lb/>quieta nella ſommità della torre; </s>
+  <s xml:id="echoid-s712" xml:space="preserve">anzi che iui non <lb/>haueua empito alcuno, &amp; </s>
+  <s xml:id="echoid-s713" xml:space="preserve">eſercitaua il ſolo principio <lb/>di quella operatione, che prouiene dalla grauità. <lb/></s>
+  <s xml:id="echoid-s714" xml:space="preserve">Hora ſe queſto ſolo principio hà forza di contraſtare <lb/>alla velocità della vertigine diurna ſi che queſta non <lb/>poſſi eſtrudere il graue, maggior forza hauerà di <lb/>contraſtare con eſſa l´empito maggiore del graue già <lb/>cadente, creſcendo ſempre queſto via più quanto ſi <lb/>accoſta più al centro. </s>
+  <s xml:id="echoid-s715" xml:space="preserve">Quella grauità adunque, che <lb/>impediſce l´eſtruſione per la tangente, tanto più im-<lb/>pediſce che l´empito circolare degeneri in rettilineo <lb/>fatto per la tangente il cerchio. </s>
+  <s xml:id="echoid-s716" xml:space="preserve">Queſto nuouo pen-<lb/>ſamento adunque del Signor Borelli non mi pare ſo-<lb/>damente fondato, mentre ſi appoggia ſopra ſimili <lb/>principij, ſecondo me totalmente rouinoſi.</s>
+  <s xml:id="echoid-s717" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s718" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s719" xml:space="preserve">Ma vdiamo vna fintione del Sig. </s>
+  <s xml:id="echoid-s720" xml:space="preserve">Borelli nel <lb/>ſuo Schema poſto alla facciata 17. </s>
+  <s xml:id="echoid-s721" xml:space="preserve">conſidera la cima <lb/>della torre ò albero di naue A, girare intorno al cen-<lb/>tro della Terra C, col ſemidiametro C A, per la cir-<lb/>conferenza del cerchio maſſimo A B, e con eſſa gi-<lb/>rare il ſaſſo A; </s>
+  <s xml:id="echoid-s722" xml:space="preserve">ſpiccato queſto dalla torre con il me-
+<pb o="35" file="0047" n="47"/>
+deſimo empito ſi mouerà per la tangente A H, il che, <lb/>dice egli _ſi farà ma-_ <lb/>
+<anchor type="figure" xlink:label="fig-0047-01a" xlink:href="fig-0047-01"/>
+_nifesto così. </s>
+  <s xml:id="echoid-s723" xml:space="preserve">Finghia-_ <lb/>_mo, che la palla A, ſia_ <lb/>_priua di grauità, cioè_ <lb/>_non abbia punto di pro-_ <lb/>_penſione d´auuicinarſi_ <lb/>_al centro della terra C_, <lb/>_allora non mi poßo io_ <lb/>_dare ad intendere, che_ <lb/>_abbandonandoſi la pal-_ <lb/>_la da colui, che la rite-_ <lb/>_neua nella circonferen-_ <lb/>_za del cerchio in A, non_ <lb/>_abbia ad eſſer eſtruſa_ <lb/>_dall´impeto circolare D_ <lb/>_A, per la tangente A H, &amp;</s>
+  <s xml:id="echoid-s724" xml:space="preserve">c_.</s>
+  <s xml:id="echoid-s725" xml:space="preserve"/>
+</p>
+<div xml:id="echoid-div12" type="float" level="2" n="6">
+  <figure xlink:label="fig-0047-01" xlink:href="fig-0047-01a">
+    <image file="0047-01" xlink:href="http://echo.mpiwg-berlin.mpg.de/zogilib?fn=/permanent/library/54K7BX2W/figures/0047-01"/>
+  </figure>
+</div>
+<p>
+  <s xml:id="echoid-s726" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s727" xml:space="preserve">Queſta del Sig. </s>
+  <s xml:id="echoid-s728" xml:space="preserve">Borelli mi pare propriamen-<lb/>te vna fintione, ma tale che diſtrugge tutto quello, <lb/>che ne vuole dedure da eſſa, poiche remoſſa la gra-<lb/>uità dal ſaſſo è impoſſibile che queſto venga eſtruſo. <lb/></s>
+  <s xml:id="echoid-s729" xml:space="preserve">Noi oſſeruiamo nelle noſtre ruote, e nelle coſe che <lb/>girano, che tanto meno queſte poſſono eſſer eſtruſe, <lb/>e girate quanto meno ſono graui. </s>
+  <s xml:id="echoid-s730" xml:space="preserve">Non viene eſtru-<lb/>ſo con il medeſimo empito vn ſaſſo, &amp; </s>
+  <s xml:id="echoid-s731" xml:space="preserve">vn ſughero; </s>
+  <s xml:id="echoid-s732" xml:space="preserve">e <lb/>meno di queſto vn fioco di Bombace, ò vna Paglia. </s>
+  <s xml:id="echoid-s733" xml:space="preserve"><lb/>Così girandoſi vn vaſo pieno di acqua in cui galle-<lb/>gino coſe poco graui, queſte con tanta maggior ce-
+<pb o="36" file="0048" n="48"/>
+lerità ſi reducono verſo il centro quanto meno ſono <lb/>graui; </s>
+  <s xml:id="echoid-s734" xml:space="preserve">e ciò non per altro, ſe non perche non eſſen-<lb/>do queſte capaci di quell´empito con cui ſi muouo-<lb/>no le parti eſtreme per la loro poca grauità, ſi redu-<lb/>cono à quelle parti della ruota, che girano conmeno <lb/>empito. </s>
+  <s xml:id="echoid-s735" xml:space="preserve">Se adunque tanto à proportione ſono me-<lb/>no capaci di eſtruſione, e giro le coſe quanto meno <lb/>ſono graui, ſe totalmente fingeremo remoſſa la gra-<lb/>uità dalla pietra queſta ſarà totalmente incapace di <lb/>giro, e di eſtruſione, e così non ſi muouerà per la <lb/>tangente.</s>
+  <s xml:id="echoid-s736" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s737" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s738" xml:space="preserve">Mà la fintione del Sig. </s>
+  <s xml:id="echoid-s739" xml:space="preserve">Borelli ſi riduce à <lb/>queſto, come ſegue à dire, che quando vn mobile <lb/>viene ſpinto da diuerſe virtù motiue, ciaſcuna fà il <lb/>ſuo vfficio, non impedendo vna l´operatione dell´al-<lb/>tra, &amp;</s>
+  <s xml:id="echoid-s740" xml:space="preserve">c.</s>
+  <s xml:id="echoid-s741" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s742" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s743" xml:space="preserve">Conceſſa queſta dottrina al Sig. </s>
+  <s xml:id="echoid-s744" xml:space="preserve">Borelli non <lb/>credo, che ſi poſſa altro dedure ſe non che girando il <lb/>ſaſſo nella ſommità della torre con la reuolution <lb/>diurna, e ſoprauenendo il moto all´ingiù queſto non <lb/>impediſca quello, ſi che per queſto capo ſeguiti a <lb/>muouerſi con la medeſima velocità circolare, la qua-<lb/>le ſi come prima del moto diſcẽſiuo moueua in giro, <lb/>così dopò la giunta di queſto ſeguiti à muouer in <lb/>giro. </s>
+  <s xml:id="echoid-s745" xml:space="preserve">Ma perche la diſceſa auicina il graue ſempre <lb/>più, e più al centro, e lo conſtringe vrtare in parti <lb/>del mezo moſſe con minor, e minor velocità, &amp; </s>
+  <s xml:id="echoid-s746" xml:space="preserve">in <lb/>conſeguenza più reſiſtenti, e rintuzanti il moto cir-
+<pb o="37" file="0049" n="49"/>
+colare del graue, quindi ne ſegue che per accidente <lb/>il moto del graue all´ingiù impediſca il moto circo-<lb/>lare. </s>
+  <s xml:id="echoid-s747" xml:space="preserve">Lo impediſce anco per accidente perche ac-<lb/>coſtandolo ſempre più, e più al centro, al quale que-<lb/>ſto ſempre aſpira, &amp; </s>
+  <s xml:id="echoid-s748" xml:space="preserve">anela rimirandolo conſtante-<lb/>mente, acciò queſto poſſa fare biſogna ſi muoua in <lb/>giro contanta più tardità. </s>
+  <s xml:id="echoid-s749" xml:space="preserve">Queſto è il mio penſiero, <lb/>nè meno io mi poſſo dar ad intendere altrimenti. <lb/></s>
+  <s xml:id="echoid-s750" xml:space="preserve">Non concedendo adunque al Sig. </s>
+  <s xml:id="echoid-s751" xml:space="preserve">Borelli queſto ſuo <lb/>fondamento, non poſſo concedergli li altri ſuoi di-<lb/>ſcorſi ſopra eſſo fondati. </s>
+  <s xml:id="echoid-s752" xml:space="preserve">Conuengo con lui nella <lb/>concluſione, cioè che il graue cadente ſempre ſia <lb/>nella perpendicolare all´Orizonte, anzi io credo <lb/>che ſia in eſſa più preciſamente di quello lo pone <lb/>lui, mà non già per le ſue nuoue ragioni, ma per le <lb/>vecchie, e rancide aſſegnate prima da gli altri, e da <lb/>me da eſſi riceuute.</s>
+  <s xml:id="echoid-s753" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s754" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s755" xml:space="preserve">Horsù in gratia mia ſia conceſſo al Sig. </s>
+  <s xml:id="echoid-s756" xml:space="preserve">Bo-<lb/>relli queſto principio, e vediamo quello, che ne de-<lb/>duce, perche per dir la verità confeſſo ingenuamen-<lb/>te la mia ignoranza, che hauendo hora traſcorſo il <lb/>rimanente di queſta lettera io non l´intendo total-<lb/>mente. </s>
+  <s xml:id="echoid-s757" xml:space="preserve">Stabilito che il moto diſcenſiuo non impe-<lb/>diſca il traſuerſale come proueuienti da diuerſi prin-<lb/>cipij, conchiude nella facciata 18. </s>
+  <s xml:id="echoid-s758" xml:space="preserve">che non doueua <lb/>_ſupporre, che la palla ſpiccata dalla cima della Torre A, do-_ <lb/>_ueße continuar la direzion del ſuo moto per la circonferenza_ <lb/>_del cerchio A B, e per altre à lei concentriche, ma ſolamente_
+<pb o="38" file="0050" n="50"/>
+_per la retta tangente A H, e per altre linee à lei parallele_, <lb/>_&amp; </s>
+  <s xml:id="echoid-s759" xml:space="preserve">in queſte douer veramente muouerſi la palla di moto_ <lb/>_equabile, cioè trapaſſar ſpazzi eguali in tempi eguali, e però_ <lb/>_ſegando le parti A E, E F, F G, G H eguali frà di loro in_ <lb/>_maniera che ciaſcheduno dei detti ſpazzi ſia traſcorſo in vn_ <lb/>_ſecondo d´ora, e da i detti punti tirate le ſeganti fino al cen-_ <lb/>_tro, le quali taglino la circonferenza del cerchio A B, ne i_ <lb/>_punti I, k, L, B, e poi ſegata la retta E M, di_ 15. </s>
+  <s xml:id="echoid-s760" xml:space="preserve">_piedi ro-_ <lb/>_mani di quelli che il ſemidiametro terreſtre inſieme con l´al-_ <lb/>_tezza della Torre, ò Albero di naue, ſia piedi_ 23367708. <lb/></s>
+  <s xml:id="echoid-s761" xml:space="preserve">_e poi la F N, ſia_ 60. </s>
+  <s xml:id="echoid-s762" xml:space="preserve">_piedi, e la G O_ 135. </s>
+  <s xml:id="echoid-s763" xml:space="preserve">&amp; </s>
+  <s xml:id="echoid-s764" xml:space="preserve">_H P_ 240. </s>
+  <s xml:id="echoid-s765" xml:space="preserve">_che_ <lb/>_è l´altezza di tutta la Torre, o Albero di naue, dico_</s>
+</p>
+<p>
+  <s xml:id="echoid-s766" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s767" xml:space="preserve">Così Sig. </s>
+  <s xml:id="echoid-s768" xml:space="preserve">Profeſſore biſogna parlare in <lb/>ſimili materie con il dico, e non con _il penſo, io giu-_ <lb/>_dico, io ſtimo_ come fà lei.</s>
+  <s xml:id="echoid-s769" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s770" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s771" xml:space="preserve">_Che il vero moto della palla composta dal traſ-_ <lb/>_uerſale, e dal deſcenſiuo ſi farà per vna curua tirata per i_ <lb/>_punti A, M, N, O, P, e così in qualunque luogo la palla ca-_ <lb/>_dente anderà radendo il medeſimo ſemidiametro traſporta-_ <lb/>_to, e per conſeguenza la medeſima linea diſſegnata nella fac-_ <lb/>_cia della Torre_.</s>
+  <s xml:id="echoid-s772" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s773" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s774" xml:space="preserve">Perche lei Sign. </s>
+  <s xml:id="echoid-s775" xml:space="preserve">Conte dice di non capire <lb/>troppo bene le ſeguenti dottrine del Sig. </s>
+  <s xml:id="echoid-s776" xml:space="preserve">Borelli an-<lb/>diamo diſtinguendo tutto quello, che ne ſegue dalle <lb/>ſue ſuppoſitioni acciò da queſto ne deduciamo le <lb/>concluſioni. </s>
+  <s xml:id="echoid-s777" xml:space="preserve">Suppone egli che l´empito circolare <lb/>non ſi debiliti, ma ſi conſerui il medeſimo, e che ſolo <lb/>ſi traſmuti di circolare in rettilineo per la tangente,
+<pb o="39" file="0051" n="51"/>
+&amp; </s>
+  <s xml:id="echoid-s778" xml:space="preserve">equabile come equabile era il circolare. </s>
+  <s xml:id="echoid-s779" xml:space="preserve">Da que-<lb/>ſto adunque ne ſegue, che poſta la H A, tangente <lb/>eguale all´arco di vn minuto, che ſarebbe paſſato dal <lb/>graue con il moto circolare diurno quando foſſe fer-<lb/>mo nella cima della torre, in altretanto tempo ſareb-<lb/>be trapaſſata queſta dal moto traſuerſale. </s>
+  <s xml:id="echoid-s780" xml:space="preserve">E perche <lb/>la tangente A H, è maggiore dell´arco A B, ne ſegue, <lb/>che queſti ſia minore di vn minuto. </s>
+  <s xml:id="echoid-s781" xml:space="preserve">Parimente ne <lb/>ſegue, che eſſendo E M, piedi 15. </s>
+  <s xml:id="echoid-s782" xml:space="preserve">F N, 60. </s>
+  <s xml:id="echoid-s783" xml:space="preserve">G O, <lb/>135. </s>
+  <s xml:id="echoid-s784" xml:space="preserve">&amp; </s>
+  <s xml:id="echoid-s785" xml:space="preserve">H P, 240. </s>
+  <s xml:id="echoid-s786" xml:space="preserve">&amp; </s>
+  <s xml:id="echoid-s787" xml:space="preserve">eſſendo queſte maggiori delle <lb/>I M, K N, L O, B P, queſte ſijno meno di quelli pie-<lb/>di. </s>
+  <s xml:id="echoid-s788" xml:space="preserve">E però ben vero che queſte differenze ſaranno <lb/>inſenſibili; </s>
+  <s xml:id="echoid-s789" xml:space="preserve">onde ſe da queſte naſceſſe qualche pre-<lb/>giuditio al Sig. </s>
+  <s xml:id="echoid-s790" xml:space="preserve">Borelli non deue hauerſi in conſide-<lb/>ratione; </s>
+  <s xml:id="echoid-s791" xml:space="preserve">nè per queſto hò fatte le ſopradette rifleſſio-<lb/>ni, ma per poner ogni coſa in chiaro. </s>
+  <s xml:id="echoid-s792" xml:space="preserve">Seguiti pure <lb/>Sig. </s>
+  <s xml:id="echoid-s793" xml:space="preserve">Conte.</s>
+  <s xml:id="echoid-s794" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s795" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s796" xml:space="preserve">Nella facciata 19. </s>
+  <s xml:id="echoid-s797" xml:space="preserve">penſa prouar queſte ſup-<lb/>poſitioni, e dice. </s>
+  <s xml:id="echoid-s798" xml:space="preserve">_Perche nel medeſimo tempo d´vn ſe-_ <lb/>_condo che l´impeto traſuerſale ſpinge la palla per la tangente_ <lb/>_A E, l´impeto della grauità la traſporta per la ſegante E C,_ <lb/>_da E, in M, &amp;</s>
+  <s xml:id="echoid-s799" xml:space="preserve">c._</s>
+  <s xml:id="echoid-s800" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s801" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s802" xml:space="preserve">Da E, in M? </s>
+  <s xml:id="echoid-s803" xml:space="preserve">Ma ſe la palla mai è ſtata in E, <lb/>come la porta da E, in M?</s>
+  <s xml:id="echoid-s804" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s805" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s806" xml:space="preserve">Deue forſe intendere il Sig. </s>
+  <s xml:id="echoid-s807" xml:space="preserve">Borelli da I, in <lb/>M, e perche E I, è inſenſibile tanto fà dire da E, co-<lb/>me da I.</s>
+  <s xml:id="echoid-s808" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s809" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s810" xml:space="preserve">Così è. </s>
+  <s xml:id="echoid-s811" xml:space="preserve">Tira poi l´imaginarie perpendi-
+<pb o="40" file="0052" n="52"/>
+colari M R, ſopra A H, &amp; </s>
+  <s xml:id="echoid-s812" xml:space="preserve">M S, ſopra A C, e dice, <lb/>che _verrà ad eſſer il_ <lb/>
+<anchor type="figure" xlink:label="fig-0052-01a" xlink:href="fig-0052-01"/>
+_moto E M, obliquo ſo-_ <lb/>_pra il piano imaginario_ <lb/>_M R, e però E M, ſarà_ <lb/>_compoſto di due moti_ <lb/>_per E R, e per R M, a_ <lb/>_quali ſarà eguale in po-_ <lb/>_tenza; </s>
+  <s xml:id="echoid-s813" xml:space="preserve">adunque il mo-_ <lb/>_to Orizontale per l´AE,_ <lb/>_verrà ſcemato per il ri-_ <lb/>_tiramento E R, e pe-_ <lb/>_rò ne riſulterà il moto_ <lb/>_traſuerſale A R, ò pure_ <lb/>_S M, &amp; </s>
+  <s xml:id="echoid-s814" xml:space="preserve">il diſcenſiuo_ <lb/>_ſarà miſurato da RM._</s>
+  <s xml:id="echoid-s815" xml:space="preserve"/>
+</p>
+<div xml:id="echoid-div13" type="float" level="2" n="7">
+  <figure xlink:label="fig-0052-01" xlink:href="fig-0052-01a">
+    <image file="0052-01" xlink:href="http://echo.mpiwg-berlin.mpg.de/zogilib?fn=/permanent/library/54K7BX2W/figures/0052-01"/>
+  </figure>
+</div>
+<p>
+  <s xml:id="echoid-s816" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s817" xml:space="preserve">Che principiando il moto del graue dall´E <lb/>ſino all´ M, ſia per vn piano obliquo ſopra il piano <lb/>M R, e che E M, ſia eguale in potenza all´E R, R M, <lb/>io l´intendo beniſſimo, ma che nel noſtro caſo il mo-<lb/>to per E M, ſe dall´E, principiaſſe, ſia compoſto delli <lb/>due moti per E R, e per R M, e che il moto Orizon-<lb/>tale per l´A E, venga ſcemato per il ritiramento E R, <lb/>io non sò capirla, mentre ſtando ſopra li principij <lb/>del Sig. </s>
+  <s xml:id="echoid-s818" xml:space="preserve">Borelli, cioè che il moto diſcenſiuo non im-<lb/>pediſca il traſuerſale, non sò come ciò poſſa farſi; </s>
+  <s xml:id="echoid-s819" xml:space="preserve">e <lb/>di più ſe il traſuerſale porta da A, per A E, da Occi-<lb/>dente in Oriente, &amp; </s>
+  <s xml:id="echoid-s820" xml:space="preserve">è ritratto dal diſcenſiuo per
+<pb o="41" file="0053" n="53"/>
+E R, biſognarebbe che la grauità non ſolo portaſſe <lb/>verſo il centro per E M, ouero R M, mà anco da <lb/>Oriente verſo Occidente per E R.</s>
+  <s xml:id="echoid-s821" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s822" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s823" xml:space="preserve">Io credo che il Sig. </s>
+  <s xml:id="echoid-s824" xml:space="preserve">Borelli intenda così; </s>
+  <s xml:id="echoid-s825" xml:space="preserve">il <lb/>moto traſuerſale di ſua natura, è miſurato da tutta l´A <lb/>E, in vn ſecondo horario, ma perche la grauità rimi-<lb/>ra conſtantemente il centro, e porta per E M, &amp; </s>
+  <s xml:id="echoid-s826" xml:space="preserve">è <lb/>minore la retta M S, che la retta E A, quindi è che <lb/>quel moto traſuerſale che riferito al centro appare <lb/>di tutta l´ A D, riſerito al punto M, è della ſola A R. <lb/></s>
+  <s xml:id="echoid-s827" xml:space="preserve">Onde in realtà nel ſpatio mondano il mobile non hà <lb/>fatto con il moto traſuerſale tutta l´A D, mà la ſola <lb/>A R.</s>
+  <s xml:id="echoid-s828" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s829" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s830" xml:space="preserve">Se adunque così intende, non mi pare che <lb/>queſta dottrina del Sig. </s>
+  <s xml:id="echoid-s831" xml:space="preserve">Borelli fuga quelli inconue-<lb/>nienti, ch´egli dice eſſere nella noſtra. </s>
+  <s xml:id="echoid-s832" xml:space="preserve">Concede che <lb/>il moto diſcenſiuo ſcemi il moto traſuerſale, il che <lb/>parmi che prima negaſſe. </s>
+  <s xml:id="echoid-s833" xml:space="preserve">Noi parimente diciamo <lb/>nel Schema pag. </s>
+  <s xml:id="echoid-s834" xml:space="preserve">19. </s>
+  <s xml:id="echoid-s835" xml:space="preserve">che il graue arriuato in G, non <lb/>trattiene la medeſima velocità circolare, cioè ſcema <lb/>il moto circolare, che ſi ſarebbe fatto per A F, quan-<lb/>do non foſſe ſo prauenuto il moto diſcenſiuo, il quale <lb/>portando il graue da F, in G, &amp; </s>
+  <s xml:id="echoid-s836" xml:space="preserve">approſſimandolo <lb/>più al centro, &amp; </s>
+  <s xml:id="echoid-s837" xml:space="preserve">al ſemidiametro A C, che ſe ſi foſſe <lb/>moſſo con il ſolo moto circolare per A R, fà che con <lb/>il moto traſuerſale facia minor ſpatio di quello che <lb/>farebbe.</s>
+  <s xml:id="echoid-s838" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s839" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s840" xml:space="preserve">Io non sò quello che intenda. </s>
+  <s xml:id="echoid-s841" xml:space="preserve">Sò bene, che
+<pb o="42" file="0054" n="54"/>
+ſegue à dire, che nel fine del ſeguente ſecondo hora-<lb/>rio il ritiramento ſarà F T, e la ſceſa T N, non preci-<lb/>ſamente proportionali alli primi per eſſer l´angolo <lb/>A F C, più acuto del D E C; </s>
+  <s xml:id="echoid-s842" xml:space="preserve">e lo ſteſſo ne gl´altri <lb/>luoghi, e tempi ſeguenti.</s>
+  <s xml:id="echoid-s843" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s844" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s845" xml:space="preserve">Io per me intendo che l´angolo T F N, ſia <lb/>più acuto del R E M, e che perciò non ſia la medeſi-<lb/>ma la proportione dell´E R, al R M, che quella del <lb/>F T, a T N. </s>
+  <s xml:id="echoid-s846" xml:space="preserve">Il rimanente non l´intendo.</s>
+  <s xml:id="echoid-s847" xml:space="preserve"/>
+</p>
+<p style="it">
+  <s xml:id="echoid-s848" xml:space="preserve">_Cont. </s>
+  <s xml:id="echoid-s849" xml:space="preserve">Intenderà ſorſe quello che ſegue, cioè,_ <lb/>_che_ nel tempo di 4. </s>
+  <s xml:id="echoid-s850" xml:space="preserve">ſecondi d´ora la vertigine che ſi ſuppone <lb/>nel ſemidiametro A C, non trapaſſa nel cerchio maſſimo più <lb/>che vn´arco d´vn minuto primo, e nella quarta parte di detti <lb/>tempi ſcorre ſolamente archi di 15. </s>
+  <s xml:id="echoid-s851" xml:space="preserve">ſecondi, &amp; </s>
+  <s xml:id="echoid-s852" xml:space="preserve">in queſti per <lb/>la lor piccolezza per eſſer viciniſſimi al contatto A, non di-<lb/>feriſcono le tangenti da i loro archi in quanto al ſenſo.</s>
+  <s xml:id="echoid-s853" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s854" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s855" xml:space="preserve">Tutto ſtà bene, ma che ne ſegue?</s>
+  <s xml:id="echoid-s856" xml:space="preserve"/>
+</p>
+<p style="it">
+  <s xml:id="echoid-s857" xml:space="preserve">_Cont._ </s>
+  <s xml:id="echoid-s858" xml:space="preserve">Adunque potremo dire ſenza error ſenſibile, che <lb/>nella medeſima ſecante E C, ſia collocata la palla, e la dire-<lb/>zion della Torre, ò Albero di naue, e così in tutte le altre <lb/>ſecanti F C, G C, H C; </s>
+  <s xml:id="echoid-s859" xml:space="preserve">adunque in tutto il tranſito per la <lb/>curua A P, ſempre la palla cadente ſi trouerà collocata ra-<lb/>ſente la medeſima Torre, ò Albero di naue per la medeſima <lb/>linea perpendicolare all´Orizonte.</s>
+  <s xml:id="echoid-s860" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s861" xml:space="preserve">Ofred. </s>
+  <s xml:id="echoid-s862" xml:space="preserve">Io quantunque ſtij attentiſſimo più che <lb/>non ſoglio fare à qual ſi ſia intricata demoſtration <lb/>geometrica, ò reſsolution analitica nulladimeno <lb/>confeſſo ingenuamente la mia ignoranza, che non
+<pb o="43" file="0055" n="55"/>
+intendo queſte conſeguenze, cioè come ſi deduchi-<lb/>no dalle premeſſe.</s>
+  <s xml:id="echoid-s863" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s864" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s865" xml:space="preserve">Seguitiamo à vedere. </s>
+  <s xml:id="echoid-s866" xml:space="preserve">Nella facciata 20. <lb/></s>
+  <s xml:id="echoid-s867" xml:space="preserve">dice che eſſendo che le ſecanti di vn´arco, il quale <lb/>non eccede vn minuto, non eccedino il ſemidiame-<lb/>tro di ecceſſo notabile moſtrerà poterſi prender E <lb/>M, come eguale à I M; </s>
+  <s xml:id="echoid-s868" xml:space="preserve">onde nel primo ſecondo ho-<lb/>rario hauerà la palla traſcorſo lo ſpatio I M, dalla ci-<lb/>ma della Torre di 15. </s>
+  <s xml:id="echoid-s869" xml:space="preserve">piedi; </s>
+  <s xml:id="echoid-s870" xml:space="preserve">nel fine del ſecondo lo <lb/>ſpatio K N, di 60. </s>
+  <s xml:id="echoid-s871" xml:space="preserve">e così nelli altri tempi, e ſpatij. </s>
+  <s xml:id="echoid-s872" xml:space="preserve">Et <lb/>in queſta maniera, dice egli verificarſi, che la palla <lb/>cadente non ſi ſcoſti mai dal medeſimo ſemidiame-<lb/>tro, e ciò, dice, _ſi deduce da due ſuppoſizioni non arbitra-_ <lb/>_rie, quali ſono quelle che vſano prender i Geometri, ma aſ-_ <lb/>_ſai conformi alle leggi della natura._ </s>
+  <s xml:id="echoid-s873" xml:space="preserve">Queſte in ſuſtanza <lb/>ſono che la direttione circolare ſi tramuti in rettili-<lb/>nea per la tangente nel graue ſtaccato che ſia dalla <lb/>circonferenza; </s>
+  <s xml:id="echoid-s874" xml:space="preserve">e che il grado di velocità ſi manten-<lb/>ga ſempre il medeſimo, &amp; </s>
+  <s xml:id="echoid-s875" xml:space="preserve">equabile, non incontran-<lb/>do cauſa alcuna impediente, ò ritardante.</s>
+  <s xml:id="echoid-s876" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s877" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s878" xml:space="preserve">Loro Signori dicono di non capire queſte <lb/>dottrine del Signor Borelli; </s>
+  <s xml:id="echoid-s879" xml:space="preserve">per miſero che vno ſia <lb/>non occorre che ſi lagni perche ſempre vi è alcuno <lb/>più miſero di eſſo, per queſto non ſi lamentino ſe <lb/>non poſſono intendere, perche io credo certiſſimo <lb/>intender meno di loro. </s>
+  <s xml:id="echoid-s880" xml:space="preserve">Biſogna che habbiamo la <lb/>mente ingombrata da qualche coſa, che ne pregiudi-<lb/>chi alla vera intelligenza delli ſenſi reconditi del Si-
+<pb o="44" file="0056" n="56"/>
+gnor Borelli. </s>
+  <s xml:id="echoid-s881" xml:space="preserve">Miè accaduto più volte, che offuſca-<lb/>ta la mente con qualche ſuppoſitione falſa, non in-<lb/>tendeuo le coſe triuiali, e facili. </s>
+  <s xml:id="echoid-s882" xml:space="preserve">Forſe ſarà così in <lb/>queſto caſo, nel quale però non conuenendo noi nel-<lb/>li fondamenti preſi dal Sig. </s>
+  <s xml:id="echoid-s883" xml:space="preserve">Borelli come conformi <lb/>alle leggi della natura, poco importa ſe non guſtia-<lb/>mo della bellezza della fabrica ſopra eſſi fonda-<lb/>ta.</s>
+  <s xml:id="echoid-s884" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s885" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s886" xml:space="preserve">Non niega però nella ſteſſa facciata 20. </s>
+  <s xml:id="echoid-s887" xml:space="preserve">che <lb/>ſe la caduta del graue continuaſſe ſino al centro della <lb/>Terra, che all´hora queſti non ſi allontanaſſe per <lb/>grande interuallo dalla faccia della Torre, ò ſemi-<lb/>diametro con il quale principiò à muouerſi, nè lc <lb/>cadute hauerebbero la proportione delli quadrati <lb/>de tempi.</s>
+  <s xml:id="echoid-s888" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s889" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s890" xml:space="preserve">Si fermi Signor Conte, che hor hora mi na-<lb/>ſce vna curioſità. </s>
+  <s xml:id="echoid-s891" xml:space="preserve">Queſte deuiationi dalla perpen-<lb/>dicolare ſarebbero più Orientali di queſta, ò più <lb/>Occidentali?</s>
+  <s xml:id="echoid-s892" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s893" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s894" xml:space="preserve">Nelle prime ſuppoſitioni del Sig. </s>
+  <s xml:id="echoid-s895" xml:space="preserve">Borelli <lb/>inanzi che inuentaſſe queſte ſue nuoue dottrine ne <lb/>ſeguiua, che la deuiatione dalla perpendicolare foſ-<lb/>ſe più Orientale di queſta, mẽtre nel ſuo Sch. </s>
+  <s xml:id="echoid-s896" xml:space="preserve">pag. </s>
+  <s xml:id="echoid-s897" xml:space="preserve">19. <lb/></s>
+  <s xml:id="echoid-s898" xml:space="preserve">quando la Torre A E, teneua il ſito corriſpondente <lb/>alla C H, in graue non era in H, ma in O, più Orien-<lb/>tale di eſſa, al preſente mentre li riſſalti E R, F T, <lb/>e le perpendicolari R M, T N, ſono e ſi fanno verſo <lb/>A Q, ſono più Occidentali della torre IM, KN; </s>
+  <s xml:id="echoid-s899" xml:space="preserve">on-
+<pb o="45" file="0057" n="57"/>
+de la deuiatione dalla perpendicolare per grande <lb/>interuallo ſe ſi continuaſſe il moto ſino al centro ſa-<lb/>rebbe più Occidentale, e fatta verſo Occiden-<lb/>te.</s>
+  <s xml:id="echoid-s900" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s901" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s902" xml:space="preserve">Le nuoue adunque dottrine del Sig. </s>
+  <s xml:id="echoid-s903" xml:space="preserve">Borelli <lb/>ſono tanto oppoſte alle vecchie quanto è il declina-<lb/>re dalla perpendicolare hora verſo Oriente, hora <lb/>verſo Occidente, &amp; </s>
+  <s xml:id="echoid-s904" xml:space="preserve">hauendole inuentate per rime-<lb/>diare à quell´inconueniente, che no ſeguiua con la <lb/>prima dottrina, cioè che la caduta del graue foſſe <lb/>ſempre più Orientale del perpendicolo, queſte non <lb/>ſolo non lo pongono paſſar il perpendicolo verſo <lb/>Oriente, ma nè meno mai arriuar ad eſſo, &amp; </s>
+  <s xml:id="echoid-s905" xml:space="preserve">eſſer <lb/>ſempre più Occidentale. </s>
+  <s xml:id="echoid-s906" xml:space="preserve">Horsù non mi pare, che nè <lb/>anco queſte nuoue dottrine del Sig. </s>
+  <s xml:id="echoid-s907" xml:space="preserve">Borelli mi hab-<lb/>bino da rimuouere dalla mia antica opinione. </s>
+  <s xml:id="echoid-s908" xml:space="preserve">Io <lb/>credo, che ſe ſi moueſſe la Terra, come in realtà non <lb/>ſi muoue, con la reuolution diurna, che il graue par-<lb/>ticiparebbe quel moto con quella velocità che con-<lb/>ueniſſe al luogo nel quale ſi trouaſſe, mentre non tut-<lb/>ti li luoghi di queſto gran globo ſi mouerebbero con <lb/>la medeſima velocità. </s>
+  <s xml:id="echoid-s909" xml:space="preserve">Queſto moto del graue non <lb/>ſarebbe ſuo proprio, ma in eſſo per participatione, e <lb/>reſpetiuamente al centro; </s>
+  <s xml:id="echoid-s910" xml:space="preserve">e quando vna coſa ſi muo-<lb/>ue così, ſeguita al più le leggi di quello del quale <lb/>partecipa. </s>
+  <s xml:id="echoid-s911" xml:space="preserve">Queſto è il mio parere, che mi pare <lb/>molto bene fondato ſopra le leggi della natura, ene <lb/>potrei addure molte coſe à ciò confacenti ſe non,
+<pb o="46" file="0058" n="58"/>
+remeſſi inſaſtidire loro Signori, &amp; </s>
+  <s xml:id="echoid-s912" xml:space="preserve">inquietarmi più <lb/>di quello ſono. </s>
+  <s xml:id="echoid-s913" xml:space="preserve">Seguiti in gratia Sig. </s>
+  <s xml:id="echoid-s914" xml:space="preserve">Conte à legge-<lb/>re il reſto, e con preſtezza, perche la mia teſta non <lb/>può più ſtar ſalda, &amp; </s>
+  <s xml:id="echoid-s915" xml:space="preserve">è ſouerchiamente inſiam-<lb/>mata.</s>
+  <s xml:id="echoid-s916" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s917" xml:space="preserve">Cont. </s>
+  <s xml:id="echoid-s918" xml:space="preserve">Se così è potiamo tralaſciare tutto il rima-<lb/>nente, perche non contiene coſa che n´habbia da da-<lb/>re alcun faſtidio. </s>
+  <s xml:id="echoid-s919" xml:space="preserve">E già che l´hora è tarda, e per la-<lb/>ſciarla quietai<unsure/>c@e prender ripoſo li leuaremo total-<lb/>mente il tedio, &amp; </s>
+  <s xml:id="echoid-s920" xml:space="preserve">anderemo à fare altre noſtre facen-<lb/>de.</s>
+  <s xml:id="echoid-s921" xml:space="preserve"/>
+</p>
+<p>
+  <s xml:id="echoid-s922" xml:space="preserve">Matt. </s>
+  <s xml:id="echoid-s923" xml:space="preserve">Vadino che Dio le accompagni.</s>
+  <s xml:id="echoid-s924" xml:space="preserve"/>
+</p>
+</div>
+<div xml:id="echoid-div15" type="section" level="1" n="8">
+<head xml:id="echoid-head21" style="it" xml:space="preserve">FINE.</head>
+<pb file="0059" n="59"/>
+<pb file="0060" n="60"/>
+<pb file="0061" n="61"/>
+<pb file="0062" n="62"/>
+<pb file="0063" n="63"/>
+<handwritten/>
+<pb file="0064" n="64"/>
+
+  </div></text>
+</echo>

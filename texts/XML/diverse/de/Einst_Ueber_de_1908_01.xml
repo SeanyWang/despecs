@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Ueber_de_1908_01.tex" /> 
+<meta name="date" content="2005-03-10 17:52:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Ueber_de_1908_01.css" /> 
+</head><body >
+
+<!--l. 16--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 17--><p class="noindent">
+</p><!--l. 18--><p class="noindent"><span 
+class="cmr-12x-x-120">6. </span><span 
+class="cmbxti-10x-x-144">Über die </span> <br/><span 
+class="cmbxti-10x-x-144">im elektromagnetischen Felde auf ruhende</span>
+ <br/><span 
+class="cmbxti-10x-x-144">K</span><span 
+class="cmbxti-10x-x-144">örper ausge</span><span 
+class="cmbxti-10x-x-144">übten ponderomotorischen Kr</span><span 
+class="cmbxti-10x-x-144">äfte; </span> <br/><span 
+class="cmbxti-10x-x-144">von</span>
+<span 
+class="cmbxti-10x-x-144">A. Einstein und J. Laub.</span></p></div>
+<div class="center" >
+
+<!--l. 24--><p class="noindent">
+</p><!--l. 25--><p class="noindent">--------</p></div>
+<!--l. 28--><p class="indent">   In einer kürzlich erschienenen Abhandlung<sup ><span 
+class="cmr-8">1</span></sup>) hat Hr. Min-<br/>kowski einen Ausdruck für die auf beliebig bewegte Körper <br/>wirkenden ponderomotorischen Kräfte elektromagnetischen Ur-<br/>sprunges angegeben. Spezialisiert man die Minkowskischen <br/>Ausdrücke auf ruhende, isotrope und homogene Körper, so
+ <br/>erhält man für die <span 
+class="cmmi-12">X</span>-Komponente der auf die Volumeneinheit <br/>wirkenden Kraft:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_010x.png" alt="K   =  r G   +  q B   -  q B  ,   x        x     y  z     z  y " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 42--><p class="nopar">
+</p><!--l. 46--><p class="noindent">wobei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /> </span>die elektrische Dichte, <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /> </span>den elektrischen Leitungsstrom, <br/>G die elektrische Feldstärke, B die magnetische Induktion be-<br/>deuten. Dieser Ausdruck scheint uns aus folgenden Gründen mit <br/>dem elektronentheoretischen Bild nicht in Einklang zu stehen: <br/>Während nämlich ein von einem elektrischen Strom (Leitungs-<br/>strom) durchflossener Körper im Magnetfeld eine Kraft er-<br/>leidet, wäre dies nach Gleichung (1) nicht der Fall, wenn der <br/>im Magnetfeld befindliche Körper statt von einem Leitungs-<br/>strom von einem Polarisationsstrom <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_011x.png" alt="(@ D/@ t)"  class="left" align="middle" /> durchsetzt wird.
+ <br/>Nach Minkowski besteht also hier ein prinzipieller Unter-<br/>schied zwischen einem Verschiebungsstrom und einem Leitungs-<br/>strom derart, daß ein Leiter nicht betrachtet werden kann <br/>als ein Dielektrikum von unendlich großer Dielektrizitäts-<br/>konstante. 
+</p><!--l. 66--><p class="indent">   Angesichts dieser Sachlage schien es uns von Interesse <br/>zu sein, die ponderomotorischen Kräfte für beliebige magneti-<br/>sierbare Körper auf elektronentheoretischem Wege abzuleiten. <br/>Wir geben im folgenden eine solche Ableitung, wobei wir uns <br/>aber auf ruhende Körper beschränken.
+</p><!--l. 73--><p class="noindent">----------
+</p><!--l. 76--><p class="indent">   1) H. Minkowski, Gött. Nachr. 1908. p. 45. <pb/>
+</p><!--l. 80--><p class="indent">
+
+</p>
+<div class="center" >
+
+<!--l. 81--><p class="noindent">
+</p><!--l. 82--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>1.   Kräfte, welche nicht von Geschwindigkeiten der <br/>Elementarteilchen abhängen.</p></div>
+<!--l. 87--><p class="indent">   Wir wollen uns bei der Ableitung konsequent auf den <br/>Standpunkt der Elektronentheorie stellen<sup ><span 
+class="cmr-8">1</span></sup>); wir setzen also:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_012x.png" alt="D   =  G  +  P , " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 93--><p class="nopar"></p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_013x.png" alt="B   =  H  +  Q , " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 99--><p class="nopar">
+</p><!--l. 103--><p class="noindent">wobei P den elektrischen, Q den magnetischen Polarisations-<br/>vektor bedeutet. Die elektrische bzw. die magnetische Polari-<br/>sation denken wir uns bestehend in räumlichen Verschie-<br/>bungen von an Gleichgewichtslagen gebundenen, elektrischen
+ <br/>bzw. magnetischen Massenteilchen von Dipolen. Außerdem <br/>nehmen wir noch das Vorhandensein von nicht an Dipole ge-<br/>bundenen, beweglichen elektrischen Teilchen (Leitungselek-<br/>tronen) an. In dem Raume zwischen den genannten Teilchen <br/>mögen die Maxwellschen Gleichungen für den leeren Raum <br/>gelten, und es seien, wie bei Lorentz, <span 
+class="cmti-12">die Wechselwirkungen </span> <br/><span 
+class="cmti-12">zwischen Materie und</span>
+<span 
+class="cmti-12">elektromagnetischem Felde ausschlie</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/cmmi12-c.png" alt="b" class="cmmi-12x-x-c" align="middle" /></span><span 
+class="cmti-12">lich </span> <br/><span 
+class="cmti-12">durch diese Teilchen bedingt.</span>
+
+Dementsprechend nehmen wir an, <br/>daß die vom elektromagnetischen Felde auf das Volumenelement <br/>der Materie ausgeübten Kräfte gleich sind der Resultierenden
+ <br/>der ponderomotorischen Kräfte, welche von diesem Felde auf <br/>alle in dem betreffenden Volumenelement befindlichen elek-<br/>trischen und magnetischen Elementarteilchen ausgeübt werden. <br/>Unter Volumenelement der Materie verstehen wir stets einen <br/>so großen Raum, daß er eine sehr große Zahl von elektrischen <br/>und magnetischen Teilchen enthält. Die Grenzen eines be-<br/>trachteten Volumenelementes muß man sich ferner stets so <br/>genommen denken, daß die Grenzfläche keine elektrische bzw. <br/>magnetische Dipole schneidet.
+</p><!--l. 131--><p class="indent">   Wir berechnen zunächst diejenige auf einen elektrischen <br/>Dipol wirkende Kraft, welche daher herrührt, daß die Feld-<br/>stärke G an den Orten, an welchen sich die Elementarmassen <br/>des Dipols befinden, nicht genau dieselbe ist. Bezeichnet man
+ <br/>----------
+</p><!--l. 138--><p class="indent">   1) Der einfacheren Darstellung halber halten wir aber an der dualen
+ <br/>Behandlung der elektrischen und magnetischen Erscheinungen fest. <pb/>
+</p><!--l. 144--><p class="indent">
+
+</p><!--l. 145--><p class="noindent">mit p den Vektor des Dipolmomentes, so erhält man fült die <br/><span 
+class="cmmi-12">X</span>-Komponente der gesuchten Kraft den Ausdruck:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_014x.png" alt="         @ Gx-      @-Gx-       @-Gx- fx  = px @ x   +  py @ y  +  pz  @ z . " class="par-math-display"  /></center>
+<!--l. 155--><p class="nopar">
+</p><!--l. 158--><p class="noindent">Denkt man sich den letzten Ausdruck für alle Dipole in der <br/>Volumeneinheit gebildet und summiert, so erhält man unter <br/>Berücksichtigung der Beziehung:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_015x.png" alt=" sum 
+    p  =  P " class="par-math-display"  /></center>
+<!--l. 167--><p class="nopar"></p><!--l. 171--><p class="noindent">die Gleichung:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-5r4"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_016x.png" alt="         {   @ G          @ G         @ G  } F1 x  =   Px ----x +  Py  ---x-+  Pz  ---x-  .               @ x         @ y          @ z " class="math-display"  /></center></td><td width="5%">(4)</td></tr></table>
+<!--l. 180--><p class="nopar">
+</p><!--l. 183--><p class="indent">   Wenn die algebraische Summe der positiven und negativen <br/>Leitungselektronen nicht verschwindet, dann kommt zum Aus-<br/>druck (4) noch ein Term hinzu, den wir nun berechnen wollen. <br/>Die <span 
+class="cmmi-12">X</span>-Komponente der auf ein Leitungselektron von der elek-<br/>trischen Masse <span 
+class="cmmi-12">e </span>wirkenden ponderomotorischen Kraft ist <span 
+class="cmmi-12">eG</span><sub ><span 
+class="cmmi-8">x</span></sub>.
+ <br/>Summiert man über alle Leitungselektronen der Volumen-<br/>einheit, so erhält man:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-6r5"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_017x.png" alt="             sum 
+F2 x =   Gx     e. " class="math-display"  /></center></td><td width="5%">(5)</td></tr></table>
+<!--l. 195--><p class="nopar">
+</p><!--l. 198--><p class="noindent">Denkt man sich die betrachtete in der Volumeneinheit befind-<br/>liche Materie von einer Fläche umschlossen, welche keine <br/>Dipole schneidet, so erhält man nach dem Gaussschen Satz <br/>und nach der Definition des Verschiebungsvektors D:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_018x.png" alt=" sum 
+    e  =  divD, " class="par-math-display"  /></center>
+<!--l. 208--><p class="nopar"></p><!--l. 212--><p class="noindent">so daß</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-7r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_019x.png" alt="F2 x =  Gx div D " class="math-display"  /></center></td><td width="5%">(5a)</td></tr></table>
+<!--l. 218--><p class="nopar">
+</p><!--l. 222--><p class="noindent">wird. Die <span 
+class="cmmi-12">X</span>-Komponente der von der elektrischen Feldstärke <br/>auf die Volumeneinheit der Materie ausgeübten Kraft ist daher <br/>gleich:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-8r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0110x.png" alt="F   = F    +  F   =  P  @-Gx- +  P  @-Gx- +  P  @ Gx- +  G  divD  .  ex    1 x     2 x    x  @ x      y  @ y      z  @ z       x " class="math-display"  /></center></td><td width="5%">(6)</td></tr></table>
+<!--l. 233--><p class="nopar">
+</p><!--l. 236--><p class="noindent">Analog erhalten wir unter Berücksichtigung der Beziehung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0111x.png" alt="div B  =   0 " class="par-math-display"  /></center>
+<!--l. 243--><p class="nopar"></p><!--l. 246--><p class="noindent">für die <span 
+class="cmmi-12">X</span>-Komponente der von der magnetischen Feldstärke <br/>gelieferten Kraft:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-9r7"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0112x.png" alt="         {                                 }               @ Hx-       @-Hx-       @-Hx- Fm x =    Qx   @ x  +  Qy  @ y  +  Qz  @ z    . " class="math-display"  /></center></td><td width="5%">(7)</td></tr></table>
+<!--l. 255--><p class="nopar">
+<pb/>
+</p><!--l. 261--><p class="indent">
+
+</p><!--l. 262--><p class="indent">   Es ist zu bemerken, daß für die Herleitung der Aus-<br/>drücke (6) und (7) keinerlei Voraussetzung gemacht werden <br/>muß über die Beziehungen, welche die Feldstärken G und H <br/>mit den Polarisationsvektoren P und Q verbinden.
+</p><!--l. 268--><p class="indent">   Hat man es mit anisotropen Körpern zu tun, so liefern <br/>die elektrische bzw. die magnetische Feldstärke nicht nur eine <br/>Kraft, sondern auch Kräftepaare, welche sich auf die Materie <br/>übertragen. Das gesuchte Drehmoment ergibt sich leicht für
+ <br/>die einzelnen Dipole und Summation über alle elektrischen <br/>und magnetischen Dipole in der Volumeneinheit. Man erhält:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-10r8"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0113x.png" alt="L  =  {[P G] +  [Q H]}. " class="math-display"  /></center></td><td width="5%">(8)</td></tr></table>
+<!--l. 282--><p class="nopar">
+</p><!--l. 286--><p class="noindent">Die Formel (6) liefert diejenigen ponderomotorischen Kräfte, <br/>welche bei elektrostatischen Problemen eine Rolle spielen. <br/>Wir wollen diese Gleichung für den Fall, daß es sich um iso-<br/>trope Körper handelt, so umformen, daß sie einen Vergleich <br/>gestattet mit demjenigen Ausdrucke für die ponderomotorischen <br/>Kräfte, wie er in der Elektrostatik angegeben wird. Setzen wir
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0114x.png" alt="P  =  (e -  1) G , " class="par-math-display"  /></center>
+<!--l. 299--><p class="nopar"></p><!--l. 303--><p class="noindent">so geht die Gleichung (6) über in:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0115x.png" alt="                     1     @ e     1  @ Fex  =  Gx div D  -  --G2  --- +   ----- (e  -  1) G2.                      2     @ x     2 @ x " class="par-math-display"  /></center>
+<!--l. 313--><p class="nopar">
+</p><!--l. 317--><p class="noindent">Die ersten beiden Glieder dieses Ausdruckes sind identisch <br/>mit den aus der Elektrostatik bekannten. Das dritte Glied <br/>ist, wie man sieht, von einem Potential ableitbar. Handelt <br/>es sich um Kräfte, die auf einen im Vakuum befindlichen
+ <br/>Körper wirken, so liefert das Glied bei Integration über den <br/>Körper keinen Beitrag. handelt es sich aber um die pondero-<br/>motorische Wirkung auf 
+Flüssigkeiten, so wird der dem dritten <br/>Glied entsprechende Anteil der Kraft bei Gleichgewicht durch <br/>eine Druckverteilung in der Flüssigkeit kompensiert.
+</p>
+<div class="center" >
+
+<!--l. 332--><p class="noindent">
+</p><!--l. 333--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>2.   Kräfte, welche von den Geschwindigkeiten der <br/>Elementarteilchen abhängen.</p></div>
+<!--l. 338--><p class="indent">   Wir gehen jetzt über zu demjenigen Anteile der pondero-<br/>motorischen Kraft, welcher durch die Bewegungsgeschwindig-<br/>keiten der Elementarladungen geliefert wird. <pb/>
+</p><!--l. 345--><p class="indent">
+
+</p><!--l. 346--><p class="indent">   Wir gehen aus vom Biot-Savartschen Gesetz. Auf ein <br/>stromdurchflossenes Volumenelement, welches sich in einem <br/>magnetischen Felde befindet, wirkt erfahrungsgemäß pro Vo-<br/>lumeneinheit die Kraft:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0116x.png" alt="1- [q H] , c
+" class="par-math-display"  /></center>
+<!--l. 354--><p class="nopar">
+</p><!--l. 358--><p class="noindent">falls die betrachtete, stromdurchflossene Materie nicht magne-<br/>tisch polarisierbar ist. Für das Innere von magnetisch polari-<br/>sierbaren Körpern wurde, soviel uns bekannt ist, bis jetzt jene <br/>Kraft gleich<sup ><span 
+class="cmr-8">1</span></sup>)
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0117x.png" alt="1-[qB] c
+" class="par-math-display"  /></center>
+<!--l. 367--><p class="nopar">
+</p><!--l. 371--><p class="noindent">gesetzt, wobei B die magnetische Induktion bedeutet. Wir <br/>wollen nun zeigen, daß
+<span 
+class="cmti-12">auch </span>im Falle, daß das stromdurch-<br/>flossene Material <span 
+class="cmti-12">magnetisch polarisierbar ist</span>, die auf das strom-<br/>durchflossene Volumenelement wirkende Kraft erhalten wird,
+ <br/>wenn man zu der durch die Gleichung (7) ausgedrückten Kraft <br/>noch die Volumenkraft:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-11r9"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0118x.png" alt="       1 Fs  =  --[q H]        c " class="math-display"  /></center></td><td width="5%">(9)</td></tr></table>
+<!--l. 383--><p class="nopar">
+</p><!--l. 387--><p class="noindent">hinzufügt. Wir wollen dies zuerst an einem einfachen Bei-<br/>spiel anschaulich machen.    Der  unendlich  dünne  im  Querschnitt  gezeichnete  Streifen  <span 
+class="cmmi-12">S</span> <br/>erstrecke sich senkrecht zur Papierebene nach beiden Seiten <br/>ins Unendliche. Er bestehe 
+aus <br/>magnetisch polarisierbarem Mate-<br/>rial und befinde sich in einem <br/>homogenen Magnetfelde
+<span 
+class="cmmi-12">H</span><sub ><span 
+class="cmmi-8">a</span></sub>,  dessen  <br/>Richtung  durch  die  Pfeile (vgl. <br/>Figur) angedeutet ist. Wir fragen <br/>nach der auf den Materialstreifen wirkenden Kraft, falls der-<br/>selbe von einem Strome i durchflossen<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0119x.png" alt="PIC" class="graphics" width="136.5733pt" height="79.45125pt"  /><!--tex4ht:graphics  
+name="img/Einst_Ueber_de_1908_0119x.png" src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/Einst_Ueber_de_1908_01_001.EPS"  
+-->
+ist.
+</p><!--l. 404--><p class="indent">   Die Erfahrung lehrt, daß diese Kraft von der magnetischen <br/>Permeabilität des Leitermateriales unabhängig ist, und man <br/>schloß daraus, daß es nicht die Feldstärke H, sondern die <br/>magnetische Induktion <span 
+class="cmmi-12">B</span><sub ><span 
+class="cmmi-8">i</span></sub> sein müsse, welche für die pondero-<br/>----------
+</p><!--l. 412--><p class="indent">   1) Vgl. z. B. auch M. Abraham, Theorie der Elektrizität <span 
+class="cmbx-12">2. </span>p. 319. <br/>1905.
+<pb/>
+</p><!--l. 417--><p class="indent">
+
+</p><!--l. 418--><p class="noindent">motorische Kraft maßgebend ist, denn im Innern des Streifens <br/>ist die magnetische Induktion <span 
+class="cmmi-12">B</span><sub ><span 
+class="cmmi-8">i</span></sub> gleich der außerhalb des <br/>Streifens wirkenden Kraft <span 
+class="cmmi-12">H</span><sub ><span 
+class="cmmi-8">a</span></sub>, unabhängig von dem Werte der <br/>Permeabilität des Streifens, während die im Innern des Streifens <br/>herrschende Kraft <span 
+class="cmmi-12">H</span><sub ><span 
+class="cmmi-8">i</span></sub> bei gegebenem äußeren Felde von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" /></span> <br/>abhängt. Dieser Schluß ist aber nicht stichhaltig, weil die <br/>ins Auge gefaßte ponderomotorische Kraft nicht die einzige <br/>ist, welche auf unseren Materialstreifen wirkt. Das äußere <br/>Feld <span 
+class="cmmi-12">H</span><sub ><span 
+class="cmmi-8">a</span></sub> induziert nämlich auf der Oberseite und Unterseite <br/>des Materialstreifens magnetische Belegungen von der Dichte<sup ><span 
+class="cmr-8">1</span></sup>):
+ <br/><span 
+class="cmmi-12">H</span><sub ><span 
+class="cmmi-8">a</span></sub> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0120x.png" alt="(1 -  1/m)"  class="left" align="middle" /> <span 
+class="cmmi-12">, </span>und zwar auf der Oberseite eine negative, auf der <br/>Unterseite eine positive Belegung. Auf jede dieser Belegungen <br/>wirkt eine von dem im Streifen fließenden Strom erzeugte Kraft <br/>von der Stärke <span 
+class="cmmi-12">i</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0121x.png" alt="/"  class="left" align="middle" /> 2 <span 
+class="cmmi-12">b</span> pro Längeeinheit des Streifens<sup ><span 
+class="cmr-8">2</span></sup>), welche <br/>magnetische Kraft an der Oberseite und Unterseite verschieden <br/>gerichtet ist. Die so resultierenden ponderomotorischen Kräfte <br/>addieren sich, so daß wir die ponderomotorische Kraft erhalten:
+ <br/><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0122x.png" alt="(1 -  1/ m)"  class="left" align="middle" /> <span 
+class="cmmi-12">H</span><sub ><span 
+class="cmmi-8">a</span></sub> <span 
+class="cmmi-12">i. </span>Diese Kraft scheint bis jetzt nicht berück-<br/>sichtigt worden zu sein.
+</p><!--l. 448--><p class="indent">   Die auf die Längeeinheit unseres Streifens im ganzen aus-<br/>geübte Kraft ist nun gleich der Summe der soeben berech-<br/>neten und der auf die Volumenelemente des Streifens infolge <br/>des Stromdurchganges im Magnetfeld wirkenden Kraft <span 
+class="cmmi-12">R</span>. Da <br/>die gesamte auf die Längeeinheit wirkende ponderomotorische <br/>Kraft erfahrungsgemäß gleich <span 
+class="cmmi-12">iH</span><sub ><span 
+class="cmmi-8">a</span></sub> ist, so besteht die Gleichung:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0123x.png" alt="(        )   1 -  1-   iHa  +  R  =  iHa        m " class="par-math-display"  /></center>
+<!--l. 461--><p class="nopar">
+</p><!--l. 465--><p class="noindent">oder</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0124x.png" alt="       iHa- R  =    m   =  iHi . " class="par-math-display"  /></center>
+<!--l. 472--><p class="nopar">
+</p><!--l. 475--><p class="noindent">Man sieht also, daß für die Berechnung der ponderomotorischen <br/>Kraft <span 
+class="cmmi-12">R</span>, welche auf stromdurchflossene Volumenelemente <br/>----------
+</p><!--l. 481--><p class="indent">   1) Die Dichte ist nämlich gleich:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0125x.png" alt="                        (        ) Qi  =  Bi -  Hi  =  Ha    1 -   1-  .                                 m " class="par-math-display"  /></center>
+
+<!--l. 488--><p class="nopar">
+</p><!--l. 492--><p class="indent">   2) Statt dieser auf die Belegungen wirkenden Kräfte hätten wir <br/>streng genommen nach den Resultaten des vorigen Paragraphen aller-<br/>dings Volumenkräfte einführen müssen, was jedoch ohne Belang ist. <pb/>
+</p><!--l. 499--><p class="indent">
+
+</p><!--l. 500--><p class="noindent">wirkt, nicht die Induktion <span 
+class="cmmi-12">B</span><sub ><span 
+class="cmmi-8">i</span></sub>, sondern die Feldstärke <span 
+class="cmmi-12">H</span><sub ><span 
+class="cmmi-8">i</span></sub> maß-<br/>gebend ist.
+</p><!--l. 503--><p class="indent">   Um jeden Zweifel zu beseitigen, wollen wir noch ein Bei-<br/>spiel behandeln, aus welchem man ersieht, daß das Prinzip <br/>der Gleichheit von Wirkung und Gegenwirkung den von uns <br/>gewählten Ansatz fordert.
+</p><!--l. 508--><p class="indent">   Wir denken uns einen zylindrischen, von leerem Raum <br/>umgebenen und vom Strom <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /> </span>durchflossenen Leiter, welcher <br/>sich längs der <span 
+class="cmmi-12">X</span>-Achse eines Koordinatensystems beiderseits <br/>ins Unendliche erstreckt. Die Materialkonstanten des Leiters, <br/>sowie die im folgenden auftretenden Feldvektoren seien von <span 
+class="cmmi-12">x</span>
+ <br/>unabhängig, aber Funktionen von <span 
+class="cmmi-12">y </span>und <span 
+class="cmmi-12">z</span>. Der Leiter sei <br/>ein magnetisch harter Körper und besitze eine Magnetisierung <br/>quer zur <span 
+class="cmmi-12">X</span>-Achse. Wir nehmen an, daß ein äußeres Feld <br/>auf den Leiter nicht wirkt, daß also die magnetische Kraft H <br/>in großen Entfernungen vom Leiter verschwindet.
+</p><!--l. 521--><p class="indent">   Es ist klar, daß auf den Leiter als Ganzes keine pondero-<br/>motorische Kraft wirkt, denn es würde zu dieser Wirkung <br/>keine Gegenwirkung angebbar sein. Wir wollen nun zeigen, <br/>daß bei Wahl unseres Ansatzes jene Kraft in der Tat ver-<br/>schwindet. Die gesamte auf die Längeeinheit unseres Leiters <br/>in der Richtung der
+<span 
+class="cmmi-12">Z</span>-Achse wirkende Kraft läßt sich dar-<br/>stellen gemäß den Gleichungen (7) und (9) in der Form:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-12r10"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0126x.png" alt="       integral  (                      )         integral 
+               @ Hz-       @-Hz-            1- R  =       Qy  @ y  +   Qz  @ z   d f +     c qx Hy d f, " class="math-display"  /></center></td><td width="5%">(10)</td></tr></table>
+<!--l. 536--><p class="nopar">
+</p><!--l. 540--><p class="noindent">wobei <span 
+class="cmmi-12">df </span>ein Flächenelement der <span 
+class="cmmi-12">Y Z</span>-Ebene bedeutet. Wir <br/>nehmen an, daß sämtliche in Betracht kommende Größen an <br/>der Oberfläche des Leiters stetig sind. Wir behandeln zuerst <br/>das erste Integral der Gleichung (10). Es ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0127x.png" alt="                                                        (              ) Qy  @-Hz- +  Qz  @-Hz- =   @-Qy-Hz- +  @-Qz-Hz-  -  Hz    @ Qy-+  @-Qz-  .      @ y          @ z        @ y          @ z             @ y      @ z " class="par-math-display"  /></center>
+<!--l. 556--><p class="nopar">
+</p><!--l. 560--><p class="noindent">Setzt man die rechte Seite dieser Gleichung in unser Integral <br/>ein, so verschwinden bei Integration über die <span 
+class="cmmi-12">Y Z</span>-Ebene die <br/>beiden ersten Glieder, da die Kräfte im Unendlichen ver-<br/>schwinden. Das dritte Glied kann unter Berücksichtigung:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0128x.png" alt="div B  =   0 " class="par-math-display"  /></center>
+<!--l. 571--><p class="nopar"> <pb/>
+</p><!--l. 578--><p class="indent">
+
+</p><!--l. 579--><p class="noindent">umgeformt werden, so daß unser Integral die Form annimmt:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0129x.png" alt=" integral      (              )          @ Hy     @ Hz    Hz    ----- +  -----  df.          @ y       @ z " class="par-math-display"  /></center>
+<!--l. 586--><p class="nopar"></p><!--l. 589--><p class="noindent">Nun ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0130x.png" alt="    (               )                          2 Hz    @-Hy- +  @-Hz-   =   @-Hy-Hz--+   1-@-Hz-- -  Hy  @-Hz-.        @ y      @ z          @ y        2  @ z           @ y " class="par-math-display"  /></center>
+<!--l. 600--><p class="nopar">
+</p><!--l. 604--><p class="indent">   Bei der Integration verschwinden aber die beiden Glieder <br/><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0131x.png" alt="@-Hy-Hz-    @ y"  class="frac" align="middle" /> +  <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0132x.png" alt="1- 2"  class="frac" align="middle" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0133x.png" alt="@ Hz2-  @ z"  class="frac" align="middle" /><span 
+class="cmmi-12">.</span>
+Das Glied <span 
+class="cmsy-10x-x-120">- </span><span 
+class="cmmi-12">H</span><sub ><span 
+class="cmmi-8">y</span></sub> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0134x.png" alt="@ Hz -----  @ y"  class="frac" align="middle" /> läßt sich umformen <br/>mittels der Maxwellschen Gleichungen in:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0135x.png" alt="   1     {      @ Hy } -  --Hy   qx +  -----   ,    c             @ z " class="par-math-display"  /></center>
+<!--l. 618--><p class="nopar">
+</p><!--l. 622--><p class="noindent">so daß wir endlich die Gleichung (10) schreiben können:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0136x.png" alt="            integral     {            }            integral 
+R  =  -  1-  Hy    qx +  @-Hy-  d f +   1-  qx Hy d f          c                @ z           c             integral                         integral 
+         1-      @-Hy-           1--   @-Hy2-    =  -  c   Hy   @ z d f  =  -  2c      @ z d f. " class="par-math-display"  /></center>
+<!--l. 637--><p class="nopar">
+</p><!--l. 642--><p class="noindent">Das letzte Integral wird Null, weil im Unendlichen die Kräfte <br/>verschwinden.--
+</p><!--l. 645--><p class="indent">   Nachdem wir so die Kraft festgestellt haben, welche auf <br/>von einem Leitungsstrom durchflossene Materie wirkt, erhalten <br/>wir die Kraft, die auf einen von einem Polarisationsstrom <br/>durchsetzten Körper wirkt, indem wir beachten, daß 
+Polari-<br/>sationsstrom und Leitungsstrom in bezug auf elektrodynamische
+ <br/>Wirkung vom Standpunkt der Elektronentheorie durchaus äqui-<br/>valent sein müssen.
+</p><!--l. 654--><p class="indent">   Durch Berücksichtigung der Dualität von magnetischen <br/>und elektrischen Erscheinungen erhält man auch noch die <br/>Kraft, welche auf einen von einem magnetischen Polarisations-<br/>strom durchsetzten Körper im elektrischen Felde ausgeübt wird. <br/>Als Gesamtausdruck für diejenigen Kräfte, welche von der Ge-<br/>schwindigkeit der Elementarteilchen abhängen, erhalten wir <br/>auf diese Weise die Gleichungen:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-13r11"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0137x.png" alt="                      [      ]        [      ] Fa  =  1- [q H]  +  1-  @-P-H    +  1-  G  @ Q- .        c            c   @ t        c      @ t " class="math-display"  /></center></td><td width="5%">(11)</td></tr></table>
+<!--l. 670--><p class="nopar">
+<pb/>
+</p><!--l. 677--><p class="indent">
+
+</p>
+<div class="center" >
+
+<!--l. 678--><p class="noindent">
+</p><!--l. 679--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>3.   Gleichheit von actio und reactio.</p></div>
+<!--l. 683--><p class="indent">   Addiert man die Gleichungen (6), (7) und (11), so erhält <br/>man den Gesamtausdruck für die <span 
+class="cmmi-12">X</span>-Komponente der pro Vo-<br/>lumeneinheit auf die Materie wirkenden ponderomotorischen <br/>Kraft in der Form:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0138x.png" alt="Fx  =  Gx div D  + Px @-Gx- + Py @ Gx-+  Pz @ Gx-                        @ x        @ y       @ z                @ H        @ H         @ H           + Qx ----x + Qy ----x +  Qz ---x-                 @ x        @ y        @ z             1           1 [@ P  ]     1 [  @ Q ]           + --[q H]x +  --  ----   +  -- G ----   .             c           c   @ t  x    c     @ t x " class="par-math-display"  /></center>
+<!--l. 706--><p class="nopar">
+</p><!--l. 710--><p class="noindent">Die Gleichung kann man auch schreiben:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0139x.png" alt="                                 [       ]                   [      ]                    1           1  @ D                      1     @ B Fx  =  Gx div G +  c-[q H]x +  c- -@-t H    + Hx  divH  +  c- G  @-t-                                           x                           x             @ (Px Gx)    @ (Py Gx)    @ (Pz Gx)           + ---@-x---- + ----@ y--- + ----@ z--- 
+            @-(Qx-Hx)-   @-(Qy-Hx)-    @ (Qz-Hx)-   1--@-           +    @ x     +     @ y    +     @ z    -  c @ t [G H]x . " class="par-math-display"  /></center>
+<!--l. 735--><p class="nopar">
+</p><!--l. 739--><p class="noindent">Ersetzt man
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0140x.png" alt="  (          ) 1-  s +  @ D-    und   1-@ B- c        @ t           c @ t " class="par-math-display"  /></center>
+<!--l. 748--><p class="nopar">
+
+</p><!--l. 752--><p class="noindent">mittels der Maxwellschen Gleichungen durch curl H bzw. <br/>durch curl G, so erhält man durch eine einfache Umformung:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-14r12"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0141x.png" alt="      @ Xx     @ Xy    @ Xz     1 @ Sx Fx  = ----- +  -----+  ----- -  -2-----,        @ x     @ y      @ z     c  @ t " class="math-display"  /></center></td><td width="5%">(12)</td></tr></table>
+<!--l. 763--><p class="nopar">
+</p><!--l. 766--><p class="noindent">wobei gesetzt ist<sup ><span 
+class="cmr-8">1</span></sup>):</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-15r13"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0142x.png" alt="   Xx =  - 1 (G2 +  H2)  + Gx Dx  +  Hx Bx,            2 {  Xy =    Gx  Dy +  Hx By ,    Xz =    Gx Dz  +  Hx Bz , 
+   Sx =     c [G H]x . " class="math-display"  /></center></td><td width="5%">(13)</td></tr></table>
+<!--l. 780--><p class="nopar">
+</p><!--l. 784--><p class="noindent">----------
+</p><!--l. 787--><p class="indent">   1) Hr. Geheimrat Wien hatte die Güte, uns darauf aufmerksam zu
+ <br/>machen, daß bereits H. A. Lorentz die ponderomotorischen Kräfte für <br/>nicht magnetisierbare Körper in dieser Form angegeben hat. Enzykl. <br/>d. mathem. W. 5. p. 247. <pb/>
+</p><!--l. 795--><p class="indent">
+
+</p><!--l. 796--><p class="indent">   Entsprechende Gleichungen gelten für die beiden anderen <br/>Komponenten der ponderomotorischen Kraft.
+</p><!--l. 799--><p class="indent">   Integriert man (12) über den unendlichen Raum, so erhält <br/>man, falls im Unendlichen die Feldvektoren verschwinden, die <br/>Gleichung:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-16r14"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_01/fulltext/img/Einst_Ueber_de_1908_0143x.png" alt=" integral                 integral 
+              1        dSx    Fx dt = -  -2   d t ----.               c         dt " class="math-display"  /></center></td><td width="5%">(14)</td></tr></table>
+<!--l. 808--><p class="nopar">
+</p><!--l. 810--><p class="noindent">Sie sagt aus, daß unsere ponderomotorischen Kräfte bei Ein-<br/>führung der elektromagnetischen Bewegungsgröße dem Satz <br/>von der Gleichheit von actio und reactio genügen.
+</p><!--l. 815--><p class="indent">   Bern, 7. Mai 1908. </p>
+<div class="center" >
+
+<!--l. 816--><p class="noindent">
+</p><!--l. 817--><p class="noindent">(Eingegangen 13. Mai 1908.)</p></div>
+<div class="center" >
+
+<!--l. 822--><p class="noindent">
+</p><!--l. 823--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

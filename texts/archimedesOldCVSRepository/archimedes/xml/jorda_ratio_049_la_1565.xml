@@ -1,0 +1,350 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE archimedes SYSTEM "../dtd/archimedes.dtd" >
+
+<archimedes xmlns:xlink="http://www.w3.org/1999/xlink">      <info>
+
+	<author>Jordanus de Nemore</author>
+
+	<title>[Liber de ratione ponderis]</title>
+
+	<date>1565</date>
+
+	<place>Venice</place>
+
+	<translator/>
+
+	<lang>la</lang>
+
+	<cvs_file>jorda_ratio_049_la_1565.xml</cvs_file>
+
+	<cvs_version/>
+
+	<locator>049.xml</locator>
+</info>
+<text>
+
+
+<front>
+<section><pb xlink:href="049/01/004.jpg"/><p type="head">
+<s>IORDANI  <lb/>OPVSCVLVM  <lb/>DE PONDEROSITATE  <lb/>NICOLAI TARTALEAE  <lb/>STVDIO CORRECTVM  <lb/>NOVISQVE FIGVRIS AVCTVM. </s></p><p type="head">
+<s>CVM PRIVILEGIO. </s>
+ <lb/>
+<s>TRAIANO CVRTIO. </s></p></section>
+<section><p type="head">
+<s>VENETIIS,  <lb/>APVD CURTIVM TROIANVM. </s>
+<s>M D LXV. </s></p></section>
+</front><pb xlink:href="049/01/005.jpg"/>
+<body><pb xlink:href="049/01/006.jpg"/>
+<chap><subchap1><p>
+<s id="id.1.1.01.01">Francisco Labiae <lb/>omni virtvtvm <lb/>genere ornato. <lb/></s>
+<s id="id.1.1.01.02">Cvrtivs Troianvs S. D. <lb/></s></p><p>
+<s id="id.1.1.02.01">Non me fugit summa in expecta&shy;<lb/>tione te esse, cum optimis litera&shy;<lb/>rum studijs, qui te uehementius in&shy;<lb/>cumbat cognoscam neminem. nul<lb/>lum profecto doctrinae genus est, in <lb/>quo non uerseris, nulla disciplina, <lb/>quam non intelligere uelis, tu gram<lb/>maticorum canones, historias, et poetarum fabulas <lb/>mirifice tenes, tu rhetoricis flosculis abundas, diale&shy;<lb/>cticorum argutias scrutaris, physices arcana, et supe&shy;<lb/>riores intelligentias peruestigas, tu theologorum ab&shy;<lb/>dita petquiris, tu mathematicis, et omni denique eru<lb/>ditionis genere delectaris, quamobrem, pro mea in <lb/>te, et patrem tuum beneuolentia, propter egregiam <lb/>tuam indolem, iucundissimos mores, diuinum inge<pb xlink:href="049/01/007.jpg"/>nium, summam modestiam, tibi optimae spei adole&shy;<lb/>scenti dicare uolui hunc Iordani ingeniosi, et acuti <lb/>hominis librum de ponderibus, quem mihi suis in <lb/>fragmentis Nicolaus Tartalea familiaris meus, uir <lb/>quidem praeclaris ornatus scientijs excudendum re&shy;<lb/>liquit.  </s>
+<s id="id.1.1.02.02">Accipias igitur laeto vultu hunc in lucem edi&shy;<lb/>tum, tuoque sub nomine emissum, quandoquidem <lb/>tibi non modo iucunditati, sed etiam utilitati fore <lb/>certo scio.  </s>
+<s id="id.1.1.02.03">Vale: Non. Kalendas Feb.  </s><pb xlink:href="049/01/008.jpg"/></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.1.00.01">Prima svppositio. <lb/></s></p><p>
+<s id="id.2.1.01.01">Omnis ponderosi motum esse ad me&shy;<lb/>dium uirtutemque ipsius esse potentia ad <lb/>inferiora tendendi uirtutem ipsius, siue <lb/>potentia possumus intelligere longitu&shy;<lb/>dinem brachij librae, aut uelociter eius <lb/>quem probatur ex longitudine brachij <lb/>librae, et motui contrario resistendi.  </s>
+<s id="id.2.1.01.02">Se&shy;<lb/>cunda: Qu&oacute;d grauius est uelocius de&shy;<lb/>scendere.  </s>
+<s id="id.2.1.01.03">Tertia: Grauius esse in de&shy;<lb/>scendendo quanto eiusdem motus ad medium rectior.  </s>
+<s id="id.2.1.01.04">Quar&shy;<lb/>ta: Secundum situm grauius esse cuius in eodem situ minus obli&shy;<lb/>quus descensus.  </s>
+<s id="id.2.1.01.05">Quinta: Obliquiorem autem descensus in ea<lb/>dem quantitate minus capere de directo.  </s>
+<s id="id.2.1.01.06">Sexta: Minus graue <lb/>aliud alio secundum situm, quod descensum alterius sequitur <lb/>contrario motu.  </s>
+<s id="id.2.1.01.07">Septima: Situm aequalitatis esse aequalitatem <lb/>angulorum circa perpendiculum, siue rectitudi<lb/>nem angulorum, siue aeque distantiam regulae su<lb/>perficiei Orizontis. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.2.00.01">Quaestio Prima. <lb/></s></p><p><figure id="id.049.01.008.1.jpg" xlink:href="049/01/008/1.jpg"/>
+<s id="id.2.2.01.01">Inter quaelibet grauia est uirtutis, et ponde&shy;<lb/>ris eodem ordine sumpta proportio. <lb/></s></p><p>
+<s id="id.2.2.02.01">Sint pondera a,b,c, leuius c, descendatque a,b, in d, et <lb/>c, in e.  </s>
+<s id="id.2.2.02.02">Itaque ponatur a,b, sursum in f, et c,i,h.  </s>
+<s id="id.2.2.02.03">Di&shy;<lb/>co ergo qu&oacute;d quae proportio a,d, ad c,e, sicut a,b, pon<lb/>deris ad c pondus, quanta enim uirtus ponderosi tanta <lb/>descendendi uelocitas: at quae compositi uirtus ex uirtu<lb/>tibus componentium componuntur.  </s>
+<s id="id.2.2.02.04">Sit ergo a, aequale c. <lb/></s>
+<s id="id.2.2.02.05">Quae igitur uirtus a, eadem et, c.  </s>
+<s id="id.2.2.02.06">Sit igitur proportio a, <lb/>b, ad c, minor qu&aacute;m uirtutis ad uirtutem.  </s>
+<s id="id.2.2.02.07">Erit similiter <lb/>proportio a, b, ad a, minor proportio qu&aacute;m uirtutis a,b, <lb/>ad uirtutem a, ergo uirtutis a, b, ad uirtutem b, minor pro<lb/>portio qu&aacute;m a, b, ad b. per 30. quinti Euclidis qu&oacute;d est in<lb/>conueniens.  </s>
+<s id="id.2.2.02.08">Similium igitur ponderum minor, et maior <lb/>proportio, qu&aacute;m uirtutum.  </s>
+<s id="id.2.2.02.09">Et quia hoc inconueniens erit, <lb/>utrobique eadem ideo a, b, ad c, sicut a, d, ad c, e, et e, con<lb/>trario sicut c, b, ad a, f.<pb xlink:href="049/01/009.jpg"/></s></p></subchap1><subchap1><p>
+<s id="id.2.3.00.01">Quaestio secunda. <lb/></s></p><p><figure id="id.049.01.009.1.jpg" xlink:href="049/01/009/1.jpg"/><figure id="id.049.01.009.2.jpg" xlink:href="049/01/009/2.jpg"/>
+<s id="id.2.3.01.01">Quum aequilibris fuit positio aequalis aequis ponderibus ap&shy;<lb/>pensis ab aequalitate non discedet: et si &aacute; rectitudine separa&shy;<lb/>tur, ad aequalitatis situm reuertetur.  </s>
+<s id="id.2.3.01.02">Si uero inaequalia appen&shy;<lb/>dantur, ex parte grauioris usque ad directionem declinare co<lb/>getur.  </s></p><p>
+<s id="id.2.3.02.01">Aequilibris dicitur quando &aacute; <lb/>centro circunuolutionis bra&shy;<lb/>chia regulae sunt aequalia.  </s>
+<s id="id.2.3.02.02">Sit <lb/>ergo centrum a, et regula b, a, c, ap&shy;<lb/>pensa b, et c, perpendiculum f, a.  </s>
+<s id="id.2.3.02.03">Cir<lb/>cunducto igitur circulo per b, et c, <lb/>in medio cuius inferioris medietatis <lb/>sit e, manifestum quoniam descensus <lb/>tam b, qu&aacute;m c, e, per circunferentiam <lb/>circuli uersus e, et cum aeque obli&shy;<lb/>quus sit hinc inde descensus, quum sint <lb/>aeque ponderosa, non mutabit alter&shy;<lb/>utrum.  </s>
+<s id="id.2.3.02.04">Ponatur item qu&oacute;d submit&shy;<lb/>atur ex parte b, et ascendat ex par<lb/>te c, dico quoniam redibit ad aequali&shy;<lb/>tatem. est enim minus obliquus de&shy;<lb/>scensus a, ad aequalitatem, qu&aacute;m a, b, <lb/>uersus e.  </s>
+<s id="id.2.3.02.05">Sumantur enim sursum ar<lb/>cus aequales, quantumlibet parui qui <lb/>sint c, d, et h, b, et ductis lineis ad ae<lb/>quidistantiam aequalitatis, quae sint, <lb/>c, 2, l, et d, m, n.  </s>
+<s id="id.2.3.02.06">Item b, k, h, 6, y, t, di<lb/>mittatur orthogonaliter descendens <lb/>diametrum quae sit f, 2, m, a, k, y, e, <lb/>erit qu&oacute;d 2, m, maior k, y, quia sum&shy;<lb/>pto uersus f, arcu ex eo qu&oacute;d sit aequa<lb/>lis c, d, et ducta ex transuerso linea <lb/>x, r, s, erit r, 2, minor 2, m, qu&oacute;d facile demonstrabis.  </s>
+<s id="id.2.3.02.07">Et quia r, 2, est ae&shy;<lb/>qualis k, y, erit 2, m, maior k, y.  </s>
+<s id="id.2.3.02.08">Quia igitur quilibet arcus sub c, plus ca&shy;<lb/>piat de directo qu&aacute;m ei aequalis sub b, directo est descensus a, c, qu&aacute;m a, b, <lb/>et ideo in altiori situ grauius erit c, qu&aacute;m b, redibit ergo ad aequalitatem.<pb xlink:href="049/01/010.jpg"/>  </s>
+<s id="id.2.3.02.09">Sit item b, grauius, qu&aacute;m c, et po&shy;<lb/>nantur aequaliter, quia ergo utrobi&shy;<lb/>que est aeque obliquus descensus pa&shy;<lb/>tet, quia b, descendit.  </s>
+<s id="id.2.3.02.10">Ponatur etiam <lb/>b, inferius, ut libet, et, c, superius: di<lb/>co qu&oacute;d etiam in hoc situ erit gra&shy;<lb/>uius b, dimittant enim directae lineae <lb/>c, d, et b, h, et contingentes circulum <lb/>sint b, l, c, m, et sit arcus c, z, simi&shy;<lb/>lis, et aequalis, et in eodem situ cum <lb/>arcu b, e, quem et linea c, m, contin<lb/>get.  </s>
+<s id="id.2.3.02.11">Et quia obliquitas arcuum b, e, <lb/>uel c, z, est angulus d, c, z, et obli&shy;<lb/>quitas arcus, c, e, est in angulo <lb/>d, c, m, atque proportio anguli <lb/>d, c, z, ad angulum d, c, m, est <lb/>minor qualibet proportione, <lb/>quae est inter maiorem, et mi&shy;<lb/>norem quantitatem.  </s>
+<s id="id.2.3.02.12">Minor et <lb/>erit, qu&aacute;m pon&shy;<lb/>deris b, ad pondus t.  </s>
+<s id="id.2.3.02.13">Quomodo ergo plus ad&shy;<lb/>dat b, super c, qu&aacute;m obliquitas <lb/>super obliquitantem grauius <lb/>erit b, in hoc situ, qu&aacute;m c, hac <lb/>rationem non definet b, descen<lb/>dere, et, c, ascendere, usque f, e, q. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.4.00.01">Quaestio tertia. <lb/></s></p><p><figure id="id.049.01.010.1.jpg" xlink:href="049/01/010/1.jpg"/><figure id="id.049.01.010.2.jpg" xlink:href="049/01/010/2.jpg"/><figure id="id.049.01.010.3.jpg" xlink:href="049/01/010/3.jpg"/>
+<s id="id.2.4.01.01">Omne pondus in quam&shy;<lb/>cunque partem discedat ab <lb/>aequalitate secundum situm <lb/>fit leuius. <lb/></s></p><p>
+<s id="id.2.4.02.01">Svpra enim locum aequalita&shy;<lb/>tis duo loca signentur super, <lb/>et infra, et ab omnibus arcus <lb/>resecentur ab inferiore aequales, ut <lb/>libet parui, et qui est sub loco ae&shy;<lb/>qualitatis  plus capiet de directo.</s><pb xlink:href="049/01/011.jpg"/></p></subchap1><subchap1><p>
+<s id="id.2.5.00.01">Quaestio quarta. <lb/></s></p><p><figure id="id.049.01.011.1.jpg" xlink:href="049/01/011/1.jpg"/>
+<s id="id.2.5.01.01">Quum fuerint appensorum po&shy;<lb/>ndera aequalia, non faciet nutum <lb/>in aequilibri appendiculorum in&shy;<lb/>aequalitas. <lb/></s></p><p>
+<s id="id.2.5.02.01">Sit responsa a, b, c, centrum c, et <lb/>appendicula a, d, et b, e, longius au<lb/>tem b, e, appensa b, e, descendatque c, <lb/>z, y, orthogonaliter quantumlibet, et <lb/>ductis d, z, et e, y, aeque distantibus re&shy;<lb/>spondere, et positis centris in z, et y, <lb/>circunducantur quartae circulorum <lb/>per d, et, e.  </s>
+<s id="id.2.5.02.02">Et quoniam d, z, et e, y, <lb/>sunt aequales, erunt et quartae circu&shy;<lb/>lorum aequales. et quia per illorum <lb/>circunferentias est descensus d, et c, <lb/>quum aeque ponderosa sint d, et e, et <lb/>aeque obliquus, descensus in hoc situ <lb/>aeque grauia erunt.  </s>
+<s id="id.2.5.02.03">Non ergo nuta&shy;<lb/>bit hinc, uel inde responsa.  </s>
+<s id="id.2.5.02.04">Quod <lb/>autem per illas sit illorum descensus, <lb/>sic constet.  </s>
+<s id="id.2.5.02.05">Describatur enim semi&shy;<lb/>circulus circa centrum c, secundum <lb/>quantitatem b, et a, et dimittatur a, <lb/>in m, et b, in n, descendantque ab m, <lb/>et n, ad quartarum circunferentias <lb/>lineae m, x, et n, h, aeque distantes c, <lb/>x, dico qu&oacute;d m, x, adaequatur a, d, et <lb/>n, h, aequalis est b, e, quod patet ductis <lb/>lineis z, x, y, h.  </s>
+<s id="id.2.5.02.06">Quum ergo semper de&shy;<lb/>scendant a, et b, per hunc semicircu&shy;<lb/>lum descendunt etiam d, et e, per de<lb/>scriptas quartas, et hoc fuit demon&shy;<lb/>strandum.  </s></p></subchap1><subchap1><p>
+<s id="id.2.6.00.01">Quaestio quinta. <lb/></s></p><p><figure id="id.049.01.011.2.jpg" xlink:href="049/01/011/2.jpg"/>
+<s id="id.2.6.01.01">Si brachia librae fuerint inae&shy;<lb/>qualia, aequalibus appensis ex <lb/>parte longiore nutum faciet. </s><pb xlink:href="049/01/012.jpg"/><figure id="id.049.01.012.1.jpg" xlink:href="049/01/012/1.jpg"/></p><p>
+<s id="id.2.6.02.01">Sit responsa a, c, b, et sit a, c, longior <lb/>qu&aacute;m c, b. dico qu&oacute;d appensis aequa&shy;<lb/>libus ponderibus, quae sint a, et b.  </s>
+<s id="id.2.6.02.02">de <lb/>clinabit ex parte a, dimissa enim perpen <lb/>diculari c, f, b, circinentur duae quartae cir <lb/>culorum circa centrum c, quae sint a, b, et <lb/>b, f, et eductis contingentibus ab a, et b, <lb/>quae sint a, e.  </s>
+<s id="id.2.6.02.03">et b, d, palam est minorem <lb/>esse angulum e, a, b, contingentiae, qu&aacute;m <lb/>d, b, f, et ideo minor obliquus descensus <lb/>per a, b, qu&aacute;m per b, f. grauius ergo a, <lb/>qu&aacute;m b, in hoc situ. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.7.00.01">Quaestio sexta. <lb/></s></p><p><figure id="id.049.01.012.2.jpg" xlink:href="049/01/012/2.jpg"/>
+<s id="id.2.7.01.01">Si fuerint brachia librae pro<lb/>portionalia ponderibus appe<lb/>nsorum ita, ut in breuiori grau&shy;<lb/>iter appendatur, aeque gra&shy;<lb/>uia erunt secundum situm ap&shy;<lb/>pensa. <lb/></s></p><p><figure id="id.049.01.012.3.jpg" xlink:href="049/01/012/3.jpg"/><figure id="id.049.01.012.4.jpg" xlink:href="049/01/012/4.jpg"/>
+<s id="id.2.7.02.01">Sit ut prius regula a, c, b, appensa <lb/>a, et b, sitque proportio b, ad a, tam<lb/>quam a, c, ad bc. dico qu&oacute;d non <lb/>nutabit in aliqua parte librae. </s>
+<s id="id.2.7.02.02">sit enim <lb/>ut ex parte b, descendat, transeatque <lb/>in obliquum linea d, c, e, loco a, c, b, et <lb/>appensa d, ut a, et e, ut b, et d, b, linea orthogonaliter descendat, et e, h, <lb/>ascendat.  </s>
+<s id="id.2.7.02.03">palam quoniam trianguli d, c, b, et e, c, h, sunt similes, quia pro<lb/>portio d, c, ad c, e, qu&aacute;m d, b, ad e, h, atque d, c, ad c, e, sicut b, ad a, ergo d, b, <lb/>ad e, h, sicut b, ad a, sit igitur c, l, aequalis c, b, et c, e, et l, aequatur b, in pon<pb xlink:href="049/01/013.jpg"/>dere, et descendat perpendiculum l, m, quia l, m, et e, h, constant esse ae&shy;<lb/>quales, erit d, b, ad l, m, sicut b, ad a, est sicut l, ad a, sed ut ostensum est a, <lb/>et l, proportionaliter se habent ad contrarios motus alternatim.  </s>
+<s id="id.2.7.02.04">Quod igi<lb/>tur sufficiet attollere a, in d, sufficiet attollere l, secundum l, m.  </s>
+<s id="id.2.7.02.05">Quum er<lb/>go aequalia sint l, et b, et l, c, aequale c, b, l, non sequitur b, contrario motu, <lb/>neque a, sequitur b, secundum qu&oacute;d proponitur. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.8.00.01">Quaestio settima. <lb/></s></p><p><figure id="id.049.01.013.1.jpg" xlink:href="049/01/013/1.jpg"/><figure id="id.049.01.013.2.jpg" xlink:href="049/01/013/2.jpg"/>
+<s id="id.2.8.01.01">Si duo oblonga per totum similia, et quantitate, et ponde&shy;<lb/>re aequalia appendantur ita, ut in alterum dirigatur, alterum <lb/>orthogonaliter dependeat, ita etiam, ut termini dependentis <lb/>et medii alterius eadem sit a centro distantia, secundum nunc <lb/>situm aeque grauia fient. <lb/></s></p><p><figure id="id.049.01.013.3.jpg" xlink:href="049/01/013/3.jpg"/>
+<s id="id.2.8.02.01">Sint termini regula a, et b, centrum c, ut appensa qui<lb/>dem dirigitur secundum situm.  </s>
+<s id="id.2.8.02.02">Resp. ad aequedistan&shy;<lb/>tia orizontis sit, adde medium eius d, et alterum de&shy;<lb/>pendes b, 6,. </s>
+<s id="id.2.8.02.03">fit tunc b, c, sitque b, c, tamquam c, a, d.  </s>
+<s id="id.2.8.02.04">Dico qu&oacute;d&shy;<lb/>a, d, c, et b, 6, in hoc situ aeque grauiora sunt.  </s>
+<s id="id.2.8.02.05">Ad huius <lb/>euidentiam dicimus, qu&oacute;d si responsa ex parte a, sit ut c,&shy;<lb/>e, et appendantur in a, et e, duo pondera aequalia, sicut <lb/>z, et y, et duplum utriusque appendatur ad b, quod sit <lb/>x, l, erit etiam in hoc situ x, l, tanquam z, et y, in pondere.  </s>
+<s id="id.2.8.02.06">Sint enim x, et <lb/>l, dimidia eius eritque pondus eius, x, ad pondus z, tanquam b, c, ad c, e, per <lb/>praemissam, et commune pondus l, ad pondus y, in hoc situ, sicut ab b, c, ad <lb/>c, a, itaque erit x, l, ad z, et y, in hoc situ, sicut ad e, c, et a, c, duplum a, b, et <lb/>quia duplum b, c, est, ut c, a, et c, e, erit x, l, aequale z, et y, in pondere in <lb/>hoc situ, hac ratione, quoniam omnes partes b, 6, pondere sunt aequales, et <lb/>in hoc situ, et quaelibet duae partes a, d, e, aequaliter a, d, distantes sunt in pon<pb xlink:href="049/01/014.jpg"/>dere aequales duabus aequis partibus b, 6. sequitur ut to&shy;<lb/>tum toti. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.9.00.01">Quaestio ottaua. <lb/></s></p><p><figure id="id.049.01.014.1.jpg" xlink:href="049/01/014/1.jpg"/>
+<s id="id.2.9.01.01">Si inaequalia fuerint brachia librae, et in cen&shy;<lb/>tro motus angulum fecerint: si termini eorum <lb/>ad directionem hinc inde aequaliter accesserint: <lb/>aequalia appensa in hac dispositione aequaliter <lb/>ponderabunt. <lb/></s></p><p><figure id="id.049.01.014.2.jpg" xlink:href="049/01/014/2.jpg"/><figure id="id.049.01.014.3.jpg" xlink:href="049/01/014/3.jpg"/>
+<s id="id.2.9.02.01">Sit centrum c, brachia a, c, longius <lb/>b, c, breuius, et descendat perpen<lb/>diculariter c, e, 6. </s>
+<s id="id.2.9.02.02">supra quam per&shy;<lb/>pendiculariter cadant hinc, inde a, 6. <lb/></s>
+<s id="id.2.9.02.03"> et b, e, aequales.  </s>
+<s id="id.2.9.02.04">Quum sint ergo ae&shy;<lb/>qualia appensa a, c, b, ab hac positio&shy;<lb/>ne non mutabuntur, pertranseant enim <lb/>aequaliter a, 6, et b, e, ad k, et z, et <lb/>super eas fiant portiones circulorum <lb/>m ,b, h, z, k, x, a, l, et circa centrum <lb/>c, fiat commune proportio k, y, a, f, <lb/>similis, et aequalis portionis m , b, h, z, <lb/>et sint arcus a, x, a, l, aequales sibi at&shy;<lb/>que similes arcubus b, m, b, h. Itemque <lb/>a, y, a, f.  </s>
+<s id="id.2.9.02.05"> si ergo ponderosius est a, quam <lb/>b, in hoc situ descendat a, in x, et a&shy;<lb/>scendat b, in m, ducantur igitur lineae <lb/>z, m, k, x, y, k, f, l, et m, p, super z, b, <lb/>stet perpendiculariter etiam x, e, et <lb/>f, d, super k, a, d, et quia m, p, aequa&shy;<lb/>tur f, d, et ipsa est maior x, t, per si&shy;<lb/>miles triangulos erunt m, p, maior <lb/>x, t, quia plus ascendit b, ad rectitu&shy;<lb/>dinem, quam a, descendit.  </s>
+<s id="id.2.9.02.06"> quod est <lb/>impossibile, quum sint aequalia: desce<lb/>ndat ratione b, in h, et trahat a, in l, <lb/>et cadant perpendiculariter h, 2, super b, z, et l, n, et y, o, super n, m, fiet <lb/>l, n, maior y, o, et ideo maior, h, r, vnde similiter colligitur impossibile.  </s>
+<s id="id.2.9.02.07">Ad <lb/>maiorem autem euidentiam describamus aliam figuram, hoc modo. <pb xlink:href="049/01/015.jpg"/></s><figure id="id.049.01.015.1.jpg" xlink:href="049/01/015/1.jpg"/><figure id="id.049.01.015.2.jpg" xlink:href="049/01/015/2.jpg"/>
+<s id="id.2.9.02.08">Esto linea recta i, k, e, n, z, et circa centrum c, hinc inde duo semicirculi y, <lb/>a, e, z, k, b, d, n, et transeat lineae aequedistantes &aacute; diametro a,f,e, et b, l, <lb/>d, directequeque perpendiculares hinc inde fiant aequales ut b, l, et e, f, pertra&shy;<lb/>ctis recte lineis e, b, c, a, d, c, e, positio qu&oacute;d pondera sint aequalia m, a, b, d, <lb/>e, f, in hoc situ aeque ponderosa erunt.  </s>
+<s id="id.2.9.02.09">Ducte enim lineae b, a, b, x, f, b, e, d, <lb/>a, d, f, d, e, omnes secabuntur per aequalia apud diametrum, veluti b, x, f, <lb/>et ita omnes diuisae erunt per medium. quare ergo in medio omnium sint <lb/>centra posita, sicut sunt pondera posita aequaliter, ergo ponderant: subti&shy;<lb/>lius tamen quaedam differentia potest perpendi: ut sit a, ponderosius qu&aacute;m <lb/>b, et b, qu&aacute;m f, et f, qu&aacute;m d, et d, qu&aacute;m e, nec tamen potest d, eleuare e, <lb/>statim enim proportio lineae d, e, uersus e, fieret maior, sed e, potest nutu facto <lb/>trahere b, et b, similiter a, et d, a, et a, d, et b, f, et f, b. </s>
+<s id="id.2.9.02.10">donec circumuo&shy;<lb/>luta dependeant ut sit angulus supra centrum, sub ipso enim motu b, infe&shy;<lb/>rius crescet semper pars lineae b, a, uersus b, et fiat b, grauius. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.10.00.01">Quaestio nona. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.10.01.01">Aequalitas declinationis identitatis ponderis. <lb/></s></p><p>
+<s id="id.2.10.02.01">Declinationis aequalitas tantum in uia recta conseruatur, et ipsa sit <lb/>in linea a, b, et recte descendens linea sit a, c, sintque in a, b, duo loca <lb/>d, et e.  </s>
+<s id="id.2.10.02.02">Sive ergo &aacute; d, descendat quodlibet pondus, siue ab e, eiusdem <lb/>ponderis erit, aequales enim partes sub d, et, c, sumptae aequaliter capiunt <lb/>de directo, quod patet ductis perpendicularibus ad a, c, a, b, eisdem locis <lb/>quae sint e, f, h, 6. l, et dimissis orthogonaliter super illas d, k, et e, m, li&shy;<lb/>neas, vnde siue excedatur pondus supra a, b, siue simul ponatur vnius pon<lb/>deris est.<pb xlink:href="049/01/016.jpg"/>  </s></p></subchap1><subchap1><p>
+<s id="id.2.11.00.01">Quaestio decima. <lb/></s></p></subchap1></chap><chap><subchap1><p><figure id="id.049.01.016.1.jpg" xlink:href="049/01/016/1.jpg"/></p></subchap1><subchap1><p>
+<s id="id.2.11.01.01">Si per diuersarum obliquitatum uias duo pondera descen&shy;<lb/>dant, fiantque declinationum, et ponderum vna proportio, eo&shy;<lb/>dem ordine sumpta vna erit utriusque uirtus in descendendo. <lb/></s></p><p>
+<s id="id.2.11.02.01">Sit linea a, b, c, aequedistans orizonti, et super <lb/>eam orthogonaliter erecta sit b, d, &aacute; qua descen<lb/>dant hinc, inde lineae d, a, d, c, sitque d, c, maioris <lb/>obliquitatis proportione igitur declinationum dico <lb/>non angulorum, sed linearum usque ad aequedistan<lb/>tem resecationem, in qua aequaliter sumunt de dire<lb/>cto.  </s>
+<s id="id.2.11.02.02">Sit ergo e, pondus super d, c, et h, super d, a, et <lb/>sit e, ad b, sicut d, c, ad a, d.  </s>
+<s id="id.2.11.02.03">Dico ea pondera esse vni&shy;<lb/>us uirtutis in hoc situ, sit enim d, k, linea vnius ob&shy;<lb/>liquitatis, cum d, c, et pondus super eam. </s>
+<s id="id.2.11.02.04">ergo aequa<lb/>le est e, quae sit 6.  </s>
+<s id="id.2.11.02.05">Si igitur possibile est, descendat e, <lb/>in l, et trahat h, in m, sitque 6, n, aequale h, m, quod <lb/>etiam aequale est e, l, et transeat per 6. et h, perpen<lb/>dicularis, super d, b.  </s>
+<s id="id.2.11.02.06">Sitque 6, h, y, et ab 1, sit l, t, sunt <lb/>et tunc super 6, h, y, n, z, m, x, et super l, t, erit e, r, <lb/>quia igitur proportio n, z, ad n, 6, sicut ad d, 6, d, y, <lb/>propter similitudinem triangulorum, et ideo sicut <lb/>d, b, ad d, k, et quia similiter m, x, ad m, h, sicut d, <lb/>b, ad d, a.  </s>
+<s id="id.2.11.02.07">Erit propter aequalem proportionalitatem per<lb/>turbata m, x, ad n, z, sicut d, k, ad d, a, et hoc est <lb/>sicut 6, ad h, sed quia r, e, non sufficit attollere 6, in <lb/>n, nec sufficiet attollere m, in m, sic ergo manebunt. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.12.00.01">Quaestio vndecima. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.12.01.01">Quum sit responsa libre vnius ponderis, <lb/>et grossiciei per totum: et ipsa in pondere <lb/>data super inaequalia diuidatur, atque ex <lb/>parte breuiore dependeat aequabiliter pon&shy;<lb/>dus datum, erunt et portiones, et regulae, <lb/>quae sunt a centro examinis similiter datae. <lb/></s></p><p>
+<s id="id.2.12.02.01">Sit responsa a, b, c, data in pondere, et aequalis in grossicie, et dependeat<pb xlink:href="049/01/017.jpg"/><figure id="id.049.01.017.1.jpg" xlink:href="049/01/017/1.jpg"/> ex parte c, pondus b, datum, sitque b, e, <lb/>aequalis b, c, et in medio a ,e, notetur <lb/>z, &aacute; quo dependeat pondus h, aequa&shy;<lb/>le a, e, et in eo etiam situ aeque pon&shy;<lb/>derabit.  </s>
+<s id="id.2.12.02.02">Quia ergo in hoc situ aeque <lb/>ponderant h, et d, eritque proportio d, <lb/>ad h, ea z, b. </s>
+<s id="id.2.12.02.03">ad b, c, et permutatim <lb/>quae proportio d, ad z, b, ea est a, e, <lb/>hoc est h, ad b, c, et coniunctim quae <lb/>proportio d, et dupli z, b, hoc est a, c, <lb/>ad z, b, ea est a, e, et dupli b, c, hoc est <lb/>e, c, ad b, c.  </s>
+<s id="id.2.12.02.04">Si ergo tota a, b, c, ducatur <lb/>in suum dimidium, et perductum diui<lb/>datur per d, et a, c, quod totum est da<lb/>tum, exibit b, c,. datum. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.13.00.01">Quaestio duodecima. <lb/></s></p></subchap1></chap><chap><subchap1><p><figure id="id.049.01.017.2.jpg" xlink:href="049/01/017/2.jpg"/></p></subchap1><subchap1><p>
+<s id="id.2.13.01.01">Quod si portiones datae fue&shy;<lb/>rint, et pondus datum erit. <lb/></s></p><p>
+<s id="id.2.13.02.01">Cum enim ut praemissum est d, <lb/>pondus cum tota a, c, sit ad eius <lb/>dimidium, sicut tota a, c, ad b, <lb/>c. cum sint a, b, et b, c, datae, si ducatur <lb/>a, c, in suum dimidium, ut prius, et pro<lb/>ductum diuidatur per b, c, exibit pon<lb/>dus d, et tota a, c, detracta ergo a, c, <lb/>relinquitur pondus d, datum. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.14.00.01">Quaestio tertiadecima. <lb/></s></p></subchap1></chap><chap><subchap1><p><figure id="id.049.01.017.3.jpg" xlink:href="049/01/017/3.jpg"/></p></subchap1><subchap1><p>
+<s id="id.2.14.01.01">Si uero pondus datum fue&shy;<lb/>rit, et pars cui appenditur da&shy;<lb/>ta, totum quoque datum erit. <lb/></s></p><p>
+<s id="id.2.14.02.01">Verbi gratia d, pondus datum <lb/>sit, et b, c, portio data.  </s></p><p>
+<s id="id.2.14.03.01">Quia <lb/>igitur d, ad h, siue ad e, a, sicut <lb/>z, b, ad b, e, erit, qu&oacute;d ex ductu d, in c,<pb xlink:href="049/01/018.jpg"/><figure id="id.049.01.018.1.jpg" xlink:href="049/01/018/1.jpg"/> b, aequale ei, quod ex ductu a, e in b, z.  </s>
+<s id="id.2.14.03.02">er<lb/>go quod ex ductu d, in c, b, bis aequale ei <lb/>quod ex ductu a, e, in z, b, bis, et hoc est <lb/>in totum a, c, ergo quod es d, in c, b, bis <lb/>cum quadrato e, b, est aequale ei, quod ex <lb/>a, e.  </s>
+<s id="id.2.14.03.03">in a, c, cum quadrato c, b, sed quod <lb/>ex a, e, in a, c, cum quadrato c, b, ualent <lb/>quadratum a, b, per primam, et quartam <lb/>secundi Euclidis, in materijs igitur quod <lb/>ex ductu d, in c, b, bis cum quadrato c, b, <lb/>ualent quadratum, a, b, sed quod ex du&shy;<lb/>ctu d, in c, b, bis cum quadrato c, b, est, quoddam datum cum d, et c, b, sint <lb/>data ergo quadratum a, b, est datum: ergo eius radix, scilicet a, b, est da&shy;<lb/>ta, cum sit datum quod fit ex d, in b, c, erit et quod ex z, b, in e, a, datum. <lb/></s>
+<s id="id.2.14.03.04">quare et quod ex z, b, m, z, e, quorum cum sit differentia data, erit utrun&shy;<lb/>que eorum datum: sicque tota a, b, c. data hoc opus est, ut ei quod fit ex d, <lb/>in b, c, bis addatur quadratum b, c, et compositi radix erit a, b.  </s>
+<s id="id.2.14.03.05">In hac non <lb/>ponderandi ratione hic incidunt generalia, scilicet qu&oacute;d quadratum d, c, b, <lb/>est tanquam quadratum d, et quadratum b, a.  </s>
+<s id="id.2.14.03.06">Quod enim fit ex d, in c, b, <lb/>bis est quadratum, quod ex tota c, a, in ea, quare ex d, in c, b, bis cum qua&shy;<lb/>drato c, b, est quantum quadratum b, a.  </s>
+<s id="id.2.14.03.07">Quadratum ergo d, c, b, ut quadra&shy;<lb/>ta d, et b, a, amplius quod fit ex d, c, h, in c, b. bis est, ut quadratum c, b, <lb/>et quadratum b, a, quod enim fit ex d, in c, b, bis cum quadrato c, b, est, ut qua&shy;<lb/>dratum b, a, quare quod est d, in c, b, bis cum quadrato c, b, bis et hoc est <lb/>quod fit ex d, c, b, in c, b, bis erit, ut quadrata b, a, et b, c. amplius quadratum <lb/>d, c, b, et quod fit ex d, c, b, in c, b, a, bis est, ut quadrata c, b, a, et d, b, a, erit <lb/>h, quadratum d, c, b, et quod fit bis ex d, c, b, in c, b, tamqu&aacute;m quadrata d, <lb/>et b, a, et b, a, et b, e, et tunc fit bis, ex d, c, b, in b, a, est ut quod est, d, at&shy;<lb/>que c, b, in b, a, bis, et sic patet, quod dicitur. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.15.00.01">Quaestio quartadecima. <lb/></s></p><p>
+<s id="id.2.15.01.01">Quod si pondus datum sit, et pars opposita, data similiter o&shy;<lb/>mnia data erunt. <lb/></s></p><p>
+<s id="id.2.15.02.01">Eadem ubique depositio, et d, atque b, a, data sunt, et quadrata eo<lb/>rum coniuncta data erunt, quae sunt, ut quadratum d, c, b, cuius radix <lb/>quae est d, c, b, data erit. </s>
+<s id="id.2.15.02.02">dempto ergo d, relinquitur c, b, datum, et sic <lb/>ota a, b, c, data erit.<pb xlink:href="049/01/019.jpg"/></s></p></subchap1><subchap1><p>
+<s id="id.2.16.00.01">Quaestio quintadecima. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.16.01.01">Si responsa dati fuerit ponderis, et pondus appensum cum <lb/>parte, in qua dependet fecerit quod datum, utrunque eorum <lb/>datum erit. <lb/></s></p><p>
+<s id="id.2.16.02.01"><figure id="id.049.01.019.1.jpg" xlink:href="049/01/019/1.jpg"/>Erit enim datum quadratum d, c, b, cum eo quod fit ex ipso in c, b, a, <lb/>b, a, bis. de quibus dempto quadrato a, b, c, relinquitur quadratum d, b, a, <lb/>datum erit ergo d, b, a, datur et ipsius ad d, c, b, differentiam da<lb/>ta, quae est differentia a, b, ad b, c, sicque <lb/>utrunque erit datum.  </s>
+<s id="id.2.16.02.02">Et similiter d, <lb/>eadem ratione, si data a, b, c, fuerit d, <lb/>b, a, datur erunt omnia data: quia <lb/>enim quadrata a, b, c, et d, b, a, sunt, <lb/>ut quadratum d, b, c, et quod fit ex <lb/>ipso in a, b, c, bis, erit quadratum d, a, <lb/>b, cum duplo quadrati a, b, c, tanquam <lb/>quadratum compositi ex a, b, c, et d, <lb/>b, c, quod cum sit datum, et a, b, c, da<lb/>tum erit, et d, b, c, datum, sicque ut prius <lb/>b, a, et b, c, et d, data amplius scilicet d, c, <lb/>b, et d, b, a, data non autem a, b, c, erit <lb/>quoque et ipsa data, et singula da&shy;<lb/>ta, quum sit enim quadratum d, b, c, <lb/>ut quadratum d, et quadratum b, a, <lb/>detracto eo de quadrato d, b, a. relinquitur, quod fit ex d, in b, a, bis datum, <lb/>quare utrunque datum. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.17.00.01">Quaestio sextadecima. <lb/></s></p><p>
+<s id="id.2.17.01.01">Si brachia librae fuerint data pondere, et breuius in duo se&shy;<lb/>cetur similiter data, et a sectione pondus dependeat quod li&shy;<lb/>bram inaequalitate componat, ipsum quoque datum esse de&shy;<lb/>monstrabitur. <lb/></s></p><p>
+<s id="id.2.17.02.01">Sint brachia librae ut prius a, b, longius b, c, breuius quod secetur in e, de<lb/>pendeatque pondus d, quod libram inaequalitate conseruet, dependeat au<lb/>tem et a, quum pondus h, quidem operetur.  </s>
+<s id="id.2.17.02.02">Quia igitur tam h, qu&aacute;m <lb/>d, cum c, b, ponderat ut b, a, dempto b, c, aequale erit  d, in pondere ad h, in<pb xlink:href="049/01/020.jpg"/> hoc situ.  </s>
+<s id="id.2.17.02.03"> sicut igitur b, c, ad b, e, et d, ad h. </s>
+<s id="id.2.17.02.04">quumque sit h, datum, et d, datum <lb/>erit.  </s>
+<s id="id.2.17.02.05">Amplius et si d, datum esset, atque c, e, et c, b, data fierent b, a, et a, c, <lb/>data.  </s>
+<s id="id.2.17.02.06">Sicut etiam b, c, ad b, e, et d, ad h, in eadem proportione. </s>
+<s id="id.2.17.02.07">quare h, datum <lb/>ob hoc etiam b, a, data erit.  </s>
+<s id="id.2.17.02.08">Similiter ratione, si d, pondus fuerit datum, et <lb/>a, b. </s>
+<s id="id.2.17.02.09">et b, c, data erunt b, e, et, c, e, data. </s>
+<s id="id.2.17.02.10">quia enim a, b, et b, c, data sunt, <lb/>erit et h, datum. </s>
+<s id="id.2.17.02.11">atque sicut d, ad h, ita c, b, ad b, e, quare b, e, datum erit. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.18.00.01">Quaestio decimaseptima. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.18.01.01">Quod si a breuiore duo dependeant pondera, alterum ter&shy;<lb/>mino, alterum a sectione, quae regulam in aequedistantiam con<lb/>seruent, compositumque ex ipsis datum sit singulis Responsae se<lb/>ctionibus existentibus datis, utroque appensorum data erunt. <lb/></s></p><p>
+<s id="id.2.18.02.01"><figure id="id.049.01.020.1.jpg" xlink:href="049/01/020/1.jpg"/>Int ut solent brachia librae data <lb/>a, b, b, c, et sectiones datae b, e, e, c, <lb/>et ponderantia h, et d, sitque y. <lb/></s>
+<s id="id.2.18.02.02">aequale d, ut sit totum h, y, datum. </s>
+<s id="id.2.18.02.03">sit <lb/>tunc t, pondus, quod dependens a, c, <lb/>aequalitatem faciat, cuius ad h, y, dif<lb/>ferentia data sit z, et quia t, est in <lb/>pondere, ut h, d, h,y, erit maius pon&shy;<lb/>dere quam h, et d, quantum est z, <lb/>ergo y tantum est pondere, quantum <lb/>d, et z, sed y, ad d, in pondere est, si<lb/>cut b, c, ad b, e, ergo y, ad z, sicut b, c, <lb/>ad e, c, et quia z, datum erit, et y, da<lb/>tum similiter.  </s>
+<s id="id.2.18.02.04"> hoc amplius si h, et d, <lb/>data, atque c, e, et e, b, erit et b, a, da<lb/>tum. quia enim t, ad z. sicut b, e, ad c, <lb/>e, erit z, datum.  </s>
+<s id="id.2.18.02.05">Sitque t, atque a, b, <lb/>data.  </s>
+<s id="id.2.18.02.06">Amplius si h, et d, data, rationeque a, b, et b, c, erunt b, e, et e,c, data. <lb/>quia enim a, b, et b, c, data erit t, datum. et ob hoc z, et quia b, c, ad c, e, <lb/>sic d, ad z, erit c, e, datum.  </s>
+<s id="id.2.18.02.07">Amplius simili de causa si b, a, et b, c, data at&shy;<lb/>que b, e, et c, e. sitque d, datum, siue h, siue differentia eorum, siue propor&shy;<lb/>tio, omnia data erunt. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.19.00.01">Quaestio decimaoctaua. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.19.01.01">Si sectiones librae sunt adinuicem datae, pondusque datum in<pb xlink:href="049/01/021.jpg"/> termine breuioris, siue in sectione dependens, uel etiam duo pon<lb/>dera data alterum in termino, alterum insectione appensa, re&shy;<lb/>gulam in aequedistantiam constituant, ipsa quoque in pondere <lb/>data erit. <lb/></s></p><p>
+<s id="id.2.19.02.01"><figure id="id.049.01.021.1.jpg" xlink:href="049/01/021/1.jpg"/>Esto ut prius regula a, b, c, sitque <lb/>a, b, ad c, b, datur in proportio&shy;<lb/>ne appendaturque pondus d, ela<lb/>tum aequabiliter ex parte c, duo ergo <lb/>a, b, c, datam esse in pondere.  </s>
+<s id="id.2.19.02.02">Ponatur <lb/>enim ipsa alicuius noti ponderis quod <lb/>diuidatur secundum proportionem a, <lb/>b, a, d, et c, b, ponaturque maius a, b, <lb/>et minus e, b, et secundum hoc inue&shy;<lb/>nietur pondus d. </s>
+<s id="id.2.19.02.03">sicut ergo se habet pon<lb/>dus d, prius sumptum ad posterius sum<lb/>ptum, ita se habebit pondus a, b, c, ad <lb/>pondus positum.  </s>
+<s id="id.2.19.02.04">Si enim maius, uel <lb/>minus, et t, similiter maius, uel minus <lb/>qu&aacute;m positum est, erit qu&oacute;d si, d, in e <lb/>dependeat, et data sit c, b, ad e, b, da<lb/>tum erit, et t, aequaliter pendens a, c, <lb/>qu&oacute;d si d, et h, data sint, similiter et <lb/>t, datum erit. quod quoniam datum <lb/>est, datum erit  pondus a, b, c.</s>
+<s id="id.2.19.02.05">Commen<lb/>tum respicit prius schema praecedentis <lb/>propositionis. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.20.00.01"><figure id="id.049.01.021.2.jpg" xlink:href="049/01/021/2.jpg"/>Quaestio decimanona. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.20.01.01">Si responsa dati ponderis per <lb/>inaequalia diuidatur, et alter mi<lb/>nus ipsius data pondera appen<lb/>dantur, quae in aequalitate con&shy;<lb/>sistant, brachia quoque librae a <lb/>centro, examinis data erunt. <lb/></s></p><p>
+<s id="id.2.20.02.01">Verbi gratia, dependeat ex a pon<lb/>dus d, et a, c, pondus utrunque <lb/>et sit b, z, aequalis b, c, et diui<pb xlink:href="049/01/022.jpg"/>so z. a, per aequalia apud t, descendat h, y, quod similiter in pondere respon&shy;<lb/>deat e, sitque y, tanquam a, t, z. eritque proportio e, ad h. y, sicut c, b, ad b, c, <lb/>et permutatim e, ad c. sicut y, h. siue h, cum a, z, ad b, c. quare sicut e, cum <lb/>c, b, ad c, b, ita h, cum b, a. ad b, c.  </s>
+<s id="id.2.20.02.02">Itemque h, ad d, sicut a, b. ad c, h. erit ad a, <lb/>b, sicut d, ad c, b.  </s>
+<s id="id.2.20.02.03">Itaque d, et c ,b, ad c, b, sicut h, et a, b.  </s>
+<s id="id.2.20.02.04">Igitur e, cum c, b, <lb/>ad d. sicut cum c, b, sicut a, b, ad b, c, et coniunctim sicut e, d, cum a, b, c, aeque <lb/>quae est dupla c, b, ad d, cum c, b,.  </s>
+<s id="id.2.20.02.05">Ita tota a, b, c, ad a, b, c.  </s>
+<s id="id.2.20.02.06">Si ergo a, b, c, duca&shy;<lb/>tur in d, et c, b, perductum diuidatur per d, e, et a, b, c, simul exibit b, c, da&shy;<lb/>ta.  </s>
+<s id="id.2.20.02.07">Amplius si data a, b, c, fuerint a, b. et b, c, datae, et totum d, e, datum, <lb/>et d, et c. erit datum.  </s>
+<s id="id.2.20.02.08">Amplius si illis datis fuerint, uel d, uel e, datum, <lb/>erit reliquum datum.  </s>
+<s id="id.2.20.02.09">Amplius si d, et e, data sint, et proportio a, b, et b, c, <lb/>data, erit tota a, b, c, data.  </s>
+<s id="id.2.20.02.10">Quia enim e, cum c, b, est data ad d. cum c, b, quon<lb/>iam sicut a, b, ad b, c, et quia d, et e. data sunt, erit et c, b. atque a, b, c, to<lb/>ta data.  </s>
+<s id="id.2.20.02.11">Amplius si datum a, b, et b, c, fuerit proportio e, ad d. data erit, <lb/>utrunque eorum datum. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.21.00.01">Quaestio vigesima. <lb/></s></p><p>
+<s id="id.2.21.01.01"><figure id="id.049.01.022.1.jpg" xlink:href="049/01/022/1.jpg"/>Si uero a sectione unius bra&shy;<lb/>chii pondus datum appendatur, <lb/>quod alicui dato, et a termino <lb/>alterius dependenti in ponde&shy;<lb/>re aequentur altera sectionum li<lb/>brae data, reliqua data erit. <lb/></s></p><p>
+<s id="id.2.21.02.01">Haec habentur ex praemissa, <lb/>quia mutua est inter pondera, <lb/>et remotiones proportio.  </s>
+<s id="id.2.21.02.02">Di<lb/>uisiones quoque huius plures sunt ue&shy;<lb/>luti in praemissa. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.22.00.01">Quaestio uigesimaprima. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.22.01.01">Quod si a termino, et a sectio<lb/>ne unius brachii duo pondera <lb/>data dependeant, quae tertio in <lb/>termino alterius in aequalitate <lb/>respondeant sectionibus regulae <lb/>datis, illud tertium datum erit.<pb xlink:href="049/01/023.jpg"/></s></p><p>
+<s id="id.2.22.02.01"><figure id="id.049.01.023.1.jpg" xlink:href="049/01/023/1.jpg"/>Ab a, t, quae est sectio a, b. depen<lb/>deat d, et 3. et a, c, depen&shy;<lb/>deat e, h, 1. penderetque e ut v. <lb/>et h, ut 3. et b, 1, cum b, e, quantum <lb/>a, b. eritque singulum eorum datum, <lb/>quare totum datum.  </s>
+<s id="id.2.22.02.02">Amplius si e, h, <lb/>1. datum est, proportio v. ad 3. data, <lb/>quodlibet eorum datum erit, dependeat <lb/>ex a, d, g. qu&oacute;d in pondere respondeat <lb/>ad e, h, 1. proportio igitur ad 3. data, <lb/>atque 3. ad d, quare g, ad v. quumque <lb/>g, s, sit datum, erit utrunque datum, <lb/>et 3. datum.  </s>
+<s id="id.2.22.02.03">Aliae quoque plures diuisiones intercidunt. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.23.00.01">Quaestio vigesimasecunda. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.23.01.01">Si duo pondera alterum in <lb/>termino, alterum in sectione <lb/>longioris brachii suspensa duo<lb/>bus datis ponderibus, et a ter&shy;<lb/>mino breuioris dimissis in pon&shy;<lb/>dere aequentur, locis suis alter<lb/>natis, singula eorum data erunt. <lb/></s></p><p>
+<s id="id.2.23.02.01"><figure id="id.049.01.023.2.jpg" xlink:href="049/01/023/2.jpg"/>Vt si d, ab a, et 3. </s>
+<s id="id.2.23.02.02">a, t, suspen&shy;<lb/>sa sint. </s>
+<s id="id.2.23.02.03">dimissum itaque 3. </s>
+<s id="id.2.23.02.04">ad <lb/>a, et d, a, t, respondeant h, in <lb/>i, pondere tunc sumptis aequalibus d, <lb/>et 3. </s>
+<s id="id.2.23.02.05">quae sint m, et n, pendeat m, <lb/>cum 3. </s>
+<s id="id.2.23.02.06">in t, et n, cum d, in a, ponde<lb/>rabunt simul quanto c, h, quod quum <lb/>sit datum, et d, n, aequale in 3. </s>
+<s id="id.2.23.02.07">erunt <lb/>ipsa data, sicque et d, et 3. datum erit. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.24.00.01">Quaestio vigesimatertia. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.24.01.01">Si supra regulam in perpendiculo centro motus posito quan<lb/>tumlibet pondus utralibet parte dependeat non erit possibile <lb/>illud usque ad directum centri descendere.<pb xlink:href="049/01/024.jpg"/>  </s>
+<s id="id.2.24.01.02"><figure id="id.049.01.024.1.jpg" xlink:href="049/01/024/1.jpg"/>Verbi gratia.  </s>
+<s id="id.2.24.01.03">Sit responsa a, b, <lb/>c, perpendiculum b, u, e, cen&shy;<lb/>trum d, et sit a, pondus ma&shy;<lb/>ius, qu&aacute;m c, ducantur ergo lineae d, <lb/>a, d, e, et pertranseat d, a, a, 3,. do&shy;<lb/>nec sit d, a, 3, ad d, a, tamquam a pon<lb/>dus ad c, sitque , 3, ponderet ut c. <lb/></s>
+<s id="id.2.24.01.04">Quia igitur tria pondera a, c, 3, sic <lb/>dependent in a, b, c, atque reuo&shy;<lb/>lutio eorum circa centrum d, quare <lb/>essent in lineis d, a, 3, et d, c, sed po&shy;<lb/>sitis ita ipsis tantum uellet 3, dista&shy;<lb/>re a directo d, quantum , et c, distabit <lb/>quoque et a, proportionaliter a dire<lb/>cto eiusdem non ergo ad directum <lb/>quum poterit pertingere. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.25.00.01">Quaestio uigesimaquarta. <lb/></s></p></subchap1></chap><chap><subchap1><p><figure id="id.049.01.024.2.jpg" xlink:href="049/01/024/2.jpg"/></p></subchap1><subchap1><p>
+<s id="id.2.25.01.01">Quum sit igitur distantia cen&shy;<lb/>tri a medio. Responsae ad longi<lb/>tudinem ipsius data ponderaque <lb/>appensa ad pondus regulae da<lb/>ta erit perpendiculi declina&shy;<lb/>tio data. <lb/></s></p><p>
+<s id="id.2.25.02.01">Sit regula, quae directum determi<lb/>nat h, d, l, 3, et c. ut prius, decli&shy;<lb/>netque regula ex parte a, donec <lb/>linea h, d, l, 3, secet in l, quasi ergo <lb/>centrum exanimis esset in l, sicut si&shy;<lb/>ta est. Responsa</s>
+<s id="id.2.25.02.02">quum ergo sine pon<lb/>dera data, et regula , erunt sectio<lb/>nes. Responsae quae sunt a, l, l, c, datae <lb/>quasi longitudo utriusque ad b, d, da<lb/>ta erit</s>
+<s id="id.2.25.02.03"> similiter et l, b, quia etiam <lb/>angulus l, d, b, datus erit , et est ut <lb/>angulus c, u, h, et ipsa est declina&shy;<lb/>tio perpendiculi a directo data.<pb xlink:href="049/01/025.jpg"/></s></p></subchap1><subchap1><p>
+<s id="id.2.26.00.01">Quaestio uigesimaquinta. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.26.01.01">Si uero sub regula centrum designetur, uix continget in hoc <lb/>situ stabiliri pondera. <lb/></s></p><p>
+<s id="id.2.26.02.01"><figure id="id.049.01.025.1.jpg" xlink:href="049/01/025/1.jpg"/>Sit Responsa ut prius a, b, c, et <lb/>perpendiculum d, b, e, sitque e, cen<lb/>trum sub Responsa, et pondera a, <lb/>et c, ductis igitur lineis e, a, e, c, qua<lb/>si inde ipsis, sint, sic sita sunt ponde&shy;<lb/>ra. </s>
+<s id="id.2.26.02.02">ipsius igitur in hoc situ aeque pon&shy;<lb/>derantibus si fiat qualitercunque nu&shy;<lb/>tus in alterutra partium ueluti in a, <lb/>crescet ex parte a, portio. Responsae <lb/>usque ad rectitudinem quae signetur <lb/>h, l, 3, ut sit communis sectio ipsius, et <lb/>regulae in l,</s>
+<s id="id.2.26.02.03"> sicque grauius reddetur con<lb/>tinue donec circumuoluatur regu&shy;<lb/>la sub e.  </s></p></subchap1><subchap1><p>
+<s id="id.2.27.00.01">Quaestio uigesimasexta. <lb/></s></p></subchap1></chap><chap><subchap1><p><figure id="id.049.01.025.2.jpg" xlink:href="049/01/025/2.jpg"/></p></subchap1><subchap1><p>
+<s id="id.2.27.01.01">Possibile est igitur Respon&shy;<lb/>sa aeque distantis collocata quan<lb/>tumlibet pondus in alterutra <lb/>parte suspendere, quae regulam <lb/>ab aequalitate non separet. <lb/></s></p><p>
+<s id="id.2.27.02.01">Sic regula a, b, c, centrum b, linea <lb/>directionis d, b, e, sitque Responsa <lb/>suo pondere in aequalitate sita. <lb/></s>
+<s id="id.2.27.02.02">Sumatur igitur alia Responsa aequa<lb/>lis grossiciei, et ponderis, quae sit h, t, <lb/>3, posito t, in eius medio, sitque portio <lb/>regulae h, b, in utralibet parte minor <lb/>longitudine quam sit h, t, et pendeat regula h, t, 3, ab h, fixa ut t, sit in dire<lb/>cto sub b, secta a linea directionis in t, dico ergo ipsa ita dependens non fa&shy;<lb/>ciet mutare literam, sita est enim quasi si traheretur linea b, 3, et in ipsa <lb/>linea b, h, dependeret omnesque partes eius aequaliter a, t, distantes aeque <lb/>ponderarent, distant enim aequaliter a linea directionis, quia t, 3, ponde&shy;<lb/>rant, quantum b, t, t, h, non ergo fiet nutus, sed et super hoc si quolibet pon<lb/>dus suspendatur a, t, non faciet, hinc uel inde nutum.<pb xlink:href="049/01/026.jpg"/>  </s></p></subchap1><subchap1><p>
+<s id="id.2.28.00.01">Quaestio vigesimaseptima. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.28.01.01">Quolibet ponderoso ab aequalitate ad directionem eleua&shy;<lb/>to secundum mensuram substinentis in omni positione pon&shy;<lb/>dus ipsius determinari est possibile. <lb/></s></p><p>
+<s id="id.2.28.02.01"><figure id="id.049.01.026.1.jpg" xlink:href="049/01/026/1.jpg"/><figure id="id.049.01.026.2.jpg" xlink:href="049/01/026/2.jpg"/>Sit a, b, ponderosum, et sit ubique aequa<lb/>liter ponderis situm aequaliter et fixo <lb/>b, eleuetur  in a, donec directum sit c, <lb/>b, mota a, quae suo describat quartam cir&shy;<lb/>culi ab a, in c, sitque situs aequalitatis pri&shy;<lb/>mus directionis dicatur ultimus, et quando di<lb/>uidit arcum a, c, per aequalia, sic ipsa b, d, et <lb/>situs medius, et quum eleuatum fuerit secun<lb/>dum mensurarum substinentis, sit b, e, et per&shy;<lb/>pendicularis e, l, sit pro eleuante, et sit hic <lb/>situs secundus.  </s>
+<s id="id.2.28.02.02">In situ uero .3. sit b, f, sitque <lb/>arcus f, d, aequaliter d, e, dico igitur ipsum <lb/>semper leuius fieri usque in f, aeque graue <lb/>ut in e, et inde item semper leuius usque <lb/>ad c, possibile alius leuius esse in a, quam in <lb/>d, et grauius, et aeque graue pro quanti&shy;<lb/>tate e, l, sit enim g, h, aequaliter e, l, ut or&shy;<lb/>thogonaliter erecta, donec contingat d, b, <lb/>in h, et dimittatur d, k, recte super a, b.  </s>
+<s id="id.2.28.02.03">Si <lb/>igitur g, fuerit in medio a, b, tunc g, h, ae&shy;<lb/>quum erit eius dimidio, scilicet dimidio a, <lb/>b, quia &eacute; aequale  g, b, quum sit d, b, in d, ad <lb/>pondus a, b, sicut linea b, k, ad b, a, atque <lb/>pondus eius in d, ad pondus eius in h, ut b, <lb/>g, ad b, k, quum sit b, g, ad b, k, <lb/>sicut b, k, ad b, a, quia sunt consequenter proportio&shy;<lb/>nali erit pondus d, b, in h, tanquam pon&shy;<lb/>dus a, b, quia habent eadem proportionem <lb/>ad pondus d, b, in a, quod si g, sit uersus b, <lb/>erit in h, maius pondus, quam in a, si uero <lb/>uersus a minus sit, item in u, perpendicu&shy;<lb/>laris aequaliter e, l, quia b, k, haberet ma<lb/>ior proportio ad b, g, quam ab ad b, k, et<pb xlink:href="049/01/027.jpg"/> ideo, et pondus in, h, ad pondus in d, contin<lb/>gens b, f, in e, u, m, transeatque linea e, u, <lb/>p, et ducantur perpendiculares f, r, f, x, <lb/>ad b, a, b, c.  </s>
+<s id="id.2.28.02.04"><figure id="id.049.01.027.1.jpg" xlink:href="049/01/027/1.jpg"/>Quia igitur ponderis e, b, <lb/>ad pondus f, b, ut l, b, ad r, b, siue x, b, ad <lb/>p, b, a puncta f, et e, aequedistent (ex <lb/>hypothesi) a punctis c, et a, siue a puncto <lb/>d, pondusque f, b, in u, ad pondus eius in f, <lb/>sicut f, b, ad u, b, siue r, b, ad m, b.  </s>
+<s id="id.2.28.02.05">Et quia <lb/>x, p, ad p, b, sicut r, b, ad m, b, erit pon&shy;<lb/>dus e, b, ad pondus f, b, sicut pondus f, b, <lb/>in u, pondus eius in f, tantum ergo est <lb/>pondus e, b, in e, qu&aacute;m f, b, in u, quia figu<lb/>rae, a, b, p, est similis figurae, f, r, b, c, (quod <lb/>facile probabis) et figura a, u, m, b, p, circa diametrum f, b, (per sextum Eu<lb/>clidis) erit similis eisdem.  </s>
+<s id="id.2.28.02.06">Ideo sicut b, l, ad b, r, sic b, r, ad b, m, et ideo si&shy;<lb/>cut b, e, in e, ad pondus b, f, m, f, sic erit idem pondus f, b, in u, ad idem pon&shy;<lb/>dus f, b, in f, et ideo (per quintam Euclidis) pondera e, b, in e, et b, f, in u, <lb/>erunt aequalia.  </s>
+<s id="id.2.28.02.07">Quod autem in e, sit leuius, qu&aacute;m in h, probatur quia d, <lb/>h, est longior, et est etiam d, r, maior, qu&aacute;m e, z, et angulus b, e, 3, minor <lb/>angulo u, k, z. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.29.00.01">Quaestio uigesimaoctaua. <lb/></s></p></subchap1></chap><chap><subchap1><p><figure id="id.049.01.027.2.jpg" xlink:href="049/01/027/2.jpg"/></p></subchap1><subchap1><p>
+<s id="id.2.29.01.01">Mundus non in medio descen&shy;<lb/>dens breuiorem partem secundum <lb/>proportionem longioris ad ip&shy;<lb/>sam grauitatem redditur. <lb/></s></p><p>
+<s id="id.2.29.02.01"><figure id="id.049.01.027.3.jpg" xlink:href="049/01/027/3.jpg"/><figure id="id.049.01.027.4.jpg" xlink:href="049/01/027/4.jpg"/>In, quo suspenditur sit a, b, c, et pon&shy;<lb/>dus e.  </s>
+<s id="id.2.29.02.02">Diuidatur autem e, in d, ac f, ut <lb/>sit d, ad f, sicut a, b, ad b, c.  </s>
+<s id="id.2.29.02.03">Si igitur su<lb/>spenditur d, in c, et f, in a, <lb/>tanti ponderis quodlibet eo&shy;<lb/>rum, quanti e, intellecto qu&oacute;d <lb/>in opposita, sit quasi cen&shy;<lb/>trum librae. substinentibus igi<lb/>tur in a, et c, pondus c, de&shy;<lb/>pendens a, b, erit grauitas <lb/>in a, ad grauitatem c, sicut <lb/>c, b, ad b, a.<pb xlink:href="049/01/028.jpg"/>  </s></p></subchap1><subchap1><p>
+<s id="id.2.30.00.01">Quaestio vigesimanona. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.30.01.01">Omne medium impedit motum. <lb/></s></p><p>
+<s id="id.2.30.02.01"><figure id="id.049.01.028.1.jpg" xlink:href="049/01/028/1.jpg"/><figure id="id.049.01.028.2.jpg" xlink:href="049/01/028/2.jpg"/><figure id="id.049.01.028.3.jpg" xlink:href="049/01/028/3.jpg"/>Esto qu&oacute;d mouetur a, b, quod uero occur&shy;<lb/>rit medium sit t, ponaturque c, quasi instan<lb/>tia, quae sit t, e, d.  </s>
+<s id="id.2.30.02.02">Si igitur c, nullius fuit <lb/>grauitatis si non impedit motum a, b, descenden<lb/>te quum impellatur ab ipso, cogetur descendere <lb/>et sic erit ut grauitatem habens, poterit ergo <lb/>descendens ex parte e, ad pondus ex parte d, <lb/>attollere, aeque ergo constabat a descensu suo <lb/>impellere d, quia attollens d, non impedietur a <lb/>uelocitate sua, quod est impossibile.  </s>
+<s id="id.2.30.02.03">Quod sic <lb/>ponderosum finite, si non mouetur quod ipsum <lb/>impedit, habebit eam ab aqua tenus impedire, <lb/>si mouetur, quum a, b, ipsum consequetur, erit a, <lb/>b, grauius quo uelocius sitque 3, aequale a, b, in <lb/>pondere, possibile igitur est 3, ex parte 3, po&shy;<lb/>situm motu c, descendere, et attollere ad pon&shy;<lb/>dus ex parte d, fietque tunc 3, in pondere ut c. <lb/></s>
+<s id="id.2.30.02.04">si igitur a, b, non impeditur impellendo, non <lb/>impedietur impellendo 3, similiter ergo quum <lb/>moueantur a, b, et 3. motu naturali, non im&shy;<lb/>pediuntur in attollendo d, quod totum est im&shy;<lb/>possibile. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.31.00.01">Quaestio trigesima. <lb/></s></p></subchap1></chap><chap><subchap1><p><figure id="id.049.01.028.4.jpg" xlink:href="049/01/028/4.jpg"/></p></subchap1><subchap1><p>
+<s id="id.2.31.01.01">Quo ponderosius est pro quod fit tran<lb/>situs, eo in transeundo difficilior fit de<lb/>scensus. <lb/></s></p><p>
+<s id="id.2.31.02.01">Huiuscemodi per quod fit transitus sunt <lb/>aer et aqua, et alia liquida, quod igi&shy;<lb/>tur ponderosius est ipsum sit a, b, c, quod <lb/>leuius sit d, e, f, quodque transit t, transiens au&shy;<lb/>tem per illa, offendat in b, et e.  </s>
+<s id="id.2.31.02.02">Est autem b, gra&shy;<lb/>uius, qu&aacute;m e.  </s>
+<s id="id.2.31.02.03">Quumque ad descendum impedian<pb xlink:href="049/01/029.jpg"/>tur, et ipsa quum descendere habeant, stant, pluris est grauitatis quod im<lb/>pedit b, qu&aacute;m qu&oacute;d impedit c, quia autem t, habet, eodem offendendi impe<lb/>dimento, plus offendetur in b, similiter infra b, et e, aequaliter, si sursum <lb/>pellatur, tardioris erit motus in b. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.32.00.01">Quaestio trigesimaprima. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.32.01.01">Quod maius coheret, plus substinet. <lb/></s></p><p>
+<s id="id.2.32.02.01"><figure id="id.049.01.029.1.jpg" xlink:href="049/01/029/1.jpg"/>Sit quod substinere habet a, b, c, et res de&shy;<lb/>scendens t, quae cadens offendat in b, ad hoc <lb/>ergo, ut per transeat, habet a, b, separari <lb/>a, b, c.  </s>
+<s id="id.2.32.02.02">Quo ergo cohaeret, uel plus substinebunt <lb/>t, ut non moueantur ante operationem suam, <lb/>uel si moueatur, plus habet e, a, secum trahere <lb/>coniuncta. plus ergo impedient, et ideo prius. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.33.00.01">Quaestio trigesimasecunda. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.33.01.01">In profundo magis est descensus <lb/>tardior. <lb/></s></p><p>
+<s id="id.2.33.02.01">Sit profundum a, b, g, d, lineis conclusum, et partes, per quas sit descen<lb/>sus sine e, f, k, profundior e, partes collaterales e, b, et g, quanto igitur <lb/>liquor est profundior, tanto inferiores partes plus comprimuntur, ut <lb/>e, comprimitur enim et a superioribus et iuxta se positis.  </s>
+<s id="id.2.33.02.02">Quum enim <lb/>liquida sint b, g, comprensa a superioribus nituntur undique, euadere.  </s>
+<s id="id.2.33.02.03">Coar&shy;<lb/>ctant ergo e, ita, ut si f, cederet exiret in locum superiorem.  </s>
+<s id="id.2.33.02.04">Vnde manife<lb/>stum est, qu&oacute;d non solum e, sustinet f, sed nititur contra e, t, et e, o, magis <lb/>f, contra k, minusque ideo f, repelleret k si in f, profunditas terminaretur. <lb/></s>
+<s id="id.2.33.02.05">Tunc enim solidum suppositum substineret tantum f, et non niteretur con<lb/>tra magis igitur, quum impediatur descensus k, in hoc situ qu&oacute;d si minor <lb/>esset profunditas, et e, magis impedietur. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.34.00.01">Quaestio trigesimatertia. <lb/></s></p><p>
+<s id="id.2.34.01.01">Altitudo maior minuit grauitatem. <lb/></s></p><p>
+<s id="id.2.34.02.01">Vt superiorem formam repetamus, dicimus in omni liquido quam <lb/>libet partem inferiorem a qualibet superiori grauari, ut e non so<pb xlink:href="049/01/030.jpg"/>lum ab f, et k, sed ab a, et d.  </s>
+<s id="id.2.34.02.02"><figure id="id.049.01.030.1.jpg" xlink:href="049/01/030/1.jpg"/>Quum enim non pos&shy;<lb/>sit a, descendere i b, tendit et in e, quoniam liqui<lb/>dum est similiter, et f, ab b, omni superiori graua&shy;<lb/>tur, eo qu&oacute;d amplius quanto <lb/>a, b, latius. quanto igitur plus nititur contra. k, et ideo amplius <lb/>tardabitur descensus t, tertium grauitatis minuetur. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.35.00.01">Quaestio trigesimaquarta. <lb/></s></p><p>
+<s id="id.2.35.01.01"><figure id="id.049.01.030.2.jpg" xlink:href="049/01/030/2.jpg"/>Res grauior quo amplius descendit eo <lb/>fit descendendo uelocior. <lb/></s></p><p>
+<s id="id.2.35.02.01">In aere quidem magis in aqua minus, se <lb/>habet enim aer ad omnes motus.  </s>
+<s id="id.2.35.02.02">Res igi<lb/>tur grauis descendens primo motu tra&shy;<lb/>het posteriora, et mouet proxima inferio&shy;<lb/>ra, et ipsa mota mouetur sequentia, ita ut <lb/>illa mota grauitatem descendentem impe&shy;<lb/>diat minus.  </s>
+<s id="id.2.35.02.03">Vnde grauius efficitur, et ceden<lb/>tia amplius impelli, ita ut iam non impellan<lb/>tur, sed etiam trahant.  </s>
+<s id="id.2.35.02.04">Sicque fit, ut illius gra<lb/>uitas tractu illorum adiuuatur et motus <lb/>eorum grauitate ipsius augeatur, unde et <lb/>uelocitatem illius continue multiplicare <lb/>constat. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.36.00.01">Quaestio trigesimaquinta. <lb/></s></p><p>
+<s id="id.2.36.01.01"><figure id="id.049.01.030.3.jpg" xlink:href="049/01/030/3.jpg"/>Forma ponderosi mutat uirtutem ponderis. <lb/></s></p><p>
+<s id="id.2.36.02.01">Et enim si acutum, et strictum fuit, fa<lb/>cilius pertransit, et hoc dicitur leuius <lb/>enim separat, et sic fit leuius, minori <lb/>etiam ostendit, minus quidem impeditur, et <lb/>ob hoc etiam uelocius transit e, contra si ob<lb/>tusum est.<pb xlink:href="049/01/031.jpg"/></s></p></subchap1><subchap1><p>
+<s id="id.2.37.00.01">Quaestio trigesimasexta. <lb/></s></p><p>
+<s id="id.2.37.01.01">Omne motum plus mouet. <lb/></s></p><p>
+<s id="id.2.37.02.01">Si quid ex impulsu moueatur, certum est qu&oacute;d impelletur si autem mo<lb/>tu proprio descendat, quo plus mouetur, uelocius fit, et eo pondero&shy;<lb/>sius ad quae plus impellit motum, qu&aacute;m sine motu, et quo plus moue&shy;<lb/>tur, eo amplius. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.38.00.01">Quaestio trigesimaseptima. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.38.01.01">Quod motum plus impedit plus impellitur. <lb/></s></p><p>
+<s id="id.2.38.02.01"><figure id="id.049.01.031.1.jpg" xlink:href="049/01/031/1.jpg"/>Sit quod mouetur a, et quod plus <lb/>impedit c, et quod minus b, sitque <lb/>libra u, e, f, duoque pondera z, et <lb/>t, sitque a, quasi in d, suspensum, atque <lb/>in z, ab f, dependens, quum c, impe&shy;<lb/>diat omnino motum a, et t, cum b, <lb/>patet, ergo qu&oacute;d e, t, qu&aacute;m b, minus, <lb/>ergo a, t, adiuuat c, qu&aacute;m c, b, substi&shy;<lb/>nendum a, plus ergo grauatur c, pon<lb/>dere a, qu&aacute;m b, plus ergo impellitur. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.39.00.01">Quaestio trigesimaoctaua. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.39.01.01">Et grauius rei motae, et leuitas frustrare uidentur mouen&shy;<lb/>tis uirtutem. <lb/></s></p><p>
+<s id="id.2.39.02.01">Sic mouens a, b, et quod mouetur c, adeo ergo leue potest esse c, respe&shy;<lb/>ctu uirtutis a, b, ut eam non impediat, et ita uix impelletur. </s>
+<s id="id.2.39.02.02">adeo er&shy;<lb/>go graue, quod uirtuti impellentis non cedat, uel et ideo modicum mo<lb/>uebitur, uel nihil, utrobique ergo uidetur frustrata uirtus impellentis, quia <lb/>non confert ad motum rei in rapisse uel parum. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.40.00.01">Quaestio trigesimanona. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.40.01.01">Virtutem impellentis adiuuat circumactio ipsius, e&oacute; am&shy;<lb/>plius, qu&oacute; fuit longius.<pb xlink:href="049/01/032.jpg"/>  </s></p><p>
+<s id="id.2.40.02.01"><figure id="id.049.01.032.1.jpg" xlink:href="049/01/032/1.jpg"/>Sit quod motum est a, b, c, et motum e, si <lb/>igitur impellat a, b, c, impellat e, in c, et <lb/>moueatur a minus impellet, qu&aacute;m si figa<lb/>tur a.  </s>
+<s id="id.2.40.02.02">Ponderosius est enim c, in situ aequa&shy;<lb/>litatis, qu&aacute;m si dimittatur a, ut ostensum est. <lb/></s>
+<s id="id.2.40.02.03">Manete item a, plus impelletur e, in c, qu&aacute;m <lb/>in b, quia grauius in c.  </s>
+<s id="id.2.40.02.04">Item circumactum c, <lb/>manete a, plus impellet, qu&aacute;m utroque prius <lb/>non moto. </s>
+<s id="id.2.40.02.05">quia motum plus e&oacute; etiam maius, qu&oacute; longius dicitur. </s>
+<s id="id.2.40.02.06">fixo enim <lb/>a, in centro circumacta b, et, c, describent arcus circulorum, et maiorem e. <lb/></s>
+<s id="id.2.40.02.07">Quum ergo maius pondus in c, qu&aacute;m in b, et uelocius quoque motum mul<lb/>to amplius impelletur e, in c, qu&aacute;m in b, similiter etiam circumactum e, cum <lb/>c, magis mouebitur, qu&aacute;m si c, motum prius offendat.  </s>
+<s id="id.2.40.02.08">Si iterum centrum al<lb/>terius motus sit in b, ut c, b, t, circa ea: et iterum c, b, moueatur circa b, <lb/>et augmentabitur uirtus impellendi pro duplici motu, qu&aacute;m aequali tem<lb/>pore multo maiori circumitur, feretur. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.41.00.01">Quaestio quadragesima. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.41.01.01">Quod sustentatur in terminis circa medium, citius deprimi <lb/>tur, et eo amplius si impellatur. et hoc secundum formam im&shy;<lb/>pellentis, et quantitatem ipsius fit plurimus. <lb/></s></p><p>
+<s id="id.2.41.02.01"><figure id="id.049.01.032.2.jpg" xlink:href="049/01/032/2.jpg"/>Sit quod impellatur a, b, c, ipsum <lb/>quoque si substineatur in a, et, c, <lb/>plus habebit deprimi circa b, uel <lb/>omnium substineat b, nisi continuitas <lb/>ad alia, quam quidem quandoque sub<lb/>stinet, quandoque non sufficit.  </s>
+<s id="id.2.41.02.02">omnino <lb/>etiam ex quo incipit descendere b, fit <lb/>magis ponderosum, qu&aacute;m inimus inci<lb/>pit esse pondus, in a, et c, porro, quan<lb/>to b, magis distat &aacute; terminis, magis pon<lb/>derabit, qu&aacute;m ipsa sunt in centrum librae, quoniam substentantur prae longi<lb/>tudine. </s>
+<s id="id.2.41.02.03">ergo contingit aggrauari medium, ut rumpatur antequam di&shy;<lb/>rigatur. </s>
+<s id="id.2.41.02.04">hoc autem magis contingit etiam b, impellitur, sicque duplicato <lb/>pondere citius directo continuitatis b, cum a, et, c, soluitur, atque magis sit, <lb/>si acutum fuerit impellens: magis enim impellet vnum, atque hoc etiam ut <lb/>e, soliditas continuitatis, et ponderis, et impulsui non cedant, siquae substi<pb xlink:href="049/01/033.jpg"/>nent aliquatenus cedant persequutae eo, quod impelli soluatur, quoniam me<lb/>dium semper fit grauius. </s>
+<s id="id.2.41.02.05">hoc etiam si inuentus termino substineatur, fit et <lb/>si in altero, ut in a, quoniam si impellatur in b, quoniam grauius, fiet b, non <lb/>equetur c, circunuolutionem b, et rumpetur continuitas. </s>
+<s id="id.2.41.02.06">alioquin plus <lb/>transiret c, qu&aacute;m b, quam si leuius esset minima soliditas in c, a. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.42.00.01">Quaestio quadragesimaprima. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.42.01.01">Quum medium detinetur facilius extrema curuantur. <lb/></s></p><p>
+<s id="id.2.42.02.01"><figure id="id.049.01.033.1.jpg" xlink:href="049/01/033/1.jpg"/>Sit ipsum a, b, c ,d, e, medium c, quod quum <lb/>detineatur, extrema impellantur, qu&ograve;niam <lb/>motum eorum in partem, qua impelluntur <lb/>non potest sequi, oportet curuari, quoniam dire<lb/>ctam habet solui nisi connexio soliditatis im&shy;<lb/>pediat. </s>
+<s id="id.2.42.02.02">quae quidem minus perfecit in a, qu&aacute;m <lb/>in b, et c, qu&aacute;m d, impulsa enim a, et e, quo&shy;<lb/>niam medij connexione detineri habent scilicet b, <lb/>et d, quum ipsa habilia sint ad sequendum, <lb/>quum in se non detineantur, minus impedietur <lb/>a, et e, continuitate ad c, sicque fit, ut quum ex&shy;<lb/>trema facilius cedant, in quo illis uiciuiora fa&shy;<lb/>cilius sequantur, contingat totum curuari in cir<lb/>culum. </s>
+<s id="id.2.42.02.03">quanto igitur longius a, c, e, tanto le&shy;<lb/>uius extrema curuantur in eadem ratione, qua <lb/>et remotiora &aacute; centro librae ponderosiora sunt, <lb/>quoniam maiores arcus describunt eandem quoque: et in omnem partem <lb/>magis sequentur impellentem, si non pondus ipsum impediat.  </s>
+<s id="id.2.42.02.04">Notum etiam <lb/>qu&oacute;d super hoc quidem manente c, non magis impedit pondus a, qu&aacute;m pon<lb/>dus b, impellentem b, quoque ad ipsum pondus. <lb/></s></p></subchap1><subchap1><p>
+<s id="id.2.43.00.01">Quaestio quadragesimasecunda. <lb/></s></p><p>
+<s id="id.2.43.01.01">Magis impulsum plus cohaeret. <lb/></s></p><p>
+<s id="id.2.43.02.01">Haec impulsio sit a posterioribus, quae impulsa habent anteriora per<lb/>pellere. quae quoniam pondere suo aliquatenus resistunt, habent <lb/>media constringi.  </s>
+<s id="id.2.43.02.02">Vnde quando in latus declinantur, hinc etiam con<lb/>tingit, qu&oacute;d inferiora superioribus infixa, uel depulsis infiguntur.<pb xlink:href="049/01/034.jpg"/>  </s></p></subchap1><subchap1><p>
+<s id="id.2.44.00.01">Quaestio quadragesimatertia. <lb/></s></p><p>
+<s id="id.2.44.01.01"><figure id="id.049.01.034.1.jpg" xlink:href="049/01/034/1.jpg"/>Quod partes habet cohaerentes, <lb/>si motu directe offendantur, redit <lb/>directe. <lb/></s></p><p>
+<s id="id.2.44.02.01">Hoc quidem fieri habet per medium, <lb/>in quo defertur, siue aer, siue aqua, et <lb/>propter partium raritatem sit in quo <lb/>defertur b, idest aer, siue aqua, et materiam <lb/>a, in quo offendit c.  </s>
+<s id="id.2.44.02.02">Quia ergo a, mouet b, <lb/>quum recedat a, de e, loco suo, et impellat b, <lb/>de loco suo, oportet ut ad supplendum <lb/>loca posteri.  </s>
+<s id="id.2.44.02.03">reciperetur b, vnde eodem im&shy;<lb/>pulsu et permouetur, et retorquetur eo am<lb/>plius quum offendat a, in c, quumque b, ne&shy;<lb/>queat procedere pondere imminentis constru<lb/>ctum ponderosus refertur, et cum impetus <lb/>a, refractus sit in c, et ponderet solo iam in&shy;<lb/>uitatur. </s>
+<s id="id.2.44.02.04">habet retrahi motum b, nisi pon&shy;<lb/>dus eius praeualeat, et directe. </s>
+<s id="id.2.44.02.05">quia in om&shy;<lb/>nes partes aequaliter recedit b.  </s>
+<s id="id.2.44.02.06">Raritas uero <lb/>partium hoc idem operatur, quoniam prio <lb/>res partes a, quum prius offendantur in e, <lb/>urgentur mole, et impetu posteriorum, et <lb/>cedunt in se, sicque deluso impetu redeuntes <lb/>in locum suum, alias repelluntur recedendo, <lb/>separabiles sunt partes constrictae, hinc, inde <lb/>resiliunt. <lb/></s></p><p>
+<s id="id.2.44.03.01">Si quidem aliquod quo amplius conti&shy;<lb/>nue demissum descendit, tantum in priori <lb/>perstrictus efficiatur. <lb/></s></p></subchap1></chap><chap><subchap1><p>
+<s id="id.2.44.04.01">Exitus per quod egreditur a, b, et per prima pars c, quod quum descen<pb xlink:href="049/01/035.jpg"/>derit ad f, sit e, in exitu.  </s>
+<s id="id.2.44.04.02">Item quum c, fuerit in u, fit f, e, in 3. </s>
+<s id="id.2.44.04.03">quare ergo <lb/>quo plus descenderit, ponderosius erit c, ponderosius in u, f, qu&aacute;m in a,b. <lb/></s></p><p>
+<s id="id.2.44.05.01">Quia uero dum e, peruenit in u, f, pertingit c, in 3. t, longius erit a, f, qu&aacute;m <lb/>f, 3. quia gracilius continue, quia partes uelociores, et sic tandem adrum&shy;<lb/>puntur. <lb/></s></p><p>
+<s id="id.2.44.06.01">Si res inaequalis ponderis in partem quamcunque impellantur, pars gra<lb/>uior occupabit. <lb/></s></p><p>
+<s id="id.2.44.07.01">Sit quod impellit a, b, pars grauior a.  </s>
+<s id="id.2.44.07.02">Si ergo impellatur ex parte a, et <lb/>b, impellatur, quoniam leuius est, facilius cedet pulsui. </s>
+<s id="id.2.44.07.03">quumque facilitatem <lb/>eius non sequatur a, frustrabitur quidem in se, et grauitate a, adiuuabit; <lb/>sicque totus uisus reuertetur ad a, habet ergo praecedere in suo impetu trahe<lb/>re b.  </s>
+<s id="id.2.44.07.04">Si uero b, posterius impellatur, et praecedat a, impulsum quidem b, im<lb/>pellet a, leuitas 3. attrectabitur mouendo a, et ideo prius impelletur a, quia <lb/>motum ipsius plus impedit, totoque conatu in plurium habebit trahere b, ea <lb/>finiter liber Ioradam de ratione ponderis. <lb/></s></p><p>
+<s id="id.2.44.08.01">Et sic finit.  </s></p></subchap1></chap>
+</body>
+</text>
+</archimedes>

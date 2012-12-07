@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Zural_de_1904.tex" /> 
+<meta name="date" content="2005-03-10 17:39:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Zural_de_1904.css" /> 
+</head><body >
+
+<!--l. 13--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 14--><p class="noindent">
+</p><!--l. 15--><p class="noindent"><span 
+class="cmr-12x-x-120">6. </span><span 
+class="cmbxti-10x-x-144">Zur allgemeinen molekularen Theorie </span> <br/><span 
+class="cmbxti-10x-x-144">der W</span><span 
+class="cmbxti-10x-x-144">ärme;</span>
+<span 
+class="cmbxti-10x-x-144">von A. Einstein.</span></p></div>
+<div class="center" >
+
+<!--l. 19--><p class="noindent">
+</p><!--l. 20--><p class="noindent">----------</p></div>
+<!--l. 23--><p class="indent">   Im folgenden gebe ich einige Ergänzungen zu einer letztes <br/>Jahr von mir publizierten Abhandlung.<sup ><span 
+class="cmr-8">1</span></sup>)
+</p><!--l. 26--><p class="indent">   Wenn ich von ,,allgemeiner molekularer Wärmetheorie&#8220; <br/>spreche, so meine ich damit eine Theorie, welche im wesent-<br/>lichen auf den in <span 
+class="cmsy-10x-x-120">§ </span>1 der zitierten Abhandlung genannten <br/>Voraussetzungen beruht. Ich setze jene Abhandlung als bekannt <br/>voraus, um unnütze Wiederholungen zu vermeiden, und be-<br/>diene mich der dort gebrauchten Bezeichnungen.
+</p><!--l. 34--><p class="indent">   Zuerst wird ein Ausdruck für die Entropie eines Systems <br/>abgeleitet, welcher dem von Boltzmann für ideale Gase ge-<br/>fundenen und von Planck in seiner Theorie der Strahlung <br/>vorausgesetzten vollständig analog ist. Dann wird eine ein-<br/>fache Herleitung des zweiten Hauptsatzes gegeben. Hierauf
+ <br/>wird die Bedeutung einer universellen Konstanten untersucht, <br/>welche in der allgemeinen molekularen Theorie der Wärme <br/>eine wichtige Rolle spielt. Schließlich folgt eine Anwendung <br/>der Theorie auf die Strahlung schwarzer Körper, wobei sich <br/>zwischen der erwähnten, durch die Größen der Elementar-<br/>quanta der Materie und der Elektrizität bestimmten universellen
+ <br/>Konstanten und der Größenordnung der Strahlungswellenlängen, <br/>ohne Zuhilfenahme speziellerer Hypothesen, eine höchst inter-<br/>essante Beziehung ergibt.
+</p>
+<div class="center" >
+
+<!--l. 52--><p class="noindent">
+</p><!--l. 53--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>1.   Über den Ausdruck der Entropie.</p></div>
+<!--l. 57--><p class="indent">   Für ein System, welches Energie nur in Form von Wärme <br/>aufnehmen kann, oder mit anderen Worten, für ein System, <br/>welches von anderen Systemen nicht adiabatisch beeinflußt <br/>wird, gilt zwischen der absoluten Temperatur <span 
+class="cmmi-12">T </span>und der
+ <br/>Energie <span 
+class="cmmi-12">E</span>, nach <span 
+class="cmsy-10x-x-120">§ </span>3 und <span 
+class="cmsy-10x-x-120">§ </span>4, l. c., die Gleichung:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_19040x.png" alt="     1w'(E)-   --1--- h =  2w (E)  = 4 x T , " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 68--><p class="nopar">
+</p><!--l. 71--><p class="noindent">----------
+</p><!--l. 74--><p class="indent">   1) A. Einstein, Ann. d. Phys. <span 
+class="cmbx-12">11. </span>p. 170. 1903. <pb/>
+</p><!--l. 79--><p class="indent">
+
+</p><!--l. 80--><p class="noindent">wobei <span 
+class="cmbxti-10x-x-120">x</span> eine absolute Konstante bedeutet und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-21.png" alt="w" class="12x-x-21" /> </span>(etwas ab-<br/>weichend von der zitierten Abhandlung) durch die Gleichung <br/>definiert sei:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_19041x.png" alt="              E integral +dE 
+w (E) .dE  =      d p1 ...d pn .               E " class="par-math-display"  /></center>
+<!--l. 87--><p class="nopar">
+</p><!--l. 90--><p class="noindent">Das Integral rechts ist hierbei über alle Werte der den momen-<br/>tanen Zustand des Systems vollkommen und eindeutig definieren-<br/>den Zustandsvariabeln zu erstrecken, denen Werte der Energie <br/>entsprechen, die zwischen <span 
+class="cmmi-12">E </span>und <span 
+class="cmmi-12">E </span>+ <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-e.png" alt="d" class="12x-x-e" /> E</span>
+liegen.
+</p><!--l. 97--><p class="indent">   Aus Gleichung (1) folgt:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_19042x.png" alt="      integral  d E S =    ---- = 2 x  log [w (E)].         T " class="par-math-display"  /></center>
+<!--l. 102--><p class="nopar">
+</p><!--l. 105--><p class="noindent">Der Ausdruck stellt also (unter Weglassung der willkürlichen <br/>Integrationskonstanten) die Entropie des Systems dar. Dieser <br/>Ausdruck für die Entropie eines Systems gilt übrigens keines-<br/>wegs nur für Systeme, welche nur rein thermische Zustands-<br/>änderungen erfahren, sondern auch für solche, welche beliebige <br/>adiabatische und isopyknische Zustandsänderungen durch-<br/>laufen.
+</p><!--l. 115--><p class="indent">   Der Beweis kann aus der letzten Gleichung von <span 
+class="cmsy-10x-x-120">§ </span>6, l. c., <br/>geführt werden; ich unterlasse dies, da ich hier keine An-<br/>wendung des Satzes in seiner allgemeinen Bedeutung zu machen <br/>beabsichtige.
+</p>
+<div class="center" >
+
+<!--l. 122--><p class="noindent">
+</p><!--l. 123--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>2.   Herleitung des zweiten Hauptsatzes.</p></div>
+<!--l. 126--><p class="indent">   Befindet sich ein System in einer Umgebung von be-<br/>stimmter konstanter Temperatur <span 
+class="cmmi-12">T</span><sub ><span 
+class="cmr-8">0</span></sub> und steht es mit dieser <br/>Umgebung in thermischer Wechselwirkung (,,Berührung&#8220;), so <br/>nimmt es ebenfalls erfahrungsgemäß die Temperatur <span 
+class="cmmi-12">T</span><sub ><span 
+class="cmr-8">0</span></sub> an <br/>und behält die Temperatur <span 
+class="cmmi-12">T</span><sub ><span 
+class="cmr-8">0</span></sub> für alle Zeiten bei.
+</p><!--l. 133--><p class="indent">   Nach der molekularen Theorie der Wärme gilt jedoch <br/>dieser Satz nicht streng, sondern nur mit gewisser -- wenn <br/>auch für alle der direkten Untersuchung zugänglichen Systeme <br/>mit sehr großer -- Annäherung. Hat sich vielmehr das be-<br/>trachtete System unendlich lange in der genannten Umgebung <br/>befunden, so ist die Wahrscheinlichkeit <span 
+class="cmmi-12">W </span>dafür, daß in einem <br/><pb/>
+
+</p><!--l. 143--><p class="indent">
+
+</p><!--l. 144--><p class="noindent">beliebig heransgegriffenen Zeitpunkt der Wert der Energie des <br/>Systems sichz wischen den Grenzen <span 
+class="cmmi-12">E </span>und <span 
+class="cmmi-12">E </span>+ 1 befindet (<span 
+class="cmsy-10x-x-120">§ </span>3, l c.):
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_19043x.png" alt="         - -E-- W  =  C e  2x T0 w(E) , " class="par-math-display"  /></center>
+<!--l. 151--><p class="nopar">
+</p><!--l. 155--><p class="noindent">wobei <span 
+class="cmmi-12">C </span>eine Konstante bedeutet. Dieser Wert ist für jedes <span 
+class="cmmi-12">E </span> <br/>ein von Null verschiedener, hat jedoch für ein bestimmtes <span 
+class="cmmi-12">E </span> <br/>ein Maximum und nimmt -- wenigstens für alle der direkten <br/>Untersuchung zugänglichen Systeme -- für jedes merklich <br/>größere oder kleinere <span 
+class="cmmi-12">E </span>einen sehr kleinen Wert an. Wir <br/>nennen das System ,,Wärmereservoir&#8220; und sagen kurz: obiger <br/>Ausdruck stellt die Wahrscheinlichkeit dafür dar, daß die <br/>Energie des betrachteten Wärmereservoirs in der genannten <br/>Umgebung den Wert <span 
+class="cmmi-12">E </span>hat. Nach dem Ergebnis des vorigen
+ <br/>Paragraphen kann man auch schreiben:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_19044x.png" alt="          1-(S- E-) W  =  C e 2x    T0 , " class="par-math-display"  /></center>
+<!--l. 171--><p class="nopar">
+</p><!--l. 175--><p class="noindent">wobei <span 
+class="cmmi-12">S </span>die Entropie des Wärmereservoirs bedeutet.
+</p><!--l. 178--><p class="indent">   Es mögen nun eine Anzahl Wärmereservoirs vorliegen, <br/>welche sich sämtlich in der Umgebung von der Temperatur <span 
+class="cmmi-12">T</span><sub ><span 
+class="cmr-8">0</span></sub> <br/>befinden. Die Wahrscheinlichkeit dafür, daß die Energie des <br/>ersten Reservoirs den Wert <span 
+class="cmmi-12">E</span><sub ><span 
+class="cmr-8">1</span></sub>, des zweiten den Wert <span 
+class="cmmi-12">E</span><sub ><span 
+class="cmr-8">2</span></sub><span 
+class="cmmi-12">...</span> <br/>des letzten den Wert <span 
+class="cmmi-12">E</span><sub ><span 
+class="cmmi-8">l</span></sub> besitzt, ist dann in leicht verständ-<br/>licher Bezeichnung:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_19045x.png" alt="                                      { sum l  sum lE}                                     12x  1 s--1T0 W  = W1 .W2  ...Wl = C1  .C2 ...Cle             . " class="math-display"  /></center></td><td width="5%">(a)</td></tr></table>
+<!--l. 190--><p class="nopar">
+
+</p><!--l. 194--><p class="indent">   Diese Reservoirs mögen nun in Wechselwirkung treten <br/>mit einer Maschine, wobei letztere einen Kreisprozeß durch-<br/>läuft. Bei diesem Vorgange finde weder zwischen Wärme-<br/>reservoirs und Umgebung noch zwischen Maschine und Um-<br/>gebung ein Wärmeaustausch statt. Nach dem betrachteten <br/>Vorgange seien die Energien und Entropien der Systeme:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_19046x.png" alt="E  '1, E '2 ...E l', " class="par-math-display"  /></center>
+<!--l. 205--><p class="nopar">
+</p><!--l. 209--><p class="noindent">bez.</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_19047x.png" alt="S1', S2'...S 'l " class="par-math-display"  /></center>
+<!--l. 216--><p class="nopar"> <pb/>
+</p><!--l. 223--><p class="indent">
+
+</p><!--l. 224--><p class="noindent">Dem Gesamtzustande der Wärmereservoirs, welcher durch <br/>diese Werte definiert ist, kommt die Wahrscheinlichkeit zu:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_19048x.png" alt="                      (         )                         sum l   sum lE'                     12x   s'--1T0- W '=  C1 .C2 ...Cle     1         . " class="math-display"  /></center></td><td width="5%">(b)</td></tr></table>
+<!--l. 234--><p class="nopar">
+</p><!--l. 238--><p class="indent">   Bei dem Vorgange hat sich weder der Zustand der Um-<br/>gebung noch der Zustand der Maschine geändert, da letztere <br/>einen Kreisprozeß durchlief.
+</p><!--l. 242--><p class="indent">   Nehmen wir nun an, daß nie unwahrscheinlichere Zu-<br/>stände auf wahrscheinlichere folgen, so ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_19049x.png" alt="   ' W   &gt;= W  . " class="par-math-display"  /></center>
+<!--l. 248--><p class="nopar">
+</p><!--l. 252--><p class="indent">   Es ist aber auch nach dem Energieprinzip:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190410x.png" alt=" sum  l      sum l     E =     E'.   1       1 " class="par-math-display"  /></center>
+<!--l. 257--><p class="nopar">
+</p><!--l. 260--><p class="noindent">Berücksichtigt man dies, so folgt aus Gleichungen (a) und (b):
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190411x.png" alt=" sum        sum 
+   S' &gt;=     S . " class="par-math-display"  /></center>
+<!--l. 267--><p class="nopar">
+
+</p>
+<div class="center" >
+
+<!--l. 271--><p class="noindent">
+</p><!--l. 272--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>3.   Über die Bedeutung der Konstanten <span 
+class="cmbxti-10x-x-120">x</span> in der kinetischen <br/>Atomtheorie.</p></div>
+<!--l. 278--><p class="indent">   Es werde ein physikalisches System betrachtet, dessen <br/>momentaner Zustand durch die Werte der Zustandsvariabeln
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190412x.png" alt="p1 , p2 ...pn " class="par-math-display"  /></center>
+<!--l. 284--><p class="nopar">
+</p><!--l. 288--><p class="noindent">vollständig bestimmt sei.
+</p><!--l. 291--><p class="indent">   Wenn das betrachtete System mit einem System von relativ <br/>unendlich großer Energie und der absoluten Temperatur <span 
+class="cmmi-12">T</span><sub ><span 
+class="cmr-8">0</span></sub> <br/>in ,,Berührung&#8220; steht, so ist dessen Zustandsverteilung durch <br/>die Gleichung bestimmt:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190413x.png" alt="          - 2ExT- d W  = C e     0 d p1 ...d pn . " class="par-math-display"  /></center>
+<!--l. 300--><p class="nopar">
+</p><!--l. 303--><p class="noindent">In dieser Gleichung ist <span 
+class="cmbxti-10x-x-120">x</span> eine universelle Konstante, deren <br/>Bedeutung nun untersucht werden soll.
+</p><!--l. 306--><p class="indent">   Unter Zugrundelegung der kinetischen Atomtheorie gelangt <br/>man auf folgendem, aus Boltzmanns Arbeiten über Gas-<br/>theorie geläufigen Wege zu einer Deutung dieser Konstanten.
+</p><!--l. 311--><p class="indent">   Es seien die <span 
+class="cmmi-12">p</span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub> die rechtwinkligen Koordinaten <span 
+class="cmmi-12">x</span><sub ><span 
+class="cmr-8">1</span></sub>    <span 
+class="cmmi-12">y</span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">z</span><sub ><span 
+class="cmr-8">1</span></sub>, <br/><span 
+class="cmmi-12">x</span><sub ><span 
+class="cmr-8">2</span></sub> <span 
+class="cmmi-12">y</span><sub ><span 
+class="cmr-8">2</span></sub><span 
+class="cmmi-12">...</span><span 
+class="cmmi-12">, x</span><sub ><span 
+class="cmmi-8">n</span></sub> <span 
+class="cmmi-12">y</span><sub ><span 
+class="cmmi-8">n</span></sub> <span 
+class="cmmi-12">z</span><sub ><span 
+class="cmmi-8">n</span></sub>
+und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /></span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-11.png" alt="j" class="cmmi-12x-x-11" align="middle" /></span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-10.png" alt="z" class="cmmi-12x-x-10" align="middle" /></span><sub ><span 
+class="cmr-8">1</span></sub><span 
+class="cmmi-12">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /></span><sub ><span 
+class="cmr-8">2</span></sub> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-11.png" alt="j" class="cmmi-12x-x-11" align="middle" /></span><sub ><span 
+class="cmr-8">2</span></sub> <span 
+class="cmmi-12">...</span><span 
+class="cmmi-12">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /></span><sub ><span 
+class="cmmi-8">n</span></sub> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-11.png" alt="j" class="cmmi-12x-x-11" align="middle" /></span><sub ><span 
+class="cmmi-8">n</span></sub> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-10.png" alt="z" class="cmmi-12x-x-10" align="middle" /></span><sub ><span 
+class="cmmi-8">n</span></sub> die Geschwindigkeiten <br/><pb/>
+</p><!--l. 318--><p class="indent">
+
+</p><!--l. 319--><p class="noindent">der einzelnen (punktförmig gedachten) Atome des Systems. <br/>Diese Zustandsvariabeln können gewählt werden, weil sie der <br/>Bedingung <span 
+class="cmex-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmex10-c-50.png" alt=" sum " class="10-120x-x-50" /></span>
+  <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /></span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub><span 
+class="cmmi-12">/<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /> p</span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub> = 0 Genüge leisten (l. c., <span 
+class="cmsy-10x-x-120">§ </span>2). Man <br/>hat dann:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190414x.png" alt="                    sum n mn E = P (x1 ...zn) +    --- (q2n + j2n + zn2),                     1  2 " class="par-math-display"  /></center>
+<!--l. 329--><p class="nopar">
+</p><!--l. 333--><p class="noindent">wobei der erste Summand die potentielle Energie, der zweite <br/>die lebendige Kraft des Systems bezeichnet. Sei nun ein <br/>unendlich kleines Gebiet <span 
+class="cmmi-12">dx</span><sub ><span 
+class="cmr-8">1</span></sub><span 
+class="cmmi-12">...</span><span 
+class="cmmi-12">dz</span><sub ><span 
+class="cmmi-8">n</span></sub> gegeben. Wir finden <br/>den Mittelwert der Größe
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190415x.png" alt="mn- (q2n + j2n + z2n),  2 " class="par-math-display"  /></center>
+<!--l. 341--><p class="nopar">
+</p><!--l. 345--><p class="noindent">welcher diesem Gebiete entspricht:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190416x.png" alt="--   ----------------- Ln =  m- (q2n + j2n + z2n)       2 " class="par-math-display"  /></center>
+<!--l. 353--><p class="nopar"></p>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190417x.png" alt="                                             n sum  m      (P-x1...zn)            integral  m                  1-2n(q2n+j2n+z2n)   e-   4xT0  d x1...d zn   --n (q2n + j2n + z2n) e   2xT0     d q1...d zn = -------------------------2-------- sum -------------------------------             - (P-x1...zn)            integral   --mn2 (q2n+j2n+z2n)            e   4xT0  dx1 ...d zn   e     2xT0      dq1...d zn " class="math-display"  /></center>
+<!--l. 363--><p class="nopar">
+</p>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190418x.png" alt="     + integral  oo 
+            2  mnq2n         mn qn e4xT0 dqn     - oo 
+= 3 --- integral + oo ------------= 3 x T0.             mnq2n           e 4xT0 d qn        - oo 
+" class="math-display"  /></center>
+<!--l. 370--><p class="nopar">
+</p><!--l. 373--><p class="noindent">Diese Größe ist also unabhängig von der Wahl des Gebietes <br/>und von der Wahl des Atoms, ist also überhaupt der Mittel-<br/>wert des Atoms bei der absoluten Temperatur <span 
+class="cmmi-12">T</span><sub ><span 
+class="cmr-8">0</span></sub>. Die Größe 3 <span 
+class="cmbxti-10x-x-120">x</span> <br/>ist gleich dem Quotienten aus der mittleren lebendigen Kraft <br/>eines Atoms in die absolute Temperatur.<sup ><span 
+class="cmr-8">1</span></sup>)
+</p><!--l. 378--><p class="indent">   Die Konstante <span 
+class="cmbxti-10x-x-120">x</span> ist ferner aufs engste verknüpft mit der <br/>Anzahl <span 
+class="cmmi-12">N </span>der wirklichen Moleküle, welche in einem Molekül <br/>----------
+</p><!--l. 382--><p class="indent">   1) Vgl. L. Boltzmann, Vorl. über Gastheorie <span 
+class="cmbx-12">2. </span><span 
+class="cmsy-10x-x-120">§ </span>42. 1898. <pb/>
+</p><!--l. 387--><p class="indent">
+
+</p><!--l. 388--><p class="noindent">im Sinne des Chemikers (Äquivalentgewicht bezogen auf 1 g <br/>Wasserstoff als Einheit) enthalten sind.
+</p><!--l. 391--><p class="indent">   Liege nämlich eine solche Quantität eines idealen Gases <br/>vor, so ist bekanntlich, wenn Gramm und Zentimeter als Ein-<br/>heiten benutzt werden
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190419x.png" alt="                                    7 p v = R T,    wobei    R =  8,31 .10 . " class="par-math-display"  /></center>
+<!--l. 398--><p class="nopar">
+</p><!--l. 401--><p class="noindent">Nach der kinetischen Gastheorie ist aber:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190420x.png" alt="p v = 2N L-,       3 " class="par-math-display"  /></center>
+<!--l. 407--><p class="nopar">
+</p><!--l. 411--><p class="noindent">wobei <span class="overline"><span 
+class="cmmi-12">L</span></span> den Mittelwert der lebendigen Kraft der Schwerpunkts-<br/>bewegung eines Moleküles bedeutet. Berücksichtigt man <br/>noch, daß
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190421x.png" alt="L-=  L-,       n " class="par-math-display"  /></center>
+<!--l. 418--><p class="nopar">
+</p><!--l. 420--><p class="noindent">so erhält man:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190422x.png" alt="N.2  x = R . " class="par-math-display"  /></center>
+<!--l. 425--><p class="nopar">
+</p><!--l. 428--><p class="noindent">Die Konstante 2 <span 
+class="cmbxti-10x-x-120">x</span> ist also gleich dem Quotienten der Kon-<br/>stanten <span 
+class="cmmi-12">R </span>in Anzahl der in einem Äquivalent enthaltenen <br/>Moleküle.
+</p><!--l. 431--><p class="indent">   Setzt man mit O. E. Meyer <span 
+class="cmmi-12">N </span>= 6<span 
+class="cmmi-12">, </span>4 <span 
+class="cmmi-12">. </span>10<sup ><span 
+class="cmr-8">23</span></sup><span 
+class="cmmi-12">, </span>so erhält <br/>man <span 
+class="cmbxti-10x-x-120">x</span> = 6<span 
+class="cmmi-12">, </span>5 <span 
+class="cmmi-12">. </span>10<sup ><span 
+class="cmsy-8">-</span><span 
+class="cmr-8">17</span></sup><span 
+class="cmmi-12">.</span>
+</p>
+<div class="center" >
+
+<!--l. 435--><p class="noindent">
+</p><!--l. 436--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>4.   Allgemeine Bedeutung der Konstanten <span 
+class="cmbxti-10x-x-120">x</span>.</p></div>
+<!--l. 440--><p class="indent">   Ein gegebenes System berühre ein System von relativ <br/>unendlich großer Energie und der Temperatur <span 
+class="cmmi-12">T. </span>Die Wahr-<br/>scheinlichkeit <span 
+class="cmmi-12">dW </span>dafür, daß der Wert seiner Energie in einem <br/>beliebig herausgegriffenen Zeitpunkte zwischen <span 
+class="cmmi-12">E </span>und <span 
+class="cmmi-12">E </span>+ <span 
+class="cmmi-12">dE</span>
+
+ <br/>liegt, ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190423x.png" alt="            -E- d W  = C e- 2xT wE  dE . " class="par-math-display"  /></center>
+<!--l. 450--><p class="nopar">
+</p><!--l. 453--><p class="noindent">Für den Mittelwert <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190424x.png" alt="E"  class="bar"  /> von <span 
+class="cmmi-12">E </span>erhält man:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190425x.png" alt="      oo  integral 
+E =    C E  e-2ExT w E dE  . 
+     0 " class="par-math-display"  /></center>
+<!--l. 458--><p class="nopar">
+</p><!--l. 461--><p class="noindent">Da ferner
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190426x.png" alt="     integral  oo 
+1 =    C e- 2ExT w E d E , 
+     0 " class="par-math-display"  /></center>
+<!--l. 467--><p class="nopar"> <pb/>
+</p><!--l. 474--><p class="indent">
+
+</p><!--l. 475--><p class="noindent">so ist
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190427x.png" alt=" integral  oo            E    (E - E) e- 2xT w(E) d E =  0. 
+0 " class="par-math-display"  /></center>
+<!--l. 481--><p class="nopar">
+</p><!--l. 484--><p class="noindent">Differenziert man diese Gleichung nach <span 
+class="cmmi-12">T</span>, so erhält man:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190428x.png" alt=" integral  oo  (                     )           2 d-E           2   - 2ExT     2 x T  d T + E  E - E    e      wE  dE  = 0. 0
+" class="par-math-display"  /></center>
+<!--l. 492--><p class="nopar">
+</p><!--l. 495--><p class="noindent">Diese Gleichung besagt, daß der Mittelwert der Klammer ver-<br/>schwindet, also:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190429x.png" alt="     2 dE      2 2 x T  ----= E   - E E .        dT " class="par-math-display"  /></center>
+<!--l. 502--><p class="nopar">
+</p><!--l. 505--><p class="noindent">Im allgemeinen unterscheidet sich der Momentanwert <span 
+class="cmmi-12">E </span>der <br/>Energie von <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190430x.png" alt="E"  class="bar"  />
+um eine gewisse Größe, welche wir ,,Energie-<br/>schwankung&#8220; nennen; wir setzen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190431x.png" alt="E  = E +  e. " class="par-math-display"  /></center>
+<!--l. 513--><p class="nopar">
+</p><!--l. 516--><p class="noindent">Man erhält dann</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190432x.png" alt="   2         --        2 d E E   - E E  = e2 = 2 x T  ----.                          d T " class="par-math-display"  /></center>
+<!--l. 523--><p class="nopar">
+</p><!--l. 526--><p class="noindent">Die Größe <span class="overline"><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span><sup ><span 
+class="cmr-8">2</span></sup></span> ist ein Maß für die thermische Stabilität des <br/>Systems; je größer <span class="overline"><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span><sup ><span 
+class="cmr-8">2</span></sup></span>, 
+desto kleiner diese Stabilität.
+</p><!--l. 532--><p class="indent">   Die absolute Konstante <span 
+class="cmbxti-10x-x-120">x</span> bestimmt also die thermische <br/>Stabilität der Systeme. Die zuletzt gefundene Beziehung ist <br/>darum interessant, weil in derselben keine Größe mehr vor-<br/>kommt, welche an die der Theorie zugrunde liegenden An-<br/>nahmen erinnert.
+</p><!--l. 536--><p class="indent">   Durch wiederholtes Differenzieren kann man ohne Schwierig-<br/>keit die Größen
+<span class="overline"><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span><sup ><span 
+class="cmr-8">3</span></sup></span>, <span class="overline"><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span><sup ><span 
+class="cmr-8">4</span></sup></span> etc. berechnen.
+</p>
+<div class="center" >
+
+<!--l. 542--><p class="noindent">
+</p><!--l. 543--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>5.   Anwendung auf die Strahlung.</p></div>
+<!--l. 547--><p class="indent">   Die zuletzt gefundene Gleichung würde eine exakte Be-<br/>stimmung der universellen Konstanten <span 
+class="cmbxti-10x-x-120">x</span> zulassen, wenn es <br/>möglich wäre, den Mittelwert des Quadrates der Energie-<br/>schwankung eines Systems zu bestimmen; dies ist jedoch bei <br/>dem gegenwärtigen Stande unseres Wissens nicht der Fall.
+ <br/><pb/>
+</p><!--l. 553--><p class="indent">
+
+</p><!--l. 554--><p class="noindent">Wir können überhaupt nur bei einer einzigen Art physi-<br/>kalischer Systeme aus der Erfahrung vermuten, daß ihnen eine <br/>Energieschwankung zukomme; es ist dies der mit Temperatur-<br/>strahlung erfüllte leere Raum.
+</p><!--l. 561--><p class="indent">   Ist nämlich ein mit Temperaturstrahlung erfüllter Raum <br/>von Lineardimensionen, welche sehr groß gegen die Wellen-<br/>länge ist, der das Energiemaximum der Strahlung bei der be-<br/>treffenden Temperatur zukommt, so wird offenbar der Betrag <br/>der Energieschwankung im Mittel im Vergleich zur mittleren
+ <br/>Strahlungsenergie dieses Raumes sehr klein sein. Wenn da-<br/>gegen der Strahlungsraum von der Größenordnung jener <br/>Wellenlänge ist, so wird die Energieschwankung von derselben <br/>Größenordnung sein, wie die Energie der Strahlung des <br/>Strahlungsraumes.
+</p><!--l. 573--><p class="indent">   Es ist allerdings einzuwenden, daß wir nicht behaupten <br/>können, daß ein Strahlungs<span 
+class="cmti-12">raum </span>als ein <span 
+class="cmti-12">System </span>von der von <br/>uns vorausgesetzten Art zu betrachten sei, auch dann nicht, <br/>wenn die Anwendbarkeit der allgemeinen molekularen Theorie <br/>zugestanden wird. Vielleicht müßte man zum Beispiel die
+ <br/>Grenzen des Raumes als mit den elektromagnetischen Zu-<br/>ständen desselben veränderlich annehmen. Diese Umstände <br/>kommen indessen hier, wo es sich nur um Größenordnungen <br/>handelt, nicht in Betracht.
+</p><!--l. 584--><p class="indent">   Setzen wir also in der im vorigen Paragraphen gefundenen <br/>Gleichung</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190433x.png" alt="-2   -2- e =  E  , " class="par-math-display"  /></center>
+<!--l. 590--><p class="nopar">
+</p><!--l. 594--><p class="noindent">und nach dem Stefan-Boltzmannschen Gesetze
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190434x.png" alt="-- E  = c vT 4, " class="par-math-display"  /></center>
+<!--l. 600--><p class="nopar">
+</p><!--l. 604--><p class="noindent">wobei <span 
+class="cmmi-12">v </span>das Volumen in cm<sup ><span 
+class="cmr-8">3</span></sup> und <span 
+class="cmmi-12">c </span>die Konstante dieses Ge-<br/>setzes bedeutet, so müssen wir für <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190435x.png" alt="3 V~ --  v"  class="root" align="middle"  /> einen Wert von der <br/>Größenordnung der Wellenlänge maximaler Strahlungsenergie <br/>erhalten, welche der betreffenden Temperatur entspricht.
+</p><!--l. 610--><p class="indent">   Man erhält:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190436x.png" alt="        V~ -x-       2 3 -- 3 V~ v-=  ----c-=  0,42-,         T       T " class="par-math-display"  /></center>
+<!--l. 615--><p class="nopar">
+
+</p><!--l. 620--><p class="noindent">wobei für <span 
+class="cmbxti-10x-x-120">x</span> der aus der kinetischen Gastheorie gefundene <br/>Wert und für <span 
+class="cmmi-12">c </span>der Wert 7,06 . 10<sup ><span 
+class="cmsy-8">-</span><span 
+class="cmr-8">15</span></sup> gesetzt ist. <pb/>
+</p><!--l. 625--><p class="indent">
+
+</p><!--l. 626--><p class="indent">   Ist <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">m</span></sub> die Wellenlänge des Energiemaximums der Strahlung, <br/>so liefert die Erfahrung:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/Einst_Zural_de_190437x.png" alt="cm =  0,293-.         T " class="par-math-display"  /></center>
+<!--l. 632--><p class="nopar">
+</p><!--l. 634--><p class="indent">   Man sieht, daß sowohl die Art der Abhängigkeit von der <br/>Temperatur als auch die Größenordnung von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zural_de_1904/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">m</span></sub> mittels der <br/>allgemeinen molekularen Theorie der Wärme richtig bestimmt <br/>werden kann, und ich glaube, daß diese Übereinstimmung bei <br/>der großen Allgemeinheit unserer Voraussetzungen nicht dem <br/>Zufall zugeschrieben werden darf.
+</p><!--l. 642--><p class="indent">   Bern, den 27. März 1904. </p>
+<div class="center" >
+
+<!--l. 643--><p class="noindent">
+</p><!--l. 644--><p class="noindent">(Eingegangen 29. März 1904.)</p></div>
+<div class="center" >
+
+<!--l. 648--><p class="noindent">
+</p><!--l. 649--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

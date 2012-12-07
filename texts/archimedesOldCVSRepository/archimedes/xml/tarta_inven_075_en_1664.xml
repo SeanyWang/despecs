@@ -1,0 +1,1510 @@
+<?xml version="1.0"?>
+<!DOCTYPE archimedes SYSTEM "../dtd/archimedes.dtd" ><archimedes>      <info>
+	<author>Tartaglia, </author>
+	<title>Invention</title>
+	<date>1664</date>
+	<place>London</place>
+	<translator>Thomas Salusbury</translator>
+	<lang>en</lang>
+	<cvs_file>tarta_inven_075_en_1664.xml</cvs_file>
+	<cvs_version></cvs_version>
+	<locator>075.xml</locator>
+</info>      <text>          <front>     
+
+<section>   <pb xlink:href="075/01/001.jpg"/>
+
+<pb xlink:href="075/01/002.jpg"/><p type="head">
+
+<s>THE <lb/>TROUBLESOME <lb/>INVENTION <lb/><emph type="italics"/>OF<emph.end type="italics"/><lb/>Nicolas Tartalea:</s></p><p type="head">
+
+<s>BEING <lb/>A Generall way to recover from the bottome of the <emph type="italics"/>Water,<emph.end type="italics"/><lb/>any <emph type="italics"/>SHIP<emph.end type="italics"/> that's <emph type="italics"/>Sunke,<emph.end type="italics"/> Or any other <emph type="italics"/>Ponderous Ma&longs;&longs;e,<emph.end type="italics"/> though <lb/>it were a <emph type="italics"/>Solid TOWER of Metal.<emph.end type="italics"/></s></p><p type="head">
+
+<s><emph type="italics"/>TOGETHER WITH<emph.end type="italics"/><lb/>An Artificiall way of DIVING, and &longs;taying a long <lb/>time under <emph type="italics"/>Water,<emph.end type="italics"/> to &longs;eeke any thing <emph type="italics"/>Sunke<emph.end type="italics"/> in the <lb/>greate&longs;t <emph type="italics"/>DEPTHS.<emph.end type="italics"/></s></p><p type="head">
+
+<s><emph type="italics"/>AS ALSO, <lb/>A SVPPLEMENT,<emph.end type="italics"/> Shewing a <lb/>Generall and Secure Way to <emph type="italics"/>Grapple, &amp;c.<emph.end type="italics"/> any <lb/><emph type="italics"/>Submerged SHIP.<emph.end type="italics"/></s></p><p type="head">
+
+<s>Engli&longs;hed, By <emph type="italics"/>THO. SALUSBURY,<emph.end type="italics"/> <expan abbr="E&longs;q;">E&longs;que</expan></s></p><figure id="id.075.01.002.1.jpg" xlink:href="075/01/002/1.jpg"/><p type="head">
+
+<s><emph type="italics"/>LONDON,<emph.end type="italics"/><lb/>Printed by WILLIAM LEYBOURN, <emph type="italics"/>Anno Dom.<emph.end type="italics"/><lb/><emph type="italics"/>MDC LXIV.<emph.end type="italics"/></s></p><pb xlink:href="075/01/003.jpg"/></section><section><p type="main">
+
+<s>To the mo&longs;t <emph type="italics"/>Serene,<emph.end type="italics"/> and mo&longs;t <emph type="italics"/>Illustrious<emph.end type="italics"/><lb/>Prince, FRANCESCO DONATO <lb/>Duke of VENICE.</s></p><p type="main">
+
+<s><emph type="italics"/>It having been told me here at<emph.end type="italics"/><lb/>Bre&longs;cia, <emph type="italics"/>Mo&longs;t Serene and Mo&longs;t <lb/>Illu&longs;trious Prince, that about ten 
+<lb/>years &longs;ince, that a Ship full-laden 
+<lb/>did &longs;inke near to<emph.end type="italics"/> Malamoccho, <emph type="italics"/>in 
+<lb/>about<emph.end type="italics"/> 5 <emph type="italics"/>Fathome of Water, and 
+<lb/>that to endeavour the recovering and getting it from 
+<lb/>thence, there had been u&longs;ed all tho&longs;e Means, and boun&shy;
+<lb/>tifull Offers and Tenders that could be imagined, a&longs;wel 
+<lb/>by the Illu&longs;trious Signory, for the Pre&longs;ervation of the 
+<lb/>Port, as by the chief Owners of the Ship and its Cargo: 
+<lb/>and that although there were many that had tried, and 
+<lb/>attempted the &longs;ame, by &longs;undry and divers wayes, of no 
+<lb/>&longs;mall expence, and that it had been &longs;ever all times well 
+<lb/>grappled and begirt, yet neverthele&longs;s as far as I could 
+<lb/>hear, none of them were able to rai&longs;e her from that &longs;mall 
+<lb/>depth: And it being al&longs;o told me, that of late there was 
+<lb/>another &longs;unk again in le&longs;s than four Fathome of Water, 
+<lb/>&longs;o that all its Poope and Prow, and a greate part of its 
+<lb/>Hull, was above Water, and that yet not with &longs;tanding this 
+<lb/>al&longs;o was judged by the fruitle&longs;s Experiments and Ex&shy;
+<lb/>pen&longs;es made about the former, to be irrecoverable, &longs;o<emph.end type="italics"/><pb xlink:href="075/01/004.jpg"/><emph type="italics"/>that for the clearing of the Port, it is pre&longs;ently re&longs;olved, 
+<lb/>that the &longs;aid Ship &longs;hould be broken up, &amp; taken to pieces 
+<lb/>at low Water: and &longs;o, for ought that I hear, it hath been. 
+<lb/></s><s>Now I having con&longs;idered of how great prejudice the 
+<lb/>breaking up of &longs;uch a Ve&longs;&longs;el was, be&longs;ides the lo&longs;s of the 
+<lb/>Cargo, I deliberated about the finding of a way or Rule, 
+<lb/>that might remedy &longs;uch detriment all Occurrences: And 
+<lb/>having found out one thats generall and unquestionable, I 
+<lb/>thought fit, for the common benefit of this renowned City, 
+<lb/>to declare, and by Figures to dilucidate the &longs;ame in the 
+<lb/>pre&longs;ent Tractate, and to offer and dedicate the &longs;ame to 
+<lb/>your Highne&longs;s; not as a pre&longs;ent worthy of yon (for indeed 
+<lb/>the&longs;e Mechanicall Matters are exceeding di&longs;proporti&shy;
+<lb/>onate to your Highne&longs;s Merits) but only with an Ambi&shy;
+<lb/>tion to Enoble and Dignifie my Book with your Glorious 
+<lb/>Name; In confidence that like as the Sun doth not di&longs;&shy;
+<lb/>dain that all &longs;orts of Per&longs;ons &longs;hould make u&longs;e of its light 
+<lb/>and heat, &longs;oneither will Your accu&longs;tomed Humanity be 
+<lb/>offended with this my Pre&longs;umption; and therefore I 
+<lb/>humbly lay my &longs;elf at your Highne&longs;s Feet,<emph.end type="italics"/></s></p><p type="main">
+
+<s>Nicolas Tartalea.</s></p><pb xlink:href="075/01/005.jpg" pagenum="483"/><p type="head">
+
+<s>THE 
+<lb/>Indu&longs;trious or Trouble&longs;ome 
+<lb/>INVENTION 
+<lb/>OF 
+<lb/>Nicolas Tartalea:</s></p>  </section></front>          <body>     <chap>	<p type="head">
+
+<s><emph type="italics"/>BOOKEI.<emph.end type="italics"/></s></p><p type="caption">
+
+<s><emph type="italics"/>The Figure of a Ship &longs;unke according to the Relation made of that 
+<lb/>which was cau&longs;ed to be broken up neere<emph.end type="italics"/> Malamoccho, <emph type="italics"/>as being 
+<lb/>judged irrecoverable.<emph.end type="italics"/></s></p><figure id="id.075.01.005.1.jpg" xlink:href="075/01/005/1.jpg"/><p type="head">
+
+<s><emph type="italics"/>EXPLANATION I.<emph.end type="italics"/></s></p><p type="main">
+
+<s>Before I come to declare the promi&longs;ed way 
+<lb/>to recover any laden or empty Ship when 
+<lb/>it is &longs;unke; I thinke it convenient (<emph type="italics"/>Mo&longs;t 
+<lb/>Serene and Illu&longs;trious Prince,<emph.end type="italics"/>) fir&longs;t to de&shy;
+<lb/>clare the reall cau&longs;e of its &longs;inking.<pb xlink:href="075/01/006.jpg" pagenum="484"/><arrow.to.target n="marg1552"></arrow.to.target></s></p><p type="margin">
+
+<s><margin.target id="marg1552"></margin.target><emph type="italics"/>Archimed.<emph.end type="italics"/> of 
+<lb/>Natation, Lib. 2. 
+<lb/>Prop. </s><s>1.</s></p><p type="main">
+
+<s>I &longs;ay then; That its impo&longs;&longs;ible that the water &longs;hould wholly 
+<lb/>&longs;wallow or receive into it any materiall Body lighter than it &longs;elf (as 
+<lb/>to &longs;pecies;) but it will leave or cau&longs;e one part thereof to lie above 
+<lb/>the Superficies of the &longs;aid water, that is uncovered by it. </s><s>And as 
+<lb/>the whole Body demitted into the water, is to the part thereof, 
+<lb/>which &longs;hall be received or admitted by the water, &longs;o &longs;hall the Spe&shy;
+<lb/>cificall Gravity of the water, be unto the Specificall Gravity of the 
+<lb/>&longs;aid Solid Body.</s></p><p type="main">
+
+<s><arrow.to.target n="marg1553"></arrow.to.target></s></p><p type="margin">
+
+<s><margin.target id="marg1553"></margin.target><emph type="italics"/>Archimed.<emph.end type="italics"/> of 
+<lb/>Natation, Lib. 1. 
+<lb/>Prop. </s><s>7.</s></p><p type="main">
+
+<s>But tho&longs;e Solid Bodies which are more grave than the water; be&shy;
+<lb/>ing demitted into the &longs;aid water, &longs;uddenly make the water to give 
+<lb/>place; and not only enter wholly into the &longs;ame, but they do go 
+<lb/>continually de&longs;cending, till they arrive at the bottom: And they 
+<lb/>de&longs;cend with &longs;o much greater Velocity, by how much they exceed 
+<lb/>the water in &longs;pecificall Gravity.</s></p><p type="main">
+
+<s><arrow.to.target n="marg1554"></arrow.to.target></s></p><p type="margin">
+
+<s><margin.target id="marg1554"></margin.target><emph type="italics"/>A chimed.<emph.end type="italics"/> of 
+<lb/>Natation, Lib. 1. 
+<lb/>Prop. </s><s>111.</s></p><p type="main">
+
+<s>And tho&longs;e again which happen to be of the &longs;ame Gravity with the 
+<lb/>water, of nece&longs;&longs;ary con&longs;equence being put into it, are admitted 
+<lb/>and received totally into the &longs;ame, but yet they &longs;tay in the Surface 
+<lb/>of the &longs;aid water; that is, they &longs;uffer not any part to lie above the 
+<lb/>Superficies of the &longs;aid water, nor much le&longs;s doth the water con&longs;ent 
+<lb/>to their de&longs;cent to the bottom.</s></p><p type="main">
+
+<s>And all this is demon&longs;trated by <emph type="italics"/>Archimedes<emph.end type="italics"/> of <emph type="italics"/>Syracu&longs;a,<emph.end type="italics"/> in that 
+<lb/>his Tract <emph type="italics"/>De in&longs;identibus aqu&aelig;,<emph.end type="italics"/> by us tran&longs;lated. </s><s>And becau&longs;e the 
+<lb/>greate&longs;t part of woods are lighter, or le&longs;s grave than the water; he 
+<lb/>therefore that &longs;hall build a Ship or other Ve&longs;&longs;el meerly of wood, 
+<lb/>lighter than water, its manife&longs;t that he cannot (though he &longs;hould 
+<lb/>fill the &longs;ame with water, as full as it would hold) make the &longs;ame 
+<lb/>totally to &longs;ink, but that nece&longs;&longs;arily &longs;ome one part or other of the 
+<lb/>&longs;aid Ship or Ve&longs;&longs;el &longs;hall &longs;tand above the Surface of the water: For 
+<lb/>its a thing very clear, that all that &longs;ame Body, compounded of wood 
+<lb/>and of water, would be much lighter than if it were all only of water 
+<lb/>without wood: Such a compound Body therefore being le&longs;s grave 
+<lb/>than the water, its nece&longs;&longs;ary (for the rea&longs;ons above produced) that 
+<lb/>a part of the &longs;ame remain above the Surface of the water.</s></p><p type="main">
+
+<s>And if the &longs;aid Ship or Bark &longs;hall be built (as it is u&longs;ual) with 
+<lb/>Bolts, Nailes, and other Materials of Iron, and that &longs;uch Iron&shy;
+<lb/>works be not of &longs;uch quantity, as to make that Body compounded 
+<lb/>of wood and Iron, graver than the water, but that it continue &longs;till 
+<lb/>le&longs;s grave than the water (as I judge all Ships and Barks to be;) The 
+<lb/>&longs;ame will follow as did before, namely, that filling the &longs;aid Ship 
+<lb/>with water, as full as is po&longs;ible, it cannot by any means go to the 
+<lb/>bottom If then a Ship or other Ve&longs;&longs;el being wholly fill'd with 
+<lb/>water, cannot be thereby &longs;unk to the bottom; It is a thing evident, 
+<lb/>that if &longs;uch a Ship or Ve&longs;&longs;el &longs;hall be totally fill'd with a Matter 
+<lb/>lighter than the water; not only its totall &longs;inking under that weight <pb xlink:href="075/01/007.jpg" pagenum="485"/>will be impo&longs;&longs;ible, but al&longs;o its floating in &longs;ome part above the Sur&shy;
+<lb/>face of the water will be nece&longs;&longs;ary: And &longs;o much the greater part 
+<lb/>&longs;hall be vi&longs;ible above the water, by how much the Matter of the 
+<lb/>Lading, is lighter than the water.</s></p><p type="main">
+
+<s>Therefore, if all the Cargo of a Ship (for in&longs;tance) Buts of Oyl, 
+<lb/>and that no other Matters of a graver Nature than water were intro&shy;
+<lb/>duced, and that the &longs;aid Ship &longs;hould by &longs;ome Accident be filled 
+<lb/>up with water, it is not only manife&longs;t that the Ship cannot be there&shy;
+<lb/>by &longs;unk to the bottom, but that a part thereof mu&longs;t nece&longs;&longs;arily float 
+<lb/>above the Surface of the water: Becau&longs;e all that Compo&longs;ition of 
+<lb/>Wood, Water and Oyl, would be lighter than if it had been all 
+<lb/>&longs;imply of water. </s><s>The very &longs;ame would follow, if the Cargo had 
+<lb/>been &longs;oley of Wine, Wax, Camphor, Spices, or the like Matters, 
+<lb/>lighter than the water. </s><s>But becau&longs;e the Merchandizes that fraight 
+<lb/>Ships, or other Ve&longs;&longs;els, are &longs;ome (&longs;pecifically) graver, and &longs;ome 
+<lb/>(&longs;pecifically) lighter than the water: (The graver are all forts of 
+<lb/>Mettals, as Iron, Tinn, Lead, Bra&longs;s, Copper, Silver, Gold, and infi&shy;
+<lb/>nite other Species of Commodities; likewi&longs;e the per&longs;ons of Men, 
+<lb/>Stones, Balla&longs;ts, and the like:) And that al&longs;o there are &longs;ome &longs;orts of 
+<lb/>Commodities that chance to differ very little in Gravity from the 
+<lb/>water: Therefore I conclude, that as oft as any Ship accidentally 
+<lb/>is fill'd with water, and &longs;o &longs;inks by degrees to the bottom, it is ne&shy;
+<lb/>ce&longs;&longs;ary to grant that all the Compo&longs;ition, namely, of the Fraight, 
+<lb/>of the Ve&longs;&longs;el, and of the water that entered into it, is more grave, 
+<lb/>than if the compo&longs;ition had been all &longs;imply of water, by the rea&longs;ons 
+<lb/>before alledg'd.</s></p><p type="main">
+
+<s>And therefore in &longs;uch a ca&longs;e things graver than the water, mu&longs;t 
+<lb/>of nece&longs;&longs;ity exceed in force tho&longs;e that be lighter: and by how much 
+<lb/>things graver than the water, exceed the lighter, &longs;o much the more 
+<lb/>Force will be required to recover &longs;uch a Ship or other Ve&longs;&longs;el being 
+<lb/>&longs;unk, and on the contrary, &longs;o much le&longs;s Force will be required, 
+<lb/>when the Ma&longs;s of the Materials more grave than the water, &longs;hall 
+<lb/>not differ much from the Ma&longs;s of the le&longs;s grave: provided the Re&shy;
+<lb/>covery be undertaken in &longs;ome &longs;hort time after the Ship &longs;hall be &longs;unk, 
+<lb/>For if the Ship lie many dayes under water, the delay will intro. 
+<lb/></s><s>duce many difficulties: One will be, that it will con&longs;olidate with 
+<lb/>and dock or work it &longs;elf farther into the Mudd or Sand, which will 
+<lb/>not a little hinder its Recovery; and again, the water will continu&shy;
+<lb/>ally carry into the &longs;aid Ship, Ouze, Mudd, and Sand, which Mat&shy;
+<lb/>ter is much graver than the water, whereby the Ship is continually 
+<lb/>made graver as to the water, than it was at the beginning when it 
+<lb/>was fir&longs;t &longs;ubmerg'd. </s><s>And moreover the corruptible Matters, which 
+<lb/>are by nature lighter than the water, will corrupt, and corrupting 
+<lb/>will change into other earthy &longs;ub&longs;tances much graver than the 
+
+
+<pb xlink:href="075/01/008.jpg" pagenum="486"/>water: in&longs;omuch that at the length, it ought to be pre&longs;uppo&longs;ed in 
+<lb/>order to the recovery of the &longs;aid Ship, as if it were &longs;olely laden 
+<lb/>with Mire, Dirt, and Sand: which doing, you will not be deceived 
+<lb/>in the operation, that is to &longs;ay, preparing and working with a Force 
+<lb/>equivalent to that its Gravity. </s><s>The way to know how to prepare 
+<lb/>Forces equivalent to the Gravity &longs;hall be &longs;hewn in the eight Expla&shy;
+<lb/>nation of this.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> II.</s></p><p type="main">
+
+<s>Now to give beginning to the bu&longs;ine&longs;s propo&longs;ed, I &longs;ay, that 
+<lb/>in the Recovery of a Foundred Ship laden, or any other la&shy;
+<lb/>den Ve&longs;&longs;el that is foundered or &longs;unk, there interveneth more 
+<lb/>e&longs;pecially the&longs;e three great Ob&longs;tructions. </s><s>The fir&longs;t difficulty is, how 
+<lb/>to imbreech and grapple it with &longs;uch, and &longs;o many Ropes, as may 
+<lb/>&longs;uffice to bear it up; for if this either by ill chance cannot be done 
+<lb/>(whether through its being in a place two deep, or too far dockt in 
+<lb/>the Mudd or Sand) all our other labour will be fru&longs;trate and vain.</s></p><p type="main">
+<s>The &longs;econd difficulty, when once it is grappled, is how with dex&shy;
+<lb/>terity to &longs;eperate it from the bottom of the Sea; and this difficulty 
+<lb/>will be much greater, the Ship being in a Miry or Sandy bottom, 
+<lb/>than if it &longs;hall be in a Stony place; and it &longs;hall be al&longs;o a greater 
+<lb/>difficulty to &longs;eperate it from a very deep bottom, than from a Shal&shy;
+<lb/>low; (alwayes &longs;uppo&longs;ing that the two bottoms be both alike, name&shy;
+<lb/>ly, either both Stony or both Sandy;) and al&longs;o far greater &longs;hall the 
+<lb/>&longs;aid difficulty be in a Ship long &longs;unk, than in one newly four dered; 
+<lb/>(as we have already &longs;aid in the precedent Explanation:) But when 
+<lb/>&longs;he is once water-born, or &longs;eperated from the bottom, its an ca&longs;ie 
+<lb/>matter to rai&longs;e her up to the Surface of the water; for then &longs;he &longs;hall 
+<lb/>not be a little aleviated in her Gravity: But the truth is, the draw&shy;
+<lb/>ing of it after wards above the Superficies of the water, is no very ca&shy;
+<lb/>&longs;ie matter, but is extream hard to be done; and this is the third 
+<lb/>difficulty; the principal cau&longs;e of which two la&longs;t difficulties &longs;hall be 
+<lb/>a&longs;&longs;igned by and by.</s></p><p type="main">
+<s>But becau&longs;e the means to obviate and &longs;uperate the fir&longs;t difficulties 
+<lb/><arrow.to.target n="marg1555"></arrow.to.target>
+<lb/>as more ^{*} common, we &longs;hall forbear to &longs;peak of them untill the 
+<lb/>next Book. </s><s>To provide, and that briefly, to the &longs;econd and third 
+<lb/>impediments (which are the lea&longs;t known) that is, not only to &longs;e&shy;
+<lb/>perate the Ship from the bottom, but to rai&longs;e it al&longs;o &longs;omewhat above 
+<lb/>the Surface of the water.</s></p>
+
+
+<pb xlink:href="075/01/009.jpg" pagenum="487"/><p type="margin">
+
+<s><margin.target id="marg1555"></margin.target>* <emph type="italics"/>The Author be&shy;
+<lb/>lieved (as he de&shy;
+<lb/>clareth in the E&shy;
+<lb/>pi&longs;tle to the en&longs;u&shy;
+<lb/>ing Suppliment of 
+<lb/>this his<emph.end type="italics"/> Inventi&shy;
+<lb/>on) <emph type="italics"/>that the Ma&shy;
+<lb/>riners conver&longs;ant in the&longs;e affairs, had many wayes to imbreech a Ve&longs;&longs;el uuder water; and for that rea&longs;on he 
+<lb/>over pa&longs;&longs;eth it here, and is very cur&longs;ive upon the &longs;ame Point, in the &longs;econd Book, but giveth a generall Rule 
+<lb/>for it in the &longs;aid Suppliment: to which the Reader is referred for fuller Satisfaction.<emph.end type="italics"/></s></p><p type="main">
+<s>And this is the Rule that you mu&longs;t ob&longs;erve; If the Ship be newly 
+<lb/>&longs;unk, you mu&longs;t immediately, if it be po&longs;&longs;ible, find two other Ships, 
+<lb/>that be each of them rather of greater bulk than the foundered Ship 
+<lb/>than le&longs;s: and when you have found the&longs;e two Ships, you mu&longs;t 
+<lb/>free them of all the inward and outward lading, and rigging, e&longs;pe&shy;
+<lb/>cially of tho&longs;e things which are by nature more grave than the water, 
+<lb/>as are the Guns, the Shot, and any kind of Balla&longs;t, which is pre&longs;up&shy;
+<lb/>po&longs;ed to be in the Hold, and of other things of impediment; and 
+<lb/>when the&longs;e Ships are thus cleared, you mu&longs;t &longs;top all the Loop-holes, 
+<lb/>Cat-holes, Skuppers and Hau&longs;es, which you &longs;hall finde between or 
+<lb/>above Decks, graving and calking them &longs;o with Okum, and paying 
+<lb/>them with Pitch, that the water can neither get in nor out thereat. 
+<lb/></s><s>And next you mu&longs;t join or grapple the&longs;e two Ships together with five 
+<lb/>or more Tires or Orders of thick and &longs;trong Beames tripplicated; 
+<lb/>that is, that each of the &longs;aid Orders con&longs;i&longs;t of three Beams, joyned 
+<lb/>lengthways; and that each of the three Beams be &longs;omewhat longer 
+<lb/>than the bredth of the Deck or Hull of each Ship; and that theybe 
+<lb/>thick and &longs;trong, as being to &longs;upport the Foundered Ship, as you 
+<lb/>&longs;hall &longs;ee it made to appear pre&longs;ently: and couple the &longs;aid Ships to&shy;
+<lb/>gether, at &longs;uch a di&longs;tance from each other, that you give berth, or 
+<lb/>leave room enough betwixt for the foundered Ship to play; and 
+<lb/>you mu&longs;t make this couppling in &longs;uch &longs;ort, that the length or &longs;ide 
+<lb/>of the one Ship, look towards the length or &longs;ide of the other; and 
+<lb/>albeit this conjunction or grappling may be made with many Orders 
+<lb/>or Tires of tho&longs;e Bcams tripplicated lengthways, as was &longs;aid above, </s></p><p type="caption">
+
+<s><emph type="italics"/>The Figurall repre&longs;entation of the two empty Ships, conjoyned with 
+<lb/>five Orders of Beams, and towed ju&longs;t over the place where the 
+<lb/>Foundered Ship is.<emph.end type="italics"/>
+<lb/><figure id="id.075.01.009.1.jpg" xlink:href="075/01/009/1.jpg"/>
+<lb/>yet that we may not cau&longs;e confu&longs;ion in the Figure, we would have 
+<lb/>this colligation to be made only of five Rows, as appeareth in the 
+
+
+<pb xlink:href="075/01/010.jpg" pagenum="488"/>Scheme: and although the &longs;aid Rows of Beames cannot be all 
+<lb/>placed equidi&longs;tant from the Surface of the water, for that the 
+<lb/>Wailes or Rifings of the two Ships are not flu&longs;h, but cuved, it is 
+<lb/>not of any importance, &longs;o that they be well fa&longs;tened and &longs;trength&shy;
+<lb/>ened in tho&longs;e places where they re&longs;t upon the &longs;aid Rifings: upon 
+<lb/>which Ri&longs;ings, you &longs;hall conjoyn the &longs;aid Beams, namely, the two 
+<lb/>ends of them, which two ends &longs;hall be the &longs;tronge&longs;t place, able to 
+<lb/>&longs;upport any great weight. </s><s>Yet the truth is, that to fit the&longs;e Tires 
+<lb/>of Beams, you need not have regard to make them pa&longs;s through from 
+<lb/>&longs;ide to &longs;ide, in that weak part of the Ships Poop and Prow, to re&longs;t 
+<lb/>them on the Rifings or Gun-wales of the Deck of tho&longs;e Ships, and 
+<lb/>to go cro&longs;s the Hull in tho&longs;e places. </s><s>And next you are to make upon 
+<lb/>the&longs;e Beams, that is upon the mouths of both the Ships, a Plat-form 
+<lb/>of Planks for to &longs;tand upon whil&longs;t you are about the work; leaving 
+<lb/>diver&longs;e Scuttles or Spaces open, whereby to de&longs;cend, aud for other 
+<lb/>u&longs;es: And all this being done, you are to tow or hall the&longs;e Ve&longs;&longs;els 
+<lb/>to the place where the Ship is that did &longs;ink, and to lay them Board 
+<lb/>and Board in &longs;uch fa&longs;hion, that the one may lie on one &longs;ide of it, and 
+<lb/>the other upon the other, as in the Scheme is apparent.</s></p><p type="main">
+<s>This being done, fill tho&longs;e two Ships as full of water as they can 
+<lb/>hold or &longs;wim, (the way to free them with great facility and expe&shy;
+<lb/>dition, &longs;hall be &longs;hewn in the twelfth Explanation;) and being full, 
+<lb/>wait the time of low water; that is, when the Tide returning, the 
+<lb/>Sea doth low as much as it can do; and at that in&longs;tant of time, 
+<lb/>make the Ship very fa&longs;t with tho&longs;e ends of Cords or Cables (with 
+<lb/>which it was Swite or bound) to tho&longs;e five, or more Tires of Beams, 
+<lb/>wherewith the fore&longs;aid two Ships were imbreecht or grappled: And 
+<lb/>having well belayd or fa&longs;tned tho&longs;e Cables, you mu&longs;t bale or take 
+<lb/>out a &longs;mall part of the water out of one of the two Ships, and then 
+<lb/>let it re&longs;t &longs;o, till &longs;uch time as you have baled or taken a little more 
+<lb/>than that quantity out of the other Ship; and then again take a 
+<lb/>little more out of the fir&longs;t Ship, and leave it &longs;o till you have taken 
+<lb/>another &longs;uch a quantity from the other Ship, and thus proceed gra&shy;
+<lb/>dually, till you find the Foundered Ship, water-born or loo&longs;ned 
+<lb/>from the bottom: but being water-born (if it be in a Showle bot&shy;
+<lb/>tom, as was that at <emph type="italics"/>Malamoccho)<emph.end type="italics"/> you are to take out the &longs;aid water, 
+<lb/>equally from both the Ships, at one and the &longs;aid time, to the end 
+<lb/>the Ship may ri&longs;e evenly without &longs;wagging or &longs;haking; and thus you 
+<lb/>are to proceed till you have taken all the water from the one &amp; the 
+<lb/>other of the two Ships: In &longs;o doing, you &longs;hall &longs;ee the two Shpis lea&shy;
+<lb/>&longs;urely and gently rai&longs;e the Ship that was &longs;unk, &longs;o high above the 
+<lb/>Surface of the water, that you may commodiou&longs;ly free it, and 
+<lb/>di&longs;charge it of its lading, as appeareth in the following Figures. 
+<lb/></s><s>And if you would not keep the two Ships &longs;o long imploy'd, you may 
+
+
+<pb xlink:href="075/01/011.jpg" pagenum="489"/>warpe or towe the Foundered Ship at high-water to &longs;ome place 
+<lb/>where it may lie a-ground: and by that means upon the Ebbe or 
+<lb/>Rece&longs;&longs;ion of the Tide, it will lie much more above water; and then 
+<lb/>you may &longs;afely unfa&longs;ten it from tho&longs;e five or more Tires of Beames, 
+<lb/>to which it was at fir&longs;t tyed, to hall it to a place of &longs;afety, as it was 
+<lb/>our purpo&longs;e to do; and this &longs;hall &longs;ucceed as well in an ouzie bot&shy;
+<lb/>tom, as in a Stony, This though you may take notice of, that if 
+<lb/>the Cargo of this new Foundred Ship was &longs;uch, that the things more 
+<lb/>grave than the water, did not much exceed the le&longs;s grave, it would 
+<lb/>be ea&longs;ie to effect the recovery with two Ships, very much le&longs;s than 
+<lb/>tho&longs;e which we have &longs;poken of above; yet neverthele&longs;s it will be 
+<lb/>good prudence to take them rather bigger than le&longs;&longs;er, that &longs;o they 
+<lb/>may exceed 200000 pounds in Power, rather than want one only 
+<lb/>ounce in Act; e&longs;pecially in ca&longs;e you would in a deep place at the 
+<lb/>fir&longs;t motion hoi&longs;t it by meer Force &longs;omewhat above the Surface of 
+<lb/>the water, for in that point alone it will require incomparably much 
+<lb/>more force, than in all the other operations.</s></p><p type="main">
+<s>How you are to preceed, in ca&longs;e the Ship &longs;hould be &longs;unk in a 
+<lb/>place very deep, &longs;hall be declared in the &longs;eaventh Explanation. </s><s>The 
+<lb/>Figures of this Explanation are the&longs;e two that folllow.</s></p><p type="caption">
+
+<s><emph type="italics"/>The Figure of the two Ships filled with water, to rai&longs;e the Ship that 
+<lb/>is &longs;unk<emph.end type="italics"/>
+<lb/><figure id="id.075.01.011.1.jpg" xlink:href="075/01/011/1.jpg"/></s></p>
+
+
+<pb xlink:href="075/01/012.jpg" pagenum="490"/><p type="caption">
+
+<s><emph type="italics"/>The Figure of the two Ships emptied as they lie, with the other Ship 
+<lb/>rai&longs;ed up above water.<emph.end type="italics"/></s></p><figure id="id.075.01.012.1.jpg" xlink:href="075/01/012/1.jpg"/><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> III.</s></p><p type="main">
+<s>But if it &longs;o fall out, that you cannot on &longs;nch an in&longs;tant, finde 
+<lb/>two Ships of the &longs;ame Bulk with the Ship &longs;unk, you may take 
+<lb/>four &longs;maller; provided, that all the four together hold twice 
+<lb/>as much burden as the Ship &longs;unk, and rather more than le&longs;s. </s><s>Which 
+<lb/>four &longs;mall Ships being all fir&longs;t cleer'd of their lading, and well &longs;topt 
+<lb/>in all their Skuppers and Portholes (as was &longs;aid in the two) you mu&longs;t 
+<lb/>couple them with Beams and good Planks, by two and two, as you 
+<lb/>u&longs;e to do with two Lighters, when you would make a Bridge of 
+<lb/>them: and the&longs;e two pair of Hoys or Barkes thus coupled together, 
+<lb/>you mu&longs;t afterwards fa&longs;ten one pair to another, with &longs;even of tho&longs;e 
+<lb/>Tires or Rows of thick and &longs;trong Beams tripplicated, as was &longs;aid in 
+<lb/>the precedent Explanation; and place them at &longs;uch a di&longs;tance one 
+<lb/>pair from another, as that you may leave berth or &longs;pace enough for 
+<lb/>the &longs;unk or foundered Ship to ri&longs;e between them, and &longs;ome what 
+<lb/>more, (as was &longs;aid of the two.) And though this conjunction of the 
+<lb/>two pair of Ships, may be made three &longs;everall wayes, yet I will have 
+<lb/>you make the two Poops or Hin decks of the one couple, to lie op&shy;
+<lb/>po&longs;ite to the two Poops of the other couple. </s><s>And to make this 
+<lb/>conjunction, you are to place two Tires of tho&longs;e great Beams along 
+<lb/>the upper parts of the &longs;aid Poops, &longs;o, that they may re&longs;t in the in&shy;
+<lb/>&longs;ide on tho&longs;e le&longs;&longs;er Beams and Planks, where with each of tho&longs;e two 
+<lb/>pair of Ships were coupled: and each of the&longs;e Orders or Tires of 
+
+
+<pb xlink:href="075/01/013.jpg" pagenum="491"/>Beames ought to be compo&longs;ed of three Beams conjoyned length&shy;
+<lb/>wayes, as was &longs;aid in the precedent Explanation; and make two of 
+<lb/>the Tires lie upon the Ships; and to tho&longs;e Tires, let that &longs;unk Ship 
+<lb/>be grappled: and another Tire of the &longs;aid Beams is to be placed in 
+<lb/>the mid&longs;t between the one and the other couple; and two other 
+<lb/>Tires of the &longs;aid Beams ought to be fa&longs;tened upon the one and other 
+<lb/>&longs;ide, that is, upon the Rifings or Bends of tho&longs;e two couples of 
+<lb/>Ships; and that being done, there will be in all &longs;even Tires or Or&shy;
+<lb/>ders of Beams; which &longs;eaven Orders of Beams ought conjunctly to 
+<lb/>be prolonged, on the one and on the other &longs;ide. </s><s>almo&longs;t to the 
+<lb/>length of the Hull of each Ship, as in the Figure is represented: and </s></p><p type="caption">
+
+<s><emph type="italics"/>The Figurall example how to recover a Foundered Ship with four 
+<lb/>&longs;mall Ships<emph.end type="italics"/>
+<lb/><figure id="id.075.01.013.1.jpg" xlink:href="075/01/013/1.jpg"/>
+<lb/>this being done, you are to proceed, as hath been &longs;hewn in the two, 
+<lb/>that is, fill them top full of water, and at low water, imbreech the 
+<lb/>Ship &longs;unk very well, withall tho&longs;e ends of Ropes or Cables, that 
+<lb/>you did belay to tho&longs;e &longs;even Tires of Beams: and when tho&longs;e 
+<lb/>Grapplings &longs;hall be well made fa&longs;t; you &longs;hall at high water bale or 
+<lb/>free the water by little and little out of the Ships, one pair after a&shy;
+<lb/>nother, till you feel the foundered Ship is di&longs;engaged from the bot&shy;
+<lb/>tom, and water-born, as was &longs;aid in the two. </s><s>And having &longs;epera&shy;
+<lb/>ted it from the bottom (if it be in a &longs;hallow place, as was that where 
+<lb/>the Ship was foundered neer <emph type="italics"/>Malamoccho<emph.end type="italics"/>) you are to proceed to let 
+<lb/>out the re&longs;t of the &longs;aid water, but take it equally and gradually from 
+<lb/>the one and the other pair, that they may de&longs;cend evenly, and with&shy;
+<lb/>out heeling, as was &longs;aid of the two; and in &longs;o doing, the &longs;aid Ship 
+<lb/>&longs;hall not only be hoi&longs;ted up to the Surface of the water, but much 
+
+
+<pb xlink:href="075/01/014.jpg" pagenum="492"/>above the &longs;ame; &longs;o that you may in that po&longs;ture free or drain it 
+<lb/>and di&longs;charge it of the Cargo. </s><s>But if you cannot &longs;o long &longs;pare 
+<lb/>tho&longs;e four Ships from other u&longs;es, then you may at high water tow 
+<lb/>it to &longs;ome place, where running it on ground, you may at the ebbe 
+<lb/>of the Tide (for that then there will lie much more of it above wa&shy;
+<lb/>ter) &longs;afely loo&longs;e it from tho&longs;e Beames, as was al&longs;o &longs;aid in the prece&shy;
+<lb/>dent Explanation of the two Ships.</s></p><p type="main">
+<s>But in ca&longs;e the Foundered Ship &longs;hould chance to be in a very deep 
+<lb/>Sea, in the &longs;eventh Explanation (to be the briefer in this place) 
+<lb/>&longs;hall be &longs;hewn how you are to proceed.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> IV.</s></p><p type="main">
+<s>And if it happen that it &longs;hould be in a place where there are 
+<lb/>no Ships to be got, either great cr little; you may take of 
+<lb/>other kind of Pinaces, Barks or Barges, but endeavour to 
+<lb/>get &longs;uch as are floaty, and highe&longs;t built in there Rifings, that &longs;o they 
+<lb/>may, at &longs;uch time as they are full of water, de&longs;cend very far under 
+<lb/>water, (or according to the Mariners phra&longs;e, may draw much wa&shy;
+<lb/>ter) and of the&longs;e you mu&longs;t &longs;top all the Skuppers, Haw&longs;es, Cat-holes 
+<lb/>and Port holes, that you finde, as in the Ships, that they may hold 
+<lb/>the more water, and con&longs;equently draw the more water, or be de&shy;
+<lb/>pre&longs;&longs;ed deeper into the &longs;ame; and take &longs;o many couple of the&longs;e 
+<lb/>Botes, that they may all together contain double the burden of 
+<lb/>the Ship to be recovered, and rather much more, than any thing 
+<lb/>le&longs;s. </s><s>And of all the&longs;e Boats or Barks, make two Squadrons, conjoyning 
+<lb/>each Squadron with good &longs;mall Timbers &amp; Planks, as you u&longs;e to do, 
+<lb/>when you would make a Bridge of Boats: And the&longs;e &longs;ame Ve&longs;&longs;els of 
+<lb/>the one and other divi&longs;ion, &longs;hould be placed board and board, that &longs;o 
+<lb/>the great Beams, which are to conjoyn one Squadron to the other, 
+<lb/>may bear upon the Rifings, Bends or Wales, of the &longs;aid Ve&longs;&longs;els. </s><s>And 
+<lb/>this being done, you are to couple the&longs;e two Squadrons, to each other 
+<lb/>with tho&longs;e thick and &longs;trong Tires of Beams, mentioned in the former 
+<lb/>Explanations, which Orders of Beams &longs;hould be fixed between two &amp; 
+<lb/>two of tho&longs;e Botes, as is &longs;aid above, to the end, that they may bear or 
+<lb/>re&longs;t upon the Bends of tho&longs;e Boats; and place another Tire upon the 
+<lb/>out&longs;ides of both the Divi&longs;ions, upon the ends of the cro&longs;s &longs;mall Beams 
+<lb/>which hold the &longs;everall Ve&longs;&longs;els together: So that if the Squadrons con&shy;
+<lb/>&longs;i&longs;ted each of four Barks, the Tires of the &longs;aid Beams would come to 
+<lb/>be five,; and if there &longs;hould be five in a Squadron, the Tires of 
+<lb/>Beams would be &longs;ix, and &longs;o forwards; that is, the Orders of Beams, by 
+<lb/>this means, &longs;hall be alwayes one more than the number of Botes in 
+<lb/>each Squadron. </s><s>But in the Ships you mu&longs;t ob&longs;erve another method, 
+<lb/>becau&longs;e of tho&longs;e two Orders, which are placed in each Poop; by </s></p>
+
+
+<pb xlink:href="075/01/015.jpg" pagenum="493"/><p type="caption">
+
+<s><emph type="italics"/>The way to recover a Foundered Ship with many Barks or Wherryes.<emph.end type="italics"/>
+<lb/><figure id="id.075.01.015.1.jpg" xlink:href="075/01/015/1.jpg"/>
+<lb/>which means in every two Ships to a Divi&longs;ion (which in all make 
+<lb/>four Ships) there mu&longs;t be &longs;even Orders of Beams, and in three Ships 
+<lb/>to a Squadron, there mu&longs;t be ten Orders of Beams, and in four 
+<lb/>Ships to a Squadron thirteen; and thus proceeding forwards to a 
+<lb/>greater number of Ships in a Squadron. </s><s>And having under&longs;tood the 
+<lb/>way of coupling many Barks or Wherryes in Squadrons; as al&longs;o the 
+<lb/>manner how to joyn or fa&longs;ten them to each other, and with how 
+<lb/>many Orders of Beams; you are to proceed in the re&longs;t, as in the 
+<lb/>precedent Explanations hath been demon&longs;trated in &longs;howle bottoms, 
+<lb/>but the directions how to manage this affair in deep places, &longs;hall be 
+<lb/>declared in the &longs;eventh Explanation.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> V.</s></p><p type="main">
+<s>To remove this inconvenience of taking Ships or other Ve&longs;&longs;els; 
+<lb/>and of &longs;tanding to lighten them of their Guns &amp; lading, and of 
+<lb/>&longs;topping their Loop-holes; you may in&longs;uch a misfortune cau&longs;e 
+<lb/>to be made two great Ve&longs;&longs;els, almo&longs;t in form of ^{*} Che&longs;ts without co&shy;
+<lb/><arrow.to.target n="marg1556"></arrow.to.target>
+<lb/>vers, the length of each to be equal to the Hull of a middle rate Ship, 
+<lb/>and the breadth equall to that of the &longs;ame Ship at the Main-ma&longs;t, 
+<lb/>and the height al&longs;o the &longs;ame with that of the Ship in the Bow, &longs;o 
+<lb/>that each of the&longs;e Plat forms or Che&longs;ts, &longs;hall hold much more than 
+<lb/>a common Ship, and thus both will contain more than the double 
+<lb/>burden of &longs;uch a Ship. </s><s>And for the making of the&longs;e Ve&longs;&longs;els, you 
+<lb/>mu&longs;t fir&longs;t make the Models in Carvel-manner of thick and &longs;trong 
+<lb/>Timber, with their Eutertaces, Tran&longs;omes and Knees, to hold their 
+<lb/>&longs;ides and ends together: and this done, &longs;pike down to them certain 
+
+
+<pb xlink:href="075/01/016.jpg" pagenum="494"/>thick and &longs;trong Planks; and then cau&longs;e them to be well graved and 
+<lb/>calked in the Seames or Strakes by a Calker, with Okum, and paid 
+<lb/>with Pitch, as you u&longs;e to do Ships or Gallyes, and then apply them 
+<lb/>to your purpo&longs;e. </s><s>And when you would u&longs;e them, you need only 
+<lb/>fa&longs;ten them together with tho&longs;e five or more Orders of thick and 
+<lb/>lu&longs;ty Beams, trippled lengthwayes, that is, prolonged both wayes, 
+<lb/>&longs;o as that they may lie athwart the Decks of the &longs;aid two Ve&longs;&longs;els, 
+<lb/>and place the &longs;aid Ships &longs;o far di&longs;tant from each other, as you gue&longs;&longs;e 
+<lb/>the bredth of the Foundered Ship to be, and &longs;omething more: And 
+<lb/>then make upon the Deck of each of them, that is, upon tho&longs;e 
+<lb/>Beams, a Plat-form of Planks, as was &longs;aid in the two Ships of the 
+<lb/>&longs;econd Explanation, and afterwards proceed as in tho&longs;e two Ships.</s></p><p type="margin">
+
+<s><margin.target id="marg1556"></margin.target>* Of the&longs;e Ve&longs;&shy;
+<lb/>&longs;els Cardinall 
+<lb/><emph type="italics"/>Richleiu<emph.end type="italics"/> made 
+<lb/>u&longs;e at the Siege 
+<lb/>of <emph type="italics"/>Rochell<emph.end type="italics"/> to &longs;hut
+<lb/>up the Haven.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> VI.</s></p><p type="main">
+<s>And inca&longs;e you think the making of a couple of &longs;uch great 
+<lb/>Modles or Ve&longs;&longs;els, as we mentioned in the foregoing Ex&shy;
+<lb/>planation, would be too great a trouble or expence; you 
+<lb/>may make two pair of &longs;uch Che&longs;ts, each of them but of hal&longs; the 
+<lb/>bulk of one of the former: but if you judge the&longs;e two pair too 
+<lb/>trouble&longs;ome, you may make three, four, or more pairs; alwayes 
+<lb/>provided, that among&longs;t them all they hold about twi&longs;e the burden 
+<lb/>of the Ship &longs;unk; and the&longs;e Frames when you would u&longs;e them, mu&longs;t 
+<lb/>be joyned together in two Ranks, with le&longs;&longs;er Beams and Planks, 
+<lb/>as was &longs;aid of the four Boats or Wherryes; and then fa&longs;ten the&longs;e 
+<lb/>two Ranks to each other at the requi&longs;ite di&longs;tance, with great and 
+<lb/>&longs;trong tripplicated Beams, as was &longs;aid of the Ships, Barks and Boats; 
+<lb/>and then operate as you was to do with tho&longs;e: alwayes remembring 
+<lb/>in the freeing or emptying the &longs;aid Ve&longs;&longs;els, to bale out the water by 
+<lb/>little and little fir&longs;t from one Rank, and then from the other; and 
+<lb/>&longs;o proceed interchangeably till you percieve that the Ship is clear of 
+<lb/>the bottom: and being di&longs;engaged, if it be in a &longs;hallow place, 
+<lb/>continue taking the water equally out of the one and other Divi&longs;i&shy;
+<lb/>on of Ve&longs;&longs;els, till all the water be drained out of them, as was requi&shy;
+<lb/>red upon the former Explanations: but if it be &longs;unk in a deep Sea, 
+<lb/>the next Explanation &longs;hall &longs;hew how you are to proceed; and that 
+<lb/>briefly.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> VII.</s></p><p type="main">
+<s>And in ca&longs;e the &longs;aid Ship newly &longs;unk, chance to be in a very 
+<lb/>deep bottom; It will be nece&longs;&longs;ary fir&longs;t to fix upon tho&longs;e 
+<lb/>two or four Ships, or upon tho&longs;e two Squadrons of Barks, 
+<lb/>Fly-boats or Wherryes, at lea&longs;t &longs;ix or eight Cap&longs;tains, Ship-Cranes 
+
+
+<pb xlink:href="075/01/017.jpg" pagenum="495"/>or Windla&longs;&longs;es, with their nece&longs;&longs;ary Garnets or Pullies, requi&longs;ite to 
+<lb/>&longs;nch a weight: and you may ea&longs;ily accomodate the&longs;e Pullies, to tho&longs;e 
+<lb/>Orders of great Beams, wherewith the &longs;aid Ve&longs;&longs;els were conjoyned. 
+<lb/></s><s>And having prepared the&longs;e Cap&longs;tains, you are to proceed in all 
+<lb/>things, as hath been directed you in the precedent Explanations, 
+<lb/>excepting only in this, that whil&longs;t you are freeing the water alter&shy;
+<lb/>nately by degrees out of the two or more Ships, or from the two 
+<lb/>Squadrons of Barks, Fly-boats or Wherryes, as &longs;oon as you finde 
+<lb/>the Foundered Ship to be water-born or got clear of the bottom of 
+<lb/>the Sea, I would have you cea&longs;e to take any more water forth of 
+<lb/>the &longs;aid Ships, or le&longs;&longs;er Ve&longs;&longs;els before filled; and I would have you 
+<lb/>with tho&longs;e Cap&longs;tains, attempt to draw the &longs;aid Ship that was funk 
+<lb/>unto the Levell or Surtace of the water, or to lie Horizontal unto it, 
+<lb/>which may be ea&longs;ily done, for that its pondero&longs;ity will be much di&shy;
+<lb/>mini&longs;hed. </s><s>And when you have drawn it to the Surface of the water, 
+<lb/>then I would have you di&longs;charge all the other water out of the two 
+<lb/>Ships, or the two Squadrons of &longs;mall Ve&longs;&longs;els. </s><s>And this &longs;econd wa&shy;
+<lb/>ter, I would have raken equally, and at the &longs;ame time, from the one 
+<lb/>and the other Ship, or from each Rank of Barks or Boats, as hath 
+<lb/>been &longs;aid of the other. </s><s>And thus tho&longs;e Ships or Squadrons of Boats 
+<lb/>&longs;hall hoi&longs;t the &longs;aid Foundered Ship, &longs;o high above the Superficies of 
+<lb/>the water, that you may free it of the water which was got into it, 
+<lb/>and unlade its Cargo, which was our purpo&longs;e.</s></p><p type="main">
+<s>You mu&longs;t note, that all that hath been hitherto &longs;aid of a Ship 
+<lb/>newly &longs;unk, ought to be under&longs;tood of all other kind of Foundered 
+<lb/>Ships, proceeding alwayes proportionately as was directed in that 
+<lb/>Ship. </s><s>And again, I give you no Figure how you are to fit and fix 
+<lb/>the Cap&longs;tains and Pullies, as being a thing common and manife&longs;t.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> VIII.</s></p><p type="main">
+<s>But if it &longs;o fall out, that the &longs;aid Ship or other Ve&longs;&longs;el hath been 
+<lb/>&longs;unk many Months; albeit that there might have been many 
+<lb/>matters in the Cargo of a lighter nature than water, yet you 
+<lb/>mu&longs;t &longs;uppo&longs;e the ca&longs;e as if the Ship were as heavy as if it had been 
+<lb/>fil'd with Sand or Gravel; yea and much heavier, for many Rea&longs;ons, 
+<lb/>as hath been alledg'd in the fir&longs;t Explanation. </s><s>Therefore that you 
+<lb/>may not deceive your &longs;elves in the de&longs;igned recovering of it, you 
+<lb/>would do well to double the Forces required to the recovery of a 
+<lb/>new &longs;unk Ship; that is, you mu&longs;t take four Ships, each as big as 
+<lb/>the Foundered <emph type="italics"/>S<emph.end type="italics"/>hip, and combine the&longs;e four <emph type="italics"/>S<emph.end type="italics"/>hips, as you were re&shy;
+<lb/>quired to joyn the four &longs;mall <emph type="italics"/>S<emph.end type="italics"/>hips in the third Explanation. </s><s>And 
+<lb/>if you cannot procure them of that burthen, take eight le&longs;&longs;er, pro&shy;
+<lb/>vided that altogether they be quadruple in contence to the <emph type="italics"/>S<emph.end type="italics"/>hip to 
+
+
+<pb xlink:href="075/01/018.jpg" pagenum="496"/>to be recovered: and divide the&longs;e eight le&longs;&longs;er <emph type="italics"/>S<emph.end type="italics"/>hips or Barks into 
+<lb/>two <emph type="italics"/>S<emph.end type="italics"/>quadrons, of four in a <emph type="italics"/>S<emph.end type="italics"/>quadron, according as you was di&shy;
+<lb/>rected in the four Ships in the third direction. </s><s>And if you cannot pro&shy;
+<lb/>cure <emph type="italics"/>S<emph.end type="italics"/>hips great or &longs;mal, take &longs;o many pair of other Ve&longs;&longs;els, Fly boats 
+<lb/>or Wherryes, that in all they may at lea&longs;t contain four times the bur&shy;
+<lb/>then of the Foundered <emph type="italics"/>S<emph.end type="italics"/>hip: And reduce the&longs;e Barks, Boats or 
+<lb/>Wherryes into two Divi&longs;ions, as you are taught in the fourth Ex&shy;
+<lb/>planation: and in all other particulars, proceed according to the 
+<lb/>method pre&longs;cribed in the recovery of the <emph type="italics"/>S<emph.end type="italics"/>hip newly &longs;unk; and 
+<lb/>that as well in deep, as &longs;hallow places; that is, placing in a deep 
+<lb/><emph type="italics"/>S<emph.end type="italics"/>ea upon the &longs;aid Ships, or <emph type="italics"/>S<emph.end type="italics"/>quadrons of Boats, at lea&longs;t twelve or 
+<lb/>&longs;ixteen Cap&longs;tains, which it will be ea&longs;ie to do, for that you will have 
+<lb/>a large &longs;pace upon tho&longs;e <emph type="italics"/>S<emph.end type="italics"/>hips or ranks of Boats, as al&longs;o there will 
+<lb/>not want room to fa&longs;ten their Pullies to tho&longs;e Tires of Beams, which 
+<lb/>combine the &longs;aid <emph type="italics"/>S<emph.end type="italics"/>hips or ranks of Boats. </s><s>In all things el&longs;e proceed 
+<lb/>preci&longs;ely according as you have been directed in the &longs;econd, third, 
+<lb/>fourth, fifth, &longs;ixth and &longs;eventh Explanations.</s></p><p type="main">
+<s>This indeed mu&longs;t be granted, that inca&longs;e the &longs;aid <emph type="italics"/>S<emph.end type="italics"/>hip long &longs;unk, 
+<lb/>&longs;hould be in a <emph type="italics"/>S<emph.end type="italics"/>tony bottom, or where &longs;he hath a great current, the 
+<lb/>which current &longs;uffereth not any great bed or &longs;helves of Mudd to 
+<lb/>gather about the &longs;aid <emph type="italics"/>S<emph.end type="italics"/>hip, it may then ea&longs;ily be got clear of the bot&shy;
+<lb/>tom, with the &longs;ame Forces as were imploy'd in that newly &longs;unk, to 
+<lb/>recover it; and al&longs;o may as ea&longs;ily be drawn to the Surface of the 
+<lb/>water: But whether you can rai&longs;e it with part of its Hull above 
+<lb/>the <emph type="italics"/>S<emph.end type="italics"/>uperficies of the water, is a thing much to be doubted; 
+<lb/>yet if it &longs;hould prove &longs;o upon the Experiment, namely, that you 
+<lb/>cannot elevate its Hull above the <emph type="italics"/>S<emph.end type="italics"/>urface of the water, you may in 
+<lb/>&longs;uch a ca&longs;e hall it at high water to &longs;hore, or to &longs;ome place where it 
+<lb/>may lie a ground, whereby at the retreat of the Tide, it will lye with 
+<lb/>part of its Hull above water, &longs;o that you may commodiou&longs;ly clear 
+<lb/>it of the imbibed water and Cargo.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> IX.</s></p><p type="main">
+<s>And to the end that this invention may be of generall u&longs;e 
+<lb/>for the re covery or rai&longs;ing any kind of Collo&longs;&longs;us, that may 
+<lb/>happen to be &longs;unk, to wit, of all <emph type="italics"/>S<emph.end type="italics"/>pecies of <emph type="italics"/>S<emph.end type="italics"/>olid Bodies, 
+<lb/>whether of <emph type="italics"/>S<emph.end type="italics"/>tone, Iron, Pewter, Bra&longs;s, Lead, <emph type="italics"/>S<emph.end type="italics"/>ilver or Gold (as you 
+<lb/>may have many occa&longs;ions voluntarily to &longs;ink them in time of war, to 
+<lb/>pre&longs;erve them) and then that you may know how to get them up 
+<lb/>again, you mu&longs;t ob&longs;erve this Rule: If the <emph type="italics"/>S<emph.end type="italics"/>olid long time &longs;ubmer&shy;
+<lb/>ged were of Brick; &longs;o &longs;oon as it is imbreecht, you mu&longs;t take &longs;o ma&shy;
+<lb/>ny couple of <emph type="italics"/>S<emph.end type="italics"/>hips, Barks, Hoyes or Wherryes, that the &longs;um of their 
+<lb/>contents put together, may exceed the <emph type="italics"/>S<emph.end type="italics"/>quare of the <emph type="italics"/>S<emph.end type="italics"/>olid Area 
+<lb/>of the &longs;ubmerged <emph type="italics"/>S<emph.end type="italics"/>olid: and if the <emph type="italics"/>S<emph.end type="italics"/>olid &longs;o long &longs;unk were of Mar&shy;
+
+
+<pb xlink:href="075/01/019.jpg" pagenum="497"/>ble, the <emph type="italics"/>S<emph.end type="italics"/>olid Content of all the <emph type="italics"/>Vacua<emph.end type="italics"/> of tho&longs;e <emph type="italics"/>S<emph.end type="italics"/>hips or Ve&longs;&longs;els ad&shy;
+<lb/>ded together, mu&longs;t not be le&longs;s than Septuple to the Solid Content 
+<lb/>of the &longs;ubmerged Body; namely, &longs;even times as much. </s><s>And if 
+<lb/>that long &longs;unk Solid chance to be of Iron; you mu&longs;t make the Solid 
+<lb/>Content of all the <emph type="italics"/>Vacuum's<emph.end type="italics"/> of tho&longs;e Ve&longs;&longs;els to be no le&longs;&longs;e in the 
+<lb/>Aggregate than 12 3/2 times as much as the Solid Content of that &longs;ub&shy;
+<lb/>merged Solid: and the like mu&longs;t be done, if the &longs;ubmerged Solid 
+<lb/>be of Pewter, for that Iron and Pewter differ not much in Gravity. 
+<lb/></s><s>But and if the drowned <emph type="italics"/>S<emph.end type="italics"/>olid be of Copper, it is requi&longs;ite that the 
+<lb/><emph type="italics"/>S<emph.end type="italics"/>olid Content of all the Ve&longs;&longs;els Cavities in &longs;um, be no le&longs;s than 
+<lb/>thirteen times as much as the <emph type="italics"/>S<emph.end type="italics"/>olid Content of the &longs;aid <emph type="italics"/>S<emph.end type="italics"/>olid &longs;unk. 
+<lb/></s><s>And if the &longs;ubmerged <emph type="italics"/>S<emph.end type="italics"/>olid were of Lead, the <emph type="italics"/>S<emph.end type="italics"/>olid Content of all 
+<lb/>the <emph type="italics"/>Vacua<emph.end type="italics"/> of tho&longs;e <emph type="italics"/>S<emph.end type="italics"/>hips, wherewith you would recover it, &longs;hould 
+<lb/>be no le&longs;s than twenty times as much as the <emph type="italics"/>S<emph.end type="italics"/>olid content of the 
+<lb/>drowned <emph type="italics"/>S<emph.end type="italics"/>olid, and rather more than le&longs;s; and almo&longs;t the &longs;ame 
+<lb/>proportion ought to be ob&longs;erved, if the &longs;ubmerged Solid were of fine 
+<lb/>Silver, for that Lead and pure Silver differ not much in Gravity: 
+<lb/>truth is, that Lead is &longs;omewhat more weighty than Silver, but not 
+<lb/>much.</s></p><p type="main">
+<s>But if the Solid which was &longs;unk, &longs;hould chance to be of pure 
+<lb/>Gold, you mu&longs;t for its recovery take &longs;o many couple of Barks or 
+<lb/>Boats, that the Solid Content of their <emph type="italics"/>Vacua,<emph.end type="italics"/> taken in aggregate, 
+<lb/>may be no le&longs;s than 34 times as much as the Solid content of the 
+<lb/>&longs;aid Golden Solid &longs;ubmerged. </s><s>And that you may the better under&shy;
+<lb/>&longs;tand me, I will put an Example, that you were to recover or rai&longs;e 
+<lb/>out of the water, a Solid Body re&longs;embling a great Tower, which I 
+<lb/>imagine to be in length an 100 Paces, and in breadth 10, and in 
+<lb/>thickne&longs;s al&longs;o ten: and I &longs;uppo&longs;e that it is all one <emph type="italics"/>S<emph.end type="italics"/>olid, that is to 
+<lb/>&longs;ay, not hollow within. </s><s>And fir&longs;t we put the ca&longs;e that this Tower 
+<lb/>were made of Brick. </s><s>Now becau&longs;e the <emph type="italics"/>S<emph.end type="italics"/>olid Content of this &longs;up&shy;
+<lb/>po&longs;ed <emph type="italics"/>S<emph.end type="italics"/>olid would be 10000 cubical Paces: therefore in this ca&longs;e, 
+<lb/>if you would recover this &longs;ame Body, that is, not only loo&longs;en it from 
+<lb/>the bottom of the <emph type="italics"/>S<emph.end type="italics"/>ea, but al&longs;o rai&longs;e it a good height above water, 
+<lb/>it will be requi&longs;ite, as is &longs;aid above, to take &longs;o many pair of Ships, 
+<lb/>Barks, Boats, or other Ve&longs;&longs;els, (as hath been &longs;hewn in the 5 and 6 
+<lb/>Explanation) that the <emph type="italics"/>S<emph.end type="italics"/>olid Content of all the <emph type="italics"/>Vacua<emph.end type="italics"/> of them put 
+<lb/>together, be not le&longs;s than four times the &longs;aid &longs;um of 10000 cubick 
+<lb/>Paces; that is, it mu&longs;t not be under 40000 cubicall Paces, as was 
+<lb/>above determined. </s><s>And &longs;o &igrave;f it happen that the &longs;aid &longs;ubmerged So&shy;
+<lb/>lid &longs;hould be all of Marble, the <emph type="italics"/>S<emph.end type="italics"/>olid Content of all the Vacuities 
+<lb/>of the &longs;aid <emph type="italics"/>S<emph.end type="italics"/>hips, ought not to be le&longs;s than 70000 cubicall Paces, 
+<lb/>namely Septuple, as was before concluded. </s><s>And thus if the &longs;unk. 
+<lb/><emph type="italics"/>S<emph.end type="italics"/>olid were all of Iron or Pewter, the aggregate of all the <emph type="italics"/>S<emph.end type="italics"/>olid Con&shy;
+<lb/>tent of all tho&longs;e <emph type="italics"/>Vacuums<emph.end type="italics"/> put together, mu&longs;t be rather more than 
+
+
+<pb xlink:href="075/01/020.jpg" pagenum="498"/>le&longs;s then 126666 2/3 cubical Paces. </s><s>And in ca&longs;e the Solid were all of 
+<lb/>Copper, the Solid Content of the &longs;aid <emph type="italics"/>Vacua<emph.end type="italics"/> ought to be about 
+<lb/>130000 cubick Paces. </s><s>And likewi&longs;e if the Solid were all of Lead 
+<lb/>or Silver, the Solid Content of all the &longs;aid <emph type="italics"/>Vacua<emph.end type="italics"/> is to be no le&longs;s than 
+<lb/>200000 Paces cubical. </s><s>La&longs;tly, if &longs;uch &longs;ubmerged Solid be pro&shy;
+<lb/>pounded all of fine Gold, the &longs;um of tho&longs;e Cavities ought to be no 
+<lb/>le&longs;s than 340000 cubick Paces.</s></p><p type="main">
+<s>The manner how to proceed in the recovery of tho&longs;e &longs;everall 
+<lb/>kinds of Solids, is to be under&longs;tood to be like to that which was 
+<lb/>pre&longs;cribed in the recovery of the Ship: and that as well in deep, as 
+<lb/>&longs;hallow waters. </s><s>And the greater number of Ships or Boats are re&shy;
+<lb/>quired to opperate in the recovery of the &longs;aid &longs;ubmerged Solid in a 
+<lb/>deep Channell, &longs;o much the more room mu&longs;t yon take upon the 
+<lb/>one and the other Squadron, for to be able to pitch &longs;uch a number 
+<lb/>of Cap&longs;tens as &longs;hall be needfull, and more if occa&longs;ion be. </s><s>Yet you 
+<lb/>mu&longs;t ob&longs;erve, that in the taking the water alternately from the one 
+<lb/>and other Squadron, when you perceive the &longs;aid Solid to be di&longs;&shy;
+<lb/>engaged from the bottom, you are to forbear taking out any more 
+<lb/>from either of them; as was appointed touching the Ship, in the 
+<lb/>&longs;eventh Explanation. </s><s>And make u&longs;e of as many Pullies as you &longs;hall 
+<lb/>&longs;ee cau&longs;e for, not only to lift it to, but al&longs;o to draw it above the 
+<lb/>waters Surface: and that if notwholly, yet for the greater part: 
+<lb/>and when it is lifted as high as is po&longs;ible, then take the remaining 
+<lb/>water by equall mea&longs;ures, out of the one and other Squadron, or 
+<lb/>Rank of Ships; which being done, it &longs;hall be hoi&longs;ted &longs;o high out of 
+<lb/>the water, that you may put under it as many Lighters or Flat-boats, 
+<lb/>as &longs;hall be &longs;ufficient to bear it up, and to carry it to any place, as 
+<lb/>occa&longs;ion &longs;hall require.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION X.<emph.end type="italics"/></s></p><p type="main">
+<s>Albeit <emph type="italics"/>Vitruvius, Vegetius<emph.end type="italics"/> and <emph type="italics"/>Valturius<emph.end type="italics"/> do teach diver&longs;e and &longs;un&shy;
+<lb/>dry wayes to carry water up on high, many whereof may 
+<lb/>&longs;tand us in much &longs;tead in this our Invention, for the commo&shy;
+<lb/>dious filling and emptying all the &longs;everall kinds of Ve&longs;&longs;els &longs;poken of 
+<lb/>above; of which al&longs;o, many are very well known and familiar to 
+<lb/>every one; to wit, with Bur-pumps, Chain pumps, common-pumps, 
+<lb/>and many others: yet neverthele&longs;s to fill the &longs;aid Ships or other 
+<lb/>Ve&longs;&longs;els with water, with great facility and dexterity; I judge this 
+<lb/>more expedient than any of them; namely, to make a Hole in the 
+<lb/>bottom of each of tho&longs;e Ships or other Ve&longs;&longs;els, of two or three inches 
+<lb/>Diameter at lea&longs;t, and for every Ship to appoint a Boome or long 
+<lb/>tapered Pole like a Plugg or Tapp, &longs;o that being thru&longs;t into the &longs;aid 
+<lb/>Hole, it will &longs;top it &longs;o clo&longs;e, that unle&longs;s you con&longs;ent thereto, no 
+
+
+<pb xlink:href="075/01/021.jpg" pagenum="499"/>water can enter in thereat, and this Pole is to be &longs;omewhat longer 
+<lb/>than to reach from the Keel to the upper deck of the &longs;aid Ship; and 
+<lb/>near the other end, put another piece of a Pole cro&longs;s wayes; that 
+<lb/>you may be able by means of that to rule it; namely, to pull it up, 
+<lb/>when you would un&longs;top the Hole, to let in the water that &longs;hould 
+<lb/>fill the Ship, and to thru&longs;t it down when you would &longs;top the Hole 
+<lb/>that no more water may enter; and this &longs;ame Pole &longs;hould pa&longs;s 
+<lb/>through two Rings, fixed in the Hold of the Ship, which are to 
+<lb/>keep the &longs;aid Pole directly over the Hole, that if you would &longs;top it, 
+<lb/>the Plugg or Spiggot may not go be&longs;ides the Hole, when you thru&longs;t 
+<lb/>the Pole downwards. </s><s>And that I may be the better under&longs;tood, I 
+<lb/>have here below drawn the &longs;ame Pole, with its Tapp or Plugg at the 
+<lb/>end. </s><s>And when you go about to recover any Ship, you mu&longs;t &longs;top 
+<lb/>the &longs;aid Holes, till &longs;uch time as the &longs;aid Ships are carried 
+<lb/><figure id="id.075.01.021.1.jpg" xlink:href="075/01/021/1.jpg"/>
+<lb/>and fitted upon the place, as is &longs;hewn above. </s><s>And 
+<lb/>when you would fill them with water, it is but with&shy;
+<lb/>drawing the &longs;aid Poles, and opening the Holes; and 
+<lb/>fa&longs;ten them at that &longs;tay, till you have a mind to &longs;top 
+<lb/>the Holes; and then look downwards, and ob&longs;erve 
+<lb/>when the Ships are as full as they can &longs;wim, or when 
+<lb/>they are full enough, which will be in a very &longs;hort 
+<lb/>time: and then let down tho&longs;e Poles, and &longs;top the 
+<lb/>Holes very clo&longs;e. </s><s>And when they are as full as they 
+<lb/>need, in the ebb of the Tide, combine the Ship with the Pullies, to 
+<lb/>tho&longs;e five or more Orders of Beams often mentioned: and then draw 
+<lb/>out the water with Pumps by little and little, and one while out of 
+<lb/>one, and another while out of the other Ship, as was appointed in 
+<lb/>the &longs;econd Explication: and in all other particulars proceed, as was 
+<lb/>al&longs;o there directed But if the Gravity of tho&longs;e Ve&longs;&longs;els, cau&longs;eth 
+<lb/>them not to fill fa&longs;t enough, you mu&longs;t fill them at the top, that is 
+<lb/>by baling in water by the Deck (I mean the &longs;aid Poles being fir&longs;t 
+<lb/>thru&longs;t down) to make the &longs;aid Ve&longs;&longs;els to de&longs;cend fa&longs;ter, and to rai&longs;e 
+<lb/>the Matter &longs;ubmerged with more Force; many other new wayes 
+<lb/>might be &longs;hewn, as well to empty, as to fill the&longs;e Ve&longs;&longs;els; but for 
+<lb/>the pre&longs;ent this &longs;hall &longs;uffice.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> XI.</s></p><p type="main">
+<s>If you would attempt to recover a Ship or other Ve&longs;&longs;el by the 
+<lb/>wayes here pre&longs;cribed: you mu&longs;t go about the &longs;ame, when the 
+<lb/><arrow.to.target n="marg1557"></arrow.to.target>
+<lb/>Moon is in the Auge of the Excentrick, for at that time the Sea 
+<lb/>ebbeth and floweth more than at any other time in the Moneth; 
+<lb/>and this happens in her Coujunction and Oppo&longs;ition, which is a 
+<lb/>matter of great avail in the&longs;e operations: and herewith we conclude 
+<lb/>this our fir&longs;t Book.</s></p>
+
+
+<pb xlink:href="075/01/022.jpg" pagenum="500"/><p type="margin">
+
+<s><margin.target id="marg1557"></margin.target><emph type="italics"/>i.e.<emph.end type="italics"/> At a &longs;pring, 
+<lb/>tide, which is 
+<lb/>greate&longs;t the third 
+<lb/>day after the fuil 
+<lb/>and change.</s></p><p type="head">
+
+<s>THE 
+<lb/>Indu&longs;trious or Trouble&longs;ome 
+<lb/>INVENTION 
+<lb/>OF 
+<lb/>Nicholaus Tartalea:</s></p><p type="head">
+
+<s><emph type="italics"/>BOOKE<emph.end type="italics"/> II.</s></p><p type="main">
+<s>In which are taught, &longs;ome artificial wayes of <emph type="italics"/>Diving<emph.end type="italics"/>
+<lb/>and &longs;taying long under Water: whereby one may 
+<lb/>ea&longs;ily de&longs;cend to the Bottom, to finde out, not on&shy;
+<lb/>ly a Ship &longs;unke, but al&longs;o, any other &longs;mall thing of 
+<lb/>Value: And the place being darke, many wayes 
+<lb/>are &longs;hewn how to enlighten it: And the thing 
+<lb/>&longs;unk being found, &longs;everall wayes and means are 
+<lb/>pre&longs;cribed how to imbreach them, as well in a 
+<lb/>Deepe, as Shallow Channel.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> I.</s></p><p type="main">
+<s>Having under&longs;tood, <emph type="italics"/>Mo&longs;t Serene Prince,<emph.end type="italics"/> from &longs;un&shy;
+<lb/>dry Sea men, that there are many now adayes, 
+<lb/>who without any particular Artifice or help, do 
+<lb/>upon occa&longs;ion dive and continue a long time 
+<lb/>under Water, and in places very deep; I had 
+<lb/>thought to have added nothing touching the 
+<lb/>way of Artificiall Diving, and &longs;taying under 
+<lb/>water, to &longs;eeke and finde out a Ship, Boare, 
+<lb/>or other thing of Value &longs;ubmerged, and that for two Rea&longs;ons. </s><s>Fir&longs;t, 
+<lb/>Fearing that I &longs;hould be derided by tho&longs;e kinde of men, it being to 
+<lb/>them a &longs;uperfluous thing to go about to do tho&longs;e things by Art, 
+<lb/>which they know how to execute without any arrificiall help. 
+
+
+<pb xlink:href="075/01/023.jpg" pagenum="501"/>Secondly, doubting, by rea&longs;on of my &longs;mall experience in Maratine 
+<lb/>Affairs, to incurre &longs;ome Soleci&longs;me: but there coming into my mind 
+<lb/>an excellent expre&longs;&longs;ion of a famous Philo&longs;opher of this Renowned 
+<lb/>City; who upon a time per&longs;wading me to write &longs;omething that 
+<lb/>was new, and I having an&longs;wered (it being incident for humanly to 
+<lb/>erre) that I was afraid lea&longs;t my &longs;o great de&longs;ire to publi&longs;h my fund y 
+<lb/>new Conjectures, might run me into &longs;ome fanta&longs;tical conceits, that 
+<lb/>might make me become the &longs;ubject of vulgar di&longs;cour&longs;e, this excel&shy;
+<lb/>lent per&longs;on replied: That if Nature &longs;hould forbear her operations for 
+<lb/>fear of producing &longs;ometimes &longs;ome mon&longs;trous things, the worlds de&shy;
+<lb/>&longs;truction would en&longs;ue, for that they onely are free from erring who 
+<lb/>do nothing, who&longs;e &longs;peech hath emboldened me to &longs;peak of a point, 
+<lb/>which I never thought to have medled with; namely, To declare 
+<lb/>&longs;ome of my conjectural wayes of artificial diving, and continuing 
+<lb/>under water, to &longs;eek out any thing that was &longs;unk in the &longs;ame, though 
+<lb/>in places very deep. </s><s>And I judge the&longs;e the mo&longs;t expedient that can 
+<lb/>be devi&longs;ed: and becau&longs;e the&longs;e and the like wayes may be varied 
+<lb/>into &longs;everal forms, and &longs;orts, one more ingenious, and artificial than 
+<lb/>another; the prettie&longs;t, and mo&longs;t ingenious is this, I would have you 
+<lb/><arrow.to.target n="marg1558"></arrow.to.target>
+<lb/>get, made at <emph type="italics"/>Murano,<emph.end type="italics"/> a hollow Globe of Tran&longs;parent Gla&longs;&longs;e, the di&shy;
+<lb/>ameter of which I would have to be at lea&longs;t two foot, with a round 
+<lb/>mouth, that the Diameter of the &longs;aid mouth may be at lea&longs;t one 
+<lb/>foot, or wrather more; that is, &longs;o much as one may ea&longs;ily put his 
+<lb/>head therein, and at plea&longs;ure draw it forth; and next you mu&longs;t 
+<lb/>make two round Boards of a Diameter &longs;omething bigger then that 
+<lb/>of the &longs;aid Globe, and with the&longs;e two round Boards, and four &longs;len&shy;
+<lb/>der pieces of Wood, as long as a man is high, and a little more, you 
+<lb/>mu&longs;t make a little Modell for a man to &longs;tand betwixt the&longs;e four pie&shy;
+<lb/><arrow.to.target n="marg1559"></arrow.to.target>
+<lb/>ces of Wood; and with one of the round Boards above, and the o&shy;
+<lb/>ther beneath; and the&longs;e round Boards are to be very fa&longs;t nailed or 
+<lb/>otherwi&longs;e fa&longs;tened to the four pieces of the Frame, and in the top of 
+<lb/>this Machine, you mu&longs;t fit and fix the &longs;aid Sphere of Gla&longs;&longs;e with the 
+<lb/>mouth downwards, &longs;o, that if a man &longs;tand upright in the &longs;aid Frame, 
+<lb/>he may hold his head in the &longs;aid gla&longs;&longs;e without &longs;tooping. </s><s>And this 
+<lb/>being done, take neer upon as much Lead as all this Machine weighs, 
+<lb/>and make it into a round figure, of the compa&longs;&longs;e of the round 
+<lb/>Boards, and then fa&longs;ten and nail it to the bottome of the &longs;aid Mo&shy;
+<lb/>dell, namely, underneath the lowermo&longs;t Board on which your feet 
+<lb/>&longs;tand when you put it into the Water: And then, (or before) 
+<lb/>make an hole as big as a Shilling in the Centre of this Lead and 
+<lb/>Board, pa&longs;&longs;ing through them both; and this &longs;ame Lead will be able 
+<lb/>to draw almo&longs;t all the Machine together with him that &longs;hall be 
+<lb/>therein under Water. </s><s>Truth is, that the Experiment requireth that 
+<lb/>the &longs;aid Lead be &longs;o limitted that it may be able to draw the Ma&shy;
+
+
+<pb xlink:href="075/01/024.jpg" pagenum="502"/>chine and per&longs;on in it under Water, but &longs;o, that the &longs;upreme or up 
+<lb/>per part of the &longs;ame, that is the uppermo&longs;t round Board, may &longs;tay at 
+<lb/>the Superficies of the Water; that is, if the Lead chance to be &longs;o 
+<lb/>ponderous, that it cau&longs;e the Engine to &longs;ink lei&longs;urely to the bottome, 
+<lb/>you mu&longs;t take away &longs;ome of the &longs;aid Lead; and on the contrary, 
+<lb/>if it chance that the Lead be not able to draw it all in that manner 
+<lb/>under Water, &longs;o as to make the &longs;aid upper round Board to lye and 
+<lb/>&longs;tay exactly level with the Surface of the Water, but that a part of it 
+<lb/>re&longs;ts vi&longs;ible above the Water, you mu&longs;t encrea&longs;e the &longs;aid Lead &longs;o, 
+<lb/>that the upper Board may lye and abide preci&longs;ely, as was &longs;aid be&shy;
+<lb/>fore, in the Surface of the Water: and when you have thus adju&shy;
+<lb/>&longs;ted the &longs;aid Lead, I would have you take a Ball or Bullet of Lead 
+<lb/>weighing two or three pounds, (that is to &longs;ay of &longs;uch a weight, that 
+<lb/>it may be &longs;ufficient to make the Machine and per&longs;on diving to de&shy;
+<lb/>&longs;cend to the bottome as oft as it is interpo&longs;ed, or added,) with an 
+<lb/>Iron Ring in the &longs;aid Ball, to which bend or fa&longs;ten a Rope as long as 
+<lb/>the &longs;aid Water is deep, in which the Diver is to de&longs;cend, and &longs;ome&shy;
+<lb/>what more; and reeve or pa&longs;&longs;e the other end of the &longs;aid 
+<lb/>Cord through the hole 
+<lb/>made in the Board and 
+<lb/>Lead through the bot&shy;
+<lb/><figure id="id.075.01.024.1.jpg" xlink:href="075/01/024/1.jpg"/>
+<lb/>tom of the Model; and 
+<lb/>fa&longs;ten that &longs;ame end 
+<lb/>of the Cord in a place 
+<lb/>of the Machine, &longs;o, that 
+<lb/>the Diver may take it, 
+<lb/>and draw it, or &longs;lack 
+<lb/>it as he plea&longs;eth: and 
+<lb/>this being done, the 
+<lb/>&longs;aid Machine will be 
+<lb/>fini&longs;hed. </s><s>And that you 
+<lb/>may better under&shy;
+<lb/>&longs;tand it, I have here in&shy;
+<lb/>&longs;erted it graphically: 
+<lb/>yet I &longs;hould have told 
+<lb/>you, that for many rea&shy;
+<lb/>ons you &longs;hould in the beginning have fa&longs;tened a Ring in the Cen&shy;
+<lb/>tre of the upper Board, on the out&longs;ide, to tye a Cord to the &longs;ame as 
+<lb/>occa&longs;ion &longs;erveth.</s></p>
+
+
+<pb xlink:href="075/01/025.jpg" pagenum="503"/><p type="margin">
+
+<s><margin.target id="marg1558"></margin.target>A Place near to 
+<lb/><emph type="italics"/>Venice,<emph.end type="italics"/> where the 
+<lb/>famous Glahes 
+<lb/>are made.</s></p><p type="margin">
+
+<s><margin.target id="marg1559"></margin.target>Like the Frame 
+<lb/>of an Houre&shy;
+<lb/>gla&longs;&longs;e.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> II.</s></p><p type="main">
+<s>Having under&longs;tood the manner how to make this &longs;ame En&shy;
+<lb/>gine, it remains to &longs;hew how it is to be u&longs;ed; And for your 
+<lb/>direction therein, I &longs;ay, That he that would dive or go under 
+<lb/>Water to &longs;eek any thing that was &longs;unk, &longs;hould carry the &longs;aid Ma&shy;
+<lb/>chine to the place where he re&longs;olves to de&longs;cend, and fir&longs;t to let that 
+<lb/>Ball of Lead with the Line go to the bottome, and then to put in 
+<lb/>the Machine it &longs;elf, which by means of its heavy bottome of Lead 
+<lb/>will re&longs;t upright in the Water, with almo&longs;t all the Globe of Gla&longs;&longs;e 
+<lb/>above Water, in &longs;uch &longs;ort, that he that would may ea&longs;ily enter into 
+<lb/>the &longs;ame: yet you mu&longs;t be dexterous in going into it, that you do 
+<lb/>not much &longs;way the Machine &longs;idewayes, for that, if it lye too oblique 
+<lb/>the Water will enter into the Globe of Gla&longs;&longs;e, and drive the Aire 
+<lb/>thence that was in the &longs;ame, or at lea&longs;t in part, but holding it up&shy;
+<lb/>right when you enter the &longs;ame, the Water &longs;hall keep in the Aire on 
+<lb/>all &longs;ides, whereby the water will be kept from entring. </s><s>And therefore 
+<lb/>if he that &longs;hall enter into the &longs;aid Machine, do nimbly thru&longs;t his head 
+<lb/>into the &longs;aid Globe by the hole thereof, he &longs;hall finde it quite fil&shy;
+<lb/>led with Ayre; in which place he may breath for verry many Re&shy;
+<lb/>&longs;pirations, without the lea&longs;t ob&longs;truction from the Water: And be&shy;
+<lb/>cau&longs;e this Machine will &longs;tay with its upper end level with the Wa&shy;
+<lb/>ters &longs;urface (the affixed Lead having been &longs;o limited) therefore 
+<lb/>de&longs;iring to de&longs;cend to the bottom, the Diver &longs;hould hale the Ball 
+<lb/>and Line upwards, which was &longs;ent before to the Bottom, in haling 
+<lb/>of which the &longs;aid Machine will de&longs;cend as much under Water as he 
+<lb/>hales the Corde; and if he continue haling it, till there be none of 
+<lb/>it left, he &longs;hall de&longs;cend to the Bottome; and in the de&longs;cent, and after 
+<lb/>that he &longs;hall be got to the bottom, he mu&longs;t look round about him 
+<lb/>through that tran&longs;parent Globe for to finde out the thing he &longs;eeks, 
+<lb/>and &longs;eeing it, he may many wayes with ca&longs;e transferre him&longs;elf 
+<lb/>thither without ri&longs;ing again to the top; And when he would re&shy;
+<lb/>turn upwards to the toppe of the Water, he needs do no more but 
+<lb/>&longs;lacken that corde fa&longs;tned to the Ball of Lead, for thereupon the 
+<lb/>Machine &longs;hall begin to ri&longs;e upwards, and letting the &longs;aid Corde goe, 
+<lb/>it &longs;hall not &longs;tay till the Machines upper parte arrive at the &longs;urface of 
+<lb/>the Water; and being a&longs;cended thither, the Diver may come out 
+<lb/>thereof, and &longs;wim to the top, and provide him&longs;elf afterwards of 
+<lb/>&longs;uch things as are nece&longs;&longs;ary for embreching the &longs;aid Ship or other 
+<lb/>matter &longs;unke: And in ca&longs;e the Diver cannot &longs;wim, it will be nece&longs;&longs;a&shy;
+<lb/>ry to fa&longs;ten a Corde to the Ring placed in the Centre of the upper 
+<lb/>Board, and thereby to draw the Modell above the Surface of the 
+
+
+<pb xlink:href="075/01/026.jpg" pagenum="504"/>Water; but knowing how to &longs;wim, he may enter, a&longs;cend, and 
+<lb/>de&longs;cend of him&longs;elf, without any help.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> III.</s></p><p type="main">
+<s>But if you chance to be in a place where you cannot procure 
+<lb/>the &longs;aid Globe to be made of Gla&longs;&longs;e, it may be made of Wood; 
+<lb/>but then you mu&longs;t make therein great Sights, or Eyeholes of 
+<lb/>clear Gla&longs;&longs;e of each &longs;ide to look four &longs;everall wayes; and pay it 
+<lb/>without, and al&longs;o within if you &longs;ee cau&longs;e with Pitch. </s><s>And if you 
+<lb/>cannot get &longs;uch a Ball of Wood, you may make &longs;hift with a little 
+<lb/>Cubicall Che&longs;t or Boxe, like one of tho&longs;e Che&longs;ts wherein they plant 
+<lb/>Ceaders, which mu&longs;t be well joyned graved and pitch't, with four 
+<lb/>&longs;uch Sights of Gla&longs;&longs;e as before, namely one upon every lateral flat 
+<lb/>or plain, &longs;o placed, that the Diver may &longs;ee through them every way, 
+<lb/>and be able to look downwards, it would be good to make the 
+<lb/>Box &longs;omewhat narrower towards the mouth, that &longs;o the four late&shy;
+<lb/>rall Planes may look &longs;omewhat &longs;loping: and in the entrance, de&shy;
+<lb/>&longs;cent, a&longs;cent, and coming forth, you are to u&longs;e the &longs;ame Rules as be&shy;
+<lb/>fore; aud if you have a de&longs;ire to de&longs;cend fa&longs;ter, you mu&longs;t make the 
+<lb/>Ball of Lead &longs;omewhat heavier, that was tyed to the end of the 
+<lb/>Corde, and this done the Machine &longs;hall de&longs;cend fa&longs;ter to the bottom 
+<lb/>upon halling the &longs;aid Corde and Ball; and when you vere or let 
+<lb/>loo&longs;e the Cord, the Engine will re-a&longs;cend but according to its former 
+<lb/>&longs;peed: But if you would al&longs;o make it &longs;wifter in its a&longs;cent you are 
+<lb/>to proceed quite contrary, that is, you mu&longs;t &longs;omewhat dimini&longs;h the 
+<lb/>Lead, which is under the Ba&longs;e of the fiame; and the more you di&shy;
+<lb/>mini&longs;h the &longs;aid Lead, the &longs;wifter &longs;hall it be in a&longs;cending. </s><s>But you 
+<lb/>mu&longs;t remember withall to encrea&longs;e the Ball of Lead, &longs;o that it may 
+<lb/>be able to draw the &longs;aid Machine to the bottome &longs;peedily or lei&longs;ure&shy;
+<lb/>ly according as occa&longs;ion requires.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> IV.</s></p><p type="main">
+<s>But if there be any likelihood of any obnoxious Fi&longs;h in the place 
+<lb/>where the Diver is to de&longs;cend, that may hurt him, being quite na&shy;
+<lb/>ked; though that in the former kind of Machine with four pillars you 
+<lb/>may &longs;e u e him with a wire Grate, made in the manner of doors to the 
+<lb/>&longs;ame, yet to the end that you may know that this Invention may be 
+<lb/>varied &longs;undry ways; you may in this ca&longs;e have a Globe of tran&longs;parent 
+<lb/>gla&longs;s made at <emph type="italics"/>Murano,<emph.end type="italics"/> of &longs;uch a bigne&longs;s, that a man &longs;tanding on his feet, 
+<lb/>or el&longs;e &longs;itting, may be contain'd therein, having amouth or round hole 
+<lb/>of capacity &longs;ufficient for a man, commodiou&longs;ly to enter and goe out 
+<lb/>thereby, and &longs;omewhat larger: &amp; then coffin or enclo&longs;e the &longs;aid Globe 
+
+
+<pb xlink:href="075/01/027.jpg" pagenum="505"/>between two round Boards of &longs;omewhat a greater Diameter than 
+<lb/>the Globe, with four pillars, as in the en&longs;uing figure doth graphically 
+<lb/>appear. </s><s>But in the round Board which is put over the hole or mouth 
+<lb/>of the &longs;aid Globe, you mu&longs;t al&longs;o make a round hole &longs;omewhat nar&shy;
+<lb/>rower than that of the Globe, but yet big enough for a man to pa&longs;&longs;e 
+<lb/>in and out thereat. </s><s>Afterwards under this round Board &longs;o bored, 
+<lb/>you mu&longs;t place and fix another round bored piece of Lead of &longs;uch 
+<lb/>thickne&longs;&longs;e, as that it may be able to draw the &longs;aid Ball or Globe of 
+<lb/>Gla&longs;&longs;e, together with the Diver in &longs;uch manner under Water, that 
+<lb/>the upper round Board do re&longs;t in the Surface of the Water, namely, 
+<lb/>that it may not be &longs;o heavy as to &longs;ink the Globe and Diver to the 
+<lb/>bottome, but only to retain it beneath the Surface of the Water, 
+<lb/>which by tryal may be ea&longs;ily proportioned, namely, by adding or 
+<lb/>taking away Lead from the Ba&longs;e, according as occa&longs;ion &longs;hall require. 
+<lb/></s><s>Next you are to frame a &longs;eat for the Diver to &longs;it commodiou&longs;ly in 
+<lb/>the &longs;aid Ball or Globe, and next fa&longs;ten a Ball of Lead to the end of 
+<lb/>a Rope, as many fathom long as the water is deep into which you 
+<lb/>would de&longs;cend, and &longs;omewhat more, as was &longs;aid in the preceding 
+<lb/>Explanation. </s><s>And that Ball of Lead &longs;hould be of &longs;uch bigne&longs;&longs;e, that 
+<lb/>applied to the &longs;aid Model, it may be &longs;ufficient to make it de&longs;cend to 
+<lb/>the bottome lei&longs;urely, or &longs;wiftly, as he &longs;eeth cau&longs;e who is to dive. 
+<lb/></s><s>And make an handle or peg in the &longs;aid Globe whereat to fa&longs;ten or 
+<lb/>belay the other end of 
+<lb/>the &longs;aid Rope, and to 
+<lb/>draw it ea&longs;ily upwards, 
+<lb/><figure id="id.075.01.027.1.jpg" xlink:href="075/01/027/1.jpg"/>
+<lb/>or let it loo&longs;e at the 
+<lb/>plea&longs;ure of him that is 
+<lb/>within, and this may be 
+<lb/>ea&longs;ily done by joyning 
+<lb/>and fa&longs;tening four 
+<lb/>pieces of wood upright 
+<lb/>in the mouth or hole of 
+<lb/>that bored Board and 
+<lb/>Lead, which &longs;hall be 
+<lb/>about the mouth of the 
+<lb/>&longs;aid Globe; and that 
+<lb/>I may be the better 
+<lb/>under&longs;tood, I will give 
+<lb/>it you in figure with the 
+<lb/>Diver &longs;itting therein. 
+<lb/></s><s>If you would de&longs;cend to the bottome of &longs;ome deep water by help 
+<lb/>of this Machine, you are to proceed according to the directions gi&shy;
+<lb/>ven in the precedent Explanation.</s></p>
+
+
+<pb xlink:href="075/01/028.jpg" pagenum="506"/><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> V.</s></p><p type="main">
+<s>In ca&longs;e you &longs;hould be in a place where you could not have &longs;uch 
+<lb/>a Globe made of Gla&longs;&longs;e, you may procure one of Copper or 
+<lb/><arrow.to.target n="marg1560"></arrow.to.target>
+<lb/>Lead, round in fa&longs;hion of a greater ^{*} Churne, wide in the bot&shy;
+<lb/>tome and narrow in the mouth, and at lea&longs;t five foot high, and four 
+<lb/>foot broad. </s><s>It may indeed be made quadrangular, that is, &longs;o that 
+<lb/>the mouth be at lea&longs;t three foot &longs;quare every way, and the bottome 
+<lb/>at lea&longs;t four foot every &longs;ide, and not under five foot high, and this 
+<lb/>&longs;ame ve&longs;&longs;el, making it of Lead, mu&longs;t be &longs;o contrived, or proportio&shy;
+<lb/>ned, that the corporeal or &longs;olid <emph type="italics"/>Area,<emph.end type="italics"/> or Content of its interiour va&shy;
+<lb/>cuity, or &longs;pace, be about <gap/>oruple to the &longs;olid <emph type="italics"/>Area<emph.end type="italics"/> of the Lead, 
+<lb/>which is imployed in making the &longs;aid Ve&longs;&longs;el; that is, make the Lead 
+<lb/>of &longs;uch a thickne&longs;&longs;e, that the Ve&longs;&longs;els vacuity may be nine tenths of 
+<lb/>the &longs;olid Area of all the whole Frame, which may be ea&longs;ily done by 
+<lb/>any one that is not ignorant of practical Geometry: and this Ve&longs;&longs;el 
+<lb/>being made, you &longs;hould place or &longs;et therein four great Fye holes or 
+<lb/>Sights of tran&longs;parent or cri&longs;taline Gla&longs;&longs;e, &longs;o placed as to &longs;ee any way 
+<lb/>as you &longs;hall need or de&longs;ire: and furthermore, in the framing of this 
+<lb/>&longs;ame Ve&longs;&longs;el, you mu&longs;t make &longs;ome provi&longs;ion for the &longs;etling or &longs;tay&shy;
+<lb/>ing your feet, and to &longs;it down, and likewi&longs;e you mu&longs;t make a 
+<lb/>Pulley to hall the Ball of Lead up, or let it down, which is fa&longs;tened 
+<lb/>to the end of the long cord, as was &longs;aid in the two precedent ca&longs;es. 
+<lb/></s><s>And moreover, in the making of this Ve&longs;&longs;el, you are to fa&longs;ten four 
+<lb/>Rings of Iron to the bottome without, namely, to the four Angles, 
+<lb/>it being Quadrangular; (and being round, let them divide the Cir&shy;
+<lb/>cumference into four equal parts) and betwixt the&longs;e four Rings, 
+<lb/>you mu&longs;t place a &longs;quare or round Deal Board. </s><s>And this Ve&longs;&longs;el thus 
+<lb/>modellized &longs;hall be &longs;o contrived, that putting it into the water with 
+<lb/>the mouth downwards, with him in it who is to Dive, it &longs;hall but ju&longs;t 
+<lb/>&longs;tay in the Surface of the water with that bottome of wood; but if 
+<lb/>it chance that it &longs;hall not &longs;tay at the Surface of the water by helpof 
+<lb/>that bottome of Board, but that it will de&longs;cend, you mu&longs;t upon that 
+<lb/>bottome fa&longs;ten another, or two, or more &longs;quare or round Boards to 
+<lb/>the four Rings, in &longs;uch wi&longs;e, that by means of the &longs;aid Boaids it may 
+<lb/>be reduced to &longs;uch a quality, that it may re&longs;t with the &longs;aid round 
+<lb/>Boards in the Surface of the water, and de&longs;cend no farther. </s><s>Having 
+<lb/>with judgement and experience provided all the&longs;e things, and the 
+<lb/>Diver being de&longs;irous to de&longs;cend of him&longs;elf, and likewi&longs;e to return 
+<lb/>to the top when he plea&longs;eth, this may be performed with that Ball 
+<lb/>of Lead tied to the end of that long Rope, as hath been &longs;aid in the 
+<lb/>precedent Explanations, that is, to &longs;end the Ball fir&longs;t to the bottom in 
+<lb/>he place where the Diver would de&longs;cend, and then to enter into the 
+
+
+<pb xlink:href="075/01/029.jpg" pagenum="507"/>Machine, and to &longs;ettle him&longs;elf therein; and then to pull the Ball 
+<lb/>upwards, which &longs;hould be of that Gravity, that it may be apt to 
+<lb/>make &longs;uch a Ve&longs;&longs;el or Machine de&longs;cend together with the Diver; and 
+<lb/>if the Machine chance to be ju&longs;tly contrived, as hath been &longs;aid a&shy;
+<lb/>bove, I hold that a Ball of &longs;ive or &longs;ix pounds may be &longs;ufficient to 
+<lb/>make it de&longs;cend nimbly upon the pulling of the Cord, and lifting 
+<lb/>the Ball from the bottome, and continuing to draw the &longs;aid Cord, 
+<lb/>as long as there is any remaining, he &longs;hall arrive at the bottome; and 
+<lb/>whenever he would return upwards, he need but only vere or &longs;lack&shy;
+<lb/>en that Cord, and letting it all go he will not cea&longs;e a&longs;cending till the 
+<lb/>Machine attains with its top (covered with tho&longs;e &longs;quare or round 
+<lb/>Boards) unto the Surface of the Water, as hath been &longs;aid of the o&shy;
+<lb/>thers. </s><s>I will not &longs;tand to &longs;hew you the many particularities which 
+<lb/>might be in&longs;erted for the tran&longs;porting your &longs;elves from one place to 
+<lb/>another, keeping at the bottome, that is, without returning to the 
+<lb/>top, for that they are almo&longs;t infinite, but it &longs;hall &longs;uffice to let you 
+<lb/>know, that he may ea&longs;ily do it, carrying with him a long Hitcher, or 
+<lb/>a Boom, or a Spike with a Hook at the end.</s></p><p type="margin">
+
+<s><margin.target id="marg1560"></margin.target>* <emph type="italics"/>Brenta,<emph.end type="italics"/> a Ve&longs;&longs;el 
+<lb/>in which they 
+<lb/>in Italy carry 
+<lb/>Grapes to the 
+<lb/>Pre&longs;s.</s></p><p type="main">
+<s>Many other particulars there might be in&longs;i&longs;ted on, and e&longs;pecially 
+<lb/>how many may &longs;imply (that is, without any of the forsaid Ma&shy;
+<lb/>chines) go to the bottome, and &longs;tay for many hours under Water, 
+<lb/>which, be&longs;ides the many profitable conclu&longs;ions that might from 
+<lb/>thence be inferred for Diving in indifferent depths, being accompa&shy;
+<lb/>nied with the helps pre&longs;cribed in the foregoing Explanations, they 
+<lb/>would be much to the purpo&longs;e, for that the Liver being once condu&shy;
+<lb/>cted with the Machine near unto the thing &longs;unk, he might come out 
+<lb/>of the &longs;aid Machine, and go and &longs;tay for a long time about the &longs;ame, 
+<lb/>to fa&longs;ten, or prepare tho&longs;e things that are nece&longs;&longs;ary for the rai&longs;ing 
+<lb/>it: And farthermore, there is &longs;omething to be &longs;aid, when the thing 
+<lb/>&longs;unk is in a muddy or dark Water, how the Diver may in &longs;undry 
+<lb/>wayes, kindle there a great and flaming light, which flaming fire, 
+<lb/>be&longs;ides that it would make him di&longs;cern the thing &longs;unk, it would al&longs;o 
+<lb/>&longs;ecure him in his going forth of the Machine from any devouring 
+<lb/>Fi&longs;hes, for that all &longs;uch as &longs;hould chance to be near that place would 
+<lb/>be affrighted at &longs;uch an unu&longs;ual &longs;pectacle, and would make far 
+<lb/>from it. </s><s>I might al&longs;o &longs;hew many wayes to embreech and grapple a 
+<lb/>Ship when it is found, as well in deep as &longs;hallow Channels, which 
+<lb/>particulars I &longs;hall re&longs;erve for another time.</s></p><p type="main">
+<s>I will not &longs;tand to &longs;hew how this kind of Diving Machine might 
+<lb/>be made of Boards, and that in &longs;undry fa&longs;hions, well calked and 
+<lb/>pitcht, with four Lights or Sights, fa&longs;tening about the mouth of the 
+<lb/>&longs;ame as much Lead as &longs;hould be nece&longs;&longs;ary, ora&longs;inuch as by what 
+<lb/>hath been &longs;poken in the third Explanation, it is &longs;ufficiently manife&longs;t. </s></p>
+
+
+<pb xlink:href="075/01/030.jpg" pagenum="508"/><p type="head">
+
+<s>A 
+<lb/>SUPPLEMENT 
+<lb/>OF THE 
+<lb/>Indu&longs;trious or Trouble&longs;ome 
+<lb/>INVENTION 
+<lb/>OF 
+<lb/>Nicholaus Tartalea:</s></p><p type="main">
+<s>In which is &longs;hewn a general and &longs;afe way to im&shy;
+<lb/>breech Cables, and hitch Grappling irons to any 
+<lb/>Ship that's &longs;unk, a&longs;well in a deep as &longs;hallow Bot&shy;
+<lb/>tome, provided you know the exact place where 
+<lb/>the &longs;aid Ship is. </s><s>Together with another new way 
+<lb/>of rai&longs;ing or recovering the &longs;ame.</s></p><p type="main">
+<s><emph type="italics"/>Whereunto is, la&longs;t of all, added &longs;ome new ways to conduct a Light, or 
+<lb/>Flaming Matter, unto the Bottome of the Water, to enlighten, upon oc&shy;
+<lb/>ca&longs;ion, any dark Bottome, for the di&longs;covery, not onely, of a Ship or Bark, 
+<lb/>but al&longs;o any &longs;mall thing of value that is &longs;unk, and that in the night as
+<lb/>well as in the day.<emph.end type="italics"/></s></p><p type="head">
+
+<s>To the Mo&longs;t 
+<lb/>Illu&longs;trious and mo&longs;t Serene</s></p><p type="head">
+
+<s>PRINCE 
+<lb/>France&longs;co Donato, 
+<lb/>Duke of 
+<lb/>VENICE.</s></p><p type="main">
+<s><emph type="italics"/>Having not long &longs;ince, Most Serene, and Mo&longs;t 
+<lb/>Illu&longs;trious Prince, publi&longs;hed under the Glorious 
+<lb/>Name of your Highne&longs;&longs;e, &longs;undry and diver&longs;e 
+<lb/>way storai&longs;e a Ship &longs;unk, with its Cargo in it (when once<emph.end type="italics"/>
+
+
+<pb xlink:href="075/01/031.jpg" pagenum="509"/><emph type="italics"/>it is Grappled) I mu&longs;t confe&longs;&longs;e I was not then &longs;ollicitous to 
+<lb/>find a way to imbreach or grapple the &longs;aid Ship (though 
+<lb/>it is nece&longs;&longs;ary to be known) and the cau&longs;e thereof was, for 
+<lb/>that I concluded that among&longs;t Mariners there were a 
+<lb/>thou&longs;and means to effect it, and I was loath to enquire af&shy;
+<lb/>ter &longs;uch things as are commonly known to many, although 
+<lb/>I be ignorant of them; but delight to &longs;earch into tho&longs;e 
+<lb/>things which none el&longs;e can do. </s><s>Now, having been &longs;ince 
+<lb/>told and a&longs;&longs;ured by many, that Mariners, and all other 
+<lb/>per&longs;ons of ingenuity find far greater difficulty in imbrea&shy;
+<lb/>ching and Grappling &longs;uch a Ship, than they do, (when 
+<lb/>once they have hold of it) to rai&longs;e the &longs;ame: I under&longs;tan&shy;
+<lb/>ding the &longs;ame, pre&longs;ently deliberated upon &longs;ome way that 
+<lb/>&longs;hould be general and &longs;ecure, and to adde it in the end of 
+<lb/>my Treati&longs;e, that &longs;o it might not, for want thereof, be vain 
+<lb/>and u&longs;ele&longs;s. </s><s>And thus; of many that I have found, that 
+<lb/>which to me hath &longs;eemed mo&longs;t univer&longs;al and ea&longs;y to be 
+<lb/>explained by writing; I have here &longs;ubjoined, together 
+<lb/>with another new way to recover the &longs;aid Ship: and the 
+<lb/>manner how to illuminate the bottome of a dark Water, 
+<lb/>but still under the Illustrious Name of your Serene 
+<lb/>Highne&longs;&longs;e, at who&longs;e feet I once more humbly throw my 
+<lb/>&longs;elf<emph.end type="italics"/></s></p><p type="main">
+<s>NICOLO TARTAGLIA.</s></p>
+
+
+<pb xlink:href="075/01/032.jpg" pagenum="510"/><p type="head">
+
+<s>A Supplement.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> I.</s></p><p type="main">
+<s>To hitch therefore, and &longs;ling, or grapple fa&longs;t a laden Ship 
+<lb/>that is &longs;unk, being in a &longs;howle bottome, as was that broken 
+<lb/>up near to <emph type="italics"/>Malamoccho,<emph.end type="italics"/> you are to take a very &longs;trong 
+<lb/>Sheat-anchor Cable, of &longs;uch a length as is &longs;ufficient for 
+<lb/>the U&longs;es hereafter to be under&longs;tood, and at one end of 
+<lb/>&longs;uch a Cable you are to &longs;eiz or fa&longs;ten very well a thick and &longs;trong Iron 
+<lb/>Ring, big enough for the other end of the Cable to pa&longs;&longs;e through with 
+<lb/>ea&longs;e, and make thereof a running Parbunckle: and then, near to this 
+<lb/>Ring (that is under this Cable at the place where it &longs;hall be bent to 
+<lb/>the Ring) you mu&longs;t &longs;eiz or fa&longs;ten one of the Flooks of a thick and 
+<lb/>&longs;trong Anchor, and about three fathoms &longs;pace from that fir&longs;t An&shy;
+<lb/>chor hitch the Flook of another &longs;econd Anchor into the &longs;aid Cable, 
+<lb/>&longs;eizing or fa&longs;tening it that it &longs;tir not: and about two fathoms di&shy;
+<lb/>&longs;tance from this &longs;econd Anchor, &longs;eiz, as before the Flook of a third 
+<lb/>Anchor, and &longs;o two fathom from that a fourth Anchor; and &longs;o pro&shy;
+<lb/>ceed, placing in that manner as many Anchors as &longs;uffice to go round 
+<lb/>the Hull of the &longs;aid Ship under its Wails, and rather le&longs;&longs;e than more, 
+<lb/>to the end the la&longs;t Anchor may be no hinderance to the running of 
+<lb/>the Parbunckle at the Ring at &longs;uch time as it is to be rou&longs;ed or vered, 
+<lb/>that is, to be drawn or let &longs;lip. </s><s>The truth is, that in the part of the 
+<lb/>Cable marked E, in the Figure following, and in the oppo&longs;ite 
+<lb/>part marked G (which parts you are to place &longs;o that they may fall 
+<lb/>one at the Stem, the other at the Stern) no Anchor is to be placed, 
+<lb/>but you mu&longs;t leave at lea&longs;t three fathom interval betwixt tho&longs;e An&shy;
+<lb/>chors at G, as was required to be done betwixt the fir&longs;t and &longs;econd 
+<lb/>at E. </s><s>And then form the &longs;aid Running Parbunckle, that is, reeve the 
+<lb/>other end of the Cable through the Ring of Iron; and, that being 
+<lb/>made, you are to place many per&longs;ons upon Flat-bottome Boats fa&shy;
+<lb/>&longs;tened in an Oval Figure round the place where the Ship lyeth: and 
+<lb/>then vere or &longs;lacken the Parbunckle, but in an Oval Form, to that 
+<lb/>widene&longs;&longs;e, that it may at four or five foot di&longs;tance, inviron the foun&shy;
+<lb/>dered Ship: and this done, you mu&longs;t let all the Anchors, together 
+<lb/>with this Girdle or Parbunckle, (being kept at that widene&longs;&longs;e) gent&shy;
+<lb/>ly and equally fall to the bottome of the Sea, keeping the Ship in 
+<lb/>the mid&longs;t of the Ovall: and when you perceive all the Anchors de&shy;
+<lb/>&longs;cended to the bottome, you mu&longs;t vere there &longs;everal Cables, that 
+<lb/>they may &longs;ink deep into the &longs;and or Ouze; and then after this you 
+
+
+<pb xlink:href="075/01/033.jpg" pagenum="511"/>mu&longs;t draw, and bring them by degrees clo&longs;e underneath the Hull of 
+<lb/>the Ve&longs;&longs;el, and then hall or &longs;train hard the end of the Sheat Anchor 
+<lb/>Cable which was reeved through the Ring; and begirt the Hull 
+<lb/>of the Ship therewith, as with a Girdle (and to &longs;train it very taught, it 
+<lb/>would not be ami&longs;&longs;e to make u&longs;e of a Cap&longs;tan) and when this 
+<lb/>Girdle is drawn to its due exactne&longs;&longs;e, to the end it may not &longs;lip (in 
+<lb/>the elevation of the Ship) fa&longs;ten to that part which you hold above 
+<lb/>Water another Ring of Iron, and pa&longs;&longs;e through this Ring one of 
+<lb/>the Anchor-Cables that is on the &longs;ame &longs;ide as the fir&longs;t Ring is on, 
+<lb/>and almo&longs;t as far from the &longs;aid Ring, as the &longs;econd Ring is di&longs;tant 
+<lb/>from the fir&longs;t; whereupon making this &longs;econd Ring to &longs;lip along 
+<lb/>the &longs;aid Anchor Cable, and then in the Elevation halling the &longs;ame, 
+<lb/>it &longs;hall make the &longs;aid Girdle taught under the &longs;aid Ship: and that I 
+<lb/>may be the better under&longs;tood, I have here underneath repre&longs;ented 
+<lb/>the &longs;aid Girdle pul'd together in an Oval Figure as it is to lye under 
+<lb/>the Rake of the Ships Hull with fourteen Flooks of fourteen An&shy;
+<lb/>chors under the &longs;ame (except in the part inked E, and in its oppo&shy;
+<lb/>&longs;ite part G,) well &longs;ea&longs;&shy;
+<lb/>ed; of which Girdle, or 
+<lb/>Parbunckle, the fir&longs;t 
+<lb/><figure id="id.075.01.033.1.jpg" xlink:href="075/01/033/1.jpg"/>
+<lb/>Ring &longs;hall be A, 
+<lb/>through which the 
+<lb/>Sheat-Anchor Cable 
+<lb/>pa&longs;&longs;eth, namely, the 
+<lb/>Cable A B, to which 
+<lb/>Cable was fa&longs;tened a 
+<lb/>&longs;econd Ring in the 
+<lb/>point B, through which 
+<lb/>&longs;econd Ring, (to the 
+<lb/>end the Girdle might 
+<lb/>not &longs;lio) we will reeve 
+<lb/>the Cable of the An&shy;
+<lb/>chor C; which Anchor 
+<lb/>C we &longs;uppo&longs;e to be 
+<lb/>&longs;omewhat farther from 
+<lb/>the Ring A, than the &longs;econd Ring B is from the fir&longs;t Ring A, and 
+<lb/>then make the &longs;aid Ring B to &longs;lip along the Cable of the &longs;aid <emph type="italics"/>A<emph.end type="italics"/>nchot 
+<lb/>C, till it come to the point C. <emph type="italics"/>A<emph.end type="italics"/>nd thus the Ship &longs;hall be &longs;ecurely 
+<lb/>and &longs;trongly grappled and begirt. <emph type="italics"/>W<emph.end type="italics"/>hich done, proceeding as we 
+<lb/>directed in the fir&longs;t Book of our <emph type="italics"/>Indn&longs;trious Invention,<emph.end type="italics"/> you will exe&shy;
+<lb/>cute your purpo&longs;e; That is, when the two or more coupled Ships 
+<lb/>&longs;hall be full of water, at the ebbing of the Tide you are to fa&longs;ten 
+<lb/>and belay to tho&longs;e Tires of Beams that couple the &longs;aid Ships, all 
+<lb/>tho&longs;e fourteen Cables, taking a little more care in tying, and belay&shy;
+
+
+<pb xlink:href="075/01/034.jpg" pagenum="512"/>ing that of the Anchor C, which will keep the Girdle from &longs;lipping 
+<lb/>in the Elevation.</s></p><p type="main">
+<s>But if you doubt that that &longs;ingle Cable, to which the Anchors 
+<lb/>are fa&longs;tened, is not &longs;ufficient for &longs;o great a weight, you may above 
+<lb/>that, place another with a Ring al&longs;o, through which (as before) the 
+<lb/>end of it may pa&longs;&longs;e, by that means begirting the Ship with two of 
+<lb/>tho&longs;e Girdles, and ob&longs;erving the &longs;ame Rules you may take three or 
+<lb/>four of tho&longs;e &longs;lipping &longs;heat-anchor Cables, each with its Ring 
+<lb/>wherein to run in the manner of a Noo&longs;e. <emph type="italics"/>A<emph.end type="italics"/>nd when the &longs;aid new 
+<lb/>Girdle is pulled &longs;trait and clo&longs;e to the Ship, fa&longs;ten to the &longs;aid Cable, 
+<lb/>(or to each of them if you u&longs;e more) another &longs;econd Ring, to gird 
+<lb/>and hold the &longs;aid Noo&longs;e fa&longs;t, that it &longs;lip not with the Cable of the 
+<lb/><emph type="italics"/>A<emph.end type="italics"/>nchor C, or with more of tho&longs;e <emph type="italics"/>A<emph.end type="italics"/>nchor-Cables if there be occa&shy;
+<lb/>&longs;ion.</s></p><p type="main">
+<s><emph type="italics"/>A<emph.end type="italics"/>nd in ca&longs;e that tho&longs;e fourteen Cables be thought in&longs;ufficient 
+<lb/>to bear &longs;o great a burden, you may take twenty or thirty of them, or 
+<lb/>as many as you plea&longs;e, tying them clo&longs;er to one the other, under 
+<lb/>the running Cable, and make half of them to be placed on one &longs;ide, 
+<lb/>and the other half on the other &longs;ide of the &longs;aid Ship.</s></p><p type="main">
+<s><emph type="italics"/>A<emph.end type="italics"/>nd if again it be doubted that the &longs;ingle Cable of the <emph type="italics"/>A<emph.end type="italics"/>nchor 
+<lb/>C s not able to hold the Noo&longs;e fa&longs;t, you may take two or three of 
+<lb/>them, for you may judge what the &longs;tre&longs;s of that anchor is by means of 
+<lb/>the height of the water. </s><s>Truth is, this office might be di&longs;tributed 
+<lb/>among&longs;t more <emph type="italics"/>A<emph.end type="italics"/>nchors, by adding a third Ring to the main Cable, 
+<lb/>as far from the &longs;econd, as the <emph type="italics"/>A<emph.end type="italics"/>nchor D is di&longs;tant from the <emph type="italics"/>A<emph.end type="italics"/>nchor 
+<lb/>C, &longs;o that the Cable of the <emph type="italics"/>A<emph.end type="italics"/>nchor D, pa&longs;&longs;ing through that third 
+<lb/>Ring, and &longs;lipping the &longs;aid Ring along till it come to D, it will fol&shy;
+<lb/>low that tho&longs;e two Cables of tho&longs;e two Anchors C and D, will keep 
+<lb/>the Parbunckle &longs;traight; aud in this manner you may proceed by ad&shy;
+<lb/>ding new Rings, and imploying more Anchor-Cables, for the great&shy;
+<lb/>er &longs;ecurity.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> II.</s></p><p type="main">
+<s>The &longs;ame method may al&longs;o be ob&longs;erved when the Ship is in a 
+<lb/>deep place, provided that the depth exceed not the length of the 
+<lb/>Hull of the Ship, becau&longs;e then there may be alwaies found &longs;ome one 
+<lb/>or more Cables &longs;ufficient to reeve through the &longs;econd and follow&shy;
+<lb/>ing Rings of the Main Cable to &longs;ecure the Noo&longs;e from &longs;lipping, or 
+<lb/>growing &longs;lack, as in the preceding declaration hath been &longs;aid. </s><s>But if 
+<lb/>it chance that the depth of the place be far greater than the length 
+<lb/>of the Ship, you can no longer &longs;ecure the Noo&longs;e with that &longs;econd 
+<lb/>Ring, but mu&longs;t find out &longs;ome other way, and though there might be 
+<lb/>many found out, I &longs;hall in&longs;tance but in this one.</s></p>
+
+
+<pb xlink:href="075/01/035.jpg" pagenum="513"/><p type="main">
+
+<s>After you have &longs;trained, drawn the &longs;aid Girdle as taught as you 
+<lb/>can, you may take the Cable thereof, and the Cable of the anchor 
+<lb/>next adjoyning on the &longs;ame &longs;ide that the fir&longs;t Ring is on (namely, 
+<lb/>the Cable marked F,) and twi&longs;t and wind them together, and then 
+<lb/>reeve the &longs;ingle Cable of the Girdle <emph type="italics"/>A B,<emph.end type="italics"/> through the Ring of a 
+<lb/>Sheat-anchor, (without its Cable) and let the anchor &longs;lide down&shy;
+<lb/>wards along the &longs;aid Main Cable, which by rea&longs;on of its weight will 
+<lb/>run almo&longs;t clo&longs;e to the Ring <emph type="italics"/>A,<emph.end type="italics"/> of the Main Cable, pre&longs;&longs;ing the twi&longs;t 
+<lb/>of the two Cables clo&longs;e at <emph type="italics"/>A<emph.end type="italics"/>; and this done, once more twine or 
+<lb/>twi&longs;t a little the two former Cables, namely the Sheat anchor-cable 
+<lb/>B, and the le&longs;&longs;er Cable F, and then &longs;ea&longs;e tho&longs;e two Cables &longs;everally 
+<lb/>to the Orders of Beams, that is, one to one Order, and the other to 
+<lb/>another at &longs;ome di&longs;tance from the former, to the end they drive 
+<lb/>down the twi&longs;ting near to the Ring of the anchor: which twi&longs;ting 
+<lb/>will keep the Noo&longs;e from &longs;lipping or opening in elevating the Ship. 
+<lb/><emph type="italics"/>A<emph.end type="italics"/>nd if there be any occa&longs;ion to u&longs;e a Cap&longs;tain (as was &longs;aid in the 
+<lb/>&longs;eventh Explanation of the fir&longs;t Book) you mu&longs;t always take care 
+<lb/>to &longs;train the&longs;e two Cables equally, and much a&longs;under, which doing, 
+<lb/>the Girdle &longs;hall be kept &longs;trait. </s><s>Many other ways might be &longs;hewen 
+<lb/>for to keep the &longs;aid Grand Cable from &longs;lipping, but e&longs;teeming them 
+<lb/>&longs;uperfluous, I omit them.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> III.</s></p><p type="main">
+<s>He that is de&longs;irous to recover a foundered Ship laden with 
+<lb/>Fraight, by other ways than tho&longs;e pre&longs;cribed in the fir&longs;t Book, 
+<lb/>namely, without &longs;tanding to fill tho&longs;e two or more Ships, or other 
+<lb/>Ve&longs;&longs;els with water, and then to empty them, may only by force of 
+<lb/>Cap&longs;tains or Cranes ea&longs;ily effect the &longs;ame in the manner following, 
+<lb/>(&longs;till making u&longs;e of the Parbunckle and flooks of anchors explained 
+<lb/>in the fir&longs;t Explanation of this) namely: By taking from their an&shy;
+<lb/>chors Rings all their Cables, except that which is to make fa&longs;t the 
+<lb/>Main-Cable Noo&longs;e that begirts the Ship, and in their places make 
+<lb/>fa&longs;t to each Ring a &longs;trong Pulley or Block, in &longs;uch &longs;ort, that all the 
+<lb/>&longs;aid Pulleys or Blocks have equal number of Shivers, or wheels, and 
+<lb/>tho&longs;e as many as you can make them: and through the&longs;e Shivers or 
+<lb/>wheels reeve their proper and convenient Cables or Ropes, incatena&shy;
+<lb/>ting each Pulley with its &longs;uperiour; and this done, make two &longs;qua&shy;
+<lb/>drons of Barks, or Lighters, or Flat-boats, according to the method 
+<lb/>laid down in the fourth Explanation of the fir&longs;t Book, collated and 
+<lb/>bound together with tho&longs;e Tires of thick and &longs;trong Beams tripled, 
+<lb/>and with a great and &longs;pacious platform of thick Planks upon each 
+<lb/>&longs;quadron, and upon tho&longs;e two &longs;pacious platforms place as many 
+<lb/>Cap&longs;ters or Ship-cranes as you &longs;hall judge nece&longs;&longs;ary for &longs;uch a 
+
+
+<pb xlink:href="075/01/036.jpg" pagenum="514"/>weight, and rather much more, then ever &longs;o little le&longs;s, and then let 
+<lb/>fall the &longs;aid Anchors lei&longs;urely, with the Girdle opened in an Oval 
+<lb/>Figure, untill they come to the bottome of the Sea, &longs;o that the Girdle 
+<lb/>do encircle or &longs;urround the foundered Ship. </s><s>And having once be&shy;
+<lb/>girt it carefully, approximate all the Anchors with the Girdle to the 
+<lb/>Hull of the Ship, and then &longs;harpen or make taught the Girdle-cable 
+<lb/>by halling it hard and &longs;treight to the Ships hull, and when it is 
+<lb/>drawn clo&longs;e, belay it that it may not &longs;lacken, with that &longs;ingle An&shy;
+<lb/>chor-cable, or more, according to that &longs;ecure way &longs;poken of but 
+<lb/>now, or by &longs;ome other than &longs;hall &longs;eem more expedient, (for many 
+<lb/>more, if one think thereon may be found:) and this being done, 
+<lb/>&longs;eek to loo&longs;en the Ship by degrees from its bed of Ouze, a little on 
+<lb/>one &longs;ide, and a little on the other with the afore&longs;aid Cap&longs;ters, and, 
+<lb/>being once water born, then draw it upwards equally on both &longs;ides, 
+<lb/>and proceed in this manner till &longs;uch time as you have hoi&longs;ted it &longs;uf&shy;
+<lb/>ficiently above the Waters &longs;urface, and then pump out the Water, 
+<lb/>and unlade its Cargo.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> IV.</s></p><p type="main">
+<s>Having in the &longs;econd Book &longs;hewn &longs;everal ways of Diving under 
+<lb/>Water in &longs;earch of things &longs;unk, in this place I have thought 
+<lb/>fit to add, in ca&longs;e that &longs;ome little thing of value &longs;hould fall 
+<lb/>into a Water in &longs;ome &longs;hady place, and where its bottome is ob&longs;cure 
+<lb/>and dark, a way how to conveigh a Light thither that may give light 
+<lb/>enough for the di&longs;cerning of that little thing, provided that it be not 
+<lb/>buried in, or covered with the old Ouze. </s><s>Now to perform this, and 
+<lb/>that with expedition, we may in &longs;mall depths take one of tho&longs;e bra&longs;s 
+<lb/>Buckets or Pails, which are u&longs;ed in carrying and keeping of Water 
+<lb/>for hou&longs;ehold u&longs;es: and tho&longs;e of them that are &longs;haped long and 
+<lb/>deep, with feet &longs;hall be better then tho&longs;e that are made round and 
+<lb/>&longs;hallow, without feet; and the bigger and higher it is, &longs;o much the 
+<lb/>better it &longs;hall be. </s><s>And having made choice of &longs;uch a Bucket, you 
+<lb/>are to fa&longs;ten to the Ears of it two &longs;mall Ropes of about two yardes 
+<lb/>apiece, in &longs;uch a fa&longs;hion, as that they may one cro&longs;s the other at the 
+<lb/>mouth of the Bucket, making upon it a perfect cro&longs;s, and that the 
+<lb/>Knot of the Ropes may be in the mid&longs;t of the Buckets bottom with&shy;
+<lb/>out, making of the ropes a Hoop over the bottome whereat to fa&longs;ten 
+<lb/>another Rope of greater length; &longs;o that the Bucket being held by 
+<lb/>that la&longs;t Rope may come to hang with its mouth perpendicularly 
+<lb/>downwards. </s><s>And this done, fa&longs;ten as much Lead to the two Eares of 
+<lb/>the Bucket as may ju&longs;t make it &longs;ink to the Bottome, and then &longs;et 
+<lb/>and fa&longs;ten a little Wax candle lighted in the inter&longs;ection that tho&longs;e 
+<lb/>two Ropes make over the mouth of the Bucket, that is, in the centre 
+
+
+<pb xlink:href="075/01/037.jpg" pagenum="515"/>of that perfect cro&longs;s; &longs;o that the candle with its light may be with&shy;
+<lb/>in, and near the bottome of the &longs;aid Bucket. </s><s>This being done, let 
+<lb/>down the Bucket, with the candle in it gently unto the bottome, 
+<lb/>which doing, you &longs;hall &longs;ee the burning candle clearly enlighten the 
+<lb/>bottome of the Water. </s><s>And this Bucket you may remove from 
+<lb/>place to place, without drawing it upwards. </s><s>The truth is, that this 
+<lb/>candle will not long continue burning, but will &longs;erve for a little 
+<lb/>while, and when it &longs;hall go out of it &longs;elf, it may be drawn up, re&shy;
+<lb/>lighted, and let down, as occa&longs;ion requires: but the greater that the 
+<lb/>Bucket, and the le&longs;&longs;er that the candle &longs;hall be, &longs;o much the longer 
+<lb/>time &longs;hall it keep its light under Water: and therefore if the &longs;aid 
+<lb/>bottome were very deep, it would be requi&longs;ite to perform that e&longs;&longs;ect 
+<lb/>with &longs;o much a greater Ve&longs;&longs;el, as a great Caldron, but yet of Brals, 
+<lb/>or by that means the candle &longs;hall continue longer lighted.</s></p><p type="head">
+
+<s><emph type="italics"/>EXPLANATION<emph.end type="italics"/> V.</s></p><p type="main">
+<s>But in ca&longs;e that a Ship or Bark were foundered in &longs;ome &longs;pacious 
+<lb/>and profound Gulph, and that the exact place where it &longs;unk 
+<lb/>were unknown, and that the bottome of the &longs;aid &longs;pacious Gulph 
+<lb/>were very ob&longs;cure, it is manife&longs;t that &longs;o little a light as that &longs;poke 
+<lb/>of in the precedent Explanation would hardly &longs;erve. </s><s>And therefore 
+<lb/>if you would convey thither one much bigger, you may do it &longs;eve&shy;
+<lb/>rall wayes, of which one is this. </s><s>Take nine ounces of refined Salt&shy;
+<lb/>peter, &longs;ix ounces (Greek weight) of Brim&longs;tone that is clear and 
+<lb/>tran&longs;parent, three ounces of Camphire refined, and one ounce of 
+<lb/>Ma&longs;tick; and beat all the&longs;e things &longs;everally, not very &longs;mall; and 
+<lb/>when you have beaten them, mix them all together in an Earthen 
+<lb/>Pan; and when they are well mingled, put thereto three pounds of 
+<lb/>common Gunpowder, and then remingle them very well together; 
+<lb/>and afterwards put therein four ounces of oyl of Stone, and mix all 
+<lb/>very well; and this done, take a Cartredge thereof, and give fire to 
+<lb/>it; and if it burn too &longs;lowly, put a little more Gunpowder to it, 
+<lb/>but if it burn too vehemently and &longs;uddenly, add thereto more oyl. 
+<lb/></s><s>Put this Compo&longs;ition, after this, into a little Bag of double Canvis, 
+<lb/>of &longs;uch a widene&longs;&longs;e, that when all the mixture is out, therein it may 
+<lb/>be as broad, as high, and cram the Compo&longs;ition hard down into the 
+<lb/>Bag; and then with very good Pack thread &longs;ew up the mouth of the 
+<lb/>Sack, cutting away the &longs;uperfluous Canvas. </s><s>Then winde a good 
+<lb/>hempen cord round about it very hard every way, reducing it to the 
+<lb/>form of a round Ball, and after it is very well bound and &longs;wathed a&shy;
+<lb/>bout many &longs;everall times, you mu&longs;t melt Brim&longs;tone into a great Ve&longs;&shy;
+<lb/>&longs;el, and when it is melted, roll the &longs;aid Ball therein &longs;o, as that it may 
+<lb/>be covered all over with a cru&longs;t of Brim&longs;tone. </s><s>And this being done 
+
+
+<pb xlink:href="075/01/038.jpg" pagenum="516"/>affix a piece of Lead unto the Ball by an iron Wire, and make it ve&shy;
+<lb/>ry fa&longs;t, and frame in the top of the Ball a Bow or Noo&longs;e with the 
+<lb/>&longs;aid Wire, and to that fa&longs;ten a long Rope, and then in the oppo&longs;ite 
+<lb/>place where the Lead is fixed, make an hole with an iron rod into 
+<lb/>the middle of the Ball, and &longs;top that hole with a little fine Gunpow&shy;
+<lb/>der, holding it &longs;u&longs;pended by the Rope: and when you would have 
+<lb/>that Light de&longs;cend into the bottome of the Sea or Gulph, goe to the 
+<lb/>place, and give fire to the little hole, and when it is inkindled, let 
+<lb/>down the Ball and Lead, lengthwayes, almo&longs;t to the bottome, where 
+<lb/>he &longs;hall be that would find the thing &longs;unk, and you &longs;hall find that 
+<lb/>the &longs;aid fire will illuminate very much round about the &longs;aid bottom, 
+<lb/>and &longs;hall la&longs;t a long time, and more or le&longs;s, according to the hole 
+<lb/>made in the Ball. 'Tis to be noted, that the Ball is to be held over 
+<lb/>the head of him that diveth, for that the &longs;moke proceeding from it 
+<lb/>will much ob&longs;cure the Waters above it, &longs;o as that it will give Light 
+<lb/>only downwards; and this fire will be a dreadful &longs;ight unto the Fi&longs;h, 
+<lb/>&longs;o that they will fly from &longs;o new a &longs;pectacle.</s></p><p type="head">
+
+<s><emph type="italics"/>The END of the fir&longs;t part 
+<lb/>of the Second TOME.<emph.end type="italics"/></s></p>			</chap>		</body>		<back></back>	</text></archimedes>

@@ -1,0 +1,1471 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="009_A_1920.tex" /> 
+<meta name="date" content="2005-02-25 10:05:00" /> 
+<link rel="stylesheet" type="text/css" href="009_A_1920.css" /> 
+</head><body >
+
+<!--l. 13--><p class="noindent"><pb/>
+</p><!--l. 16--><p class="noindent"><span 
+class="cmbx-12">9.A             [1920]</span>
+</p><!--l. 18--><p class="indent">          <span 
+class="cmbx-12">English translation, &#8220;The Electrodynamics of</span>
+<br/>          <span 
+class="cmbx-12">Moving Bodies, &#8221; in A. Einstein and H. Min-</span>
+<br/>          <span 
+class="cmbx-12">kowski,  </span><span class="underline"><span 
+class="cmbx-12">The</span></span> <span class="underline"><span 
+class="cmbx-12">Principle</span></span> <span class="underline"><span 
+class="cmbx-12">of</span></span> <span class="underline"><span 
+class="cmbx-12">Relativity:</span></span> <span class="underline"><span 
+class="cmbx-12">Original</span></span>
+<br/>          <span class="underline"><span 
+class="cmbx-12">Papers</span></span>. <span 
+class="cmbx-12">Calcutta: University of Calcutta, 1920.</span>
+<pb/>
+</p><!--l. 26--><p class="indent">
+
+</p>
+<div class="center" >
+
+<!--l. 27--><p class="noindent">
+</p><!--l. 28--><p class="noindent"><span 
+class="cmbx-12x-x-144">On </span> <br/></p></div>
+<div class="center" >
+
+<!--l. 31--><p class="noindent">
+</p><!--l. 32--><p class="noindent"><span 
+class="cmbx-12x-x-144">The Electrodynamics of Moving Bodies</span></p></div>
+<div class="center" >
+
+<!--l. 35--><p class="noindent">
+</p><!--l. 36--><p class="noindent"><span 
+class="cmcsc-10"><small 
+class="small-caps">b</small><small 
+class="small-caps">y</small></span></p></div>
+<div class="center" >
+
+<!--l. 39--><p class="noindent">
+</p><!--l. 40--><p class="noindent">A. <span 
+class="cmcsc-10">E<small 
+class="small-caps">i</small><small 
+class="small-caps">n</small><small 
+class="small-caps">s</small><small 
+class="small-caps">t</small><small 
+class="small-caps">e</small><small 
+class="small-caps">i</small><small 
+class="small-caps">n</small></span>.</p></div>
+<div class="center" >
+
+<!--l. 43--><p class="noindent">
+</p><!--l. 44--><p class="noindent">--------</p></div>
+<div class="center" >
+
+<!--l. 47--><p class="noindent">
+</p><!--l. 48--><p class="noindent">INTRODUCTION.</p></div>
+<!--l. 52--><p class="indent">   It is well known that if we attempt to apply Maxwell&#8217;s <br/>electrodynamics, as conceived at the present time, to <br/>moving bodies, we are led to assymetry which does not <br/>agree with observed phenomena. Let us think of the <br/>mutual action between a magnet and a conductor. The <br/>observed phenomena in this case depend only on the
+ <br/>relative motion of the conductor and the magnet, while <br/>according to the usual conception, a distinction must be <br/>made between the cases where the one or the other of the <br/>bodies is in motion. If, for example, the magnet moves
+ <br/>and the conductor is at rest, then an electric field of certain <br/>energy-value is 
+produced in the neighbourhood of the <br/>magnet, which excites a current in those parts of the <br/>field where a conductor exists. But if the magnet be at
+ <br/>rest and the conductor be set in motion, no electric field <br/>is produced in the neighbourhood of the magnet, but an <br/>electromotive force which corresponds to no energy in <br/>itself is produced in the conductor; this causes an electric <br/>current of the same magnitude and the same career as the <br/>electric force, it being of course assumed that the relative <br/>notion in both of these cases is the same.
+<pb/>
+</p><!--l. 77--><p class="indent">
+
+</p><!--l. 78--><p class="indent">   2. Examples of a similar kind such as the unsuccessful <br/>attempt to substantiate the motion of the earth relative <br/>to the &#8220; Light-medium &#8221; lead us to the supposition that <br/>not only in mechanics, but also in electrodynamics, no
+ <br/>properties of observed facts correspond to a concept of <br/>absolute rest; but that for all coordinate systems for which <br/>the mechanical equations hold, the equivalent electrodyna-<br/>mical and optical equations hold also, as has already been <br/>shown for magnitudes of the first order. In the following <br/>we make these assumptions (which we shall subsequently <br/>call the Principle of Relativity) and introduce the further <br/>assumption,--an assumption which is at the first sight <br/>quite irreconcilable with the former one--that light is
+ <br/>propagated in vacant space, with a velocity <span 
+class="cmmi-10">c </span>which is <br/>independent of the nature of motion of the emitting <br/>body. These two assumptions are quite sufficient to give <br/>us a simple and consistent theory of electrodynamics of
+ <br/>moving bodies on the basis of the Maxwellian theory for <br/>bodies at rest. The introduction of a &#8220; Lightäther&#8221; <br/>will be proved to be superfluous, for according to the <br/>conceptions which will be developed, we shall introduce <br/>neither a space absolutely at rest, and endowed with <br/>special properties, nor shall we associate a velocity-vector <br/>with a poi&#324;t in which electro-magnetic processes take
+ <br/>place.
+</p><!--l. 95--><p class="indent">   3. Like every other theory in electrodynamics, the <br/>theory is based on the kinematics of rigid bodies; in the <br/>enunciation of every theory, we have to do with relations <br/>between rigid bodies (co-ordinate system), clocks, and <br/>electromagnetic processes. An insufficient consideration <br/>of these circumstances is the cause of difficulties with <br/>which the electrodynamics of moving bodies have to fight <br/>at present.
+<pb/>
+</p><!--l. 106--><p class="indent">
+
+</p>
+<div class="center" >
+
+<!--l. 107--><p class="noindent">
+</p><!--l. 108--><p class="noindent"><span 
+class="cmbx-12">I.-KINEMATICAL PORTION.</span></p></div>
+<div class="center" >
+
+<!--l. 111--><p class="noindent">
+</p><!--l. 112--><p class="noindent"><span 
+class="cmbsy-10x-x-120">§ </span><span 
+class="cmbx-12">1.  Definition of Synchronism.</span></p></div>
+<!--l. 116--><p class="indent">   Let us have a co-ordinate system, in which the New-<br/>tonian equations hold. For distinguishing this system <br/>from another which will be introduced hereafter, we <br/>shall always call it &#8220; the stationary system.&#8221;
+</p><!--l. 121--><p class="indent">   If a material point be at rest in this system, then its <br/>position in this system can be found out by a measuring <br/>rod, and can be expressed by the methods of Euclidean
+ <br/>Geometry, or in Cartesian co-ordinates.
+</p><!--l. 126--><p class="indent">   If we wish to describe the motion of a material point, <br/>the values of its coordinates must be expressed as functions <br/>of time. It is always to be borne in mind that <span 
+class="cmti-10">such a</span>
+ <br/><span 
+class="cmti-10">mathematical definition has a physical sense, only when we </span> <br/><span 
+class="cmti-10">have a clear notion of</span>
+<span 
+class="cmti-10">what is meant by time. We have to </span> <br/><span 
+class="cmti-10">take into consideration the fact that those of our</span>
+<span 
+class="cmti-10">conceptions, in </span> <br/><span 
+class="cmti-10">which time plays a part, are always conceptions of synchronism </span> <br/>For example, we say that a train arrives here at 7 o&#8217;clock; <br/>this means that the exact pointing of the little hand of my <br/>watch to 7, and the arrival of the train are synchronous <br/>events.
+</p><!--l. 139--><p class="indent">   It may appear that all difficulties connected with the <br/>definition of time can be removed when in place of time, <br/>we substitute the position of the little hand of my watch. <br/>Such a definition is in fact sufficient, when it is required to <br/>define time exclusively for the place at which the clock is <br/>stationed. But the definition is not sufficient when it is <br/>required to connect by time events taking place at different
+ <br/>stations,--or what amounts to the same thing,--to estimate <br/>by means of time (zeitlich werten) the occurrence of events, <br/>which take place at stations distant from the clock. <pb/>
+</p><!--l. 153--><p class="indent">
+
+</p><!--l. 154--><p class="indent">   Now with regard to this attempt;--the time-estimation <br/>of events, we can satisfy ourselves in the following <br/>manner. Suppose an observer--who is stationed at the
+ <br/>origin of coordinates with the clock--associates a ray of <br/>light which comes to him through space, and gives testimony <br/>to the event of which the time is to be estimated,--with <br/>the corresponding position of the hands of the clock. But <br/>such an association has this defect,--it depends on the <br/>position of the observer provided with the clock, as we <br/>know by experience. We can attain to a more practicable <br/>result by the following treatment.
+</p><!--l. 167--><p class="indent">   If an observer be stationed at A with a clock, he can <br/>estimate the time of events occurring in the immediate <br/>neighbourhood of A, by looking for the position of <br/>the hands of the clock, which are synchronous with <br/>the event. If an observer be stationed at B with a <br/>clock,--we should add that the clock is of the same nature <br/>as the one at A,--he can estimate the time of events <br/>occurring about B. But without further premises, it is <br/>not possible to compare, as far as time is concerned, the
+ <br/>events at B with the events at A. We have hitherto an <br/>A-time, and a B-time, but no time common to A and B. <br/>This last time (<span 
+class="cmmi-10">i.e.</span>, common time) can be defined, if we <br/>establish by definition that the time which light requires
+ <br/>in travelling from A to B is equivalent to the time which <br/>light requires in travelling from B to A. For example, <br/>a ray of light proceeds from A at A-time t<sub ><span 
+class="cmmi-7">A</span></sub> towards B, <br/>arrives and is reflected from B at B-time t<sub ><span 
+class="cmmi-7">B</span></sub>, and returns <br/>to A at A-time <span 
+class="cmmi-10">t</span><span 
+class="cmsy-10">'</span><sub ><span 
+class="cmmi-7">A</span></sub>. According to the definition, bot. <br/>clocks are synchronous, if
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_19200x.png" alt="tB- tA = t'A - tB. " class="par-math-display"  /></center>
+<!--l. 193--><p class="nopar">
+</p><!--l. 196--><p class="indent">   <pb/>
+</p><!--l. 200--><p class="indent">
+
+</p><!--l. 201--><p class="noindent">We assume that this definition of synchronism is possible <br/>without involving any inconsistency, for any number of <br/>points, therefore the following relations hold:--
+</p><!--l. 206--><p class="indent">   1. If the clock at B be synchronous with the clock <br/>at A, then the clock at A is synchronous with the clock <br/>at B.
+</p><!--l. 210--><p class="indent">   2. If the clock at A as well as the clock at B are <br/>both synchronous with the clock at C, then the clocks at <br/>A and B are synchronous.
+</p><!--l. 214--><p class="indent">   Thus with the help of certain physical experiences, we <br/>have established what we understand when we speak of <br/>clocks at rest at different stations, and synchronous with <br/>one another; and thereby we have arrived at a definition of <br/>synchronism and time.
+</p><!--l. 220--><p class="indent">   In accordance with experience we shall assume that the <br/>magnitude
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_19201x.png" alt=" 2 A-B t'--tA-= c, where cis auniversalconstant.  A " class="par-math-display"  /></center>
+<!--l. 228--><p class="nopar">
+</p><!--l. 230--><p class="indent">   We have defined time essentially with a clock at rest <br/>in a stationary system. On account of its adaptability <br/>to the stationary system, we call the time defined in this
+ <br/>way as &#8220; time of the stationary system.&#8221;
+</p>
+<div class="center" >
+
+<!--l. 236--><p class="noindent">
+</p><!--l. 237--><p class="noindent"><span 
+class="cmbsy-10x-x-120">§ </span><span 
+class="cmbx-12">2.  On the Relativity of Length and Time.</span></p></div>
+<!--l. 240--><p class="indent">   The following reflections are based on the Principle <br/>of Relativity and on the Principle of Constancy of the <br/>velocity of light, both of which we define in the following <br/>way:--
+</p><!--l. 245--><p class="indent">   1. The laws according to which the nature of physical <br/>systems alter are independent of the manner in which <br/>these changes are referred to two co-ordinate systems <br/><pb/>
+</p><!--l. 251--><p class="indent">
+
+</p><!--l. 252--><p class="noindent">which have a uniform translatory motion relative to each <br/>other.
+</p><!--l. 255--><p class="indent">   2. Every ray of light moves in the &#8220; stationary <br/>co-ordinate system &#8221; with the same velocity <span 
+class="cmmi-10">c</span>, the velocity <br/>being independent of the condition whether this ray of <br/>light is emitted by a body at rest or in motion.* Therefore
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_19202x.png" alt="          -Path-of Light- velocity = Interval of time , " class="par-math-display"  /></center>
+<!--l. 266--><p class="nopar">
+</p><!--l. 270--><p class="noindent">where, by &#8216;interval of time,&#8217; we mean time as defined <br/>in <span 
+class="cmsy-10">§ </span>1.
+</p><!--l. 273--><p class="indent">   Let us have a rigid rod at rest; this has a length <span 
+class="cmmi-10">l</span>, <br/>when measured by a measuring rod at rest; we suppose <br/>that the axis of the rod is laid along the X-axis of the <br/>system at rest, and then a uniform velocity <span 
+class="cmmi-10">v</span>, parallel <br/>to the axis of X, is imparted to it. Let us now enquire <br/>about the length of the moving rod; this can be obtained <br/>by either of these operations.--
+</p><!--l. 279--><p class="indent">   (<span 
+class="cmmi-10">a</span>) The observer provided with the measuring rod <br/>moves along with the rod to be measured, and measure <br/>by direct superposition the length of the rod:--just as if <br/>the observer, the measuring rod, and the rod to be measured <br/>were at rest.
+</p><!--l. 285--><p class="indent">   (<span 
+class="cmmi-10">b</span>) The observer finds out, by means of clocks placed <br/>in a system at rest (the clocks being synchronous as defined <br/>in <span 
+class="cmsy-10">§</span>1), the points of this system where the ends of the <br/>rod to be measured occur at a particular time <span 
+class="cmmi-10">t. </span>The <br/>distance between these two points, measured by the <br/>previously used measuring rod, this time it being at rest, <br/>is a length, which we may call the &#8220; length of the rod.&#8221;
+</p><!--l. 294--><p class="indent">   According to the Principle of Relativity, the length <br/>found out by the operation <span 
+class="cmmi-10">a</span>), which we may call &#8220; the <br/>
+</p>
+<div class="center" >
+
+<!--l. 298--><p class="noindent">
+</p><!--l. 299--><p class="noindent">* <span 
+class="cmti-10">Vide </span>Note 9.</p></div>
+<!--l. 301--><p class="noindent"><pb/>
+</p><!--l. 305--><p class="indent">
+
+</p><!--l. 306--><p class="noindent">length of the rod in the moving system &#8221; is equal to the <br/>length <span 
+class="cmmi-10">l </span>of the rod in the stationary system.
+</p><!--l. 309--><p class="indent">   The length which is found out by the second method, <br/>may be called <span 
+class="cmti-10">&#8217;the length of</span>
+<span 
+class="cmti-10">the moving rod measured from </span> <br/><span 
+class="cmti-10">the stationary system.&#8217; </span>This length is to be estimated on <br/>the basis of our principle, and <span 
+class="cmti-10">we shall find it to be different </span> <br/><span 
+class="cmti-10">from</span>
+<span 
+class="cmti-10">l.</span>
+</p><!--l. 315--><p class="indent">   In the generally recognised kinematics, we silently <br/>assume that the lengths defined by these two operations <br/>are equal, or in other words, that at an epoch of time <span 
+class="cmmi-10">t</span>, <br/>a moving rigid body is geometrically replaceable by the <br/>same body, which can replace it in the condition of rest.
+</p>
+<div class="center" >
+
+<!--l. 322--><p class="noindent">
+</p><!--l. 323--><p class="noindent"><span 
+class="cmbx-12">Relativity of Time.</span></p></div>
+<!--l. 327--><p class="indent">   Let us suppose that the two clocks synchronous with <br/>the clocks in the system at rest are brought to the ends A, <br/>and B of a rod, <span 
+class="cmmi-10">i.e.</span>, the time of the clocks correspond to <br/>the time of the stationary system at the points where they
+ <br/>happen to arrive; these clocks are therefore synchronous <br/>in the stationary system.
+</p><!--l. 334--><p class="indent">   We further imagine that there are two observers at the <br/>two watches, and moving with them, and that these <br/>observers apply the criterion for synchronism to the two <br/>clocks. At the time <span 
+class="cmmi-10">t</span><sub ><span 
+class="cmmi-7">A</span></sub>, a ray of light goes out from A, is <br/>reflected from B at the time <span 
+class="cmmi-10">t</span><sub ><span 
+class="cmmi-7">B</span></sub>, and arrives back at A at <br/>time <span 
+class="cmmi-10">t</span><span 
+class="cmsy-10">'</span><sub ><span 
+class="cmmi-7">A</span></sub>. Taking into consideration the principle of <br/>constancy of the velocity of light, we have
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_19203x.png" alt="         r tB - tA = -AB-,          c- v " class="par-math-display"  /></center>
+<!--l. 347--><p class="nopar">
+</p><!--l. 349--><p class="noindent">
+</p>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_19204x.png" alt="         rAB tA - tB = c+-v, " class="math-display"  /></center>
+<!--l. 352--><p class="nopar"> <pb/>
+
+</p><!--l. 357--><p class="indent">
+
+</p><!--l. 358--><p class="noindent">where <span 
+class="cmmi-10">r</span><sub ><span 
+class="cmmi-7">AB</span></sub> is the length of the moving rod, measured <br/>in the stationary system. Therefore the observers stationed <br/>with the watches will not find the clocks synchronous, <br/>though the observer in the stationary system must declare <br/>the clocks to be synchronous. We therefore see that we can <br/>attach no absolute significance to the concept of synchro-<br/>nism; but two events which are synchronous when viewed <br/>from one system, will not be synchronous when viewed <br/>from a system moving relatively to this system.
+</p>
+<div class="center" >
+
+<!--l. 372--><p class="noindent">
+</p><!--l. 374--><p class="noindent"><span 
+class="cmbsy-10x-x-120">§ </span><span 
+class="cmbx-12">3. Theory of Co-ordinate and Time-Transformation </span> <br/><span 
+class="cmbx-12">from</span>
+<span 
+class="cmbx-12">a stationary system to a system which </span> <br/><span 
+class="cmbx-12">moves relatively to</span>
+<span 
+class="cmbx-12">this with </span> <br/><span 
+class="cmbx-12">uniform velocity.</span></p></div>
+<!--l. 377--><p class="indent">   Let there be given, in the stationary system two <br/>co-ordinate systems,
+<span 
+class="cmmi-10">i.e.</span>, two series of three mutually <br/>perpendicular lines issuing from a point. Let the X-axes <br/>of each coincide with one another, and the Y and Z-axes <br/>be parallel. Let a rigid measuring rod, and a number <br/>of clocks be given to each of the systems, and let the rods <br/>and clocks in each be exactly alike each other.
+</p><!--l. 386--><p class="indent">   Let the initial point of one of the systems (<span 
+class="cmmi-10">k</span>) have <br/>a constant velocity in the direction of the X-axis of <br/>the other which is stationary system K, the motion being
+ <br/>also communicated to the rods and clocks in the system (<span 
+class="cmmi-10">k</span>). <br/>Any time <span 
+class="cmmi-10">t </span>of the stationary system K corresponds to a <br/>definite position of the axes of the moving system, which <br/>are always parallel to the axes of the stationary system..By <br/><span 
+class="cmmi-10">t</span>, we always mean the time in the stationary system.
+</p><!--l. 396--><p class="indent">   We suppose that the space is measured by the stationary <br/>measuring rod placed in the stationary system, as well as <br/>by the moving measuring rod placed in the moving
+ <br/><pb/>
+</p><!--l. 402--><p class="indent">
+
+</p><!--l. 403--><p class="noindent">system, and we thus obtain the co-ordinates (<span 
+class="cmmi-10">x</span>, <span 
+class="cmmi-10">y</span>, <span 
+class="cmmi-10">z</span>) for the <br/>stationary system, and (<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /></span>) for the moving system. Let <br/>the time <span 
+class="cmmi-10">t </span>be determined for each point of the stationary <br/>system (which are provided with clocks) by means of the <br/>clocks which are placed in the stationary system, with <br/>the help of light-signals as described in <span 
+class="cmsy-10">§ </span>1. Let also <br/>the time <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /> </span>of the moving system be determined for each
+ <br/>point of the moving system (in which there are clocks which <br/>are at rest relative to the moving system), by means of <br/>the method of light signals between these points (in <br/>which there are clocks) in the manner described in
+<span 
+class="cmsy-10">§ </span>1.
+</p><!--l. 412--><p class="indent">   To every value of (<span 
+class="cmmi-10">x</span>, <span 
+class="cmmi-10">y</span>, <span 
+class="cmmi-10">z</span>, <span 
+class="cmmi-10">t</span>) which fully determines <br/>the position and time of an event in the stationary system, <br/>there corresponds a system of values (<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /></span>,<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /></span>,<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /></span>,<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /></span>); now the <br/>problem is to find out the system of equations connect-<br/>ing these magnitudes.
+</p><!--l. 420--><p class="indent">   Primarily it is clear that on account of the property <br/>of homogeneity which we ascribe to time and space, the <br/>equations must be linear.
+</p><!--l. 424--><p class="indent">   If we put <span 
+class="cmmi-10">x</span><span 
+class="cmsy-10">' </span>= <span 
+class="cmmi-10">s </span><span 
+class="cmsy-10">- </span><span 
+class="cmmi-10">vt</span>, then it is clear that at a point <br/>relatively at rest in the system K, we have a system of <br/>values (<span 
+class="cmmi-10">x</span><span 
+class="cmsy-10">' </span><span 
+class="cmmi-10">y z</span>) which are independent of time. Now <br/>let us find out <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /> </span>as a function of (<span 
+class="cmmi-10">x</span>,<span 
+class="cmmi-10">y,z,t</span>). For this <br/>purpose we have to express in equations the fact that <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /> </span>is <br/>not other than the time given by the clocks which are <br/>at rest in the system <span 
+class="cmmi-10">k </span>which must be made synchron-<br/>ous in the manner described in
+<span 
+class="cmsy-10">§ </span>1.
+</p><!--l. 431--><p class="indent">   Let a ray of light be sent at time <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /></span><sub ><span 
+class="cmr-7">0</span></sub> from the origin <br/>of the system <span 
+class="cmmi-10">k </span>along the X-axis towards <span 
+class="cmmi-10">x</span><span 
+class="cmsy-10">' </span>and let it be <br/>reflected from that place at time <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /></span><sub ><span 
+class="cmr-7">1</span></sub> towards the origin <br/>of moving co-ordinates and let it arrive there at time <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /></span><sub ><span 
+class="cmr-7">2</span></sub>; <br/>then we must have
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_19205x.png" alt="1(t + t ) = t 2 0   2    1 " class="par-math-display"  /></center>
+<!--l. 442--><p class="nopar">
+</p><!--l. 446--><p class="indent">   <pb/>
+</p><!--l. 449--><p class="indent">
+
+</p><!--l. 450--><p class="indent">   If we now introduce the condition that <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /> </span>is a function <br/>of co-orrdinates, and apply the principle of constancy of <br/>the velocity of light in the stationary system, we have
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_19206x.png" alt="  {                                       } )] 1  t (0, 0, 0, t)+ t (0, 0, 0, {t+-x'-+-x'- 2                             c- v   c + v          )                                 = t(x', 0, 0, t+-x'- .                                                c -v " class="par-math-display"  /></center>
+<!--l. 465--><p class="nopar">
+</p><!--l. 469--><p class="indent">   It is to be noticed that instead of the origin of co-<br/>ordinates, we could select some other point as the exit <br/>point for rays of light, and therefore the above equation <br/>holds for all values of (<span 
+class="cmmi-10">x</span><span 
+class="cmsy-10">'</span><span 
+class="cmmi-10">,y,z,t,</span>).
+</p><!--l. 474--><p class="indent">   A similar conception, being applied to the <span 
+class="cmmi-10">y</span>- and <span 
+class="cmmi-10">z</span>-axis <br/>gives us, when we take into consideration the fact that <br/>light when viewed from the stationary system, is always <br/>propogated along those axes with the velocity <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_19207x.png" alt=" V~ -2---2-   c - v"  class="sqrt"  />, <br/>we have the questions
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_19208x.png" alt="@ t      @ t ---= 0,  ---= 0. @ y      @ z " class="par-math-display"  /></center>
+<!--l. 483--><p class="nopar">
+</p><!--l. 487--><p class="indent">   From these equations it follows that <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /> </span>is a linear func-<br/>tion of <span 
+class="cmmi-10">x </span>and <span 
+class="cmmi-10">t</span>. From equations (l) we obtain
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_19209x.png" alt="     (        '  ) t = a  t- --vx--  ,           c2- v2 " class="par-math-display"  /></center>
+<!--l. 495--><p class="nopar">
+</p><!--l. 499--><p class="noindent">where <span 
+class="cmmi-10">a </span>is an unknown function of <span 
+class="cmmi-10">v</span>.
+</p><!--l. 501--><p class="indent">   With the help of these results it is easy to obtain the <br/>magnitudes (<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /></span>,<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /></span>,<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /></span>), if we express by means of equations <br/>the fact that light, when measured in the moving system <br/>is always propagated with the constant velocity <span 
+class="cmmi-10">c </span>(as <br/>the principle of constancy of light velocity in conjunc <br/>tion with the principle of relativity requires). 
+For a <br/><pb/>
+</p><!--l. 511--><p class="indent">
+
+</p><!--l. 512--><p class="noindent">time <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /> </span>= 0, if the ray is sent in the direction of increasing <br/><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /></span>, we have
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192010x.png" alt="                 (     vx' ) q = c t , i.e.q = a c t- c2--v2 . " class="par-math-display"  /></center>
+<!--l. 520--><p class="nopar">
+</p><!--l. 524--><p class="indent">   Now the ray of light moves relative to the origin of <span 
+class="cmmi-10">k </span> <br/>with a velocity <span 
+class="cmmi-10">c </span><span 
+class="cmsy-10">- </span><span 
+class="cmmi-10">v</span>, measured in the stationary system; <br/>therefore we have
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192011x.png" alt="   ' -x--- = t. c- v " class="par-math-display"  /></center>
+<!--l. 531--><p class="nopar">
+</p><!--l. 535--><p class="indent">   Substituting these values of <span 
+class="cmmi-10">t </span>in the equation for <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /></span>, <br/>we obtain
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192012x.png" alt="q = a--c2-- x'.      c2- v2 " class="par-math-display"  /></center>
+<!--l. 542--><p class="nopar">
+</p><!--l. 546--><p class="indent">   In an analogous manner, we obtain by considering the <br/>ray of light which moves along the <span 
+class="cmmi-10">y</span>-axis,
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192013x.png" alt="          (          )                -vx'-- j = ct = ac  t- c2- v2  , " class="par-math-display"  /></center>
+<!--l. 553--><p class="nopar">
+</p><!--l. 555--><p class="noindent">where <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192014x.png" alt=" V~ --y----   c2- v2"  class="frac" align="middle" /> = <span 
+class="cmmi-10">t, x</span><span 
+class="cmsy-10">' </span>= 0<span 
+class="cmmi-10">,</span>
+</p><!--l. 557--><p class="indent">   Therefore <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /> </span>= <span 
+class="cmmi-10">a</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192015x.png" alt="---c-----  V~ -c2--v2"  class="frac" align="middle" /><span 
+class="cmmi-10">y, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /> </span>= <span 
+class="cmmi-10">a</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192016x.png" alt="----c----  V~  c2--v2"  class="frac" align="middle" />  <span 
+class="cmmi-10">z.</span>
+</p><!--l. 560--><p class="indent">   If for <span 
+class="cmmi-10">x</span><span 
+class="cmsy-10">'</span>, we substitute its value <span 
+class="cmmi-10">x </span><span 
+class="cmsy-10">- </span><span 
+class="cmmi-10">tv</span>, we obtain
+</p>
+
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192017x.png" alt="           (      ) t = f (v). b t- vx--,                 c2 q = f (v).b (x- vt), j = f (v) y z = f (v) z, " class="par-math-display"  /></center>
+<!--l. 574--><p class="nopar">
+</p><!--l. 578--><p class="noindent">where <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-c.png" alt="b" class="cmmi-10x-x-c" align="middle" /> </span>= <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192018x.png" alt=" V~ -1----      v2   1-  c2"  class="frac" align="middle" />, and <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1e.png" alt="f" class="10x-x-1e" /> </span>(<span 
+class="cmmi-10">v</span>) = <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192019x.png" alt=" V~ -ac----   c2- v2"  class="frac" align="middle" /> = <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192020x.png" alt="ab-"  class="frac" align="middle" /> is a function <br/>of <span 
+class="cmmi-10">v</span>.
+</p><!--l. 582--><p class="indent">   <pb/>
+</p><!--l. 585--><p class="indent">
+
+</p><!--l. 586--><p class="indent">   If we make no assumption about the initial position <br/>of the moving system and about the null-point of <span 
+class="cmmi-10">t</span>, <br/>then an additive constant is to be added to the right <br/>hand side.
+</p><!--l. 591--><p class="indent">   We have now. to show, that every ray of light moves <br/>in the moving system with a velocity <span 
+class="cmmi-10">c </span>(when measured in <br/>the moving system), in case, as we have actually assumed, <br/><span 
+class="cmmi-10">c </span>is also the velocity in the stationary system; for we have <br/>not as yet adduced any proof in support of the assump-<br/>tion that the principle of relativity is reconcilable with the <br/>principle of constant light-velocity.
+</p><!--l. 600--><p class="indent">   At a time <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /> </span>= <span 
+class="cmmi-10">t </span>= 0 let a spherical wave be sent out <br/>from the common origin of the two systems of co-ordinates, <br/>and let it spread with a velocity <span 
+class="cmmi-10">c </span>in the system K. If
+ <br/>(<span 
+class="cmmi-10">x,y,z</span>), be a point reached by the wave, we have
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192021x.png" alt="x2 +y2 + z2 = c2t2. " class="par-math-display"  /></center>
+<!--l. 610--><p class="nopar">
+</p><!--l. 614--><p class="noindent">with the aid of our transformation-equations, let us <br/>transform this equation, and we obtain by a simple <br/>calculation,</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192022x.png" alt="q2 + j2 + z2 = c2t2. " class="par-math-display"  /></center>
+<!--l. 621--><p class="nopar">
+</p><!--l. 625--><p class="indent">   Therefore the wave is propagated in the moving system <br/>with the same velocity <span 
+class="cmmi-10">c</span>, and as a spherical wave.* Therefore <br/>we show that the two principles are mutually reconcilable.
+</p><!--l. 630--><p class="indent">   In the transformations we have got an undetermined <br/>function <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1e.png" alt="f" class="10x-x-1e" /> </span>(<span 
+class="cmmi-10">v</span>), and we now proceed to find it out.
+</p><!--l. 633--><p class="indent">   Let us introduce for this purpose a third co-ordinate <br/>system <span 
+class="cmmi-10">k</span><span 
+class="cmsy-10">'</span>, which is set in motion relative to the system <span 
+class="cmmi-10">k</span>, <br/>the motion being parallel to the <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /></span>-axis. Let the velocity of <br/>the origin be (<span 
+class="cmsy-10">-</span><span 
+class="cmmi-10">v</span>). At the time <span 
+class="cmmi-10">t </span>= 0, all the initial <br/>co-ordinate points coincide, and for <span 
+class="cmmi-10">t </span>= <span 
+class="cmmi-10">x </span>= <span 
+class="cmmi-10">y </span>= <span 
+class="cmmi-10">z </span>= 0, the <br/>time <span 
+class="cmmi-10">t</span><span 
+class="cmsy-10">' </span>of the system <span 
+class="cmmi-10">k</span><span 
+class="cmsy-10">' </span>= 0. We shall say that (<span 
+class="cmmi-10">x</span><span 
+class="cmsy-10">' </span><span 
+class="cmmi-10">y</span><span 
+class="cmsy-10">' </span><span 
+class="cmmi-10">z</span><span 
+class="cmsy-10">' </span><span 
+class="cmmi-10">t</span><span 
+class="cmsy-10">'</span>) <br/>are the co-ordinates measured in the system <span 
+class="cmmi-10">k</span><span 
+class="cmsy-10">'</span>, then by a
+ <br/>
+</p>
+<div class="center" >
+
+<!--l. 641--><p class="noindent">
+
+</p><!--l. 642--><p class="noindent">* <span 
+class="cmti-10">Vide </span>Note 9.</p></div>
+<!--l. 645--><p class="indent">   <pb/>
+</p><!--l. 648--><p class="indent">
+
+</p><!--l. 649--><p class="noindent">two-fold application of the transformation-equations, we <br/>obtain</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192023x.png" alt="t'= f(- v)b(- v){t + v2q}= f(v)f(-v)t,      '             c     x = f(v)b(v)(q +vt ) = f(v)f(- v)x, etc. " class="par-math-display"  /></center>
+<!--l. 661--><p class="nopar">
+</p><!--l. 664--><p class="noindent">Since the relations between (<span 
+class="cmmi-10">x</span><span 
+class="cmsy-10">'</span><span 
+class="cmmi-10">, y</span><span 
+class="cmsy-10">'</span><span 
+class="cmmi-10">, z</span><span 
+class="cmsy-10">'</span><span 
+class="cmmi-10">, t</span><span 
+class="cmsy-10">'</span>), and (<span 
+class="cmti-10">x, y, z, t</span>) <br/>do not contain time explicitly, therefore K and <span 
+class="cmmi-10">k</span><span 
+class="cmsy-10">' </span>are <br/>relatively at rest.
+</p><!--l. 669--><p class="indent">   It appears that the systems K and <span 
+class="cmmi-10">k</span><span 
+class="cmsy-10">' </span>are identical.</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192024x.png" alt=".·. f(v) f(-v) = 1, " class="par-math-display"  /></center>
+<!--l. 675--><p class="nopar">
+</p><!--l. 679--><p class="indent">   Let us now turn our attention to the part of the <span 
+class="cmmi-10">y</span>-axis <br/>between (<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /> </span>= 0<span 
+class="cmmi-10">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /> </span>= 0<span 
+class="cmmi-10">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /> </span>= 0), and (<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /> </span>= 0<span 
+class="cmmi-10">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /> </span>= 1<span 
+class="cmmi-10">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /> </span>= 0). Let <br/>this piece of the <span 
+class="cmmi-10">y</span>-axis be covered with a rod moving with <br/>the velocity <span 
+class="cmmi-10">v </span>relative to the system K and perpendicular <br/>to its axis ;--the ends of the rod having therefore the
+ <br/>co-ordinates</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192025x.png" alt="               l x1 = vt,   y =----,   z1 = 0}              f(v) x2 = vt,  y2 = 0,   z2 = 0 " class="par-math-display"  /></center>
+<!--l. 692--><p class="nopar">
+</p><!--l. 696--><p class="indent">   Therefore the length of the rod measured in the system <br/>K is <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192026x.png" alt="-l-- f(v)"  class="frac" align="middle" />. For the system moving with velocity (<span 
+class="cmsy-10">-</span><span 
+class="cmmi-10">v</span>), <br/>we have on grounds of symmetry,</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192027x.png" alt="-l--   -l---- f(v) =  f(-v) " class="par-math-display"  /></center>
+
+<!--l. 702--><p class="nopar"></p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192028x.png" alt=".·. f(v) = f(-v), .·. f(v) = 1. " class="par-math-display"  /></center>
+<!--l. 710--><p class="nopar">
+</p><!--l. 713--><p class="indent">   <pb/>
+</p><!--l. 717--><p class="indent">
+
+</p>
+<div class="center" >
+
+<!--l. 718--><p class="noindent">
+</p><!--l. 720--><p class="noindent"><span 
+class="cmbsy-10x-x-120">§ </span><span 
+class="cmbx-12">4.  The physical significance of the equations </span> <br/><span 
+class="cmbx-12">obtained</span>
+<span 
+class="cmbx-12">concerning moving rigid </span> <br/><span 
+class="cmbx-12">bodies and moving clocks.</span></p></div>
+<!--l. 723--><p class="indent">   Let us consider a rigid sphere (<span 
+class="cmmi-10">i.e.</span>, one having a <br/>spherical figure when tested in the stationary system) of <br/>radius R which is at rest relative to the system K, and <br/>whose centre coincides with the origin of <span 
+class="cmti-10">K </span>then the equa-<br/>tion of the surface of this sphere, which is moving with a <br/>velocity <span 
+class="cmmi-10">v </span>relative to K, is</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192029x.png" alt="q2 + j2 +z2 = R2 " class="par-math-display"  /></center>
+<!--l. 732--><p class="nopar">
+</p><!--l. 736--><p class="indent">   At time <span 
+class="cmmi-10">t </span>= 0, the equation is expressed by means of <br/>(<span 
+class="cmti-10">x, y, z, t,</span>) as</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192030x.png" alt="----x2------ + y2 + z2 = R2. ( V~ ----v2)2    1 - c2 " class="par-math-display"  /></center>
+<!--l. 743--><p class="nopar">
+</p><!--l. 747--><p class="indent">   A rigid body which has the figure of a sphere when <br/>measured in the moving system, has therefore in the <br/>moving condition--when considered from the stationary
+ <br/>system, the figure of a rotational ellipsoid with semi-axes</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192031x.png" alt="  V~ ------        v2 R   1- c2,  R, R. " class="par-math-display"  /></center>
+<!--l. 756--><p class="nopar">
+</p><!--l. 760--><p class="indent">   Therefore the <span 
+class="cmmi-10">y </span>and <span 
+class="cmmi-10">z </span>dimensions of the sphere (there-<br/>fore of any figure also) do not appear to be modified by the <br/>motion, but the <span 
+class="cmmi-10">x </span>dimension is shortened in the ratio <br/>1 :  <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192032x.png" alt=" V~ -----2   1 - v2       c"  class="sqrt"  />; the shortening is the larger, the larger <br/>is <span 
+class="cmmi-10">v</span>. For <span 
+class="cmmi-10">v </span>= <span 
+class="cmmi-10">c</span>, all 
+moving bodies, when considered from <br/>a stationary system shrink into planes. For a velocity <br/>larger than the velocity of light, our propositions become
+ <br/><pb/>
+</p><!--l. 768--><p class="indent">
+
+</p><!--l. 769--><p class="noindent">meaningless; in cur theory <span 
+class="cmmi-10">c </span>plays the part of infinite <br/>velocity.
+</p><!--l. 772--><p class="indent">   It is clear that similar results hold about stationary <br/>bodies in a stationary system when considered from a <br/>uniformly moving system.
+</p><!--l. 776--><p class="indent">   Let us now consider that a clock which is lying at rest <br/>in the stationary system gives the time <span 
+class="cmmi-10">t</span>, and lying <br/>at rest relative to the moving system is capable of giving
+ <br/>the time <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /></span>; suppose it to be placed at the origin of the <br/>moving system <span 
+class="cmmi-10">k</span>, and to be so arranged that it gives the <br/>time <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /></span>. How much does the clock gain, when viewed from
+ <br/>the stationary system K? We have,</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192033x.png" alt="    ---1----(    v-  ) t =  V~ ----2   t- c2x  , and x = vt,       1- vc2             [     V~ ------]    .·. t - t =  1-   1 - v2  t.                        c2 " class="par-math-display"  /></center>
+<!--l. 795--><p class="nopar">
+</p><!--l. 798--><p class="indent">   Therefore the clock loses by an amount <span 
+class="cmr-7">1</span> 
+<span 
+class="cmr-7">2</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192034x.png" alt=" 2 v2 c"  class="frac" align="middle" /> per second <br/>of motion, to the second order of approximation.
+</p><!--l. 801--><p class="indent">   From this, the following peculiar consequence follows. <br/>Suppose at two points A and B of the stationary system <br/>two clocks are given which are synchronous in the sense <br/>explained in <span 
+class="cmsy-10">§ </span>3 when viewed from the stationary system. <br/>Suppose the clock at A to be set in motion in the line <br/>joining it with B, then after the arrival of the clock at B, <br/>they will no longer be found synchronous, but the clock
+ <br/>which was set in motion from A will lag behind the clock <br/>which had been all along at B by an amount <span 
+class="cmr-7">1</span> 
+<span 
+class="cmr-7">2</span><span 
+class="cmmi-10">t</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192035x.png" alt="v2 c2"  class="frac" align="middle" />, where <br/><span 
+class="cmmi-10">t </span>is the time required for the journey.
+<pb/>
+</p><!--l. 811--><p class="indent">
+
+</p><!--l. 812--><p class="indent">   We see forthwith that the result holds also when the <br/>clock moves from A to B by a polygonal line, and also <br/>when A and B coincide.
+</p><!--l. 816--><p class="indent">   If we assume that the result obtained for a polygonal <br/>line holds also for a curved line, we obtain the following <br/>law. If at A, there be two synchronous clocks, and if we
+ <br/>set in motion one of them with a constant velocity along a <br/>closed curve till it comes back to A, the journey being <br/>completed in <span 
+class="cmmi-10">t</span>-seconds, then after arrival, the last men-<br/>tioned clock will be behind the stationary one by <span 
+class="cmr-7">1</span> 
+<span 
+class="cmr-7">2</span> <span 
+class="cmmi-10">t</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192036x.png" alt="v2 c2"  class="frac" align="middle" /> <br/>seconds. From this, we conclude that a clock placed at <br/>the equator must be slower by a very small amount than a <br/>similarly constructed clock which is placed at the pole, all <br/>other conditions being identical. </p>
+<div class="center" >
+
+<!--l. 824--><p class="noindent">
+</p><!--l. 825--><p class="noindent"><span 
+class="cmbsy-10x-x-120">§ </span><span 
+class="cmbx-12">5.  Addition-Theorem of Velocities.</span></p></div>
+<!--l. 828--><p class="indent">   Let a point move in the system <span 
+class="cmmi-10">k </span>(which moves with <br/>velocity <span 
+class="cmmi-10">v </span>along the <span 
+class="cmmi-10">x</span>-axis of the system K) according to <br/>the equation</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192037x.png" alt="q = wqt, j = wjt, z = 0, " class="par-math-display"  /></center>
+<!--l. 836--><p class="nopar">
+</p><!--l. 840--><p class="noindent">where <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-21.png" alt="w" class="10x-x-21" /></span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi7-18.png" alt="q" class="cmmi-7x-x-18" align="middle" /></span></sub> and <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-21.png" alt="w" class="10x-x-21" /></span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi7-11.png" alt="j" class="cmmi-7x-x-11" align="middle" /></span></sub> are constants.
+</p><!--l. 842--><p class="indent">   It is required to find out the motion of the point <br/>relative to the system K. If we now introduce the system <br/>of equations in <span 
+class="cmsy-10">§ </span>3 in the equation of motion of the point,
+ <br/>we obtain</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192038x.png" alt="                 (     2)12     wq + v        1 - vc2   wjt x =----vwq-t, y = ------vwq-----, z = 0.    1 +  c2           1+  c2 " class="par-math-display"  /></center>
+<!--l. 851--><p class="nopar">
+</p><!--l. 853--><p class="indent">   <pb/>
+</p><!--l. 858--><p class="indent">
+
+</p><!--l. 859--><p class="indent">   The law of parallelogram of velocities hold up to the <br/>first order of approximation. We can put</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192039x.png" alt="     (    )    (    )   2    @-x  2    @y- 2   2    2     2 U  =   @ t   +   @t   , w = wq  + wj , " class="par-math-display"  /></center>
+<!--l. 868--><p class="nopar"></p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192040x.png" alt="and                      a = tan- 1 wj                                   wq " class="par-math-display"  /></center>
+<!--l. 876--><p class="nopar">
+</p><!--l. 881--><p class="noindent"><span 
+class="cmmi-10">i.e.</span>, <span 
+class="cmmi-10">a </span>is put equal to the angle between the velocities <span 
+class="cmmi-10">v</span>, <br/>and <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-21.png" alt="w" class="10x-x-21" /></span>. Then we have--</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192041x.png" alt="    [                      (        )2 ]12      (v2 + w2 + 2 vw cos a)- vw-scin-a- U = -------------------------------------                  1+ vw-cco2s-a " class="par-math-display"  /></center>
+<!--l. 890--><p class="nopar">
+</p><!--l. 894--><p class="indent">   It should be noticed that <span 
+class="cmmi-10">v </span>and <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-21.png" alt="w" class="10x-x-21" /> </span>enter into the <br/>expression for velocity symmetrically. If <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-21.png" alt="w" class="10x-x-21" /> </span>has the direction <br/>of the <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /></span>-axis of the moving system,</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192042x.png" alt="U = -v-+-w-     1 + vw2          c " class="par-math-display"  /></center>
+<!--l. 902--><p class="nopar">
+</p><!--l. 906--><p class="indent">   From this equation, we see that by combining two <br/>velocities, each of which is smaller than <span 
+class="cmmi-10">c</span>, we obtain a <br/>velocity which is always smaller than <span 
+class="cmmi-10">c</span>. If we put <span 
+class="cmmi-10">v </span>= <span 
+class="cmmi-10">c </span><span 
+class="cmsy-10">- </span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1f.png" alt="x" class="10x-x-1f" />, </span> <br/>and <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-21.png" alt="w" class="10x-x-21" /> </span>= <span 
+class="cmmi-10">c </span><span 
+class="cmsy-10">- </span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-15.png" alt="c" class="10x-x-15" />, </span>where <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1f.png" alt="x" class="10x-x-1f" /> </span>and <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-15.png" alt="c" class="10x-x-15" /> </span>are each smaller than
+<span 
+class="cmmi-10">c</span>,</p>
+   <center class="par-math-display" >
+
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192043x.png" alt="      ---2c---x--c--- U = c 2c- x - c+ xc- &lt; c.*                   c2 " class="par-math-display"  /></center>
+<!--l. 915--><p class="nopar">
+</p><!--l. 919--><p class="indent">   It is also clear that the velocity of light <span 
+class="cmmi-10">c </span>cannot be <br/>altered by adding to it a velocity smaller than <span 
+class="cmmi-10">c</span>. For this <br/>case,</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192044x.png" alt="     c+ v U = ---cv-= c.     1+  c2 " class="par-math-display"  /></center>
+<!--l. 927--><p class="nopar">
+</p>
+<div class="center" >
+
+<!--l. 931--><p class="noindent">
+</p><!--l. 932--><p class="noindent">* <span 
+class="cmti-10">Vide </span>Note 12.</p></div>
+<!--l. 934--><p class="noindent"><pb/>
+</p><!--l. 938--><p class="indent">
+
+</p><!--l. 939--><p class="indent">   We have obtained the formula for U for the case when <br/><span 
+class="cmmi-10">v </span>and <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-21.png" alt="w" class="10x-x-21" /> </span>have the same direction, it can also be obtained <br/>by combining two transformations according to section <br/><span 
+class="cmsy-10">§ </span>3. If in addition to the systems K, and k, we intro-<br/>duce the system <span 
+class="cmmi-10">k</span><span 
+class="cmsy-10">'</span>, of which the initial point moves <br/>parallel to the <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /></span>-axis with velocity <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-21.png" alt="w" class="10x-x-21" /></span>, then between the
+ <br/>magnitudes, <span 
+class="cmti-10">x, y, z, t </span>and the corresponding magnitudes <br/>of <span 
+class="cmmi-10">k</span><span 
+class="cmsy-10">'</span>, we obtain a system of equations, which differ from <br/>the equations in <span 
+class="cmsy-10">§</span>3, only in the respect that in place of
+ <br/><span 
+class="cmmi-10">v</span>, we shall have to write,</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192045x.png" alt="      /(        ) (v +w)   1 + vw2-              c " class="par-math-display"  /></center>
+<!--l. 953--><p class="nopar">
+</p><!--l. 957--><p class="indent">   We see that such a parallel transformation forms a <br/>group.
+</p><!--l. 960--><p class="indent">   We have deduced the kinematics corresponding to our <br/>two fundamental principles for the laws necessary for us, <br/>and we shall now pass over to their application in electro-<br/>dynamics. </p>
+<div class="center" >
+
+<!--l. 964--><p class="noindent">
+</p><!--l. 965--><p class="noindent"><span 
+class="cmbx-12">II.-ELECTRODYNAMICAL PART.</span></p></div>
+<div class="center" >
+
+<!--l. 968--><p class="noindent">
+</p><!--l. 969--><p class="noindent"><span 
+class="cmbsy-10x-x-120">§ </span><span 
+class="cmbx-12">6.  Transformation of Maxwell&#8217;s equations for </span> <br/><span 
+class="cmbx-12">Pure</span>
+<span 
+class="cmbx-12">Vacuum.</span></p></div>
+<div class="center" >
+
+<!--l. 972--><p class="noindent">
+</p><!--l. 974--><p class="noindent"><span 
+class="cmti-10">On the nature of the Electromotive Force caused by motion </span> <br/><span 
+class="cmti-10">in a magnetic field.</span></p></div>
+<!--l. 977--><p class="indent">   The Maxwell-Hertz equations for pure vacuum may <br/>hold for the stationary system K, so that</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192046x.png" alt="                |           |                 || @-- @-- @-|| 1  @            || @x  @y  @z|| c @t [X, Y, Z] = || L  M   N ||                 ||           ||                              , " class="par-math-display"  /></center>
+<!--l. 989--><p class="nopar">
+</p><!--l. 992--><p class="indent">   <pb/>
+</p><!--l. 996--><p class="indent">
+
+</p><!--l. 997--><p class="noindent">and
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192047x.png" alt="                   || @    @    @ ||                    || ---  ---  --|| 1  @-[L, M, N  ] = -|| @x  @y   @z||,  ... c  @t              ||  X   Y    Z ||                    |             | " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 1007--><p class="nopar">
+</p><!--l. 1011--><p class="noindent">where [X, Y, Z] are the components of the electric <br/>force, L, M, N are the components of the magnetic force.
+</p><!--l. 1015--><p class="indent">   If we apply the transformations in <span 
+class="cmsy-10">§ </span>3 to these equa-<br/>tions, and if we refer the electromagnetic processes to the <br/>co-ordinate system moving with velocity <span 
+class="cmmi-10">r</span>, we obtain,</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192048x.png" alt="1 -@-[X, b( Y-  v N ), b(Z +  vM  )] = c @t            c    |        c                |                      || @--   -@-        -@-    ||                      || @q    @j         @z     ||                      || L  b(M  + vZ)  b(N - vY )||                      ||           c          c  ||                      |                         | " class="par-math-display"  /></center>
+<!--l. 1034--><p class="nopar">
+</p><!--l. 1038--><p class="noindent">and</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192049x.png" alt="1 -@- [L, b( M +  v Z ), b(N -  v Y )] c @t             c            c " class="par-math-display"  /></center>
+<!--l. 1046--><p class="nopar">
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192050x.png" alt="    |                        |     || @--    @--        @--  ||     || @q     @j         @z   || = - ||X  b(Y - vN ) b(Z + v M )||, ...     ||         c         c    ||     |                        | " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 1057--><p class="nopar">
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192051x.png" alt="           ----1------ where  b =  V~ ----2/-2              1- v  c " class="par-math-display"  /></center>
+<!--l. 1066--><p class="nopar">
+</p><!--l. 1070--><p class="indent">   The principle of Relativity requires that the Maxwell-<br/>Hertzian equations for pure vacuum shall hold also for the <br/>system k, if they hold for the system K, <span 
+class="cmmi-10">i.e.</span>, for the
+ <br/>vectors of the electric and magnetic forces acting upon <br/>electric and magnetic masses in the moving system k, <br/><pb/>
+</p><!--l. 1077--><p class="indent">
+
+</p><!--l. 1078--><p class="noindent">which are defined by their pondermotive reaction, the same <br/>equations hold, ... <span 
+class="cmmi-10">i.e.</span>
+...</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192052x.png" alt="                  |            |                   || @-- -@-  -@|| 1 -@-   '  '  '   || @q  @j   @z|| c @t  (X ,Y ,Z ) = || L' M '  N '||,                   ||            || " class="par-math-display"  /></center>
+<!--l. 1091--><p class="nopar">
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192053x.png" alt="                   |             |                    || @--  @--  @-|| 1 @                || @q   @j   @z|| - ---(L',M ',N ') = -|| X'   Y'   Z'|| ... c @t               ||             || " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 1103--><p class="nopar">
+</p><!--l. 1107--><p class="indent">   Clearly both the systems of equations (2) and (3) <br/>developed for the system k shall express the same things, <br/>for both of these systems are equivalent to the Maxwell-<br/>Hertzian equations for the system K. Since both the <br/>systems of equations (2) and (3) agree up to the symbols <br/>representing the vectors, it follows that the functions <br/>occurring at corresponding places will agree up to a certain <br/>factor <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-20.png" alt="y" class="10x-x-20" /></span>
+(<span 
+class="cmmi-10">v</span>), which depends only on <span 
+class="cmmi-10">v</span>, and is independent of <br/>(<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /></span>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /></span>). Hence the relations,</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192054x.png" alt="                            v           v [X',Y ',Z'] = y (v)[X, b (Y - -N ), b (Z +-M )],   '   '  '                  cv           cv [L ,M ,N  ] = y (v)[L, b (M + c Z ), b (N - cY ) ]. " class="par-math-display"  /></center>
+
+<!--l. 1126--><p class="nopar">
+</p><!--l. 1130--><p class="indent">   Then by reasoning similar to that followed in <span 
+class="cmsy-10">§ </span>(3), <br/>it can be shown that
+<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-20.png" alt="y" class="10x-x-20" /></span>(<span 
+class="cmmi-10">v</span>) = 1.</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192055x.png" alt="        '  '   '              v           v .·.    [X , Y , Z ] = [X, b (Y - cN ), b(Z + cM )]         '   '  '              v           v      [L , M , N ] = [L, b (M + c Z), b(N - cY )]. " class="par-math-display"  /></center>
+<!--l. 1143--><p class="nopar"> <pb/>
+</p><!--l. 1150--><p class="indent">
+
+</p><!--l. 1151--><p class="indent">   For the interpretation of these equations, we make the <br/>following remarks. Let us have a point-mass of electricity <br/>which is of magnitude unity in the stationary system K, <br/><span 
+class="cmmi-10">i.e.</span>, it exerts a unit force upon a similar quantity placed at <br/>a distance of 1 cm. If this quantity of electricity be at <br/>rest in the stationary system, then the force acting upon it <br/>is equivalent to the vector (X, Y, Z) of electric force. But <br/>if the quantity of electricity be at rest relative to the <br/>moving system (at least for the moment considered), then <br/>the force acting upon it, and measured in the moving <br/>system is equivalent to the vector (<span 
+class="cmmi-10">X</span><span 
+class="cmsy-10">'</span>,Y<span 
+class="cmsy-10">'</span>,<span 
+class="cmmi-10">Z</span><span 
+class="cmsy-10">'</span>). The first <br/>three of equations (1), (2), (3), can be expressed in the <br/>following way:--
+</p><!--l. 1166--><p class="indent">   1. If a point-mass of electric unit pole moves in an <br/>electro-magnetic field, then besides the electric force, an <br/>electromotive force acts upon it, which, neglecting the
+ <br/>numbers involving the second and higher powers of <span 
+class="cmmi-10">v/c</span>, <br/>is equivalent to the vector-product of the velocity vector, <br/>and the magnetic force divided by the velocity of light <br/>(Old mode of expression).
+</p><!--l. 1172--><p class="indent">   2. If a point-mass of electric unit pole moves in <br/>an electro-magnetic field, then the force acting upon it is <br/>equivalent to the electric force existing at the position of <br/>the unit pole, which we obtain by the transformation of <br/>the field to a co-ordinate system which is at rest relative <br/>to the electric unit pole [New mode of expression].
+</p><!--l. 1180--><p class="indent">   Similar theorems hold with reference to the magnetic <br/>force. We see that in the theory developed the electro-<br/>magnetic force plays the part of an auxiliary concept,
+ <br/>which owes its introduction in theory to the circumstance <br/>that the electric and magnetic forces possess no existence <br/>independent of the nature of motion of the co-ordinate <br/>system. <pb/>
+</p><!--l. 1190--><p class="indent">
+
+</p><!--l. 1191--><p class="indent">   It is farther clear that the assymetry mentioned in the <br/>introduction which occurs when we treat of the current <br/>excited by the relative motion of a magnet and a con-<br/>ductor disappears. Also the question about the seat of <br/>electromagnetic energy is seen to be without any meaning. </p>
+<div class="center" >
+
+<!--l. 1197--><p class="noindent">
+</p><!--l. 1198--><p class="noindent"><span 
+class="cmbsy-10x-x-120">§ </span><span 
+class="cmbx-12">7.  Theory of D</span><span 
+class="cmbx-12">öppler&#8217;s Principle and Aberration.</span></p></div>
+<!--l. 1201--><p class="indent">   In the system K, at a great distance from the origin of <br/>co-ordinates, let there be a source of electrodynamic waves, <br/>which is represented with sufficient approximation in a part <br/>of space not containing the origin, by the equations:--</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192056x.png" alt="X = X 0 sin P       L = L 0 sin P Y = Y 0 sin P }    M = M  0 sin P }       (    lx + my + nz)                                     P = w  t- ------------ Z = Z 0 sin  P      N = N 0  sin P                   c " class="par-math-display"  /></center>
+<!--l. 1220--><p class="nopar">
+</p><!--l. 1224--><p class="indent">   Here (<span 
+class="cmmi-10">X</span> <sub ><span 
+class="cmr-7">0</span></sub><span 
+class="cmmi-10">, Y</span> <sub ><span 
+class="cmr-7">0</span></sub><span 
+class="cmmi-10">, Z</span> <sub ><span 
+class="cmr-7">0</span></sub>) and (<span 
+class="cmmi-10">L</span><sub ><span 
+class="cmr-7">0</span></sub><span 
+class="cmmi-10">, M</span> <sub ><span 
+class="cmr-7">0</span></sub><span 
+class="cmmi-10">, N</span> <sub ><span 
+class="cmr-7">0</span></sub>) are the vectors <br/>which determine the amplitudes of the train of waves, <br/>(<span 
+class="cmmi-10">l, m, n</span>) are the direction-cosines of the wave-normal.
+</p><!--l. 1230--><p class="indent">   Let us now ask ourselves about the composition of <br/>these waves, when they are investigated by an observer at <br/>rest in a moving medium <span 
+class="cmmi-10">k</span>:--By applying the equations of <br/>transformation obtained in <span 
+class="cmsy-10">§</span>6 for the electric and magnetic <br/>forces, and the equations of transformation obtained in <span 
+class="cmsy-10">§ </span>3 <br/>for the co-ordinates, and time, we obtain immediately :--</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192057x.png" alt=" X'=  X 0 sin P'            L'=  L0 sin P'   '     (     v   )     '     '     (      v   )     ' Y  =  b (Y 0- cN 0 )sinP    M  =  b  M(  0 + cZ 0 )sin P  Z'=  b  Z  + vM     sinP'    N '=  b  N   - vY    sin P',            0 (c   0           )         0   c  0        '    '     l'q +-m'j-+-n'z       P = w   t-       c         , " class="par-math-display"  /></center>
+<!--l. 1252--><p class="nopar"> <pb/>
+</p><!--l. 1259--><p class="indent">
+
+</p><!--l. 1260--><p class="noindent">where</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192058x.png" alt="        (     )           v w'=  wb  1- lv   , l'=-l--c-, m'= --(-m---)-, n'= --(-n---)-.              c        1 - lvc-      b  1-  lvc-       b  1- lvc " class="par-math-display"  /></center>
+<!--l. 1269--><p class="nopar">
+</p><!--l. 1273--><p class="indent">   From the equation for <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-21.png" alt="w" class="10x-x-21" /></span><span 
+class="cmsy-10">' </span>it follows:--If an observer moves <br/>with the velocity <span 
+class="cmmi-10">v</span>
+relative to an infinitely distant source <br/>of light emitting waves of frequency <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span>, in such a manner <br/>that the line joining the source of light and the observer <br/>makes an angle of
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmr10-8.png" alt="P" class="10x-x-8" /> with the velocity of the observer <br/>referred to a system of co-ordinates which is stationary <br/>with regard to the source, then the frequency <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span><span 
+class="cmsy-10">' </span>which <br/>is perceived by the observer is represented by the formula</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192059x.png" alt="             v n'= n1 V~ -cosP-c .         1- v2             c2 " class="par-math-display"  /></center>
+<!--l. 1285--><p class="nopar">
+</p><!--l. 1289--><p class="indent">   This is Döppler&#8217;s principle for any velocity. If <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmr10-8.png" alt="P" class="10x-x-8" /> = 0, <br/>then the equation takes the simple form</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192060x.png" alt="     (      )1-  '     1---vc  2 n = n  1+  vc   . " class="par-math-display"  /></center>
+<!--l. 1297--><p class="nopar">
+</p><!--l. 1301--><p class="indent">   We see that--contrary to the usual conception--<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-17.png" alt="n" class="10x-x-17" /> </span>= <span 
+class="cmsy-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmsy10-31.png" alt=" oo " class="10x-x-31" /></span>, <br/>for <span 
+class="cmmi-10">v </span>= <span 
+class="cmsy-10">-</span><span 
+class="cmmi-10">c</span>.
+</p><!--l. 1303--><p class="indent">   If <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmr10-8.png" alt="P" class="10x-x-8" /><span 
+class="cmsy-10">' </span>=angle between the wave-normal (direction of the <br/>ray) in the moving system, and the line of motion of the <br/>observer, the equation for <span 
+class="cmmi-10">l</span><span 
+class="cmsy-10">'</span>. takes the form</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192061x.png" alt="               v cos P'=  cos P---c-.             v 
+" class="par-math-display"  /></center>
+<!--l. 1312--><p class="nopar"> <pb/>
+</p><!--l. 1319--><p class="indent">
+
+</p><!--l. 1320--><p class="indent">   This equation expresses the law of observation in its <br/>most general form. If <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmr10-8.png" alt="P" class="10x-x-8" /> = <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192062x.png" alt="p- 2"  class="frac" align="middle" />, the equation takes the <br/>simple form</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192063x.png" alt="cos P'= - v.           c " class="par-math-display"  /></center>
+<!--l. 1328--><p class="nopar">
+</p><!--l. 1332--><p class="indent">   We have still to investigate the amplitude of the <br/>waves, which occur in these equations. If A and <span 
+class="cmmi-10">A</span><span 
+class="cmsy-10">' </span>be <br/>the amplitudes in the stationary and the moving systems
+ <br/>(either electrical or magnetic), we have</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192064x.png" alt="       (    v      )2          1- - cosP A2 = A2-----c--v2----.            1 - -2                c " class="par-math-display"  /></center>
+<!--l. 1342--><p class="nopar">
+</p><!--l. 1346--><p class="indent">   If <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmr10-8.png" alt="P" class="10x-x-8" /> = 0, this reduces to the simple form</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192065x.png" alt="        1- v A2 = A2 ---c-.         1+ v            c " class="par-math-display"  /></center>
+<!--l. 1352--><p class="nopar">
+</p><!--l. 1356--><p class="indent">   From these equations, it appears that for an observer, <br/>which moves with the velocity <span 
+class="cmmi-10">c </span>towards the source of <br/>light, the source should appear infinitely intense.
+</p>
+<div class="center" >
+
+<!--l. 1359--><p class="noindent">
+</p><!--l. 1360--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span><span 
+class="cmr-12">8</span><span 
+class="cmbx-12">.  Transformation of the Energy of the Rays of </span> <br/><span 
+class="cmbx-12">Light.</span>
+<span 
+class="cmbx-12">Theory of the Radiation-pressure </span> <br/><span 
+class="cmbx-12">on a perfect mirror.</span></p></div>
+<!--l. 1364--><p class="indent">   Since <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192066x.png" alt="  2 A-- 8p"  class="frac" align="middle" /> is equal to the energy of light per unit <br/>volume, we have to regard <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192067x.png" alt="-A- 8p"  class="frac" align="middle" /> as 
+the energy of light in <br/><pb/>
+</p><!--l. 1370--><p class="indent">
+
+</p><!--l. 1371--><p class="noindent">the moving system. <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192068x.png" alt="A'2 A2-"  class="frac" align="middle" /> would therefore denote the <br/>ratio between the energies of a definite light-complex <br/>&#8220; measured when moving &#8221; and &#8220; measured when stationary,&#8221;
+ <br/>the volumes of the light-complex measured in K and <span 
+class="cmmi-10">k </span> <br/>being equal. Yet this is not the case. If <span 
+class="cmmi-10">l, m, n </span>are the <br/>direction-cosines of the wave-normal of light in the
+ <br/>stationary system, then no energy passes through the <br/>surface elements of the spherical surface</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192069x.png" alt="        2            2           2    2 (x - clt) + (y- cm t) + (z -c nt) = R  . " class="par-math-display"  /></center>
+<!--l. 1387--><p class="nopar">
+</p><!--l. 1391--><p class="noindent">which expands with the velocity of light. We can therefore <br/>say, that this surface always encloses the same light-complex. <br/>Let us now consider the quantity of energy, which this <br/>surface encloses, when regarded from the system <span 
+class="cmmi-10">k,i.e.</span>, <br/>the energy of the light-complex relative to the system
+</p><!--l. 1398--><p class="indent">   Regarded from the moving system, the spherical <br/>surface becomes an ellipsoidal surface, having, at the time <br/><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /> </span>= 0, the equation :--</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192070x.png" alt="(       v  )2  (       v  )2  (       v  )2    2  bq - lbc q  +  j - m bc q  +   z- n bc q  = R " class="par-math-display"  /></center>
+<!--l. 1407--><p class="nopar">
+</p><!--l. 1411--><p class="indent">   If <span 
+class="cmmi-10">S </span>= <span 
+class="cmmi-10">volume</span> of the sphere, <span 
+class="cmmi-10">S</span><span 
+class="cmsy-10">' </span>= <span 
+class="cmmi-10">volume</span> of this <br/>ellipsoid, then a simple calculation shows that:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192071x.png" alt=" ' S- =  V~ ---b------- S      1 - v cosP            c " class="par-math-display"  /></center>
+<!--l. 1419--><p class="nopar">
+</p><!--l. 1423--><p class="indent">   If E denotes the quantity of light energy measured in <br/>the stationary system, E&#8217; the quantity measured in the <br/><pb/>
+</p><!--l. 1428--><p class="indent">
+
+</p><!--l. 1429--><p class="noindent">moving system, which are enclosed by the surfaces <br/>mentioned above, then</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192072x.png" alt="  '  A'2S'    1- v cosP E--= -8p-- =  V~ --c----- E     A2S      1 -v2/c2       8p " class="par-math-display"  /></center>
+<!--l. 1438--><p class="nopar">
+</p><!--l. 1441--><p class="noindent">If <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmr10-8.png" alt="P" class="10x-x-8" /> = 0, we have the simple formula :--</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192073x.png" alt="     (      ) 1 E'     1 - v  2 ---=   ----cv  E     1 + c " class="par-math-display"  /></center>
+<!--l. 1448--><p class="nopar">
+</p><!--l. 1452--><p class="indent">   It is to be noticed that the energy and the frequency <br/>of a light-complex vary according to the same law with <br/>the state of motion of the observer.
+</p><!--l. 1456--><p class="indent">   Let there be a perfectly retleeting mirror at the co-or-<br/>dinate-plane <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /> </span>= 0, from which the piane-wave considered <br/>in the last paragraph is reflected. Let us now ask ourselves <br/>about the light-pressure exerted on the reflecting surface <br/>and the direction, frequency, intensity of the light after <br/>reflexion.
+</p><!--l. 1463--><p class="indent">   Let the incident light be defined by the magnitudes <br/>A cos <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmr10-8.png" alt="P" class="10x-x-8" />, <span 
+class="cmmi-10">v </span>(referred to the system K). Regarded from <span 
+class="cmmi-10">k</span>, <br/>we have the corresponding magnitudes:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192074x.png" alt="       1 - vcosP  A'=  A- V~ -c-----               v2           1 - c2         cosP - v- cos P'= -------c2-         1- v cosP             c        1- v cosP  n'=  n V~ -c------              v2           1-  c2 " class="par-math-display"  /></center>
+<!--l. 1479--><p class="nopar"> <pb/>
+</p><!--l. 1486--><p class="indent">
+
+</p><!--l. 1487--><p class="indent">   For the reflected light we obtain, when the process <br/>is referred to the system <span 
+class="cmmi-10">k</span>
+:--</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192075x.png" alt="A''= A', cos P''= -cos P', n''= n'. " class="par-math-display"  /></center>
+<!--l. 1495--><p class="nopar">
+</p><!--l. 1499--><p class="indent">   By means of a back-transformation to the stationary <br/>system, we obtain K, for the reflected light :--</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192076x.png" alt="                                     2         1 + vcosP''    1- 2 vcosP + v- A'''=  A''- V~ -c------= A -----c-------c2-,                v2           1- v2             1- c2              c2                   v     (    v2 )         v           cos P''+-       1+ -c2  cos P - 2 c } cos P'''= ----v----c''=  --------v-------v2--,          1 + c cos P      1- 2 -cos P +-2                                c    2  c        1 + vcos P''    1- 2 vcos f+ v- n'''= n''- V~ -c----- = n----(c----)2-c2-.            1 - v2          1- v                c2              c " class="par-math-display"  /></center>
+<!--l. 1519--><p class="nopar">
+</p><!--l. 1523--><p class="indent">   The amount or energy falling upon the unit surface <br/>of the mirror per unit of time (measured in the stationary <br/>system) is <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192077x.png" alt="     A2 8p(c-cosP--v)-"  class="frac" align="middle" /> <span 
+class="cmsy-10"><sup class="htf"><strong>.</strong></sup> </span>The amount of energy going <br/>away from unit surface of the mirror per unit of time is
+ <br/><span 
+class="cmmi-10">A</span><span 
+class="cmsy-10">'''</span><sup ><span 
+class="cmr-7">2</span></sup><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192078x.png" alt="/"  class="left" align="middle" />8<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-19.png" alt="p" class="10x-x-19" /></span> (<span 
+class="cmsy-10">-</span><span 
+class="cmmi-10">c</span> cos <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmr10-8.png" alt="P" class="10x-x-8" /><span 
+class="cmsy-10">''</span> + <span 
+class="cmmi-10">v</span>)<span 
+class="cmsy-10"><sup class="htf"><strong>.</strong></sup> </span>The difference of these two <br/>expressions is, according to the Energy principle, the <br/>amount of work exerted, by the pressure of light per unit <br/>of time. If we put this equal to P.<span 
+class="cmmi-10">v</span>, where <span 
+class="cmmi-10">P </span>= pressure <br/>of light, we have</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192079x.png" alt="         (         )         2 cos P - v 2 P  = 2 A------(--c)2--       8p   1-   v                 c " class="par-math-display"  /></center>
+
+<!--l. 1537--><p class="nopar"> <pb/>
+</p><!--l. 1544--><p class="indent">
+
+</p><!--l. 1545--><p class="noindent">As a first approximation, we obtain</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192080x.png" alt="P = 2 A2-cos2 P.       8p " class="par-math-display"  /></center>
+<!--l. 1551--><p class="nopar">
+</p><!--l. 1555--><p class="noindent">which is in accordance with facts, and with other <br/>theories.
+</p><!--l. 1558--><p class="indent">   All problems of optics of moving bodies can be solved <br/>after the method used here. The essential point is, that <br/>the electric and magnetic forces of light, which are
+ <br/>influenced by a moving body, should be transformed to a <br/>system of co-ordinates which is stationary relative to the <br/>body. In this way, every problem of the optics of moving <br/>bodies would be reduced to a series of problems of the <br/>optics of stationary bodies. </p>
+<div class="center" >
+
+<!--l. 1566--><p class="noindent">
+</p><!--l. 1567--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span><span 
+class="cmr-12">9</span><span 
+class="cmbx-12">.  Transformation of the Maxwell-Hertz Equations.</span></p></div>
+<!--l. 1570--><p class="noindent">Let us start from the equations :--</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192081x.png" alt="  (          ) 1   rux + @-X  = @N--- @M--   1 @L-=  @Y-- @-Z c (       @t )   @ y    @z     c@ t   @z    @y 1   ru + @-Y   = @L-- @-N- }  1 @M--  @-Z   @X--} c     y   @t     @z    @x      c @t =  @x - @ z 1 (      @Z )    @M    @L     1 @N--  @X--  @Y- c   ruz + @-t =  @-x-- @-y     c@ t = @ y - @ x " class="par-math-display"  /></center>
+<!--l. 1596--><p class="nopar">
+</p><!--l. 1600--><p class="noindent">where <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1a.png" alt="r" class="cmmi-10x-x-1a" align="middle" /> </span>= <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192082x.png" alt="@X-- @x"  class="frac" align="middle" /> + <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192083x.png" alt="@-Y  @y"  class="frac" align="middle" /> + <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192084x.png" alt="-Z@ @ z"  class="frac" align="middle" /> <span 
+class="cmmi-10">, </span>denotes 4<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-19.png" alt="p" class="10x-x-19" /> </span>times the density <br/>of electricity, and (<span 
+class="cmmi-10">u</span><sub ><span 
+class="cmmi-7">x</span></sub> <span 
+class="cmmi-10">, u</span><sub ><span 
+class="cmmi-7">y</span></sub><span 
+class="cmmi-10">, u</span><sub ><span 
+class="cmmi-7">z</span></sub>) are the velocity-components <br/>of electricity. If we now suppose that the electrical-<br/>masses are bound unchangeably to small, rigid bodies
+ <br/><pb/>
+</p><!--l. 1609--><p class="indent">
+
+</p><!--l. 1610--><p class="noindent">(Ions, electrons), then these equations form the electromag-<br/>netic basis of Lorentz&#8217;s electrodynamics and optics for <br/>moving bodies.
+</p><!--l. 1614--><p class="indent">   If these equations which hold in the system K, are <br/>transformed to the system <span 
+class="cmmi-10">k</span>
+with the aid of the transfor-<br/>mation-equations given in <span 
+class="cmsy-10">§ </span>3 and <span 
+class="cmsy-10">§ </span>6, then we obtain
+ <br/>the equations :--</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192085x.png" alt=" [         ']      '      '      '     '     ' 1 r'uq + @-X  = @N--- @-M--,  @L--= @-Y--  @Z--, c[       @t ]    @j    @ z    @ t    @z    @ j 1 r'u + @-Y'  = @L'-- @N-' , @-M-'=  @Z'-- @X'-, c    j   @t     @ z    @q     @ t    @q    @ z 1[ '    @ Z']   @M '   @L'   @ N '  @X'    @Y ' c r uz +-@t-  = -@q--  @j-,  -@t- = -@j--  @-q-, " class="par-math-display"  /></center>
+<!--l. 1640--><p class="nopar">
+</p><!--l. 1644--><p class="noindent">where</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192086x.png" alt="            ux- v            ----uxv-= uq.            1 -  c     uy            ''   @X'   @ Y'   @Z' -(----vux)-= uj. r  = @-q-+ -@j-+  @-q- b 1 - c2                            = b (1 - vux-) r.                                      c2               --(--uz-----)= uz.               b   1- vu-x                       c2 " class="par-math-display"  /></center>
+<!--l. 1660--><p class="nopar">
+</p><!--l. 1664--><p class="indent">   Since the vector (<span 
+class="cmmi-10">u</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi7-18.png" alt="q" class="cmmi-7x-x-18" align="middle" /></span></sub><span 
+class="cmmi-10">,  u</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi7-11.png" alt="j" class="cmmi-7x-x-11" align="middle" /></span></sub><span 
+class="cmmi-10">,  u</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi7-10.png" alt="z" class="cmmi-7x-x-10" align="middle" /></span></sub>) is nothing but the <br/>velocity of the electrical mass measured in the system <span 
+class="cmmi-10">k</span>, <br/>as can be easily seen from the addition-theorem of
+ <br/>velocities in <span 
+class="cmsy-10">§ </span>4--so it is hereby shown, that by taking <br/><pb/>
+</p><!--l. 1669--><p class="indent">
+
+</p><!--l. 1670--><p class="noindent">our kinematical principle as the basis, the electromagnetic <br/>basis of Lorentz&#8217;s theory of electrodynamics of moving <br/>bodies correspond to the relativity-postulate. It can be <br/>briefly remarked here that the following important law <br/>follows easily from the equations developed in the present <br/>section :--if an electrically charged body moves in any <br/>manner in space, and if its charge does not change thereby, <br/>when regarded from a system moving along with it, then <br/>the charge remains constant even when it is regarded from <br/>the stationary system K.
+</p>
+<div class="center" >
+
+<!--l. 1681--><p class="noindent">
+</p><!--l. 1682--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span><span 
+class="cmr-12">10</span><span 
+class="cmbx-12">.  Dynamics of the Electron (slowly accelerated).</span></p></div>
+<!--l. 1685--><p class="indent">   Let us suppose that a point-shaped particle, having <br/>the electrical charge <span 
+class="cmmi-10">e </span>(to be called henceforth the electron) <br/>moves in the electromagnetic field; we assume the
+ <br/>following about its law of motion.
+</p><!--l. 1690--><p class="indent">   If the electron be at rest at any definite epoch, then <br/>in the next &#8220; <span 
+class="cmti-10">particle of</span>
+<span 
+class="cmti-10">time,</span>&#8221; the motion takes place <br/>according to the equations</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192087x.png" alt="   2           2           2 m d-x-= eX, m d--y= eY, m d--z= eZ.   dt2          dt2          dt2 " class="par-math-display"  /></center>
+<!--l. 1699--><p class="nopar">
+</p><!--l. 1703--><p class="indent">   Where (<span 
+class="cmmi-10">x, y, z</span>) are the co-ordinates of the electron, and <br/><span 
+class="cmmi-10">m </span>is its mass.
+</p><!--l. 1706--><p class="indent">   Let the electron possess the velocity <span 
+class="cmmi-10">v </span>at a certain <br/>epoch of time. Let us now investigate the laws according <br/>to which the electron will move in the &#8216;particle of time&#8217;
+ <br/>immediately following this epoch.
+</p><!--l. 1710--><p class="indent">   Without influencing the generality of treatment, we can <br/>and we will assume that, at the moment we are considering, <br/><pb/>
+</p><!--l. 1715--><p class="indent">
+
+</p><!--l. 1716--><p class="noindent">the electron is at the origin of co-ordinates, and moves <br/>with the velocity <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-17.png" alt="n" class="10x-x-17" /> </span>along the X-axis of the system. It is <br/>clear that at this moment (<span 
+class="cmmi-10">t </span>= 0) the electron is at rest
+ <br/>relative to the system <span 
+class="cmmi-10">k</span>, which moves parallel to the X-axis <br/>with the constant velocity <span 
+class="cmmi-10">v</span>.
+</p><!--l. 1720--><p class="indent">   From the suppositions made above, in combination <br/>with the principle of relativity, it is clear that regarded <br/>from the system <span 
+class="cmmi-10">k</span>, the electron moves according to the
+ <br/>equations</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192088x.png" alt="   2            2            2 m d-q2-= eX', m d-j2-= eY', m d-z2-= eZ'.   dt           dt           dt " class="par-math-display"  /></center>
+<!--l. 1731--><p class="nopar">
+</p><!--l. 1735--><p class="noindent">in the time immediately following the moment, where the <br/>symbols (<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" />, X</span><span 
+class="cmsy-10">'</span><span 
+class="cmmi-10">, Y </span><span 
+class="cmsy-10">'</span><span 
+class="cmmi-10">, Z</span><span 
+class="cmsy-10">'</span>) refer to the system <span 
+class="cmmi-10">k</span>. If we <br/>now fix, that for
+<span 
+class="cmmi-10">t </span>= <span 
+class="cmmi-10">x </span>= <span 
+class="cmmi-10">y </span>= <span 
+class="cmmi-10">z </span>= 0<span 
+class="cmmi-10">,  <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /> </span>= <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /> </span>= <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /> </span>= <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" /> </span>= 0<span 
+class="cmmi-10">,</span>, then the <br/>equations of transformation given in 3 (and 6) hold, and we <br/>have :</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192089x.png" alt="      (    v-) t = b   t- c2  ,( q = b (x-)vt), j = y(, z = z, )} X'=  X, Y '= b   Y - vN   , Z'=  b  Z +  vM                      c                   c " class="par-math-display"  /></center>
+<!--l. 1750--><p class="nopar">
+</p><!--l. 1754--><p class="indent">   With the aid of these equations, we can transform the <br/>above equations of motion from the system <span 
+class="cmmi-10">k </span>to the system <br/>K, and obtain :--</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192090x.png" alt="       2               2        (         )       d-x-= -e -1X,   d-y-= v-1-  Y - vN    ,       dt2   m  b3     dt2   m b       c (A)                                                       }         d2z   e 1 (    v  )         dt2 = m-b- Z + c M " class="par-math-display"  /></center>
+<!--l. 1770--><p class="nopar"> <pb/>
+</p><!--l. 1777--><p class="indent">
+
+</p><!--l. 1778--><p class="indent">   Let us now consider, following the usual method of <br/>treatment, the longitudinal and transversal mass of a <br/>moving electron. We write the equations (A) in the form</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192091x.png" alt="m b3 d2-x = eX = eX'      d t2    3 d2-y      [     v   ]     '  } m b  d t2 = eb  Y -  c N  = eY    3 d2 z      [     v   ]     ' m b  d-t2 = eb  Z +  c M   = eZ " class="par-math-display"  /></center>
+<!--l. 1793--><p class="nopar">
+</p><!--l. 1797--><p class="noindent">and let us first remark, that <span 
+class="cmmi-10">eN</span><span 
+class="cmsy-10">'</span><span 
+class="cmmi-10">,eY </span><span 
+class="cmsy-10">'</span><span 
+class="cmmi-10">,eZ</span><span 
+class="cmsy-10">' </span>are the com-<br/>ponents of the ponderomotive force acting upon the <br/>electron, and are considered in a moving system which, at <br/>this moment, moves with a velocity which is equal to that <br/>of the electron. This force can, for example, be measured <br/>by means of a spring-balance which is at rest in this last
+ <br/>system. If we briefly call this force as &#8220;the force acting <br/>upon the electron,&#8221; and maintain the equation :--
+</p><!--l. 1804--><p class="indent">   Mass-number <span 
+class="cmsy-10">× </span>acceleration-number = force-number, and <br/>if we further fix that the accelerations are measured in <br/>the stationary system K, then from the above equations, <br/>we obtain :--</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192092x.png" alt="Longitudinalmass =  ( V~ --m----)3-                           v2  2                        1- c2 
+Transversal mass =    V~ -m----  .   *                        1 - v2                            c2 " class="par-math-display"  /></center>
+<!--l. 1816--><p class="nopar">
+</p><!--l. 1820--><p class="indent">   Naturally, when other definitions are given of the force <br/>and the acceleration, other numbers are obtained for the <br/>
+</p>
+<div class="center" >
+
+<!--l. 1824--><p class="noindent">
+
+</p><!--l. 1825--><p class="noindent">* <span 
+class="cmti-10">Vide </span>Note 21.</p></div>
+<!--l. 1827--><p class="noindent"><pb/>
+</p><!--l. 1831--><p class="indent">
+
+</p><!--l. 1832--><p class="noindent">mass; hence we see that we must proceed very carefully <br/>in comparing the different theories of the motion of the <br/>electron.
+</p><!--l. 1836--><p class="indent">   We remark that this result about the mass hold also <br/>for ponderable material mass; for in our sense, a ponder-<br/>able material point may be made into an electron by the <br/>addition of an electrical charge which may be as small as
+ <br/>possible.
+</p><!--l. 1842--><p class="indent">   Let us now determine the kinetic energy of the <br/>electron. If the electron moves from the origin of co-or-<br/>dinates of the system K with the initial velocity 0 steadily
+ <br/>along the X-axis under the action of an electromotive <br/>force X, then it is clear that the energy drawn from the <br/>electrostatic field has the value <span 
+class="cmsy-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmsy10-73.png" alt=" integral " class="10x-x-73" /></span> <span 
+class="cmmi-10">eXdv </span>Since the electron
+ <br/>is only slowly accelerated, and in consequence, no energy <br/>is given out in the form of radiation, therefore the energy <br/>drawn from the electro-static field may be put equal to <br/>the energy W of motion. Considering the whole process of <br/>motion in questions, the first of equations A) holds, we <br/>obtain :--</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192093x.png" alt="                                 |_              _| 
+      integral         integral v   3         2       1 W  =   eXd v =   m b v dv = m c  |_   V~ ----2 - 1 _| 
+              0                      1- v2                                         c " class="par-math-display"  /></center>
+<!--l. 1856--><p class="nopar">
+</p><!--l. 1860--><p class="indent">   For <span 
+class="cmmi-10">v </span>= <span 
+class="cmmi-10">c</span>, W is infinitely great. As our former result <br/>shows, velocities exceeding that of light can have no <br/>possibility of existence.
+</p><!--l. 1863--><p class="indent">   In consequence of the arguments mentioned above, <br/>this expression for kinetic energy must also hold for <br/>ponderable masses.
+</p><!--l. 1867--><p class="indent">   We can now enumerate the characteristics of the <br/>motion of the electrons available for experimental verifica-<br/>tion, which follow from equations A).
+<pb/>
+</p><!--l. 1873--><p class="indent">
+
+</p><!--l. 1874--><p class="indent">   1. From the second of equations A); it follows that <br/>an electrical force Y, and a magnetic force N produce <br/>equal deflexions of an electron moving with the velocity <br/><span 
+class="cmmi-10">v, </span>when <span 
+class="cmmi-10">Y </span>= <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192094x.png" alt="Nv- c"  class="frac" align="middle" /> . Therefore we see that according to <br/>our theory, it is possible to obtain the velocity of an <br/>electron from the ratio of the magnetic deflexion <span 
+class="cmmi-10">A</span><sub ><span 
+class="cmmi-7">m</span></sub>, and <br/>the electric deflexion <span 
+class="cmmi-10">A</span><sub ><span 
+class="cmmi-7">e</span></sub>, by applying the law :--</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192095x.png" alt="Am    v A-- = c.   e " class="par-math-display"  /></center>
+<!--l. 1884--><p class="nopar">
+</p><!--l. 1888--><p class="indent">   This relation can be tested by means of experiments <br/>because the velocity of the electron can be directly <br/>measured by means of rapidly oscillating electric and
+ <br/>magnetic fields.
+</p><!--l. 1893--><p class="indent">   2. From the value which is deduced for the kinetic <br/>energy of the electron, it follows that when the electron <br/>falls through a potential difference of P, the velocity <span 
+class="cmmi-10">v</span>
+ <br/>which is acquired is given by the following relation :--</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192096x.png" alt="                    |_              _| 
+     integral 
+P =    X dv = m-c2    V~ -1----- 1  .               e     |_       v2     _| 
+                       1 - c2 " class="par-math-display"  /></center>
+<!--l. 1902--><p class="nopar">
+</p><!--l. 1906--><p class="indent">   3. We calculate the radius of curvature R of the <br/>path, where the only deflecting force is a magnetic force N <br/>acting perpendicular to the velocity of projection. From
+ <br/>the second of equations A) we obtain:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192097x.png" alt="                     V~ -------   d2y-  v-2   e-v         v2- - dt2 =  R =  m c N   1 - c2. " class="par-math-display"  /></center>
+<!--l. 1916--><p class="nopar">
+</p><!--l. 1920--><p class="noindent"><span 
+class="cmmi-10">or</span><span 
+class="cmmi-10"> </span><span 
+class="cmmi-10"> </span><span 
+class="cmmi-10"> </span><span 
+class="cmmi-10"> </span><span 
+class="cmmi-10">                              R </span>= <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192098x.png" alt="mvbc-  eN"  class="frac" align="middle" />
+</p><!--l. 1924--><p class="indent">   These three relations are complete expressions for the <br/>law of motion of the electron according to the above <br/>theory. 
+</p>
+<div class="center" >
+
+<!--l. 1928--><p class="noindent">
+</p><!--l. 1929--><p class="noindent">---------</p></div>
+<!--l. 1931--><p class="noindent"><pb/>
+</p><!--l. 1935--><p class="indent">
+
+</p>
+<div class="center" >
+
+<!--l. 1936--><p class="noindent">
+</p><!--l. 1937--><p class="noindent"><span 
+class="cmbx-12x-x-120">ALBRECHT EINSTEIN</span></p></div>
+<div class="center" >
+
+<!--l. 1940--><p class="noindent">
+</p><!--l. 1941--><p class="noindent">[ <span 
+class="cmti-10">A short biographical note. </span>]</p></div>
+<!--l. 1944--><p class="indent">   The name of Prof. Albrecht Einstein has now spread far <br/>beyond the narrow pale of scientific investigators owing to <br/>the brilliant confirmation of his predicted deflection of <br/>light-rays by the gravitational field of the sun during the <br/>total solar eclipse of May 29, 1919. But to the serious <br/>student of science, he has been known from the beginning <br/>of the current century, and many dark problems in physics <br/>has been illuminated with the lustre of his genius, before, <br/>owing to the latest sensation just mentioned, he flashes out <br/>before public imagination as a scientific star of the first
+ <br/>magnitude.
+</p><!--l. 1957--><p class="indent">   Einstein is a Swiss-German of Jewish extraction, and <br/>began his scientific career as a privat-dozent in the Swiss <br/>University of Zürich about the year 1902. Later on, he <br/>migrated to the German University of Prague in Bohemia <br/>as ausser-ordentlicher (or associate) Professor. In 1914, <br/>through the exertions of Prof. M. Planck of the Berlin <br/>University, he was appointed a paid member of the Royal
+ <br/>(now National) Prussian Academy of Sciences, on a <br/>salary of 18,000 marks per year. In this post, he has <br/>only to do and guide research work. Another distinguished <br/>occupant of the same post was Van&#8217;t Hoff, the eminent <br/>physical chemist.
+</p><!--l. 1970--><p class="indent">   It is rather difficult to give a detailed, and consistent <br/>chronological account of his scientific activities,--they are <br/>so variegated, and cover such a wide field. The first work <br/>which gained him distinction was an investigation on <br/>Brownian Movement. An admirable account will be found <br/>in Perrin&#8217;s book &#8217;The Atoms.&#8217; Starting from Boltzmann&#8217;s <br/><pb/>
+</p><!--l. 1978--><p class="indent">
+
+</p><!--l. 1979--><p class="noindent">theorem connecting the entropy, and the probability of a <br/>state, he deduced a formula on the mean displacement of <br/>small particles (colloidal) suspended in a liquid. This <br/>formula gives us one of the best methods for finding out a
+ <br/>very fundamental number in physics--namely--the number <br/>of molecules in one gm. molecule of gas (Avogadro&#8217;s <br/>number). The formula was shortly afterwards verified by <br/>Perrin, Prof. of Chemical Physics in the Sorbonne, Paris.
+</p><!--l. 1989--><p class="indent">   To Einstein is also due the resusciation of Planck&#8217;s <br/>quantum theory of energy-emission. This theory has not <br/>yet caught the popular imagination to the same extent as <br/>the new theory of Time, and Space, but it is none the less
+ <br/>iconoclastic in its scope as far as classical concepts are <br/>concerned. It was known for a long time that the <br/>observed emission of light from a heated black body did <br/>not correspond to the formula which could be deduced from <br/>the older classical theories of continuous emission and <br/>propagation. In the year 1900, Prof. Planck of the Berlin <br/>University worked out a formula which was based on the <br/>bold assumption that energy was emitted and absorbed by <br/>the molecules in multiples of the quantity <span 
+class="cmmi-10">h<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-17.png" alt="n" class="10x-x-17" />, </span>where <span 
+class="cmmi-10">h </span> <br/>is a constant (which is universal like the constant of <br/>gravitation), and <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/cmmi10-17.png" alt="n" class="10x-x-17" /> </span>is the frequency of the light.
+</p><!--l. 2000--><p class="indent">   The conception was so radically different from all <br/>accepted theories that in spite of the great success of <br/>Planck&#8217;s radiation formula in explaining the observed facts <br/>of black-body radiation, it did not meet with much favour <br/>from the physicists. In fact, some one remarked jocularly <br/>that according to Planck, energy flies out of a radiator like <br/>a swarm of gnats.
+</p><!--l. 2008--><p class="indent">   But Einstein found a support for the new-born concept <br/>in another direction. It was known that if green or ultraviolet <br/>light was allowed to fall on a plate of some alkali metal, <br/>the plate lost electrons. The electrons were emitted with
+ <br/><pb/>
+</p><!--l. 2014--><p class="indent">
+
+</p><!--l. 2015--><p class="noindent">all velocities, but there is generally a maximum limit. <br/>From the investigations of Lenard and Ladenburg, the <br/>curious discovery was made that this maximum velocity of <br/>emission did not at all depend upon the intensity of light, <br/>but upon its wavelength. The more violet was the light, <br/>the greater was the velocity of emission.
+</p><!--l. 2022--><p class="indent">   To account for this fact, Einstein made the bold <br/>assumption that the light is propogated in space as a unit <br/>pulse (he calls it a Light-cell), and falling upon an <br/>individual atom, liberates electrons according to the energy
+ <br/>equation</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/cw/009_A_1920/img/009_A_192099x.png" alt="     1 hn = -mv2 + A      2 " class="par-math-display"  /></center>
+<!--l. 2032--><p class="nopar">
+</p><!--l. 2036--><p class="noindent">where (<span 
+class="cmmi-10">m, v</span>) are the mass and velocity of the electron. <br/>A is a constant characteristic of the metal plate.
+</p><!--l. 2039--><p class="indent">   There was little material for the confirmation of this <br/>law when it was first proposed (1905), and eleven years <br/>elapsed before Prof. Millikan established, by a set of <br/>experiments scarcely rivalled for the ingenuity, skill, and <br/>care displayed, the absolute truth of the law. As results of <br/>this confirmation, and other brilliant triumphs, the quantum <br/>law is now regarded as a fundamental law of Energetics. <br/>In recent years, X&#8217;rays have been added to the domain of <br/>light, and in this direction also, Einstein&#8217;s photo-electric <br/>formula has proved to be one of the most fruitful
+ <br/>conceptions in Physics.
+</p><!--l. 2052--><p class="indent">   The quantum law was next extended by Einstein to the <br/>problems of decrease of specific heat at low temperature, <br/>and here also his theory was confirmed in a brilliant
+ <br/>manner.
+</p><!--l. 2057--><p class="indent">   We pass over his other contributions to the equation of <br/>state, to the problems of null-point energy, and photo-<br/>chemical reactions. The recent experimental works of
+ <br/><pb/>
+</p><!--l. 2062--><p class="indent">
+
+</p><!--l. 2063--><p class="noindent">Nernst and Warburg seem to indicate that through <br/>Einstein&#8217;s genius, we are probably for the first time having <br/>a satisfactory theory of photo-chemical action.
+</p><!--l. 2067--><p class="indent">   In 1915, Einstein made an excursion into Experimental <br/>Physics, and here also. in his characteristic way, he tackled <br/>one of the most fundamental concepts of Physics. It is <br/>well-known that according to Ampere, the magnetisation
+ <br/>of iron and iron-like bodies, when placed within a coil <br/>carrying an electric current is due to the excitation in the <br/>metal of small electrical circuits. But the conception <br/>though a very fruitful one, long remained without a trace
+ <br/>of experimental proof, though after the discovery of the <br/>electron, it was generally believed that these molecular <br/>currents may be due to the rotational motion of free <br/>electrons within the metal. It is easily seen that if in the
+ <br/>process of magnetisation, a number of electrons be set into <br/>rotatory motion, then these will impart to the metal itself <br/>a turning couple. The experiment is a rather difficult one, <br/>and many physicists tried in vain to observe the effect. <br/>But in collaboration with de Haas, Einstein planned and <br/>successfully carried out this experiment, and proved the <br/>essential correctness of Ampere&#8217;s views.
+</p><!--l. 2088--><p class="indent">   Einstein&#8217;s studies on Relativity were commenced in the <br/>year 1905, and has been continued up to the present time. <br/>The first paper in the present collection forms Einstein&#8217;s <br/>first great contribution to the Principle of Special <br/>Relativity. We have recounted in the introduction how out <br/>of the chaos and disorder into which the electrodynamics <br/>and optics of moving bodies had fallen previous to 1895, <br/>Lorentz, Einstein and Minkowski have succeeded in <br/>building up a consistent, and fruitful new theory of Time <br/>and Space.
+</p><!--l. 2099--><p class="indent">   But Einstein was not satisfied with the study of the <br/>special problem of Relativity for uniform motion, but <br/><pb/>
+</p><!--l. 2103--><p class="indent">
+
+</p><!--l. 2104--><p class="noindent">tried, in a series of papers beginning from 1911, to extend <br/>it to the case of non-uniform motion. The last paper in <br/>the present collection is a translation of a comprehensive <br/>article which he contributed to the Annalen der Physik in <br/>1916 on this subject, and gives, in his own words, the <br/>Principles of Generalized Relativity. The triumphs of <br/>this theory are now matters of public knowledge.
+</p><!--l. 2113--><p class="indent">   Einstein is now only 45, and it is to be hoped that <br/>science will continue to be enriched, for a long time to <br/>come, with further achievements of his genius.
+</p>
+<div class="center" >
+
+<!--l. 2117--><p class="noindent">
+</p><!--l. 2118--><p class="noindent">---------</p></div>
+    
+</body></html> 
+
+
+

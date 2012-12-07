@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Ueber_de_1911.tex" /> 
+<meta name="date" content="2005-03-10 17:55:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Ueber_de_1911.css" /> 
+</head><body >
+
+<!--l. 16--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 17--><p class="noindent">
+</p><!--l. 18--><p class="noindent"><span 
+class="cmr-12x-x-120">4.  </span><span 
+class="cmbxti-10x-x-144">Über den Einflu</span><span 
+class="cmmi-12x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-b-c.png" alt="b" class="cmmi-12-120x-x-c" align="middle" /> </span> <br/><span 
+class="cmbxti-10x-x-144">der Schwerkraft auf die</span>
+<span 
+class="cmbxti-10x-x-144">Ausbreitung des Lichtes; </span> <br/><span 
+class="cmbxti-10x-x-144">von A. Einstein.</span></p></div>
+<div class="center" >
+
+<!--l. 23--><p class="noindent">
+</p><!--l. 24--><p class="noindent">----------</p></div>
+<!--l. 28--><p class="indent">   Die Frage, ob die Ausbreitung des Lichtes durch die <br/>Schwere beinflußt wird, habe ich schon an einer vor 3 Jahren <br/>erschienenen Abhandlung zu beantworten gesucht.<sup ><span 
+class="cmr-8">1</span></sup>) Ich komme <br/>auf dies Thema wieder zurück, weil mich meine damalige
+ <br/>Darstellung des Gegenstandes nicht befriedigt, noch mehr <br/>aber, weil ich nun nachträglich einsehe, daß eine der wichtigsten <br/>Konsequenzen jener Betrachtung der experimentellen Prüfung <br/>zugänglich ist. Es ergibt sich nämlich, daß Lichtstrahlen, die <br/>in der Nähe der Sonne vorbeigehen, durch das Gravitationsfeld
+ <br/>derselben nach der vorzubringenden Theorie eine Ablenkung <br/>erfahren, so daß eine scheinbare Vergrößerung des Winkel-<br/>abstandes eines nahe an der Sonne erscheinenden Fixsternes <br/>von dieser im Betrage von fast einer Bogensekunde eintritt.
+</p><!--l. 45--><p class="indent">   Es haben sich bei der Durchführung der Überlegungen <br/>auch noch weitere Resultate ergeben, die sich auf die Gravi-<br/>tation beziehen. Da aber die Darlegung der ganzen Be-<br/>trachtung ziemlich unübersichtlich würde, sollen im folgenden <br/>nur einige ganz elementare Überlegungen gegeben werden, aus
+ <br/>denen man sich bequem über die Voraussetzungen und den <br/>Gedankengang der Theorie orientieren kann. Die hier ab-<br/>geleiteten Beziehungen sind, auch wenn die theoretische Grund-<br/>lage zutrifft, nur in erster Näherung gültig.
+</p>
+<div class="center" >
+
+<!--l. 57--><p class="noindent">
+</p><!--l. 58--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>1.  Hypothese über die physikalische Natur <br/>des Gravitationsfeldes.</p></div>
+<!--l. 63--><p class="indent">   In einem homogenen Schwerefeld (Schwerebeschleunigung <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-d.png" alt="g" class="12x-x-d" /></span>) <br/>befinde sich ein ruhendes Koordinatensystem <span 
+class="cmmi-12">K</span>, das so orien-<br/>tiert sei, daß die Kraftlinien des Schwerefeldes in Richtung <br/>----------
+</p><!--l. 70--><p class="indent">   1) A. Einstein, Jahrb. f. Radioakt. n. Elektronik IV. 4. <pb/>
+</p><!--l. 75--><p class="indent">
+
+</p><!--l. 76--><p class="noindent">der negativen <span 
+class="cmmi-12">z</span>-Achse verlaufen. In einem von Gravitations-<br/>feldern freien Raume befinde sich ein zweites Koordinaten-<br/>system <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">'</span>, das in Richtung seiner positiven
+<span 
+class="cmmi-12">z</span>-Achse eine <br/>gleichförmig beschleunigte Bewegung (Beschleunigung <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-d.png" alt="g" class="12x-x-d" /></span>) aus-<br/>führe. Um die Betrachtung nicht unnütz zu komplizieren, <br/>sehen wir dabei von der Relativitätstheorie vorläufig ab, be-<br/>trachten also beide Systeme nach der gewohnten Kinematik <br/>und in denselben stattfindende Bewegungen nach der gewöhn-<br/>lichen Mechanik.
+</p><!--l. 88--><p class="indent">   Relativ zu <span 
+class="cmmi-12">K</span>, sowie relativ zu <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">'</span>, bewegen sich materielle <br/>Punkte, die der Einwirkung anderer materieller Punkte nicht <br/>unterliegen, nach den Gleichungen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_19110x.png" alt=" 2           2            2 d-xn-=  0,  d--yn = 0 ,  d-zn-= - g . d t2         d t2         d t2 " class="par-math-display"  /></center>
+<!--l. 97--><p class="nopar">
+</p><!--l. 101--><p class="noindent">Dies folgt für das beschleunigte System <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>direkt aus dem <br/>Galileischen Prinzip, für das in einem homogenen Gravi-<br/>tationsfeld ruhende System <span 
+class="cmmi-12">K </span>aber aus der Erfahrung, daß <br/>in einem solchen Felde alle Körper gleich stark und gleich-<br/>mäßig beschleunigt werden. Diese Erfahrung vom gleichen <br/>Fallen aller Körper im Gravitationsfelde ist eine der all-<br/>gemeinsten, welche die Naturbeobachtung uns geliefert hat; <br/>trotzdem hat dieses Gesetz in den Fundamenten unseres
+ <br/>physikalischen Weltbildes keinen Platz erhalten.
+</p><!--l. 113--><p class="indent">   Wir gelangen aber zu einer sehr befriedigenden Inter-<br/>pretation des Erfahrungssatzes, wenn wir annehmen, daß die <br/>Systeme <span 
+class="cmmi-12">K </span>und <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>physikalisch genau gleichwertig sind, d. h. <br/>wenn wir annehmen, man könne das System <span 
+class="cmmi-12">K</span>
+ebenfalls als <br/>in einem von einem Schwerefeld freien Raume befindlich an-<br/>nehmen; dafür müssen wir <span 
+class="cmmi-12">K </span>dann aber als gleichförmig be-<br/>schleunigt betrachten. Man kann bei dieser Auffassung ebenso-<br/>wenig von der <span 
+class="cmti-12">absoluten</span>
+<span 
+class="cmti-12">Beschleunigung </span>des Bezugssystems <br/>sprechen, wie man nach der gewöhnlichen Relativitätstheorie <br/>von der <span 
+class="cmti-12">absoluten Geschwindigkeit </span>eines Systems reden kann.<sup ><span 
+class="cmr-8">1</span></sup>)
+ <br/>----------
+</p><!--l. 127--><p class="indent">   1) Natürlich kann man ein <span 
+class="cmti-12">beliebiges </span>Schwerefeld nicht durch einen
+ <br/>Bewegungszustand des Systems ohne Gravitationsfeld ersetzen, ebenso-<br/>wenig, als man durch eine Relativitätstransformation alle Punkte eines <br/>beliebig bewegten Mediums auf Ruhe trausformieren kann. <pb/>
+</p><!--l. 136--><p class="indent">
+
+</p><!--l. 137--><p class="noindent">Bei dieser Auffassung ist das gleiche Fallen aller Körper <br/>in einem Gravitationsfelde selbstverständlich.
+</p><!--l. 141--><p class="indent">   Solange wir uns auf rein mechanische Vorgänge aus dem <br/>Gültigkeitsbereich von Newtons Mechanik beschränken, sind <br/>wir der Gleichwertigkeit der Systeme <span 
+class="cmmi-12">K </span>und <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>sicher. Unsere <br/>Auffassung wird jedoch nur dann tiefere Bedeutung haben, <br/>wenn die Systeme <span 
+class="cmmi-12">K </span>und <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>in bezug auf alle physikalischen
+ <br/>Vorgänge gleichwertig sind, d. h. wenn die Naturgesetze in <br/>bezug auf <span 
+class="cmmi-12">K</span>
+mit denen in bezug auf <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>vollkommen über-<br/>einstimmen. Indem wir dies annehmen, erhalten wir ein <br/>Prinzip, das, falls es wirklich zutrifft, eine große heuristische <br/>Bedeutung besitzt. Denn wir erhalten durch die theoretische <br/>Betrachtung der Vorgänge, die sich relativ zu einem gleich-<br/>förmig beschleunigten Bezugssystem abspielen, Aufschluß über <br/>den Verlauf der Vorgänge in einem homogenen Gravitations-<br/>felde.<sup ><span 
+class="cmr-8">1</span></sup>) Im folgenden soll zunächst gezeigt werden, inwiefern <br/>unserer Hypothese vom Standpunkte der gewöhnlichen Rela-<br/>tivitätstheorie aus eine beträchtliche Wahrscheinlichkeit zu-<br/>kommt.
+</p>
+<div class="center" >
+
+<!--l. 163--><p class="noindent">
+</p><!--l. 164--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>2.  Über die Schwere der Energie.</p></div>
+<!--l. 168--><p class="indent">   Die Relativitätstheorie hat ergeben, daß die träge Masse <br/>eines Körpers mit dem Energieinhalt desselben wächst; <br/>beträgt der Energiezuwachs <span 
+class="cmmi-12">E</span>, so ist der Zuwachs an träger <br/>Masse gleich <span 
+class="cmmi-12">E/c</span><sup ><span 
+class="cmr-8">2</span></sup>, wenn <span 
+class="cmmi-12">c </span>die Lichtgeschwindigkeit bedeutet.
+ <br/>Entspricht nun aber diesem Zuwachs an träger Masse auch <br/>ein Zuwachs an gravitierender Masse? Wenn nicht, so fiele <br/>ein Körper in demselben Schwerefelde mit verschiedener Be-<br/>schleunigung je nach dem Energieinhalte des Körpers. Das <br/>so befriedigende Resultat der Relativitätstheorie, nach welchem <br/>der Satz von der Erhaltung der Masse in dem Satze von der
+ <br/>Erhaltung der Energie aufgeht, wäre nicht aufrecht zu er-<br/>halten; denn so wäre der Satz von der Erhaltung der Masse <br/>zwar für die <span 
+class="cmti-12">tr</span><span 
+class="cmti-12">äge </span>Masse in der alten Fassung aufzugeben, <br/>für die gravitierende Masse aber aufrecht zu erhalten.
+</p><!--l. 186--><p class="noindent">----------
+</p><!--l. 188--><p class="indent">   1) In einer späteren Abhandlung wird gezeigt werden, daß das hier <br/>in Betracht kommende Gravitationsfeld nur in erster Annäherung <br/>homogen ist.
+<pb/>
+</p><!--l. 195--><p class="indent">
+
+</p><!--l. 196--><p class="indent">   Dies muß als sehr unwahrscheinlich betrachtet werden. <br/>Andererseits liefert uns die gewöhnliche Relativitätstheorie <br/>kein Argument, aus dem wir folgern könnten, daß das Gewicht <br/>eines Körpers von dessen Energieinhalt abhängt. Wir werden <br/>aber zeigen, daß unsere Hypothese von der Äquivalenz der
+ <br/>Systeme <span 
+class="cmmi-12">K </span>und <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>die Schwere der Energie als notwendige <br/>Konsequenz liefert.    Es mögen sich die beiden mit Meßinstrumenten versehenen <br/>körperlichen Systeme  <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub>  und  <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub>  in  der  Entfernung  <span 
+class="cmmi-12">h </span>von-<br/>einander  auf  der  <span 
+class="cmmi-12">z</span>-Achse von <span 
+class="cmmi-12">K </span>befinden <sup ><span 
+class="cmr-8">1</span></sup>), derart, daß das <br/>Gravitationspotential in <span 
+class="cmmi-12">S</span><sub >
+<span 
+class="cmr-8">2</span></sub> um <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-d.png" alt="g" class="12x-x-d" /> </span>. <span 
+class="cmmi-12">h </span>größer ist, als das in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub>. Es <br/>wurde von <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> gegen <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> eine bestimmte Energie-<br/>menge
+<span 
+class="cmmi-12">E </span>in Form von Strahlung gesendet. Die <br/>Energiemengen mögen dabei in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> und <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> mit <br/>Vorrichtungen gemessen werden, die -- an <span 
+class="cmti-12">einen  </span> <br/>Ort des Systems <span 
+class="cmmi-12">z </span>gebracht und  dort  mit-<br/>einander  verglichen  --  vollkommen gleich seien. <br/>Über den Vorgang dieser Energieübertragung
+ <br/>durch  Strahlung  läßt  sich  a  priori  nichts  aus-<br/>sagen, weil wir den Einfluß des Schwerefeldes <br/>auf die Strahlung und die Meßinstrumente in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> und <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> nicht <br/>kennen.                                                        <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_19111x.png" alt="PIC" class="graphics" width="71.13188pt" height="124.48445pt"  /><!--tex4ht:graphics  
+name="img/Einst_Ueber_de_19111x.png" src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/Einst_Ueber_de_1911_001.EPS"  
+--></p><!--l. 226--><p class="indent">Nach unserer Voraussetzung von der Äquivalenz von <span 
+class="cmmi-12">K </span> <br/>und <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>können wir aber an Stelle des im homogenen Schwere-<br/>felde befindlichen Systems <span 
+class="cmmi-12">K </span>das schwerefreie, im Sinne der <br/>positiven <span 
+class="cmmi-12">z </span>gleichförmig beschleunigt bewegte System
+<span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>setzen, <br/>mit dessen <span 
+class="cmmi-12">z</span>-Achse die körperlichen Systeme <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> und <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> fest <br/>verbunden sind.
+</p><!--l. 234--><p class="indent">   Den Vorgang der Energieübertragung durch Strahlung <br/>von <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> auf <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub>
+beurteilen wir von einem System <span 
+class="cmmi-12">K</span><sub ><span 
+class="cmr-8">0</span></sub> aus, das <br/>beschleunigungsfrei sei. In bezug auf
+<span 
+class="cmmi-12">K</span><sub ><span 
+class="cmr-8">0</span></sub> besitze <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>in dem <br/>Augenblick die Geschwindigkeit Null, in welchem die Strah-<br/>lungsenergie <span 
+class="cmmi-12">E</span><sub ><span 
+class="cmr-8">2</span></sub> von <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> gegen <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> abgesendet wird. Die Strah-<br/>lung wird in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub>
+ankommen, wenn die Zeit <span 
+class="cmmi-12">h/c </span>verstrichen ist <br/>(in erster Annäherung). In diesem Momente besitzt aber <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> <br/>in bezug auf <span 
+class="cmmi-12">K</span><sub ><span 
+class="cmr-8">0</span></sub> die Geschwindigkeit
+<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-d.png" alt="g" class="12x-x-d" /> .h/c </span>= <span 
+class="cmmi-12">v</span>. Deshalb <br/>besitzt nach der gewöhnlichen Relativitätstheorie die in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub>
+ <br/>----------
+</p><!--l. 247--><p class="indent">   1) <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> und <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> werden als gegenüber <span 
+class="cmmi-12">h </span>unendlich klein betrachtet. <pb/>
+</p><!--l. 253--><p class="indent">
+
+</p><!--l. 254--><p class="noindent">ankommende Strahlung nicht die Energie <span 
+class="cmmi-12">E</span><sub ><span 
+class="cmr-8">2</span></sub>, sondern eine <br/>größere Energie
+<span 
+class="cmmi-12">E</span><sub ><span 
+class="cmr-8">1</span></sub>, welche mit <span 
+class="cmmi-12">E</span><sub ><span 
+class="cmr-8">2</span></sub> in erster Annäherung durch <br/>die Gleichung verknüpft ist<sup ><span 
+class="cmr-8">1</span></sup>):
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_19112x.png" alt="        (     v)      (     g h) E1 = E2   1 + -- = E2   1 + --2   .               c              c " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 263--><p class="nopar">
+</p><!--l. 266--><p class="indent">   Nach unserer Annahme gilt genau die gleiche Beziehung, <br/>falls derselbe Vorgang in dem nicht beschleunigten, aber mit <br/>Gravitationsfeld versehenen System <span 
+class="cmmi-12">K </span>stattfindet. In diesem <br/>Falle können wir <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-d.png" alt="g" class="12x-x-d" /></span><span 
+class="cmsy-10x-x-120"><sup class="htf"><strong>.</strong></sup></span><span 
+class="cmmi-12">h </span>ersetzen durch das Potential
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> des <br/>Gravitationsvektors in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub>, wenn die willkürliche Konstante <br/>von <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub>
+gleich Null gesetzt wird. Es gilt also die <br/>Gleichung:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_19113x.png" alt="           E2- E1 = E2 +  c2 P . " class="math-display"  /></center></td><td width="5%">(1 a)</td></tr></table>
+<!--l. 278--><p class="nopar">
+</p><!--l. 282--><p class="noindent">Diese Gleichung spricht den Energiesatz für den ins Auge <br/>gefaßten Vorgang aus. Die in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> ankommende Energie <span 
+class="cmmi-12">E</span><sub ><span 
+class="cmr-8">1</span></sub> ist <br/>größer als die mit gleichen Mitteln gemessene Energie <span 
+class="cmmi-12">E</span><sub ><span 
+class="cmr-8">2</span></sub>, <br/>welche in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> emittiert wurde, und zwar um die potentielle <br/>Energie der Masse <span 
+class="cmmi-12">E</span><sub ><span 
+class="cmr-8">2</span></sub><span 
+class="cmmi-12">/c</span><sup ><span 
+class="cmr-8">2</span></sup> im Schwerefelde. Es zeigt sich
+ <br/>also, daß man, damit das Energieprinzip erfüllt sei, der <br/>Energie <span 
+class="cmmi-12">E </span>vor ihrer Aussendung in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> eine potentielle Energie <br/>der Schwere zuschreiben 
+muß, die der (schweren) Masse <span 
+class="cmmi-12">E/c</span><sup ><span 
+class="cmr-8">2</span></sup> <br/>entspricht. Unsere Annahme der Äquivalenz von <span 
+class="cmmi-12">K </span>und <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">'</span> <br/>hebt also die am Anfang dieses Paragraphen dargelegte Schwierig-<br/>keit, welche die gewöhnliche Relativitätstheorie übrig läßt.
+</p><!--l. 297--><p class="indent">   Besonders deutlich zeigt sich der Sinn dieses Resultates <br/>bei Betrachtung des folgenden Kreisprozesses:
+</p><!--l. 300--><p class="indent">   1. Man sendet die Energie <span 
+class="cmmi-12">E </span>(in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> gemessen) in Form <br/>von Strahlung in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> ab nach <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub>, wo nach dem soeben er-<br/>langten Resultat die Energie <span 
+class="cmmi-12">E</span>(1 + <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-d.png" alt="g" class="12x-x-d" /> h/c</span><sup ><span 
+class="cmr-8">2</span></sup>) aufgenommen wird <br/>(in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> gemessen).
+</p><!--l. 305--><p class="indent">   2. Man senkt einen Körper <span 
+class="cmmi-12">W </span>von der Masse <span 
+class="cmmi-12">M </span>von <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> <br/>nach <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub>, wobei die Arbeit <span 
+class="cmmi-12">M <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-d.png" alt="g" class="12x-x-d" /> h </span>nach außen abgegeben wird.
+</p><!--l. 309--><p class="indent">   3. Man überträgt die Energie <span 
+class="cmmi-12">E </span>von <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> auf den Körper <span 
+class="cmmi-12">W</span>, <br/>während sich <span 
+class="cmmi-12">W </span>in
+<span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> befindet. Dadurch ädere sich die <br/>schwere Masse <span 
+class="cmmi-12">M</span>, so daß sie den Wert <span 
+class="cmmi-12">M</span><span 
+class="cmsy-10x-x-120">'</span>
+erhält.
+</p><!--l. 314--><p class="noindent">----------
+</p><!--l. 316--><p class="indent">   1) A. Einstein, Ann. d. Phys. <span 
+class="cmbx-12">17. </span>p. 913 u. 914. 1905. <pb/>
+</p><!--l. 321--><p class="indent">
+
+</p><!--l. 322--><p class="indent">   4. Man hebe <span 
+class="cmmi-12">W </span>wieder nach <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub>, wobei die Arbeit <span 
+class="cmmi-12">M</span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-d.png" alt="g" class="12x-x-d" /> h </span> <br/>aufzuwenden ist.
+</p><!--l. 325--><p class="indent">   5. Man übertrage <span 
+class="cmmi-12">E </span>von <span 
+class="cmmi-12">W </span>wieder auf <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub>.
+</p><!--l. 327--><p class="indent">   Der Effekt dieses Kreisprozesses besteht einzig darin, <br/>daß <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> den Energiezuwachs
+<span 
+class="cmmi-12">E</span>(<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-d.png" alt="g" class="12x-x-d" /> h/c</span><sup ><span 
+class="cmr-8">2</span></sup>) erlitten hat, und daß <br/>dem System die Energiemenge
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_19114x.png" alt="  ' M  g h-  M g h " class="par-math-display"  /></center>
+<!--l. 334--><p class="nopar"></p><!--l. 338--><p class="noindent">in Form von mechanischer Arbeit zugeführt wurde. Nach <br/>dem Energieprinzip muß also
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_19115x.png" alt="  g h E -2-=  M 'g h-  M  g h   c " class="par-math-display"  /></center>
+<!--l. 344--><p class="nopar"></p><!--l. 348--><p class="noindent">oder</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_19116x.png" alt="   '        E- M   - M  =  c2 " class="math-display"  /></center></td><td width="5%">(1 b)</td></tr></table>
+<!--l. 354--><p class="nopar">
+</p><!--l. 358--><p class="noindent">sein. Der Zuwachs an <span 
+class="cmti-12">schwerer </span>Masse ist also gleich <span 
+class="cmmi-12">E/c</span><sup ><span 
+class="cmr-8">2</span></sup>, <br/>also gleich dem aus der Relativitätstheorie sich ergebenden <br/>Zuwachs an <span 
+class="cmti-12">tr</span><span 
+class="cmti-12">äger </span>Masse.
+</p><!--l. 363--><p class="indent">   Noch unmittelbarer ergibt sich das Resultat aus der <br/>Äquivalenz der Systeme <span 
+class="cmmi-12">K</span>
+und <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">'</span>, nach welcher die <span 
+class="cmti-12">schwere </span> <br/>Masse in bezug auf <span 
+class="cmmi-12">K </span>der <span 
+class="cmti-12">tr</span><span 
+class="cmti-12">ägen </span>Masse in bezug auf <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>voll-<br/>kommen gleich ist; es muß deshalb die Energie eine <span 
+class="cmti-12">schwere</span>
+ <br/>Masse besitzen, die ihrer <span 
+class="cmti-12">tr</span><span 
+class="cmti-12">ägen </span>Masse gleich ist. Hängt man <br/>im System <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>eine Masse <span 
+class="cmmi-12">M</span><sub ><span 
+class="cmr-8">0</span></sub> an einer Federwaage auf, so <br/>wird letztere wegen der Trägheit von <span 
+class="cmmi-12">M</span><sub ><span 
+class="cmr-8">0</span></sub>
+das scheinbare Ge-<br/>wicht <span 
+class="cmmi-12">M</span><sub ><span 
+class="cmr-8">0</span></sub> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-d.png" alt="g" class="12x-x-d" /> </span>anzeigen. Überträgt man die Energiemenge <span 
+class="cmmi-12">E</span>
+ <br/>auf <span 
+class="cmmi-12">M</span><sub ><span 
+class="cmr-8">0</span></sub>, so wird die Federwaage nach dem Satz von der Träg-<br/>heit der Energie <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_19117x.png" alt="(         )  M0  + -E        c2"  class="left" align="middle" /><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-d.png" alt="g" class="12x-x-d" /> </span>anzeigen. Nach unserer Grund-<br/>annahme muß ganz 
+dasselbe eintreten bei Wiederholung des <br/>Versuches im System <span 
+class="cmmi-12">K</span>, d. h. im Gravitationsfelde.
+</p>
+<div class="center" >
+
+<!--l. 382--><p class="noindent">
+</p><!--l. 383--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>3.  Zeit und Lichtgeschwindigkeit im Schwerefelde.</p></div>
+<!--l. 387--><p class="indent">   Wenn die im gleichförmig beschleunigten System <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>in <br/><span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> gegen <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub>
+emittierte Strahlung mit Bezug auf die in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> be-<br/>findliche Uhr die Frequenz <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">2</span></sub>
+besaß, so besitzt sie in bezug <br/>auf <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> bei ihrer Ankunft in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> in bezug auf die in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> befindliche <br/>gleich beschaffene Uhr nicht mehr die Frequenz
+<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">2</span></sub> sondern <br/>eine größere Frequenz <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">1</span></sub>, derart, daß in erster Annäherung
+ <br/></p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-5r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_19118x.png" alt="        (        )              g-h n1 = n2  1 +  c2   . " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 401--><p class="nopar">
+<pb/>
+</p><!--l. 408--><p class="indent">
+
+</p><!--l. 409--><p class="noindent">Führt man nämlich wieder das beschleunigungsfreie Bezugs-<br/>system <span 
+class="cmmi-12">K</span><sub ><span 
+class="cmr-8">0</span></sub> ein, relativ zu welchem <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>zur Zeit der Lichtaus-<br/>sendung keine Geschwindigkeit besitzt, so hat <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> in bezug auf <span 
+class="cmmi-12">K</span><sub ><span 
+class="cmr-8">0</span></sub> <br/>zur Zeit der Ankunft der Strahlung in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> die Geschwindigkeit <br/><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-d.png" alt="g" class="12x-x-d" /></span>(<span 
+class="cmmi-12">h/c</span>), woraus sich die angegebene Beziehung vermöge des
+ <br/>Dopplerschen Prinzipes unmittelbar ergibt.
+</p><!--l. 418--><p class="indent">   Nach unserer Voraussetzung von der Äquivalenz der <br/>Systeme <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>und
+<span 
+class="cmmi-12">K </span>gilt diese Gleichung auch für das ruhende, <br/>mit einem gleichförmigen Schwerefeld versehene Koordinaten-<br/>system <span 
+class="cmmi-12">K</span>, falls in diesem die geschilderte Strahlungsüber-<br/>tragung stattfindet. Es ergibt sich also, daß ein bei be-<br/>stimmtem Schwerepotential in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> emittierter Lichtstrahl, der <br/>bei seiner Emission -- mit einer in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> befindlichen Uhr ver-<br/>glichen -- die Frequenz <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">2</span></sub> besitzt, bei seiner Ankunft in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> <br/>eine andere Frequenz <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">1</span></sub> esitzt, falls letztere mittels einer <br/>in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub>
+befindlichen gleich beschaffenen Uhr gemessen wird. <br/>Wir ersetzen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-d.png" alt="g" class="12x-x-d" /> h </span>durch das Schwerepotential <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> von <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> in <br/>bezug auf <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> als Nullpunkt und nehmen an, daß unsere für <br/>das <span 
+class="cmti-12">homogene </span>Gravitationsfeld abgeleitete Beziehung auch für <br/>anders gestaltete Felder gelte; es ist dann</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-6r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_19119x.png" alt="       (       )              P- n1 = n2  1 + c2   . " class="math-display"  /></center></td><td width="5%">(2 a)</td></tr></table>
+<!--l. 441--><p class="nopar">
+</p><!--l. 445--><p class="noindent">Dies (nach unserer Ableitung in erster Näherung gültige) Resul-<br/>tat gestattet zunächst folgende Anwendung. Es sei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">0</span></sub> die <br/>Schwingungszahl eines elementaren Lichterzeugers, gemessen <br/>mit einer an demselben Orte gemessenen Uhr <span 
+class="cmmi-12">U</span>. Diese
+ <br/>Schwingungszahl ist dann unabhängig davon, wo der Licht-<br/>erzeuger samt der Uhr aufgestellt wird. Wir wollen uns beide <br/>etwa an der Sonnenoberfläche angeordnet denken (dort befindet <br/>sich unser <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub>). Von dem dort emittierten Lichte gelangt ein
+ <br/>Teil zur Erde (<span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub>), wo wir mit einer Uhr <span 
+class="cmmi-12">U </span>von genau gleicher <br/>Beschaffenheit als der soeben genannten die Frequenz <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>des <br/>ankommenden Lichtes messen Dann ist nach (2a)
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_191110x.png" alt="       (       ) n = n0   1 + P-  ,              c2 " class="par-math-display"  /></center>
+<!--l. 463--><p class="nopar">
+</p><!--l. 467--><p class="noindent">wobei <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> die (negative) Gravitationspotentialdifferenz zwischen <br/>Sonnenoberfläche und Erde bedeutet. Nach unserer Auffassung <br/><pb/>
+</p><!--l. 473--><p class="indent">
+
+</p><!--l. 474--><p class="noindent">müssen also die Spektrallinien des Sonnenlichtes gegenüber <br/>den entsprechenden Spektrallinien irdischer Lichtquellen etwas <br/>nach dem Rot verschoben sein, und zwar um den relativen <br/>Betrag
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_191111x.png" alt="n0---n-= --P- = 2 .10-6 .   n0      c2 " class="par-math-display"  /></center>
+<!--l. 483--><p class="nopar">
+</p><!--l. 487--><p class="noindent">Wenn die Bedingungen, unter welchen die Sonnenlinien ent-<br/>stehen, genau bekannt wären, wäre diese Verschiebung noch <br/>der Messung zugänglich. Da aber anderweitige Einflüsse <br/>(Druck, Temperatur) die Lage des Schwerpunktes der Spektral-<br/>linien beeinflussen, ist es schwer zu konstatieren, ob der hier <br/>abgeleitete Einfluß des Gravitationspotentials wirklich existiert.<sup ><span 
+class="cmr-8">1</span></sup>)
+</p><!--l. 495--><p class="indent">   Bei oberflächlicher Betrachtung scheint Gleichung (2) <br/>bzw. (2a) eine Absurdität auszusagen. Wie kann bei bestän-<br/>diger Lichtübertragung von <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> nach
+<span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> eine andere An-<br/>zahl von Perioden pro Sekunde ankommen, als in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub>
+emittiert <br/>wird? Die Antwort ist aber einfach. Wir können <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">2</span></sub> bzw. <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">1</span></sub> <br/>nicht als Frequenzen schlechthin (als Anzahl Perioden pro <br/>Sekunde) ansehen, da wir eine Zeit im System <span 
+class="cmmi-12">K </span>noch nicht <br/>festgelegt haben. <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">2</span></sub> bedeutet die Anzahl Perioden, bezogen <br/>auf die Zeiteinheit der Uhr <span 
+class="cmmi-12">U </span>in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub><span 
+class="cmmi-12">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">1</span></sub> die Anzahl Perioden, <br/>bezogen auf die Zeiteinheit der gleich beschaffenen Uhr <span 
+class="cmmi-12">U</span>
+ <br/>in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub>. Nichts zwingt uns zu der Annahme, daß die in ver-<br/>schiedenen Gravitationspotentialen befindlichen Uhren <span 
+class="cmmi-12">U </span>als <br/>gleich rasch gehend aufgefaßt werden müssen. Dagegen müssen <br/>wir die Zeit in <span 
+class="cmmi-12">K </span>sicher so definieren, daß die Anzahl der <br/>Wellenberge und Wellentäler, die sich zwischen <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> und <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> be-<br/>finden, von dem Absolutwerte der Zeit unabhängig ist; denn <br/>der ins Auge gefaßte Prozeß ist seiner Natur nach ein statio-<br/>närer. Würden wir diese Bedingung nicht erfüllen, so kämen <br/>wir zu einer Zeitdefinition, bei deren Anwendung die Zeit <br/>explizite in die Naturgesetze einginge, was sicher unnatürlich <br/>und unzweckmäßig wäre. Die Uhren in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> und <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub> geben also
+ <br/>----------
+</p><!--l. 525--><p class="indent">   1) L. F. Jewell (Journ. de phys. <span 
+class="cmbx-12">6. </span>p. 84. 1897) und insbesondere <br/>Ch. Fabry u. H. Boisson (Compt. rend. <span 
+class="cmbx-12">148. </span>p. 688--690. 1909) haben <br/>derartige Verschiebungen feiner Spektrallinien nach dem roten Ende des <br/>Spektrums von der hier berechneten Größenordnung tatsächlich kon-<br/>statiert, aber einer Wirkung des Druckes in der absorbierenden Schicht <br/>zugeschrichen.
+<pb/>
+</p><!--l. 537--><p class="indent">
+
+</p><!--l. 538--><p class="noindent">nicht beide die ,,Zeit&#8220; richtig an. Messen wir die Zeit in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub> <br/>mit der Uhr <span 
+class="cmti-12">U, so</span>
+<span 
+class="cmti-12">m</span><span 
+class="cmti-12">üssen wir die Zeit in S</span><sub ><span 
+class="cmr-8">2</span></sub> <span 
+class="cmti-12">mit einer Uhr </span> <br/><span 
+class="cmti-12">messen, die </span>1 + <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /><span 
+class="cmmi-12">/c</span><sup ><span 
+class="cmr-8">2</span></sup> <span 
+class="cmti-12">mal langsamer l</span><span 
+class="cmti-12">äuft</span>
+<span 
+class="cmti-12">als die Uhr U, falls </span> <br/><span 
+class="cmti-12">sie mit der Uhr U an derselben Stelle verglichen wird</span>. Denn
+ <br/>mit einer solchen Uhr gemessen ist die Frequenz des oben <br/>betrachteten Lichtstrahles bei seiner Aussendung in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">2</span></sub>
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_191112x.png" alt="   (       ) n2  1 +  P-  ,          c2 " class="par-math-display"  /></center>
+<!--l. 550--><p class="nopar">
+</p><!--l. 554--><p class="noindent">also nach (2a) gleich der Frequenz <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">1</span></sub> desselben Lichtstrahles <br/>bei dessen Ankunft in <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">1</span></sub>.
+</p><!--l. 558--><p class="indent">   Hieraus ergibt sich eine Konsequenz von für diese Theorie <br/>fundamentaler Bedeutung. Mißt man nämlich in dem be-<br/>schleunigten, gravitationsfeldfreien System <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>an verschiedenen <br/>Orten die Lichtgeschwindigkeit unter Benutzung gleich be-<br/>schaffener Uhren <span 
+class="cmmi-12">U</span>, so erhält man überall dieselbe Größe. <br/>Dasselbe gilt nach unserer Grundannahme auch für das <br/>System <span 
+class="cmmi-12">K</span>. Nach dem soeben Gesagten müssen wir aber an <br/>Stellen verschiedenen Gravitationspotentials uns verschieden <br/>beschaffener Uhren zur Zeitmessung bedienen. Wir müssen <br/>zur Zeitmessung an einem Orte, der relativ zum Koordinaten-<br/>ursprung das Gravitationspotential <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> besitzt, eine Uhr ver-<br/>wenden, die -- an den Koordinatenursprung versetzt --<br/>(1 + <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /><span 
+class="cmmi-12">/c</span><sup ><span 
+class="cmr-8">2</span></sup>) mal langsamer läuft als jene Uhr, mit welcher am <br/>Koordinatenursprung die Zeit gemessen wird. Nennen wir <span 
+class="cmmi-12">c</span><sub ><span 
+class="cmr-8">0</span></sub> <br/>die Lichtgeschwindigkeit im Koordinatenanfangspunkt, so wird <br/>daher die Lichtgeschwindigkeit <span 
+class="cmmi-12">c </span>in einem Orte vom Gravi-<br/>tationspotential <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> durch die Beziehung</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-7r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_191113x.png" alt="      (     P ) c = c0  1 + --             c2 " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 584--><p class="nopar">
+</p><!--l. 588--><p class="noindent">gegeben sein. Das Prinzip von der Konstanz der Licht-<br/>geschwindigkeit gilt nach dieser Theorie nicht in derjenigen <br/>Fassung, wie es der gewöhnlichen 
+Relativitätstheorie zugrunde <br/>gelegt zu werden pflegt.
+</p>
+<div class="center" >
+
+<!--l. 595--><p class="noindent">
+</p><!--l. 596--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>4.  Krümmung der Lichtstrahlen im Gravitationsfeld.</p></div>
+<!--l. 600--><p class="indent">   Aus dem soeben bewiesenen Satze, daß die Lichtgeschwin-<br/>digkeit im Schwerefelde eine Funktion des Ortes ist, läßt sich <br/>leicht mittels des Huygensschen Prinzipes schließen, daß quer <br/><pb/>
+</p><!--l. 607--><p class="indent">
+
+</p><!--l. 608--><p class="noindent">zu einem Schwerefeld sich fortpflanzende Lichtstrahlen eine <br/>Krümmung erfahren müssen. Sei nämlich <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /> </span>eine Ebene gleicher <br/>Phase einer ebenen Lichtwelle zur Zeit
+<span 
+class="cmmi-12">t</span>, <span 
+class="cmmi-12">P</span><sub ><span 
+class="cmr-8">1</span></sub> und <span 
+class="cmmi-12">P</span><sub ><span 
+class="cmr-8">2</span></sub> zwei <br/>Punkte in ihr, welche den Abstand 1 besitzen. <span 
+class="cmmi-12">P</span><sub ><span 
+class="cmr-8">1</span></sub> und <span 
+class="cmmi-12">P</span><sub ><span 
+class="cmr-8">2</span></sub> <br/>liegen in der Papierebene, die so gewählt ist, daß der in der <br/>Richtung ihrer Normale genommene Differentialquotient von <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> <br/>also auch von <span 
+class="cmmi-12">c </span>verschwindet. Die entsprechende Ebene <br/>gleicher Phase bzw. deren Schnitt mit der Papierebene, zur <br/>Zeit <span 
+class="cmmi-12">t </span>+ <span 
+class="cmmi-12">dt </span>erhalten wir, indem wir um die Punkte <span 
+class="cmmi-12">P</span><sub ><span 
+class="cmr-8">1</span></sub> und <span 
+class="cmmi-12">P</span><sub ><span 
+class="cmr-8">2</span></sub> <br/>mit den Radien <span 
+class="cmmi-12">c</span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">dt </span>bzw. <span 
+class="cmmi-12">c</span><sub ><span 
+class="cmr-8">2</span></sub> <span 
+class="cmmi-12">dt </span>Kreise und an diese die <br/>Tangente legen, wobei <span 
+class="cmmi-12">c</span><sub ><span 
+class="cmr-8">1</span></sub> bzw. <span 
+class="cmmi-12">c</span><sub ><span 
+class="cmr-8">2</span></sub> die Lichtgeschwindigkeit in <br/>den Punkten <span 
+class="cmmi-12">P</span><sub ><span 
+class="cmr-8">1</span></sub> bzw. <span 
+class="cmmi-12">P</span><sub ><span 
+class="cmr-8">2</span></sub>
+bedeutet. Der Krümmungswinkel <br/>des Lichtstrahles auf dem Wege <span 
+class="cmti-12">c dt </span>ist also
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_191114x.png" alt="(c1---c2)dt-    -@-c      1      = - @ n'd t, " class="par-math-display"  /></center>
+<!--l. 630--><p class="nopar">
+</p><!--l. 634--><p class="noindent">falls wir den Krümmungswinkel positiv rechnen, wenn der <br/>Lichtstrahl nach der Seite der wachsenden <span 
+class="cmmi-12">n</span><span 
+class="cmsy-10x-x-120">' </span>hin gekrümmt            <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_191115x.png" alt="PIC" class="graphics" width="250.38434pt" height="87.25682pt"  /><!--tex4ht:graphics  
+name="img/Einst_Ueber_de_191115x.png" src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/Einst_Ueber_de_1911_002.EPS"  
+-->
+</p><!--l. 644--><p class="noindent">wird. Der Krümmungswinkel pro Wegeinheit des Lichtstrahles <br/>ist also</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_191116x.png" alt="  1  @ c - -----'   c @ n " class="par-math-display"  /></center>
+<!--l. 650--><p class="nopar">
+</p><!--l. 654--><p class="noindent">oder nach (3) gleich</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_191117x.png" alt="- -1 @-P- .   c2 @ n' " class="par-math-display"  /></center>
+<!--l. 661--><p class="nopar">
+</p><!--l. 665--><p class="noindent">Endlich erhalten wir für die Ablenkung <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>, welche ein Licht-<br/>strahl auf einem beliebigen Wege (<span 
+class="cmmi-12">s</span>) nach der Seite <span 
+class="cmmi-12">n</span><span 
+class="cmsy-10x-x-120">' </span>er-<br/>leidet, den Ausdruck</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-8r4"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_191118x.png" alt="           integral 
+a = -  1-   @-P-d s.        c2   @ n' " class="math-display"  /></center></td><td width="5%">(4)</td></tr></table>
+<!--l. 674--><p class="nopar">
+</p><!--l. 678--><p class="noindent">Dasselbe Resultat hätten wir erhalten können durch unmittel-<br/>bare Betrachtung der Fortpflanzung eines Lichtstrahles in <br/>dem gleichförmig beschleunigten System
+<span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>und Übertragung <br/>des Resultates auf das System <span 
+class="cmmi-12">K </span>und von hier auf den Fall,
+ <br/>daß das Gravitationsfeld beliebig gestaltet ist. <pb/>
+</p><!--l. 688--><p class="indent">
+
+</p><!--l. 689--><p class="indent">   Nach Gleichung (4) erleidet ein an einem Himmelskörper <br/>vorbeigehender Lichtstrahl eine Ablenkung nach der Seite <br/>sinkenden Gravitationspotentials, also nach der dem Himmels-<br/>körper zugewandten Seite von der Größe
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_191119x.png" alt="           p        h= integral + 2 a =  1-     k-M--cos h .d s = 2-kM-,      c2      r2               c2D       h=- p2 " class="par-math-display"  /></center>
+<!--l. 700--><p class="nopar">
+   wobei <span 
+class="cmmi-12">k </span>die Gravitationskonstante, <span 
+class="cmmi-12">M </span>die Masse des Himmels-<br/>körpers,
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> den Abstand des Lichtstrahles vom Mittelpunkt <br/>des Himmelskörpers bedeutet.
+<span 
+class="cmti-12">Ein an der Sonne vorbeigehender </span> <br/><span 
+class="cmti-12">Lichtstrahl erlitte demnach eine Ablenkung</span>
+<span 
+class="cmti-12">vom Betrage</span> 4 <span 
+class="cmsy-10x-x-120"><sup class="htf"><strong>.</strong></sup> </span>10<sup ><span 
+class="cmsy-8">-</span><span 
+class="cmr-8">6</span></sup> <br/>= 0<span 
+class="cmmi-12">, </span>83 <span 
+class="cmti-12">Bogensekunden</span>. Um diesen Betrag er-<br/>scheint
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/img/Einst_Ueber_de_191120x.png" alt="PIC" class="graphics" width="73.97733pt" height="146.8141pt"  /><!--tex4ht:graphics  
+name="img/Einst_Ueber_de_191120x.png" src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1911/fulltext/Einst_Ueber_de_1911_003.EPS"  
+--> die Winkeldistanz des Sternes vom Sonnen-<br/>mittelpunkt                      durch  die  Krümmung  des  Strahles  <br/>vergrößert.  Da                      die Fixsterne der der Sonne <br/>zugewandten Himmelspartien                      bei  totalen  Sonnen-<br/>finsternissen  sichtbar  werden,                      ist diese Kon-<br/>sequenz der Theorie mit der Erfahrung ver-<br/>gleichbar. Beim Planeten Jupiter erreicht die <br/>zu erwartende                      Verschiebung etwa <span 
+class="cmr-8">1</span> <span 
+class="cmmi-12">/</span><span 
+class="cmr-8">100</span> des an-<br/>gegebenen Betrages. Es                      wäre dringend zu <br/>wünschen, daß sich Astronomen der hier                      auf-<br/>gerollten Frage annähmen, auch wenn die im vorigen                      ge-<br/>gebenen Überlegungen ungenügend fundiert oder gar                      aben-<br/>teuerlich erscheinen sollten. Denn abgesehen von jeder Theorie  <br/>muß  man  sich  fragen,  ob  mit  den  heutigen  Mitteln  ein  Einfluß
+ <br/>der  Gravitationsfelder  auf  die  Ausbreitung  des  Lichtes  sich  <br/>konstatieren läßt.
+</p><!--l. 734--><p class="indent">   Prag, Juni 1911.
+</p>
+<div class="center" >
+
+<!--l. 737--><p class="noindent">
+</p><!--l. 738--><p class="noindent">(Eingegangen 21. Juni 1914.)</p></div>
+<div class="center" >
+
+<!--l. 742--><p class="noindent">
+</p><!--l. 743--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

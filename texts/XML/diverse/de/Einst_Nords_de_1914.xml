@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Nords_de_1914.tex" /> 
+<meta name="date" content="2005-03-02 20:09:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Nords_de_1914.css" /> 
+</head><body >
+
+<!--l. 13--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 14--><p class="noindent">
+</p><!--l. 15--><p class="noindent"><span 
+class="cmr-12">8</span><span 
+class="cmbx-12">. </span><span 
+class="cmbxti-10x-x-120">Die Nordstr</span><span 
+class="cmbxti-10x-x-120">ömsche Gravitationstheorie </span> <br/><span 
+class="cmbxti-10x-x-120">vom</span>
+<span 
+class="cmbxti-10x-x-120">Standpunkt des absoluten Differentialkalk</span><span 
+class="cmbxti-10x-x-120">üls; </span> <br/><span 
+class="cmbxti-10x-x-120">von A.</span>
+<span 
+class="cmbxti-10x-x-120">Einstein und A. D. Fokker.</span></p></div>
+<div class="center" >
+
+<!--l. 19--><p class="noindent">
+</p><!--l. 20--><p class="noindent">--------</p></div>
+<!--l. 23--><p class="indent">   Bei allen bisherigen Darstellungen der Nordströmschen <br/>Theorie der Gravitation<sup ><span 
+class="cmr-7">1</span></sup>) wurde als invarianten-theoretisches <br/>Hilfsmittel lediglich die Minkowskische Kovariantentheorie <br/>benutzt, d. h. es wurde von den Gleichungen der Theorie ledig-<br/>lich verlangt, daß sie linearen orthogonalen Raum-Zeittrans-<br/>formationen gegenüber kovariant sein sollten. Diese den <br/>Gleichungen a priori auferlegte Bedingung schränkt aber die <br/>theoretischen Möglichkeiten nicht in dem Maße ein, daß man <br/>ohne Zuhilfenahme spezieller physikalischer Voraussetzungen <br/>zwanglos zu den Grundgleichungen der Theorie gelangen kann. <br/>Im folgenden soll dargetan werden, daß man zu einer in for-<br/>maler Hinsicht vollkommen geschlossenen und befriedigenden <br/>Darstellung der Theorie gelangen kann, wenn man, wie dies <br/>bei der Einstein-Großmannschen Theorie bereits geschehen <br/>ist, das invarianten-theoretische Hilfsmittel benutzt, welches <br/>uns in dem absoluten Differentialkalkül gegeben ist. Da in <br/>der Natur Bezugssysteme, auf die wir die Dinge beziehen <br/>können, sich uns nicht darbieten, beziehen wir die vierdimen-<br/>sionale Mannigfaltigkeit zunächst auf ganz beliebige Koordi-<br/>naten (entsprechend den Gaussschen Koordinaten in der Flächen-<br/>theorie), und beschränken die Wahl des Bezugssystems erst <br/>dann, wenn uns das behandelte Problem selbst Veranlassung <br/>hierzu bietet.
+</p><!--l. 51--><p class="indent">   Es erweist sich hierbei, daß man zur Nordströmschen <br/>Theorie statt zur Einstein-Großmannschen gelangt, wenn <br/>man die einzige Annahme macht, es sei eine Wahl bevorzugter <br/>Bezugssysteme in solcher Weise möglich, daß das Prinzip von <br/>der Konstanz der Lichtgeschwindigkeit gewahrt ist.
+</p><!--l. 58--><p class="noindent">----------
+</p><!--l. 61--><p class="indent">   1) Vgl. G. Nordström, Ann. d. Phys. <span 
+class="cmbx-10">42. </span>p. 533. 1913; A. Ein-<br/>stein, Phys. Zeitschr. <span 
+class="cmbx-10">14. </span>p. 1251. 1913. <pb/>
+</p><!--l. 68--><p class="indent">
+
+</p><!--l. 69--><p class="indent">   <span 
+class="cmsy-10">§ </span>1. <span 
+class="cmti-10">Charakteristik des Gravitationsfeldes. Einflu</span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi10-c.png" alt="b" class="cmmi-10x-x-c" align="middle" /> </span><span 
+class="cmti-10">des </span> <br/><span 
+class="cmti-10">Gravitationsfeldes auf</span>
+<span 
+class="cmti-10">physikalische Vorg</span><span 
+class="cmti-10">änge.</span>
+</p><!--l. 72--><p class="indent">   Wir nehmen an<sup ><span 
+class="cmr-7">1</span></sup>), daß für einen sich in einem Gravi-<br/>tationsfelde bewegenden Punkt ein Bewegungsgesetz gelte, das <br/>in Hamiltonscher Form lautet:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_19140x.png" alt="d integral  d s = 0, " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 79--><p class="nopar">
+</p><!--l. 83--><p class="noindent">worin</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_19141x.png" alt="d s2 =  sum  g dx  dx .       mn  mn  m   n " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 90--><p class="nopar">
+</p><!--l. 93--><p class="noindent">Das Gravitationsfeld wird dann charakterisiert durch die zehn <br/>Raum-Zeitfunktionen
+<span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub><span 
+class="cmmi-10">.   ds </span>ist eine Invariante bezüglich <br/>beliebiger Substitutionen, welche in der auf dem absoluten <br/>Differentialkalkül begründeten allgemeinen Relativitätstheorie
+ <br/>dieselbe Rolle spielt wie das Euklidische Linienelement in <br/>der Minkowskischen Invariantentheorie. Als der einzige <br/>Skalar, der sich auf zwei benachbarte Raum-Zeitpunkte bezieht, <br/>hat <span 
+class="cmmi-10">ds </span>die Bedeutung des ,,natürlich gemessenen&#8220; Abstandes <br/>dieser zwei Raum-Zeitpunkte.
+</p><!--l. 100--><p class="indent">   Da jeder vektoranalytischen Größe, bzw. jeder vektor-<br/>analytischen Operation in der Euklidischen Mannigfaltigkeit <br/>eine allgemeinere vektoranalytische Größe bzw. Operation in <br/>der durch ein beliebiges Linienelement gegebenen Mannigfaltig-<br/>keit entspricht, lassen sich den Gesetzen der ursprünglichen <br/>Relativitätstheorie für die physikalischen Erscheinungen ent-<br/>sprechende Gesetze der verallgemeinerten Relativitätstheorie <br/>zuordnen. Die so erhaltenen Gesetze, welche allgemein ko-<br/>variant 
+sind, enthalten den Einfluß des Gravitationsfeldes auf <br/>die physikalischen Vorgänge.
+</p><!--l. 113--><p class="indent">   Von allen jenen die physikalischen Vorgänge beschreibenden <br/>Gesetzen geben wir hier nur ein einziges an, von allgemeinster <br/>Bedeutung: nämlich dasjenige, das dem Erhaltungssatz des <br/>Impulses und der Energie in der ursprünglichen Theorie der
+ <br/>Relativität entspricht. In jener Theorie wurden die energetischen <br/>Eigenschaften der Vorgänge ausgedrückt durch einen Spannungs-<br/>Energietensor (<span 
+class="cmmi-10">T</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub>). Diesen Größen
+<span 
+class="cmmi-10">T</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> entsprechen in der <br/>verallgemeinerten Theorie Größen <span 
+class="cmmi-10">I</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-1b.png" alt="s" class="7x-x-1b" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub>, welche die mit
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_19142x.png" alt=" V~  --g"  class="sqrt"  /> <br/>----------
+</p><!--l. 122--><p class="indent">   1) Vgl. A. Einstein, Entwurf einer verallgemeinerten Relativitäts-<br/>theorie und einer Theorie der Gravitation, Zeitschr. f. Math. u. Phys. <span 
+class="cmbx-10">62. </span> <br/>p. 6. 1913.
+<pb/>
+</p><!--l. 130--><p class="indent">
+
+</p><!--l. 131--><p class="noindent">multiplizierten Komponenten eines gemischten Tensors bilden, <br/>der aus einen symmetrischen kontravarianten Tensor (<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmr10-2.png" alt="Q" class="10x-x-2" /><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub>) durch <br/>die gemischte Multiplikation
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_19143x.png" alt="--1--       sum 
+ V~  - gIsn = m gsnQ mn " class="par-math-display"  /></center>
+<!--l. 140--><p class="nopar">
+</p><!--l. 144--><p class="noindent">hervorgeht (<span 
+class="cmmi-10">g </span>bedeutet die Determinante aus den Größen <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub>).
+</p><!--l. 148--><p class="indent">   Besteht z. B. das physikalische System in einer bewegten <br/>kontinuierlichen Massenverteilung von der Ruhedichte <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /></span><sub ><span 
+class="cmr-7">0</span></sub>, so ist
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_19144x.png" alt="Q   = r d-xm dxn-,   mn   0 ds  ds " class="par-math-display"  /></center>
+<!--l. 155--><p class="nopar">
+</p><!--l. 159--><p class="noindent">und die physikalische Bedeutung der <span 
+class="cmmi-10">I</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-1b.png" alt="s" class="7x-x-1b" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> geht aus folgender <br/>Tabelle hervor<sup ><span 
+class="cmr-7">1</span></sup>):
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_19145x.png" alt="I   I   I    I         -X    -X   - X   - i 1I1  I12  I13  1I4        -Y x  -Y y - Y z - ix 2I1  I22  I23  2I4   =    -Zx   -Zy  - Zz  - iy 3I1  I32  I33  3I4          xf    fy    fz    jz. 41   42   43  44          x     y     z " class="par-math-display"  /></center>
+<!--l. 182--><p class="nopar">
+</p><!--l. 186--><p class="indent">   <span 
+class="cmmi-10">X</span><sub ><span 
+class="cmmi-7">x</span></sub> usw. bezeichnen die Komponenten des Flächendrucks, <br/><span 
+class="cmmi-10">i</span><sub ><span 
+class="cmmi-7">x</span></sub> usw. die Komponenten der Impulsdichte, <span 
+class="cmmi-10">f</span><sub ><span 
+class="cmmi-7">x</span></sub> usw. die Kom-<br/>ponenten der Strömungsdichte der Energie, und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" /> </span>die Energie-<br/>dichte.
+</p><!--l. 191--><p class="indent">   Die erwähnten Erhaltungssätze haben in der allgemeinen <br/>Theorie die allgemein-kovariante Form:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_19146x.png" alt=" sum   @Isn-  1  sum  @-gmn     @ xn = 2     @xs  gmt It n.  n           mnt " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 199--><p class="nopar">
+</p><!--l. 202--><p class="noindent">Die rechte Seite dieser Gleichung drückt aus, daß der be-<br/>trachtete Vorgang für sich allein die Erhaltungssätze nicht <br/>erfüllt, da von dem Gravitationsfeld Impuls und Energie an <br/>das materielle System abgegeben wird.
+</p><!--l. 209--><p class="indent">   Allgemein beziehen sich die Komponenten <span 
+class="cmmi-10">I</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-1b.png" alt="s" class="7x-x-1b" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> auf alle <br/>physikalischen Vorgänge im Raume, mit Ausschluß der das <br/>Gravitationsfeld selbst betreffenden.
+</p><!--l. 212--><p class="indent">   Wir wissen aus der ursprünglichen Relativitätstheorie, <br/>daß der Energietensor allein maßgebend ist für die Trägheits-<br/>eigenschaften eines Systems. Aus der rechten Seite von (3) <br/>geht hervor, daß auch die Einwirkung eines Gravitationsfeldes
+ <br/>----------
+</p><!--l. 219--><p class="indent">   1) In der Tabelle, so wie sie in der Phys. Zeitschr. XIV, p. 1257 <br/>gegeben wurde, findet sich ein Vorzeichenfehler. <pb/>
+</p><!--l. 226--><p class="indent">
+
+</p><!--l. 227--><p class="noindent">nur durch die Komponenten des Energietensors bestimmt wird. <br/>Es entspricht dies durchaus den Erfahrungsgesetzen von der <br/>Gleichheit der trägen und der schweren Masse. Wir werden <br/>im folgenden annehmen, daß auch für die Erzeugung eines
+ <br/>Gravitationsfeldes durch ein materielles System der Energie-<br/>tensor allein maßgebend ist.
+</p><!--l. 235--><p class="indent">   <span 
+class="cmsy-10">§ </span>2. <span 
+class="cmti-10">Differentialgleichung f</span><span 
+class="cmti-10">ür das Gravitationsfeld im Falle </span> <br/><span 
+class="cmti-10">der Nordstr</span><span 
+class="cmti-10">ömschen</span>
+<span 
+class="cmti-10">Theorie.</span>
+</p><!--l. 238--><p class="indent">   Das bisher Gesagte gilt ebenso für die Nordströmsche <br/>wie für die Einstein-Großmannsche Theorie; der Unter-<br/>schied beider Theorien aber besteht im folgenden:
+</p><!--l. 243--><p class="indent">   Das Gravitationsfeld wird von zehn Größen <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> bestimmt. <br/>Gemäß der Einstein-Großmannschen Theorie werden für <br/>diese zehn Größen zehn formal gleichwertige Gleichungen an-<br/>gegeben. Der Nordströmschen Theorie aber liegt die An-<br/>nahme zugrunde, daß es möglich sei, durch passende Wahl <br/>des Bezugssystems dem Prinzip von der Konstanz der Licht-<br/>geschwindigkeit zu genügen. Wir wollen sogleich zeigen, daß <br/>dies auf die Annahme herauskommt, daß sich die zehn Größen
+ <br/><span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> bei passender Wahl des Bezugssystems auf eine einzige <br/>Größe <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmr10-8.png" alt="P" class="10x-x-8" /><sup ><span 
+class="cmr-7">2</span></sup> reduzieren lassen.
+</p><!--l. 257--><p class="indent">   Damit nämlich das Prinzip von der Konstanz der Licht-<br/>geschwindigkeit erfüllt sei, muß die für die Lichtausbreitung <br/>maßgebende Gleichung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_19147x.png" alt=" sum  gmn dxmd xn = 0  mn " class="par-math-display"  /></center>
+<!--l. 264--><p class="nopar">
+</p><!--l. 268--><p class="noindent">in die Gleichung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_19148x.png" alt="d x2 + dy2 +d z2- c2dt2 = 0 " class="par-math-display"  /></center>
+<!--l. 274--><p class="nopar">
+</p><!--l. 277--><p class="noindent">übergehen. Daraus folgt, daß bei einer solchen Wahl des <br/>Bezugssystems sein muß:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_19149x.png" alt=" sum                2    2   2    2   2    2   2    2    gmn d xmdxn = P d x1 + P d x2 + P d x3 - P d x4 mn " class="par-math-display"  /></center>
+<!--l. 285--><p class="nopar">
+</p><!--l. 288--><p class="noindent">wobei jetzt <span 
+class="cmmi-10">x</span><sub ><span 
+class="cmr-7">1</span></sub> = <span 
+class="cmmi-10">x,  x</span><sub ><span 
+class="cmr-7">2</span></sub> = <span 
+class="cmmi-10">y,  x</span><sub ><span 
+class="cmr-7">3</span></sub> = <span 
+class="cmmi-10">z </span>und <span 
+class="cmmi-10">x</span><sub ><span 
+class="cmr-7">4</span></sub> = <span 
+class="cmmi-10">ct </span>gesetzt ist.
+</p><!--l. 293--><p class="indent">   Das System der <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> degeneriert also in
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-5r4"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191410x.png" alt=" 2 P   02  0    0 0   P   02   0 0   0   P    02 0   0   0  - P " class="math-display"  /></center></td><td width="5%">(4)</td></tr></table>
+<!--l. 303--><p class="nopar">
+<pb/>
+</p><!--l. 308--><p class="indent">
+
+</p><!--l. 309--><p class="indent">   Zur Bestimmung der einen Größe <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmr10-8.png" alt="P" class="10x-x-8" /><sup ><span 
+class="cmr-7">2</span></sup> brauchen wir eine <br/>einzige Differentialgleichung, die wie die Poissonsche Gleichung <br/>skalaren Charakter haben wird. Diese Gleichung wollen wir <br/>ebenso wie die früheren in allgemein kovarianter Form auf-<br/>stellen, d. h. ohne zunächst die durch das Prinzip von der <br/>Konstanz der Lichtgeschwindigkeit nahegelegte Spezialisierung <br/>des Bezugssystems auszuführen. die gesuchte Gleichung ist <br/>vollständig bestimmt durch die Annahme, daß sie von der <br/>zweiten Ordnung ist, wenn man noch berücksichtigt, daß sie <br/>eine Verallgemeinerung der Poissonschen Gleichung sein muß. <br/>Offenbar wird sie von der Form sein</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-6r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191411x.png" alt="G = zI, " class="math-display"  /></center></td><td width="5%">(5)</td></tr></table>
+<!--l. 326--><p class="nopar">
+</p><!--l. 330--><p class="noindent">wobei <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmr10-0.png" alt="G" class="10x-x-0" /> ein Skalar ist, der aus den Größen <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> und deren <br/>ersten und zweiten Ableitungen gebildet ist, und <span 
+class="cmmi-10">I </span>ein Skalar, <br/>der durch den materiellen Vorgang, nach dem Gesagten also <br/>durch die <span 
+class="cmmi-10">I</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-1b.png" alt="s" class="7x-x-1b" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-1c.png" alt="t" class="7x-x-1c" /></span></sub>, bestimmt ist. <span 
+class="cmmi-10">z </span>bedeutet eine Konstante.
+</p><!--l. 335--><p class="indent">   Aus den Untersuchungen der Mathematiker über die Diffe-<br/>rentialtensoren einer mehrdimensionalen Mannigfaltigkeit geht <br/>hervor, daß der einzige Ausdruck, der für <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmr10-0.png" alt="G" class="10x-x-0" />
+in Betracht kommt, <br/>eine Funktion ist von
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191412x.png" alt="  sum 
+    gim gkl(ik, lm). iklm " class="par-math-display"  /></center>
+<!--l. 343--><p class="nopar">
+</p><!--l. 346--><p class="noindent">Dabei bedeutet (<span 
+class="cmmi-10">ik,lm</span>) den bekannten Riemann-Christoffel-<br/>schen Tensor vierten Ranges, der mit dem Krümmungsmaße <br/>der Flächentheorie zusammenhängt, und durch die Gleichung
+</p>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191413x.png" alt="             (                                      ) (ik, lm) = 1   -@2gim-+  -@2gkl--- --@2gil--- -@2gm-k            2   @xk @xl   @xi@ xm   @xk @xm   @ xi@xl                                    (_ |  im  _|   |_ kl _|   |_  il _|   |_  km _| 
+                              sum 
+                           +    grs   |_  r  _|   |_ s  _|  - |_  r _|   |_  s  _| 
+                              rs " class="math-display"  /></center>
+<!--l. 370--><p class="nopar">
+</p><!--l. 373--><p class="noindent">definiert ist, wobei <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191414x.png" alt=" |_    _| 
+ im  |_ r  _| "  class="left" align="middle" /> bedeutet <span 
+class="cmr-7">1</span> 
+<span 
+class="cmr-7">2</span>  <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191415x.png" alt="(                   )  @-gir + @gmr-- @-gim-  @ xm    @xi    @xr"  class="left" align="middle" /><span 
+class="cmsy-10"><sup class="htf"><strong>.</strong></sup></span>
+</p><!--l. 380--><p class="indent">   Ferner ist aus der allgemeinen Kovariantentheorie klar, <br/>daß zu den <span 
+class="cmmi-10">I</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-1b.png" alt="s" class="7x-x-1b" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> nur der Skalar <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191416x.png" alt="  1  V~ ---   -g"  class="frac" align="middle" /><span 
+class="cmex-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmex10-58.png" alt=" sum " class="10x-x-58" /></span>
+      <sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-1c.png" alt="t" class="7x-x-1c" /></span></sub><span 
+class="cmmi-10">I</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-1c.png" alt="t" class="7x-x-1c" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-1c.png" alt="t" class="7x-x-1c" /></span></sub> gehört (bzw. eine <br/>Funktion dieser Größe).
+</p><!--l. 385--><p class="indent">   Hieraus geht hervor, daß die gesuchte Gleichung die Form <br/></p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-7r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191417x.png" alt="  sum                          sum 
+    gim gkl(ik, lm) = x V~ -1   I tt iklm                    -g  t " class="math-display"  /></center></td><td width="5%">(5a)</td></tr></table>
+<!--l. 392--><p class="nopar">
+<pb/>
+</p><!--l. 396--><p class="indent">
+
+</p><!--l. 397--><p class="noindent">erhalten muß. Dabei ist allerdings <span 
+class="cmti-10">vorausgesetzt</span>, daß in der <br/>gesuchten Gleichung die zweiten Ableitungen der <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> und die <br/><span 
+class="cmmi-10">I</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-1b.png" alt="s" class="7x-x-1b" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> <span 
+class="cmti-10">linear </span>eingehen.
+</p><!--l. 401--><p class="indent">   Die Gleichung (5a), die wir jetzt aufgestellt haben, und <br/>die Gleichungen (3) enthalten die Nordströmsche Theorie der <br/>Gravitation vollständig mit Bezug auf beliebige Raum-Zeit-<br/>koordinaten, wenn man die <span 
+class="cmti-10">Bedingungen</span>
+<span 
+class="cmti-10">hinzunimmt</span>, welche <br/>die <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> erfüllen müssen, damit das Prinzip der Konstanz der <br/>Lichtgeschwindigkeit für ein passend gewähltes Bezugssystem <br/>erfüllt sei.
+</p><!--l. 410--><p class="indent">   <span 
+class="cmsy-10">§ </span>3. <span 
+class="cmti-10">Die Grundgleichungen der Nordstr</span><span 
+class="cmti-10">ömschen Theorie </span> <br/><span 
+class="cmti-10">mit Bezug auf die dem</span>
+<span 
+class="cmti-10">Prinzip der Konstanz der Lichtgeschwindig- </span> <br/><span 
+class="cmti-10">keit angepa</span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi10-c.png" alt="b" class="cmmi-10x-x-c" align="middle" /></span><span 
+class="cmti-10">ten Bezugssysteme.</span>
+</p><!--l. 413--><p class="indent">   Wir denken uns jetzt diejenigen Bezugssysteme bevorzugt <br/>in bezug auf welche das Prinzip der Konstanz der Licht-<br/>geschwindigkeit erfüllt ist. Die Komponenten <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> des Funda-<br/>mentaltensors sind dann durch die in (4) geschriebenen Werte <br/>gegeben. Die zugehörigen <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> findet man in der Tabelle
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-8r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191418x.png" alt="  -1- + P2    0     0     0   0    +-1-   0     0         P2     1   0     0    +P2-   0                     -1-   0     0     0    +P2 " class="math-display"  /></center></td><td width="5%">(4a)</td></tr></table>
+<!--l. 432--><p class="nopar">
+</p><!--l. 436--><p class="indent">   In diesem Falle erhält man <span 
+class="cmmi-10">ds </span>= <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmr10-8.png" alt="P" class="10x-x-8" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191419x.png" alt=" V~ ---2-----2------2-----2  d x1 + dx2 + d x3 - dx4"  class="sqrt"  /><span 
+class="cmmi-10">. </span> <br/>Wie schon erwähnt, ist <span 
+class="cmmi-10">ds </span>der ,,natürlich gemessene&#8220; Abstand <br/>zweier benachbarter Raum-Zeitpunkte. Jetzt kann man die <br/>Fälle unterscheiden, wo der Verbindungsvektor raumartig oder <br/>zeitartig ist. Im ersten Falle kann durch passende Wahl des
+ <br/>Bezugssystems der Vektor zu einem rein räumlichen gemacht <br/>werden; man erhält dann als Zusammenhang der ,,natürlich&#8220; <br/>und der im Koordinatenmaß gemessenen Längen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191420x.png" alt="d s = P V~ d-x2 +-dy2 +-d-z2, " class="par-math-display"  /></center>
+<!--l. 451--><p class="nopar">
+</p><!--l. 455--><p class="noindent">d. h. ein Maßstab von der natürlichen Länge <span 
+class="cmmi-10">ds </span>hat die Ko-<br/>ordinatenlänge <span 
+class="cmmi-10">ds</span>/<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmr10-8.png" alt="P" class="10x-x-8" />.
+<pb/>
+</p><!--l. 460--><p class="indent">
+
+</p><!--l. 461--><p class="indent">   Für einen zeitartigen Verbindungsvektor verschwinden bei <br/>passender Wahl des Bezugssystems die räumlichen Kompo-<br/>nenten, und man erhält
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191421x.png" alt="       V~ -----2         ds- d s = P - dx4 ,  oder   i = P dx4. " class="par-math-display"  /></center>
+<!--l. 469--><p class="nopar">
+</p><!--l. 472--><p class="noindent"><span 
+class="cmmi-10">ds/i </span>ist nichts anderes als die mit einer Uhr von bestimmter <br/>Beschaffenheit gemessene Zeitdauer. <span 
+class="cmmi-10">ds</span>/<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmr10-8.png" alt="P" class="10x-x-8" /><span 
+class="cmmi-10">i </span>ist also die Zeit-<br/>differenz im Koordinatenmaßstab.
+</p><!--l. 477--><p class="indent">   1/<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmr10-8.png" alt="P" class="10x-x-8" /> ist also der Faktor, mit dem die natürlich gemessenen <br/>Zeiten und Längen multipliziert werden müssen, um Koordi-<br/>natenzeiten bzw. Koordinatenlängen zu ergeben.
+</p><!--l. 482--><p class="indent">   Aus der Form des Linienelementes
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191422x.png" alt="  2    2(   2    2     2   2 2) ds  = P  dx  + dy + d z - cd t " class="par-math-display"  /></center>
+<!--l. 488--><p class="nopar">
+</p><!--l. 492--><p class="noindent">folgt, daß die Gleichungen der Nordströmschen Theorie nicht <br/>nur bezüglich den Lorentz-Transformationen, sondern auch be-<br/>züglich Ähnlichkeitstransformationen kovariant sind.
+</p><!--l. 497--><p class="indent">   Die Impuls- und Energiegleichungen (3) für die Materie <br/>nehmen die Form an
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-9r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191423x.png" alt=" sum  @ Isn    @log P  sum 
+   -@x-- = 4-@x---    Itt.       n         s  t " class="math-display"  /></center></td><td width="5%">(3a)</td></tr></table>
+<!--l. 504--><p class="nopar">
+</p><!--l. 507--><p class="noindent">Es ist bemerkenswert, daß für den Einfluß des Gravitations-<br/>feldes auf ein System gemäß dieser Gleichung nur der Skalar <br/><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191424x.png" alt="(1/ V~ --g)"  class="left" align="middle" /><span 
+class="cmex-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmex10-50.png" alt=" sum " class="10x-x-50" /></span><sub >
+<span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-1c.png" alt="t" class="7x-x-1c" /></span></sub><span 
+class="cmmi-10">I</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-1c.png" alt="t" class="7x-x-1c" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi7-1c.png" alt="t" class="7x-x-1c" /></span></sub> maßgebend ist. Es ist dies im Einklang mit <br/>der Erwägung, die wir bei der Ableitung der Gleichung (5a) <br/>gegeben 
+haben.
+</p><!--l. 512--><p class="indent">   Die Differentialgleichung des Gravitationsfeldes (5a) nimmt <br/>die Form an
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-10r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191425x.png" alt="   [                          ] -1- -@2P-  -@2P-  -@2P-  -@2P-    -k- sum 
+P2  @ x12 + @ x22 + @ x32- @ x42 = P4   Itt                                       t " class="math-display"  /></center></td><td width="5%">(5b)</td></tr></table>
+<!--l. 520--><p class="nopar">
+</p><!--l. 523--><p class="noindent">(wobei <span 
+class="cmmi-10">k </span>eine neue Konstante bedeutet), oder
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/Einst_Nords_de_191426x.png" alt="          sum 
+P [] P = k   Itt.           t " class="par-math-display"  /></center>
+<!--l. 529--><p class="nopar">
+</p><!--l. 532--><p class="noindent">Da das Verhältnis der natürlichen und der Koordinatenlängen <br/>an <span 
+class="cmti-10">einem </span>Orte beliebig gewählt werden kann, kann über die <br/>Wahl der Konstante <span 
+class="cmmi-10">k </span>noch beliebig verfügt werden. Man <br/>kann z. B. nach dem Vorgange von Nordström <span 
+class="cmmi-10">k </span>= 1 setzen.
+<pb/>
+</p><!--l. 542--><p class="indent">
+
+</p><!--l. 543--><p class="indent">   Man sieht, daß die abgeleiteten Gleichungen mit den von <br/>Nordström gegebenen vollkommen übereinstimmen.
+</p><!--l. 546--><p class="indent">   <span 
+class="cmsy-10">§ </span>4.  <span 
+class="cmti-10">Schlu</span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Nords_de_1914/fulltext/img/cmmi10-c.png" alt="b" class="cmmi-10x-x-c" align="middle" /></span><span 
+class="cmti-10">bemerkungen.</span>
+</p><!--l. 548--><p class="indent">   Im vorstehenden konnte gezeigt werden, daß man bei <br/>Zugrundelegung des Prinzips von der Konstanz der Licht-<br/>geschwindigkeit durch rein formale Erwägungen, d. h. ohne <br/>Zuhilfenahme weiterer physikalischen Hypothesen zur Nord-<br/>strömschen Theorie gelangen kann. Es scheint uns deshalb, <br/>daß diese Theorie allen anderen Gravitationstheorien gegen-<br/>über, die an diesem Prinzip festhalten, den Vorzug verdient. <br/>Vom physikalischen Standpunkt ist dies um so mehr der Fall, <br/>als diese Theorie dem Satz von der Äquivalenz der trägen <br/>und schweren Masse strenge Genüge leistet.
+</p><!--l. 560--><p class="indent">   Wir bemerken, daß nur die Verwendung der Invarianten-<br/>theorie des absoluten Differentialkalküls uns eine klare Ein-<br/>sicht in den formalen Inhalt der Nordströmschen Theorie <br/>zu geben vermag. Ferner setzt uns diese Methode in den <br/>Stand, die Beeinflussung beliebiger physikalischer Vorgänge <br/>durch das Gravitationsfeld, so wie sie nach der Nordström-<br/>schen Theorie zu erwarten ist, ohne Hinzuziehung neuer Hypo-<br/>thesen anzugeben. Auch tritt die Beziehung der Nordström-<br/>schen Theorie zur Einstein - Großmannschen mit voller <br/>Deutlichkeit hervor.
+</p><!--l. 572--><p class="indent">   Endlich legt die Rolle, welche bei der vorliegenden Unter-<br/>suchung der Riemann - Christoffelsche Differentialtensor <br/>spielt, den Gedanken nahe, daß er auch für eine von physi-<br/>kalischen Annahmen unabhängige Ableitung der Einstein-<br/>Großmannschen Gravitationsgleichungen einen Weg öffnen <br/>würde. Der Beweis der Existenz oder Nichtexistenz eines <br/>derartigen Zusammenhanges würde einen wichtigen theoretischen
+ <br/>Fortschritt bedeuten.<sup ><span 
+class="cmr-7">1</span></sup>)
+</p><!--l. 583--><p class="noindent">----------
+</p><!--l. 586--><p class="indent">   1) Die in <span 
+class="cmsy-10">§ </span>4, p. 36, des ,,Entwurfs einer verallgemeinerten Rela-<br/>tivitätstheorie&#8220; angegebene Begründung für die Nichtexistenz eines der-<br/>artigen Zusammenhanges hält einer genaueren Überlegung nicht stand.
+</p>
+<div class="center" >
+
+<!--l. 592--><p class="noindent">
+</p><!--l. 593--><p class="noindent">(Eingegangen 19. Februar 1914.)</p></div>
+<div class="center" >
+
+<!--l. 596--><p class="noindent">
+</p><!--l. 597--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

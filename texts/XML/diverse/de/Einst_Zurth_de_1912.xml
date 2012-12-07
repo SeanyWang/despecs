@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Zurth_de_1912.tex" /> 
+<meta name="date" content="2005-03-10 17:57:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Zurth_de_1912.css" /> 
+</head><body >
+
+<!--l. 12--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 13--><p class="noindent">
+</p><!--l. 14--><p class="noindent"><span 
+class="cmr-12x-x-120">8. </span><span 
+class="cmbxti-10x-x-144">Zur Theorie des statischen Gravitationsfeldes; </span> <br/><span 
+class="cmbxti-10x-x-144">von</span>
+<span 
+class="cmbxti-10x-x-144">A. Einstein.</span></p></div>
+<div class="center" >
+
+<!--l. 18--><p class="noindent">
+</p><!--l. 19--><p class="noindent">--------</p></div>
+<!--l. 23--><p class="indent">   In einer jüngst erschienenen Arbeit habe ich aus einer <br/>Hypothese, die ich als Äquivalenzprinzip bezeichnet habe, die <br/>Bewegungsgleichungen eines in einem solchen Felde bewegten <br/>materiellen Punktes abgeleitet. Im folgenden soll exakt ab-<br/>geleitet werden, welchen Einfluß ein statisches Schwerefeld auf <br/>die elektromagnetischen und thermischen Vorgänge nach dem <br/>Äquivalenzprinzip hat. Die erste dieser beiden Fragen habe <br/>ich schon früher in erster Näherung behandelt. Zuletzt wird <br/>die Differentialgleichung für das statische Gravitationsfeld selbst <br/>abgeleitet.
+</p>
+<div class="center" >
+
+<!--l. 37--><p class="noindent">
+</p><!--l. 38--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>1.   Ableitung der elektromagnetischen Gleichungen <br/>unter Berücksichtigung des (statischen) Gravitationsfeldes.</p></div>
+<!--l. 44--><p class="indent">   Der Weg, den wir hier einschlagen, ist genau derselbe, <br/>welcher uns in der früheren Arbeit die Bewegungsgleichungen <br/>des materiellen Punktes geliefert hat. Wir suchen nämlich <br/>die elektromagnetischen Gleichungen, welche relativ zu einem
+ <br/>(im Bornschen Sinne) gleichförmig beschleunigten System <br/><span 
+class="cmmi-12">K</span>(<span 
+class="cmmi-12">x, y, z, t</span>) gelten, und nehmen nach der Äquivalenzhypothese <br/>an, daß diese Gleichungen auch im statischen Schwerefeld <br/>gelten. Um die in bezug auf <span 
+class="cmmi-12">K </span>gültigen Gleichungen zu <br/>finden, gehen wir aus von den bekannten Gleichungen, welche <br/>in bezug auf ein unbeschleunigtes System <span 
+class="cmex-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmex10-c-50.png" alt=" sum " class="10-120x-x-50" /></span>
+  (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-11.png" alt="j" class="cmmi-12x-x-11" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-10.png" alt="z" class="cmmi-12x-x-10" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /></span>) gelten.
+ <br/>Wählen wir in letzterem die Zeiteinheit so, daß die Licht-<br/>geschwindigkeit gleich 1 wird, so haben diese Gleichungen für <br/>das Vakuum die bekannte Form:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+   <center class="math-display" >
+
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_19120x.png" alt="    ''   @-G'      '  '    vr +  @ t  = rot H  ,             0 = div'H', {
+         @-H'-       '  '           @ t =  - rot G  ,             r'= div'G'. " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 71--><p class="nopar">
+<pb/>
+</p><!--l. 78--><p class="indent">
+
+</p><!--l. 79--><p class="indent">   Die Zeichen für die in diesen Gleichungen auftretenden <br/>Skalare, Vektoren und Operatoren sind gestrichelt, um ihre <br/>Zugehörigkeit zum System <span 
+class="cmex-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmex10-c-50.png" alt=" sum " class="10-120x-x-50" /></span>
+  anzudeuten. Diese Gleichungen <br/>sind auf das gleichförmig beschleunigte System <span 
+class="cmmi-12">K </span>zu trans-<br/>formieren nach Gleichungen, die für genügend kleine <span 
+class="cmmi-12">t </span>und <br/>bei geeigneter Wahl der Koordinatenachsen und Anfangs-<br/>punkte für die Zeiten sich in der Form schreiben lassen:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_19121x.png" alt="  q = x + a-ct2 ,            2 { j = y , 
+  z = z ,   t = c t, " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 96--><p class="nopar">
+</p><!--l. 100--><p class="noindent">wobei</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_19122x.png" alt="c = c0 + a x . " class="par-math-display"  /></center>
+<!--l. 106--><p class="nopar">
+</p><!--l. 109--><p class="noindent">Auch die Feldvektoren <span 
+class="cmmi-12">G</span><span 
+class="cmsy-10x-x-120">' </span>und <span 
+class="cmmi-12">H</span><span 
+class="cmsy-10x-x-120">' </span>wollen wir aufs beschleunigte <br/>System <span 
+class="cmmi-12">K</span>
+transformieren. Dies tun wir auf Grund der Fest-<br/>setzung, daß die auf <span 
+class="cmmi-12">K</span>
+bezogenen Feldvektoren <span 
+class="cmmi-12">G</span>, <span 
+class="cmmi-12">H </span>identisch <br/>sein sollen mit den Feldvektoren <span 
+class="cmmi-12">G</span><span 
+class="cmsy-10x-x-120">'</span>, <span 
+class="cmmi-12">H</span><span 
+class="cmsy-10x-x-120">'</span>
+desjenigen un-<br/>beschleunigten Systems <span 
+class="cmex-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmex10-c-50.png" alt=" sum " class="10-120x-x-50" /></span>
+  , in bezug auf welches das System
+<span 
+class="cmmi-12">K</span> <br/>gerade die Geschwindigkeit Null hat. Für <span 
+class="cmmi-12">t </span>= <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>= 0 aus dieser <br/>Festsetzung unmittelbar:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_19123x.png" alt="      ' G =  G , H  = H'. " class="par-math-display"  /></center>
+<!--l. 126--><p class="nopar">
+</p><!--l. 129--><p class="noindent">Analoges setzen wir für die elektrische Dichte fest, so daß <br/>für <span 
+class="cmmi-12">t </span>= <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>= 0
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_19124x.png" alt="r = r' " class="par-math-display"  /></center>
+<!--l. 136--><p class="nopar">
+</p><!--l. 140--><p class="noindent">ist. Nun bemerken wir, daß es genügt, wenn wir die den <br/>Gleichungen (1) entsprechenden transformierten Gleichungen <br/>für <span 
+class="cmmi-12">t </span>= <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>= 0 aufstellen, da ja diese Gleichungen für jedes <span 
+class="cmmi-12">t </span> <br/>die nämlichen sein müssen. Für <span 
+class="cmmi-12">t </span>= <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>= 0 gilt nach (2)
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_19125x.png" alt="-@- = -@- ,  -@- = -@- ,  @--=  -@-. @ q   @ x    @ j   @ y    @ z   @ z " class="par-math-display"  /></center>
+<!--l. 152--><p class="nopar">
+</p><!--l. 155--><p class="noindent">Aus dem bisher Gesagten folgt schon, daß die rechten Seiten <br/>von (1) durch Weglassung der Striche ungeändert bleiben, <br/>ebenso die linken Seiten der zweiten und vierten der Glei-<br/>chungen (1). Einiges Nachdenken erfordert nur die Umformung <br/>der linken Seiten der ersten und dritten der Gleichungen (1).
+<pb/>
+</p><!--l. 165--><p class="indent">
+
+</p><!--l. 166--><p class="indent">   Zunächst folgt aus (2), daß für einen bewegten Punkt zur <br/>Zeit <span 
+class="cmmi-12">t </span>= 0 gilt:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_19126x.png" alt="  d x = d q, 
+{ d y = d j,   d z = d z ,         1    dt = --d t ,         c " class="math-display"  /></center></td><td width="5%">(2a)</td></tr></table>
+<!--l. 176--><p class="nopar">
+</p><!--l. 180--><p class="noindent">woraus unmittelbar folgt, daß
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_19127x.png" alt="       '        '  1-                d-x v = cv   oder  v =  c v , wenn  vx = d t  usw. " class="par-math-display"  /></center>
+<!--l. 188--><p class="nopar">
+</p><!--l. 192--><p class="noindent">gesetzt wird. Wir bezeichnen ferner mit <span 
+class="cmmi-12">dG </span>die Änderung, <br/>welche <span 
+class="cmmi-12">G </span>in einer unendlich kurzen Zeit in einem System-<br/>punkt von <span 
+class="cmmi-12">K </span>erfährt, mit <span 
+class="cmmi-12">d</span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">G</span><span 
+class="cmsy-10x-x-120">' </span>die entsprechende Änderung, <br/>welche <span 
+class="cmmi-12">G</span><span 
+class="cmsy-10x-x-120">' </span>in dem momentan koinzidierenden Punkte von
+<span 
+class="cmex-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmex10-c-50.png" alt=" sum " class="10-120x-x-50" /></span>
+   <br/>in der entsprechenden Zeit erfährt. Im Anfang der unend-<br/>lich kleinen Zeitstrecke <span 
+class="cmmi-12">dt </span>bzw. <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>sei <span 
+class="cmmi-12">t </span>= <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>= 0 zu dieser <br/>Zeit ist <span 
+class="cmmi-12">G </span>= <span 
+class="cmmi-12">G</span><span 
+class="cmsy-10x-x-120">'</span>. Diese letztere Gleichung gilt aber am Ende <br/>von <span 
+class="cmmi-12">dt </span>bzw. <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" />  </span>aus zwei Gründen nicht mehr genau. Erstens <br/>fällt nämlich am Ende von <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" />  </span>der Systempunkt von <span 
+class="cmmi-12">K</span>
+nicht <br/>mehr mit dem von <span 
+class="cmex-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmex10-c-50.png" alt=" sum " class="10-120x-x-50" /></span>
+   zusammen; hiervon kann jedoch Abstand
+ <br/>genommen werden, da diese Verrückung unendlich klein zweiter <br/>Ordnung ist. Zweitens aber erlangt während der betrachteten <br/>unendlich kleinen Zeit der Systempunkt von <span 
+class="cmmi-12">K </span>eine Geschwindig-<br/>keit <span 
+class="cmmi-12">g d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>in Richtung der <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /></span>-Achse; man hat also, um <span 
+class="cmmi-12">G </span>am <br/>Ende von <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>zu erhalten, das elektromagnetische Feld auf <br/>ein beschleunigungsfreies System zu beziehen, welches gegen- 
+ <br/>über <span 
+class="cmex-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmex10-c-50.png" alt=" sum " class="10-120x-x-50" /></span>
+  im Sinne der positiven <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /></span>-Achse mit der Geschwindig-<br/>keit <span 
+class="cmmi-12">g d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /></span>
+bewegt ist. Dabei transformiert sich das elektro-<br/>magnetische Feld in bekannter Weise. Mit Rücksicht auf die <br/>angedeuteten Überlegungen erhält man:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_19128x.png" alt="dG  = d'G'+  [gH'] dt , " class="par-math-display"  /></center>
+<!--l. 222--><p class="nopar">
+</p><!--l. 226--><p class="noindent">oder mit Rücksicht auf die letzte der Gleichungen (2a):
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_19129x.png" alt="    ' @-G-    1-@ G-  1-  @ t =  c @ t - c [gH] . " class="par-math-display"  /></center>
+<!--l. 234--><p class="nopar">
+</p><!--l. 237--><p class="noindent">Nun erhält man aber aus den Gleichungen (2)
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191210x.png" alt="      a   1 d c |g |=  --= ----- ,       c   c d x " class="par-math-display"  /></center>
+<!--l. 244--><p class="nopar"> <pb/>
+</p><!--l. 251--><p class="indent">
+
+</p><!--l. 252--><p class="noindent">also, weil <span 
+class="cmmi-12">c </span>von <span 
+class="cmmi-12">y </span>und <span 
+class="cmmi-12">z </span>unabhängig ist,
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191211x.png" alt="    1 g = --gradc .     c " class="par-math-display"  /></center>
+<!--l. 258--><p class="nopar">
+</p><!--l. 261--><p class="noindent">Man erhält also endlich
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191212x.png" alt="@-G'    1@-G-   1-  @ t =  c @ t = c [grad c, H] " class="par-math-display"  /></center>
+<!--l. 269--><p class="nopar">
+</p><!--l. 273--><p class="noindent">und auf ganz analoge Weise
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191213x.png" alt="@ H'-  1-@-H-   1- @ t  = c  @ t + c [grad c, G] . " class="par-math-display"  /></center>
+<!--l. 281--><p class="nopar">
+</p><!--l. 284--><p class="noindent">Berücksichtigt man nun noch, daß nach den Regeln der <br/>Vektorrechnung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191214x.png" alt="c rot H + [grad c, H] =  rot(c H) " class="par-math-display"  /></center>
+<!--l. 292--><p class="nopar">
+</p><!--l. 296--><p class="noindent">ist, und daß die analoge Gleichung für rot (<span 
+class="cmmi-12">c G</span>) besteht, so <br/>erhält man mit Rücksicht auf die Resultate der bereits an-<br/>gegebenen Überlegungen aus den Gleichungen (1) die folgenden <br/>auf das System <span 
+class="cmmi-12">K </span>bezüglichen:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-5r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191215x.png" alt="  v r + @ G-= rot(cH)  ,         @ t           0 =  div H  , {
+        @-H- = - rot(c G) ,          @ t           r =  div G  . " class="math-display"  /></center></td><td width="5%">(1a)</td></tr></table>
+<!--l. 312--><p class="nopar">
+</p><!--l. 316--><p class="indent">   Die physikalische Bedeutung der in diesen Gleichungen <br/>auftretenden Größen ist dabei eine vollkommen bestimmte. <br/><span 
+class="cmmi-12">x, y, z </span>werden durch am starren System <span 
+class="cmmi-12">K</span>
+angelegte Maßstäbe <br/>gemessen. <span 
+class="cmmi-12">t </span>ist die Zeit im System <span 
+class="cmmi-12">K</span>, welche durch ver-<br/>schieden beschaffene, in den Systempunkten von <span 
+class="cmmi-12">K </span>ruhend <br/>angeordnete Uhren gemessen wird; <span 
+class="cmmi-12">t </span>ist durch die Festsetzungen <br/>definiert, daß die Lichtgeschwindigkeit in <span 
+class="cmmi-12">K </span>nicht von der Zeit <br/>und nicht von der Richtung abhängen soll. <span 
+class="cmmi-12">v </span>ist die mit der <br/>Zeit <span 
+class="cmmi-12">t </span>gemessene Geschwindigkeit der Elektrizität.
+<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /> </span>ist die <br/>Dichte der Elektrizität, gemessen in Einheiten folgender Art: <br/>In einem nicht beschleunigten System sollen zwei solche Einheiten <br/>im Abstand 1 cm aufeinander die Kraft 1 aufeinander ausüben, <br/>wobei die Kraft 1 diejenige ist, welche einem Gramm die Be-<br/>schleunigung 1 erteilt, falls man als Zeiteinheit die Zeit wählt, <br/>welche das Licht braucht, um 1 cm zu durchlaufen (Lichtzeit). <br/>Der Feldvektor <span 
+class="cmmi-12">G </span>hat folgende Bedeutung. Hat man eine
+ <br/><pb/>
+</p><!--l. 338--><p class="indent">
+
+</p><!--l. 339--><p class="noindent">Federwage so graduiert, daß sie in dem nicht mitbeschleunigten<sup ><span 
+class="cmr-8">1</span></sup>) <br/>System <span 
+class="cmex-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmex10-c-50.png" alt=" sum " class="10-120x-x-50" /></span> die Kraft unter Zugrundelegung der Licht--Zeit-<br/>einheit mißt, und befestigt man am Angriffspunkt dieser Feder-<br/>wage die Einheit der Elektrizität, so mißt diese Federwage <br/>direkt die Feldintensität <span 
+class="cmsy-10x-x-120">|</span><span 
+class="cmmi-12">G</span><span 
+class="cmsy-10x-x-120">|</span><span 
+class="cmmi-12">. </span>Analog gestaltet sich die <br/>Definition von
+<span 
+class="cmmi-12">H.  </span>--
+</p><!--l. 348--><p class="indent">   Nach dem Äquivalenzprinzip hat man die Gleichungen (1a) <br/>als die elektromagnetischen Grundgleichungen in einem statischen <br/>Schwerefelde anzusehen. Sie sind insofern als exakt anzusehen, <br/>als sie mit gleicher Annäherung gelten sollen, wie sehr auch <br/>das Gravitationspotential mit dem Orte variieren möge. Hin-<br/>gegen könnten sie aus dem Grunde unexakt sein, weil das
+ <br/>elektromagnetische Feld das Gravitationsfeld derart beeinflussen <br/>könnte, daß letzteres kein statisches Feld mehr ist. Sie er-<br/>lauben ferner, auch in den Fällen, in denen sie genau gelten, <br/>nicht, den Einfluß zu berechnen, welchen das elektromagnetische <br/>Feld auf das statische Gravitationsfeld (<span 
+class="cmmi-12">c</span>) ausübt.
+</p>
+<div class="center" >
+
+<!--l. 364--><p class="noindent">
+</p><!--l. 365--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>2.   Bemerkungen über den Inhalt der abgeleiteten Gleichungen.</p></div>
+<!--l. 370--><p class="indent">   Ich will die im letzten Paragraph bei der anschaulichen <br/>Interpretation der Feldvektoren eingeführte Federwage nach <br/>einem mündlichen Vorschlag P. Ehrenfests als ,,Taschen&#8220;-<br/>Federwage bezeichnen. Es sollen überhaupt mit der Be-<br/>zeichnung ,,Taschen&#8220; solche physikalische Einrichtungen be-<br/>zeichnet werden, welche an Orte verschiedenen Gravitations-<br/>potentials gebracht gedacht werden, und deren Angaben stets <br/>benuzt werden, an einem Orte von wie großem <span 
+class="cmmi-12">c </span>sie sich auch <br/>gerade befinden mögen. <sup ><span 
+class="cmr-8">2</span></sup>) So kann man die Uhr, welche die <br/>,,Lichtzeit&#8220; angibt, als ,,Taschenuhr&#8220;- bezeichnen, die mit der <br/>Elektrizitätseinheit im Angriffspunkte versehene Federwage <br/>als ,,Taschenfeldmesser&#8220; usw.
+</p><!--l. 384--><p class="indent">   Aus der früheren Arbeit geht nun hervor, daß die Angabe <br/>einer ,,Taschenfederwage&#8220; nicht direkt die von ihr ausgeübte <br/>----------
+</p><!--l. 389--><p class="indent">   1) Natürlich ist dasjenige System <span 
+class="cmex-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmex10-c-50.png" alt=" sum " class="10-120x-x-50" /></span>
+  gemeint, welches in dem be-<br/>treffenden Augenblick keine Relativgeschwindigkeit in bezug auf <span 
+class="cmmi-12">K </span>hat.
+</p><!--l. 393--><p class="indent">   2) Mit der Bezeichnung ,,Taschen&#8220; soll angedeutet werden, daß die <br/>Dinge transportiert werden können, nicht nur an einem Orte benutzt <br/>werden.
+<pb/>
+</p><!--l. 399--><p class="indent">
+
+</p><!--l. 400--><p class="noindent">Kraft mißt. Letztere ist vieimehr der mit <span 
+class="cmmi-12">c </span>multiplizierten <br/>Angabe der Taschenfederwage gleichzusetzen. Hieraus ergibt <br/>sich unmittelbar, daß die auf die in <span 
+class="cmmi-12">K </span>ruhende Elektrizitäts-<br/>einheit ausgeübte ponderomotorische Kraft nicht gleich <span 
+class="cmmi-12">G</span>, <br/>sondern gleich <span 
+class="cmmi-12">c</span><span 
+class="cmsy-10x-x-120"><sup class="htf"><strong>.</strong></sup></span><span 
+class="cmmi-12">G </span>zu setzen ist. Entsprechendes gilt für <br/>den Feldvektor
+<span 
+class="cmmi-12">H</span>.
+</p><!--l. 408--><p class="indent">   Da nach der dritten der Gleichungen (1a) in einem <br/>statischen elektrischen Felde rot (<span 
+class="cmmi-12">c G</span>) = 0 ist, das Linienintegral <br/>des Vektors <span 
+class="cmmi-12">c G </span>über eine geschlossene Kurve also verschwindet, <br/>sieht man, daß es unmöglich ist, durch Führen einer Elektri-<br/>zitätsmenge über eine geschlossene Bahn unbegrenzt Arbeit <br/>zu erhalten.
+</p><!--l. 416--><p class="indent">   Wir stellen nun Coulombs Gesetz für einen Raum von <br/>konstantem <span 
+class="cmmi-12">c </span>auf. Aus der letzten der Gleichungen (1a) folgt, <br/>daß das Feld einer Punktladung <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /> </span>durch
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191216x.png" alt="|G |"  class="left" align="middle" /> = <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191217x.png" alt="--e--- 4p r2"  class="frac" align="middle" /> gegeben <br/>ist, falls man mit <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>den Abstand von der Punktladung be-<br/>zeichnet. Befindet sich in diesem Falle eine zweite elektrische <br/>Masse <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span><span 
+class="cmsy-10x-x-120">'</span>, so ist die auf sie ausgeübte Kraft gleich <span 
+class="cmmi-12">c<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span><span 
+class="cmsy-10x-x-120">'</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191218x.png" alt="|G |"  class="left" align="middle" /> oder <br/>gleich <span 
+class="cmmi-12">c</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191219x.png" alt="-e-e'- 4 pr2"  class="frac" align="middle" />, also wie nach der früheren Arbeit jede Kraft <br/>eines beliebigen ,,Taschensystems&#8220; in bestimmtem Zustande <br/>proportional <span 
+class="cmmi-12">c</span>. Mit diesem Resultat hängt das Folgende eng <br/>zusammen. Wir bringen von zwei genau gleichen Konden-<br/>satoren <span 
+class="cmmi-12">C </span>und <span 
+class="cmmi-12">C</span><span 
+class="cmsy-10x-x-120">' </span>mit den Belegungen <span 
+class="cmmi-12">a, b </span>bzw. <span 
+class="cmmi-12">a</span><span 
+class="cmsy-10x-x-120">' </span><span 
+class="cmmi-12">b</span><span 
+class="cmsy-10x-x-120">' </span>den einen <br/>an einen Ort vom Gravitationspotential <span 
+class="cmmi-12">c</span>, den anderen an einen <br/>Ort vom Gravitationspotential <span 
+class="cmmi-12">c</span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">.   a </span>sei mit <span 
+class="cmmi-12">a</span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">, b </span>mit <span 
+class="cmmi-12">b</span><span 
+class="cmsy-10x-x-120">'</span>
+leitend <br/>verbunden. Laden wir die Kondensatoren, so ist wegen rot (<span 
+class="cmmi-12">c G</span>) = 0 <br/>die Ladung beider Kondensatoren nicht dieselbe; es ist viel-<br/>mehr <span 
+class="cmmi-12">cG </span>= <span 
+class="cmmi-12">c</span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">G</span><span 
+class="cmsy-10x-x-120">' </span>und wegen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /> </span>= div <span 
+class="cmmi-12">G </span>auch <span 
+class="cmmi-12">c<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /> </span>= <span 
+class="cmmi-12">c</span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">, </span>wenn <br/>man mit <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /> </span>bzw. <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span><span 
+class="cmsy-10x-x-120">' </span>die Ladungen der beiden Kondensatoren <br/>bezeichnet.
+</p><!--l. 443--><p class="indent">   Aus dem für das Coulombsche Gesetz gefundenen Aus-<br/>druck geht hervor, daß wir nicht <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191220x.png" alt="12"  class="frac" align="middle" /> (<span 
+class="cmmi-12">G</span><sup ><span 
+class="cmr-8">2</span></sup> + <span 
+class="cmmi-12">H</span><sup ><span 
+class="cmr-8">2</span></sup>)<span 
+class="cmmi-12">,</span>, sondern den <br/>Ausdruck <span 
+class="cmmi-12">c</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191221x.png" alt="/"  class="left" align="middle" /> 2 (<span 
+class="cmmi-12">G</span><sup ><span 
+class="cmr-8">2</span></sup> + <span 
+class="cmmi-12">H</span><sup ><span 
+class="cmr-8">2</span></sup>) der Dichte der elektromagnetischen <br/>Energie gleichzusetzen haben. Wir werden also die dem
+ <br/>Energieprinzip entsprechende Gleichung dadurch erhalten, daß <br/>wir die erste der Gleichungen (1a) skalar mit <span 
+class="cmmi-12">c G, </span>die dritte <br/>skalar mit <span 
+class="cmmi-12">cH </span>multiplizieren und beide addieren, und hierauf <br/><pb/>
+</p><!--l. 456--><p class="indent">
+
+</p><!--l. 457--><p class="noindent">über einen beliebigen geschlossenen Raum integrieren. Es er-<br/>gibt sich so in bekannter Weise:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-6r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191222x.png" alt=" integral                 {  integral                 }     integral 
+               -d-     c-  2     2    v cG r dt + d t     2 (G  + H  )d t  =    [c G, c H ]n ds , " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 467--><p class="nopar">
+</p><!--l. 470--><p class="noindent">falls man mit <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>das Raumelement, mit <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1b.png" alt="s" class="12x-x-1b" /> </span>das Element der <br/>Begrenzungsfläche, mit <span 
+class="cmmi-12">n </span>deren nach innen gerichtete Normale <br/>bezeichnet. Das Energieprinzip ist also erfüllt, wobei der <br/>Vektor <span 
+class="cmmi-12">c</span><sup ><span 
+class="cmr-8">2</span></sup>[<span 
+class="cmmi-12">G, H</span>] dem Energiestrom gleich ist.
+</p><!--l. 477--><p class="indent">   Wir leiten nun den Impulssatz ab, indem wir die erste <br/>der Gleichungen (1a) vektoriell mit <span 
+class="cmmi-12">H</span>, die dritte derselben mit <br/><span 
+class="cmsy-10x-x-120">-</span><span 
+class="cmmi-12">G </span>multiplizieren und addieren. Setzen wir als Ausdruck <br/>der Maxwellschen Spannungen</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191223x.png" alt="Xx  = c(Gx2  + Hx2 -  12 G2 - 12 H2),   Xy = c (Gx Gy + Hx Hy)  ,                    X   = c (G  G  + H  H  )                      z       x   z    x  z " class="par-math-display"  /></center>
+<!--l. 491--><p class="nopar"></p><!--l. 495--><p class="noindent">usw., so erhalten wir:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-7r4"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191224x.png" alt="   r(cG   + [v, H]  ) + d--[G, H] {       x         x(   dt       x        )                     @ Xx    @ Xy    @ Xx     1    2    2  @ c                 =   ----- + -----+  -----  - --(G  + H  )--- ,                      @ x     @ y     @ z     2           @ x " class="math-display"  /></center></td><td width="5%">(4)</td></tr></table>
+<!--l. 510--><p class="nopar">
+</p><!--l. 513--><p class="noindent">sowie die hieraus durch zyklische Vertauschung entstehenden <br/>Gleichungen. In dieser Gleichung drückt das erste Glied die <br/>X-Komponente der Impulsgröße aus, welche durch die elek-<br/>trischen Massen pro Zeiteinheit und Volumeinheit an die
+ <br/>ponderabeln Massen des Systems abgegeben wird. Der Aus-<br/>druck der ponderomotorischen Kraft ist also bis auf den <br/>Faktor <span 
+class="cmmi-12">c </span>der von H. A. Lorentz angegebene. Das zweite <br/>Glied der linken Seite drückt den Zuwachs der Volumeinheit <br/>an elektromagnetischem Impuls aus. Verschwinden die räum-<br/>lichen Differentialquotienten von <span 
+class="cmmi-12">c, </span>d. h. ist kein Schwerefeld <br/>vorhanden, so wird die der linken Seite entsprechende Zu-<br/>nahme des Impulses der Volumeinheit durch die elektro-<br/>magnetischen Spannungen bewirkt, wie in der Elektrodynamik <br/>ohne Berücksichtigung des Schwerefeldes. Für den Fall aber, <br/>daß ein Gravitationsfeld vorhanden ist, ergibt sich aus dem <br/>letzten Gliede der rechten Seite, daß dieses für das elektro-<br/>magnetische Feld als Impulsquelle anzusehen ist. Die elektro-<br/>magnetische Feldenergie empfängt aus dem Schwerefeld einen <br/>Impuls, genau wie eine ponderable ruhende Masse; denn in
+ <br/><pb/>
+</p><!--l. 539--><p class="indent">
+
+</p><!--l. 540--><p class="noindent">der früheren Arbeit ergab es sich, daß das Gravitationsfeld <br/>auf die ruhende Masse
+<span 
+class="cmmi-12">m </span>pro Zeiteinheit den Impuls <span 
+class="cmmi-12">m</span> grad <span 
+class="cmmi-12">c </span> <br/>überträgt. Es ergibt sich also z. B., daß die Hohlraumstrahlung <br/>eine ihrer trägen Masse genau entsprechende schwere Masse
+ <br/>besitzt; dies Resultat ist in den Gleichungen (1a) und dem <br/>Ausdruck für die auf die Elektrizitätsmengen wirkenden pon-<br/>deromotorischen Kräfte bereits enthalten, da die zuletzt an-<br/>geschriebene Impulsgleichung eine Folge der Gleichungen (1a) <br/>ist. Zu bemerken ist, daß die Größe <span 
+class="cmr-8">1</span> 
+<span 
+class="cmr-8">2</span> (<span 
+class="cmmi-12">G</span><sup ><span 
+class="cmr-8">2</span></sup> + <span 
+class="cmmi-12">H</span><sup ><span 
+class="cmr-8">2</span></sup>), nicht die <br/>eigentliche Energiedichte <span 
+class="cmmi-12">c</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191225x.png" alt="/"  class="left" align="middle" /> 2 (<span 
+class="cmmi-12">G</span><sup ><span 
+class="cmr-8">2</span></sup> + <span 
+class="cmmi-12">H</span><sup ><span 
+class="cmr-8">2</span></sup>), für die Schwere des
+ <br/>elektromagnetischen Feldes maßgebend, d. h. einer räumlichen <br/>Dichte unbewegter träger Masse äquivalent ist. Dies ist auch <br/>zu erwarten; denn der Ausdruck <span 
+class="cmr-8">1</span> 
+<span 
+class="cmr-8">2</span> (<span 
+class="cmmi-12">G</span><sup ><span 
+class="cmr-8">2</span></sup> + <span 
+class="cmmi-12">H</span><sup ><span 
+class="cmr-8">2</span></sup>) ist die Energie-<br/>dichte, wie sie von einem mit ,,Tascheninstrumenten&#8220; messenden <br/>Beobachter erscheint. Diese Größe ist es also, welche der <br/>trägen Masse nach der von uns benutzten Definition für letz-<br/>tere analog ist.
+</p><!--l. 564--><p class="indent">   Es geht aus diesen Überlegungen hervor, daß das elektro-<br/>magnetische Feld auch umgekehrt eine Rückwirkung auf das <br/>Gravitationsfeld besitzt, dessen Ausdruck für den statischen <br/>Fall sich nach den angegebenen Überlegungen ohne weiteres <br/>ergibt, da die Raumfunktion <span 
+class="cmr-8">1</span> 
+<span 
+class="cmr-8">2</span> (<span 
+class="cmmi-12">G</span><sup ><span 
+class="cmr-8">2</span></sup> + <span 
+class="cmmi-12">H</span><sup ><span 
+class="cmr-8">2</span></sup>) einer gleich großen <br/>Dichte unbewegter ponderabler Masse äquivalent ist. Hierauf <br/>soll aber an dieser Stelle nicht näher eingegangen werden. <br/>Ebensowenig will ich mich hier mit dem in den Gleichungen (1a) <br/>enthaltenen Gesetze der Krümmung der Lichtstrahlen im
+ <br/>Schwerefelde befassen, weil dieses in erster Annäherung bereits <br/>in der voriges Jahr über den Gegenstand erschienenen Ab-<br/>handlung angegeben ist.
+</p>
+<div class="center" >
+
+<!--l. 581--><p class="noindent">
+</p><!--l. 582--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>3.   Thermische Größen und Gravitationsfeld.</p></div>
+<!--l. 586--><p class="indent">   An zwei voneinander entfernten Orten mit den Licht-<br/>geschwindigkeiten <span 
+class="cmmi-12">c</span><sub ><span 
+class="cmr-8">1</span></sub>
+bzw. <span 
+class="cmmi-12">c</span><sub ><span 
+class="cmr-8">2</span></sub> seien zwei Wärmebehälter <span 
+class="cmmi-12">W</span><sub ><span 
+class="cmr-8">1</span></sub> <br/>bzw. <span 
+class="cmmi-12">W</span><sub ><span 
+class="cmr-8">2</span></sub> angeordnet. Dieselben sollen insofern gleiche Tem-<br/>peraturen besitzen, als ein und dasselbe Thermometer (,,Taschen-<br/>thermometer&#8220;), mit ihnen nacheinander in Berührung gebracht, <br/>in beiden Fällen die nämliche Temperatur (,,Taschenthermo-<br/>meter&#8220;-Temperatur) <span 
+class="cmmi-12">T</span><sup ><span 
+class="cmsy-8">*</span></sup>
+haben sollen. Unter ,,Temperatur&#8220; (<span 
+class="cmmi-12">T</span>) <br/>schlechtweg sei jene Temperatur verstanden, wie sie durch <br/><pb/>
+</p><!--l. 598--><p class="indent">
+
+</p><!--l. 599--><p class="noindent">Carnotsche Kreisprozesse definiert wird. Wir fragen nach <br/>der Beziehung, die zwischen den Temperaturen der Wärme-<br/>behälter <span 
+class="cmmi-12">W</span><sub ><span 
+class="cmr-8">1</span></sub> und <span 
+class="cmmi-12">W</span><sub ><span 
+class="cmr-8">2</span></sub> besteht.
+</p><!--l. 604--><p class="indent">   Wir denken uns folgenden Kreisprozeß. Mit einem Körper <br/>von der Taschentemperatur <span 
+class="cmmi-12">T</span><sup ><span 
+class="cmsy-8">*</span></sup> werde dem Behälter <span 
+class="cmmi-12">W</span><sub >
+<span 
+class="cmr-8">1</span></sub> die <br/>Taschenwärmemenge <span 
+class="cmmi-12">Q</span><sup ><span 
+class="cmsy-8">*</span></sup>
+entzogen, der Körper hierauf zum <br/>Behälter <span 
+class="cmmi-12">W</span><sub ><span 
+class="cmr-8">2</span></sub> bewegt. Dann wird vom Körper dieselbe Taschen-<br/>wärmemenge <span 
+class="cmmi-12">Q</span><sup ><span 
+class="cmsy-8">*</span></sup> auf den Wärmebehälter <span 
+class="cmmi-12">W</span><sub >
+<span 
+class="cmr-8">2</span></sub> bei der Taschen-<br/>temperatur <span 
+class="cmmi-12">T</span><sup ><span 
+class="cmsy-8">*</span></sup> übertragen und endlich der Körper wieder zum <br/>Behälter <span 
+class="cmmi-12">W</span><sub >
+<span 
+class="cmr-8">1</span></sub>
+zurückbewegt.
+</p><!--l. 614--><p class="indent">   Nach den Ergebnissen der früheren Arbeit ist dabei die <br/>den Behältern in Wahrheit entzogene bzw. zugeführte Wärme
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191226x.png" alt="        * Q1  = Q  c1, Q2  = Q* c2. " class="par-math-display"  /></center>
+<!--l. 624--><p class="nopar">
+</p><!--l. 627--><p class="noindent">Die bekannte Relation
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191227x.png" alt="Q1    Q2 ---=  --- T1    T2 " class="par-math-display"  /></center>
+<!--l. 634--><p class="nopar">
+</p><!--l. 638--><p class="noindent">liefert also sofort
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191228x.png" alt="c1   T1- c =  T  .  2    2 " class="par-math-display"  /></center>
+<!--l. 644--><p class="nopar">
+</p><!--l. 647--><p class="noindent">Haben also zwei Wärmebehälter -- mit Taschenthermometern <br/>gemessen -- gleiche Temperatur <span 
+class="cmmi-12">T</span><sup ><span 
+class="cmsy-8">*</span></sup>, so verhalten sich ihre <br/>wahren (thermodynamischen) Temperaturen wie die Licht-<br/>geschwindigkeiten der betreffenden Orte. Man kann dies auch <br/>so ausdrücken: Man erhält die wahre Temperatur, indem man <br/>die Angabe eines Taschenthermometers mit <span 
+class="cmmi-12">c </span>multipliziert:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191229x.png" alt="        * T  = cT  . " class="par-math-display"  /></center>
+
+<!--l. 659--><p class="nopar">
+</p><!--l. 663--><p class="indent">   Hieraus folgt andererseits, daß zwei Wärmebehälter, <br/>welche sich an Orten verschiedenen Gravitationspotentials be-<br/>finden und in wärmeleitender Verbindung stehen, nicht die-<br/>selben Taschentemperaturen annehmen, sondern daß letztere <br/>beim Temperaturgleichgewicht sich umgekehrt verhalten wie <br/>die Lichtgeschwindigkeiten.
+</p><!--l. 671--><p class="indent">   Dagegen ist die Entropie eines Körpers nur von seinem <br/>mit Tascheninstrumenten gemessenen Zustande, nicht aber von <br/>dem Gravitationspotential abhängig. Es folgt dies einmal <br/>daraus, daß der Körper ohne Änderung seines mit Taschen-<br/>instrumenten gemessenen Zustandes ohne Zufuhr von Wärme
+ <br/><pb/>
+</p><!--l. 680--><p class="indent">
+
+</p><!--l. 681--><p class="noindent">nach einer Stelle von anderem Gravitationspotential gebracht <br/>werden kann, andererseits aus den soeben gefundenen Relationen. <br/>Denn es ist für zwei gleichbeschaffene Körper, die an ver-<br/>schiedenen Orten -- mit Tascheninstrumenten gemessen --<br/>dieselben Änderungen erfahren:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191230x.png" alt="Q1-   Q*-   Q2- T1  = T * =  T2 . " class="par-math-display"  /></center>
+<!--l. 692--><p class="nopar">
+</p>
+<div class="center" >
+
+<!--l. 696--><p class="noindent">
+</p><!--l. 697--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>4.   Differentialgleichung des statischen Gravitationsfeldes.</p></div>
+<!--l. 702--><p class="indent">   In der ersten Arbeit wurde aus der letzten der Glei-<br/>chungen (2)</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191231x.png" alt="c = c0 + ax " class="par-math-display"  /></center>
+<!--l. 708--><p class="nopar">
+</p><!--l. 712--><p class="noindent">auf dem Wege der Verallgemeinerung für das statische Gravi-<br/>tationsfeld die Gleichung</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-8r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191232x.png" alt="D  c = 0 " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 718--><p class="nopar">
+</p><!--l. 722--><p class="noindent">für den materiefreien Raum, und die Gleichung</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-9r4"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191233x.png" alt="D c = k cs " class="math-display"  /></center></td><td width="5%">(3a)</td></tr></table>
+<!--l. 728--><p class="nopar">
+</p><!--l. 732--><p class="noindent">für den mit Materie erfüllten Raum abgeleitet. Es zeigt sich <br/>aber, daß die Gleichung (3a) zusammen mit unserem in der <br/>früheren Abhandlung gefundenen Ausdruck für die Kraft <span 
+class="cmmi-12">F</span>, <br/>welche auf die in der Volumeinheit befindliche ponderable <br/>Materie <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1b.png" alt="s" class="12x-x-1b" /> </span>wirkt, zu einem Widerspruch führt. Ruht die <br/>Materie, so soll nämlich gelten</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-10r4"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191234x.png" alt="F =  - sgrad c " class="math-display"  /></center></td><td width="5%">(4)</td></tr></table>
+<!--l. 743--><p class="nopar">
+</p><!--l. 746--><p class="noindent">Bilden wir das Integral
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191235x.png" alt=" integral 
+
+   F d t " class="par-math-display"  /></center>
+<!--l. 752--><p class="nopar">
+</p><!--l. 755--><p class="noindent">über einen Raum, für welchen im Unendlichen <span 
+class="cmmi-12">c </span>konstant ist, <br/>so verlangt das Prinzip der Gleichheit von actio und reactio, <br/>daß dieses Integral verschwinde. Anderenfalls würde sich die <br/>Gesamtheit der in dem betrachteten Raume befindlichen <br/>Massen, die wir auf einem starren, masselosen Gerüste uns <br/>befestigt denken wollen, sich in Bewegung zu setzen streben. <br/>Es ist aber nach (4) und (3a)
+</p>
+
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191236x.png" alt=" integral             integral                    integral 
+                               1-   D-c-    F d t = -    sgrad c dt = - k     c  grad cdt , " class="par-math-display"  /></center>
+<!--l. 770--><p class="nopar">
+</p><!--l. 774--><p class="noindent">und man beweist von dem letzten dieser Integrale leicht, daß <br/>es im allgemeinen nicht verschwindet. <pb/>
+</p><!--l. 780--><p class="indent">
+
+</p><!--l. 781--><p class="indent">   Wir sind also zu einem recht bedenklichen Resultat ge-<br/>langt, das geeignet ist, Zweifel an der Zulässigkeit der ganzen <br/>hier entwickelten Theorie zu erzeugen. Sicherlich deutet dieses <br/>Resultat auf eine tief liegende Lücke des Fundamentes unserer <br/>beiden Untersuchungen hin; denn es dürfte kaum gelingen, <br/>aus dem für <span 
+class="cmmi-12">c </span>für das gleichförmig beschleunigte System ge-<br/>fundenen Ausdruck
+<span 
+class="cmmi-12">c</span><sub ><span 
+class="cmr-8">0</span></sub> + <span 
+class="cmmi-12">ax </span>eine andere in Betracht zu ziehende <br/>Gleichung als Gleichung (3) zu entnehmen, welche ihrerseits <br/>die Gleichung (3a) mit Notwendigkeit nach sich zieht.
+</p><!--l. 793--><p class="indent">   Um diese Schwierigkeit zu lösen, wird man sich zunächst <br/>mit Rücksicht auf die Resultate der alten Relativitätstheorie <br/>bewogen fühlen, dem Spannungen unterworfenen Gerüst eine <br/>schwere Masse zuzuschreiben, so daß zu den Kräften, die das <br/>Gravitationsfeld auf die Massen von der Dichte <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1b.png" alt="s" class="12x-x-1b" /> </span>ausübt,
+ <br/>Kräfte hinzu kämen, die es auf Spannungen unterworfene <br/>Gerüstteile ausübt. Die folgende Betrachtung führt aber zur <br/>Verwerfung einer derartigen Hypothese.
+</p><!--l. 804--><p class="indent">   In einem statischen Schwerefeld befinde sich ein Kasten <br/>mit spiegelnden Wänden, in den Strahlung eingeschlossen sei, <br/>deren mit ,,Tascheninstrumenten&#8220; gemessene Energie <span 
+class="cmmi-12">E </span>sei; <br/>d. h. es sei
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191237x.png" alt="     1  integral 
+E  = --   (G2  + H2) d t .      2 " class="par-math-display"  /></center>
+<!--l. 812--><p class="nopar">
+</p><!--l. 815--><p class="noindent">Ist die Ausdehnung des Kastens klein genug, so ergibt sich <br/>aus Gleichung (4) dieser Arbeit, daß die Summe der Kräfte, <br/>welche die Strahlung auf die Kastenwände ausübt, den Wert
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191238x.png" alt="- E grad c " class="par-math-display"  /></center>
+<!--l. 824--><p class="nopar">
+</p><!--l. 828--><p class="noindent">besitzt. Diese Kräftesumme muß gleich sein der Resultierenden <br/>der Kräfte, welche das Schwerefeld auf das ganze System <br/>(Kasten samt Strahlung) ausübt, wenn der Kasten masselos ist, <br/>und wenn der Umstand, daß die Kastenwände infolge des <br/>Strahlungsdruckes Spannungen unterworfen sind, nicht zur <br/>Folge hat, daß das Schwerefeld auf die Kastenwände wirkt. <br/>Wäre letzteres der Fall, so würde die Resultierende der von <br/>dem Schwerefeld auf den Kasten (samt Inhalt) ausgeübten <br/>Kräfte von dem Werte <span 
+class="cmsy-10x-x-120">-</span><span 
+class="cmmi-12">E</span>
+grad <span 
+class="cmmi-12">c </span>verschieden sein, d. h. die <br/>schwere Masse des Systems wäre von <span 
+class="cmmi-12">E</span>
+verschieden.
+</p><!--l. 841--><p class="indent">   Befindet sich andererseits unser Strahlungskasten in einem <br/>Raum von 
+konstantem <span 
+class="cmmi-12">c</span>, so gelten für ihn die Resultate der <br/><pb/>
+</p><!--l. 846--><p class="indent">
+
+</p><!--l. 847--><p class="noindent">alten Relativitätstheorie. Speziell folgt dann, daß die <span 
+class="cmti-12">tr</span><span 
+class="cmti-12">äge </span> <br/>Masse des Systems gleich <span 
+class="cmmi-12">E </span>ist.
+</p><!--l. 851--><p class="indent">   Will man also an der Proportionalität von schwerer und <br/>träger Masse solcher Gebilde, welche sich als materielle Punkte <br/>auffassen lassen, festhalten, so muß man annehmen, daß die <br/><span 
+class="cmti-12">schwere </span>Masse unseres Systems ebenfalls gleich <span 
+class="cmmi-12">E </span>sei. Dies <br/>ist aber nach obiger Überlegung nur dann der Fall, wenn wir <br/>Kräfte des Gravitationsfeldes auf Spannungen unterworfene, <br/>masselose Wände <span 
+class="cmti-12">nicht</span>
+annehmen.
+</p><!--l. 860--><p class="indent">   Eine ganz analoge Betrachtung läßt sich an die in der <br/>früheren Arbeit gefundenen Bewegungsgleichungen materieller <br/>Punkte anknüpfen. Man betrachte nämlich einen Kasten, in <br/>dem materielle Punkte hin- und herfliegen, die an den Wänden <br/>vollkommen elastisch abprallen (Modell eines einatomigen <br/>Gases). Ganz wie im Falle des Strahlungskastens findet man, <br/>daß die schwere und die träge Masse des ganzen Systems nur <br/>in dem Falle gleich sind, wenn vom Schwerefeld auf in Span-<br/>nungszuständen befindliche masselose Gerüste Kräfte nicht <br/>ausgeübt werden.
+</p><!--l. 872--><p class="indent">   Die in Gleichungen (3a) und (4) enthaltene Verletzung des <br/>Reaktionsprinzips bleibt also bestehen. Der Ausdruck (4) für <br/>die im Gravitationsfelde auf ruhende Massen wirkende Kraft <br/>geht mit Notwendigkeit aus unseren Bewegungsgleichungen für <br/>den materiellen Punkt hervor. Es liegt deshalb nahe, an dem <br/>Zutreffen dieser Gleichungen zu zweifeln; daß letztere aber <br/>schwerlich abzuändern sein dürften, geht aus folgender Über-<br/>legung hervor.
+</p><!--l. 882--><p class="indent">   Soll die Bewegungsgröße eines materiellen Punktes -- wie <br/>es die alte Relativitätstheorie fordert -- in einem Raume von <br/>konstantem <span 
+class="cmmi-12">c </span>durch
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191239x.png" alt="    m  &#x02D9;x  V~ ------2--2    1-  v /c"  class="frac" align="middle" /> <span 
+class="cmmi-12">dc </span>gegeben sein, so darf sich der <br/>Ausdruck der Bewegungsgröße im allgemeinen Falle von diesem <br/>nur durch einen Faktor unterscheiden, der Funktion von <span 
+class="cmmi-12">c </span> <br/>allein ist.<sup ><span 
+class="cmr-8">1</span></sup>) Dieser Faktor wird aus Dimensionsgründen eine <br/>Potenz von <span 
+class="cmmi-12">c</span>
+sein müssen (<span 
+class="cmmi-12">c</span><sup ><span 
+class="cmmi-8">a</span></sup>) Die Bewegungsgleichungen <br/>müssen also von der Form sein
+</p><!--l. 895--><p class="noindent">----------
+</p><!--l. 898--><p class="indent">   1) Eigentlich müßte man noch zulassen, daß die Bewegungsgröße <br/>auch von den räumlichen Ableitungen von <span 
+class="cmmi-12">c </span>abhängt. Wir wollen aber <br/>annehmen, daß dies nicht der Fall sei. <pb/>
+</p><!--l. 905--><p class="indent">
+
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191240x.png" alt=" d {   m &#x02D9;x ca  } ---   V~ -------   =  R x s +  R xa , dt          q2        1 -  c2 " class="par-math-display"  /></center>
+<!--l. 911--><p class="nopar">
+</p><!--l. 915--><p class="noindent">falls man mit <span 
+class="cmsy-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmsy10-c-3c.png" alt=" R " class="10-120x-x-3c" /></span><sub ><span 
+class="cmmi-8">xs</span></sub> die x-Komponente der vom Schwerefelde <br/>auf den Punkt ausgeübten Kraft, mit <span 
+class="cmsy-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmsy10-c-3c.png" alt=" R " class="10-120x-x-3c" /></span><sub ><span 
+class="cmmi-8">xa</span></sub> die <span 
+class="cmmi-12">x</span>-Komponente <br/>der Resultierenden der Kräfte anderen Ursprunges bezeichnet. <br/>Es frägt sich nun, durch was für einen Ausdruck
+<span 
+class="cmsy-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmsy10-c-3c.png" alt=" R " class="10-120x-x-3c" /></span><sub ><span 
+class="cmmi-8">s</span></sub> gegeben <br/>sein kann. Handelt es sich um einen Punkt, für den gerade <br/><span 
+class="cmmi-12">q </span>= 0 ist, so wird die Kraft dem Vektor <span 
+class="cmsy-10x-x-120">-</span><span 
+class="cmmi-12">m</span> grad <span 
+class="cmmi-12">c </span>propor-<br/>tional sein müssen, wenn man nur annimmt, daß das statische <br/>Schwerefeld durch <span 
+class="cmmi-12">c </span>charakterisiert ist. Diese Kraft wird sich <br/>von <span 
+class="cmsy-10x-x-120">-</span><span 
+class="cmmi-12">m</span> grad <span 
+class="cmmi-12">c </span>nur durch einen Faktor unterscheiden können, <br/>der von <span 
+class="cmmi-12">c </span>allein abhängt; auch dieser Faktor wird aus Dimen-<br/>sionsgründen eine Potenz von <span 
+class="cmmi-12">c </span>sein müssen (<span 
+class="cmmi-12">c</span><sup ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi8-c.png" alt="b" class="cmmi-8x-x-c" align="middle" /></span></sup>). In dem <br/>Falle, daß <span 
+class="cmmi-12">q</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191241x.png" alt="/="  class="neq" align="middle" />0 ist, würde die Kraft auch noch von <span 
+class="cmmi-12">q </span>ab-<br/>hängen; und zwar muß die Abhängigkeit eine derartige sein, <br/>daß die schwere Masse eines bewegte elastische materielle <br/>Punkte enthaltenden Kastens von der Geschwindigkeit der <br/>Bewegung der Punkte in gleicher Weise abhängt wie die <br/>schwere Masse. Dies dürfte sich mit Rücksicht auf die Resul-<br/>tate der alten Relativitätstheorie nur durch den Ansatz
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191242x.png" alt="                   b  R s = --m V~ grad-c-.c .konst.                q2            1-  -2                c " class="par-math-display"  /></center>
+<!--l. 944--><p class="nopar">
+</p><!--l. 948--><p class="noindent">erzielen lassen. Setzt man <span 
+class="cmsy-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmsy10-c-3c.png" alt=" R " class="10-120x-x-3c" /></span><sub ><span 
+class="cmmi-8">xs</span></sub> demgemäß in die Bewegungs-<br/>gleichungen ein, so kann man beweisen, daß <span 
+class="cmsy-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmsy10-c-3c.png" alt=" R " class="10-120x-x-3c" /></span><sub ><span 
+class="cmmi-8">xa</span></sub><span 
+class="cmmi-12">&#x1E8B;</span> + <span 
+class="cmsy-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmsy10-c-3c.png" alt=" R " class="10-120x-x-3c" /></span><sub ><span 
+class="cmmi-8">y a</span></sub><span 
+class="cmmi-12">&#x1E8F;</span> + <span 
+class="cmsy-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmsy10-c-3c.png" alt=" R " class="10-120x-x-3c" /></span><sub ><span 
+class="cmmi-8">z a</span></sub><span 
+class="cmmi-12">&#380;</span> <br/>sich nur dann als Differentialquotient nach der Zeit darstellen <br/>läßt, wenn den Konstanten <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-c.png" alt="b" class="cmmi-12x-x-c" align="middle" /></span>
+solche Werte gegeben <br/>werden, daß die in der früheren Arbeit angegebenen Be-<br/>wegungsgleichuugen resultieren. Man wird also wohl an diesen <br/>und an dem aus ihnen resultierenden Ausdruck (4) für die <br/>Kraft festhalten müssen, wenn man nicht die ganze Theorie <br/>(Bestimmtheit des statischen Gravitationsfeldes durch <span 
+class="cmmi-12">c</span>) auf-<br/>geben will.
+</p><!--l. 962--><p class="indent">   Eine Beseitigung des genannten Widerspruches gegen das <br/>Reaktionsprinzip scheint also nur dadurch möglich zu sein, <br/>daß man die Gleichungen (3) und (3a) durch andere in <span 
+class="cmmi-12">c </span> <br/>homogene Gleichungen ersetzt, für welche das Reaktionsprinzip <br/>bei Anwendung des Kraftansatzes (4) erfüllt ist. Zu diesem 
+ <br/><pb/>
+</p><!--l. 970--><p class="indent">
+
+</p><!--l. 971--><p class="noindent">Schritt entschließe ich mich deshalb schwer, weil ich mit ihm <br/>den Boden des unbedingten Äquivalenzprinzips verlasse. Es <br/>scheint, daß sich letzteres nur für unendlich kleine Felder <br/>aufrecht erhalten läßt. Unsere Ableitungen der Gleichungen <br/>der Bewegung des materiellen Punktes und der elektromagne-<br/>tischen Gleichungen werden dadurch nicht illusorisch, weil sie <br/>die Gleichungen (2) nur für unendlich kleine Räume anwenden. <br/>Man kann diese Ableitungen z. B. auch an die allgemeineren <br/>Gleichungen</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191243x.png" alt="         cdc- q = x +  -dx-t2 ,           2 j = y , 
+z = z , t = c t " class="par-math-display"  /></center>
+<!--l. 992--><p class="nopar">
+</p><!--l. 995--><p class="noindent">anknüpfen, wobei <span 
+class="cmmi-12">c </span>eine beliebige Funktion von <span 
+class="cmmi-12">x </span>ist. --
+</p><!--l. 998--><p class="indent">   Durch passende Umformung des über einen beliebigen <br/>Raum erstreckten Integrales
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191244x.png" alt=" integral 
+   D-c-grad cd t     c " class="par-math-display"  /></center>
+<!--l. 1005--><p class="nopar">
+</p><!--l. 1008--><p class="noindent">überzeugt man sich leicht, daß dem Reaktionsprinzip genügt <br/>wird, wenn wir unter Beibehaltung von (4) die Gleichung (3a) <br/>durch die Gleichung</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-11r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191245x.png" alt="cD c - 1 (grad c)2 = k c2s ,        2 " class="math-display"  /></center></td><td width="5%">(3b)</td></tr></table>
+
+<!--l. 1019--><p class="nopar">
+</p><!--l. 1023--><p class="noindent">die sich auch in die Form</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-12r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191246x.png" alt="   ( V~ -)   k  V~ ---- D     c  = --  cs            2 " class="math-display"  /></center></td><td width="5%">(3b)</td></tr></table>
+<!--l. 1030--><p class="nopar">
+</p><!--l. 1034--><p class="noindent">bringen läßt, wobei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1b.png" alt="s" class="12x-x-1b" /> </span>die Dichte der ponderabeln Materie bzw. <br/>die Dichte der ponderabeln Materie vermehrt um die mit <br/>Tascheninstrumenten gemessene Energiedichte bedeutet. Aus <br/>diesen Gleichungen folgt</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-13r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191247x.png" alt="    Fx = -  s@-c =  @ Xx-+ @-Xy- + @-Xz-etc.,              @ x    @ x     @ y     @ z   wobei {
+    ck X  =  @-c-@ c - 1(grad c)2, c kX   = @-c @ c-,          x   @ x@ x    2                y   @ x @ y                                               @ c @ c                                     c kXz  = --- ---                                              @ x @ z " class="math-display"  /></center></td><td width="5%">(5)</td></tr></table>
+<!--l. 1057--><p class="nopar">
+</p><!--l. 1061--><p class="noindent">usw. gesetzt ist. Das Reaktionsprinzip ist also in der Tat <br/>erfüllt. Das in Gleichung (3b) zur Befriedigung des Reaktions-<br/><pb/>
+
+</p><!--l. 1066--><p class="indent">
+
+</p><!--l. 1067--><p class="noindent">prinzipes hinzugesetzte Glied gewinnt unser Vertrauen durch <br/>die folgenden Überlegungen.
+</p><!--l. 1070--><p class="indent">   Wenn jegliche Energiedichte (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1b.png" alt="s" class="12x-x-1b" /> c</span>) eine (negative) Divergenz <br/>der Kraftlinien der Gravitation erzeugt, so muß dies auch für <br/>die Energiedichte der Gravitation selbst gelten. Schreibt man <br/>(3b) in der Form
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191248x.png" alt="        {              2 }                -1- grad-c- D c = k   cs + 2 k   c      , " class="par-math-display"  /></center>
+<!--l. 1081--><p class="nopar">
+</p><!--l. 1085--><p class="noindent">so erkennt man also sogleich, daß das zweite Glied der Klam-<br/>mer als die Energiedichte des Gravitationsfeldes aufzufassen <br/>ist.<sup ><span 
+class="cmr-8">1</span></sup>) Wir haben nur noch zu zeigen, daß auch nach dem <br/>Energieprinzip dieses Glied die Dichte der Energie des Gra-<br/>vitationsfeldes bedeutet.
+</p><!--l. 1092--><p class="indent">   Zu diesem Zweck denken wir uns eine im endlichen be-<br/>findliche Raumbelegung ponderabler Massen (Dichte <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-1b.png" alt="s" class="12x-x-1b" /></span>), welche <br/>durch eine unendlich ferne Fläche eingeschlossen sei; im Un-<br/>endlichen strebe <span 
+class="cmmi-12">c</span>, soweit es die Gleichung (3b) bzw. 3b&#8217;) zu-<br/>läßt, einem konstanten Werte zu. Wir haben dann zu be-<br/>weisen, daß für eine beliebige unendlich kleine Verschiebung <br/>der Massen (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-e.png" alt="d" class="12x-x-e" /> x, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-e.png" alt="d" class="12x-x-e" /> y, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-e.png" alt="d" class="12x-x-e" /> z</span>) die dem System zuzuführende Arbeit <br/><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-e.png" alt="d" class="12x-x-e" /> A </span>gleich sei der Vermehrung <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-e.png" alt="d" class="12x-x-e" /> E </span>des über den ganzen Raum <br/>erstreckten Integrales der totalen, in der Klammer der obigen
+ <br/>Gleichung angegebenen Energiedichte.
+</p><!--l. 1106--><p class="indent">   Vermöge (4) erhält man zunächst
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191249x.png" alt="      integral    (                         ) dA =    s   @-c dx + @-c dy + -@ c dz  dt             @ x      @ y      @ z                 integral   (@  (s dx)          )     integral 
+          =  -    c  ---------+  ... d t =    c ds d t .                         @ x " class="par-math-display"  /></center>
+<!--l. 1121--><p class="nopar">
+</p><!--l. 1124--><p class="noindent">Für die Berechnung von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-e.png" alt="d" class="12x-x-e" />   E </span>schicken wir voraus, daß</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191250x.png" alt="   {  integral      2     }      {    integral             }      {   integral            }   d     grad--c dt   = d   4   grad2V ~ c d t =  d   4   grad2u d t            c      integral  [@ u  (@  u )      ]        {  integral      @ u       integral           } =  8    --- d  ---   + ... d t = 8      du .---d s -    D ud u dt  .         @ x    @ x                          @ n " class="par-math-display"  /></center>
+<!--l. 1142--><p class="nopar">
+</p><!--l. 1145--><p class="noindent">Von diesen Integralen verschwindet das erste (Flächenintegral <br/>über die unendlich ferne Fläche), weil mit wachsendem Radius-<br/>vektor <span 
+class="cmmi-12">R </span>die Größen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-e.png" alt="d" class="12x-x-e" /> u </span>und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /> u</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191251x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /> n</span>
+wie 1<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191252x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">R </span>bzw. wie 1<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191253x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">R</span><sup ><span 
+class="cmr-8">2</span></sup> <br/>----------
+</p><!--l. 1155--><p class="indent">   1) Es sei hervorgehoben, daß diese -- wie bei Abraham -- einen <br/>positiven Wert erhält. <pb/>
+</p><!--l. 1160--><p class="indent">
+
+</p><!--l. 1161--><p class="noindent">zu null herabsinken. Das zweite Integral aber läßt sich ver-<br/>möge der Feldgleichung (3 <span 
+class="cmmi-12">b</span><span 
+class="cmsy-10x-x-120">'</span>) umformen, so daß man erhält
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191254x.png" alt="  {              }      integral  grad2c               integral                    integral 
+d      -------d t  =  - 4k    ud us d t = - 2 k   s dcd t .          c " class="par-math-display"  /></center>
+<!--l. 1170--><p class="nopar">
+</p><!--l. 1173--><p class="noindent">Unter Benutzung hiervon erhält man:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191255x.png" alt="       integral 
+
+dE =    (c ds + s dc - s dc) dt = d A . " class="par-math-display"  /></center>
+<!--l. 1181--><p class="nopar">
+</p><!--l. 1184--><p class="noindent">Damit ist also bewiesen, daß <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191256x.png" alt="-1 2k"  class="frac" align="middle" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191257x.png" alt="    2 grad--c    c"  class="frac" align="middle" /> tatsächlich als die <br/>Energiedichte des Gravitationsfeldes aufzufassen ist.
+</p>
+<div class="center" >
+
+<!--l. 1189--><p class="noindent">
+</p><!--l. 1190--><p class="noindent">(Eingegangen 23. März 1912.)</p></div>
+<div class="center" >
+
+<!--l. 1193--><p class="noindent">
+</p><!--l. 1194--><p class="noindent">----------</p></div>
+<div class="center" >
+
+<!--l. 1197--><p class="noindent">
+</p><!--l. 1198--><p class="noindent">Nachtrag zur Korrektur.</p></div>
+<!--l. 1201--><p class="indent">   Es ist bemerkenswert, daß die Bewegungsgleichungen des <br/>materiellen Punktes im Schwerefeld
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191258x.png" alt="   {     x&#x02D9;    }         @ c -d-   V~ --c-----  =  -  V~ -@ x---+   R x-usw . d t         q2              q2    m         1 - -2          1 - -2             c               c " class="par-math-display"  /></center>
+
+<!--l. 1211--><p class="nopar">
+</p><!--l. 1215--><p class="noindent">eine sehr einfache Form annehmen, wenn man ihnen die Form <br/>der Gleichungen von Lagrange gibt. Setzt man nämlich
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191259x.png" alt="           V~ -2----2- H  = - m    c  - q , " class="par-math-display"  /></center>
+<!--l. 1222--><p class="nopar">
+</p><!--l. 1226--><p class="noindent">so lauten sie
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191260x.png" alt="    (     )  d    @ H     @ H ---   ----  - ---- =  R x usw  . d t   @ &#x02D9;x      @ x " class="par-math-display"  /></center>
+<!--l. 1234--><p class="nopar">
+</p><!--l. 1238--><p class="indent">   Für den im statischen Gravitationsfeld ohne Einwirkung <br/>äußerer Kräfte bewegten materiellen Punkt gilt demnach
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191261x.png" alt="  {  integral      } d      H dt   = 0, " class="par-math-display"  /></center>
+<!--l. 1245--><p class="nopar">
+</p><!--l. 1249--><p class="noindent">oder
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1912/fulltext/img/Einst_Zurth_de_191262x.png" alt=" {  integral   V~ -------------------------} d       c2 dt2-  dx2 - d y2-  dz2   = 0. " class="par-math-display"  /></center>
+<!--l. 1256--><p class="nopar">
+</p><!--l. 1259--><p class="noindent">Auch hier zeigt sich -- wie dies für die gewöhnliche Rela-<br/>tivitätstheorie von Planck dargetan wurde --, daß den Glei-<br/>chungen der analytischen Mechanik eine über die Newtonsche <br/>Mechanik weit hinausreichende Bedeutung zukommt. Die zu-<br/>letzt hingeschriebene Hamiltonsche Gleichung läßt ahnen, <br/>wie die Bewegungsgleichungen des materiellen Punktes im <br/>dynamischen Gravitationsfelde gebaut sind.
+</p>
+    
+</body></html> 
+
+
+

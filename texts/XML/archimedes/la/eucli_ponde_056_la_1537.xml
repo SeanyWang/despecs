@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<archimedes xmlns:xlink="http://www.w3.org/1999/xlink" >      <info>
+        <author>Pseudo Euclid</author>
+        <title>de ponderoso et levi</title>
+        <date>1537</date>
+        <place>Paris</place>
+       <translator></translator>
+        <lang>la</lang>
+        <cvs_file>eucli_ponde_056_la_1537.xml</cvs_file>
+        <cvs_version></cvs_version>
+        <locator>056.xml</locator>
+</info>      <text>
+<pb xlink:href="056/01/001.jpg"></pb><front><section><p type="head">
+<s id="id.000001">EVCLIDIS DE LEVI ET PONDEROSO FRAGMENTUM.</s></p></section></front><body><chap><p type="margin">
+<s id="id.000002"><arrow.to.target n="marg1"></arrow.to.target><margin.target id="marg1"></margin.target><emph type="italics"></emph>Diffini<lb></lb>tiones.<emph.end type="italics"></emph.end></s></p><p type="main">
+<s id="id.000003">1 Æqua magnitudine corpora ſunt, quæ loca replent æqua.</s>
+<s id="id.000004"> 2 Di­<lb></lb>uerſa magnitudine corpora ſunt, quæ loca replent non æqua.</s>
+<s id="id.000005"> 3 Gr<expan abbr="ã">an</expan>dio<lb></lb>ra magnitudine <expan abbr="dicũtur">dicuntur</expan> corpora, quæ loco ſunt ampliore.</s>
+<s id="id.000006"> 4 Æqua po<lb></lb>tentia corpora ſunt, quor<expan abbr="ũ">um</expan> &amp; tempore &amp; aëre aquáve media æquabilis &amp; <lb></lb>per æqualia interualla æquales ſunt motus.</s>
+<s id="id.000007"> 5 Diuerſa potentia corpo­<lb></lb>ra ſunt, quorum, t<expan abbr="ẽ">em</expan>pore diuerſo motus ſunt æquales.</s>
+<s id="id.000008"> 6 Diuerſor<expan abbr="ũ">um</expan> <expan abbr="potẽtia">poten<lb></lb>tia</expan> corporum, maius id potentia dicitur, quod mouendo temporis inſum­<lb></lb>pſit minus: minus autem <expan abbr="potẽtia">potentia</expan>, quod temporis amplius.</s>
+<s id="id.000009"> 7 Generis <lb></lb>eiuſdem corpora ſunt, quæ cum æqua magnitudine ſint, etiam ſunt poten­<lb></lb>tia.</s>
+<s id="id.000010"> 8 Diuerſa genere corpora ſunt, quæ cum æqua magnitudine ſint, <lb></lb>potentia non ſunt, per idem licet medium <expan abbr="moueã">moueantur</expan>.</s>
+<s id="id.000011"> 9 Diuerſorum<lb></lb>genere corporum, potentius id dicitur quod eſt ſolidius.</s></p><p type="margin">
+<s id="id.000012"><arrow.to.target n="marg2"></arrow.to.target><margin.target id="marg2"></margin.target><emph type="italics"></emph>Theore­<lb></lb>mata.<emph.end type="italics"></emph.end></s></p><p type="head">
+<s id="id.000013"><emph type="italics"></emph>Theorema primum<emph.end type="italics"></emph.end></s></p><p>
+<s id="id.000014">Diuerſorum potentia corporum, quod ſpatium amplius moue­<lb></lb><arrow.to.target n="marg2"></arrow.to.target><lb></lb>tur, habet amplius potentiæ.</s></p><pb xlink:href="056/01/002.jpg" pagenum="586"></pb><p>
+<s id="id.000015">Sint a &amp; b corpora dio, ſint gd &amp; ef, ſpatia duo, gd maius per quod a, ef, minus  per <lb></lb>quod b mouetur reſecabo à ſpatio gd, gr, ſpa<lb></lb>tium, ſic ut ſit ef ſpatio <expan abbr="ſpatiũ">ſpatium</expan> gr æquale.</s>
+<s id="id.000016"> Cæte<lb></lb>ra ſponte patent.</s><figure id="id.056.01.002.1.jpg" xlink:href="056/01/002/1.jpg"></figure></p><p type="head">
+<s id="id.000017"><emph type="italics"></emph>Theorema ſecundum<emph.end type="italics"></emph.end></s></p><p>
+<s id="id.000018">EOrundem genere corpor<expan abbr="ũ">um</expan><lb></lb>ſi ipſa inter ſe erunt multiplicia, erunt æque ipſorum potentiæ <lb></lb>multiplices.</s></p><p>
+<s id="id.000019">Sit corpus ag, eodem genere corpori d duplum, dico.<lb></lb><figure id="id.056.01.002.2.jpg" xlink:href="056/01/002/2.jpg"></figure>etiam potentia duplum eſſe.</s>
+<s id="id.000020"> Sit enim ag, quidem cor­<lb></lb>poris potentia eh, d uero &amp; ag iuxta multiplicis ex­<lb></lb>ceſſum in ab &amp; bg, diuidatur, ſic ut utriuſque potentia,<lb></lb>ipſius d corporis pot<expan abbr="ẽ">en</expan>tiæ quæ erat c æqualis, fiat rurſus <lb></lb>ut ag corpus in partes ab, bg corpori d æquas diuiſimus.</s>
+<s id="id.000021"> ſic eh, potentiam in partes <lb></lb>er &amp; rh, æquas c potentia diuidamus.</s>
+<s id="id.000022"> Liquidum eſt eh potenti<expan abbr="ã">am</expan> duplum potentiæ c <lb></lb>euadere.</s></p><p type="head">
+<s id="id.000023"><emph type="italics"></emph>Theorema tertium<emph.end type="italics"></emph.end></s></p><p>
+<s id="id.000024">EOrund<expan abbr="ẽ">em</expan> genere corpor<expan abbr="ũ">um</expan>, proportio, &amp; magnitudine, &amp; potentia <lb></lb>eſt eadem.</s></p><figure id="id.056.01.002.3.jpg" xlink:href="056/01/002/3.jpg"></figure><p>
+<s id="id.000025">Sit à corpus<lb></lb>corporis eo­<lb></lb>dem genere b duplum, di­<lb></lb>co ut a corpus ad b cor<lb></lb>pus eſt, ſic corporis a <expan abbr="potẽtia">poten<lb></lb>tia</expan> g ad corporis b potentiam d eſſe.</s>
+<s id="id.000026"> Patet ſi ut corpora ſic potentias æque utrinque <lb></lb>multipliciter diuidamus.</s></p><p type="head">
+<s id="id.000027"><emph type="italics"></emph>Theorema quartum<emph.end type="italics"></emph.end></s></p><p type="main">
+<s id="id.000028">QUæ corpora, æqua potentia eiuſdem generis corpori ſunt, eiuſd<expan abbr="ẽ">em</expan><lb></lb>ſunt inter ſe generis, ablatis enim æqualibus illi tertio, er<expan abbr="ũ">un</expan>t ipſo­<lb></lb>rum uirtutes æquales, quia potentiæ tertij æquales.</s></p><p>
+<s id="id.000029">Quor<expan abbr="ũ">um</expan> corpor<expan abbr="ũ">um</expan> &amp; magnitudo &amp; potentia proportio una eſt, ipſa generis eiuſd<expan abbr="ẽ">em</expan> erunt.<lb></lb></s>
+<s id="id.000030"> Sit ut a corpus ad corpus b, ſic corpus a potentia ad corporis b potenti<expan abbr="ã">am</expan> d, dico a. b. <lb></lb>corpora generis eiuſd<expan abbr="ẽ">em</expan> eſſe.</s>
+<s id="id.000031">Statuamus <expan abbr=".n.">enim</expan> a. corpus, æquale corpori cuius potentia ſit <lb></lb>r. </s>
+<s id="id.000032">Erunt igitur ut b ad a, ſic r ad potentiam ipſius a quæ eſt g.</s>
+<s id="id.000033"> Reliqua pat<expan abbr="ẽ">en</expan>t. </s></p></chap></body></text></archimedes>

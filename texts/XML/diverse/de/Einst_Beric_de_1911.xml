@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Beric_de_1911.tex" /> 
+<meta name="date" content="2005-03-01 19:05:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Beric_de_1911.css" /> 
+</head><body >
+
+<!--l. 9--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 10--><p class="noindent">
+</p><!--l. 11--><p class="noindent"><span 
+class="cmr-12x-x-120">11. </span><span 
+class="cmbxti-10x-x-144">Berichtigung zu meiner Arbeit:</span> <br/><span 
+class="cmbxti-10x-x-144">,,Eine neue</span>
+<span 
+class="cmbxti-10x-x-144">Bestimmung der Molek</span><span 
+class="cmbxti-10x-x-144">ül-</span> <br/><span 
+class="cmbxti-10x-x-144">dimensionen&#8220;</span><sup ><span 
+class="cmr-8">1</span></sup>)<span 
+class="cmbxti-10x-x-144">;</span> <br/><span 
+class="cmbxti-10x-x-144">von A.</span>
+<span 
+class="cmbxti-10x-x-144">Einstein.</span></p></div>
+<div class="center" >
+
+<!--l. 15--><p class="noindent">
+</p><!--l. 16--><p class="noindent">----------</p></div>
+<!--l. 19--><p class="indent">   Vor einigen Wochen teilte mir Hr. Bacelin, der auf <br/>Veranlassung von Hrn. Perrin eine Experimentaluntersuchung <br/>über die Viskosität von Suspensionen ausführte, brieflich mit, <br/>daß der Viskositätskoeffizient von Suspensionen nach seinen <br/>Resultaten erheblich größer sei, als der in <span 
+class="cmsy-10x-x-120">§</span>2 meiner Arbeit <br/>entwickelten Formel entspricht. Ich ersuchte deshalb Hrn. <br/>Hopf, meine Rechnungen nachzuprüfen, und er fand in der <br/>Tat einen Rechenfehler, der das Resultat erheblich fälscht. <br/>Diesen Fehler will ich im folgenden berichtigen.
+</p><!--l. 26--><p class="indent">   Auf p. 296 der genannten Abhandlung stehen Ausdrücke <br/>für die Spannungskomponenten <span 
+class="cmmi-12">X</span><sub ><span 
+class="cmmi-8">y</span></sub> und <span 
+class="cmmi-12">X</span><sub ><span 
+class="cmmi-8">z</span></sub>, die durch einen <br/>Fehler im Differenzieren der Geschwindigkeitskomponenten <span 
+class="cmmi-12">u</span>, <br/><span 
+class="cmmi-12">v</span>, <span 
+class="cmmi-12">w </span>gefälscht sind. Es muß heißen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Beric_de_1911/fulltext/img/Einst_Beric_de_19110x.png" alt="                    3  Aq2          3Mq2- Xx  = - 2kA  + 10kP     h5   - 25kP   r7 , Xy  =           5kP 3(A+Bh)5qj - 25kP 3Mqrj7-, X   =           5kP 3(A+C)qz - 25kP 3Mqz-,   z                     h5            r7 " class="par-math-display"  /></center>
+<!--l. 40--><p class="nopar">
+</p><!--l. 44--><p class="noindent">wobei gesetzt ist
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Beric_de_1911/fulltext/img/Einst_Beric_de_19111x.png" alt="M  = Aq2 + Bj2  + Cz2. " class="par-math-display"  /></center>
+
+<!--l. 50--><p class="nopar">
+</p><!--l. 53--><p class="noindent">Berechnet man dann die pro Zeiteinheit auf die in der Kugel <br/>vom Radius <span 
+class="cmmi-12">R</span>
+enthaltene Flüssigkeit durch die Druckkräfte <br/>übertragene Energie, so erhält man statt Gleichung (7) auf <br/>p. 296:
+</p>
+   <table width="100%" 
+class="equation"><tr><td>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Beric_de_1911/fulltext/img/Einst_Beric_de_19112x.png" alt="        2       1 W  =  2d k(V +  2P). " class="math-display"  /><a 
+ id="x1-2r7"></a></center></td><td width="5%">(7)</td></tr></table>
+<!--l. 58--><p class="nopar">
+----------
+</p><!--l. 62--><p class="indent">   1) A. Einstein, Ann. d. Phys. <span 
+class="cmbx-12">19. </span>p. 289 ff. 1906.<pb/>
+</p><!--l. 67--><p class="indent">
+
+</p><!--l. 68--><p class="noindent">Unter Benutzung dieser berichtigten Gleichung erhält man <br/>dann statt der in <span 
+class="cmsy-10x-x-120">§</span>2 entwickelten Gleichung <span 
+class="cmmi-12">k</span><span 
+class="cmsy-10x-x-120">* </span>= <span 
+class="cmmi-12">k</span>(1 + <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Beric_de_1911/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /></span>) <br/>die Gleichung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Beric_de_1911/fulltext/img/Einst_Beric_de_19113x.png" alt="k* =  k(1 + 2,5f). " class="par-math-display"  /></center>
+<!--l. 75--><p class="nopar">
+</p><!--l. 78--><p class="noindent">Der Viskositätskoeffizient <span 
+class="cmmi-12">k</span><sup ><span 
+class="cmsy-8">*</span></sup> der Suspension wird also durch <br/>das Gesamtvolumen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Beric_de_1911/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /></span>
+der in der Volumeinheit suspendierten <br/>Kugeln 2,5 mal stärker beeinflußt als nach der dort gefundenen <br/>Formel.
+</p><!--l. 83--><p class="indent">   Legt man die berichtigte Formel zugrunde, so erhält man <br/>für das Volumen von 1 g in Wasser gelöstem Zucker statt des <br/>in <span 
+class="cmsy-10x-x-120">§</span>3 angegebenen Wertes 2,45 cm<sup ><span 
+class="cmr-8">3</span></sup> den Wert 0,98, also einen <br/>vom Volumen 0,61 von 1 g festem Zucker erheblich weniger <br/>abweichenden Wert. Endlich erhält man aus der inneren <br/>Reibung und Diffusion von verdünnten Zuckerlösungen statt <br/>des im Anhange jener Arbeit angegebenen Wertes <span 
+class="cmmi-12">N </span>= 4,15.10<sup ><span 
+class="cmr-8">23</span></sup> <br/>für die Anzahl der Moleküle im Grammolekül den Wert <br/>6,56. 10<sup ><span 
+class="cmr-8">23</span></sup>.
+</p><!--l. 90--><p class="indent">   Zürich, Januar 1911.
+</p>
+<div class="center" >
+
+<!--l. 92--><p class="noindent">
+</p><!--l. 93--><p class="noindent">(Eingegangen 21. Januar 1911.)</p></div>
+<div class="center" >
+
+<!--l. 96--><p class="noindent">
+</p><!--l. 97--><p class="noindent">------------</p></div>
+    
+</body></html> 
+
+
+

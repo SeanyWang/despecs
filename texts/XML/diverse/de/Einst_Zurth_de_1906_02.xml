@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Zurth_de_1906_02.tex" /> 
+<meta name="date" content="2005-03-10 17:56:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Zurth_de_1906_02.css" /> 
+</head><body >
+
+<!--l. 13--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 14--><p class="noindent">
+</p><!--l. 15--><p class="noindent"><span 
+class="cmr-12x-x-120">7. </span><span 
+class="cmbxti-10x-x-144">Zur Theorie der Brownschen Bewegung; </span> <br/><span 
+class="cmbxti-10x-x-144">von A.</span>
+<span 
+class="cmbxti-10x-x-144">Einstein.</span></p></div>
+<div class="center" >
+
+<!--l. 19--><p class="noindent">
+</p><!--l. 20--><p class="noindent">--------</p></div>
+<!--l. 24--><p class="indent">   Kurz nach dem Erscheinen meiner Arbeit über die durch <br/>die Molekulartheorie der Wärme geforderte Bewegung von in <br/>Flüssigkeiten suspendierten Teilchen<sup ><span 
+class="cmr-8">1</span></sup>) teilte mir Hr. Sieden-<br/>topf (Jena) mit, daß er und andere Physiker -- zuerst wohl
+ <br/>Hr. Prof. Gouy (Lyon) -- durch direkte Beobachtung zu der <br/>Überzeugung gelangt seien, daß die sogenannte Brownsche <br/>Bewegung durch die ungeordnete Wärmebewegung der Flüssig-<br/>keitsmoleküle verursacht sei.<sup ><span 
+class="cmr-8">2</span></sup>) Nicht nur die qualitativen Eigen-<br/>schaften der Brownschen Bewegung, sondern auch die Größen-<br/>ordnung der von den Teilchen zurückgelegten Wege entspricht <br/>durchaus den Resultaten der Theorie. Ich will hier nicht <br/>eine Vergleichung des mir zur Verfügung stehenden dürftigen <br/>Erfahrungsmaterials mit den Resultaten der Theorie anstellen, <br/>sondern diese Vergleichung denjenigen überlassen, welche das
+ <br/>Thema experimentell behandeln.
+</p><!--l. 43--><p class="indent">   Die nachfolgende Arbeit soll meine oben genannte Arbeit <br/>in einigen Punkten ergänzen. Wir leiten hier nicht nur die <br/>fortschreitende, sondern auch die Rotationsbewegung suspen-<br/>dierter Teilchen ab für den einfachsten Spezialfall, daß die <br/>Teilchen Kugelgestalt besitzen. Wir zeigen ferner bis zu wie
+ <br/>kurzen Beobachtungszeiten das in jener Abhandlung gegebene <br/>Resultat gilt.
+</p><!--l. 52--><p class="indent">   Für die herleitung wollen wir uns hier einer allgemeineren <br/>Methode bedienen, teils um zu zeigen, wie die Brownsche <br/>Bewegung mit den Grundlagen der molekularen Theorie der <br/>Wärme zusammenhängt, teils um die Formeln für die fort-<br/>schreitende und für die rotierende Bewegung durch eine ein-<br/>heitliche Untersuchung entwickeln zu können. Es sei näm-<br/>lich <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>ein beobachtbarer Parameter eines im Temperatur-<br/>----------
+</p><!--l. 63--><p class="indent">   1) A. Einstein, Ann. d. Phys. <span 
+class="cmbx-12">17. </span>p. 549. 1905.
+</p><!--l. 65--><p class="indent">   2) M. Gouy, Journ. de Phys. (2) <span 
+class="cmbx-12">7. </span>p. 561. 1888. <pb/>
+</p><!--l. 69--><p class="indent">
+
+</p><!--l. 70--><p class="noindent">gleichgewicht befindlichen physikalischen Systems und es sei <br/>angenommen, daß das System bei jedem (möglichen) Wert <br/>von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>im sogenannten indifferenten Gleichgewicht sich be-<br/>finde. Nach der klassischen Thermodynamik, die zwischen
+ <br/>Wärme und anderen Energiearten <span 
+class="cmti-12">prinzipiell </span>unterscheidet, <br/>finden spontane Änderungen von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>nicht statt, wohl aber <br/>nach der molekularen Theorie der Wärme. Wir wollen im <br/>nachfolgenden untersuchen, nach welchen Gesetzen jene Ände-<br/>rungen gemäß der letzteren Theorie stattfinden müssen. Wir <br/>haben dann jene Gesetze auf folgende spezialfälle anzuwenden:
+</p><!--l. 83--><p class="indent">   1. <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>ist die <span 
+class="cmmi-12">x</span>-Koordinate des Schwerpunktes eines in einer <br/>(der Schwerkraft nicht unterworfenen) homogenen Flüssigkeit <br/>suspendierten Teilchens von Kugelgestalt.
+</p><!--l. 88--><p class="indent">   2. <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>ist der Drehwinkel, welcher die Lage eines in einer <br/>Flüssigkeit suspendierten, um einen Durchmesser drehbaren <br/>Teilchens von Kugelgestalt bestimmt.
+</p>
+<div class="center" >
+
+<!--l. 94--><p class="noindent">
+</p><!--l. 95--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>1.   Über einen Fall thermodynamischen Gleichgewichtes.</p></div>
+<!--l. 100--><p class="indent">   In einer Umgebung von der absoluten Temperatur <span 
+class="cmmi-12">T </span>be-<br/>finde sich ein physikalisches System, das mit dieser Umgebung <br/>in thermischer Wechselwirkung stehe und im Zustand des Tem-<br/>peraturgleichgewichtes sei. Dies System, das also ebenfalls die <br/>absolute Temperatur <span 
+class="cmmi-12">T </span>besitzt, sei im Sinne der molekularen <br/>Theorie der Wärme vollständig bestimmt<sup ><span 
+class="cmr-8">1</span></sup>) durch die Zustands-<br/>variabeln <span 
+class="cmmi-12">p</span><sub >
+<span 
+class="cmr-8">1</span></sub><span 
+class="cmmi-12">...</span><span 
+class="cmmi-12">p</span><sub ><span 
+class="cmmi-8">n</span></sub> Als Zustandsvariable <span 
+class="cmmi-12">p</span><sub ><span 
+class="cmr-8">1</span></sub><span 
+class="cmmi-12">...</span><span 
+class="cmmi-12">p</span><sub ><span 
+class="cmmi-8">n</span></sub> können in <br/>den zu behandelnden Spezialfallen die Koordinaten und Ge-<br/>schwindigkeitskomponenten aller das betrachtete System bilden-<br/>der Atome gewählt werden.
+</p><!--l. 113--><p class="indent">   Es gilt für die Wahrscheinlichkeit dafür, daß in einem zufällig <br/>herausgegriffenen Zeitpunkt die Zustandsvariabeln <span 
+class="cmmi-12">p</span><sub ><span 
+class="cmr-8">1</span></sub><span 
+class="cmmi-12">...</span><span 
+class="cmmi-12">p</span><sub ><span 
+class="cmmi-8">n</span></sub> in <br/>dem <span 
+class="cmmi-12">n</span>-fach unendlich kleinen Gebiete (<span 
+class="cmmi-12">dp</span><sub ><span 
+class="cmr-8">1</span></sub><span 
+class="cmmi-12">...</span><span 
+class="cmmi-12">dp</span><sub ><span 
+class="cmmi-8">n</span></sub>) liegen, die <br/>Gleichung<sup ><span 
+class="cmr-8">2</span></sup>):
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_020x.png" alt="dw =  C e- NRT Ed p ...dp  ,                  1      n " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+
+<!--l. 123--><p class="nopar">
+</p><!--l. 127--><p class="noindent">wobei <span 
+class="cmmi-12">C </span>eine Konstante, <span 
+class="cmmi-12">R </span>die universelle Konstante der Gas-<br/>gleichung, <span 
+class="cmmi-12">N </span>die Anzahl der wirklichen Moleküle in einem <br/>Grammmolekül und <span 
+class="cmmi-12">E </span>die Energie bedeutet.
+</p><!--l. 132--><p class="noindent">----------
+</p><!--l. 135--><p class="indent">   1) Vgl. Ann. d. Phys. <span 
+class="cmbx-12">17. </span>p. 549. 1905.
+</p><!--l. 137--><p class="indent">   2) l. c. <span 
+class="cmsy-10x-x-120">§ </span>3 und 4. <pb/>
+</p><!--l. 141--><p class="indent">
+
+</p><!--l. 142--><p class="indent">   Es sei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>ein beobachtbarer Parameter des Systems und es <br/>entspreche jedem Wertsystem <span 
+class="cmmi-12">p</span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">...p</span><sub ><span 
+class="cmmi-8">n</span></sub> ein bestimmter Wert <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span><span 
+class="cmti-12">. </span> <br/>Wir bezeichnen mit
+<span 
+class="cmmi-12">Ad<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>die Wahrscheinlichkeit dafür, daß in <br/>einem zufällig herausgegriffenen Zeitpunkt der Wert des Para-<br/>meters <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>zwischen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>+ <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>liege. Es ist dann
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_021x.png" alt="         integral 
+              -N--E A da =    C  e RT  d p1...d pn,        da " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 154--><p class="nopar">
+</p><!--l. 158--><p class="noindent">wenn das Integral der rechten Seite über alle Wertkombi-<br/>nationen der Zustandsvariabeln erstreckt wird, deren <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>-Wert <br/>zwischen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>+ <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>
+liegt.
+</p><!--l. 163--><p class="indent">   Wir beschränken uns auf den Fall, daß aus der Natur <br/>des Problems ohne weiteres klar ist, daß allen (möglichen) <br/>Werten von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>dieselbe Wahrscheinlichkeit (Häufigkeit) zu-<br/>kommt, daß also die Größe <span 
+class="cmmi-12">A </span>von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>unabhängig ist.
+</p><!--l. 169--><p class="indent">   Es liege nun ein zweites physikalisches System vor, das <br/>sich von dem soeben betrachteten einzig darin unterscheide, <br/>daß auf das System eine nur von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>
+abhängige Kraft vom <br/>Potential <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> ( <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>) wirke. Ist <span 
+class="cmmi-12">E </span>die Energie des vorhin betrachteten <br/>Systems, so ist <span 
+class="cmmi-12">E </span>+ <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> die Energie des jetzt betrachteten, so <br/>daß wir die der Gleichung (1) analoge Beziehung erhalten:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_022x.png" alt="    '    ' --N-(E+P) d w  = C  e R T     d p1...d pn. " class="par-math-display"  /></center>
+<!--l. 182--><p class="nopar">
+</p><!--l. 185--><p class="noindent">Hieraus folgt für die Wahrscheinlichkeit <span 
+class="cmmi-12">dW </span>dafür, daß in <br/>einem beliebig herausgegriffenen Zeitpunkt der Wert von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span> <br/>zwischen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>+ <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>liegt, die der Gleichung (2) analoge <br/>Beziehung:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r3"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_023x.png" alt="          integral                               '               ' -RNT (E+P)             C-- - NRT P { d W  =    C  e         d p1...d pn = C  e      A da                                          ' --N-P                                      = A  e RT  d a, " class="math-display"  /></center></td><td width="5%">(I)</td></tr></table>
+<!--l. 199--><p class="nopar">
+</p><!--l. 203--><p class="noindent">wobei <span 
+class="cmmi-12">A</span><span 
+class="cmsy-10x-x-120">' </span>von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>unabhängig ist.
+</p><!--l. 205--><p class="indent">   Diese Beziehung, welche dem von Bolzmann in seinen <br/>gastheoretischen Untersuchungen vielfach benutzten Exponential-<br/>gesetz genau entspricht, ist für die molekulare Theorie der <br/>Wärme charakteristisch. Sie gibt Aufschluß darüber, wieviel <br/>sich ein einer konstanten äußeren Kraft unterworfener Parameter <br/>eines Systems infolge der ungeordneten Molekularbewegung
+ <br/><pb/>
+</p><!--l. 215--><p class="indent">
+
+</p><!--l. 216--><p class="noindent">von dem Werte entfernt, welcher dem stabilen Gleichgewicht <br/>entspricht.
+</p>
+<div class="center" >
+
+<!--l. 220--><p class="noindent">
+</p><!--l. 221--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>2.   Anwendungsbeispiele für die in <span 
+class="cmsy-10x-x-120">§ </span>1 abgeleitete Gleichung.</p></div>
+<!--l. 226--><p class="indent">   Wir betrachten einen Körper, dessen Schwerpunkt sich <br/>längs einer Geraden (<span 
+class="cmmi-12">X</span>-Achse eines Koordinatensystems) be-<br/>wegen kann. Der Körper sei von einem Gase umgeben und <br/>es herrsche thermisches und mechanisches Gleichgewicht. Nach <br/>der Molekulartheorie wird sich der Körper infolge der Un-<br/>gleichheit der Molekularstöße längs der Geraden in unregel-<br/>mäßiger Weise hin und her bewegen, derart, daß bei dieser <br/>Bewegung kein Punkt der Geraden bevorzugt ist -- voraus-<br/>gesetzt, daß auf den Körper in Richtung der Geraden keine <br/>anderen Kräfte wirken als die Stoßkräfte der Moleküle. Die <br/>Abszisse <span 
+class="cmmi-12">x </span>des Schwerpunktes ist also ein Parameter des <br/>Systems, welcher die oben für den Parameter <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>voraus-<br/>gesetzten Eigenschaften besitzt.
+</p><!--l. 242--><p class="indent">   Wir wollen nun eine auf den Körper in Richtung der <br/>Geraden wirkende Kraft
+<span 
+class="cmmi-12">K </span>= <span 
+class="cmsy-10x-x-120">-</span><span 
+class="cmmi-12">M x </span>einführen. Dann wird <br/>der Schwerpunkt des Körpers nach der Molekulartheorie <br/>ebenfalls ungeordnete Bewegungen ausführen, ohne sich jedoch
+ <br/>viel vom Punkte <span 
+class="cmmi-12">x </span>= 0 zu entfernen, während er nach der <br/>klassischen Thermodynamik im Punkte <span 
+class="cmmi-12">x </span>= 0 ruhen müßte. <br/>Nach der Molekulartheorie ist (Formel I)
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_024x.png" alt="                  2 dW  =  A'e- NRT-M x2-dx, " class="par-math-display"  /></center>
+<!--l. 254--><p class="nopar">
+</p><!--l. 258--><p class="noindent">gleich der Wahrscheinlichkeit dafür, daß in einem zufällig ge-<br/>gewählten Zeitpunkt der Wert der Abszisse <span 
+class="cmmi-12">x </span>zwischen <span 
+class="cmmi-12">x </span>und <br/><span 
+class="cmmi-12">x </span>+ <span 
+class="cmmi-12">dx </span>liegt. Hieraus findet man den mittleren Abstand des <br/>Schwerpunktes vom Punkte <span 
+class="cmmi-12">x </span>= 0:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_025x.png" alt="         +  oo 
+          integral          N--Mx2-             x2 A'e- RT  2 d x    V~ ------  V~  ---  -  oo                         R T    x2 =  -+- oo ----------------=    ----- .            integral        N-Mx2-          N  M              A'e - RT  2 dx          -  oo 
+" class="par-math-display"  /></center>
+
+<!--l. 272--><p class="nopar">
+</p><!--l. 276--><p class="indent">   Damit <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_026x.png" alt=" V~  ---    x2"  class="sqrt"  /> genügend groß sei, um der Beobachtung zu-<br/>gänglich zu sein, muß die die Gleichgewichtslage des Körpers <br/><pb/>
+</p><!--l. 281--><p class="indent">
+
+</p><!--l. 282--><p class="noindent">bestimmende Kraft sehr klein sein. Setzen wir als untere <br/>Grenze des Beobachtbaren
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_027x.png" alt=" V~  ---    x2"  class="sqrt"  /> = 10<sup ><span 
+class="cmsy-8">-</span><span 
+class="cmr-8">4</span></sup> cm, so erhalten wir <br/>für <span 
+class="cmmi-12">T </span>= 300  <span 
+class="cmmi-12">M </span>= ca. 5 <span 
+class="cmmi-12">. </span>10<sup ><span 
+class="cmsy-8">-</span><span 
+class="cmr-8">6</span></sup><span 
+class="cmmi-12">. </span>Damit der Körper mit dem <br/>Mikroskop beobachtbare Schwankungen ausführe, darf also die <br/>auf ihn wirkende Kraft bei einer Elongation von 1 cm nicht <br/>mehr als 5 milliontel Dyn betragen.
+</p><!--l. 291--><p class="indent">   Wir wollen noch eine theoretische Bemerkung an die ab-<br/>geleitete Gleichung anknüpfen. Der betrachtete Körper trage <br/>eine über einen sehr kleinen Raum verteilte elektrische Ladung <br/>und es sei das den Körper umgebende Gas so verdünnt, daß <br/>der Körper eine durch das umgebende Gas nur schwach modi-<br/>fizierte Sinusschwingung ausführe. Der Körper strahlt dann <br/>elektrische Wellen in den Raum aus und empfängt Energie <br/>aus der Strahlung des umliegenden Raumes; er vermittelt also <br/>einen Energieaustausch zwischen Strahlung und Gas. Wir ge-<br/>langen zu einer Ableitung des Grenzgesetzes der Temperatur-<br/>strahlung, welches für große Wellenlängen und für hohe <br/>Temperaturen zu gelten scheint, indem wir die Bedingung <br/>dafür aufstellen, daß der betrachtete Körper im Durchschnitt
+ <br/>ebensoviel Strahlung emittiert als absorbiert. Man gelangt <br/>so<sup ><span 
+class="cmr-8">1</span></sup>) zu der folgenden Formel für die der Schwingungszahl <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span> <br/>entsprechende Strahlungsdichte
+<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /></span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub>:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_028x.png" alt="            2 r  = -R-8p-n--T,  n   N   L3 " class="par-math-display"  /></center>
+<!--l. 314--><p class="nopar">
+</p><!--l. 318--><p class="noindent">wobei <span 
+class="cmmi-12">L </span>die Lichtgeschwindigkeit bedeutet.
+</p><!--l. 321--><p class="indent">   Die von Hrn. Planck gegebene Strahlungsformel<sup ><span 
+class="cmr-8">2</span></sup>) geht <br/>für kleine Periodenzahlen und hohe Temperaturen in diese <br/>Formel über. Aus dem Koeffizienten des Grenzgesetzes läßt <br/>sich die Größe <span 
+class="cmmi-12">N </span>bestimmen, und man erhält so die Planck-<br/>sche Bestimmung der Elementarquanta. Die Tatsache, daß man
+ <br/>auf dem angedeuteten Wege nicht zu dem wahren Gesetz der <br/>Strahlung, sondern nur zu einem Grenzgesetz gelangt, scheint <br/>mir in einer elementaren Unvollkommenheit unserer physi-<br/>kalischen Anschauungen ihren Grund zu haben.
+</p><!--l. 333--><p class="indent">   Wir wollen nun die Formel (I) noch dazu verwenden, zu <br/>entscheiden, wie klein ein suspendiertes Teilchen sein muß, <br/>----------
+</p><!--l. 338--><p class="indent">   1) Vgl. Ann. d. Phys. <span 
+class="cmbx-12">17. </span>p. 549. 1905. <span 
+class="cmsy-10x-x-120">§ </span>1 und 2.
+</p><!--l. 340--><p class="indent">   2) M. Planck, Ann. d. Phys. <span 
+class="cmbx-12">1. </span>p. 99. 1900. <pb/>
+</p><!--l. 344--><p class="indent">
+
+</p><!--l. 345--><p class="noindent">damit es trotz der Wirkung der Schwere dauernd suspendiert <br/>bleibe. Wir können uns dabei auf den Fall beschränken, daß <br/>das Teilchen spezifisch schwerer ist als die Flüssigkeit, da der <br/>entgegengesetzte Fall vollkommen analog ist.
+</p><!--l. 351--><p class="indent">   Ist <span 
+class="cmmi-12">v </span>das Volumen des Teilchens, <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /> </span>dessen Dichte, <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /></span><sub ><span 
+class="cmr-8">0</span></sub> die <br/>Dichte der Flüssigkeit,
+<span 
+class="cmmi-12">g </span>die Beschleunigung der Schwere und <br/><span 
+class="cmmi-12">x </span>der vertikale Abstand eines Punktes vom Boden des Ge-<br/>fäßes, so ergibt Gleichung (I)
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_029x.png" alt="              -RNT-v(r-r0)gx dW  =  konst.e             dx. " class="par-math-display"  /></center>
+<!--l. 361--><p class="nopar">
+</p><!--l. 364--><p class="noindent">Man wird also dann finden, daß suspendierte Teilchen in <br/>einer Flüssigkeit zu schweben vermögen, wenn für Werte <br/>von <span 
+class="cmmi-12">x</span>, die nicht wegen ihrer Kleinheit sich der Beobachtung <br/>entziehen, die Größe
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0210x.png" alt="-R--- N T v (r-  r0)gx " class="par-math-display"  /></center>
+<!--l. 373--><p class="nopar">
+</p><!--l. 377--><p class="noindent">keinen allzu großen Wert besitzt -- vorausgesetzt, daß an den <br/>Gefäßboden gelangende Teilchen nicht durch irgendwelche Um-<br/>stände an demselben festgehalten werden.
+</p>
+<div class="center" >
+
+<!--l. 383--><p class="noindent">
+</p><!--l. 384--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>3.   Über die von der Wärmebewegung verursachten <br/>Veränderungen des Parameters <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" />.</span></p></div>
+<!--l. 389--><p class="indent">   Wir kehren wieder zu dem in <span 
+class="cmsy-10x-x-120">§ </span>1 behandelten allgemeinen <br/>Falle zurück, für den wir Gleichung (I) abgeleitet haben. Der <br/>einfacheren Ausdrucksweise und Vorstellung halber wollen wir <br/>aber nun annehmen, daß eine sehr große Zahl (<span 
+class="cmmi-12">n</span>) identischer <br/>Systeme von der dort charakterisierten Art vorliege; wir haben <br/>es dann mit Anzahlen statt mit Wahrscheinlichkeiten zu tun. <br/>Gleichung (I) sagt dann aus:
+</p><!--l. 398--><p class="indent">   Von <span 
+class="cmmi-12">N </span>Systemen liegt bei</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-5r3"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0211x.png" alt="         -RNT-P dn =  f e     d a = F (a)d a " class="math-display"  /></center></td><td width="5%">(Ia)</td></tr></table>
+<!--l. 404--><p class="nopar">
+</p><!--l. 407--><p class="noindent">Systemen der Wert des Parameters <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>in einem zufällig heraus-<br/>gegriffenen Zeitpunkt zwischen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>+ <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" />.</span>
+</p><!--l. 411--><p class="indent">   Diese Beziehung wollen wir dazu benutzen, die Größe der <br/>durch die ungeordneten Wärmevorgänge erzeugten unregel-<br/>mäßigen Veränderungen des Parameters <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>zu ermitteln. Zu <br/>diesem Zweck drücken wir in Zeichen aus, daß die Funktion <span 
+class="cmmi-12">F <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>) <br/><pb/>
+</p><!--l. 419--><p class="indent">
+
+</p><!--l. 420--><p class="noindent">sich unter der vereinten Wirkung der dem Potential <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> ent-<br/>sprechenden Kraft und des ungeordneten Wärmeprozesses sich <br/>innerhalb der Zeitspanne <span 
+class="cmmi-12">t </span>nicht ändert; <span 
+class="cmmi-12">t</span>
+bedeute hierbei eine <br/>so kleine Zeit, daß die zugehörigen Änderungen der Größen
+<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span> <br/>der einzelnen Systeme als unendlich kleine Argumentänderungen <br/>der Funktion <span 
+class="cmmi-12">F</span>
+(<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>) betrachtet werden können.
+</p><!--l. 430--><p class="indent">   Trägt man auf einer Geraden von einem bestimmten Null-<br/>punkte aus den Größen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>numerisch gleiche Strecken ab, so <br/>entspricht jedem System ein Punkt (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>) auf dieser Geraden. <br/><span 
+class="cmmi-12">F</span>(<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>) ist die Lagerungsdichte der Systempunkte (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>) auf der <br/>Geraden. Durch einen beliebigen Punkt (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span><sub ><span 
+class="cmr-8">0</span></sub>) der Geraden <br/>müssen nun während der Zeit <span 
+class="cmmi-12">t </span>genau soviele Systempunkte <br/>in dem einen Sinne hindurchwandern, wie in dem anderen <br/>Sinne.
+</p><!--l. 440--><p class="indent">   Die dem Potential <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> entsprechende Kraft bewirke eine <br/>Änderung von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>von der Größe
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0212x.png" alt="          @ P D1  = - B ----t,           @ a " class="par-math-display"  /></center>
+<!--l. 448--><p class="nopar">
+</p><!--l. 452--><p class="noindent">wobei <span 
+class="cmmi-12">B </span>von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>unabhängig sei, d. h. die Änderungsgeschwindig-<br/>keit von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>sei proportional der wirkenden Kraft und unabhängig <br/>vom Werte des Parameters. Den Faktor <span 
+class="cmmi-12">B </span>nennen wir die <br/>,,Beweglichkeit des Systems in bezug auf
+<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>&#8220;.
+</p><!--l. 458--><p class="indent">   Würde also die äußere Kraft wirken, ohne daß der un-<br/>regelmäßige molekulare Wärmeprozeß die Größen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>änderte, <br/>so gingen durch den Punkt (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span><sub ><span 
+class="cmr-8">0</span></sub>) während der Zeit <span 
+class="cmmi-12">t</span>
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0213x.png" alt="       (     ) n  = B   @-P-      .t.F (a )  1       @ a  a=a         0                   0 " class="par-math-display"  /></center>
+<!--l. 468--><p class="nopar">
+</p><!--l. 471--><p class="noindent">Systempunkte nach der negativen Seite hindurch.
+</p><!--l. 474--><p class="indent">   Es sei ferner die Wahrscheinlichkeit dafür, daß der Para-<br/>meter <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>eines Systems infolge des ungeordneten Wärmeprozesses <br/>innerhalb der Zeit <span 
+class="cmmi-12">t</span>
+eine Änderung erfahre, deren Wert zwischen <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> <br/>und <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> + <span 
+class="cmmi-12">d </span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> liegt, gleich
+<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-20.png" alt="y" class="12x-x-20" /></span>(<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" />)<span 
+class="cmmi-12">, </span>wobei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-20.png" alt="y" class="12x-x-20" /></span>(<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" />) = <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-20.png" alt="y" class="12x-x-20" /></span>(<span 
+class="cmsy-10x-x-120">-</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" />) und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-20.png" alt="y" class="12x-x-20" /></span> <br/>von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>unabhängig sei. Die Anzahl der infolge des ungeord-<br/>neten Wärmeprozesses durch den Punkt (<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span><sub ><span 
+class="cmr-8">0</span></sub>) während der <br/>Zeit <span 
+class="cmmi-12">t </span>nach der positiven Seite hin wandernden Systempunkte <br/>ist dann:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0214x.png" alt="      D = oo 
+        integral 
+n2 =       F(a0 - D)  x(D) d D ,      D = 0 " class="par-math-display"  /></center>
+<!--l. 491--><p class="nopar"> <pb/>
+</p><!--l. 498--><p class="indent">
+
+</p><!--l. 499--><p class="noindent">wenn
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0215x.png" alt=" integral  oo 
+   y(D) d D =  x(D) 
+D " class="par-math-display"  /></center>
+<!--l. 506--><p class="nopar">
+</p><!--l. 510--><p class="noindent">gesetzt wird. Die Anzahl der nach der negativen Seite infolge <br/>des ungeordneten Wärmeprozesses wandernden Systempunkte ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0216x.png" alt="      integral  oo 
+n3 =   F (a0 + D) x (D) d D . 
+     D " class="par-math-display"  /></center>
+<!--l. 518--><p class="nopar">
+</p><!--l. 522--><p class="indent">   Der mathematische Ausdruck für die Unveränderlichkeit <br/>der Funktion <span 
+class="cmmi-12">F </span>ist also:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0217x.png" alt="- n1 + n2 - n3 = 0 . " class="par-math-display"  /></center>
+<!--l. 528--><p class="nopar">
+</p><!--l. 531--><p class="noindent">Setzt man die für <span 
+class="cmmi-12">n</span><sub ><span 
+class="cmr-8">1</span></sub>, <span 
+class="cmmi-12">n</span><sub ><span 
+class="cmr-8">2</span></sub>, <span 
+class="cmmi-12">n</span><sub ><span 
+class="cmr-8">3</span></sub> gefundenen Ausdrücke ein und <br/>berücksichtigt, daß <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" />
+unendlich klein ist bez. daß <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-20.png" alt="y" class="12x-x-20" /></span>(<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" />) nur <br/>für unendlich kleine Werte von <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> von 0 verschieden ist, so <br/>erhält man hieraus nach einfacher Rechnung:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0218x.png" alt="  (     )                       --- B   @-P-      F (a0)t + 1F '(a0)D2  = 0.     @ a  a=a0           2 " class="par-math-display"  /></center>
+<!--l. 544--><p class="nopar">
+</p><!--l. 547--><p class="noindent">Hierbei bedeutet
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0219x.png" alt="       integral + oo 
+  2        2 D   =    D  y (D) d D       - oo 
+" class="par-math-display"  /></center>
+<!--l. 554--><p class="nopar">
+</p><!--l. 558--><p class="noindent">den Mittelwert der Quadrate der durch den unregelmäßigen <br/>Wärmeprozeß während der Zeit <span 
+class="cmmi-12">t </span>hervorgerufenen Änderungen <br/>der Größen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>Aus dieser Beziehung erhält man unter Be-<br/>rücksichtigung von Gleichung (Ia):
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-6r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0220x.png" alt="          V~ -----  V~  --2-     2R--  V~ ------    D   =    N   .  B T t . " class="math-display"  /></center></td><td width="5%">(II)</td></tr></table>
+<!--l. 568--><p class="nopar">
+</p><!--l. 571--><p class="noindent">Hierbei bedeutet <span 
+class="cmmi-12">R </span>die Konstante der Gasgleichung (8,31.10<sup ><span 
+class="cmr-8">7</span></sup>), <br/><span 
+class="cmmi-12">N </span>die Anzahl der wirklichen Moleküle in einem Grammolekül <br/>(ca. 4. 10<sup ><span 
+class="cmr-8">23</span></sup>), <span 
+class="cmmi-12">B </span>die ,,Beweglichkeit des Systems in bezug auf <br/>den Parameter <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /></span>&#8220;, <span 
+class="cmmi-12">T </span>die absolute Temperatur, <span 
+class="cmmi-12">t </span>die Zeit,
+ <br/>innerhalb welcher die durch den ungeordneten Wärmeprozeß <br/>hervorgerufenen Änderungen von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>stattfinden.
+</p>
+<div class="center" >
+
+<!--l. 582--><p class="noindent">
+</p><!--l. 583--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>4.   Anwendung der abgeleiteten Gleichung auf die <br/>Brownsche Bewegung.</p></div>
+<!--l. 588--><p class="indent">   Wir berechnen nun mit Hilfe der Gleichungen (II) zu-<br/>nächst die mittlere Verschiebung, die ein kugelförmiger, in <br/><pb/>
+</p><!--l. 593--><p class="indent">
+
+</p><!--l. 594--><p class="noindent">einer Flüssigkeit suspendierter Körper während der Zeit <span 
+class="cmmi-12">t </span>in <br/>einer bestimmten Richtung (<span 
+class="cmmi-12">X</span>-Richtung eines Koordinaten-<br/>systems) erleidet. Zu diesem Zweck haben wir in jene Glei-<br/>chung den entsprechenden Wert für <span 
+class="cmmi-12">B</span>
+einzusetzen.
+</p><!--l. 600--><p class="indent">   Wirkt auf eine Kugel vom Radius <span 
+class="cmmi-12">P</span>, die in einer Flüssig-<br/>keit vom Reibungskoeffizienten <span 
+class="cmmi-12">k </span>suspendiert ist, eine Kraft <span 
+class="cmmi-12">K</span>, <br/>so bewegt sie sich mit der Geschwindigkeit<sup ><span 
+class="cmr-8">1</span></sup>) <span 
+class="cmmi-12">K/</span>6 <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-19.png" alt="p" class="12x-x-19" /> k P. </span>Es ist <br/>also zu setzen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0221x.png" alt="B =  --1----,      6p kP " class="par-math-display"  /></center>
+<!--l. 609--><p class="nopar">
+</p><!--l. 613--><p class="noindent">so daß man -- in Übereinstimmung mit der oben zitierten <br/>Arbeit -- für die mittlere Verschiebung der suspendierten <br/>Kugel in Richtung der X-Achse den Wert erhält:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0222x.png" alt=" V~ ----      V~ ------------   --2    V~ -   R-T----1---   D x =   t    N  3 pk P  . " class="par-math-display"  /></center>
+<!--l. 622--><p class="nopar">
+</p><!--l. 626--><p class="indent">   Wir behandeln zweitens den Fall, daß die betrachtete <br/>Kugel in der Flüssigkeit um einen ihrer Durchmesser (ohne <br/>Lagerreibung) frei drehbar gelagert sei und fragen nach der <br/>mittleren Drehung <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0223x.png" alt=" V~ ----   D2r"  class="sqrt"  /> der Kugel während der Zeit <span 
+class="cmmi-12">t </span>infolge <br/>des ungeordneten Wärmeprozesses.
+</p><!--l. 633--><p class="indent">   Wirkt auf eine Kugel vom Radius <span 
+class="cmmi-12">P</span>, die in einer Flüssig-<br/>keit vom Reibungskoeffizienten <span 
+class="cmmi-12">k </span>drehbar gelagert ist, das <br/>Drehmoment <span 
+class="cmmi-12">D</span>, so dreht sie sich mit der Winkelgeschwindigkeit<sup ><span 
+class="cmr-8">1</span></sup>)
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0224x.png" alt="        D y =  --------.      8 pk P 3 " class="par-math-display"  /></center>
+<!--l. 641--><p class="nopar">
+</p><!--l. 644--><p class="noindent">Es ist also zu setzen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0225x.png" alt="     ---1---- B  = 8 pk P 3 . " class="par-math-display"  /></center>
+
+<!--l. 650--><p class="nopar">
+</p><!--l. 653--><p class="noindent">Man erhält also:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0226x.png" alt="             V~ -------------  V~ ----    V~     R T    1    D2r =  t    ----------3-.                N   4p k P " class="par-math-display"  /></center>
+<!--l. 660--><p class="nopar">
+</p><!--l. 664--><p class="indent">   Die durch die Molekularbewegung erzeugte Drehbewegung <br/>sinkt also mit wachsendem <span 
+class="cmmi-12">P </span>viel rascher als die fortschreitende <br/>Bewegung.
+</p><!--l. 668--><p class="indent">   Für <span 
+class="cmmi-12">P </span>= 0<span 
+class="cmmi-12">, </span>5 mm und Wasser von 17<sup > <span 
+class="cmr-8">0</span></sup> liefert die Formel <br/>für den im Mittel in einer Sekunde zurückgelegten Winkel <br/>etwa 11 Bogensekunden, in der Stunde ca. 11 Bogenminuten. <br/>----------
+</p><!--l. 674--><p class="indent">   1) Vgl. G. Kirchhoff. Vorles. über Mechanik. 26. Vorl. <pb/>
+</p><!--l. 679--><p class="indent">
+
+</p><!--l. 680--><p class="noindent">Für <span 
+class="cmmi-12">P </span>= 0<span 
+class="cmmi-12">, </span>5 Mikron und Wasser von 17<sup > <span 
+class="cmr-8">0</span></sup> erhält man für <br/><span 
+class="cmmi-12">t </span>= 1 Sekunde ca. 100 Winkelgrade.
+</p><!--l. 684--><p class="indent">   Bei einem frei schwebenden suspendierten Teilchen finden <br/>drei voneinander unabhängige derartige Drehbewegungen statt.
+</p><!--l. 688--><p class="indent">   Die für <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0227x.png" alt=" V~ ---2    D"  class="sqrt"  /> entwickelte Formel ließe sich noch auf andere <br/>Fälle anwenden. Setzt man z. B. für <span 
+class="cmmi-12">B </span>den reziproken elek-<br/>trischen Widerstand eines geschlossenen Stromkreises ein, so <br/>gibt sie an, wieviel Elektrizität im Durchschnitt während der <br/>Zeit <span 
+class="cmmi-12">t </span>durch irgend einen Leiterquerschnitt geht, welche Be-<br/>ziehung abermals mit dem Grenzgesetz der Strahlung des <br/>schwarzen Körpers für große Wellenlängen und hohe Tem-<br/>peraturen zusammenhängt. Da ich jedoch keine durch das <br/>Experiment kontrollierbare Konsequenz mehr habe auffinden <br/>können, scheint mir die Behandlung weiterer Spezialfälle unnütz.
+</p>
+<div class="center" >
+
+<!--l. 703--><p class="noindent">
+</p><!--l. 704--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>5.   Über die Gültigkeitsgrenze der Formel für<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0228x.png" alt=" V~ ----    D2"  class="sqrt"  />.</p></div>
+<!--l. 709--><p class="indent">   Es ist klar, daß die Formel (II) nicht für beliebig kleine <br/>Zeiten gültig sein kann. Die mittlere Veränderungsgeschwindig-<br/>keit von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>infolge des Wärmeprozesses
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0229x.png" alt=" V~ ----    V~ --------- ---D2-=    2-R-T-B- .1 V~ ---   t           N        t " class="par-math-display"  /></center>
+<!--l. 719--><p class="nopar">
+</p><!--l. 723--><p class="noindent">wird nämlich für unendlich kleine Zeitdauer <span 
+class="cmmi-12">t </span>unendlich groß, <br/>was offenbar unmöglich ist, denn es müßte sich ja sonst jeder <br/>suspendierte Körper mit unendlich großer Momentangeschwindig-<br/>keit bewegen. Der Grund liegt daran, daß wir in unserer <br/>Entwickelung implizite angenommen haben, daß der Vorgang
+ <br/>während der Zeit <span 
+class="cmmi-12">t </span>als von dem Vorgange in den unmittelbar <br/>vorangehenden Zeiten unabhängiges Ereignis aufzufassen sei. <br/>Diese Annahme trifft aber um so weniger zu, je kleiner die <br/>Zeiten <span 
+class="cmmi-12">t </span>gewählt werden. Wäre nämlich zur Zeit
+<span 
+class="cmmi-12">z </span>= 0
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0230x.png" alt="da- d t = b0 " class="par-math-display"  /></center>
+<!--l. 739--><p class="nopar">
+
+</p><!--l. 743--><p class="noindent">der Momentanwert der Änderungsgeschwindigkeit, und würde <br/>die Änderungsgeschwindigkeit <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-c.png" alt="b" class="cmmi-12x-x-c" align="middle" /> </span>in einem gewissen darauf <br/>folgenden Zeitintervall durch den ungeordneten thermischen <br/>Prozeß nicht beeinflußt, sondern die Änderung von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-c.png" alt="b" class="cmmi-12x-x-c" align="middle" /> </span>lediglich <br/><pb/>
+</p><!--l. 751--><p class="indent">
+
+</p><!--l. 752--><p class="noindent">durch den passiven Widerstand (1/<span 
+class="cmmi-12">B</span>) bestimmt, so würde <br/>für <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-c.png" alt="b" class="cmmi-12x-x-c" align="middle" /> /dz </span>die Beziehung gelten:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0231x.png" alt="    d b    b - m --- =  --.     d z    B " class="par-math-display"  /></center>
+<!--l. 759--><p class="nopar">
+</p><!--l. 762--><p class="noindent"><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" /> </span>ist hierbei durch die Festsetzung definiert, daß <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" /> </span>(<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-c.png" alt="b" class="cmmi-12x-x-c" align="middle" /></span><sup ><span 
+class="cmr-8">2</span></sup><span 
+class="cmmi-12">/</span>2) die <br/>der Änderungsgeschwindigkeit <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-c.png" alt="b" class="cmmi-12x-x-c" align="middle" /> </span>entsprechende Energie sein <br/>soll. In dem Falle der Translationsbewegung der suspendierten <br/>Kugel wäre also z. B. <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" /> </span>(<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-c.png" alt="b" class="cmmi-12x-x-c" align="middle" /></span><sup ><span 
+class="cmr-8">2</span></sup> <span 
+class="cmmi-12">/</span>2) die kinetische Energie der Kugel <br/>samt der kinetischen Energie der mitbewegten Flüssigkeit. <br/>Durch Integration folgt:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/Einst_Zurth_de_1906_0232x.png" alt="         -z- b = b0e- mB . " class="par-math-display"  /></center>
+<!--l. 774--><p class="nopar">
+</p><!--l. 778--><p class="indent">   Aus diesem Resultat folgert man, daß die Formel (II) nur <br/>für Zeitintervalle gilt, welche groß sind gegen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" />B</span>.
+</p><!--l. 782--><p class="indent">   Für Körperchen von 1 Mikron Durchmesser und von der <br/>Dichte <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Zurth_de_1906_02/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /> </span>= 1 in Wasser von Zimmertemperatur ist die untere <br/>Grenze der Gültigkeit der Formel (II) ca. 10<sup ><span 
+class="cmsy-8">-</span><span 
+class="cmr-8">7</span></sup> Sekunden; <br/>diese untere Grenze für die Zeitintervalle wächst proportional <br/>dem Quadrat des Radius des Körperchens. Beides gilt sowohl <br/>für die fortschreitende wie für die Rotationsbewegung der
+ <br/>Teilchen.
+</p><!--l. 792--><p class="indent">   Bern, Dezember 1905.
+</p>
+<div class="center" >
+
+<!--l. 795--><p class="noindent">
+</p><!--l. 796--><p class="noindent">(Eingegangen 19. Dezember 1905.)</p></div>
+<div class="center" >
+
+<!--l. 801--><p class="noindent">
+</p><!--l. 802--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

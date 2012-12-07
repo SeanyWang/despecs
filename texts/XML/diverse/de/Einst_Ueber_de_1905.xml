@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Ueber_de_1905.tex" /> 
+<meta name="date" content="2005-03-10 17:33:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Ueber_de_1905.css" /> 
+</head><body >
+
+<!--l. 13--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 14--><p class="noindent">
+</p><!--l. 15--><p class="noindent"><span 
+class="cmr-12x-x-120">5.</span><span 
+class="cmbxti-10x-x-144">Über die von der molekularkinetischen Theorie </span> <br/><span 
+class="cmbxti-10x-x-144">der</span>
+<span 
+class="cmbxti-10x-x-144">W</span><span 
+class="cmbxti-10x-x-144">ärme geforderte Bewegung von in ruhenden</span>
+ <br/><span 
+class="cmbxti-10x-x-144">Fl</span><span 
+class="cmbxti-10x-x-144">üssigkeiten suspendierten Teilchen; </span> <br/><span 
+class="cmbxti-10x-x-144">von A.</span>
+<span 
+class="cmbxti-10x-x-144">Einstein.</span></p></div>
+<div class="center" >
+
+<!--l. 21--><p class="noindent">
+</p><!--l. 22--><p class="noindent">--------</p></div>
+<!--l. 26--><p class="indent">   In dieser Arbeit soll gezeigt werden, daß nach der molekular-<br/>kinetischen Theorie der Wärme in Flüssigkeiten suspendierte <br/>Körper von mikroskopisch sichtbarer Größe infolge der Mole-<br/>kularbewegung der Wärme Bewegungen von solcher Größe <br/>ausführen müssen, daß diese Bewegungen leicht mit dem <br/>Mikroskop nachgewiesen werden können. Es ist möglich, daß <br/>die hier zu behandelnden Bewegungen mit der sogenannten <br/>,,Brown schen Molekularbewegung&#8220; identisch sind; die mir <br/>erreichbaren Angaben über letztere sind jedoch so ungenau, <br/>daß ich mir hierüber kein Urteil bilden konnte.
+</p><!--l. 39--><p class="indent">   Wenn sich die hier zu behandelnde Bewegung samt den <br/>für sie zu erwartenden Gesetzmäßigkeiten wirklich beobachten <br/>läßt, so ist die klassische Thermodynamik schon für mikro-<br/>skopisch unterscheidbare Räume nicht mehr als genau gültig
+ <br/>anzusehen und es ist dann eine exakte Bestimmung der wahren <br/>Atomgröße möglich. Erwiese sich umgekehrt die Voraussage <br/>dieser Bewegung als unzutreffend, so wäre damit ein schwer-<br/>wiegendes Argument gegen die molekularkinetische Auffassung <br/>der Wärme gegeben.
+</p>
+<div class="center" >
+
+<!--l. 52--><p class="noindent">
+</p><!--l. 53--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>1.   Über den suspendierten Teilchen zuzuschreibenden <br/>osmotischen Druck.</p></div>
+<!--l. 58--><p class="indent">   Im Teilvolumen <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmsy-8">*</span></sup> einer Flüssigkeit vom Gesamtvolumen <span 
+class="cmmi-12">V </span> <br/>seien
+<span 
+class="cmmi-12">z</span>-Gramm - Moleküle eines Nichtelektrolyten gelöst. Ist <br/>das Volumen <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmsy-8">*</span></sup> durch eine für das Lösungsmittel, nicht aber <br/>für die gelöste Substanz durchlässige Wand vom reinen Lösungs-<br/><pb/>
+</p><!--l. 66--><p class="indent">
+
+</p><!--l. 67--><p class="noindent">mittel getrennt, so wirkt auf diese Wand der sogenannte os-<br/>motische Druck, welcher bei genügend großen Werten von <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmsy-8">*</span></sup>/<span 
+class="cmmi-12">z </span> <br/>der Gleichung genügt:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_19050x.png" alt="p V * = R T z . " class="par-math-display"  /></center>
+<!--l. 75--><p class="nopar">
+</p><!--l. 79--><p class="indent">   Sind hingegen statt der gelösten Substanz in dem Teil-<br/>volumen <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmsy-8">*</span></sup> der Flüssigkeit kleine suspendierte Körper vor-<br/>handen, welche ebenfalls nicht durch die für das Lösungs-<br/>mittel durchlässige Wand hindurchtreten können, so hat man <br/>nach der klassischen Theorie der Thermodynamik -- wenigstens <br/>bei Vernachlässigung der uns hier nicht interessierenden Schwer-<br/>kraft -- nicht zu erwarten, daß auf die Wand eine Kraft <br/>wirke; denn die ,,freie Energie&#8220; des Systems scheint nach der <br/>üblichen Auffassung nicht von der Lage der Wand und der <br/>suspendierten Körper abzuhängen, sondern nur von den Ge-<br/>samtmassen und Qualitäten der suspendierten Substanz, der <br/>Flüssigkeit und der Wand, sowie von Druck und Temperatur. <br/>Es kämen allerdings für die Berechnung der freien Energie <br/>noch Energie und Entropie der Grenzflächen in Betracht
+ <br/>(Kapillarkräfte); hiervon können wir jedoch absehen, indem <br/>bei den ins Auge zu fassenden Lagenänderungen der Wand <br/>und der suspendierten Körper Änderungen der Größe und <br/>Beschaffenheit der Berührungsflächen nicht eintreten mögen.
+</p><!--l. 102--><p class="indent">   Vom Standpunkte der molekularkinetischen Wärmetheorie <br/>aus kommt man aber zu einer anderen Auffassung. Nach <br/>dieser Theorie unterscheidet sich eingelöstes Molekül von einem <br/>suspendierten Körper <span 
+class="cmti-12">lediglich </span>durch die Größe, und man sieht <br/>nicht ein, warum einer Anzahl suspendierter Körper nicht der-<br/>selbe osmotische Druck entsprechen sollte, wie der nämlichen <br/>Anzahl gelöster Moleküle. Man wird anzunehmen haben, daß <br/>die suspendierten Körper infolge der Molekularbewegung der <br/>Flüssigkeit eine wenn auch sehr langsame ungeordnete Be-<br/>wegung in der Flüssigkeit ausführen; werden sie durch die <br/>Wand verhindert, das Volumen <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmsy-8">*</span></sup> zu verlassen, so werden sie
+ <br/>auf die Wand Kräfte ausüben, ebenso wie gelöste Moleküle. <br/>Sind also <span 
+class="cmmi-12">n</span>
+suspendierte Körper im Volumen <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmsy-8">*</span></sup>, also <span 
+class="cmmi-12">n/V</span> <sup ><span 
+class="cmsy-8">*</span></sup> = <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span> <br/>in der Volumeneinheit vorhanden, und sind benachbarte unter <br/>ihnen genügend weit voneinander entfernt, so wird ihnen ein <br/>osmotischer Druck <span 
+class="cmmi-12">p </span>entsprechen von der Größe:
+<pb/>
+</p><!--l. 125--><p class="indent">
+
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_19051x.png" alt="    R  T n    R  T p = -V-*-N--= -N---.n , " class="par-math-display"  /></center>
+<!--l. 130--><p class="nopar">
+</p><!--l. 134--><p class="noindent">wobei <span 
+class="cmmi-12">N </span>die Anzahl der in einem Gramm-Molekül enthaltenen <br/>wirklichen Moleküle bedeutet. Im nächsten Paragraph soll <br/>gezeigt werden, daß die molekularkinetische Theorie der Wärme <br/>wirklich zu dieser erweiterten Auffassung des osmotischen <br/>Druckes führt.
+</p>
+<div class="center" >
+
+<!--l. 143--><p class="noindent">
+</p><!--l. 144--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>2.   Der osmotische Druck vom Standpunkte der molekular-<br/>kinetischen Theorie der Wärme.<sup ><span 
+class="cmr-8">1</span></sup>)</p></div>
+<!--l. 149--><p class="indent">   Sind <span 
+class="cmmi-12">p</span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">p</span><sub ><span 
+class="cmr-8">2</span></sub><span 
+class="cmmi-12">...</span><span 
+class="cmmi-12">p</span><sub ><span 
+class="cmmi-8">l</span></sub> Zustandsvariable eines physikalischen <br/>Systems, welche den momentanen Zustand desselben voll-<br/>kommen bestimmen (z. B. die Koordinaten und Geschwindig-<br/>keitskomponenten aller Atome des Systems) und ist das voll-<br/>ständige System der Veränderungsgleichungen dieser Zustands-<br/>variabeln von der Form
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_19052x.png" alt="@ pn @ t =  fn (p1 ...pl)(n = 1, 2 ...l) " class="par-math-display"  /></center>
+<!--l. 161--><p class="nopar">
+</p><!--l. 165--><p class="noindent">gegeben, wobei <span 
+class="cmex-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmex10-c-50.png" alt=" sum " class="10-120x-x-50" /></span>
+  <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_19053x.png" alt="@ fn @-p--    n"  class="frac" align="middle" /> = 0<span 
+class="cmmi-12">, </span>so ist die Entropie des Systems <br/>durch den Ausdruck gegeben:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_19054x.png" alt="                 integral 
+     E-             ---E-- S =  T  + 2 x lg   e 2x  T d p1... d pl. " class="par-math-display"  /></center>
+<!--l. 174--><p class="nopar">
+</p><!--l. 177--><p class="noindent">Hierbei bedeutet <span 
+class="cmmi-12">T </span>die absolute Temperatur, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_19055x.png" alt="E"  class="bar"  /> die Energie <br/>des Systems, <span 
+class="cmmi-12">E </span>die Energie als Funktion der <span 
+class="cmmi-12">p</span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub><span 
+class="cmmi-12">. </span>Das Inte-<br/>gral ist über alle mit den Bedingungen des Problems ver-<br/>einbaren Wertekombinationen der <span 
+class="cmmi-12">p</span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub><span 
+class="cmmi-12">. </span>zu erstrecken. <span 
+class="cmbxti-10x-x-120">x</span> ist mit <br/>der oben erwähnten Konstanten <span 
+class="cmmi-12">N </span>durch die Relation 2 <span 
+class="cmbxti-10x-x-120">x</span> <span 
+class="cmmi-12">N </span>= <span 
+class="cmmi-12">R </span> <br/>verbunden. Für die freie Energie <span 
+class="cmmi-12">F </span>erhalten wir daher: 
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_19056x.png" alt="               integral 
+       R         - EN-                R T F = - N--T lg   e  RT d p1... dpl = - -N---lg  B . " class="par-math-display"  /></center>
+<!--l. 191--><p class="nopar">
+</p><!--l. 194--><p class="noindent">----------
+</p><!--l. 197--><p class="indent">   1) In diesem Paragraph sind die Arbeiten des Verfassers über die <br/>Grundlagen der Thermodynamik als bekannt vorausgesetzt (vgl. Ann. d. <br/>Phys. <span 
+class="cmbx-12">9. </span>p. 417. 1902;
+<span 
+class="cmbx-12">11. </span>p. 170. 1903). Für das Verständnis der <br/>Resultate der vorliegenden Arbeit ist die Kenntnis jener Arbeiten sowie <br/>dieses Paragraphen der vorliegenden Arbeit entbehrlich. <pb/>
+</p><!--l. 207--><p class="indent">
+
+</p><!--l. 208--><p class="indent">   Wir denken uns nun eine in dem Volumen <span 
+class="cmmi-12">V </span>eingeschlossene <br/>Flüssigkeit; in dem Teilvolumen <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmsy-8">*</span></sup> von <span 
+class="cmmi-12">V </span>mögen sich <span 
+class="cmmi-12">n </span>ge-<br/>löste Moleküle bez. suspendierte Körper befinden, welche im <br/>Volumen <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmsy-8">*</span></sup> durch eine semipermeabele Wand festgehalten <br/>seien; es werden hierdurch die Integrationsgrenzen des in den <br/>Ausdrücken für <span 
+class="cmmi-12">S </span>und <span 
+class="cmmi-12">F </span>auftretenden Integrales <span 
+class="cmmi-12">B </span>beeinflußt. <br/>Das Gesamtvolumen der gelösten Moleküle bez. suspendierten <br/>Körper sei klein gegen <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmsy-8">*</span></sup>. Dies System werde im Sinne der <br/>erwähnten Theorie durch die Zustandsvariabeln <span 
+class="cmmi-12">p</span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">...</span><span 
+class="cmmi-12">p</span><sub ><span 
+class="cmmi-8">l</span></sub> voll-<br/>ständig dargestellt.
+</p><!--l. 221--><p class="indent">   Wäre nun auch das molekulare Bild bis in alle Einzel-<br/>heiten festgelegt, so böte doch die Ausrechnung des Integrales <span 
+class="cmmi-12">B </span> <br/>solche Schwierigkeiten, daß an eine exakte Berechnung von <span 
+class="cmmi-12">F </span> <br/>kaum gedacht werden könnte. Wir brauchen jedoch hier nur <br/>zu wissen, wie <span 
+class="cmmi-12">F </span>von der Größe des Volumens <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmsy-8">*</span></sup> abhängt, <br/>in welchem alle gelösten Moleküle bez. suspendierten Körper <br/>(im folgenden kurz ,,Teilchen&#8220; genannt) enthalten sind.
+</p><!--l. 231--><p class="indent">   Wir nennen <span 
+class="cmmi-12">x</span><sub ><span 
+class="cmr-8">1</span></sub><span 
+class="cmmi-12">, y</span><sub ><span 
+class="cmr-8">1</span></sub><span 
+class="cmmi-12">, z</span><sub ><span 
+class="cmr-8">1</span></sub> die rechtwinkligen Koordinaten des <br/>Schwerpunktes des ersten Teilchens, <span 
+class="cmmi-12">x</span><sub ><span 
+class="cmr-8">2</span></sub><span 
+class="cmmi-12">, y</span><sub ><span 
+class="cmr-8">2</span></sub><span 
+class="cmmi-12">, z</span><sub ><span 
+class="cmr-8">2</span></sub> die des zweiten etc., <br/><span 
+class="cmmi-12">x</span><sub ><span 
+class="cmmi-8">n</span></sub><span 
+class="cmmi-12">, y</span><sub ><span 
+class="cmmi-8">n</span></sub><span 
+class="cmmi-12">, z</span><sub ><span 
+class="cmmi-8">n</span></sub><span 
+class="cmmi-12">, </span>die des letzten Teilchens und geben für die Schwer-<br/>punkte der Teilchen die unendlich kleinen parallelepiped-<br/>förmigen Gebiete <span 
+class="cmmi-12">dx</span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">dy</span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">dz</span><sub ><span 
+class="cmr-8">1</span></sub><span 
+class="cmmi-12">,  dx</span><sub ><span 
+class="cmr-8">2</span></sub> <span 
+class="cmmi-12">dy</span><sub ><span 
+class="cmr-8">2</span></sub> <span 
+class="cmmi-12">dz</span><sub ><span 
+class="cmr-8">2</span></sub> <span 
+class="cmmi-12">...</span> <span 
+class="cmmi-12">dx</span><sub ><span 
+class="cmmi-8">n</span></sub> <span 
+class="cmmi-12">dy</span><sub ><span 
+class="cmmi-8">n</span></sub> <span 
+class="cmmi-12">dz</span><sub ><span 
+class="cmmi-8">n</span></sub><span 
+class="cmmi-12">,</span>
+ <br/>welche alle in <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmsy-8">*</span></sup> gelegen seien. Gesucht sei der Wert des <br/>im Ausdruck für <span 
+class="cmmi-12">F</span>
+auftretenden Integrales mit der Beschränkung, <br/>daß die Teilchenschwerpunkte in den ihnen soeben zugewiesenen <br/>Gebieten liegen. Dies Integral läßt sich jedenfalls auf die Form
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_19057x.png" alt="d B =  dx1 d y1 ... d zn.J " class="par-math-display"  /></center>
+<!--l. 248--><p class="nopar">
+</p><!--l. 252--><p class="noindent">bringen, wobei <span 
+class="cmmi-12">J </span>von <span 
+class="cmmi-12">dx</span><sub ><span 
+class="cmr-8">1</span></sub>  <span 
+class="cmmi-12">dy</span><sub ><span 
+class="cmr-8">1</span></sub> etc., sowie von <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmsy-8">*</span></sup>, d. h. von <br/>der Lage der semipermeabeln Wand, unabhängig ist. <span 
+class="cmmi-12">J </span>ist <br/>aber auch unabhängig von der speziellen Wahl <span 
+class="cmti-12">der Lagen </span>der <br/>Schwerpunktsgebiete und von dem Werte von <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmsy-8">*</span></sup>, wie sogleich <br/>gezeigt werden soll. Sei nämlich ein zweites System von un-<br/>endlich kleinen Gebieten für die Teilchenschwerpunkte gegeben <br/>und bezeichnet durch
+<span 
+class="cmmi-12">dx</span><span 
+class="cmsy-10x-x-120">'</span><sub ><span 
+class="cmr-8">1</span> </sub> <span 
+class="cmmi-12">dy</span><span 
+class="cmsy-10x-x-120">'</span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">dz</span><span 
+class="cmsy-10x-x-120">'</span><sub ><span 
+class="cmr-8">2</span></sub><span 
+class="cmmi-12">,  dx</span><span 
+class="cmsy-10x-x-120">'</span><sub ><span 
+class="cmr-8">2</span></sub> <span 
+class="cmmi-12">dy</span><span 
+class="cmsy-10x-x-120">'</span><sub ><span 
+class="cmr-8">2</span></sub> <span 
+class="cmmi-12">dz</span><span 
+class="cmsy-10x-x-120">'</span><sub ><span 
+class="cmr-8">2</span></sub> <span 
+class="cmmi-12">...</span> <span 
+class="cmmi-12">dx</span><span 
+class="cmsy-10x-x-120">'</span><sub ><span 
+class="cmmi-8">n</span></sub> <span 
+class="cmmi-12">dy</span><span 
+class="cmsy-10x-x-120">'</span><sub ><span 
+class="cmmi-8">n</span></sub> <span 
+class="cmmi-12">dz</span><span 
+class="cmsy-10x-x-120">'</span><sub ><span 
+class="cmmi-8">n</span></sub><span 
+class="cmmi-12">, </span> <br/>welche Gebiete sich von den ursprünglich gegebenen nur durch <br/>ihre Lage, nicht aber durch ihre Größe unterscheiden mögen <br/>und ebenfalls alle in <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmsy-8">*</span></sup> enthalten seien, so gilt analog:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_19058x.png" alt="d B'=  d x'1d y'1 ... dz'n .J', " class="par-math-display"  /></center>
+<!--l. 271--><p class="nopar"> <pb/>
+</p><!--l. 276--><p class="indent">
+
+</p><!--l. 277--><p class="noindent">wobei
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_19059x.png" alt="dx1 d y1 ... d zn = d x'1 dy'1 ... dz'n . " class="par-math-display"  /></center>
+<!--l. 285--><p class="nopar">
+</p><!--l. 288--><p class="noindent">Es ist also:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190510x.png" alt="d B    J ---'=  --'. dB     J " class="par-math-display"  /></center>
+<!--l. 294--><p class="nopar">
+</p><!--l. 298--><p class="indent">   Aus der in den zitierten Arbeiten gegebenen molekularen <br/>Theorie der Wärme läßt sich aber leicht folgern<sup ><span 
+class="cmr-8">1</span></sup>), daß <span 
+class="cmmi-12">dB/B </span> <br/>bez. <span 
+class="cmmi-12">dB</span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">/B </span>gleich ist der Wahrscheinlichkeit dafür, daß sich <br/>in einem beliebig herausgegriffenen Zeitpunkte die Teilchen-<br/>schwerpunkte in den Gebieten (<span 
+class="cmmi-12">dx</span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">...</span><span 
+class="cmmi-12">dz</span><sub ><span 
+class="cmmi-8">n</span></sub>) bez. in den Ge-<br/>bieten (<span 
+class="cmmi-12">dx</span><span 
+class="cmsy-10x-x-120">'</span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">...</span><span 
+class="cmmi-12">dz</span><span 
+class="cmsy-10x-x-120">'</span><sub ><span 
+class="cmmi-8">n</span></sub>) befinden. Sind nun die Bewegungen der <br/>einzelnen Teilchen (mit genügender Annäherung) voneinander <br/>unabhängig, ist die Flüssigkeit homogen und wirken auf die <br/>Teilchen keine Kräfte, so müssen bei gleicher Größe der Ge-<br/>biete die den beiden Gebietssystemen zukommenden Wahr-<br/>scheinlichkeiten einander gleich sein, so daß gilt:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190511x.png" alt="          ' d-B-=  d-B-.  B      B " class="par-math-display"  /></center>
+<!--l. 316--><p class="nopar">
+</p><!--l. 319--><p class="noindent">Aus dieser und aus der zuletzt gefundenen Gleichung folgt aber
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190512x.png" alt="J =  J'. " class="par-math-display"  /></center>
+<!--l. 326--><p class="nopar">
+</p><!--l. 330--><p class="indent">   Es ist somit erwiesen, daß <span 
+class="cmmi-12">J </span>weder von <span 
+class="cmmi-12">V</span> <sup ><span 
+class="cmsy-8">*</span></sup> noch von <br/><span 
+class="cmmi-12">x</span><sub >
+<span 
+class="cmr-8">1</span></sub><span 
+class="cmmi-12">, y</span><sub ><span 
+class="cmr-8">1</span></sub><span 
+class="cmmi-12">...</span><span 
+class="cmmi-12">z</span><sub ><span 
+class="cmmi-8">n</span></sub> abhängig ist. Durch Integration erhält man
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190513x.png" alt="      integral 
+B  =   J dx1 ...dzn = J V *n " class="par-math-display"  /></center>
+<!--l. 337--><p class="nopar">
+</p><!--l. 341--><p class="noindent">und daraus
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190514x.png" alt="F =  - R-T-{lgJ +  n lg V *}         N " class="par-math-display"  /></center>
+<!--l. 347--><p class="nopar">
+</p><!--l. 351--><p class="noindent">und
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190515x.png" alt="      @-F--   R-T-n--   R-T- p = - @ V * = V * N  =  N   n . " class="par-math-display"  /></center>
+<!--l. 358--><p class="nopar">
+</p><!--l. 362--><p class="indent">   Durch diese Betrachtung ist gezeigt, daß die Existenz <br/>des osmotischen Druckes eine Konsequenz der molekular-<br/>kinetischen Theorie der Wärme ist, und daß nach dieser Theorie <br/>gelöste Moleküle und suspendierte Körper von gleicher Anzahl <br/>sich in bezug auf osmotischen Druck bei großer Verdünnung <br/>vollkommen gleich verhalten.
+</p><!--l. 370--><p class="noindent">----------
+</p><!--l. 373--><p class="indent">   1) A. Einstein, Ann. d. Phys. <span 
+class="cmbx-12">11. </span>p. 170. 1903. <pb/>
+</p><!--l. 378--><p class="indent">
+
+</p>
+<div class="center" >
+
+<!--l. 379--><p class="noindent">
+</p><!--l. 380--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>3.   Theorie der Diffusion kleiner suspendierter Kugeln.</p></div>
+<!--l. 384--><p class="indent">   In einer Flüssigkeit seien suspendierte Teilchen regellos <br/>verteilt. Wir wollen den dynamischen Gleichgewichtszustand <br/>derselben untersuchen unter der Voraussetzung, daß auf die <br/>einzelnen Teilchen eine Kraft <span 
+class="cmmi-12">K </span>wirkt, welche vom Orte, <br/>nicht aber von der Zeit abhängt. Der Einfachheit halber
+ <br/>werde angenommen, daß die Kraft überall die Richtung der <br/><span 
+class="cmmi-12">X</span>-Achse habe.
+</p><!--l. 393--><p class="indent">   Es sei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>die Anzahl der suspendierten Teilchen pro <br/>Volumeneinheit, so ist im Falle des thermodynamischen Gleich-<br/>gewichtes <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>eine solche Funktion von <span 
+class="cmmi-12">x</span>, daß für eine beliebige <br/>virtuelle Verrückung <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-e.png" alt="d" class="12x-x-e" /> x </span>der suspendierten Substanz die Variation <br/>der freien Energie verschwindet. Man hat also:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190516x.png" alt="d F = d E - T dS =  0. " class="par-math-display"  /></center>
+<!--l. 403--><p class="nopar">
+</p><!--l. 406--><p class="noindent">Es werde angenommen, daß die Flüssigkeit senkrecht zur <br/><span 
+class="cmmi-12">X</span>-Achse den Querschnitt 1 habe und durch die Ebenen <span 
+class="cmmi-12">x </span>= 0 <br/>und <span 
+class="cmmi-12">x </span>= <span 
+class="cmmi-12">l </span>begrenzt sei. Man hat dann:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190517x.png" alt="          integral  l d E =  -    K n dx dx 
+        0 " class="par-math-display"  /></center>
+<!--l. 417--><p class="nopar">
+</p><!--l. 421--><p class="noindent">und
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190518x.png" alt="        integral  l n @ d x        R   integral  l@ n d S =    R --------dx =  - ---   --- dx dx .            N  @ x          N     @ x       0                      0 " class="par-math-display"  /></center>
+<!--l. 431--><p class="nopar">
+</p><!--l. 434--><p class="noindent">Die gesuchte Gleichgewichtsbedingung ist also:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190519x.png" alt="- K n + R-T- @-n = 0          N   @ x " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 440--><p class="nopar">
+</p><!--l. 444--><p class="noindent">oder
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190520x.png" alt="K  n - @-p = 0 .        @ x " class="par-math-display"  /></center>
+<!--l. 450--><p class="nopar">
+</p><!--l. 453--><p class="noindent">Die letzte Gleichung sagt aus, daß der Kraft <span 
+class="cmmi-12">K </span>durch osmo-<br/>tische Druckkräfte das Gleichgewicht geleistet wird.
+</p><!--l. 458--><p class="indent">   Die Gleichung (1) benutzen wir, um den Diffusionskoeffi-<br/>zienten der suspendierten Substanz zu ermitteln. Wir können <br/>den eben betrachteten dynamischen Gleichgewichtszustand als <br/><pb/>
+</p><!--l. 464--><p class="indent">
+
+</p><!--l. 465--><p class="noindent">die Superposition zweier in umgekehrtem Sinne verlaufender <br/>Prozesse auffassen, nämlich
+</p><!--l. 468--><p class="indent">   1. einer Bewegung der suspendierten Substanz unter der <br/>Wirkung der auf jedes einzelne suspendierte Teilchen wirken-<br/>den Kraft <span 
+class="cmmi-12">K</span>,
+</p><!--l. 472--><p class="indent">   2. eines Diffusionsvorganges, welcher als Folge der un-<br/>geordneten Bewegungen der Teilchen infolge der Molekular-<br/>bewegung der Wärme aufzufassen ist.
+</p><!--l. 476--><p class="indent">   Haben die suspendierten Teilchen Kugelform (Kugelradius <span 
+class="cmmi-12">P</span>) <br/>und besitzt die Flüssigkeit den Reibungskoeffizienten <span 
+class="cmmi-12">k</span>, so <br/>erteilt die Kraft <span 
+class="cmmi-12">K </span>dem einzelnen Teilchen die Geschwindigkeit<sup ><span 
+class="cmr-8">1</span></sup>)
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190521x.png" alt="--K---- 6 pk P , " class="par-math-display"  /></center>
+<!--l. 484--><p class="nopar">
+</p><!--l. 488--><p class="noindent">und es treten durch die Querschnittseinheit pro Zeiteinheit
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190522x.png" alt="-n-K--- 6p k P " class="par-math-display"  /></center>
+<!--l. 494--><p class="nopar">
+</p><!--l. 497--><p class="noindent">Teilchen hindurch.
+</p><!--l. 500--><p class="indent">   Bezeichnet ferner <span 
+class="cmmi-12">D </span>den Diffusionskoeffizienten der sus-<br/>pendierten Substanz und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" /> </span>die Masse eines Teilchens, so treten <br/>pro Zeiteinheit infolge der Diffusion
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190523x.png" alt="     @ (m n) - D  ------- Gramm       @ x " class="par-math-display"  /></center>
+<!--l. 508--><p class="nopar">
+</p><!--l. 512--><p class="noindent">oder
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190524x.png" alt="- D  @ n      @ x " class="par-math-display"  /></center>
+<!--l. 518--><p class="nopar">
+</p><!--l. 521--><p class="noindent">Teilchen durch die Querschnittseinheit. Da dynamisches Gleich-<br/>gewicht herrschen 
+soll, so muß sein:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190525x.png" alt=" n K        @ n -------- D  --- = 0 . 6p k P      @ x " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 529--><p class="nopar">
+</p><!--l. 533--><p class="indent">   Aus den beiden für das dynamische Gleichgewicht ge-<br/>fundenen Bedingungen (1) und (2) kann man den Diffusions-<br/>koeffizienten berechnen. Man erhält:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190526x.png" alt="     R-T- --1---- D  =  N   6p kP  . " class="par-math-display"  /></center>
+<!--l. 540--><p class="nopar">
+</p><!--l. 543--><p class="noindent">Der Diffusionskoeffizient der suspendierten Substanz hängt also <br/>----------
+</p><!--l. 547--><p class="indent">   1) Vgl. z. B. G. Kirchhoff, Vorlesungen über Mechanik, 26. Vor-<br/>lesung <span 
+class="cmsy-10x-x-120">§ </span>4.
+<pb/>
+</p><!--l. 552--><p class="indent">
+
+</p><!--l. 553--><p class="noindent">außer von universellen Konstanten und der absoluten Tem-<br/>peratur nur vom Reibungskoeffizienten der Flüssigkeit und von <br/>der Größe der suspendierten Teilchen ab.
+</p>
+<div class="center" >
+
+<!--l. 559--><p class="noindent">
+</p><!--l. 560--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>4.   Über die ungeordnete Bewegung von in einer Flüssigkeit
+ <br/>suspendierten Teilchen und deren Beziehung zur Diffusion.</p></div>
+<!--l. 567--><p class="indent">   Wir gehen nun dazu über, die ungeordneten Bewegungen <br/>genauer zu untersuchen, welche, von der Molekularbewegung <br/>der Wärme hervorgerufen, Anlaß zu der im letzten Para-<br/>graphen untersuchten Diffusion geben.
+</p><!--l. 573--><p class="indent">   Es muß offenbar angenommen werden, daß jedes einzelne <br/>Teilchen eine Bewegung ausführe, welche unabhängig ist von <br/>der Bewegung aller anderen Teilchen; es werden auch die <br/>Bewegungen eines und desselben Teilchens in verschiedenen <br/>Zeitintervallen als voneinander unabhängige Vorgänge aufzu-<br/>fassen sein, solange wir diese Zeitintervalle nicht zu klein ge-<br/>wählt denken.
+</p><!--l. 582--><p class="indent">   Wir führen ein Zeitintervall <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>in die Betrachtung ein, <br/>welches sehr klein sei gegen die beobachtbaren Zeitintervalle, <br/>aber doch so groß, daß die in zwei aufeinanderfolgenden Zeit-<br/>intervallen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>von einem Teilchen ausgeführten Bewegungen als <br/>voneinander unabhängige Ereignisse aufzufassen sind.
+</p><!--l. 589--><p class="indent">   Seien nun in einer Flüssigkeit im ganzen <span 
+class="cmmi-12">n </span>suspendierte <br/>Teilchen vorhanden. In einem Zeitintervall <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>werden sich die <br/><span 
+class="cmmi-12">X</span>-Koordinaten der einzelnen Teilchen um <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" />
+vergrößern, wobei <br/><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> für jedes Teilchen einen anderen (positiven oder negativen)
+ <br/>Wert hat. Es wird für <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> ein gewisses Häufigkeitsgesetz gelten; <br/>die Anzahl <span 
+class="cmmi-12">d n</span>
+der Teilchen, welche in dem Zeitintervall <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span> <br/>eine Verschiebung erfahren, welche zwischen <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> und <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" />  + <span 
+class="cmmi-12">d </span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> <br/>liegt, wird durch eine Gleichung von der Form
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190527x.png" alt="dn = n f (D) d D " class="par-math-display"  /></center>
+<!--l. 604--><p class="nopar">
+</p><!--l. 608--><p class="noindent">ausdrückbar sein, wobei
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190528x.png" alt="  integral +o o 
+
+    f (D) d D =  1 - oo 
+
+" class="par-math-display"  /></center>
+<!--l. 615--><p class="nopar">
+</p><!--l. 619--><p class="noindent">und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /> </span>nur für sehr kleine Werte von <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> von Null verschieden <br/>ist und die Bedingung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190529x.png" alt="f (D) =  f(- D ) " class="par-math-display"  /></center>
+<!--l. 625--><p class="nopar">
+</p><!--l. 629--><p class="noindent">erfüllt. <pb/>
+</p><!--l. 633--><p class="indent">
+
+</p><!--l. 634--><p class="indent">   Wir untersuchen nun, wie der Diffusionskoeffizient von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /> </span> <br/>abhängt, wobei wir uns wieder auf den Fall beschränken, daß <br/>die Anzahl <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>der Teilchen pro Volumeneinheit nur von <span 
+class="cmmi-12">x </span>und <span 
+class="cmmi-12">t </span> <br/>abhängt.
+</p><!--l. 640--><p class="indent">   Es sei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>= <span 
+class="cmmi-12">f</span>(<span 
+class="cmmi-12">x, t</span>) die Anzahl der Teilchen pro Volumen-<br/>einheit, wir berechnen die Verteilung der Teilchen zur Zeit <br/><span 
+class="cmmi-12">t </span>+ <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>aus deren Verteilung zur Zeit <span 
+class="cmmi-12">t. </span>Aus der Definition <br/>der Funktion <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /> </span>(<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" />) ergibt sich leicht die Anzahl der Teilchen, <br/>welche sich zur Zeit <span 
+class="cmmi-12">t </span>+ <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>zwischen zwei zur <span 
+class="cmmi-12">X</span>-Achse senk-<br/>rechten Ebenen mit den Abszissen <span 
+class="cmmi-12">x </span>und <span 
+class="cmmi-12">x </span>+ <span 
+class="cmmi-12">dx </span>befinden. <br/>Man erhält:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190530x.png" alt="                      D=+ oo 
+                       integral 
+f (x, t + t) dx = d x .  f (x + D)  f(D) d D .                   D= - oo 
+" class="par-math-display"  /></center>
+<!--l. 655--><p class="nopar">
+</p><!--l. 658--><p class="noindent">Nun können wir aber, da <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>sehr klein ist, setzen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190531x.png" alt="f(x, t + t ) = f (x, t) + t@-f-.                         @ t " class="par-math-display"  /></center>
+<!--l. 666--><p class="nopar">
+</p><!--l. 669--><p class="noindent">Ferner entwickeln wir <span 
+class="cmmi-12">f</span>(<span 
+class="cmmi-12">x </span>+ <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /><span 
+class="cmmi-12">, t</span>) nach Potenzen von <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" />:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190532x.png" alt="                           @ f (x,t)  D2  @2f (x,  t) f (x +  D, t) = f(x, t) + D --------+  ---------2---  ... in inf.                              @ x      2!    @ x " class="par-math-display"  /></center>
+<!--l. 679--><p class="nopar">
+</p><!--l. 682--><p class="noindent">Diese Entwicklung können wir unter dem Integral vornehmen, <br/>da zu letzterem nur sehr kleine Werte von <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> etwas beitragen. <br/>Wir erhalten:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190533x.png" alt="                  integral +o o              integral +o o 
+    @ f                         @ f f + ----.t = f  .  f (D) d D +  ----  D f (D)  dD      @ t        - oo              @ x- oo 
+                                         + oo 
+                                   @2f  integral  D 2                                 +  ---2   ----f (D) d D  ...                                    @ x- oo   2 " class="par-math-display"  /></center>
+<!--l. 705--><p class="nopar">
+</p><!--l. 708--><p class="noindent">Auf der rechten Seite verschwindet wegen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /> </span>(<span 
+class="cmmi-12">x</span>) = <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /> </span>(<span 
+class="cmsy-10x-x-120">-</span><span 
+class="cmmi-12">x</span>) das <br/>zweite, vierte etc. Glied, während von dem ersten, dritten, <br/>fünften etc. Gliede jedes folgende gegen das vorhergehende <br/>sehr klein ist. Wir erhalten aus dieser Gleichung, indem wir
+ <br/>berücksichtigen, daß
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190534x.png" alt="  integral  + oo 
+
+    f (D) dD  = 1 , - oo 
+" class="par-math-display"  /></center>
+<!--l. 720--><p class="nopar"> <pb/>
+</p><!--l. 727--><p class="indent">
+
+</p><!--l. 728--><p class="noindent">und indem wir
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190535x.png" alt="    integral + oo  2 1-    D-- f (D)  dD  = D t      2   - oo 
+" class="par-math-display"  /></center>
+<!--l. 736--><p class="nopar">
+</p><!--l. 740--><p class="noindent">setzen und nur das erste und dritte Glied der rechten Seite <br/>berücksichtigen:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190536x.png" alt="          2 @ f-= D  @-f- . @ t      @ x2 " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 748--><p class="nopar">
+</p><!--l. 752--><p class="indent">   Dies ist die bekannte Differentialgleichung der Diffusion, <br/>und man erkennt, daß
+<span 
+class="cmmi-12">D </span>der Diffusionskoeffizient ist.
+</p><!--l. 756--><p class="indent">   An diese Entwicklung läßt sich noch eine wichtige Über-<br/>legung anknüpfen. Wir haben angenommen, daß die einzelnen <br/>Teilchen alle auf dasselbe Koordinatensystem bezogen seien. <br/>Dies ist jedoch nicht nötig, da die Bewegungen der einzelnen <br/>Teilchen voneinander unabhängig sind. Wir wollen nun die
+ <br/>Bewegung jedes Teilchens auf ein Koordinatensystem beziehen, <br/>dessen Ursprung mit der Lage des Schwerpunktes des be-<br/>treffenden Teilchens zur Zeit <span 
+class="cmmi-12">t </span>= 0 zusammenfällt, mit dem <br/>Unterschiede, daß jetzt <span 
+class="cmmi-12">f </span>(<span 
+class="cmmi-12">x, t</span>) <span 
+class="cmmi-12">dx </span>die Anzahl der Teilchen be-<br/>deutet, deren <span 
+class="cmmi-12">X</span>-Koordinaten von der Zeit <span 
+class="cmmi-12">t </span>= 0 bis zur Zeit <br/><span 
+class="cmmi-12">t </span>= <span 
+class="cmmi-12">t </span>um eine Größe <span 
+class="cmti-12">gewachsen </span>ist, welche zwischen <span 
+class="cmmi-12">x </span>und <br/><span 
+class="cmmi-12">x </span>+ <span 
+class="cmmi-12">dx </span>liegt. Auch in diesem Falle ändert sich also die <br/>Funktion <span 
+class="cmmi-12">f </span>gemäß Gleichung (1). Ferner muß offenbar für <br/><span 
+class="cmmi-12">x </span><span 
+class="msam-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/msam10-c-3f.png" alt="&gt;&lt;" class="10-120x-x-3f" /> </span>0 und <span 
+class="cmmi-12">t </span>= 0
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190537x.png" alt="                   integral  + oo 
+
+f(x,t) = 0  und      f(x,t)d x = n                 -  oo 
+" class="par-math-display"  /></center>
+<!--l. 779--><p class="nopar">
+</p><!--l. 783--><p class="noindent">sein. Das Problem, welches mit dem Problem der Diffusion <br/>von einem Punkte aus (unter Vernachlässigung der Wechsel-<br/>wirkung der diffundierenden Teilchen) übereinstimmt, ist nun <br/>mathematisch vollkommen bestimmt; seine Lösung ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190538x.png" alt="                    x2-          ---n----e--4Dt f(x,t) =  V~ ------   V~ t  .            4 pD " class="par-math-display"  /></center>
+<!--l. 793--><p class="nopar">
+</p><!--l. 797--><p class="indent">   Die Häufigkeitsverteilung der in einer beliebigen Zeit <span 
+class="cmmi-12">t </span> <br/>erfolgten Lagenänderungen ist also dieselbe wie die der zu-<br/><pb/>
+</p><!--l. 802--><p class="indent">
+
+</p><!--l. 803--><p class="noindent">fälligen Fehler, was zu vermuten war. Von Bedeutung aber <br/>ist, wie die Konstante im Exponenten mit dem Diffusions-<br/>koeffizienten zusammenhängt. Wir berechnen nun mit Hilfe <br/>dieser Gleichung die Verrückung <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">x</span></sub> in Richtung der <span 
+class="cmmi-12">X</span>-Achse,
+ <br/>welche ein Teilchen im Mittel erfäbrt, oder -- genauer aus-<br/>gedrückt -- die Wurzel aus dem arithmetischen Mittel der <br/>Quadrate der Verrückungen in Richtung der <span 
+class="cmmi-12">X</span>-Achse; es ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190539x.png" alt="      V~ ---   V~ ----- cx =   x2 =   2 D t . " class="par-math-display"  /></center>
+<!--l. 816--><p class="nopar">
+</p><!--l. 820--><p class="indent">   Die mittlere Verschiebung ist also proportional der Qua-<br/>dratwurzel aus der Zeit. Man kann leicht zeigen, daß die <br/>Wurzel aus dem Mittelwert der Quadrate der <span 
+class="cmti-12">Gesamtverschic- </span> <br/><span 
+class="cmti-12">bungen </span>der Teilchen den Wert <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">x</span></sub><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190540x.png" alt=" V~ 3"  class="sqrt"  />
+besitzt.
+</p>
+<div class="center" >
+
+<!--l. 827--><p class="noindent">
+</p><!--l. 828--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>5.   Formel für die mittlere Verschiebung suspendierter Teilchen. <br/>Eine neue Methode zur Bestimmung der wahren Größe der Atome.</p></div>
+<!--l. 835--><p class="indent">   In <span 
+class="cmsy-10x-x-120">§ </span>3 haben wir für den Diffusionskoeffizienten <span 
+class="cmmi-12">D </span>eines <br/>in einer Flüssigkeit in Form von kleinen Kugeln vom Radius <span 
+class="cmmi-12">P </span> <br/>suspendierten Stoffes den Wert gefunden:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190541x.png" alt="      R T    1 D  =  -----------.       N   6p k P " class="par-math-display"  /></center>
+<!--l. 843--><p class="nopar">
+</p><!--l. 846--><p class="noindent">Ferner fanden wir in <span 
+class="cmsy-10x-x-120">§ </span>4 für den Mittelwert der Verschie-<br/>bungen der Teilchen in Richtung der <span 
+class="cmmi-12">X</span>-Achse in der Zeit <span 
+class="cmmi-12">t</span>:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190542x.png" alt="       V~ ----- cx =    2D t . " class="par-math-display"  /></center>
+<!--l. 853--><p class="nopar">
+</p><!--l. 856--><p class="noindent">Durch Eliminieren von <span 
+class="cmmi-12">D </span>erhalten wir:
+</p>
+
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190543x.png" alt="          V~ ------------       V~ -    R T    1 cx =   t.   -----------.             N   3p k P " class="par-math-display"  /></center>
+<!--l. 863--><p class="nopar">
+</p><!--l. 866--><p class="noindent">Diese Gleichung läßt erkennen, wie <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">x</span></sub> von <span 
+class="cmmi-12">T, k </span>und <span 
+class="cmmi-12">P </span>ab-<br/>hängen muß.
+</p><!--l. 869--><p class="indent">   Wir wollen berechnen, wie groß <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">x</span></sub> für eine Sekunde ist, <br/>wenn <span 
+class="cmmi-12">N </span>gemäß den Resultaten der kinetischen Gastheorie <br/>6.10<sup ><span 
+class="cmr-8">23</span></sup> gesetzt wird; es sei als Flüssigkeit Wasser von 17<sup ><span 
+class="cmr-8">0</span></sup> C<span 
+class="cmmi-12">. </span> <br/>gewählt (<span 
+class="cmmi-12">k </span>= 1<span 
+class="cmmi-12">, </span>35 <span 
+class="cmmi-12">. </span>10<sup ><span 
+class="cmsy-8">-</span><span 
+class="cmr-8">2</span></sup>) und der Teilchendurchmesser sei
+ <br/>0,001 mm. Man erhält:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190544x.png" alt="cx =  8.10- 5 cm  = 0,8 Mikron. " class="par-math-display"  /></center>
+<!--l. 880--><p class="nopar">
+</p><!--l. 883--><p class="noindent">Die mittlere Verschiebung in 1 Min. wäre also ca. 6 Mikron. <pb/>
+</p><!--l. 888--><p class="indent">
+
+</p><!--l. 889--><p class="indent">   Umgekehrt läßt sich die gefundene Beziehung zur Be-<br/>stimmung von <span 
+class="cmmi-12">N</span>
+benutzen. Man erhält:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1905/fulltext/img/Einst_Ueber_de_190545x.png" alt="      t     R T N =  --2-.------- .      cx   3 p kP " class="par-math-display"  /></center>
+<!--l. 896--><p class="nopar">
+</p><!--l. 900--><p class="indent">   Möge es bald einem Forscher gelingen, die hier auf-<br/>geworfene, für die Theorie der Wärme wichtige Frage zu ent-<br/>scheiden!
+</p><!--l. 904--><p class="indent">   Bern, Mai 1905. </p>
+<div class="center" >
+
+<!--l. 906--><p class="noindent">
+</p><!--l. 907--><p class="noindent">(Eingegangen 11. Mai 1905.)</p></div>
+<div class="center" >
+
+<!--l. 912--><p class="noindent">
+</p><!--l. 913--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

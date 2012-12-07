@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Einig_de_1913.tex" /> 
+<meta name="date" content="2005-03-10 17:29:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Einig_de_1913.css" /> 
+</head><body >
+
+<!--l. 17--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 18--><p class="noindent">
+</p><!--l. 19--><p class="noindent"><span 
+class="cmr-12x-x-120">8. </span><span 
+class="cmbxti-10x-x-144">Einige Argumente </span> <br/><span 
+class="cmbxti-10x-x-144">f</span><span 
+class="cmbxti-10x-x-144">ür die Annahme einer</span>
+<span 
+class="cmbxti-10x-x-144">molekularen Agitation </span> <br/><span 
+class="cmbxti-10x-x-144">beim absoluten Nullpunkt; </span> <br/><span 
+class="cmbxti-10x-x-144">von</span>
+<span 
+class="cmbxti-10x-x-144">A. Einstein und O. Stern.</span></p></div>
+<div class="center" >
+
+<!--l. 24--><p class="noindent">
+</p><!--l. 25--><p class="noindent">--------</p></div>
+<!--l. 29--><p class="indent">   Der Ausdruck für die Energie eines Resonators lautet <br/>nach der ersten Planckschen Formel:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_19130x.png" alt="       h n E  = -h-n----,      ekT -  1 " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 35--><p class="nopar">
+</p><!--l. 39--><p class="noindent">nach der zweiten:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_19131x.png" alt="E =  --h-n---+  h-n.      ehkTn-  1    2 " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+
+<!--l. 43--><p class="nopar">
+</p><!--l. 47--><p class="indent">   Der Grenzwert für hohe Temperaturen wird, wenn wir <br/>die Entwickelung von
+<span 
+class="cmmi-12">e</span><sup ><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_19132x.png" alt="hknT-"  class="frac" align="middle" />
+    </sup> mit dem quadratischen Gliede ab-<br/>brechen, für (1):</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_19133x.png" alt=" lim  E = k T -  hn-, T=o o             2 " class="par-math-display"  /></center>
+<!--l. 55--><p class="nopar">
+</p><!--l. 59--><p class="noindent">für (2):</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_19134x.png" alt=" lim  E =  kT . T=o o 
+" class="par-math-display"  /></center>
+<!--l. 65--><p class="nopar">
+   Die Energie als Funktion der Temperatur, wie sie in <br/>Fig. 1 dargestellt ist, beginnt also nach Formel (1) für <span 
+class="cmmi-12">T </span>= 0 <br/>mit Null, dem von der klassischen Theorie  <br/>geforderten  Werte,  bleibt  aber  bei hohen <br/>Temperaturen ständig um das Stück <span 
+class="cmmi-12">h<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_19136x.png" alt="/"  class="left" align="middle" /> 2
+ <br/>kleiner als dieser. Nach Formel (2) hat <br/>der Resonator beim  absoluten  Nullpunkt  <br/>die  Energie  <span 
+class="cmmi-12">h<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_19137x.png" alt="/"  class="left" align="middle" /> 2, im Widerspruch zur <br/>klassischen Theorie, erreicht aber bei hohen <br/>Temperaturen asymptotisch die von dieser <br/>geforderte Energie. Dagegen ist der Diffe-<br/>rentialquotient der Energie nach der Temperatur, d. h. die <br/>spezifische Wärme, in beiden Fällen gleich.<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_19135x.png" alt="PIC" class="graphics" width="107.99805pt" height="128.0374pt"  /><!--tex4ht:graphics  
+name="img/Einst_Einig_de_19135x.png" src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/Einst_Einig_de_1913_001.eps"  
+-->
+</p><!--l. 92--><p class="indent">
+<pb/>
+</p><!--l. 93--><p class="indent">   Für Gebilde mit unveränderlichem <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>sind diese Formeln <br/>also gleichwertig, während die Theorie solcher Gebilde, deren <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span> <br/>für verschiedene Zustände verschiedene Werte hat, durch die <br/>Annahme einer Nullpunktsenergie wesentlich beeinflußt wird. <br/>Der ideale Fall wäre der eines aus monochromatischen Ge-<br/>bilden bestehenden Systems, dessen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span>-Wert unabhängig von <br/>der Temperatur willkürlich geändert werden kann. Die Ab-<br/>hängigkeit der Energie von der Frequenz bei konstanter Tem-<br/>peratur würde wesentlich von der Existenz einer Nullpunkts-<br/>energie abhängen. Leider liegen Erfahrungen über ein der-<br/>artiges Gebilde nicht vor. Wohl aber kennen wir in den <br/>rotierenden Gasmolekülen Gebilde, deren thermische Bewegungen <br/>mit denen monochromatischer Gebilde eine weitgehende Ähn-<br/>lichkeit aufweisen<sup ><span 
+class="cmr-8">1</span></sup>), und bei welchen die mittlere Frequenz <br/>mit der Temperatur veränderlich ist. An diesen Gebilden ist <br/>also die Berechtigung der Annahme einer Nullpunktsenergie <br/>in erster Linie zu prüfen. Im folgenden soll zunächst unter-<br/>sucht werden, inwiefern wir aus der Planckschen Formel auf <br/>das theoretische Verhalten solcher Gebilde Rückschlüsse ziehen
+ <br/>können.
+</p>
+<div class="center" >
+
+<!--l. 108--><p class="noindent">
+</p><!--l. 109--><p class="noindent">Die spezifische Wärme des Wasserstoffs bei tiefen <br/>Temperaturen.</p></div>
+<!--l. 114--><p class="indent">   Es handelt sich um die Frage, wie die Energie der Rotation <br/>eines zweiatomigen Moleküls von der Temperatur abhängt. <br/>Analog wie bei der Theorie der spezifischen Wärme fester <br/>Stoffe sind wir zu der Annahme berechtigt, daß die mittlere <br/>kinetische Energie der Rotation davon unabhängig ist, ob das <br/>Molekül in Richtung seiner Symmetrieachse ein elektrisches Mo-<br/>ment besitzt oder nicht. Im Falle, daß das Molekül ein solches <br/>Moment besitzt, darf es das thermodynamische Gleichgewicht <br/>zwischen Gasmolekülen und Strahlung nicht stören. Hieraus <br/>kann man schließen, daß das Molekül unter der Einwirkung der <br/>Strahlung allein dieselbe kinetische Energie der Rotation an-<br/>nehmen muß, die es durch die Zusammenstöße mit anderen <br/>Molekülen erhalten würde. Die Frage ist also, bei welchem <br/>----------
+</p><!--l. 132--><p class="indent">   1) Hierauf hat zuerst Nernst aufmerksam gemacht, vgl. Zeitschr. <br/>f. Elektroch.
+<span 
+class="cmbx-12">17. </span>p. 270 u. 825. 1911. <pb/>
+</p><!--l. 138--><p class="indent">
+
+</p><!--l. 139--><p class="noindent">Mittelwerte der Rotationsenergie sich eiu träger, starrer Dipol <br/>mit Strahlung von bestimmter Temperatur im Gleichgewicht <br/>befindet. Wie die Gesetze der Ausstrahlung auch sein mögen, <br/>so wird doch wohl daran festzuhalten sein, daß ein rotierender <br/>Dipol doppelt so viel Energie pro Zeiteinheit ausstrahlt als <br/>ein eindimensionaler Resonator, bei dem die Amplitude des
+ <br/>elektrischen und mechanischen Moments gleich dem elektri-<br/>schen und mechanischen Moment des Dipols ist. Analoges <br/>wird auch von dem Mittelwert der absorbierten Energie gelten. <br/>Machen wir nun noch die vereinfachende Näherungsannahme, <br/>daß bei gegebener Temperatur alle Dipole unseres Gases gleich <br/>rasch rotieren, so werden wir zu dem Schluß geführt, daß im
+ <br/>Gleichgewicht die kinetische Energie eines Dipols doppelt so <br/>groß sein muß, wie die eines eindimensionalen Resonators von <br/>gleicher Frequenz. Bei den gemachten Annahmen können wir <br/>die Ausdrücke (1) bzw. (2) direkt zur Berechnung der kine-<br/>tischen Energie eines mit zwei Freiheitsgraden rotierenden
+ <br/>Gasmoleküls anwenden, wobei bei jeder Temperatur zwischen <span 
+class="cmmi-12">E </span> <br/>und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>die Gleichung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_19138x.png" alt="E =  J-(2p n)2      2 " class="par-math-display"  /></center>
+<!--l. 165--><p class="nopar">
+</p><!--l. 169--><p class="noindent">besteht (<span 
+class="cmmi-12">J </span>Trägheitsmoment des Moleküls).
+</p><!--l. 172--><p class="indent">   So ergibt sich für die Energie der Rotation pro Mol:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_19139x.png" alt="         J                 h n E = N0  .--(2p n)2 = N0  -hn-----          2               ekT - 1 " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 178--><p class="nopar">
+</p><!--l. 182--><p class="noindent">bzw.</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-5r4"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191310x.png" alt="                         (               )           J-      2        --h-n---   hn- E  = N0 . 2 (2p n)  = N0   ehknT-- 1 +   2   . " class="math-display"  /></center></td><td width="5%">(4)</td></tr></table>
+<!--l. 190--><p class="nopar">
+</p><!--l. 193--><p class="noindent">Da nun <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>und <span 
+class="cmmi-12">T </span>durch eine transzendente Gleichung verknüpft <br/>sind, ist es nicht möglich, <span 
+class="cmmi-12">dE</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191311x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">dT</span> als explizite Funktion von <span 
+class="cmmi-12">T </span> <br/>auszudrücken, sondern man erhält, falls man zur Abkürzung <br/>2 <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-19.png" alt="p" class="12x-x-19" /></span><sup ><span 
+class="cmr-8">2</span></sup><span 
+class="cmmi-12">J </span>= <span 
+class="cmmi-12">p </span>setzt, als Formel für die spezifische Wärme der
+ <br/>Rotation:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-6r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191312x.png" alt="c  =  dE--= d-E-.d-n--= N  2 pn --(----n------)-  t    dT     dn   dT      0     T  1 + --k-T--                                        pn2+ hn " class="math-display"  /></center></td><td width="5%">(5)</td></tr></table>
+<!--l. 207--><p class="nopar">
+<pb/>
+</p><!--l. 214--><p class="indent">
+
+</p><!--l. 215--><p class="noindent">bzw.</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-7r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191313x.png" alt="c  =  dE--= d-E- .d-n-=  N  2p n --(----n------)-,  t    dT     dn   d T     0               kT                                  T  1 + p-n2--h2                                              4p " class="math-display"  /></center></td><td width="5%">(6)</td></tr></table>
+<!--l. 224--><p class="nopar">
+</p><!--l. 228--><p class="noindent">wobei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>und <span 
+class="cmmi-12">T </span>durch die Gleichung:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-8r7"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191314x.png" alt="    h       n T = -----(-------)      k ln   hpn + 1 " class="math-display"  /></center></td><td width="5%">(5a)</td></tr></table>
+<!--l. 234--><p class="nopar">
+</p><!--l. 238--><p class="noindent">bzw.</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-9r7"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191315x.png" alt="T  = h----(---n-----)-      k  ln  --h-- + 1            p n- h2 " class="math-display"  /></center></td><td width="5%">(6a)</td></tr></table>
+<!--l. 244--><p class="nopar">
+</p><!--l. 247--><p class="noindent">verbunden sind. In Fig. 2 stellt die Kurve I die auf Grund <br/>von (6) und (6a) berechnete spezifische Wärme dar, wobei <span 
+class="cmmi-12">p</span>
+        <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191316x.png" alt="PIC" class="graphics" width="284.52756pt" height="212.46811pt"  /><!--tex4ht:graphics  
+name="img/Einst_Einig_de_191316x.png" src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/Einst_Einig_de_1913_002.eps"  
+-->
+</p><!--l. 254--><p class="noindent">den Wert 2<span 
+class="cmmi-12">, </span>90 <span 
+class="cmmi-12">. </span>10<sup ><span 
+class="cmsy-8">-</span><span 
+class="cmr-8">40</span></sup> hat;<sup ><span 
+class="cmr-8">1</span></sup>) Kurve II ist aus (5) und (5a) mit <br/>Hilfe von
+<span 
+class="cmmi-12">p </span>= 2 <span 
+class="cmsy-10x-x-120"><sup class="htf"><strong>.</strong></sup> </span>10<sup ><span 
+class="cmsy-8">-</span><span 
+class="cmr-8">40</span></sup> berechnet. Die Kreuzchen bezeichnen <br/>die von Eucken<sup ><span 
+class="cmr-8">2</span></sup>) gemessenen Werte. Wie man sieht, zeigt <br/>die Kurve II einen Verlauf, der mit den Versuchen in völligem <br/>----------
+</p><!--l. 262--><p class="indent">   1) Berechnet man den zu diesem Trägheitsmoment gehörigen Molekül-<br/>durchmesser, so ergibt er sich zu 9 <span 
+class="cmsy-10x-x-120"><sup class="htf"><strong>.</strong></sup> </span>10<sup ><span 
+class="cmsy-8">-</span><span 
+class="cmr-8">9</span></sup>, etwa halb so groß, als der <br/>gastheoretisch ermittelte Wert.
+</p><!--l. 267--><p class="indent">   2) Eucken, Sitzungsber. d. preuß. Akad. p. 141. 1912. <pb/>
+</p><!--l. 272--><p class="indent">
+
+</p><!--l. 273--><p class="noindent">Widerspruch steht, während Kurve I, die auf der Annahme <br/>einer Nullpunktsenergie basiert, die Resultate der Messungen <br/>in vorzüglicher Weise widergibt. Um festzustellen, welchen <br/>Wert nach Formel (4) <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>für die Grenze <span 
+class="cmmi-12">T </span>= 0 annimmt,
+ <br/>schreiben wir (4) in folgender Form:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191317x.png" alt="                           h e hknT-= ---h--- - 1 =  pn-+-2-.        p n-  h2        pn - h2 " class="par-math-display"  /></center>
+<!--l. 284--><p class="nopar">
+</p><!--l. 286--><p class="noindent">Dann sieht man, daß für <span 
+class="cmmi-12">T </span>= 0 <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>nicht gleich Null werden <br/>kann, da die rechte Seite dann gegen <span 
+class="cmsy-10x-x-120">-</span>1 konvergieren würde, <br/>während auf der linken eine Potenz von
+<span 
+class="cmmi-12">e </span>steht. Es muß also <br/>für lim <span 
+class="cmmi-12">T </span>= 0 <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>endlich bleiben, und zwar muß die rechte
+ <br/>Seite ebenso wie die linke gegen <span 
+class="cmsy-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmsy10-c-31.png" alt=" oo " class="10-120x-x-31" /> </span>konvergieren, es muß <br/>daher <span 
+class="cmmi-12">p<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">0</span></sub> <span 
+class="cmsy-10x-x-120">- </span><span 
+class="cmmi-12">h</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191318x.png" alt="/"  class="left" align="middle" /> 2 = 0 sein, falls wir mit <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">0</span></sub> den Grenzwert <br/>von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>für <span 
+class="cmmi-12">T </span>= 0 bezeichnen. Es ist also
+<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">0</span></sub> = <span 
+class="cmmi-12">h</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191319x.png" alt="/"  class="left" align="middle" /> 2 <span 
+class="cmmi-12">p</span>. Im vor-<br/>liegenden Falle ergibt sich <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">0</span></sub> zu 11<span 
+class="cmmi-12">, </span>3<span 
+class="cmsy-10x-x-120"><sup class="htf"><strong>.</strong></sup></span>10<sup ><span 
+class="cmr-8">12</span></sup>. Der Wert von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span>
+ <br/>ändert sich zunächst auch sehr wenig mit steigender Tempe-<br/>ratur; so ist bei 102<sup ><span 
+class="cmr-8">0</span></sup>
+abs. <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>= 11<span 
+class="cmmi-12">, </span>4<span 
+class="cmsy-10x-x-120"><sup class="htf"><strong>.</strong></sup></span>10<sup ><span 
+class="cmr-8">12</span></sup>, bei 189<sup ><span 
+class="cmr-8">0</span></sup> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>= 12<span 
+class="cmmi-12">, </span>3<span 
+class="cmsy-10x-x-120"><sup class="htf"><strong>.</strong></sup></span>10<sup ><span 
+class="cmr-8">12</span></sup> , <br/>bei 323<sup ><span 
+class="cmr-8">0</span></sup> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>= 14<span 
+class="cmmi-12">, </span>3<span 
+class="cmsy-10x-x-120"><sup class="htf"><strong>.</strong></sup></span>10<sup ><span 
+class="cmr-8">12</span></sup>. Dies erklärt nun, weshalb Eucken <br/>seine Messungen verhältnismäßig noch am besten durch die <br/>einfache Einsteinsche Formel mit von der Temperatur un-<br/>abhängigem <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>(Kurve III, Fig. 2) darstellen konnte. Jedoch <br/>sieht man, daß auch diese Formel, namentlich bei höheren <br/>Temperaturen, versagt, abgesehen davon, daß ohne die An-<br/>nahme der Nullpunktsenergie die Konstanz von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>völlig un-<br/>verständlich bleibt. Man sieht also, daß die spezifische Wärme <br/>des Wasserstoffs die Existenz einer Nullpunktsenergie wahr-<br/>scheinlich macht, und es handelt sich nur noch darum, zu <br/>prüfen, wie weit der spezielle Wert von <span 
+class="cmmi-12">h<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191320x.png" alt="/"  class="left" align="middle" /> 2 als gesichert <br/>anzusehen ist. Da nun in der folgenden Untersuchung über <br/>das Strahlungsgesetz der Betrag der Nullpunktsenergie zu <span 
+class="cmmi-12">h<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span> <br/>angenommen werden muß, haben wir die spezifische Wärme des <br/>Wasserstoffs auch für diese Annahme berechnet (<span 
+class="cmmi-12">p </span>= 5<span 
+class="cmmi-12">, </span>60<span 
+class="cmsy-10x-x-120"><sup class="htf"><strong>.</strong></sup></span>10<sup ><span 
+class="cmsy-8">-</span><span 
+class="cmr-8">40</span></sup>, <br/>Kurve IV, Fig. 2). Es ist ersichtlich, daß die Kurve bei <br/>höheren Temperaturen zu steil und zu hoch ist. Andererseits <br/>ist zu bemerken, daß bei Berücksichtigung der Geschwindig-<br/>keitsverteilung unter den Molekülen die Kurve jedenfalls etwas <br/>flacher ausfallen dürfte. Es ist demnach zwar unwahrschein-<br/><pb/>
+</p><!--l. 333--><p class="indent">
+
+</p><!--l. 334--><p class="noindent">lich, aber nicht mit Sicherheit auszuschließen, daß die Null-<br/>punktsenergie den Wert <span 
+class="cmmi-12">h<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>besitzt.<sup ><span 
+class="cmr-8">1</span></sup>) </p>
+<div class="center" >
+
+<!--l. 337--><p class="noindent">
+</p><!--l. 338--><p class="noindent">Die Ableitung des Strahlungsgesetzes.</p></div>
+<!--l. 341--><p class="indent">   Im folgenden soll gezeigt werden, wie sich auf Grund <br/>der Annahme einer Nullpunktsenergie die Plancksche Strah-<br/>lungsformel in ungezwungener, wenn auch nicht ganz strenger <br/>Weise ableiten läßt, und zwar ohne jede Annahme über irgend-<br/>welche Diskontinuitäten. Der Weg, den wir hierzu einschlagen, <br/>ist im wesentlichen derselbe, den Einstein und Hopf<sup ><span 
+class="cmr-8">2</span></sup>) in <br/>einer vor 2 Jahren erschienenen Abhandlung benutzten. Wir <br/>betrachten die fortschreitende Bewegung eines freibeweglichen <br/>Resonators, der etwa an einem Gasmolekül festsitzt, unter <br/>dem Einflusse eines ungeordneten Strahlungsfeldes. Im ther-<br/>mischen Gleichgewicht muß dann die mittlere kinetische Energie, <br/>die das Gasmolekül durch die Strahlung erhält, gleich der-<br/>jenigen sein, die es durch Zusammenstöße mit anderen Mole-<br/>külen bekommen würde. Man erhält so den Zusammenhang <br/>zwischen der Dichte der schwarzen Strahlung und der mitt-<br/>leren kinetischen Energie einer Gasmolekel, d. h. der Tem-<br/>peratur. Einstein und Hopf finden auf diese Weise das <br/>Rayleigh-Jeanssche Gesetz. Wir wollen nun dieselbe Be-<br/>----------
+</p><!--l. 365--><p class="indent">   1) Nimmt man die Entropie rotierender Gebilde gleich der fester <br/>Stoffe nach dem Nernstschen Theorem für <span 
+class="cmmi-12">T </span>= 0 zu Null an, so ergibt <br/>sich der gesamte von der Rotation der zweiatomigen Moleküle her-<br/>rübrende Anteil der Entropie eines Mols zu</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191321x.png" alt="       integral T          integral n                   2      [(    )     ] S  =     ctd T =    ln n +-n0d n = 2-pn--+ k ln   p-n  2- 1  .   t      T             n-  n0        T             h       0          n0 " class="par-math-display"  /></center>
+<!--l. 377--><p class="nopar">
+</p><!--l. 380--><p class="noindent">Für hohe Temperaturen wird:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191322x.png" alt="                            2 St = R  ln T + 2R  + R ln2-p--J k-.                             h2 " class="par-math-display"  /></center>
+<!--l. 386--><p class="nopar">
+</p><!--l. 389--><p class="noindent">Nach Sackur (Nernst-Festschrift p. 414. 1912) ist die Entropiekonstante <br/>der Rotation: 
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191323x.png" alt="        16 p3 J k R + R ln-----2--- ,             h " class="par-math-display"  /></center>
+<!--l. 395--><p class="nopar">
+</p><!--l. 399--><p class="noindent">in der Hauptsache, nämlich dem Ausdruck <span 
+class="cmmi-12">J k</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191324x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">h</span><sup ><span 
+class="cmr-8">2</span></sup>, mit dem obigen Aus-<br/>druck übereinstimmend. Dasselbe Resultat erhält man übrigens, wenn <br/>man für <span 
+class="cmmi-12">c</span><sub ><span 
+class="cmmi-8">r</span></sub> nicht Formel (5), sondern Formel (6) einsetzt.
+</p><!--l. 406--><p class="indent">   2) A. Einstein u. L. Hopf, Ann. d. Phys. <span 
+class="cmbx-12">33. </span>p. 1105--1115. 1910.
+<pb/>
+</p><!--l. 410--><p class="indent">
+
+</p><!--l. 411--><p class="noindent">trachtung unter der Annahme einer Nullpunktsenergie durch-<br/>führen. Der Einfluß, den die Strahlung ausübt, läßt sich nach <br/>Einstein und Hopf in zwei verschiedene Wirkungen zer-<br/>legen. Erstens einmal erleidet die geradlinig fortschreitende
+ <br/>Bewegung des Resonatormoleküls eine Art Reibung, veran-<br/>laßt durch den Strahlungsdruck auf den bewegten Oszillator. <br/>Diese Kraft <span 
+class="cmmi-12">K </span>ist proportional der Geschwindigkeit <span 
+class="cmmi-12">v</span>, also <br/><span 
+class="cmmi-12">K </span>= <span 
+class="cmsy-10x-x-120">-</span><span 
+class="cmmi-12">P v</span>, wenigstens falls <span 
+class="cmmi-12">v </span>klein gegen die Lichtgeschwin-<br/>digkeit ist. Der Impuls, den das Resonatormolekül in der
+ <br/>kleinen Zeit <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /></span>, während deren sich <span 
+class="cmmi-12">v </span>nicht merklich ändern <br/>soll, erhält, ist also <span 
+class="cmsy-10x-x-120">-</span><span 
+class="cmmi-12">P v <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" />. </span>Zweitens erteilt die Strahlung <br/>dem Resonatormolekül Impulsschwankungen <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" />, die von der <br/>Bewegung des Moleküls in erster Annäherung unabhängig und <br/>für alle Richtungen gleich sind, so daß nur ihr quadratischer <br/>Mittelwert <span class="overline"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /><sup ><span 
+class="cmr-8">2</span></sup></span> während der Zeit <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>für die kinetische Energie <br/>maßgebend ist. Soll nun diese den von der statistischen <br/>Mechanik geforderten Wert <span 
+class="cmmi-12">k </span>(<span 
+class="cmmi-12">T/</span>2) besitzen (der Oszillator soll <br/>der Einfachheit halber nur in der <span 
+class="cmmi-12">x</span>-Richtung beweglich sein <br/>und nur in der <span 
+class="cmmi-12">z</span>-Richtung schwingen), so muß nach Einstein <br/>und Hopf (l. c. p. 1107) folgende Gleichung gelten:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191325x.png" alt="--- D2  = 2 kT P t . " class="par-math-display"  /></center>
+<!--l. 441--><p class="nopar">
+</p><!--l. 444--><p class="noindent">Was nun die Berechnung von <span 
+class="cmmi-12">P </span>anlangt, so können wir an-<br/>nehmen, daß hierfür nur die von der Strahlung selbst an-<br/>geregten Schwingungen in Betracht kommen, und daß man <br/>diese so berechnen kann, als ob die Nullpunktsenergie nicht
+ <br/>vorhanden wäre. Wir können also den von Einstein und <br/>Hopf berechneten Wert (l. c. p. 1111):
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191326x.png" alt="           (          ) P  = -3c-s-  r - n-d-r      10 p n      3 d n " class="par-math-display"  /></center>
+<!--l. 454--><p class="nopar">
+</p><!--l. 458--><p class="noindent">benutzen.
+</p><!--l. 461--><p class="indent">   Um nun <span class="overline"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /><sup ><span 
+class="cmr-8">2</span></sup></span> zu berechnen, setzen wir (l. c. p. 1111) den <br/>Impuls, welchen der Oszillator während der Zeit <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>in der <br/><span 
+class="cmmi-12">x</span>-Richtung erfährt:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191327x.png" alt="      integral t        integral  t                   @-Ez- J =    kx dt =     @ x f d t,      0          0 " class="par-math-display"  /></center>
+<!--l. 470--><p class="nopar">
+</p><!--l. 474--><p class="noindent">wobei <span 
+class="cmmi-12">f </span>das Moment des Oszillators ist. Wir wollen zunächst <br/>nur den Fall betrachten, daß die Energie der durch die Strah-<br/><pb/>
+</p><!--l. 479--><p class="indent">
+
+</p><!--l. 480--><p class="noindent">lung angeregten Schwingung zu vernachlässigen ist gegen die <br/>Nullpunktsenergie des Resonators, was bei genügend tiefen <br/>Temperaturen sicher erlaubt ist. Bezeichnen wir mit <span 
+class="cmmi-12">f</span><sub ><span 
+class="cmr-8">0</span></sub> das <br/>maximale Moment des Resonators, so ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191328x.png" alt="          2-pn0-t f = f0 cos   T    , " class="par-math-display"  /></center>
+<!--l. 489--><p class="nopar">
+</p><!--l. 493--><p class="noindent">wobei <span 
+class="cmmi-12">T </span>eine große Zeit und <span 
+class="cmmi-12">n</span><sub ><span 
+class="cmr-8">0</span></sub><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191329x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">T </span>= <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sub ><span 
+class="cmr-8">0</span></sub> die Frequenz des <br/>Resonators ist. <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /></span> <span 
+class="cmmi-12">G</span><sub ><span 
+class="cmmi-8">z</span></sub><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191330x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /> x</span>
+setzen wir als Fouriersche Reihe an:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191331x.png" alt="         sum         (             ) @-Gz-=     Cn  cos  2p n t-- hn  .  @ x                     T " class="par-math-display"  /></center>
+<!--l. 505--><p class="nopar">
+</p><!--l. 508--><p class="noindent">Dann wird:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191332x.png" alt="     t      integral   sum         (      t     )       (       t) J =       Cn cos  2 p n-- - hn  f0 cos  2p n0 -- d t     0                  T                      T        sum                     (          )      (               )   = f0    Cn -----T----- sin  p n0---n-t  .cos  p n0---n-t-  hn  ,              2 p(n0-  n)         T                 T " class="par-math-display"  /></center>
+<!--l. 522--><p class="nopar">
+</p><!--l. 526--><p class="noindent">da das mit 1<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191333x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">n</span><sub ><span 
+class="cmr-8">0</span></sub> + <span 
+class="cmmi-12">n</span> behaftete Glied wegfällt, weil <span 
+class="cmmi-12">n</span><sub ><span 
+class="cmr-8">0</span></sub> + <span 
+class="cmmi-12">n </span>eine <br/>sehr große Zahl ist. Setzt man nun <span 
+class="cmmi-12">n</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191334x.png" alt="/"  class="left" align="middle" /><span 
+class="cmmi-12">T </span>= <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>und quadriert, <br/>so wird:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191335x.png" alt="                      integral + oo 
+--2   -2-    2 --2-T-    sin2-p(n0---n)t- J  =  D  = f0  Cn  8                 2  d n ,                      - oo   [p(n0 - n)] " class="par-math-display"  /></center>
+<!--l. 539--><p class="nopar">
+</p><!--l. 543--><p class="noindent">oder:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191336x.png" alt="---   1     ---- D2  = --f02 .Cn2 T .t.       8 " class="par-math-display"  /></center>
+<!--l. 550--><p class="nopar">
+</p><!--l. 553--><p class="noindent">Nun ist (l. c. p. 1114):</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191337x.png" alt="----     64 p3 n2 Cn2 T  = ------2- r.          15   c " class="par-math-display"  /></center>
+<!--l. 559--><p class="nopar">
+</p><!--l. 562--><p class="noindent">Also ist:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191338x.png" alt="---   8  p3 n2 D2 =  -----2--r t .f02.       15  c " class="par-math-display"  /></center>
+<!--l. 568--><p class="nopar">
+</p><!--l. 571--><p class="noindent">Besitzt nun der Resonator die Nullpunktsenergie <span 
+class="cmmi-12">h<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><sup ><span 
+class="cmr-8">1</span></sup>), so ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191339x.png" alt="                                        3 1-K f 2 = h n2) oder f 2 = 2-h-n = 3-h-sc-.2) 2    0               0      K     8 n4 n2 " class="par-math-display"  /></center>
+<!--l. 579--><p class="nopar">
+</p><!--l. 582--><p class="noindent">----------
+</p><!--l. 585--><p class="indent">   1) Es hat sich gezeigt, daß bei der hier skizzierten Rechnungs-<br/>weise die Nullpunktsenergie gleich <span 
+class="cmmi-12">h<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span>gesetzt werden muß, um zur <br/>Planckschen Strahlungsformel zu gelangen. Spätere Untersuchungen <br/>müssen zeigen, ob die Diskrepanz zwischen dieser Annahme und der <br/>bei der Untersuchung über den Wasserstoff zugrunde gelegten Annahme <br/>bei strengerer Rechnung verschwindet.
+</p><!--l. 594--><p class="indent">   2) M. Planck, Wärmestrahlung 6. Aufl. p. 112 (Gleichung (168)). <pb/>
+</p><!--l. 599--><p class="indent">
+
+</p><!--l. 600--><p class="noindent">Mithin ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191340x.png" alt="---    1 D2  = ---h cs r t .       5p " class="par-math-display"  /></center>
+<!--l. 606--><p class="nopar">
+</p><!--l. 609--><p class="noindent">Setzt man dies in die Gleichung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191341x.png" alt="--2 D  =  2k T P t " class="par-math-display"  /></center>
+<!--l. 614--><p class="nopar">
+</p><!--l. 618--><p class="noindent">ein, so gelangt man zum Wienschen Strahlungsgesetz. Wir <br/>wollen hier jedoch gleich die Voraussetzung, daß die durch <br/>die Strahlung angeregte Schwingung des Resonators zu ver-<br/>nachlässigen sei, aufgeben. Nehmen wir nun an, daß die
+ <br/>Energie der dem Resonator von der Strahlung erteilten Schwin-<br/>gungen Impulsschwankungen liefert, die von den der Null-<br/>punktsenergie entsprechenden Schwankungen unabhängig sind, <br/>so können wir den quadratischen Mittelwert beider Impuls-<br/>schwankungen addieren.<sup ><span 
+class="cmr-8">1</span></sup>) Wir haben also zu dem oben be-<br/>rechneten Wert für <span class="overline"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /><sup ><span 
+class="cmr-8">2</span></sup></span> noch den von Einstein und Hopf <br/>(l. c. p. 1114, Gleichung (15)) hinzuzufügen und erhalten:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191342x.png" alt="---    1              c4s t   2 D2  = 5p-h c s r t + 40-p2n3-r . " class="par-math-display"  /></center>
+<!--l. 637--><p class="nopar">
+</p><!--l. 640--><p class="noindent">Andererseits ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191343x.png" alt="---                             (          ) D2  = 2 kT P t =  2k T t .3-cs--  r-  n-d-r  .                           10p n       3 d n " class="par-math-display"  /></center>
+<!--l. 647--><p class="nopar">
+</p><!--l. 650--><p class="noindent">Es ergibt sich demnach als Differentialgleichung für <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /> </span>:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191344x.png" alt="        3             (          ) hr +  -c----r2 = 3k T   r - n-d-r   .       8p n3                 3 d n " class="par-math-display"  /></center>
+<!--l. 658--><p class="nopar">
+</p><!--l. 661--><p class="noindent">Die Auflösung dieser Gleichung liefert:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191345x.png" alt="    8p-n2---h-n--- r =   c3   hknT-    ,           e   - 1 " class="par-math-display"  /></center>
+<!--l. 667--><p class="nopar">
+</p><!--l. 671--><p class="noindent">das Plancksche Strahlungsgesetz, und die Energie des Reso-<br/>nators ergibt sich zu:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191346x.png" alt="        hn E  = --hn---- + h n .      e kT-  1 " class="par-math-display"  /></center>
+<!--l. 677--><p class="nopar">
+</p><!--l. 680--><p class="noindent">----------
+</p><!--l. 683--><p class="indent">   1) Es braucht kaum betont zu werden, daß diese Art des Vor-<br/>gehens sich nur durch unsere Unkenntnis der tatsächlichen Resonator-<br/>gesetze rechtfertigen läßt.
+<pb/>
+</p><!--l. 690--><p class="indent">
+
+</p>
+<div class="center" >
+
+<!--l. 691--><p class="noindent">
+</p><!--l. 692--><p class="noindent">Zusammenfassung.</p></div>
+<!--l. 695--><p class="indent">   1. Die Euckensche Resultate über die spezifische Wärme <br/>des Wasserstoffs machen die Existenz einer Nullpunktsenergie <br/>vom Betrage <span 
+class="cmmi-12">h<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191347x.png" alt="/"  class="left" align="middle" /> 2 wahrscheinlich.
+</p><!--l. 701--><p class="indent">   2. Die Annahme der Nullpunktsenergie eröffnet einen <br/>Weg, die Plancksche Strahlungsformel ohne Zuhilfenahme <br/>irgendwelcher Diskontinuitäten abzuleiten. Es erscheint je-<br/>doch zweifelhaft, ob auch die anderen Schwierigkeiten sich <br/>ohne die Annahme von Quanten werden bewältigen lassen.
+</p><!--l. 708--><p class="indent">   Zürich, Dezember 1912.
+</p>
+<div class="center" >
+
+<!--l. 710--><p class="noindent">
+</p><!--l. 711--><p class="noindent">(Eingegangen 5. Januar 1913.)</p></div>
+<div class="center" >
+
+<!--l. 714--><p class="noindent">
+</p><!--l. 715--><p class="noindent">----------</p></div>
+<div class="center" >
+
+<!--l. 718--><p class="noindent">
+</p><!--l. 719--><p class="noindent">Anmerkung bei der Korrektur:</p></div>
+<!--l. 722--><p class="indent">   Hr. Prof. Weiß machte uns darauf aufmerksam, daß auch <br/>die Curieschen Messungen über den Paramagnetismus des <br/>gasförmigen Sauerstoffs darauf hinweisen, daß dessen Rotations-<br/>energie bei hohen Temperaturen den von der klassischen <br/>Theorie geforderten Wert und nicht einen um <span 
+class="cmmi-12">h<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Einig_de_1913/fulltext/img/Einst_Einig_de_191348x.png" alt="/"  class="left" align="middle" /> 2 kleineren <br/>besitzt, wie dies ohne die Annahme einer Nullpunktsenergie <br/>zu erwarten sein würde. Es läßt sich leicht zeigen, daß in <br/>letzterem Falle bei der Genauigkeit der Curieschen Mes-<br/>sungen sich Abweichungen vom Curieschen Gesetz hätten <br/>zeigen müssen.
+</p>
+<div class="center" >
+
+<!--l. 737--><p class="noindent">
+</p><!--l. 738--><p class="noindent">----------</p></div>
+<!--l. 740--><p class="noindent"><pb/>
+</p><!--l. 744--><p class="indent">
+
+</p>
+    
+</body></html> 
+
+
+

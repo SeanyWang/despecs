@@ -1,0 +1,412 @@
+<!-- footnotes and margnotes get yanked out of their <p>s, repl. by <arrow>, -->
+<!-- and moved to own p.  -->
+
+<!ELEMENT foot.target 
+	(#PCDATA)  >
+<!-- e.g. number in front of a footnote -->
+
+<!ATTLIST foot.target
+    	id ID #REQUIRED
+	n CDATA #IMPLIED >
+
+
+<!ELEMENT margin.target 
+	(#PCDATA)  >
+
+<!ATTLIST margin.target
+    	id ID #REQUIRED
+	n CDATA #IMPLIED >
+
+<!ELEMENT table.target 
+	(#PCDATA)  >
+
+<!ATTLIST table.target
+    	id ID #REQUIRED
+	n CDATA #IMPLIED >
+
+<!ELEMENT arrow.to.target 
+	(#PCDATA)*  >
+
+<!ATTLIST arrow.to.target
+        symbol 		CDATA #IMPLIED
+    	id 		ID #IMPLIED
+	n 		CDATA #IMPLIED
+  	xlink:type      (simple)        #FIXED "simple"
+  	xlink:href      CDATA           #IMPLIED>
+
+<!-- reference to removed figure/note. contains mark in text. -->
+<!-- n attribute contains id of referent target -->
+<!-- Can marginalia ever have referring marks in text? -->
+
+
+<!ELEMENT archimedes 
+	(info, text) >
+
+
+<!ATTLIST archimedes 
+	id ID #IMPLIED
+        xmlns:xml       CDATA           #FIXED "http://www.w3.org/XML/1998/namespace"
+	xmlns:xlink     CDATA           #FIXED "http://www.w3.org/1999/xlink"
+	n CDATA #IMPLIED >
+
+
+<!ELEMENT author 
+	(#PCDATA) >
+
+
+<!ATTLIST author
+	id ID #IMPLIED
+	n CDATA #IMPLIED >
+
+
+<!ELEMENT back
+        ( section | pb?)+ >
+
+<!ATTLIST back
+        id ID #IMPLIED
+        n CDATA #IMPLIED 
+        type CDATA #IMPLIED>
+
+
+<!ELEMENT body
+       (chap |  pb?)+ >
+
+<!ATTLIST body
+        id ID #IMPLIED
+        n CDATA #IMPLIED >
+
+<!ELEMENT comments       (#PCDATA)   >
+
+<!ATTLIST comments
+        id ID #IMPLIED
+        n CDATA #IMPLIED >
+
+
+<!ELEMENT cvs_file
+        (#PCDATA) >
+
+
+<!ATTLIST cvs_file
+        id ID #IMPLIED
+        n CDATA #IMPLIED >
+
+
+<!ELEMENT cvs_version
+        (#PCDATA) >
+
+
+<!ATTLIST cvs_version
+        id ID #IMPLIED
+        n CDATA #IMPLIED >
+
+
+<!ELEMENT chap 
+	(  p | pb | figure | table | subchap1)+ >
+
+
+<!ATTLIST chap
+	id ID #IMPLIED
+	n CDATA #IMPLIED
+	type CDATA #IMPLIED>
+
+<!ELEMENT subchap1 
+	(  p | pb | figure | table | subchap2)+ >
+
+
+<!ATTLIST subchap1
+	id ID #IMPLIED
+	n CDATA #IMPLIED
+	type CDATA #IMPLIED>
+
+<!ELEMENT subchap2 
+	(  p | pb | figure | table )+ >
+
+
+<!ATTLIST subchap2
+	id ID #IMPLIED
+	n CDATA #IMPLIED
+	type CDATA #IMPLIED>
+
+<!ELEMENT date
+        (#PCDATA) >
+
+
+<!ATTLIST date
+        id ID #IMPLIED
+        n CDATA #IMPLIED >
+
+<!--  -->
+<!ELEMENT emph 
+         EMPTY>
+
+
+<!ATTLIST emph
+        type (at|et|italics|bold|sup|sub|over|smallcaps|center|roman|ul|quote|strike|other) "italics" 
+	id ID #IMPLIED
+	n CDATA #IMPLIED>
+
+<!-- et = erased text
+	at = added text
+-->
+
+<!ELEMENT emph.end 
+         EMPTY>
+
+<!-- the type attrib. here shld be entitized -->
+<!ATTLIST emph.end
+        type (at|et|italics|bold|sup|sub|over|smallcaps|center|roman|ul|quote|strike|other) "italics" 
+	id ID #IMPLIED
+	n CDATA #IMPLIED>
+
+
+<!ELEMENT expan 
+	(#PCDATA | foot.target|margin.target|arrow.to.target|pb|lb|emph|emph.end|gap)* >
+
+
+<!ATTLIST expan 
+	id ID #IMPLIED
+	n CDATA #IMPLIED
+	abbr CDATA #IMPLIED
+	type CDATA #IMPLIED >
+<!-- expand tags must be placed around the whole word in which abbreviations occur -->
+
+<!ELEMENT figure 
+	(#PCDATA) >
+
+<!ATTLIST figure 
+	id ID #IMPLIED
+	place (margin|text) "text"
+  	xlink:type      (simple)        #FIXED "simple"
+  	xlink:href      CDATA           #IMPLIED>
+
+
+<!ELEMENT foreign
+       (#PCDATA | expan | figure | var | foot.target|margin.target|arrow.to.target|pb|lb|emph|emph.end|gap)* > 
+
+
+<!ATTLIST foreign
+        id ID #IMPLIED
+        n CDATA #IMPLIED
+        lang CDATA #IMPLIED>
+
+<!-- <foreign> for text within sentences not in the main lang of the text -->
+<!--    or for text within non-default-lang higher elements  -->
+<!ELEMENT front
+        ( section | pb?)+ >
+
+<!ATTLIST front
+        id ID #IMPLIED
+        n CDATA #IMPLIED 
+        type CDATA #IMPLIED>
+
+<!ELEMENT gap
+        EMPTY >
+
+<!ATTLIST gap
+        id ID #IMPLIED
+        n CDATA #IMPLIED
+        desc CDATA #IMPLIED>
+
+<!-- gap is a catch-all tag employed at Perseus and in the TEI to isolate -->
+<!-- uncertain DE markup. It appears here for continuity's sake. -->
+
+
+<!ELEMENT info 
+	(author, title, date, place, translator, lang, cvs_file?,cvs_version?,comments?,locator) >
+<!-- how many of these should be required? -->
+<!-- what about bringing in line with dublin core? -->
+
+<!ATTLIST info 
+	id ID #IMPLIED
+	n CDATA #IMPLIED >
+
+
+
+<!ELEMENT lang
+        (#PCDATA) >
+
+
+<!ATTLIST lang
+        id ID #IMPLIED
+        n CDATA #IMPLIED >
+
+<!ELEMENT lb         EMPTY                              >
+
+<!ATTLIST lb
+          ed                 CDATA               #IMPLIED
+          id                 ID                  #IMPLIED
+           n                  CDATA               #IMPLIED>
+          
+<!-- <lb> occurs at <s> level and at <p> level  -->
+<!-- <lb> at end of <s> must be placed after </s> -->
+<!-- <lb> at beginning of <s> must be placed before <s> -->
+
+<!-- unrecognized symbols will appear inline acc. to special conventions.  -->
+<!--   (as in DE specs) -->
+
+<!-- emph and and emph.end are elements that are quer to the xml structure -->
+
+<!ELEMENT locator       (#PCDATA)   >
+
+<!ATTLIST locator
+        id ID #IMPLIED
+        n CDATA #IMPLIED >
+
+<!ELEMENT p
+
+       (s | figure | pb | lb | emph | emph.end | gap )+ > 
+
+
+<!ATTLIST p 
+	id ID #IMPLIED
+	n CDATA #IMPLIED 
+        type (main|table|marked|foot|margin|list|head|caption) "main" >
+<!-- captions go in paragr's immediately after figure, with arrow.to.target -->
+<!-- table is allowed as val for type attr for backward compatibility -->
+<!-- pb can occur within p but NOT at the start or end -->
+
+
+<!ELEMENT pb 
+	EMPTY >
+
+
+<!ATTLIST pb
+        ed CDATA #IMPLIED
+        id ID #IMPLIED
+        n CDATA #IMPLIED 
+  	xlink:type      (simple)        #FIXED "simple"
+  	xlink:href      CDATA           #IMPLIED
+        pagenum CDATA #IMPLIED>
+
+<!-- the "ed"  attribute gives the edition in which the page break occurs. If no -->
+<!-- edition is given, it is assumed to be that given in info -->
+<!-- pagenum gives the page number actually printed on the page.  -->
+<!-- n gives the page number numbered consecutively from page 1 of text. -->
+<!-- pb can occur inside <s> etc. and inside <p> and inside <chap> -->
+<!-- <pb> at end of <p> must be placed after </p> -->
+
+
+<!ELEMENT place
+        (#PCDATA) >
+
+
+<!ATTLIST place
+        id ID #IMPLIED
+        n CDATA #IMPLIED >
+
+
+
+<!ELEMENT publisher 
+	(#PCDATA)* >
+
+
+<!ATTLIST publisher
+	id ID #IMPLIED
+	n CDATA #IMPLIED >
+
+
+<!ELEMENT s 
+
+(#PCDATA| foreign | figure | expan | var | foot.target|margin.target|arrow.to.target|pb|lb|emph|emph.end|gap)* >
+
+<!-- mdh 2003-07-23
+
+  I've given <s> the special attribute xml:space="preserve", so that
+  XML processors will respect whitespace within <s> and its descendants.
+  See: "Extensible Markup Language (XML) 1.0", http://www.w3.org/TR/REC-xml,
+  sec. 2.10 "White Space Handling".
+-->
+
+<!ATTLIST s
+        id        ID                 #IMPLIED
+        n         CDATA              #IMPLIED
+        xml:space (default|preserve) #FIXED "preserve" >
+
+<!ELEMENT section 
+	( p | pb | figure | table )+ >
+
+
+<!ATTLIST section
+	id ID #IMPLIED
+	n CDATA #IMPLIED
+	type CDATA #IMPLIED>
+
+<!ELEMENT table
+	( table.target?,  (row, pb?)+ ) >
+
+<!-- order is now:
+<table><table.target/><row>...</row><pb>
+i.e. <table> is equiv. to <p type=margin>
+ -->
+<!ATTLIST table
+	id ID #IMPLIED 
+	n CDATA #IMPLIED >
+
+<!ELEMENT row
+	( cell+ ) >
+
+<!ATTLIST row
+	id ID #IMPLIED 
+	n CDATA #IMPLIED >
+
+<!ELEMENT cell
+	(#PCDATA| foreign | expan | var | foot.target|margin.target|arrow.to.target|pb|lb|emph|emph.end|gap)* >
+
+<!ATTLIST cell
+	id ID #IMPLIED 
+	n CDATA #IMPLIED >
+
+<!-- 2003-12-18 (mdh)
+
+     <var> tag can be used to tag variable names
+     Mixed-alphabet variables should be tagged as e.g. <var>DG&Sigma;</var>
+-->
+<!ELEMENT var 
+	(#PCDATA | lb)* >
+
+<!ATTLIST var
+	id ID #IMPLIED 
+	n CDATA #IMPLIED >
+
+<!ELEMENT text
+        (pb?, front, pb?, body, pb?, back?) >
+
+<!-- if front and back are going to be optional, then pb can be allowed to -->
+<!-- occur only within front body back.  -->
+
+
+<!ATTLIST text 
+        type CDATA #IMPLIED
+	id ID #IMPLIED
+	n CDATA #IMPLIED>
+
+
+<!ELEMENT title 
+	(#PCDATA) >
+
+<!ATTLIST title 
+	id ID #IMPLIED
+	n CDATA #IMPLIED
+	type CDATA #IMPLIED >
+
+<!ELEMENT translator 
+	(#PCDATA)* >
+
+<!ATTLIST translator
+	id ID #IMPLIED
+	n CDATA #IMPLIED >
+
+
+<!-- entities are included below here (2001-11-14; mdh) -->
+<!ENTITY % ISOlat1 PUBLIC "ISO 8879:1986//ENTITIES Added Latin 1//EN//XML"
+         "ISOlat1.pen">
+%ISOlat1;
+
+<!ENTITY % ISOlat2 PUBLIC "ISO 8879:1986//ENTITIES Added Latin 2//EN//XML"
+         "ISOlat2.pen">
+%ISOlat2;
+
+<!ENTITY % archimedes SYSTEM "archimedes.pen">
+%archimedes;
+
+

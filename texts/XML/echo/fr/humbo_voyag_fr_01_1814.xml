@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?><echo xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:echo="http://www.mpiwg-berlin.mpg.de/ns/echo/1.0/" xmlns:de="http://www.mpiwg-berlin.mpg.de/ns/de/1.0/" xmlns="http://www.mpiwg-berlin.mpg.de/ns/echo/1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mml="http://www.w3.org/1998/Math/MathML" version="1.0RC">
+      <metadata>
+            <echodir>/permanent/humboldt/humbo_voyag_fr_01_1814</echodir>
+            <dcterms:creator>Humboldt, Alexandre von et Bonpland, Aimé</dcterms:creator>
+            <dcterms:title xml:lang="fr">Voyage de Humboldt et Bonpland. première partie. Tome
+                  Premier</dcterms:title>
+            <dcterms:date xsi:type="dcterms:W3CDTF">1814</dcterms:date>
+
+            <dcterms:identifier>ECHO:humbo_voyag_fr_01_1814.xml</dcterms:identifier>
+            <dcterms:language xsi:type="dcterms:ISO639-3"/>
+            <dcterms:rights>CC-BY-SA</dcterms:rights>
+            <dcterms:license xlink:href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</dcterms:license>
+            <dcterms:rightsHolder xlink:href="http://www.mpiwg-berlin.mpg.de">Max Planck Institute for the History of Science, Library</dcterms:rightsHolder>
+      </metadata>
+
+
+      <text xml:lang="fr" type="free">
+            <div xml:id="echoid-div1" type="chapter" level="1" n="1">
+                  <pb file="046.01.001" n="0" rhead="Antetítulo 1"/>
+                  <head xml:id="echoid-head1" xml:space="preserve">Preliminares</head>
+                  <pb file="046.01.002" n="0" rhead="Referencias impresor"/>
+                  <pb file="046.01.003" n="0" rhead="Antetítulo 2"/>
+                  <pb file="046.01.004" n="0" rhead="Sello"/>
+                  <pb file="046.01.005" n="0" rhead="Dedicatoria"/>
+                  <pb file="046.01.006" n="0" rhead="Reverso dedicatoria"/>
+                  <pb file="046.01.007" n="0" rhead="Antetítulo 3"/>
+                  <pb file="046.01.008" n="0" rhead="Referencias impresor"/>
+                  <pb file="046.01.009" n="0" rhead="Título"/>
+                  <pb file="046.01.010" n="0" rhead="Reverso título"/>
+                  <pb file="046.01.011" n="0"/>
+            </div>
+            <div xml:id="echoid-div2" type="chapter" level="1" n="2">
+                  <head xml:id="echoid-head2" xml:space="preserve">Introduction</head>
+                  <pb file="046.01.012" n="0"/>
+                  <pb file="046.01.013" n="0"/>
+                  <pb file="046.01.014" n="0"/>
+                  <pb file="046.01.015" n="0"/>
+                  <pb file="046.01.016" n="0"/>
+                  <pb file="046.01.017" n="0"/>
+                  <pb file="046.01.018" n="0"/>
+                  <pb file="046.01.019" n="0"/>
+                  <pb file="046.01.020" n="0"/>
+                  <pb file="046.01.021" n="0"/>
+                  <pb file="046.01.022" n="0"/>
+                  <pb file="046.01.023" n="0"/>
+                  <pb file="046.01.024" n="0"/>
+                  <pb file="046.01.025" n="0"/>
+                  <pb file="046.01.026" n="0"/>
+                  <pb file="046.01.027" n="0"/>
+                  <pb file="046.01.028" n="0"/>
+                  <pb file="046.01.029" n="0"/>
+                  <pb file="046.01.030" n="0"/>
+                  <pb file="046.01.031" n="0"/>
+                  <pb file="046.01.032" n="0"/>
+                  <pb file="046.01.033" n="0"/>
+                  <pb file="046.01.034" n="0"/>
+                  <pb file="046.01.035" n="0"/>
+                  <pb file="046.01.036" n="0"/>
+                  <pb file="046.01.037" n="0"/>
+                  <pb file="046.01.038" n="0"/>
+                  <pb file="046.01.039" n="0"/>
+                  <pb file="046.01.040" n="0"/>
+                  <pb file="046.01.041" n="0"/>
+                  <pb file="046.01.042" n="0"/>
+                  <pb file="046.01.043" n="0"/>
+                  <pb file="046.01.044" n="0"/>
+                  <pb file="046.01.045" n="0"/>
+                  <pb file="046.01.046" n="0"/>
+                  <pb file="046.01.047" n="0"/>
+                  <pb file="046.01.048" n="0"/>
+            </div>
+            <div xml:id="echoid-div3" type="chapter" level="1" n="3">
+                  <head xml:id="echoid-head3" xml:space="preserve">Voyage. Livre I. Chapitre I. Préparatifs</head>
+                  <pb file="046.01.049" n="0"/>
+                  <pb file="046.01.050" n="0"/>
+                  <pb file="046.01.051" n="0"/>
+                  <pb file="046.01.052" n="0"/>
+                  <pb file="046.01.053" n="0"/>
+                  <pb file="046.01.054" n="0"/>
+                  <pb file="046.01.055" n="0"/>
+                  <pb file="046.01.056" n="0"/>
+                  <pb file="046.01.057" n="0"/>
+                  <pb file="046.01.058" n="0"/>
+                  <pb file="046.01.059" n="0"/>
+                  <pb file="046.01.060" n="0"/>
+                  <pb file="046.01.061" n="0"/>
+                  <pb file="046.01.062" n="0"/>
+                  <pb file="046.01.063" n="0"/>
+                  <pb file="046.01.064" n="0"/>
+                  <pb file="046.01.065" n="0"/>
+                  <pb file="046.01.066" n="0"/>
+                  <pb file="046.01.067" n="0"/>
+                  <pb file="046.01.068" n="0"/>
+                  <pb file="046.01.069" n="0"/>
+                  <pb file="046.01.070" n="0"/>
+                  <pb file="046.01.071" n="0"/>
+                  <pb file="046.01.072" n="0"/>
+                  <pb file="046.01.073" n="0"/>
+                  <pb file="046.01.074" n="0"/>
+                  <pb file="046.01.075" n="0"/>
+                  <pb file="046.01.076" n="0"/>
+                  <pb file="046.01.077" n="0"/>
+                  <pb file="046.01.078" n="0"/>
+                  <pb file="046.01.079" n="0"/>
+                  <pb file="046.01.080" n="0"/>
+                  <pb file="046.01.081" n="0"/>
+                  <pb file="046.01.082" n="0"/>
+                  <pb file="046.01.083" n="0"/>
+                  <pb file="046.01.084" n="0"/>
+                  <pb file="046.01.085" n="0"/>
+                  <pb file="046.01.086" n="0"/>
+                  <pb file="046.01.087" n="0"/>
+                  <pb file="046.01.088" n="0"/>
+                  <pb file="046.01.089" n="0"/>
+                  <pb file="046.01.090" n="0"/>
+                  <pb file="046.01.091" n="0"/>
+                  <pb file="046.01.092" n="0"/>
+                  <pb file="046.01.093" n="0"/>
+                  <pb file="046.01.094" n="0"/>
+                  <pb file="046.01.095" n="0"/>
+                  <pb file="046.01.096" n="0"/>
+                  <pb file="046.01.097" n="0"/>
+                  <pb file="046.01.098" n="0"/>
+                  <pb file="046.01.099" n="0"/>
+                  <pb file="046.01.100" n="0"/>
+                  <pb file="046.01.101" n="0"/>
+                  <pb file="046.01.102" n="0"/>
+                  <pb file="046.01.103" n="0"/>
+                  <pb file="046.01.104" n="0"/>
+                  <pb file="046.01.105" n="0"/>
+                  <pb file="046.01.106" n="0"/>
+                  <pb file="046.01.107" n="0"/>
+                  <pb file="046.01.108" n="0"/>
+            </div>
+            <div xml:id="echoid-div4" type="chapter" level="1" n="4">
+                  <head xml:id="echoid-head4" xml:space="preserve">Livre I. Chapitre II. Séjour a Ténériffe</head>
+                  <pb file="046.01.109" n="0"/>
+                  <pb file="046.01.110" n="0"/>
+                  <pb file="046.01.111" n="0"/>
+                  <pb file="046.01.112" n="0"/>
+                  <pb file="046.01.113" n="0"/>
+                  <pb file="046.01.114" n="0"/>
+                  <pb file="046.01.115" n="0"/>
+                  <pb file="046.01.116" n="0"/>
+                  <pb file="046.01.117" n="0"/>
+                  <pb file="046.01.118" n="0"/>
+                  <pb file="046.01.119" n="0"/>
+                  <pb file="046.01.120" n="0"/>
+                  <pb file="046.01.121" n="0"/>
+                  <pb file="046.01.122" n="0"/>
+                  <pb file="046.01.123" n="0"/>
+                  <pb file="046.01.124" n="0"/>
+                  <pb file="046.01.125" n="0"/>
+                  <pb file="046.01.126" n="0"/>
+                  <pb file="046.01.127" n="0"/>
+                  <pb file="046.01.128" n="0"/>
+                  <pb file="046.01.129" n="0"/>
+                  <pb file="046.01.130" n="0"/>
+                  <pb file="046.01.131" n="0"/>
+                  <pb file="046.01.132" n="0"/>
+                  <pb file="046.01.133" n="0"/>
+                  <pb file="046.01.134" n="0"/>
+                  <pb file="046.01.135" n="0"/>
+                  <pb file="046.01.136" n="0"/>
+                  <pb file="046.01.137" n="0"/>
+                  <pb file="046.01.138" n="0"/>
+                  <pb file="046.01.139" n="0"/>
+                  <pb file="046.01.140" n="0"/>
+                  <pb file="046.01.141" n="0"/>
+                  <pb file="046.01.142" n="0"/>
+                  <pb file="046.01.143" n="0"/>
+                  <pb file="046.01.144" n="0"/>
+                  <pb file="046.01.145" n="0"/>
+                  <pb file="046.01.146" n="0"/>
+                  <pb file="046.01.147" n="0"/>
+                  <pb file="046.01.148" n="0"/>
+                  <pb file="046.01.149" n="0"/>
+                  <pb file="046.01.150" n="0"/>
+                  <pb file="046.01.151" n="0"/>
+                  <pb file="046.01.152" n="0"/>
+                  <pb file="046.01.153" n="0"/>
+                  <pb file="046.01.154" n="0"/>
+                  <pb file="046.01.155" n="0"/>
+                  <pb file="046.01.156" n="0"/>
+                  <pb file="046.01.157" n="0"/>
+                  <pb file="046.01.158" n="0"/>
+                  <pb file="046.01.159" n="0"/>
+                  <pb file="046.01.160" n="0"/>
+                  <pb file="046.01.161" n="0"/>
+                  <pb file="046.01.162" n="0"/>
+                  <pb file="046.01.163" n="0"/>
+                  <pb file="046.01.164" n="0"/>
+                  <pb file="046.01.165" n="0"/>
+                  <pb file="046.01.166" n="0"/>
+                  <pb file="046.01.167" n="0"/>
+                  <pb file="046.01.168" n="0"/>
+                  <pb file="046.01.169" n="0"/>
+                  <pb file="046.01.170" n="0"/>
+                  <pb file="046.01.171" n="0"/>
+                  <pb file="046.01.172" n="0"/>
+                  <pb file="046.01.173" n="0"/>
+                  <pb file="046.01.174" n="0"/>
+                  <pb file="046.01.175" n="0"/>
+                  <pb file="046.01.176" n="0"/>
+                  <pb file="046.01.177" n="0"/>
+                  <pb file="046.01.178" n="0"/>
+                  <pb file="046.01.179" n="0"/>
+                  <pb file="046.01.180" n="0"/>
+                  <pb file="046.01.181" n="0"/>
+                  <pb file="046.01.182" n="0"/>
+                  <pb file="046.01.183" n="0"/>
+                  <pb file="046.01.184" n="0"/>
+                  <pb file="046.01.185" n="0"/>
+                  <pb file="046.01.186" n="0"/>
+                  <pb file="046.01.187" n="0"/>
+                  <pb file="046.01.188" n="0"/>
+                  <pb file="046.01.189" n="0"/>
+                  <pb file="046.01.190" n="0"/>
+                  <pb file="046.01.191" n="0"/>
+                  <pb file="046.01.192" n="0"/>
+                  <pb file="046.01.193" n="0"/>
+                  <pb file="046.01.194" n="0"/>
+                  <pb file="046.01.195" n="0"/>
+                  <pb file="046.01.196" n="0"/>
+                  <pb file="046.01.197" n="0"/>
+                  <pb file="046.01.198" n="0"/>
+                  <pb file="046.01.199" n="0"/>
+                  <pb file="046.01.200" n="0"/>
+                  <pb file="046.01.201" n="0"/>
+                  <pb file="046.01.202" n="0"/>
+                  <pb file="046.01.203" n="0"/>
+                  <pb file="046.01.204" n="0"/>
+                  <pb file="046.01.205" n="0"/>
+                  <pb file="046.01.206" n="0"/>
+                  <pb file="046.01.207" n="0"/>
+            </div>
+            <div xml:id="echoid-div5" type="chapter" level="1" n="5">
+                  <head xml:id="echoid-head5" xml:space="preserve">Livre I. Chapitre III. De Ténériffe a l'Amérique</head>
+                  <pb file="046.01.208" n="0"/>
+                  <pb file="046.01.209" n="0"/>
+                  <pb file="046.01.210" n="0"/>
+                  <pb file="046.01.211" n="0"/>
+                  <pb file="046.01.212" n="0"/>
+                  <pb file="046.01.213" n="0"/>
+                  <pb file="046.01.214" n="0"/>
+                  <pb file="046.01.215" n="0"/>
+                  <pb file="046.01.216" n="0"/>
+                  <pb file="046.01.217" n="0"/>
+                  <pb file="046.01.218" n="0"/>
+                  <pb file="046.01.219" n="0"/>
+                  <pb file="046.01.220" n="0"/>
+                  <pb file="046.01.221" n="0"/>
+                  <pb file="046.01.222" n="0"/>
+                  <pb file="046.01.223" n="0"/>
+                  <pb file="046.01.224" n="0"/>
+                  <pb file="046.01.225" n="0"/>
+                  <pb file="046.01.226" n="0"/>
+                  <pb file="046.01.227" n="0"/>
+                  <pb file="046.01.228" n="0"/>
+                  <pb file="046.01.229" n="0"/>
+                  <pb file="046.01.230" n="0"/>
+                  <pb file="046.01.231" n="0"/>
+                  <pb file="046.01.232" n="0"/>
+                  <pb file="046.01.233" n="0"/>
+                  <pb file="046.01.234" n="0"/>
+                  <pb file="046.01.235" n="0"/>
+                  <pb file="046.01.236" n="0"/>
+                  <pb file="046.01.237" n="0"/>
+                  <pb file="046.01.238" n="0"/>
+                  <pb file="046.01.239" n="0"/>
+                  <pb file="046.01.240" n="0"/>
+                  <pb file="046.01.241" n="0"/>
+                  <pb file="046.01.242" n="0"/>
+                  <pb file="046.01.243" n="0"/>
+                  <pb file="046.01.244" n="0"/>
+                  <pb file="046.01.245" n="0"/>
+                  <pb file="046.01.246" n="0"/>
+                  <pb file="046.01.247" n="0"/>
+                  <pb file="046.01.248" n="0"/>
+                  <pb file="046.01.249" n="0"/>
+                  <pb file="046.01.250" n="0"/>
+                  <pb file="046.01.251" n="0"/>
+                  <pb file="046.01.252" n="0"/>
+                  <pb file="046.01.253" n="0"/>
+                  <pb file="046.01.254" n="0"/>
+                  <pb file="046.01.255" n="0"/>
+                  <pb file="046.01.256" n="0"/>
+                  <pb file="046.01.257" n="0"/>
+                  <pb file="046.01.258" n="0"/>
+                  <pb file="046.01.259" n="0"/>
+                  <pb file="046.01.260" n="0"/>
+                  <pb file="046.01.261" n="0"/>
+                  <pb file="046.01.262" n="0"/>
+                  <pb file="046.01.263" n="0"/>
+                  <pb file="046.01.264" n="0"/>
+                  <pb file="046.01.265" n="0"/>
+                  <pb file="046.01.266" n="0"/>
+                  <pb file="046.01.267" n="0"/>
+                  <pb file="046.01.268" n="0"/>
+                  <pb file="046.01.269" n="0"/>
+                  <pb file="046.01.270" n="0"/>
+                  <pb file="046.01.271" n="0"/>
+                  <pb file="046.01.272" n="0"/>
+                  <pb file="046.01.273" n="0"/>
+                  <pb file="046.01.274" n="0"/>
+                  <pb file="046.01.275" n="0"/>
+                  <pb file="046.01.276" n="0"/>
+                  <pb file="046.01.277" n="0" rhead="Journal de route"/>
+                  <pb file="046.01.278" n="0"/>
+                  <pb file="046.01.279" n="0"/>
+                  <pb file="046.01.280" n="0"/>
+                  <pb file="046.01.281" n="0"/>
+                  <pb file="046.01.282" n="0"/>
+                  <pb file="046.01.283" n="0"/>
+                  <pb file="046.01.284" n="0"/>
+                  <pb file="046.01.285" n="0"/>
+                  <pb file="046.01.286" n="0"/>
+                  <pb file="046.01.287" n="0"/>
+                  <pb file="046.01.288" n="0"/>
+                  <pb file="046.01.289" n="0"/>
+                  <pb file="046.01.290" n="0"/>
+                  <pb file="046.01.291" n="0"/>
+                  <pb file="046.01.292" n="0"/>
+                  <pb file="046.01.293" n="0"/>
+                  <pb file="046.01.294" n="0"/>
+                  <pb file="046.01.295" n="0"/>
+                  <pb file="046.01.296" n="0"/>
+                  <pb file="046.01.297" n="0"/>
+                  <pb file="046.01.298" n="0"/>
+            </div>
+            <div xml:id="echoid-div6" type="chapter" level="1" n="6">
+                  <head xml:id="echoid-head6" xml:space="preserve">Livre II. Chapitre IV. Premier séjour a Cumana</head>
+                  <pb file="046.01.299" n="0"/>
+                  <pb file="046.01.300" n="0"/>
+                  <pb file="046.01.301" n="0"/>
+                  <pb file="046.01.302" n="0"/>
+                  <pb file="046.01.303" n="0"/>
+                  <pb file="046.01.304" n="0"/>
+                  <pb file="046.01.305" n="0"/>
+                  <pb file="046.01.306" n="0"/>
+                  <pb file="046.01.307" n="0"/>
+                  <pb file="046.01.308" n="0"/>
+                  <pb file="046.01.309" n="0"/>
+                  <pb file="046.01.310" n="0"/>
+                  <pb file="046.01.311" n="0"/>
+                  <pb file="046.01.312" n="0"/>
+                  <pb file="046.01.313" n="0"/>
+                  <pb file="046.01.314" n="0"/>
+                  <pb file="046.01.315" n="0"/>
+                  <pb file="046.01.316" n="0"/>
+                  <pb file="046.01.317" n="0"/>
+                  <pb file="046.01.318" n="0"/>
+                  <pb file="046.01.319" n="0"/>
+                  <pb file="046.01.320" n="0"/>
+                  <pb file="046.01.321" n="0"/>
+                  <pb file="046.01.322" n="0"/>
+                  <pb file="046.01.323" n="0"/>
+                  <pb file="046.01.324" n="0"/>
+                  <pb file="046.01.325" n="0"/>
+                  <pb file="046.01.326" n="0"/>
+                  <pb file="046.01.327" n="0"/>
+                  <pb file="046.01.328" n="0"/>
+                  <pb file="046.01.329" n="0"/>
+            </div>
+            <div xml:id="echoid-div7" type="chapter" level="1" n="7">
+                  <head xml:id="echoid-head7" xml:space="preserve">Livre II. Chapitre V. Arata, Marais Salans, Chateau Saint Jacques</head>
+                  <pb file="046.01.330" n="0"/>
+                  <pb file="046.01.331" n="0"/>
+                  <pb file="046.01.332" n="0"/>
+                  <pb file="046.01.333" n="0"/>
+                  <pb file="046.01.334" n="0"/>
+                  <pb file="046.01.335" n="0"/>
+                  <pb file="046.01.336" n="0"/>
+                  <pb file="046.01.337" n="0"/>
+                  <pb file="046.01.338" n="0"/>
+                  <pb file="046.01.339" n="0"/>
+                  <pb file="046.01.340" n="0"/>
+                  <pb file="046.01.341" n="0"/>
+                  <pb file="046.01.342" n="0"/>
+                  <pb file="046.01.343" n="0"/>
+                  <pb file="046.01.344" n="0"/>
+                  <pb file="046.01.345" n="0"/>
+                  <pb file="046.01.346" n="0"/>
+                  <pb file="046.01.347" n="0"/>
+                  <pb file="046.01.348" n="0"/>
+                  <pb file="046.01.349" n="0"/>
+                  <pb file="046.01.350" n="0"/>
+                  <pb file="046.01.351" n="0"/>
+                  <pb file="046.01.352" n="0"/>
+                  <pb file="046.01.353" n="0"/>
+                  <pb file="046.01.354" n="0"/>
+                  <pb file="046.01.355" n="0"/>
+                  <pb file="046.01.356" n="0"/>
+                  <pb file="046.01.357" n="0"/>
+                  <pb file="046.01.358" n="0"/>
+                  <pb file="046.01.359" n="0"/>
+                  <pb file="046.01.360" n="0"/>
+                  <pb file="046.01.361" n="0"/>
+                  <pb file="046.01.362" n="0"/>
+                  <pb file="046.01.363" n="0" rhead="(Im.) Fig. 1"/>
+                  <pb file="046.01.364" n="0" rhead="Reverso im."/>
+            </div>
+            <div xml:id="echoid-div8" type="chapter" level="1" n="8">
+                  <head xml:id="echoid-head8" xml:space="preserve">Livre III. Chapitre VI. Nouvelle Andalousie</head>
+                  <pb file="046.01.365" n="0"/>
+                  <pb file="046.01.366" n="0"/>
+                  <pb file="046.01.367" n="0"/>
+                  <pb file="046.01.368" n="0"/>
+                  <pb file="046.01.369" n="0"/>
+                  <pb file="046.01.370" n="0"/>
+                  <pb file="046.01.371" n="0"/>
+                  <pb file="046.01.372" n="0"/>
+                  <pb file="046.01.373" n="0"/>
+                  <pb file="046.01.374" n="0"/>
+                  <pb file="046.01.375" n="0"/>
+                  <pb file="046.01.376" n="0"/>
+                  <pb file="046.01.377" n="0"/>
+                  <pb file="046.01.378" n="0"/>
+                  <pb file="046.01.379" n="0"/>
+                  <pb file="046.01.380" n="0"/>
+                  <pb file="046.01.381" n="0"/>
+                  <pb file="046.01.382" n="0"/>
+                  <pb file="046.01.383" n="0"/>
+                  <pb file="046.01.384" n="0"/>
+                  <pb file="046.01.385" n="0"/>
+                  <pb file="046.01.386" n="0"/>
+                  <pb file="046.01.387" n="0"/>
+                  <pb file="046.01.388" n="0"/>
+                  <pb file="046.01.389" n="0"/>
+                  <pb file="046.01.390" n="0"/>
+                  <pb file="046.01.391" n="0"/>
+                  <pb file="046.01.392" n="0"/>
+                  <pb file="046.01.393" n="0"/>
+                  <pb file="046.01.394" n="0"/>
+                  <pb file="046.01.395" n="0"/>
+                  <pb file="046.01.396" n="0"/>
+                  <pb file="046.01.397" n="0"/>
+                  <pb file="046.01.398" n="0"/>
+                  <pb file="046.01.399" n="0"/>
+                  <pb file="046.01.400" n="0"/>
+                  <pb file="046.01.401" n="0"/>
+                  <pb file="046.01.402" n="0"/>
+                  <pb file="046.01.403" n="0"/>
+                  <pb file="046.01.404" n="0"/>
+                  <pb file="046.01.405" n="0"/>
+                  <pb file="046.01.406" n="0"/>
+                  <pb file="046.01.407" n="0"/>
+                  <pb file="046.01.408" n="0"/>
+                  <pb file="046.01.409" n="0"/>
+                  <pb file="046.01.410" n="0"/>
+                  <pb file="046.01.411" n="0"/>
+                  <pb file="046.01.412" n="0"/>
+                  <pb file="046.01.413" n="0"/>
+                  <pb file="046.01.414" n="0"/>
+                  <pb file="046.01.415" n="0"/>
+                  <pb file="046.01.416" n="0"/>
+                  <pb file="046.01.417" n="0"/>
+                  <pb file="046.01.418" n="0"/>
+                  <pb file="046.01.419" n="0"/>
+                  <pb file="046.01.420" n="0"/>
+            </div>
+            <div xml:id="echoid-div9" type="chapter" level="1" n="9">
+                  <head xml:id="echoid-head9" xml:space="preserve">Livre III. Chapitre VII. Couvent de Caripe. Caverne du Guacharo. Oiseaux
+				nocturnes</head>
+                  <pb file="046.01.421" n="0"/>
+                  <pb file="046.01.422" n="0"/>
+                  <pb file="046.01.423" n="0"/>
+                  <pb file="046.01.424" n="0"/>
+                  <pb file="046.01.425" n="0"/>
+                  <pb file="046.01.426" n="0"/>
+                  <pb file="046.01.427" n="0"/>
+                  <pb file="046.01.428" n="0"/>
+                  <pb file="046.01.429" n="0"/>
+                  <pb file="046.01.430" n="0"/>
+                  <pb file="046.01.431" n="0"/>
+                  <pb file="046.01.432" n="0"/>
+                  <pb file="046.01.433" n="0"/>
+                  <pb file="046.01.434" n="0"/>
+                  <pb file="046.01.435" n="0"/>
+                  <pb file="046.01.436" n="0"/>
+                  <pb file="046.01.437" n="0"/>
+                  <pb file="046.01.438" n="0"/>
+                  <pb file="046.01.439" n="0"/>
+                  <pb file="046.01.440" n="0"/>
+                  <pb file="046.01.441" n="0"/>
+                  <pb file="046.01.442" n="0"/>
+                  <pb file="046.01.443" n="0"/>
+            </div>
+            <div xml:id="echoid-div10" type="chapter" level="1" n="10">
+                  <head xml:id="echoid-head10" xml:space="preserve">Livre III. Chapitre VIII. Caripe. Forêt de Sta Maria. Mission de Catuaro.
+				Port de Cariaco </head>
+                  <pb file="046.01.444" n="0"/>
+                  <pb file="046.01.445" n="0"/>
+                  <pb file="046.01.446" n="0"/>
+                  <pb file="046.01.447" n="0"/>
+                  <pb file="046.01.448" n="0"/>
+                  <pb file="046.01.449" n="0"/>
+                  <pb file="046.01.450" n="0"/>
+                  <pb file="046.01.451" n="0"/>
+                  <pb file="046.01.452" n="0"/>
+                  <pb file="046.01.453" n="0"/>
+                  <pb file="046.01.454" n="0"/>
+                  <pb file="046.01.455" n="0"/>
+                  <pb file="046.01.456" n="0"/>
+                  <pb file="046.01.457" n="0"/>
+                  <pb file="046.01.458" n="0"/>
+                  <pb file="046.01.459" n="0"/>
+                  <pb file="046.01.460" n="0"/>
+                  <pb file="046.01.461" n="0"/>
+                  <pb file="046.01.462" n="0"/>
+                  <pb file="046.01.463" n="0"/>
+                  <pb file="046.01.464" n="0"/>
+                  <pb file="046.01.465" n="0"/>
+                  <pb file="046.01.466" n="0"/>
+                  <pb file="046.01.467" n="0"/>
+                  <pb file="046.01.468" n="0"/>
+                  <pb file="046.01.469" n="0"/>
+            </div>
+            <div xml:id="echoid-div11" type="chapter" level="1" n="11">
+                  <head xml:id="echoid-head11" xml:space="preserve">Livre III. Chapitre IX. Chaymas. Pariagotes</head>
+                  <pb file="046.01.470" n="0"/>
+                  <pb file="046.01.471" n="0"/>
+                  <pb file="046.01.472" n="0"/>
+                  <pb file="046.01.473" n="0"/>
+                  <pb file="046.01.474" n="0"/>
+                  <pb file="046.01.475" n="0"/>
+                  <pb file="046.01.476" n="0"/>
+                  <pb file="046.01.477" n="0"/>
+                  <pb file="046.01.478" n="0"/>
+                  <pb file="046.01.479" n="0"/>
+                  <pb file="046.01.480" n="0"/>
+                  <pb file="046.01.481" n="0"/>
+                  <pb file="046.01.482" n="0"/>
+                  <pb file="046.01.483" n="0"/>
+                  <pb file="046.01.484" n="0"/>
+                  <pb file="046.01.485" n="0"/>
+                  <pb file="046.01.486" n="0"/>
+                  <pb file="046.01.487" n="0"/>
+                  <pb file="046.01.488" n="0"/>
+                  <pb file="046.01.489" n="0"/>
+                  <pb file="046.01.490" n="0"/>
+                  <pb file="046.01.491" n="0"/>
+                  <pb file="046.01.492" n="0"/>
+                  <pb file="046.01.493" n="0"/>
+                  <pb file="046.01.494" n="0"/>
+                  <pb file="046.01.495" n="0"/>
+                  <pb file="046.01.496" n="0"/>
+                  <pb file="046.01.497" n="0"/>
+                  <pb file="046.01.498" n="0"/>
+                  <pb file="046.01.499" n="0"/>
+                  <pb file="046.01.500" n="0"/>
+                  <pb file="046.01.501" n="0"/>
+                  <pb file="046.01.502" n="0"/>
+                  <pb file="046.01.503" n="0"/>
+                  <pb file="046.01.504" n="0"/>
+                  <pb file="046.01.505" n="0"/>
+                  <pb file="046.01.506" n="0"/>
+                  <pb file="046.01.507" n="0"/>
+                  <pb file="046.01.508" n="0"/>
+                  <pb file="046.01.509" n="0"/>
+                  <pb file="046.01.510" n="0"/>
+                  <pb file="046.01.511" n="0"/>
+                  <pb file="046.01.512" n="0"/>
+                  <pb file="046.01.513" n="0"/>
+                  <pb file="046.01.514" n="0"/>
+                  <pb file="046.01.515" n="0"/>
+                  <pb file="046.01.516" n="0" rhead="Notes du Livre III"/>
+                  <pb file="046.01.517" n="0"/>
+                  <pb file="046.01.518" n="0"/>
+                  <pb file="046.01.519" n="0"/>
+            </div>
+            <div xml:id="echoid-div12" type="chapter" level="1" n="12">
+                  <head xml:id="echoid-head12" xml:space="preserve">Livre IV. Chapitre X. Second séjour a Cumana. Tremblements de terre. Météores
+				extraordinaires</head>
+                  <pb file="046.01.520" n="0"/>
+                  <pb file="046.01.521" n="0"/>
+                  <pb file="046.01.522" n="0"/>
+                  <pb file="046.01.523" n="0"/>
+                  <pb file="046.01.524" n="0"/>
+                  <pb file="046.01.525" n="0"/>
+                  <pb file="046.01.526" n="0"/>
+                  <pb file="046.01.527" n="0"/>
+                  <pb file="046.01.528" n="0"/>
+                  <pb file="046.01.529" n="0"/>
+                  <pb file="046.01.530" n="0"/>
+                  <pb file="046.01.531" n="0"/>
+                  <pb file="046.01.532" n="0"/>
+                  <pb file="046.01.533" n="0"/>
+                  <pb file="046.01.534" n="0"/>
+                  <pb file="046.01.535" n="0"/>
+                  <pb file="046.01.536" n="0"/>
+                  <pb file="046.01.537" n="0"/>
+                  <pb file="046.01.538" n="0"/>
+                  <pb file="046.01.539" n="0"/>
+            </div>
+            <div xml:id="echoid-div13" type="chapter" level="1" n="13">
+                  <head xml:id="echoid-head13" xml:space="preserve">Livre IV. Chapitre XI. De Cumana a la Guayra et a Caracas </head>
+                  <pb file="046.01.540" n="0"/>
+                  <pb file="046.01.541" n="0"/>
+                  <pb file="046.01.542" n="0"/>
+                  <pb file="046.01.543" n="0"/>
+                  <pb file="046.01.544" n="0"/>
+                  <pb file="046.01.545" n="0"/>
+                  <pb file="046.01.546" n="0"/>
+                  <pb file="046.01.547" n="0"/>
+                  <pb file="046.01.548" n="0"/>
+                  <pb file="046.01.549" n="0"/>
+                  <pb file="046.01.550" n="0"/>
+                  <pb file="046.01.551" n="0"/>
+                  <pb file="046.01.552" n="0"/>
+                  <pb file="046.01.553" n="0"/>
+                  <pb file="046.01.554" n="0"/>
+                  <pb file="046.01.555" n="0"/>
+                  <pb file="046.01.556" n="0"/>
+                  <pb file="046.01.557" n="0"/>
+                  <pb file="046.01.558" n="0"/>
+                  <pb file="046.01.559" n="0"/>
+                  <pb file="046.01.560" n="0"/>
+                  <pb file="046.01.561" n="0"/>
+                  <pb file="046.01.562" n="0"/>
+                  <pb file="046.01.563" n="0"/>
+                  <pb file="046.01.564" n="0"/>
+                  <pb file="046.01.565" n="0"/>
+                  <pb file="046.01.566" n="0"/>
+                  <pb file="046.01.567" n="0"/>
+                  <pb file="046.01.568" n="0"/>
+                  <pb file="046.01.569" n="0"/>
+                  <pb file="046.01.570" n="0"/>
+                  <pb file="046.01.571" n="0"/>
+                  <pb file="046.01.572" n="0"/>
+                  <pb file="046.01.573" n="0"/>
+                  <pb file="046.01.574" n="0"/>
+                  <pb file="046.01.575" n="0"/>
+                  <pb file="046.01.576" n="0"/>
+            </div>
+            <div xml:id="echoid-div14" type="chapter" level="1" n="14">
+                  <head xml:id="echoid-head14" xml:space="preserve">Livre IV. Chapitre XII. Les provinces de Venezuela.</head>
+                  <pb file="046.01.577" n="0"/>
+                  <pb file="046.01.578" n="0"/>
+                  <pb file="046.01.579" n="0"/>
+                  <pb file="046.01.580" n="0"/>
+                  <pb file="046.01.581" n="0"/>
+                  <pb file="046.01.582" n="0"/>
+                  <pb file="046.01.583" n="0"/>
+                  <pb file="046.01.584" n="0"/>
+                  <pb file="046.01.585" n="0"/>
+                  <pb file="046.01.586" n="0"/>
+                  <pb file="046.01.587" n="0"/>
+                  <pb file="046.01.588" n="0"/>
+                  <pb file="046.01.589" n="0"/>
+                  <pb file="046.01.590" n="0"/>
+                  <pb file="046.01.591" n="0"/>
+                  <pb file="046.01.592" n="0"/>
+                  <pb file="046.01.593" n="0"/>
+                  <pb file="046.01.594" n="0"/>
+                  <pb file="046.01.595" n="0"/>
+                  <pb file="046.01.596" n="0"/>
+                  <pb file="046.01.597" n="0"/>
+                  <pb file="046.01.598" n="0"/>
+                  <pb file="046.01.599" n="0"/>
+                  <pb file="046.01.600" n="0"/>
+                  <pb file="046.01.601" n="0"/>
+            </div>
+            <div xml:id="echoid-div15" type="chapter" level="1" n="15">
+                  <head xml:id="echoid-head15" xml:space="preserve">Livre IV. Chapitre XIII. Séjour a Caracas</head>
+                  <pb file="046.01.602" n="0"/>
+                  <pb file="046.01.603" n="0"/>
+                  <pb file="046.01.604" n="0"/>
+                  <pb file="046.01.605" n="0"/>
+                  <pb file="046.01.606" n="0"/>
+                  <pb file="046.01.607" n="0"/>
+                  <pb file="046.01.608" n="0"/>
+                  <pb file="046.01.609" n="0"/>
+                  <pb file="046.01.610" n="0"/>
+                  <pb file="046.01.611" n="0"/>
+                  <pb file="046.01.612" n="0"/>
+                  <pb file="046.01.613" n="0"/>
+                  <pb file="046.01.614" n="0"/>
+                  <pb file="046.01.615" n="0"/>
+                  <pb file="046.01.616" n="0"/>
+                  <pb file="046.01.617" n="0"/>
+                  <pb file="046.01.618" n="0"/>
+                  <pb file="046.01.619" n="0"/>
+                  <pb file="046.01.620" n="0"/>
+                  <pb file="046.01.621" n="0"/>
+                  <pb file="046.01.622" n="0"/>
+                  <pb file="046.01.623" n="0"/>
+                  <pb file="046.01.624" n="0"/>
+                  <pb file="046.01.625" n="0"/>
+                  <pb file="046.01.626" n="0"/>
+                  <pb file="046.01.627" n="0"/>
+                  <pb file="046.01.628" n="0"/>
+                  <pb file="046.01.629" n="0"/>
+                  <pb file="046.01.630" n="0"/>
+                  <pb file="046.01.631" n="0"/>
+                  <pb file="046.01.632" n="0"/>
+                  <pb file="046.01.633" n="0"/>
+                  <pb file="046.01.634" n="0"/>
+                  <pb file="046.01.635" n="0" rhead="Notes sur Livre IV"/>
+                  <pb file="046.01.636" n="0"/>
+                  <pb file="046.01.637" n="0"/>
+                  <pb file="046.01.638" n="0"/>
+                  <pb file="046.01.639" n="0"/>
+                  <pb file="046.01.640" n="0"/>
+                  <pb file="046.01.641" n="0"/>
+                  <pb file="046.01.642" n="0"/>
+                  <pb file="046.01.643" n="0"/>
+                  <pb file="046.01.644" n="0"/>
+                  <pb file="046.01.645" n="0"/>
+                  <pb file="046.01.646" n="0"/>
+                  <pb file="046.01.647" n="0"/>
+                  <pb file="046.01.648" n="0"/>
+                  <pb file="046.01.649" n="0"/>
+                  <pb file="046.01.650" n="0"/>
+            </div>
+            <div xml:id="echoid-div16" type="chapter" level="1" n="16">
+                  <head xml:id="echoid-head16" xml:space="preserve">Supplément</head>
+                  <pb file="046.01.651" n="0"/>
+                  <pb file="046.01.652" n="0"/>
+                  <pb file="046.01.653" n="0" rhead="Errata"/>
+                  <pb file="046.01.654" n="0" rhead="Table des matières"/>
+                  <pb file="046.01.655" n="0"/>
+            </div>
+      </text>
+</echo>

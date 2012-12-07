@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<archimedes xmlns:xlink="http://www.w3.org/1999/xlink" >      <info>
+        <author>Pseudo Euclid</author>
+        <title>de ponderoso et levi</title>
+        <date>1565</date>
+        <place>Paris</place>
+       <translator></translator>
+        <lang>fr</lang>
+        <cvs_file>eucli_ponde_058_fr_1565.xml</cvs_file>
+        <cvs_version></cvs_version>
+        <locator>058.xml</locator>
+</info>      <text>
+<pb xlink:href="058/01/001.jpg"></pb><front>
+
+<section><p type="head"><s id="id.000001">UNE PIECE DV LIV­<lb></lb>VRE D&#039;EVCLIDE INTITVLE,<lb></lb>DV LEGER ET DV PESANT TRA­<lb></lb>duict &amp; commenté par Pierre <lb></lb>Forcadel de <lb></lb>Bezies</s></p></section></front><body><chap><p type="head">
+<s id="id.000002">DEFINITIONS.</s></p><p type="main">
+<s id="id.000003">1. <lb></lb>Les corps ſont d&#039;eſgalle grandeur qui rempliſ­<lb></lb>ſent les lieux egaux.</s></p><p>
+<s id="id.000004">2. <lb></lb>Les corps ſont de diuerſe grandeur, qui rempliſ­<lb></lb>ſent les lieux non egaux.</s></p><pb xlink:href="058/01/002.jpg"></pb><p>
+<s id="id.000005">3. <lb></lb>Les corps ſe diſent plus grans de magnitude, qui<lb></lb>ſont en plus grand lieu.</s></p><p>
+<s id="id.000006">4. <lb></lb>Les corps ſont d&#039;egalle puiſſance, deſquelz les <lb></lb>mouuem<expan abbr="ẽ">en</expan>s ſont egaux en temps, air ou eau, moy<expan abbr="ẽ">en</expan>s <lb></lb>egaux, &amp; par egaux interualles.</s></p><p>
+<s id="id.000007">5. <lb></lb>Les corps ſont de diuerſe puiſſance, deſquelz les <lb></lb>mouuemens ſont egeux en temps diuers.</s></p><p>
+<s id="id.000008">6. <lb></lb>Des corps de diuerſe puiſſance, celluy ſe dict eſtre <lb></lb>plus gr<expan abbr="ã">am</expan>d de puiſſance lequel mouuant prent moins <lb></lb>de temps: &amp; plus petit de puiſſance, qui employe <lb></lb>plus de temps.</s></p><p>
+<s id="id.000009">7.<lb></lb><pb xlink:href="058/01/003.jpg"></pb>Les corps ſont de meſme genre, leſquelz eſtans <lb></lb>egaux de grandeur, ſont auſſi egaux de puiſſance.</s></p><p>
+<s id="id.000010">8. <lb></lb>Les corps ſont de diuers genre leſquelz combi<expan abbr="ẽ">en</expan><lb></lb>qu&#039;ilz ſoient egaux de grandeur, ne ſont pas egaux<lb></lb>de puiſſance, &amp; faut qu&#039;ilz meuuent par un meſme <lb></lb>moyen.</s></p><p>
+<s id="id.000011">9.<lb></lb> Des corps de diuers genre, celluy ſe dict plus pu<lb></lb>iſſant, qui eſt plus ſolide.
+</s></p></chap><chap><p type="head"><s id="id.000012">PROPOSITIONS.</s></p><p type="main">
+<s id="id.000013">1.</s></p><p>
+<s id="id.000014">Des corps de diuerſe puiſſance, celluy qui eſt meu<lb></lb>en plus grand eſpace, ha plus de puiſſance.</s></p><pb xlink:href="058/01/004.jpg"></pb><p>
+<s id="id.000015">2.</s></p><p>
+<s id="id.000016">Des corps de meſme genre, ſi iceux ſont entr&#039;eux <lb></lb>de pluſieurs fois, les puiſſances d&#039;iceux ſer<expan abbr="õ">on</expan>t d&#039;eſgal <lb></lb>pluſieurs fois.</s></p><pb xlink:href="058/01/005.jpg"></pb><p>
+<s id="id.000017">3.</s></p><p>
+<s id="id.000018">Des corps de meſme genre, la proportion eſt la meſme &amp; de grandeur &amp; de puiſſance.</s></p><p>
+<s id="id.000019">4.</s></p><p>
+<s id="id.000020">Les corps leſquelz ſont egaux de puiſſance à vn <lb></lb>corps de meſme genre ſont entr&#039;eux de meſme gen­<lb></lb>re, car oſtées choſes egales à ce tiers la, les vertus d&#039;i­<lb></lb>celles ſeront egales pource qu&#039;elles ſont egales à la <lb></lb>puiſſance du tiers.</s></p></chap></body></text></archimedes>

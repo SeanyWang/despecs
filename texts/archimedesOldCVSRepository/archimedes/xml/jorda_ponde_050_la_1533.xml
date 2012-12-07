@@ -1,0 +1,408 @@
+<?xml version="1.0"?>
+
+
+
+<!DOCTYPE archimedes SYSTEM "../dtd/archimedes.dtd" >
+
+
+
+<archimedes xmlns:xlink="http://www.w3.org/1999/xlink">      <info>
+
+	<author>Jordanus de Nemore</author>
+
+	<title>Liber de ponderibus</title>
+
+
+
+	<date>1533</date>
+
+
+
+	<place>Nuremberg</place>
+
+
+
+	<translator/>
+
+
+
+	<lang>la</lang>
+
+
+
+	<cvs_file>jorda_ponde_050_la_1533.xml</cvs_file>
+
+
+
+	<cvs_version/>
+
+
+
+	<locator>050.xml</locator>
+
+</info>
+
+
+
+<text><front><section><pb xlink:href="050/01/001.jpg" />
+<p type="head">
+<s><emph type="center"/>LIBER IORDANI <lb/>
+NEMORARII VIRI CLARISSIMI, <emph.end type="center"/></s>
+</p>
+
+<p type="head">
+<s><emph type="center"/>DE PONDERIBUS PROPOSITIONES XIII.<emph.end type="center"/></s>
+</p>
+
+<p type="head">
+<s><emph type="center"/>&amp; earundem demon&longs;trationes, mul&shy;<lb/>tarumque rerum rationes &longs;an&egrave; <lb/>pulcherrimas comple&shy;<lb/>ctens, nunc in lu&shy;<lb/>cem editus.<emph.end type="center"/></s>
+</p>
+
+<p type="head">
+<s><emph type="center"/>Cum gratia &amp; priuilegio Imperiali, Petro Apiano Ma<lb/>thematico Ingol&longs;tadiano ad xxx. annos conce&longs;&longs;o.<emph.end type="center"/></s>
+</p>
+
+<figure/>
+
+<p type="main">
+<s><emph type="center"/>M. D. XXXIII.<emph.end type="center"/></s>
+</p>
+
+<pb xlink:href="050/01/002.jpg" /><p type="main"><s>[empty page]</s></p></section></front>
+
+<body><chap><pb xlink:href="050/01/003.jpg" /><p type="main"><s>[dedication not transcribed]</s></p><pb xlink:href="050/01/004.jpg" /><p type="main"><s>[dedication not transcribed]</s></p><pb xlink:href="050/01/005.jpg" /><p type="main"><s>[dedication not transcribed]</s></p></chap><chap><pb xlink:href="050/01/006.jpg" /><p type="main">
+
+
+
+<s id="id.0.0.02.00">LIBER DE PON&shy;<lb/>DERIBVS IORDANI NEMORARII.<lb/></s>
+
+
+
+<s id="id.0.0.02.01">Cum scientia de ponderibus sit subalternata tam Ge<lb/>ometri&aelig; quam philosophi&aelig;, oportet in hac sci&shy;<lb/>entia qu&aelig;dam geometrice, qu&aelig;dam phy&longs;ice proba&shy;<lb/>re.</s>
+
+
+
+<s id="id.0.0.02.02">Primii ergo oportet scire, quod brachium descenden<lb/>do in libra, describit <expan abbr="circul&utilde;">circulu</expan>, cuius circuli semidia&shy;<lb/>meter, est semper &aelig;qualis brachio libr&aelig;.</s>
+
+
+
+<s id="id.0.0.02.03">Secundo <lb/>oportet ostendere, quod maior arcus eiusdem circuli, <lb/>est magis curvus minore, et quod talis minor plus cur&shy;<lb/>vatur, quam in circulo maiore.</s>
+
+
+
+<s id="id.0.0.02.04">Primum probatur, quia minus de corda, qu&aelig;<lb/>est recta linea, correspondet proportionaliter arcui maiori, quam minori, <lb/>non enim arcui duplo correspondet corda dupla, sed minus ea.</s>
+
+
+
+<s id="id.0.0.02.05">Secun&shy;<lb/>dum patet sic, quia si sumantur de circulo maiori et minori arcus &aelig;qua&shy;<lb/>les, corda arcus maioris circuli longior est, propterea posset ex hoc osten&shy;<lb/>di, quod pondus in libra tanto sit levius, quanto plus descendit in semicircu<lb/>lo.</s>
+
+
+
+<s id="id.0.0.03.02">Incipiat igitur mobile descendere a summo semicirculi, et descendat <lb/>continue, dico tunc quod maior arcus circuli plus contrariatur rect&aelig; line&aelig; <lb/>quam minor, et casus gravis per arcum maiorem, plus contrariatur casui gra<lb/>vis, qui per rectam fieri debet, quam casus per arcum minorem, patet, ergo ma&shy;<lb/>ior est violentia in motu secundum arcum maiorem, quam secundum minorem, <lb/>aliter enim non fieret motus magis gravis.</s>
+
+
+
+<s id="id.0.0.03.05">Cum ergo plus in ascensu ascensu aliquod mo<lb/>vetur violentie, patet, quam maior est gravitas secundum hunc situm, et quia secundum <lb/>situationem talium sic fit, dicatur gravitas secundum situm in futu&shy;<lb/>ro processu.</s>
+
+
+
+<s id="id.0.0.04.01">Ita enim, syllogisando de motu, tamquam motus sit causa gravita&shy;<lb/>tis et levitatis, potius contrarium concludimus per causam huius contrari<lb/>etatis, plus contrariam, id est plus habere violenti&aelig;, quod si grave descen&shy;<lb/>dat, hoc est a natura, sed per lineam curvam, hoc est contra naturam, ideo <lb/>iste descensus est mixtus ex descensu natur&aelig; et violento.</s>
+
+
+
+<s id="id.0.0.04.03">In ascensu vero <lb/>ponderis, cum ibi nihil sit secundum naturam, licet argumentari sicut <lb/>de igne, qui naturaliter ascendit.</s>
+
+
+
+<s id="id.0.0.04.04">De igne enim argumentatur in ascensu, <lb/>sicut de gravi in descensu, ex quo sequitur, Quanto grave plus sic ascen&shy;<lb/>dit, tanto minus habet de levitate secundum situm, et sic plus habet de <lb/>gravitate secundum situm.</s>
+
+
+
+<s id="id.0.0.05.01">Diceret forte aliquis, quod non oportet propter <lb/>pr&aelig;dicta, grave in parte circuli inferiori fieri secundum situm levius, pa<lb/>tet unum non esse motum, sed quietem, tunc nihil contrarium natur&aelig; acqui&shy;<lb/>ritur.</s>
+
+
+
+<s id="id.0.0.05.02">Sed contra illud obijcitur sic, possibile fuit hanc qui&aelig;tem fuisse ter&shy;<lb/>minum motus intrinsecum motus, sicut albationis albedo, cum igitur motus<pb xlink:href="050/01/007.jpg" />non contrarientur, nisi quia termini contrariantur eorum.</s><s>Et est propor<lb/>tio quietum inter se, et motuum inter se per locum a proportione, sequi&shy;<lb/>tur tantam esse contrarietatem in quiescendo, sicut in movendo.</s>
+
+
+
+<s id="id.0.0.05.03">In termi<lb/>no enim cuiuscumque motus intenditur, intenditur et viget tota natura <lb/>in actu, qui in motu sit quasi in potentia, secundum quem fiebat contra&shy;<lb/>rietatis su&aelig; oppositio.</s>
+
+
+
+<s id="id.0.0.05.04">Grave igitur in parte inferiori, sive moveatur si&shy;<lb/>ve quiescat, levius est secundum situm.</s></p><p type="main">
+
+
+
+<s id="id.0.0.06.01">Atque eodem syllogismo necesse <lb/>est pondus gravius esse quodam modo et velocius descendere, quod move<lb/>tur in circulo maiori, quia ut prius probatur, minus obliquatur, quam in <lb/>circulo minori, et per consequens minus habet violenti&aelig;, quia igitur mi<lb/>nus distat descensus in circulo maiori a descensu naturali, qui sit per rectam <lb/>lineam, quam qui est in circulo minori.</s><s>Dicatur descensus rectior, id est plus <lb/>tendens ad rectitudinem, atque in circulo minori, ob rationem oppositam, <lb/>obliquior descensus.</s>
+
+
+
+<s id="id.0.0.06.03">Quare vero superius dictum est in quiete esse con&shy;<lb/>trarietatem, sicut in motu potest esse dubitatio, quia in eodem situ, ubi <lb/>est illa dependentia quietis obliquitatis, potest et rectitudinis, sicut si la<lb/>pis suspendatur in tecto domus ad locum ponderis, et quod pendeat in li&shy;<lb/>bra.</s>
+
+
+
+<s id="id.0.0.06.04">Sed dicendum ad hoc, quod varietas violenti&aelig;, facit varietatem quietum <lb/>secundum formam, quod manifestum est ex motuum ad quietes varia&shy;<lb/>tione.</s>
+
+
+
+<s id="id.0.0.06.05">Ex eadem enim violentia sit totus ad quietem motus, et ipsa quies, <lb/>sicut patet ex pr&aelig;dictis, unde idem forte sit locus quietum naturaliter di&shy;<lb/>versarum.</s></p><p type="main">
+
+
+
+<s id="id.0.0.07.01">Istis igitur notis, sequuntur suppositiones libri Ponderum <lb/>et dicuntur suppositiones, quia per istam scientiam non debent probari, <lb/>sed supponuntur, probari tamen ex iam dictis qu&aelig;dam indigent proba&shy;<lb/>tione, sicut post apparebit.</s>
+
+
+
+<s id="id.0.0.07.04">Sunt itaque suppositiones septem.</s></p></chap><chap><p type="main">
+
+
+
+<s id="id.0.0.09.01.post">Prima <lb/>est, Omnis ponderosi motum ad medium esse.</s></p><p type="main">
+
+
+
+<s id="id.0.0.10.01.post">Secunda, Quanto gra&shy;<lb/>vius tanto velocius descendere.</s></p><p type="main">
+
+
+
+<s id="id.0.0.11.01.post">Tertia, Gravius ess in descendendo,<lb/> quanto eiusdem motus ad medium est rectior.</s></p><p type="main">
+
+
+
+<s id="id.0.0.12.01.post">Quarta, Secundum si&shy;<lb/>tum gravius esse, quanto in eodem situ minus obliquus est descensus.<lb/></s></p><p type="main">
+
+
+
+<s id="id.0.0.13.01.post">Quinta, Obilquiorem autem descensum minus capere de directo, in eadem <lb/>quantitate.</s></p><p type="main">
+
+
+
+<s id="id.0.0.14.01.post">Sexta, Minus grave aliud alio esse secundum situm, quan&shy;<lb/>to descensus alterius consequitur contrario motu.</s></p><p type="main">
+
+
+
+<s id="id.0.0.15.01.post">Septima, Situm<lb/> &aelig;qualitatis esse &aelig;quidistantiam superficiei orizontis.</s></p><p type="main">
+
+
+
+<s id="id.0.0.16.01">Omnes autem <lb/>suppositiones sunt satis manifest&aelig;, sicut patet per pr&aelig;dicta, et ideo pro&shy;<lb/>positiones prosequi licet, et dicuntur propositiones, quia, ut probentur, <lb/>proponuntur.</s>
+
+
+
+<s id="id.0.0.16.03">Sunt itaque tredecim.</s></p><pb xlink:href="050/01/008.jpg" /></chap><chap><p type="main">
+
+
+
+<s id="id.0.0.18.01.prop">PROPOSITIO PRIMA.<lb/></s><s>Inter qu&aelig;libet duo gravia est velocitas descenden<lb/>do proprie, et ponderum eodem ordine sumpta pro<lb/>portio, descensus autem, et contrarii motus, proportio eadem, sed permutata.<lb/></s></p><p type="main">
+
+
+
+<s id="id.0.0.19.01"><figure id="id.050.01.008.1.jpg" xlink:href="050/01/008/1.jpg"/>Dicitur proprie, ut excludantur omnes velocitates, quoquo modo <lb/>pr&aelig;ter naturam acquisit&aelig;.</s>
+
+
+
+<s id="id.0.0.19.02">Prima pars patet, quia cum velocitatis pro&shy;<lb/>prie precisa causa sit pondus, patet, quo ad multiplicationem ponderis <lb/>sequitur velocitatis multiplicatio.</s>
+
+
+
+<s id="id.0.0.19.03">Secunda pars patet, quia eadem est <lb/>proportio descensus et ascensus, sed contrarie sumitur proportio hic <lb/>et ibi, propter quod dicitur permutata.</s>
+
+
+
+<s id="id.0.0.19.04">Sicut enim se habet in descensu <lb/>pondus, ita aliud pondus in ascensu, quia eiusdem proportionis est di&shy;<lb/>stantia gravis in descendendo in circulo superiori, sicut ascensus ab infe<lb/>riori, eadem igitur est proportio, sed permutata.</s>
+
+
+
+<s id="id.0.0.19.05">Oportet enim, quanto illud exce&shy;<lb/>dit, tanto id isto excedi.</s><s>Et per consequens, quanto illud quod est gravi&shy;<lb/>us, velocius ascendit, tanto levius movetur contrarie.</s></p><p type="main"><s>[commentary not transcribed]</s></p><pb xlink:href="050/01/009.jpg" /><p type="main"><s>[commentary not transcribed]</s></p><figure id="id.050.01.009.1.jpg" xlink:href="050/01/009/1.jpg"/><pb xlink:href="050/01/010.jpg" /><p type="main"><s>[commentary not transcribed]</s></p><pb xlink:href="050/01/011.jpg" /></chap><chap><p type="main"><s>[commentary not transcribed]</s></p><p type="main">
+
+
+
+<s id="id.0.0.20.01.prop">PROPOSITIO SECUNDA.<lb/></s><s> Cum fuerit &aelig;quilibris positio &aelig;qualis, &aelig;quis pon<lb/>deribus appensis, ab &aelig;qualitate non discedet, etsi ab <lb/>&aelig;quidistantia separetur, ad &aelig;qualitatis situm revertetur.<lb/></s></p><p type="main">
+
+
+
+<s id="id.0.0.21.01">Primum patet, quia sunt equ&aelig; gravia.</s>
+
+
+
+<s id="id.0.0.21.02">Secundum patet per quartam suppositi&shy;<lb/>onem quartam, vocatur autem illud situs, quod circulus dicitur, sicut patet per <lb/>pr&aelig;dicta.<figure id="id.050.01.011.1.jpg" xlink:href="050/01/011/1.jpg"/></s></p><p type="main"><s>[commentary not transcribed]</s></p><pb xlink:href="050/01/012.jpg" /><p type="main"><s>[commentary not transcribed]</s></p><figure id="id.050.01.012.1.jpg" xlink:href="050/01/012/1.jpg"/><pb xlink:href="050/01/013.jpg" /></chap><chap><p type="main">
+
+
+
+<s id="id.0.0.22.00"><figure id="id.050.01.013.1.jpg" xlink:href="050/01/013/1.jpg"/>PROPOSITIO III.<lb/></s>
+
+
+
+<s id="id.0.0.22.01.prop">Cum fuerint appen&shy;<lb/>sorum pondera &aelig;qua<lb/>lia, non motum faciet in<lb/>&aelig;quilibri appendicu&shy;<lb/>lorum in&aelig;qualitas.</s></p><p type="main">
+
+
+
+<s id="id.0.0.23.01">Non debet hic sumi in&aelig;&shy;<lb/>qualitas appendiculorum pon&shy;<lb/>dere, sed longitudine proba&shy;<lb/>tur sic.</s><s>Si fiat motus in una par<lb/>te, ergo pars alia est minus gra&shy;<lb/>vis, per suppositionem secundam, <lb/>sed positum est prius appenso<lb/>rum pondera esse &aelig;qualia; ergo.<lb/></s></p><p type="main"><s>[commentary not transcribed]</s></p><pb xlink:href="050/01/014.jpg" /><p type="main"><s>[commentary not transcribed]</s></p></chap><chap><p type="main">
+
+
+
+<s id="id.0.0.24.00">PROPOSITIO QUARTA.<lb/></s>
+
+
+
+<s id="id.0.0.24.01.prop">Quodlibet pondus in quamcumque partem discedat secundum situm sit levius.<lb/></s></p><p type="main">
+
+
+
+<s id="id.0.0.25.01">Manifestum est hoc per suppositionem quartam.</s></p><p type="main"><s>[commentary not transcribed]</s></p><pb xlink:href="050/01/015.jpg" /><figure id="id.050.01.015.1.jpg" xlink:href="050/01/015/1.jpg"/><p type="main"><s>[commentary not transcribed]</s></p></chap><chap><p type="main">
+
+
+
+<s id="id.0.0.26.00">PROPOSITIO QUINTA.</s>
+
+
+
+<s id="id.0.0.26.01.prop">Si fuerint brachia &aelig;quilibris in&aelig;qualia, &aelig;quali&shy;<lb/>bus ponderibus appensis, ex parte longioris fiet motus.<lb/></s></p><p type="main">
+
+
+
+<s id="id.0.0.27.01">Brachia in&aelig;qualia longitudine non pondere, probatur sic.</s>
+
+
+
+<s id="id.0.0.27.02">Ex parte <lb/>longioris describitur circulus maior, et sic patet per suppositionem tertiam <lb/>quod pondus secundum situm est gravius.</s></p><p type="main"><s>[commentary not transcribed]</s></p><pb xlink:href="050/01/016.jpg" /><figure id="id.050.01.016.1.jpg" xlink:href="050/01/016/1.jpg"/><p type="main"><s>[commentary not transcribed]</s></p><figure id="id.050.01.016.2.jpg" xlink:href="050/01/016/2.jpg"/><pb xlink:href="050/01/017.jpg" /><p type="main"><s>[commentary not transcribed]</s></p><figure id="id.050.01.017.1.jpg" xlink:href="050/01/017/1.jpg"/><p type="main"><s>[commentary not transcribed]</s></p><pb xlink:href="050/01/018.jpg" /><p type="main"><s>[commentary not transcribed]</s></p><pb xlink:href="050/01/019.jpg" /><figure id="id.050.01.019.1.jpg" xlink:href="050/01/019/1.jpg"/><p type="main"><s>[commentary not transcribed]</s></p><figure id="id.050.01.019.2.jpg" xlink:href="050/01/019/2.jpg"/><pb xlink:href="050/01/020.jpg" /><p type="main"><s>[commentary not transcribed]</s></p><figure id="id.050.01.020.1.jpg" xlink:href="050/01/020/1.jpg"/></chap><chap><p type="main">
+
+
+
+<s id="id.0.0.28.00">PROPOSITIO SEXTA.<lb/></s>
+
+
+
+<s id="id.0.0.28.01.prop">Cum unius ponderis sint appensa, et a centro mo&shy;<lb/>tus in&aelig;qualiter distent, et si remotum secundum di&shy;<lb/>stantiam propinquius accesserit ad directionem, alio <lb/>non moto secundum situm, illo levius fiet.<lb/></s></p><p type="main">
+
+
+
+<s id="id.0.0.29.01">Centrum motus dicitur hic punctus in brachio libr&aelig; circa quem bra&shy;<lb/>chia libr&aelig; vertuntur.</s>
+
+
+
+<s id="id.0.0.29.02">Si igitur unum pondus ponderat in brachio, plus <lb/>distante a centro motus illo alio dependente in alio brachio, et sint &aelig;que <lb/>gravia, si tunc remotius appropinquat ad distantiam, vel at directionem, <lb/>moto appensili ad situm &aelig;qualem, quod prius in remotiori parte fue&shy;<lb/>rit &aelig;que grave, nunc est levius, quia tunc a se ipso, quam prius est levius, quia<pb xlink:href="050/01/021.jpg" />obliquior est descensus.</s>
+
+
+
+<s id="id.0.0.29.03">Est enim semicirculus minor, quem tunc fuit.</s></p><p type="main"><s>[commentary not transcribed]</s></p><figure id="id.050.01.021.1.jpg" xlink:href="050/01/021/1.jpg"/><pb xlink:href="050/01/022.jpg" /></chap><chap><p type="main">
+
+
+
+<s id="id.0.0.30.00">PROPOSITIO SEPTIMA.<lb/></s>
+
+
+
+<s id="id.0.0.30.01.prop">Aequis ponderibus in &aelig;quilibri appensis, si &aelig;qua<lb/>lia sint appensibilia, alterum autem circum <lb/>volubile appenditur, graviua erit secundum situm.<lb/></s></p><p type="main">
+
+
+
+<s id="id.0.0.31.01">Circumvolubile dicitur, quando perpendiculum potest habere decli<lb/>nationem plus largam, quam brachia libr&aelig;, ut sit, quando in circulo pendet <lb/>secundum angulum rectum fixum, dicitur, quando nullam contingit habere de&shy;<lb/>clinationem perpendiculorum, nisi secundum brachium, et est in situ &aelig;qua&shy;<lb/>litatis inter brachium et perpendiculum angulus rectus, probatur.</s><s>Sint <lb/>appensa &aelig;qualia, ut vult positio, in pondere, sed non in longitudine, tunc <lb/>illud quod est circumvolubile, maiorem circulum constituit in causa, <lb/>quia plus declinat propter circumvolutionem, et sic pondus ibi gravius <lb/>est secundum situm, cum eius descensus sit rectior.</s></p><p type="main">
+
+
+
+<s id="id.0.0.32.01">Illa propositio fuit inventa <lb/>de quodam experimento facto ad probationem partis secund&aelig;.</s>
+
+
+
+<s id="id.0.0.32.02">Cum enim <lb/>aliquis voluit experiri, an ita esset; posuit in &aelig;quilibri pondera &aelig;qua<lb/>lia, cuius appendentia erunt filo composita, qu&aelig; motum habent a bra&shy;<lb/>chiis alienum, etiam propter perpendiculorum flexus incognitis experimentum<lb/><figure id="id.050.01.022.1.jpg" xlink:href="050/01/022/1.jpg"/>fallax, quare experiens ve&shy;<lb/>ritatis irrisorem, et acce&shy;<lb/>pto cum casu, quod secundum <lb/>&aelig;quidistantiam a medio mo&shy;<lb/>tus propter perpendicula, <lb/>ex terminis brachiorum li&shy;<lb/>ne&aelig; sic describuntur utrumque <lb/>intelligit, quod prius nega&shy;<lb/>vit, quod est, quia preter mu&shy;<lb/>tationes brachiorum alii non <lb/>erunt flexus, et ex hoc non <lb/>conclusit secundum rectos <lb/>angulos idem congruere, cum <lb/>motus brachiorum simili&shy;<lb/>ter contingit.</s></p><p type="main"><s>[commentary not transcribed]</s></p><pb xlink:href="050/01/023.jpg" /><p type="main"><s>[commentary not transcribed]</s></p></chap><chap><p type="main">
+
+
+
+<s id="id.0.0.33.00">PROPOSITIO OCTAVA.<lb/></s>
+
+
+
+<s id="id.0.0.33.01.prop">Si fuerint brachia libr&aelig; proportionalia ponderi&shy;<lb/>bus appensorum, ita, ut in breviori gravius appenda<lb/>tur, &aelig;que gravia erunt secundum situm.<lb/></s></p><p type="main">
+
+
+
+<s id="id.0.0.34.01">Si pondus gravius tantum valet in termino breviori, quantum bra&shy;<lb/>chium libr&aelig; longius in suo loco, et similiter pondus minus in breviori, <lb/>tunc dico, sic valebunt secundum situm, quando non essent sic secundum <lb/>naturam, necessario erunt pondera secundum situm &aelig;qualia, quia pon&shy;<lb/>dus et brachium hic valet per oppositum totum reliquum, quia propter neu<lb/>trum pondus declinat, sicut patet propositione huius prima.</s></p><p type="main"><s>[commentary not transcribed]</s></p><figure id="id.050.01.023.1.jpg" xlink:href="050/01/023/1.jpg"/><pb xlink:href="050/01/024.jpg" /><p type="main"><s>[commentary not transcribed]</s></p><pb xlink:href="050/01/025.jpg" /><p type="main"><s>[commentary not transcribed]</s></p></chap><chap><p type="main">
+
+
+
+<s id="id.0.0.35.00">PROPOSITIO NONA.<lb/></s>
+
+
+
+<s id="id.0.0.35.01.prop">Si duo oblonga unius grossiciei per totum &longs;imilia <lb/>et pondere et quantitate &aelig;qualia, appendantur, ita, <lb/>ut alterum erigatur, et alterum orthogonaliter depen<lb/>deat, ita etiam, ut termini dependentis, et medii alte&shy;<lb/>rius, eadem sit a centro distantia, secundum hunc situm<lb/>&aelig;que gravia fient.<lb/></s></p><p type="main">
+
+
+
+<s id="id.0.0.36.01">Unum pondus secet brachium transversum, et aliud pondus de&shy;<lb/>pendeat descensu verso, et sit terminus illius in&aelig;quali distantia a centro <lb/>motus cum medio alterius, quia sicut illius extremum plus a centro di&shy;<lb/>stat, ita istius medium.</s>
+
+
+
+<s id="id.0.0.36.02">probatur sic, Gravitas naturalis est &aelig;qualis utro<lb/>bique propositum ut violentum, similiter, quia semicirculi sunt &aelig;quales, <lb/>ergo &aelig;que gravia secundum situm sunt appensa.</s></p><p type="main"><s>[commentary not transcribed]</s></p><pb xlink:href="050/01/026.jpg" /><figure id="id.050.01.026.1.jpg" xlink:href="050/01/026/1.jpg"/><p type="main"><s>[commentary not transcribed]</s></p></chap><chap><p type="main">
+
+
+
+<s id="id.0.0.37.00">PROPOSITIO DECIMA.<lb/></s>
+
+
+
+<s id="id.0.0.37.01.prop">Si canonium fuerit symmetrum magnitudine, et sub<lb/>stanti&aelig; eiusdem, dividitaturque in duas partes in&aelig;qua&shy;<lb/>les, et suspendatur in termino minoris portionis pon<lb/>dus, quod faciat canonium paralellum epipedo ori&shy;<lb/>zontis, proportio ponderis illius, ad superabundan&shy;<lb/>tiam ponderis maioris portionis canonii ad minorem,<pb xlink:href="050/01/027.jpg" /> est sicut proportio totius canonii ad duplum longitu<lb/>dinis minoris portionis.</s></p><p type="main">
+
+
+
+<s id="id.0.0.38.01">Canonium est idem quod brachium libr&aelig;, quia est regula, Symmetrum <lb/>est proportionale id est brachium &aelig;quale brachio, zona et magnitudine eius<lb/>dem in quantitate et pondere, et parallelum id est &aelig;quidistans, epipedo, id est su&shy;<lb/>perficiei, probatur sic.</s><s>Sit &aelig;quilibra &aelig;quilonga, et omnia &aelig;qualia, et<lb/>in omni parte &aelig;que grossum, sit utrumque et &aelig;que grave.</s>
+
+
+
+<s id="id.0.0.38.06">Sit ergo longi&shy;<lb/>tudo uniuscuiusque sex palmorum, et tollantur post hoc quatuor palmi de <lb/>uno Manifestum itaque, quoniam brachium longius, est gravius triplici <lb/>gravitate, sicut etiam longius gravius dicitur naturaliter, quia brevius <lb/>tantum duos palmos, sicut sit, pro ponderositate cuiusque appendatur <lb/>pondus sex ad terminum brevioris partis.</s>
+
+
+
+<s id="id.0.0.38.10">Arguitur sic, Illud pondus <lb/>facit canonium parallelum epipedo orizontis, sicut patet, quia cum li&shy;<lb/>nea recta perpendicularis erecta fuerit a superiori plano orizontis ad ca<lb/>nonium constituit angulos rectos, manifestum est propositione prima <lb/>per Euclidem, canonium s&aelig;pe parallelum empipedo, si altera pars esset <lb/>gravior altera, alia eam sequeretur, sicut aliud canonium motu contra&shy;<lb/>rio, patet suppositione sexta, ergo &aelig;que graves sunt partes alternarum se<lb/>cundum situm, quod si sic est, tunc additio addatur ponderi, tunc minor erit <lb/>canonii inclinatio.</s>
+
+
+
+<s id="id.0.0.38.13">Sicut ista probatur geometrice, ita possunt omnes pro&shy;ba<lb/>ri per miss&aelig; per proportionem illarum linearum, et angulorum suorum constructorum.<lb/></s></p><p type="main"><s>[commentary not transcribed]</s></p><figure id="id.050.01.027.1.jpg" xlink:href="050/01/027/1.jpg"/><pb xlink:href="050/01/028.jpg" /><p type="main"><s>[commentary not transcribed]</s></p></chap><chap><p type="main">
+
+
+
+<s id="id.0.0.39.00">PROPOSITIO UNDECIMA.<lb/></s>
+
+
+
+<s id="id.0.0.39.01.prop">Si fuerit proportio ponderis in termino minoris<lb/>portionis suspensi ad superabundantiam ponderis ma&shy;<lb/>ioris portionis ad minorem, sicut proportio totius lon<lb/>gitudinis canonii ad duplam longitudinem minoris por<lb/>tionis, erit canonium paralellum empipedo orizontis.</s></p><p type="main">
+
+
+
+<s id="id.0.0.40.01">Commentum prius probatum est, quod ad equidistantiam canonii a superficie o&shy;<lb/>rizontis, oportet esse pondus iam dictum, ex quibus sequitur conversa sci&shy;<lb/>licet, quod talis &aelig;quidistantia semper sit tali pondere, quia si non sit &aelig;quidi&shy;<lb/>stantia, sequitur, quod qu&aelig; &aelig;quantur, pondere non &aelig;quantur.</s>
+
+
+
+<s id="id.0.0.40.03">Prius enim osten&shy;<lb/>debatur, brachio longiori pondus in situ co&aelig;quari, vel correspondere, <lb/>igitur per suppositionem sextam, neque brachium pondus, neque pondus bra&shy;<lb/>chium sequitur motu contrario.</s></p><p type="main"><s>[commentary not transcribed]</s></p><pb xlink:href="050/01/029.jpg" /><p type="main"><s>[commentary not transcribed]</s></p></chap><chap><p type="main">
+
+
+
+<s id="id.0.0.41.00">PROPOSITIO DUODECIMA.<lb/></s>
+
+
+
+<s id="id.0.0.41.01.prop">Ex iis manifestum est, quoniam si fuerit canonium sim<lb/>metrum magnitudine, et zona eiusdem notum longitudine <lb/>et pondere, et dividatur in duas partes in&aelig;quales da&shy;<lb/>tas, tunc possibile est nobis invenire pondus, quod <lb/>cum suspensum fuerit a termino minoris portionis, fa<lb/>ciet canonium paralellum empipedo orizontis.</s></p><p type="main">
+
+
+
+<s id="id.0.0.42.01">Illa probatio satis patet ex pr&aelig;dictis.</s></p><p type="main"><s>[commentary not transcribed]</s></p><figure id="id.050.01.029.1.jpg" xlink:href="050/01/029/1.jpg"/><pb xlink:href="050/01/030.jpg" /><p type="main"><s>[commentary not transcribed]</s></p></chap><chap><p type="main">
+
+
+
+<s id="id.0.0.43.00">PROPOSITIO TREDECIMA.<lb/></s>
+
+
+
+<s id="id.0.0.43.01.prop">Si fuerit canonium datum longitudine, spissitudi<lb/>ne, et gravitate, et dividatur in duas partes in&aelig;qua&shy;<lb/>les, fueritque suspensum a termino minoris portionis <lb/>pondus datum, quod faciet canonium paralellum <lb/>empipedo orizontis, longitudo uniuscuiusque portio <lb/>data erit.</s></p><p type="main">
+
+
+
+<s id="id.0.0.44.01">Probatur sic, Longitudine totius canonii nota, et pondere noto, pone <lb/>pedem circini in centro medii motus, et constitue circulum super mino&shy;<lb/>rem portionem, qu&aelig; secabit per diffinitionem circuli &aelig;qualem de bra&shy;<lb/>chio longiori, parti autem reliqu&aelig; &aelig;quatur portio ablata a termino ubi<pb xlink:href="050/01/031.jpg" />pendet pondus, quia ex hac exceditur brachium brachio, unde sequitur<lb/>qu&aelig;situm.</s></p><p type="main"><s>[commentary not transcribed]</s></p><figure id="id.050.01.031.1.jpg" xlink:href="050/01/031/1.jpg"/></chap><chap><p type="main">
+
+
+
+<s id="id.0.0.45.01">Excussum Norimberg&aelig; per<gap/>.<gap/>,<lb/>Anno domini M. D. XXXIII.</s></p></chap></body></text>
+
+</archimedes>
+

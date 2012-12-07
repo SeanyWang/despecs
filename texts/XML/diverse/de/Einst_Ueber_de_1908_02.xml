@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Ueber_de_1908_02.tex" /> 
+<meta name="date" content="2005-03-10 17:54:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Ueber_de_1908_02.css" /> 
+</head><body >
+
+<!--l. 17--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 18--><p class="noindent">
+</p><!--l. 19--><p class="noindent"><span 
+class="cmr-12x-x-120">5.  </span><span 
+class="cmbxti-10x-x-144">Über die elektromagnetischen </span> <br/><span 
+class="cmbxti-10x-x-144">Grundgleichungen</span>
+<span 
+class="cmbxti-10x-x-144">f</span><span 
+class="cmbxti-10x-x-144">ür bewegte K</span><span 
+class="cmbxti-10x-x-144">örper; </span> <br/><span 
+class="cmbxti-10x-x-144">von A. Einstein und J. Laub.</span></p></div>
+<div class="center" >
+
+<!--l. 24--><p class="noindent">
+</p><!--l. 25--><p class="noindent">----------</p></div>
+<!--l. 28--><p class="indent">   In einer kürzlich veröffentlichten Abhandlung<sup ><span 
+class="cmr-8">1)</span></sup> hat Hr. <br/>Minkowski die Grundgleichungen für die elektromagnetischen <br/>Vorgänge in bewegten Körpern angegeben. In Anbetracht des <br/>Umstandes, daß diese Arbeit in mathematischer Beziehung an <br/>den Leser ziemlich große Anforderungen stellt, halten wir es <br/>nicht für überflüssig, jene wichtigen Gleichungen im folgenden <br/>auf elementarem Wege, der übrigens mit dem Minkowski-<br/>schen im wesentlichen übereinstimmt, abzuleiten.
+</p>
+<div class="center" >
+
+<!--l. 39--><p class="noindent">
+</p><!--l. 40--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>1.  Ableitung der Grundgleichungen für bewegte Körper.</p></div>
+<!--l. 45--><p class="indent">   Der einzuschlagende Weg ist folgender: Wir führen zwei <br/>Koordinatensysteme
+<span 
+class="cmmi-12">K </span>und <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>ein, welche beide beschleuningungs-<br/>frei, jedoch relativ zueinander bewegt sind. Ist im Raume <br/>Materie vorhanden, die relativ zu <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>ruht, gelten in bezug <br/>auf <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>die Gesetze der Elektrodynamik ruhender Körper, <br/>welche durch die Maxwell-Hertzschen Gleichungen dar-<br/>gestellt sind. Transformieren wir diese Gleichungen auf das <br/>System <span 
+class="cmmi-12">K</span>, so erhalten wir unmittelbar die elektrodynamischen <br/>Gleichungen bewegter Körper für den Fall, daß die Ge-<br/>schwindigkeit der Materie räumlich und zeitlich konstant ist. <br/>Die so erhaltenen Gleichungen gelten offenbar mindestens in <br/>erster Annäherung auch dann, wenn die Geschwindigkeits-<br/>verteilung der Materie eine beliebige ist. Diese Annahme <br/>rechtfertigt sich zum Teil auch dadurch, daß das auf diese
+ <br/>Weise erhaltene Resultat streng gilt in dem Falle, daß eine <br/>Anzahl von mit verschiedenen Geschwindigkeiten gleichförmig <br/>bewegten Körpern vorhanden ist, welche voneinander durch <br/>Vakuumzwischenräume getrennt sind.
+</p><!--l. 67--><p class="noindent">----------
+</p><!--l. 69--><p class="indent">   1) H. Minkowski, Göttinger Nachr, 1908. <pb/>
+</p><!--l. 74--><p class="indent">
+
+</p><!--l. 75--><p class="indent">   Wir wollen mit Bezug auf das System <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>den Vektor <br/>der elektrischen Kraft <span 
+class="cmmi-12">G</span><span 
+class="cmsy-10x-x-120">'</span>, der magnetischen Kraft <span 
+class="cmmi-12">H</span><span 
+class="cmsy-10x-x-120">'</span>, der <br/>dielektrischen Verschiebung <span 
+class="cmmi-12">D</span><span 
+class="cmsy-10x-x-120">'</span>, der magnetischen Induktion <span 
+class="cmmi-12">B</span><span 
+class="cmsy-10x-x-120">'</span>, <br/>den des elektrischen Stromes <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /></span><span 
+class="cmsy-10x-x-120">' </span>nennen; ferner bezeichne <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /></span><span 
+class="cmsy-10x-x-120">'</span> <br/>die elektrische Dichte. Es mögen für das Bezugssystem <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">'</span> <br/>die Maxwell-Hertzschen Gleichungen gelten:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_020x.png" alt="            (     '    ) curl'H'=   1- @-D--+ q'  ,            c   @ t' " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 88--><p class="nopar"></p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_021x.png" alt="   '  '     1@-B'- curlG  =  - c @ t' , " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 96--><p class="nopar"></p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_022x.png" alt="div'D'=   r', 
+" class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 104--><p class="nopar"></p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-5r4"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_023x.png" alt="div'B'=   0. " class="math-display"  /></center></td><td width="5%">(4)</td></tr></table>
+<!--l. 112--><p class="nopar">
+</p><!--l. 116--><p class="indent">   Wir betrachten ein zweites rechtwinkliges Bezugssystem <span 
+class="cmmi-12">K</span>, <br/>dessen Achsen dauernd parallel sind denen von <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">'</span>. Der An-<br/>fangspunkt von <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>soll sich mit der konstanten Geschwindig-<br/>keit <span 
+class="cmmi-12">v </span>in der positiven Richtung der <span 
+class="cmmi-12">x</span>-Achse von <span 
+class="cmmi-12">K</span>
+bewegen. <br/>Dann gelten bekanntlich bei passend gewähltem Anfangspunkt
+ <br/>der Zeit nach der Relativitätstheorie für jedes Punktereignis <br/>folgende Transformationsgleichungen<sup ><span 
+class="cmr-8">1)</span></sup>:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-6r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_024x.png" alt="   x'=  b(x - v t) ,  (              ) {  y'=  y,    z'=  z,             b =   V~ -1-----  ,     '    (    v- )                v2    t = b  t-  c2x  ,          1-  -2-                                   c " class="math-display"  /></center></td><td width="5%">(5)</td></tr></table>
+<!--l. 134--><p class="nopar">
+</p><!--l. 138--><p class="noindent">wobei <span 
+class="cmti-12">x, y, z, t </span>die Raum- und Zeitkoordinaten im System <span 
+class="cmmi-12">K </span> <br/>bedeuten. Führt man die Transformationen aus, so erhält <br/>man die Gleichungen:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-7r6"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_025x.png" alt="           (         )           1- @-D- curlH  =  c   @ t + q  , " class="math-display"  /></center></td><td width="5%">(1 a)</td></tr></table>
+<!--l. 147--><p class="nopar">
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-8r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_026x.png" alt="           1@-B- curlG =  - c @ t , " class="math-display"  /></center></td><td width="5%">(2 a)</td></tr></table>
+<!--l. 155--><p class="nopar">
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-9r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_027x.png" alt="div D =  r , " class="math-display"  /></center></td><td width="5%">(3 a)</td></tr></table>
+<!--l. 162--><p class="nopar">
+
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-10r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_028x.png" alt="divB  = 0 , " class="math-display"  /></center></td><td width="5%">(4 a)</td></tr></table>
+<!--l. 169--><p class="nopar">
+</p><!--l. 173--><p class="noindent">----------
+</p><!--l. 175--><p class="indent">   1) A. Einstein, Ann. d. Phys, <span 
+class="cmbx-12">17. </span>p. 902. 1905. <pb/>
+</p><!--l. 180--><p class="indent">
+
+</p><!--l. 181--><p class="noindent">wobei gesetzt ist:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-11r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_029x.png" alt="          '   Gx =  G x,           (  '   v- ')   Gy =  b  G y + c B z ,           (      v   )   Gz =  b  G'z-  -B'y  , {                c   Dx  = D' ,           x(          )   D   = b  D' +  v-H'  ,     y        y   c  z           (  '   v-  ')   Dz =  b  D z-  c Hy   ; " class="math-display"  /></center></td><td width="5%">(6)</td></tr></table>
+<!--l. 199--><p class="nopar"></p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-12r7"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0210x.png" alt="          '   Hx  = H x,           (      v   )   Hy  = b  H'y-  --D'z   ,           (      c   )   Hz =  b  H' +  v-D'  , {            z   c  y   B  =  B' ,     x    x(          )              '   v- '   By =  b  B y-  c G z ,          (      v    )   Bz =  b  B'z +--G'y  ,                  c " class="math-display"  /></center></td><td width="5%">(7)</td></tr></table>
+<!--l. 217--><p class="nopar">
+</p><!--l. 221--><p class="noindent">und</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-13r8"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0211x.png" alt="      (  '   v- ') r =  b  r +  c qx  , " class="math-display"  /></center></td><td width="5%">(8)</td></tr></table>
+<!--l. 228--><p class="nopar"></p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-14r9"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0212x.png" alt="           (      v   )     qx = b   q'x + --r'  , {                 c     qy = q'y ,           '     qz = qz . " class="math-display"  /></center></td><td width="5%">(9)</td></tr></table>
+<!--l. 238--><p class="nopar">
+</p><!--l. 242--><p class="noindent">Will man die Ausdrücke für die gestrichenen Größen als <br/>Funktion der ungestrichenen haben, so vertauscht man die <br/>gestrichenen und ungestrichenen Größen und ersetzt <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-1d.png" alt="v" class="12x-x-1d" /> </span>durch <span 
+class="cmsy-10x-x-120">-</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-1d.png" alt="v" class="12x-x-1d" />.</span>
+</p><!--l. 247--><p class="indent">   Die Gleichungen (1a) bis (4a), welche die elektromagne-<br/>tischen Vorgänge relativ zum System <span 
+class="cmmi-12">K </span>beschreiben, haben <br/>dieselbe Gestalt, wie die Gleichungen (1) bis (4). <span 
+class="cmti-12">Wir wollen </span> <br/><span 
+class="cmti-12">daher die Gr</span><span 
+class="cmti-12">ö</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-c.png" alt="b" class="cmmi-12x-x-c" align="middle" /></span><span 
+class="cmti-12">en</span></p>
+<div class="center" >
+
+<!--l. 253--><p class="noindent">
+</p><!--l. 254--><p class="noindent">G, D, H, B, <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /></span></p></div>
+<!--l. 259--><p class="noindent">analog benennen, <span 
+class="cmti-12">wie die entsprechenden Gr</span><span 
+class="cmti-12">ö</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-c.png" alt="b" class="cmmi-12x-x-c" align="middle" /></span><span 
+class="cmti-12">en relativ zum </span> <br/><span 
+class="cmti-12">System </span><span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmti-12">. Es sind</span>
+<span 
+class="cmti-12">also </span>G, D, H, B, <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /> </span><span 
+class="cmti-12">die elektrische Kraft, </span> <br/><span 
+class="cmti-12">die dielektrische Verschiebung, die</span>
+<span 
+class="cmti-12">magnetische Kraft, die magne- </span><br/> <pb/>
+</p><!--l. 265--><p class="indent">
+
+</p><!--l. 266--><p class="noindent"><span 
+class="cmti-12">tische Induktion, die elektrische Dichte, der elektrische Strom </span>in <br/>bezug auf
+<span 
+class="cmmi-12">K.</span>
+</p><!--l. 269--><p class="indent">   Die Transformationsgleichungen (6) und (7) reduzieren sich <br/>für das Vakuum auf die früher gefundenen<sup ><span 
+class="cmr-8">1)</span></sup> Gleichungen für <br/>elektrische und magnetische Kräfte.
+</p><!--l. 274--><p class="indent">   Es ist klar, daß man durch wiederholte Anwendung solcher <br/>Transformationen, wie die soeben durchgeführte, stets auf <br/>Gleichungen von derselben Gestalt wie die ursprünglichen (1) <br/>bis (4) kommen muß, und daß für solche Transformationen <br/>die Gleichungen (6) bis (9) maßgebend sind. Denn es wurde <br/>bei der ausgeführten Transformation in formaler Beziehung <br/>nicht davon Gebrauch gemacht, daß die Materie relativ zu <br/>dem ursprünglichen System <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>ruhte.
+</p><!--l. 284--><p class="indent">   Die Gültigkeit der transformierten Gleichungen (1a) bis (4a) <br/>nehmen wir an auch für den Fall, daß die Geschwindigkeit <br/>der Materie räumlich und zeitlich variabel ist, was in erster <br/>Annäherung richtig sein wird.
+</p><!--l. 290--><p class="indent">   Es ist bemerkenswert, daß die Grenzbedingungen für die <br/>Vektoren G, D, H, B, an der Grenze zweier Medien dieselben <br/>sind, wie für ruhende Körper. Es folgt dies direkt aus den <br/>Gleichungen (1a) bis (4a).
+</p><!--l. 295--><p class="indent">   Die Gleichungen (1a) bis (4a) gelten genau wie die Glei-<br/>chungen (1) bis (4) ganz allgemein für inhomogene und aniso-<br/>trope Körper. Dieselben bestimmen die elektromagnetischen <br/>Vorgänge noch nicht vollständig. Es müssen vielmehr noch
+ <br/>Beziehungen gegeben sein, welche die Vektoren D, B und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /> </span> <br/>als Funktion von G und H ausdrücken. Solche Gleichungen <br/>wollen wir nun für den Fall angeben, daß die <span 
+class="cmti-12">Materie isotrop </span> <br/>ist. Betrachten wir zunächst wieder den Fall, daß alle Materie <br/>relativ zu <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>ruht, so gelten in bezug auf <span 
+class="cmmi-12">K</span><span 
+class="cmsy-10x-x-120">' </span>die Gleichungen:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-15r10"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0213x.png" alt="D'=  e G', " class="math-display"  /></center></td><td width="5%">(10)</td></tr></table>
+<!--l. 311--><p class="nopar"></p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-16r11"></a>
+   <center class="math-display" >
+
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0214x.png" alt="B'=  m H', " class="math-display"  /></center></td><td width="5%">(11)</td></tr></table>
+<!--l. 318--><p class="nopar"></p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-17r12"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0215x.png" alt=" '      ' q =  s G , " class="math-display"  /></center></td><td width="5%">(12)</td></tr></table>
+<!--l. 325--><p class="nopar">
+</p><!--l. 329--><p class="noindent">wobei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /> </span>= Dielektrizitätskonstante, <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" /> </span>= Permeabilität, <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-1b.png" alt="s" class="12x-x-1b" /> </span>= elek -<br/>trische Leitfähigkeit als bekannte Funktionen von <span 
+class="cmmi-12">x</span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">, y</span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">, z</span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">, t</span><span 
+class="cmsy-10x-x-120">'</span> <br/>anzusehen sind. Durch die Transformation von (10) bis (12) <br/>----------
+</p><!--l. 337--><p class="indent">   1) A. Einstein, l. e. p. 909. <pb/>
+</p><!--l. 342--><p class="indent">
+
+</p><!--l. 343--><p class="noindent">auf <span 
+class="cmmi-12">K </span>mittels der Umkehrung unserer Transformations-<br/>gleichungen (6) bis (9) erhält man die für das System <span 
+class="cmmi-12">K </span> <br/>geltenden Beziehungen:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-18r13"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0216x.png" alt="   Dx = e Gx ,         v        (      v    ) {  Dy - --Hz  = e  Gy - --Bz   ,          c       (       c   )    Dz + v-Hy  = e  Gz + v-By   ,         c               c " class="math-display"  /></center></td><td width="5%">(10a)</td></tr></table>
+<!--l. 357--><p class="nopar">
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-19r13"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0217x.png" alt="  Bx  = m Hx ,         v        (      v    ) { By  + --Gz =  m  Hy + --Dz   ,         cv        (      vc   )   Bz  - --Gy =  m  Hz - --Dy   ,         c                c " class="math-display"  /></center></td><td width="5%">(11a)</td></tr></table>
+<!--l. 371--><p class="nopar">
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-20r13"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0218x.png" alt="    (        )   b  qx - v-r  =  sGx ,           c(           ) { q  = sb   G  - v-B    ,    y         y   c   z           (      v-   )   qz = sb   Gz + c By   , " class="math-display"  /></center></td><td width="5%">(12a)</td></tr></table>
+<!--l. 385--><p class="nopar">
+</p><!--l. 389--><p class="indent">   Ist die Geschwindigkeit der Materie nicht der <span 
+class="cmmi-12">X</span>-Achse <br/>parallel, sondern ist diese Geschwindigkeit durch den Vektor v <br/>bestimmt, so erhält man die mit den Gleichungen (10a) bis (12a) <br/>gleichartigen vektoriellen Beziehungen:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-21r13"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0219x.png" alt="          1          {     1      }      D +  --[v H] = e   G + --[vB]   ,           c          {     c      }           1                 1      B -  -[d G] = m  H  -  -[vD]   , {   (     c    )     {      c     }            |v-|             1-   b   qv-  c r   = s   G +  c [vB]   ,                      {           }  v              qv = sb  G  + 1-[v B]    ,                            c       v " class="math-display"  /></center></td><td width="5%">(13)</td></tr></table>
+<!--l. 409--><p class="nopar">
+
+</p><!--l. 413--><p class="noindent">wobei der Index v bedeutet, daß die Komponente nach der <br/>Richtung von v, der Index <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0220x.png" alt="v"  class="bar"  /> , daß die Komponenten nach den <br/>auf v senkrechten Richtungen <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0221x.png" alt="v"  class="bar"  /> zu nehmen ist.
+</p>
+<div class="center" >
+
+<!--l. 418--><p class="noindent">
+</p><!--l. 419--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>2.  Über das elektromagnetische Verhalten bewegter <br/>Dielektrika. Versuch von Wilson.</p></div>
+<!--l. 424--><p class="indent">   Im folgenden Abschnitt wollen wir noch an einem ein-<br/>fachen Spezialfall zeigen, wie sich bewegte Dielektrika nach <br/><pb/>
+</p><!--l. 430--><p class="indent">
+
+</p><!--l. 431--><p class="noindent">der Relativitätstheorie verhalten, und worin sich die Resultate <br/>von den durch die Lorentzsche Theorie gelieferten, unter-<br/>scheiden.    Es sei <span 
+class="cmmi-12">S </span>ein im Querschnitt angedeuteter, prismatischer <br/>Streifen (vgl. Figur)  aus  einem  homogenen,  isotropen  Nicht-<br/>leiter,  der  sich  senkrecht zur  Papierebene  in  beiderlei  Sinn  <br/>ins  Unendliche  erstreckt  und  sich  vom Beschauer nach der <br/>Papierebene zu mit der konstanten Ge-<br/>schwindigkeit
+<span 
+class="cmmi-12">v </span>zwischen  den  beiden  Kon-<br/>densatorplatten
+<span 
+class="cmmi-12">A</span><sub ><span 
+class="cmr-8">1</span></sub> und <span 
+class="cmmi-12">A</span><sub ><span 
+class="cmr-8">2</span></sub> hindurch-<br/>bewegt. Die Ausdehnung des  Streifens  <span 
+class="cmmi-12">S  </span> <br/>senkrecht  zu  den  Platten
+<span 
+class="cmmi-12">A </span>sei unend-<br/>lich klein relativ zu dessen Ausdehnung
+ <br/>parallel  den  Platten  und  zu  beiden  Aus-<br/>dehnungen   der   Platten   <span 
+class="cmmi-12">A</span>;   der   Zwischen-<br/>raum  zwischen  <span 
+class="cmmi-12">S  </span>und  den  Platten  <span 
+class="cmmi-12">A  </span>(im
+ <br/>folgenden kurz Zwischenraum genannt) <br/>sei außerdem gegenüber der Dicke von <span 
+class="cmmi-12">S </span>zu vernachlässigen.
+ <br/>Das  betrachtete  Körpersystem  beziehen  wir <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0222x.png" alt="PIC" class="graphics" width="113.81102pt" height="137.47691pt"  /><!--tex4ht:graphics  
+name="img/Einst_Ueber_de_1908_0222x.png" src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/Einst_Ueber_de_1908_02_001.EPS"  
+-->
+auf  ein  relativ  zu  <br/>den  Platten  <span 
+class="cmmi-12">A  </span>ruhendes  Koordinatensystem,  dessen positive  <br/><span 
+class="cmmi-12">X</span>-Richtung  in  die  Bewegungsrichtung  falle,  und  dessen  <span 
+class="cmmi-12">Y </span>-  und
+ <br/><span 
+class="cmmi-12">Z</span>-Achsen parallel bzw. senkrecht zu den Platten <span 
+class="cmmi-12">A </span>sind. Wir <br/>wollen das elektromagnetische Verhalten des zwischen den <br/>Platten <span 
+class="cmmi-12">A </span>sich befindenden Streifenstückes untersuchen, falls <br/>der elektromagnetische Zustand stationär ist.
+</p><!--l. 463--><p class="indent">   Wir denken uns eine geschlossene Fläche, welche gerade <br/>den wirksamen Teil der Kondensatorplatten nebst dem des <br/>dazwischen liegenden Streifenstückes einschließt. Da sich inner-<br/>halb dieser Fläche weder bewegte wahre Ladungen, noch <br/>elektrische Leitungsströme befinden, gelten die Gleichungen <br/>(vgl. Gleichungen (1a) bis (4a)):
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0223x.png" alt="curlH  =  0, 
+curlG  = 0 . " class="par-math-display"  /></center>
+<!--l. 477--><p class="nopar">
+</p><!--l. 481--><p class="noindent">Innerhalb dieses Raumes sind also sowohl die elektrische, wie <br/>auch die magnetische Kraft von einem Potential ableitbar. <br/>Wir können daher sofort die Verteilung der Vektoren G und H, <br/>falls die Verteilung der freien elektrischen bzw. magnetischen <br/>Dichte bekannt ist. Wir beschränken uns auf die Betrachtung
+ <br/><pb/>
+</p><!--l. 490--><p class="indent">
+
+</p><!--l. 491--><p class="noindent">des Falles, daß die magnetische Kraft H parallel der <span 
+class="cmmi-12">Y </span>-Achse <br/>ist, die elektrische G parallel der <span 
+class="cmmi-12">Z</span>-Achse. Dazu, sowie zu <br/>der Voraussetzung, daß die in Betracht kommenden Felder <br/>innerhalb des Streifens, sowie innerhalb des Zwischenraumes
+ <br/>homogen sind, berechtigen uns die oben erwähnten Größen-<br/>ordnungsbedingungen für die Abmessungen des betrachteten <br/>Systems. Ebenso schließen wir unmittelbar, daß die an den <br/>Enden des Streifenquerschnittes sich befindenden magnetischen
+ <br/>Massen nur einen verschwindend kleinen Beitrag zum magne-<br/>tischen Feld liefern.<sup ><span 
+class="cmr-8">1)</span></sup> Die Gleichungen (13) geben dann für <br/>das Innere des Streifens folgende Beziehungen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0224x.png" alt="              (           ) D  + v-H   = e  G  + v-B    ,  z   c   y       z   c   y      v        (       v   ) By + --Gz =  m  Hy +  -Dz   .      c                c " class="par-math-display"  /></center>
+<!--l. 514--><p class="nopar">
+</p><!--l. 518--><p class="noindent">Diese Gleichungen lassen sich auch in folgender Form schreiben:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-22r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0225x.png" alt="  (          )                        (       )            v2-       v-                     v2-     1 - em c2  By =  c(em - 1) Gz + m   1-  c2  Hy , { (         2)        (      2)     1 - em v-- D  =  e  1-  v-- G   + v(em - 1) H  .            c2    z          c2    z   c           y " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 532--><p class="nopar">
+</p><!--l. 536--><p class="indent">   Zur Deutung von (1) bemerken wir folgendes: An der Ober-<br/>fläche des Streifens erfährt die dielektrische Verschiebung D<sub ><span 
+class="cmmi-8">z</span></sub> <br/>keinen Sprung, also ist D<sub ><span 
+class="cmmi-8">z</span></sub> die Ladung der Kondensator-<br/>platten (genauer der Platte <span 
+class="cmmi-12">A</span><sub ><span 
+class="cmr-8">1</span></sub>) pro Flächeneinheit. Ferner <br/>ist <span 
+class="cmmi-12">G</span><sub ><span 
+class="cmmi-8">z</span></sub> <span 
+class="cmsy-10x-x-120">× </span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-e.png" alt="d" class="12x-x-e" /> </span>gleich der Potentialdifferenz zwischen den Konden-<br/>satorplatten <span 
+class="cmmi-12">A</span><sub ><span 
+class="cmr-8">1</span></sub> und <span 
+class="cmmi-12">A</span><sub ><span 
+class="cmr-8">2</span></sub>, falls <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-e.png" alt="d" class="12x-x-e" /> </span>den Abstand der Platten be-<br/>zeichnet, 
+denn denkt man sich den Streifen durch einen parallel <br/>der <span 
+class="cmmi-12">XZ</span>-Ebene verlaufenden unendlich engen Spalt getrennt, <br/>so ist G, nach den für diesen Vektor geltenden Grenzbedingungen, <br/>gleich der elektrischen Kraft in dem Spalt.
+</p><!--l. 549--><p class="indent">   Wir betrachten nun zunächst den Fall, daß ein von außen <br/>erregtes Magnetfeld nicht vorhanden ist, d. h. nach dem obigen, <br/>daß in dem betrachteten Raume die magnetische Feldstärke H<sub ><span 
+class="cmmi-8">y</span></sub> <br/>----------
+</p><!--l. 554--><p class="indent">   1) Es erhellt dies auch daraus, daß wir ohne wesentliche Änderung <br/>der Verhältnisse den Kondensatorplatten und dem Streifen Kreiszylinder-<br/>form geben könnten, in welchem Falle freie magnetische Massen aus <br/>Symmetriegründen überhaupt nicht auftreten könnten. <pb/>
+</p><!--l. 564--><p class="indent">
+
+</p><!--l. 565--><p class="noindent">überhaupt verschwindet. Dann haben die Gleichungen (1) <br/>folgende Gestalt:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0226x.png" alt="(          )          v2-       v-   1 - em c2  By =  c (em -  1)Gz , (          )        (       )          v2-              v2-   1 - em c2  Dz =  e  1-  c2  Gz . " class="par-math-display"  /></center>
+<!--l. 579--><p class="nopar">
+</p><!--l. 584--><p class="noindent">Da <span 
+class="cmmi-12">v &lt; c </span>sein muß, so sind, falls <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" /> </span><span 
+class="cmsy-10x-x-120">- </span>1 <span 
+class="cmmi-12">&gt; </span>0 ist, die Koeffizienten <br/>von G<sub ><span 
+class="cmmi-8">z</span></sub>
+in den beiden letzten Gleichungen positiv. Die Koeffi-<br/>zienten von B<sub ><span 
+class="cmmi-8">y</span></sub>
+und D<sub ><span 
+class="cmmi-8">z</span></sub> sind dagegen größer, gleich bzw. kleiner <br/>als Null, je nachdem die Streifengeschwindigkeit kleiner, gleich <br/>oder größer als <span 
+class="cmmi-12">c/</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0227x.png" alt=" V~ -em,"  class="sqrt"  /> d.h. als die Geschwindigkeit elektromagne-<br/>tischer Wellen in dem Streifenmedium, ist. Hat also G<sub ><span 
+class="cmmi-8">z</span></sub> einen <br/>bestimmten Wert, d.h. legt man an die Kondensatorplatten eine
+ <br/>bestimmte Spannung an und variiert man die Streifengeschwindig-<br/>keit von kleineren zu größeren Werten, so wächst zunächst so-<br/>wohl die dem Vektor D proportionale Ladung der Kondensator-<br/>platten, wie die magnetische Induktion B im Streifen. Erreicht <br/><span 
+class="cmmi-12">v </span>den Wert <span 
+class="cmmi-12">c/</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0228x.png" alt=" V~ ----   em,"  class="sqrt"  /> so wird sowohl die Ladung des Kondensators, <br/>wie auch die magnetische Induktion unendlich groß. Es würde <br/>also in diesem Falle eine Zerstörung des Streifens durch be-<br/>liebig kleine angelegte Potentialdifferenzen stattfinden. Für <br/>alle <span 
+class="cmmi-12">v &gt; c/</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0229x.png" alt=" V~  em"  class="sqrt"  />
+resultiert ein negativer Wert für D und B. <br/>In dem letzten Falle würde also eine an die Kondensator-<br/>platten gelegte Spannung eine Ladung des Kondensators in <br/>dem der Spannungsdifferenz entgegengesetzten Sinne bewirken.
+</p><!--l. 610--><p class="indent">   Wir betrachten jetzt noch den Fall, daß ein von außen <br/>erregtes magnetisches Feld H<sub ><span 
+class="cmmi-8">y</span></sub> vorhanden ist. Dann hat man <br/>die Gleichung:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0230x.png" alt="(          )        (       )         v2                v2        v   1 - em-c2-  Dz =  e  1-  c2- Gz +  c-(em -  1)Hy , " class="par-math-display"  /></center>
+<!--l. 619--><p class="nopar">
+</p><!--l. 623--><p class="noindent">welche bei gegebenem H<sub ><span 
+class="cmmi-8">y</span></sub> eine Beziehung zwischen G<sub ><span 
+class="cmmi-8">z</span></sub> und D<sub ><span 
+class="cmmi-8">z</span></sub> <br/>gibt. Beschränkt man sich nur auf Größen erster Ordnung <br/>in <span 
+class="cmmi-12">v/c</span>, so hat man:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-23r2"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0231x.png" alt="            v- Dz = e Gz +  c (em - 1) Hy , " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 633--><p class="nopar">
+</p><!--l. 637--><p class="noindent">während die Lorentzsche Theorie auf den Ausdruck:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-24r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0232x.png" alt="             v Dz =  eGz +  --(e - 1) mHy              c " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 645--><p class="nopar">
+</p><!--l. 649--><p class="noindent">führt. <pb/>
+</p><!--l. 654--><p class="indent">
+
+</p><!--l. 655--><p class="indent">   Die letzte Gleichung wurde bekanntlich von H. A. Wilson <br/>(Wilsoneffekt) experimentell geprüft. Man sieht, daß sich (2) <br/>und (3) in Gliedern erster Ordnung unterscheiden. Hätte man <br/>einen dielektrischen Körper von beträchtlicher Permeabilität, <br/>so könnte man eine experimentelle Entscheidung zwischen <br/>den Gleichungen (2) und (3) treffen.
+</p><!--l. 663--><p class="indent">   Verbindet man die Platten <span 
+class="cmmi-12">A</span><sub ><span 
+class="cmr-8">1</span></sub> und <span 
+class="cmmi-12">A</span><sub ><span 
+class="cmr-8">2</span></sub> durch einen Leiter, <br/>so tritt auf den Kondensatorplatten eine Ladung von der <br/>Größe D<sub ><span 
+class="cmmi-8">z</span></sub> pro Flächeneinheit auf; man erhält sie aus der <br/>Gleichung (2), indem man berücksichtigt, daß bei verbundenen
+ <br/>Kondensatorplatten <span 
+class="cmmi-12">G</span><sub ><span 
+class="cmmi-8">z</span></sub> = 0 ist. Es ergibt sich:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0233x.png" alt="D  =  v-(em-  1)H  .   z   c           y " class="par-math-display"  /></center>
+<!--l. 673--><p class="nopar">
+</p><!--l. 677--><p class="noindent">Verbindet man die Kondensatorplatten <span 
+class="cmmi-12">A</span><sub ><span 
+class="cmr-8">1</span></sub> und <span 
+class="cmmi-12">A</span><sub ><span 
+class="cmr-8">2</span></sub> mit einem <br/>Elektrometer von unendlich kleiner Kapazität, so ist <span 
+class="cmmi-12">D</span><sub ><span 
+class="cmmi-8">z</span></sub> = 0, <br/>und man bekommt für die Spannung (<span 
+class="cmmi-12">G</span><sub ><span 
+class="cmmi-8">z</span></sub> <span 
+class="cmmi-12">.<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/cmmi12-e.png" alt="d" class="12x-x-e" /></span>) die Gleichung:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Ueber_de_1908_02/fulltext/img/Einst_Ueber_de_1908_0234x.png" alt="            v- 0 = e Gz +  c (em - 1) Hy . " class="par-math-display"  /></center>
+<!--l. 686--><p class="nopar">
+</p><!--l. 690--><p class="indent">   Bern, 29. April 1908.
+</p>
+<div class="center" >
+
+<!--l. 693--><p class="noindent">
+</p><!--l. 694--><p class="noindent">(Eingegangen 2. Mai 1908.)</p></div>
+<div class="center" >
+
+<!--l. 697--><p class="noindent">
+</p><!--l. 698--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<archimedes xmlns:xlink="http://www.w3.org/1999/xlink" >      <info>
+        <author>Pseudo Euclid</author>
+        <title>de ponderoso et levi</title>
+        <date>2002</date>
+        <place>MPIWG</place>
+       <translator>PMcL</translator>
+        <lang>en</lang>
+        <cvs_file>eucli_ponde_060_en.xml</cvs_file>
+        <cvs_version></cvs_version>
+        <locator>060.xml</locator>
+</info>       <text>
+<pb xlink:href="060/01/001.jpg"></pb><front>
+
+<section><p type="head"><s id="id.000001">A Fragment of Euclid on the Light and the Heavy</s></p></section></front>
+<body><chap><p type="head"><s id="id.000002">Definitions.</s></p><p type="main">
+<s id="id.000003">1 Bodies are equal in size that fill equal places.</s>
+<s id="id.000004">2 Bodies are different in size that fill places that are not equal.</s>
+<s id="id.000005">3 Bodies are said to be greater in size that are more ample in place.</s>
+<s id="id.000006">4 Bodies are equal in power whose motions through equal intervals and with respect to the same time, air and water are equal .</s>
+<s id="id.000007">5 Bodies are different in power whose motions in different times are equal.</s>
+<s id="id.000008">6 Of bodies different in power, that is said to be greater in power which takes less time to move; but that [is said to be] lesser in power whose time is more ample. </s>
+<s id="id.000009">7 Bodies are of the same kind which, if they are equal in size, are also equal in power.</s>
+<s id="id.000010">8 Bodies are different in kind which, if they are equal in size, are not equal in power, assuming they are moved through the same medium.</s>
+<s id="id.000011">9 Of bodies different in kind, that is said to be more powerful which is more solid [dense].</s></p></chap><chap><p type="head">
+<s id="id.000012">Theorems</s></p><p type="head">
+<s id="id.000013">First Theorem</s></p><p type="main">
+<s id="id.000014">Of bodies different in power that which moves that through more ample space has more ample power.</s></p><p type="head">
+<s id="id.000015">Second Theorem </s></p><p type="main">
+<s id="id.000016">Of bodies the same in kind, if these are among themselves multiples, their powers will be likewise be multiples.</s></p><p type="head">
+<s id="id.000017">Third Theorem</s></p><p type="main">
+<s id="id.000018">Of bodies the same in kind the proportion in both size and power is the same.</s></p><p type="head">
+<s id="id.000019">Fourth Theorem </s></p><p type="main">
+<s id="id.000020">Those bodies equal in power to a body of the same kind, are of the same kind among themselves, namely equals having been removed from that third, the forces of these will be equal, since the powers [were] equals of the third.</s></p>
+</chap></body></text></archimedes>

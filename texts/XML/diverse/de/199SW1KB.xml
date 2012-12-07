@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="199SW1KB.tex" /> 
+<meta name="date" content="2005-03-01 19:45:00" /> 
+<link rel="stylesheet" type="text/css" href="199SW1KB.css" /> 
+</head><body >
+
+<!--l. 12--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 13--><p class="noindent">
+</p><!--l. 14--><p class="noindent"><span 
+class="cmbx-12x-x-120">Zur allgemeinen Relativit</span><span 
+class="cmbx-12x-x-120">ätstheorie.</span></p></div>
+<div class="center" >
+
+<!--l. 17--><p class="noindent">
+</p><!--l. 18--><p class="noindent"><span 
+class="cmr-12">Von A. </span><span 
+class="cmcsc-10x-x-120">E<small 
+class="small-caps">i</small><small 
+class="small-caps">n</small><small 
+class="small-caps">s</small><small 
+class="small-caps">t</small><small 
+class="small-caps">e</small><small 
+class="small-caps">i</small><small 
+class="small-caps">n</small></span><span 
+class="cmr-12">.</span></p></div>
+<div class="center" >
+
+<!--l. 21--><p class="noindent">
+</p><!--l. 22--><p class="noindent">--------</p></div>
+<!--l. 25--><p class="noindent"><span 
+class="cmr-17">I</span>n den letzten Jahren war ich bemüht, auf die Voraussetzung der Re-<br/>lativität auch nicht gleichförmiger Bewegungen eine allgemeine Re-<br/>lativitätstheorie zu gründen. Ich glaubte in der Tat, das einzige Gra-<br/>vitationsgesetz gefunden zu haben, das dem sinngemäß gefaßten, all-<br/>gemeinen Relativitätspostulate entspricht, und suchte die Notwendigkeit <br/>gerade dieser Lösung in einer im vorigen Jahre in diesen Sitzungs-<br/>berichten erschienenen Arbeit<span class="footnote-mark"><a 
+href="199SW1KB2.html#fn1x0"><sup >1</sup></a></span> <a 
+ id="x1-2f0"></a>
+darzutun.
+</p><!--l. 36--><p class="indent">   Eine erneute Kritik zeigte mir, daß sich jene Notwendigkeit auf <br/>dem dort eingeschlagenen Wege absolut nicht erweisen läßt; daß dies <br/>doch der Fall zu sein schien, beruhte auf Irrtum. Das Postulat der <br/>Relativität, soweit ich es dort gefordert habe, ist stets erfüllt, <br/>wenn man das H<span 
+class="cmcsc-10"><small 
+class="small-caps">a</small><small 
+class="small-caps">m</small><small 
+class="small-caps">i</small><small 
+class="small-caps">l</small><small 
+class="small-caps">t</small><small 
+class="small-caps">o</small><small 
+class="small-caps">n</small><small 
+class="small-caps">s</small> </span>che Prinzip zugrunde legt; es liefert aber <br/>in Wahrheit keine Handhabe für eine Ermittelung der H<span 
+class="cmcsc-10"><small 
+class="small-caps">a</small><small 
+class="small-caps">m</small><small 
+class="small-caps">i</small><small 
+class="small-caps">l</small><small 
+class="small-caps">t</small><small 
+class="small-caps">o</small><small 
+class="small-caps">n</small><small 
+class="small-caps">s</small> </span>chen
+ <br/>Funktion <span 
+class="cmmi-10">H </span>des Gravitationsfeldes. In der Tat drückt die die Wahl <br/>von <span 
+class="cmmi-10">H</span>
+einschränkende Gleichung (77) a. a. O. nichts anderes aus, als <br/>daß <span 
+class="cmmi-10">H </span>eine Invariante bezüglich linearer Transformationen sein soll, <br/>welche Forderung mit der der Relativität der Beschleunigung nichts zu <br/>schaffen hat. Ferner wird die durch Gleichung (78) a. a. O. getroffene <br/>Wahl durch Gleichung (77) keineswegs festgelegt.
+</p><!--l. 53--><p class="indent">   Aus diesen Gründen verlor ich das Vertrauen zu den von mir <br/>aufgestellten Feldgleichungen vollständig und suchte nach einem Wege, <br/>der die Möglichkeiten in einer natürlichen Weise einschränkte. So ge-<br/>langte ich zu der Forderung einer allgemeineren Kovarianz der Feld-<br/>gleichungen zurück, von der ich vor drei Jahren, als ich zusammen <br/>mit meinem Freunde G<span 
+class="cmcsc-10"><small 
+class="small-caps">r</small><small 
+class="small-caps">o</small><small 
+class="small-caps">s</small><small 
+class="small-caps">s</small><small 
+class="small-caps">m</small><small 
+class="small-caps">a</small><small 
+class="small-caps">n</small><small 
+class="small-caps">n</small> </span>arbeitete, nur mit schwerem Herzen <br/>abgegangen war. In der Tat waren wir damals der im nachfolgenden <br/>gegebenen Lösung des Problems bereits ganz nahe gekommen.
+</p><!--l. 65--><p class="indent">   Wie die spezielle Relativitätstheorie auf das Postulat gegründet <br/>ist, daß ihre Gleichungen bezüglich linearer, orthogonaler Transfor-<br/><pb/>
+</p><!--l. 72--><p class="indent">
+
+</p><!--l. 72--><p class="noindent">mationen kovariant sein sollen, so ruht die hier darzulegende Theorie <br/>auf dem Postulat der Kovarianz aller Gleichungssysteme bezüg-<br/>lich Transformationen von der Substitutionsdeterminante <span 
+class="cmcsc-10">1</span>.
+</p><!--l. 77--><p class="indent">   Dem Zauber dieser Theorie wird sich kaum jemand entziehen <br/>können, der sie wirklich erfaßt hat; sie bedeutet einen wahren Tri-<br/>umph der durch G<span 
+class="cmcsc-10"><small 
+class="small-caps">a</small><small 
+class="small-caps">u</small><small 
+class="small-caps">s</small><small 
+class="small-caps">s</small></span>, R<span 
+class="cmcsc-10"><small 
+class="small-caps">i</small><small 
+class="small-caps">e</small><small 
+class="small-caps">m</small><small 
+class="small-caps">a</small><small 
+class="small-caps">n</small><small 
+class="small-caps">n</small></span>, C<span 
+class="cmcsc-10"><small 
+class="small-caps">h</small><small 
+class="small-caps">r</small><small 
+class="small-caps">i</small><small 
+class="small-caps">s</small><small 
+class="small-caps">t</small><small 
+class="small-caps">o</small><small 
+class="small-caps">f</small><small 
+class="small-caps">f</small><small 
+class="small-caps">e</small><small 
+class="small-caps">l</small></span>, R<span 
+class="cmcsc-10"><small 
+class="small-caps">i</small><small 
+class="small-caps">c</small><small 
+class="small-caps">c</small><small 
+class="small-caps">i</small> </span>und L<span 
+class="cmcsc-10"><small 
+class="small-caps">e</small><small 
+class="small-caps">v</small><small 
+class="small-caps">i</small></span>-C<span 
+class="cmcsc-10"><small 
+class="small-caps">i</small><small 
+class="small-caps">v</small><small 
+class="small-caps">i</small><small 
+class="small-caps">t</small><small 
+class="small-caps">e</small><small 
+class="small-caps">r</small> </span> <br/>begründeten Methode des allgemeinen Differentialkalküls.
+</p>
+<div class="center" >
+
+<!--l. 85--><p class="noindent">
+</p><!--l. 86--><p class="noindent"><span 
+class="cmsy-10">§</span><span 
+class="cmcsc-10">1</span>. Bildungsgesetze der Kovarianten.</p></div>
+<!--l. 89--><p class="indent">   Da ich in meiner Arbeit vom letzten Jahre eine ausführliche Dar-<br/>legung der Methoden des absoluten Differentialkalküls gegeben habe, <br/>kann ich mich hier bei der Darlegung der hier zu benutzenden Bil-<br/>dungsgesetze der Kovarianten kurz fassen; wir brauchen nur zu unter-<br/>suchen, was sich an der Kovariantentheorie dadurch verändert, daß <br/>nur Substitutionen von der Determinante <span 
+class="cmcsc-10">1 </span>zugelassen werden.
+</p><!--l. 98--><p class="indent">   Die für beliebige Substitutionen gültige Gleichung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB0x.png" alt="         '   ' dt'= @-(x1...x4)dt      @ (x1...x4) " class="par-math-display"  /></center>
+<!--l. 104--><p class="nopar">
+</p><!--l. 108--><p class="noindent">geht zufolge der Prämisse unsrer Theorie
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB1x.png" alt="@(x'...x') @(x1...x4) = 1    1    4 " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 115--><p class="nopar">
+</p><!--l. 118--><p class="noindent">über in
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r2"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB2x.png" alt="  ' dt = dt; " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 124--><p class="nopar">
+</p><!--l. 126--><p class="noindent">das vierdimensionale Volumelement <span 
+class="cmmi-10">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /> </span>ist also eine Invariante. Da <br/>ferner (Gleichung (<span 
+class="cmcsc-10">1</span>7) a. a. O.) <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB3x.png" alt=" V~ --  - g"  class="sqrt"  /><span 
+class="cmmi-10">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /> </span>eine Invariante bezüglich be-<br/>liebiger Substitutionen ist, so ist für die uns interessierende Gruppe <br/>auch
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-5r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB4x.png" alt=" V~ --'   V~ ---   -g =   - g " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 135--><p class="nopar">
+</p><!--l. 138--><p class="indent">   Die Determinante aus den <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> ist also eine Invariante. Vermöge des <br/>Skalarcharakters von <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB5x.png" alt=" V~ --g"  class="sqrt"  /> lassen die Grundformeln der Kovarianten-<br/>bildung gegenüber den bei allgemeiner Kovarianz gültigen eine Ver-<br/>einfachung zu, die kurz gesagt darin beruht, daß in den Grundfor-<br/>meln die Faktoren <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB6x.png" alt=" V~  -g"  class="sqrt"  /> und <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB7x.png" alt=" V~ 1-  -g"  class="frac" align="middle" /> nicht mehr auftreten, und der
+ <br/>Unterschied zwischen Tensoren und <span 
+class="cmmi-10">V </span>-Tensoren wegfällt. Im einzelnen <br/>ergibt sich folgendes: <pb/>
+</p><!--l. 151--><p class="indent">
+
+</p><!--l. 151--><p class="indent">   <span 
+class="cmcsc-10">1. </span>An Stelle der Tensoren <span 
+class="cmmi-10">G</span><sub ><span 
+class="cmmi-7">iklm</span></sub> = <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB8x.png" alt=" V~  --g"  class="sqrt"  /><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi10-e.png" alt="d" class="10x-x-e" /></span><sub >
+<span 
+class="cmmi-7">iklm</span></sub>
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB9x.png" alt="      iklm   --1-- und G     =  V~  -g diklm " class="par-math-display"  /></center>
+<!--l. 157--><p class="nopar">
+</p><!--l. 159--><p class="noindent">((<span 
+class="cmcsc-10">1</span>9) und (2<span 
+class="cmcsc-10">1</span>a) a.a.O.) treten die einfacher gebauten Tensoren
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-6r4"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB10x.png" alt="Giklm = Giklm = diklm " class="math-display"  /></center></td><td width="5%">(4)</td></tr></table>
+<!--l. 165--><p class="nopar">
+</p><!--l. 167--><p class="indent">   2. Die Grundformeln (29) a.a.O. und (30) a.a.O. für die Er-<br/>weiterung der Tensoren lassen sich auf Grund unserer Prämisse nicht <br/>durch einfachere ersetzen, wohl aber die Definitionsgleichung der Di-<br/>vergenz, welche in der Kombination der Gleichungen (30) a.a.O. und <br/>(31) a.a.O. besteht. Sie läßt sich so schreiben
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-7r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB11x.png" alt="                          |_  st                  st           _|       st Aa1...al =  sum  @Aa1...als+ sum    { a } Ata2..als + .....{ a } Aa1.al- 1ts + sum  { s } Aa1...alt.          s    @xs     st  |_   1                   l           _|   st " class="math-display"  /></center></td><td width="5%">(5)</td></tr></table>
+<!--l. 189--><p class="nopar">
+</p><!--l. 191--><p class="noindent">Nun ist aber gemäß (24) a.a.O. und (24a) a.a.O. 
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-8r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB12x.png" alt=" sum  { st}      sum     (                    )      sum                 V~ ---      s   = 1    gsa  @gsa-+ @gta-- @-gst-  = 1   gsa @gsa-= @(lg----g).  t         2 as      @ xt   @ xs   @ xa     2       @xt       @xt " class="math-display"  /></center></td><td width="5%">(6)</td></tr></table>
+<!--l. 205--><p class="nopar">
+</p><!--l. 207--><p class="noindent">Es hat also diese Größe wegen (3) Vektorcharakter. Folglich ist das <br/>letzte Glied der rechten Seite von (5) selbst ein kontravarianter Tensor <br/>vom Range <span 
+class="cmmi-10">l</span>. Wir sind daher berechtigt, an Stelle von (5) die ein-<br/>fachere Definition der Divergenz
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-9r7"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB13x.png" alt="                           |_                                    _| 
+                           { st}               { st} Aa1...al =  sum  @Aa1...als +  sum   |_  a   Ata2...als + .... a   Aa1-al-1ts _| 
+              @xs      st     1                   i " class="math-display"  /></center></td><td width="5%">(5a)</td></tr></table>
+<!--l. 225--><p class="nopar">
+</p><!--l. 228--><p class="noindent">zu setzen, was wir konsequent tun wollen.
+</p><!--l. 231--><p class="indent">   So wäre z. B. die Definition (37) a.a.O.
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB14x.png" alt="      1   sum   @   V~ --- P =  V~ ---   ---(  -gAm)       -g  m @xm 
+" class="par-math-display"  /></center>
+<!--l. 236--><p class="nopar">
+</p><!--l. 240--><p class="noindent">durch die einfachere Definition
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-10r7"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB15x.png" alt="     sum  @Am- P =     @xm      m " class="math-display"  /></center></td><td width="5%">(7)</td></tr></table>
+<!--l. 245--><p class="nopar">
+</p><!--l. 249--><p class="noindent">zu ersetzen, die Gleichung (40) a.a.O. für die Divergenz des kontra-<br/>varianten Sechservektors durch die einfachere
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-11r8"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB16x.png" alt=" m    sum  @Amn A  =    -@xn-.       n " class="math-display"  /></center></td><td width="5%">(8)</td></tr></table>
+<!--l. 257--><p class="nopar">
+</p><!--l. 261--><p class="indent">   An Stelle von (41a) a.a.O. tritt infolge unserer Festsetzung
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-12r9"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB17x.png" alt="      sum  @Ans   1  sum   tm@gmn  m As =    @xn -  2   g   @xs A t.       n         mnt " class="math-display"  /></center></td><td width="5%">(9)</td></tr></table>
+<!--l. 267--><p class="nopar">
+<pb/>
+</p><!--l. 274--><p class="indent">
+
+</p><!--l. 275--><p class="noindent">Ein Vergleich mit (4<span 
+class="cmcsc-10">1</span>b) zeigt, daß bei unserer Festsetzung das Gesetz <br/>für die Divergenz dasselbe ist, wie gemäß dem allgemeinen Diffe-<br/>rentialkalkül das Gesetz für die Divergenz des <span 
+class="cmmi-10">V </span>-Tensors. Daß diese <br/>Bemerkung für beliebige Tensordivergenzen gilt, läßt sich aus (5) und <br/>(5a) leicht ableiten.
+</p><!--l. 284--><p class="indent">   3. Die tiefgreifendste Vereinfachung bringt unsere Beschränkung <br/>auf Transformationen von der Determinante <span 
+class="cmcsc-10">1 </span>hervor für diejenigen Ko-<br/>varianten, die aus den <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> und ihren Ableitungen allein gebildet werden <br/>können. Die Mathematik lehrt, daß diese Kovarianten alle von dem <br/>R<span 
+class="cmcsc-10"><small 
+class="small-caps">i</small><small 
+class="small-caps">e</small><small 
+class="small-caps">m</small><small 
+class="small-caps">a</small><small 
+class="small-caps">n</small><small 
+class="small-caps">n</small></span>-C<span 
+class="cmcsc-10"><small 
+class="small-caps">h</small><small 
+class="small-caps">r</small><small 
+class="small-caps">i</small><small 
+class="small-caps">s</small><small 
+class="small-caps">t</small><small 
+class="small-caps">o</small><small 
+class="small-caps">f</small><small 
+class="small-caps">f</small><small 
+class="small-caps">e</small><small 
+class="small-caps">l</small><small 
+class="small-caps">s</small></span>chen Tensor vierten Ranges abgeleitet werden <br/>können, welcher (in seiner kovarianten Form) lautet:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-13r10"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB18x.png" alt="           (                                  )           1  @2gim-  -@2gkl-   -@2gil--  @2gmk- (ik, lm) =  2  @xk@xl + @xi@xm - @xk@xm - @xl@xi         ( |_  im  _|   |_ kl _|   |_  il _|   |_  km  _| )        }    sum   rs                                          . +    g    |_  r _|   |_ s  _|  - |_  r _|   |_  s  _| 
+  rs " class="math-display"  /></center></td><td width="5%">(10)</td></tr></table>
+<!--l. 315--><p class="nopar">
+</p><!--l. 318--><p class="noindent">Das Problem der Gravitation bringt es mit sich, daß wir uns besonders <br/>für die Tensoren zweiten Ranges interessieren, welche aus diesem Ten-<br/>sor vierten Ranges und den <span 
+class="cmmi-10">g</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> durch innere Multiplikation gebildet <br/>werden Können. Infolge der aus (<span 
+class="cmcsc-10">10</span>) ersichtlichen Symmetrie-Eigen-<br/>schaften des R<span 
+class="cmcsc-10"><small 
+class="small-caps">i</small><small 
+class="small-caps">e</small><small 
+class="small-caps">m</small><small 
+class="small-caps">a</small><small 
+class="small-caps">n</small><small 
+class="small-caps">n</small><small 
+class="small-caps">s</small></span>chen Tensors
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-14r11"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB19x.png" alt="(ik, lm) = (lm, ik) } (ik, lm) = -(ki, lm) " class="math-display"  /></center></td><td width="5%">(11)</td></tr></table>
+<!--l. 332--><p class="nopar">
+</p><!--l. 336--><p class="noindent">kann eine solche Bildung nur auf eine Weise vorgenommen werden; <br/>es ergibt sich der Tensor
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-15r12"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB20x.png" alt="       sum   kl Gim =    g  (ik, lm).        kl " class="math-display"  /></center></td><td width="5%">(12)</td></tr></table>
+<!--l. 342--><p class="nopar">
+</p><!--l. 345--><p class="noindent">Wir leiten diesen Tensor für unsere Zwecke jedoch vorteilhafter aus <br/>einer zweiten, von C<span 
+class="cmcsc-10"><small 
+class="small-caps">h</small><small 
+class="small-caps">r</small><small 
+class="small-caps">i</small><small 
+class="small-caps">s</small><small 
+class="small-caps">t</small><small 
+class="small-caps">o</small><small 
+class="small-caps">f</small><small 
+class="small-caps">f</small><small 
+class="small-caps">e</small><small 
+class="small-caps">l</small> </span>angegebenen Form des Tensors (<span 
+class="cmcsc-10">10</span>) ab, <br/>nämlich aus<span class="footnote-mark"><a 
+href="199SW1KB2.html#fn1x0"><sup >1</sup></a></span> <a 
+ id="x1-16f0"></a><span class="footnote-mark"><a 
+ id="fn1x0">    <sup >1</sup></a></span> <span 
+class="cmr-8">Einen einfachen Beweis f</span><span 
+class="cmr-8">ür den Tensorcharakter dieses Ausdrucks findet man </span> <br/><span 
+class="cmr-8">auf S.</span><span 
+class="cmcsc-10x-x-80">10</span><span 
+class="cmr-8">53</span>
+  <span 
+class="cmr-8">meiner mehrfach zitierten Arbeit.</span>
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-17r13"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB21x.png" alt="                                           |_                            _| 
+           sum              @{il}  @ {im } s um   { il}  { rm }   { im }  { rl} {ik, lm}=     gkr(ir, lm) =--k------k--+     |_  r     k    -   r      k   _| .            r             @xm     @xl    r " class="math-display"  /></center></td><td width="5%">(13)</td></tr></table>
+<!--l. 371--><p class="nopar">
+</p><!--l. 374--><p class="noindent">Aus diesem ergibt sich der Tensor <span 
+class="cmmi-10">G</span><sub ><span 
+class="cmmi-7">im</span></sub><span 
+class="cmmi-10">, </span>indem man ihn mit dem Tensor
+</p>
+
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB22x.png" alt="dl =  sum  gkagal  k   a " class="par-math-display"  /></center>
+<!--l. 380--><p class="nopar">
+</p><!--l. 384--><p class="noindent">multipliziert (innere Multiplikation): <pb/>
+</p><!--l. 389--><p class="indent">
+
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-18r14"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB23x.png" alt="Gim = {il,lm}=  Rim + Sim " class="math-display"  /></center></td><td width="5%">(13)</td></tr></table>
+<!--l. 393--><p class="nopar">
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-19r14"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB24x.png" alt="        @{im}    sum  { il}  { rm } Rim = - ---l--+      r     l          @xl     r " class="math-display"  /></center></td><td width="5%">(13a)</td></tr></table>
+<!--l. 405--><p class="nopar">
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-20r14"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB25x.png" alt="         { }     im      rl S   = -@--ill- - { r }  { l } .  im     @xm 
+" class="math-display"  /></center></td><td width="5%">(13b)</td></tr></table>
+<!--l. 416--><p class="nopar">
+</p><!--l. 419--><p class="noindent">Beschränkt man sich auf Transformationen von der Determinante <span 
+class="cmcsc-10">1</span>, <br/>so ist nicht nur (<span 
+class="cmmi-10">G</span><sub ><span 
+class="cmmi-7">im</span></sub>) ein Tensor, sondern es besitzen auch (<span 
+class="cmmi-10">R</span><sub ><span 
+class="cmmi-7">im</span></sub>) und <br/>(<span 
+class="cmmi-10">S</span><sub ><span 
+class="cmmi-7">im</span></sub>) Tensorcharakter. In der Tat folgt aus dem Umstande, daß <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB26x.png" alt=" V~ --  - g"  class="sqrt"  /> <br/>ein Skalar ist, wegen (6), daß <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB27x.png" alt="  il {  }   l"  class="left" align="middle" /> ein kovarianter Vierervektor ist. <br/>(<span 
+class="cmmi-10">S</span><sub ><span 
+class="cmmi-7">im</span></sub>) ist aber gemäß (29) a. a. O. nichts anderes als die Erweiterung <br/>dieses Vierervektors, also auch ein Tensor. Aus dem Tensorcharakter <br/>von (<span 
+class="cmmi-10">G</span><sub ><span 
+class="cmmi-7">im</span></sub>) und (<span 
+class="cmmi-10">S</span><sub ><span 
+class="cmmi-7">im</span></sub>) folgt nach (13) auch der Tensorcharakter von (<span 
+class="cmmi-10">R</span><sub ><span 
+class="cmmi-7">im</span></sub>). <br/>Dieser letztere Tensor ist für die Theorie der Gravitation von größter <br/>Bedeutung.
+</p>
+<div class="center" >
+
+<!--l. 431--><p class="noindent">
+</p><!--l. 432--><p class="noindent"><span 
+class="cmsy-10">§</span>2. Bemerkungen zu den Differentialgesetzen der ,,mate-<br/>riellen&#8220; Vorgänge.</p></div>
+<!--l. 436--><p class="indent">   1. Impuls-Energie-Satz für die Materie (einschließlich der elektro-<br/>magnetischen Vorgänge im Vakuum.
+</p><!--l. 439--><p class="indent">   An die Stelle der Gleichung (42a) a. a. O. hat nach den allge-<br/>meinen Betrachtungen des vorigen Paragraphen die Gleichung
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-21r14"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB28x.png" alt=" sum   @Tns-  1  sum   tm @gmn n     @xn = 2    g  @xs Tt +Kn  n          mtn " class="math-display"  /></center></td><td width="5%">(14)</td></tr></table>
+<!--l. 449--><p class="nopar">
+</p><!--l. 453--><p class="noindent">zu treten; dabei ist <span 
+class="cmmi-10">T</span><sub><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-1b.png" alt="s" class="7x-x-1b" /></span></sub><sup><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sup> ein gewöhnlicher Tensor, <span 
+class="cmmi-10">K</span><sub ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sub> ein gewöhnlicher <br/>kovarianter Vierervektor (kein <span 
+class="cmmi-10">V </span>-Tensor bzw. <span 
+class="cmmi-10">V </span>-Vektor). An diese <br/>Gleichung haben wir eine für das Folgende wichtige Bemerkung zu <br/>knüpfen. Diese Erhaltungsgleichung hat mich früher dazu verleitet, <br/>die Größen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB29x.png" alt="1  sum   tm @gmn- 2   g   @xs   m " class="par-math-display"  /></center>
+<!--l. 465--><p class="nopar">
+</p><!--l. 469--><p class="noindent">als den natürlichen Ausdruck für die Komponenten des Gravitations-<br/>feldes anzusehen, obwohl es im Hinblick auf die Formeln des abso-<br/>luten Differentialkalküls näher liegt, die C<span 
+class="cmcsc-10"><small 
+class="small-caps">h</small><small 
+class="small-caps">r</small><small 
+class="small-caps">i</small><small 
+class="small-caps">s</small><small 
+class="small-caps">t</small><small 
+class="small-caps">o</small><small 
+class="small-caps">f</small><small 
+class="small-caps">f</small><small 
+class="small-caps">e</small><small 
+class="small-caps">l</small><small 
+class="small-caps">s</small></span>chen Symbole
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB30x.png" alt="{ ns}   t " class="par-math-display"  /></center>
+<!--l. 481--><p class="nopar">
+</p><!--l. 485--><p class="noindent">statt jener Größen einzuführen. Dies war ein verhängnisvolles Vor-<br/>urteil. Eine Bevorzugung des C<span 
+class="cmcsc-10"><small 
+class="small-caps">h</small><small 
+class="small-caps">r</small><small 
+class="small-caps">i</small><small 
+class="small-caps">s</small><small 
+class="small-caps">t</small><small 
+class="small-caps">o</small><small 
+class="small-caps">f</small><small 
+class="small-caps">f</small><small 
+class="small-caps">e</small><small 
+class="small-caps">l</small><small 
+class="small-caps">s</small></span>chen Symbols rechtfertigt <br/><pb/>
+</p><!--l. 492--><p class="indent">
+
+</p><!--l. 492--><p class="noindent">sich insbesondere wegen der Symmetrie bezüglich seiner beiden In-<br/>dices kovarianten Charakters (hier <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /> </span>und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi10-1b.png" alt="s" class="10x-x-1b" /></span>) und deswegen, weil das-<br/>selbe in den fundamental wichtigen Gleichungen der geodätischen <br/>Linie (23b) a.a.O. auftritt, welche, vom physikalischen Gesichtspunkte <br/>aus betrachtet, die Bewegungsgleichung des materiellen Punktes in <br/>einem Gravitationsfelde sind. Gleichung (14) bildet ebenfalls kein <br/>Gegenargument, denn das erste Glied ihrer rechten Seite kann in die
+ <br/>Form
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB31x.png" alt="   { sn}  sum     t  T n nt        t " class="par-math-display"  /></center>
+<!--l. 509--><p class="nopar">
+</p><!--l. 513--><p class="noindent">gebracht werden.
+</p><!--l. 516--><p class="indent">   Wir bezeichnen daher im folgenden als Komponenten des Gravi-<br/>tationsfeldes die Größen
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-22r15"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB32x.png" alt="                         |_    _| 
+        { mn}             mn             (                   ) G s = -   s   = -  sum  gta |_  a  _|  = - 1  sum  gsa @gma-+ @gna - @gmn .  mn                a              2 a       @xn   @xm    @xa " class="math-display"  /></center></td><td width="5%">(15)</td></tr></table>
+<!--l. 532--><p class="nopar">
+</p><!--l. 535--><p class="noindent">Bezeichnet <span 
+class="cmmi-10">T</span><sub><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-1b.png" alt="s" class="7x-x-1b" /></span></sub><sup><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sup> den Energietensor des gesamten ,,materiellen&#8220; Geschehens, <br/>so verschwindet K<sub ><span 
+class="cmmi-7">v</span></sub>; der Erhaltungssatz (14) nimmt dann die Form an
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-23r16"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB33x.png" alt=" sum   @Tat-     sum   a  b     @xa = -    GsbTa.  a          ab " class="math-display"  /></center></td><td width="5%">(14a)</td></tr></table>
+<!--l. 546--><p class="nopar">
+</p><!--l. 550--><p class="indent">   Wir merken an, daß die Bewegungsgleichungen (23b) a.a.O. des <br/>materiellen Punktes im Schwerefelde die Form annehmen
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-24r16"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB34x.png" alt="d2xt    sum      dxmdxn ds2-=    Gmtn ds--ds .        mn " class="math-display"  /></center></td><td width="5%">(15)</td></tr></table>
+<!--l. 557--><p class="nopar">
+</p><!--l. 561--><p class="indent">   2. An den Betrachtungen der Paragraphen 10 und 11 der zitierten <br/>Abhandlung ändert sich nichts, nur haben nun die dort als <span 
+class="cmmi-10">V </span>-Skalare und <br/><span 
+class="cmmi-10">V </span>-Tensoren bezeichneten Gebilde den Charakter gewöhnlicher Skalare <br/>bzw. Tensoren.
+</p>
+<div class="center" >
+
+<!--l. 567--><p class="noindent">
+</p><!--l. 568--><p class="noindent"><span 
+class="cmsy-10">§</span>3. Die Feldgleichungen der Gravitation.</p></div>
+<!--l. 571--><p class="indent">   Nach dem bisher Gesagten liegt es nahe, die Feldgleichungen der <br/>Gravitation in der Form
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-25r16"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB35x.png" alt="Rmn = - x Tmn " class="math-display"  /></center></td><td width="5%">(16)</td></tr></table>
+<!--l. 577--><p class="nopar">
+</p><!--l. 581--><p class="noindent">anzusetzen, da wir bereits wissen, daß diese Gleichungen gegenüber be-<br/>liebigen Transformationen von der Determinante <span 
+class="cmcsc-10">1 </span>kovariant sind. In <br/>der Tat genügen diese Gleichungen allen Bedingungen, die wir an <br/>sie zu stellen haben. Ausführlieher geschrieben lauten sie gemäß (<span 
+class="cmcsc-10">1 </span>3a) <br/>und (<span 
+class="cmcsc-10">1 </span>5)
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-26r17"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB36x.png" alt="      a  sum   @Gmn+  sum  Ga  Gb = - x Tmn.  a  @xa    ab  mb na " class="math-display"  /></center></td><td width="5%">(16a)</td></tr></table>
+<!--l. 595--><p class="nopar">
+<pb/>
+</p><!--l. 603--><p class="indent">
+
+</p><!--l. 604--><p class="noindent">Wir wollen nun zeigen, daß diese Feldgleichungen in die H<span 
+class="cmcsc-10"><small 
+class="small-caps">a</small><small 
+class="small-caps">m</small><small 
+class="small-caps">i</small><small 
+class="small-caps">l</small><small 
+class="small-caps">t</small><small 
+class="small-caps">o</small><small 
+class="small-caps">n</small><small 
+class="small-caps">s</small></span>che
+ <br/>Form
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-27r17"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB37x.png" alt=" {                     }     integral        sum 
+d    (L - x    gmnTmn) dt          sum  mn           }     L =    gstGsabG bta        stab " class="math-display"  /></center></td><td width="5%">(17)</td></tr></table>
+<!--l. 616--><p class="nopar">
+</p><!--l. 620--><p class="noindent">gebracht werden können, wobei die <span 
+class="cmmi-10">g</span><sup ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sup> zu variieren, die <span 
+class="cmmi-10">T</span><sub ><sup ><span 
+class="cmmi-5"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi5-16.png" alt="m" class="cmmi-5x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi5-17.png" alt="n" class="5x-x-17" /></span></sup></sub> als Kon-<br/>stante zu behandeln sind. Es ist nämlich (<span 
+class="cmcsc-10">1</span>7) gleichbedeutend mit <br/>den Gleichungen
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-28r18"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB38x.png" alt=" sum   @  ( @L  )   @L    @x-- @gmn  -  @gmn-= - xTmn, a    a    a " class="math-display"  /></center></td><td width="5%">(18)</td></tr></table>
+<!--l. 631--><p class="nopar">
+</p><!--l. 635--><p class="noindent">wobei L als Funktion der <span 
+class="cmmi-10">g</span><sup ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sup> und <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB39x.png" alt="@gmn @xs"  class="frac" align="middle" />(= <span 
+class="cmmi-10">g</span><sub><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-1b.png" alt="s" class="7x-x-1b" /></span></sub><sup><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sup>) zu denken ist. Ander-<br/>seits ergeben sich durch eine längere, aber ohne Schwierigkeiten durch-<br/>zuführende Rechnung die Beziehungen
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-29r19"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB40x.png" alt="@L       sum 
+--mn = -   Gmab Gbna @g       ab " class="math-display"  /></center></td><td width="5%">(19)</td></tr></table>
+<!--l. 646--><p class="nopar">
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-30r20"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB41x.png" alt="-@Lmn =  Gamn. @ga " class="math-display"  /></center></td><td width="5%">(19a)</td></tr></table>
+<!--l. 655--><p class="nopar">
+</p><!--l. 658--><p class="noindent">Diese ergeben zusammen mit (<span 
+class="cmcsc-10">1 </span>8) die Feldgleichungen (16a).
+</p><!--l. 662--><p class="indent">   Nun läßt sich auch leicht zeigen, daß dem Prinzip von der Er-<br/>haltung der Energie und des Impulses Genüge geleistet wird. Mul-<br/>tipliziert man (18) mit <span 
+class="cmmi-10">g</span><sub><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-1b.png" alt="s" class="7x-x-1b" /></span></sub><sup><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sup>
+und summiert man über die Indices <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi10-16.png" alt="m" class="cmmi-10x-x-16" align="middle" /> </span>und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span>, <br/>so erhält man nach geläufiger Umformung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB42x.png" alt=" sum       (       )             sum 
+    -@-- gmsn-@Lmn  - -@L-= - x   Tmn gmsn. amn @xa     @ga     @xs       mn " class="par-math-display"  /></center>
+<!--l. 676--><p class="nopar">
+</p><!--l. 679--><p class="noindent">Anderseits ist nach (14) für den gesamten Energietensor der Materie
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB43x.png" alt=" sum  @Tcs-= - 1  sum   @gmnTmn.  c @xc     2 mn @xs " class="par-math-display"  /></center>
+
+<!--l. 688--><p class="nopar">
+</p><!--l. 691--><p class="noindent">Aus den beiden letzten Gleichungen folgt
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-31r20"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB44x.png" alt=" sum   -@-- c   c     @xc(Ts +ts) = 0,  c " class="math-display"  /></center></td><td width="5%">(20)</td></tr></table>
+<!--l. 698--><p class="nopar">
+</p><!--l. 702--><p class="noindent">wobei
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-32r21"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB45x.png" alt="     1 (       sum      @L ) tcs = --- Ldcs -    gmsn--mn     2x        mn    @gc " class="math-display"  /></center></td><td width="5%">(20a)</td></tr></table>
+<!--l. 710--><p class="nopar">
+<pb/>
+</p><!--l. 718--><p class="indent">
+
+</p><!--l. 718--><p class="noindent">den ,,Energietensor&#8220; des Gravitationsfeldes bezeichnet, der übrigens <br/>nur linearen Transformationen gegenüber Tensorcharakter hat. Aus <br/>(20a) und (19a) erhält man nach einfacher Umformung
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-33r21"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB46x.png" alt=" c   1 c    sum   mn  a  b    sum   mn  a   c ts = 2ds-     g  Gmb Gna- mnag  G msGna           mnab " class="math-display"  /></center></td><td width="5%">(20b)</td></tr></table>
+<!--l. 730--><p class="nopar">
+</p><!--l. 733--><p class="noindent">Endlich ist es noch von Interesse, zwei skalare Gleichungen abzuleiten, <br/>die aus den Feldgleichungen hervorgehen. Multiplizieren wir (16a) <br/>mit <span 
+class="cmmi-10">g</span><sup ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-16.png" alt="m" class="cmmi-7x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /></span></sup> und summieren wir über <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi10-16.png" alt="m" class="cmmi-10x-x-16" align="middle" /> </span>und <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span>, so erhalten wir nach ein-<br/>facher Umformung
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-34r21"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB47x.png" alt=" sum   @2gab--   sum    st  a  b    sum  -@--( ab@-lg V~ --g)      sum   s     @xa@xb -     g  GsbGta +    @xa  g    @xb     = - x   Ts .  ab          stab             ab                         s " class="math-display"  /></center></td><td width="5%">(21)</td></tr></table>
+<!--l. 750--><p class="nopar">
+</p><!--l. 753--><p class="noindent">Multiplizieren wir anderseits (16a) mit <span 
+class="cmmi-10">g</span><sup ><span 
+class="cmmi-7"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-17.png" alt="n" class="7x-x-17" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi7-15.png" alt="c" class="7x-x-15" /></span></sup> und summieren über <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi10-17.png" alt="n" class="10x-x-17" /></span>, <br/>so erhalten wir
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB48x.png" alt=" sum   @            sum 
+   @x-(gncGman) -    gnb GanmGbca = -x Tcm, an   a          abn " class="par-math-display"  /></center>
+
+<!--l. 765--><p class="nopar">
+</p><!--l. 769--><p class="noindent">oder mit Rücksicht auf (20b)
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB49x.png" alt=" sum  -@-- nc  a    1 c  sum    mn  a  b      (  c   c)    @xa (g   Gmn)- 2 dm    g  GmbG na = - x Tm + tm . an                   mnab " class="par-math-display"  /></center>
+<!--l. 780--><p class="nopar">
+</p><!--l. 783--><p class="noindent">Hieraus folgt weiter mit Rücksicht auf (20) nach einfacher Umfor-<br/>mung die Gleichung
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-35r22"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB50x.png" alt="     |_                            _| 
+     s um    2 ab    sum 
+--@- |_    -@-g----     gst Gsab Gbta _|  = 0. @xm   ab @xa@xb   stab " class="math-display"  /></center></td><td width="5%">(22)</td></tr></table>
+<!--l. 794--><p class="nopar">
+</p><!--l. 797--><p class="noindent">Wir aber fordern etwas weitergehend:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-36r23"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB51x.png" alt=" sum  -@2gab-   sum    st  a  b    @xa@xb -     g  Gsb Gta = 0, ab          stab " class="math-display"  /></center></td><td width="5%">(22a)</td></tr></table>
+<!--l. 807--><p class="nopar">
+</p><!--l. 811--><p class="noindent">so daß (21) übergeht in
+</p>
+
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-37r23"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB52x.png" alt="       (        V~ --)  sum  -@--  ab @lg---g-       sum   s    @xa  g    @xb     = - x   Ts ab                         s " class="math-display"  /></center></td><td width="5%">(21a)</td></tr></table>
+<!--l. 820--><p class="nopar">
+</p><!--l. 823--><p class="noindent">Aus Gleichung (21a) geht hervor, daß es unmöglich ist, das Koordinaten-<br/>system so zu wählen, daß <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB53x.png" alt=" V~ ---   -g"  class="sqrt"  /> gleich <span 
+class="cmcsc-10">1 </span>wird; denn der Skalar des <br/>Energietensors kann nicht zu null gemacht werden.
+</p><!--l. 830--><p class="indent">   Die Gleichung (22a) ist eine Bezichung, der die <span 
+class="cmmi-10">g</span><sub ><sup ><span 
+class="cmmi-5"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi5-16.png" alt="m" class="cmmi-5x-x-16" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi5-17.png" alt="n" class="5x-x-17" /></span></sup></sub> allein unter-<br/>worfen sind und die in einem neuen Koordinatensystem nicht mehr gelten <br/>würde, das durch eine unerlaubte Transformation aus dem ursprünglich <br/>benutzten Koordinatensystem hervorginge. Diese Gleichung sagt also aus, <br/>wie das Koordinatensystem der Mannigfaltigkeit angepaßt werden muß. <pb/>
+</p><!--l. 841--><p class="indent">
+
+</p>
+<div class="center" >
+
+<!--l. 842--><p class="noindent">
+</p><!--l. 843--><p class="noindent"><span 
+class="cmsy-10">§</span>4. Einige Bemerkungen über die physikalischen <br/>Qualitäten der Theorie.</p></div>
+<!--l. 847--><p class="indent">   Die Gleichungen (22a) geben in erster Näherung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB54x.png" alt="     2 ab  sum  -@-g---= 0. ab @xa@xb " class="par-math-display"  /></center>
+<!--l. 853--><p class="nopar">
+</p><!--l. 856--><p class="noindent">Hierdurch ist das Koordinatensystem noch nicht festgelegt, indem zur <br/>Bestimmung desselben 4 Gleichungen nötig sind. Wir dürfen deshalb <br/>für die erste Näherung willkürlich festsetzen
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-38r23"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB55x.png" alt=" sum  @gab-= 0.  b  @xb " class="math-display"  /></center></td><td width="5%">(22)</td></tr></table>
+<!--l. 866--><p class="nopar">
+</p><!--l. 869--><p class="noindent">Ferner wollen wir zur Vereinfachung der Darstellung die imaginäre Zeit <br/>als vierte Variable einführen. Dann nehmen die Feldgleichungen (16a) <br/>in erster Näherung die Form an
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-39r23"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB56x.png" alt="1  sum  @2gmn 2     @x2a = x Tmn,    a " class="math-display"  /></center></td><td width="5%">(16b)</td></tr></table>
+<!--l. 879--><p class="nopar">
+</p><!--l. 883--><p class="noindent">von welcher sogleich ersichtlich ist, daß sie das N<span 
+class="cmcsc-10"><small 
+class="small-caps">e</small><small 
+class="small-caps">w</small><small 
+class="small-caps">t</small><small 
+class="small-caps">o</small><small 
+class="small-caps">n</small><small 
+class="small-caps">s</small></span>che Gesetz als <br/>Näherung enthält.
+</p><!--l. 887--><p class="indent">   Daß die Relativität der Bewegung gemäß der neuen Theorie wirk-<br/>lich gewahrt ist, geht daraus hervor, daß unter den erlaubten Trans-<br/>formationen solche sind, die einer Drehung des neuen Systems gegen <br/>das alte mit beliebig veränderlicher Winkelgesch windigkeit entsprechen, <br/>sowie solche Transformationen, bei welchen der Anfangspunkt des neuen <br/>Systems im alten System eine beliebig vorgeschriebene Bewegung aus-<br/>führt.
+</p><!--l. 896--><p class="indent">   In der Tat sind die Substitutionen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB57x.png" alt="x'=   x cost + y sin t  ' y'= - x sint + y cost z = z t'= t " class="par-math-display"  /></center>
+<!--l. 910--><p class="nopar">
+</p><!--l. 914--><p class="indent">   und
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/199SW1KB58x.png" alt="x'=  x- t1 y'=  y- t2 z'= z - t  '       3 t = t, " class="par-math-display"  /></center>
+<!--l. 924--><p class="nopar">
+</p><!--l. 928--><p class="noindent">wobei <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /> </span>bzw. <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /></span><sub ><span 
+class="cmr-7">1</span></sub>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /></span><sub ><span 
+class="cmr-7">2</span></sub>, <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/sitzungsberichte/fulltext/img/cmmi10-1c.png" alt="t" class="10x-x-1c" /></span><sub ><span 
+class="cmr-7">3</span></sub> beliebige Funktionen von <span 
+class="cmmi-10">t </span>sind, Substitutionen <br/>von der Determinante <span 
+class="cmcsc-10">1</span>.
+</p>
+<div class="center" >
+
+<!--l. 933--><p class="noindent">
+</p><!--l. 934--><p class="noindent">------------------------------<br/>Ausgegeben am 11. November.
+ <br/>------------------------------</p></div>
+
+    
+</body></html> 
+
+
+

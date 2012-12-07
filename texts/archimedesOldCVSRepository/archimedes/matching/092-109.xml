@@ -1,0 +1,25 @@
+<mapping xmlns:xlink="http://www.w3c.org/xlink">
+<map>
+<source>
+<link xlink:href="092.xml#id.000001"/>
+</source>
+<target><link xlink:href="109.xml#s000019"/></target></map><map>
+
+<source>
+<link xlink:href="092.xml#id.000001a"/>
+</source>
+<target><link xlink:href="109.xml#s000020"/><link xlink:href="109.xml#s000021"/></target></map><map>
+<source>
+
+<link xlink:href="092.xml#id.000002"/>
+</source>
+<target><link xlink:href="109.xml#s000021"/><link xlink:href="109.xml#s000022"/><link xlink:href="109.xml#s000023"/></target></map>
+
+<map>
+<source>
+<link xlink:href="092.xml#id.000003"/>
+</source>
+
+<target><link xlink:href="109.xml#s000024"/><link xlink:href="109.xml#s000025"/></target></map>
+
+</mapping>

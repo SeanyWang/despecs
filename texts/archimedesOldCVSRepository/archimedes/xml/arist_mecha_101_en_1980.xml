@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE archimedes SYSTEM "../dtd/archimedes.dtd">
+<archimedes>
+  <info>
+    <author>Pseudo-Aristotle</author>
+    <title>Mechanical Problems</title>
+    <date>1980</date>
+    <place>Cambridge, Mass.</place>
+    <translator>Walter Stanley Hett</translator>
+    <lang>en</lang>
+    <cvs_file/>
+    <cvs_version/>
+    <locator>101.xml</locator>
+  </info>
+  <text>
+    <front>
+      <section>
+        <p>
+          <s id="g0100001">Aristotle, Mechanical Problems</s>
+        </p>
+        <p>
+          <s id="g0100002">English translation by Walter Stanley Hett, M.A.</s>
+        </p>
+      </section>
+    </front>
+    <body>
+      <chap>
+        <p>
+          <s id="g0110101">Remarkable things occur in accordance with nature, the cause of which is unknown, and others occur contrary to nature, which are produced by skill for the benefit of mankind.</s>
+          <s id="g0110102">For in many cases nature produces effects against our advantage;</s>
+          <s id="g0110103">for nature always acts consistently and simply, but our advantage changes in many ways.</s>
+          <s id="g0110201">When, then, we have to produce an effect contrary to nature, we are at a loss, because of the difficulty, and require skill. </s><s id="g0110201a">Therefore we call that part of skill which assists such difficulties, a device.</s>
+          <s id="g0110202">For as the poet Antiphon wrote, this is true: &quot;We by skill gain mastery over things in which we are con&que;red by nature.&quot;</s>
+          <s id="g0110203">Of this kind  are those in which the less master the greater,  and things possessing little weight move heavy weights,  and all similar devices which we term mechanical problems.</s>
+          <s id="g0110301">These are not altogether identical with physical problems, nor are they entirely separate from them, but they have a share in both mathematical and physical speculations,  for the method is demonstrated by mathematics, but the practical application belongs to physics.</s>
+        </p>
+        <p>
+          <s id="g0120101">Among the problems included in this class are included those concerned with the lever.</s>
+          <s id="g0120102">For it is strange that a great weight can be moved by a small force, and that, too, when a greater weight is involved. For the very same weight, which a man cannot move without a lever, he quickly moves by applying the weight of the lever.</s>
+        </p>
+        <p>
+          <s id="g0120103">Now the original cause of all such phenomena is the circle;</s>
+          <s id="g0120104">and this is natural, for it is in no way strange that something remarkable should result from something more remarkable,</s>
+          <s id="g0120201">and the most remarkable fact is  the combination of opposites with each other.</s>
+          <s id="g0120202">The circle is made up of such opposites,</s>
+          <s id="g0120203">for to begin with it is composed both of the moving and of the stationary, which are by nature opposite to each other. So  when one reflects on this, it becomes less remarkable that opposites should exist in it.</s>
+          <s id="g0120204">First of all, in the circumference of the circle which has no breadth,  an opposition of the kind appears, the concave and the convex.</s>
+          <s id="g0120205">These differ from each other in the same way as the great and small ; for the mean between these latter is the equal, and between the former is the straight line. Therefore, as in the former case, if they were to change into each other they must become equal before they could pass to either of the extremes, so also the line must become straight either when it changes from convex to concave, or by the reverse process becomes a convex curve. This, then, is one peculiarity of the circle, </s>
+          <s id="g0120301">and a second is that it moves simultaneously in opposite directions; for it moves simultaneously forwards and backwards,</s>
+          <s id="g0120302">and the radius which describes it behaves in the same way; for from whatever point it begins, it returns again to the same point; and as it moves continuously the last point again becomes the first in such a way that it is evidently changed from its first position.</s>
+        </p>
+        <p>
+          <s id="g0120303">Therefore, as has been said before, there is nothing strange in the circle being the first of all marvels.</s>
+          <s id="g0120401">The facts about the balance depend upon the circle, and those about the lever upon the balance, while nearly all the other problems of mechanical movement can depend upon the lever.</s>
+          <s id="g0120402">Again, no two points on one line drawn as a radius from the centre travel at the same pace, but that which is further from the fixed centre travels more rapidly; it is due to this that many of the remarkable properties in the movement of circles arise; concerning which there will be a demonstration in what follows.</s>
+        </p>
+        <p>
+          <s id="g0120501">But owing to the fact that a circle has two opposite movements at the same time, and that one extremity of the diameter &mdash; that at \a &mdash; moves forward while the other at \b moves backwards, some people arrange that from one movement many circles move simultaneously in contrary directions, like the wheels of bronze and steel which they dedicate in temples.</s>
+          <s id="g0120502">Let there be a circle with diameter \d \g touching the circle \a \b; if the diameter of the circle AB moves forward, then the diameter of the circle \a \g will move backward in relation to \a \b, if the diameter revolves round one point.</s>
+          <s id="g0120503">That is, the circle \g \d will move in the opposite direction to the circle \a \b; and again it will move the next in succession, the circle E Z in the opposite direction to itself for the same reason.</s>
+          <s id="g0120601">In the same way also, if there are more circles they will show the same process, when only one of them is moved.</s>
+          <s id="g0120602">So making use of this property inherent in the circle, craftsmen make an instrument concealing the original circle, so that the marvel of the machine is alone apparent, while its cause is invisible.</s>
+        </p>
+        <p>
+          <s id="g0120701prop01">1. First of all then a difficulty will arise as to what happens to the balance; why, that is, larger balances are more accurate than smaller ones.</s>
+          <s id="g0120702">The origin of this is the &que;stion why that part of the radius of a circle which is farthest from the centre moves quicker than the smaller radius which is close to the centre, and is moved by the same force.</s>
+          <s id="g0120703">The word quicker is used in two senses; </s>
+          <s id="g0120704">if a point covers the same distance as another in a shorter space of time we call it quicker, and also if it covers a greater distance in an equal time.</s>
+          <s id="g0120705">But in our case the greater radius describes a greater circle in equal time; for the circumference outside is greater than the circumference inside.</s>
+        </p>
+        <p>
+          <s id="g0120706">The reason is that the radius describing the circle is performing two movements.</s>
+          <s id="g0120707">Now whenever a body is moved in two directions in a fixed ratio it necessarily travels in a straight line, which is the diagonal of the figure which the lines arranged in this ratio describe.</s>
+        </p>
+        <p>
+          <s id="g0120708">Let the ratio according to which the body moves be represented by the ratio of \a \b to \a \g. Let \a \g move towards \b while \a \b be moved towards the position \E \g; now let \a travel to \d, and let \a \b travel a distance determined by the point \e. Then if the ratio of the movement is that of \a \b to \a \g, then the line \a \d must bear the same ratio to \a \e.</s>
+          <s id="g0120709">Then the small parallelogram has the same proportions as the larger, so that its diagonal is the same, and the body will move to \z.</s>
+          <s id="g0120801">It can be shown that it will behave in the same way at whatever point its movement be interrupted; it will always be on the diagonal.</s>
+          <s id="g0120802">Conversely it is obvious that an object travelling with two movements along a diagonal will always move in the ratio of the sides of the parallelogram.</s>
+          <s id="g0120803">For with any other proportion it will not travel along the diagonal.</s>
+          <s id="g0120804">But, if a body travels with two movements with no fixed ration in no fixed time, it would be impossible to it to travel in a straight line. </s>
+          <s id="g0120805">For suppose it to be a straight line.</s>
+          <s id="g0120806">If this line is drawn as a diagonal and the sides of the parallelogram be filled in, the body must move in the ratio of the sides; this has been demonstrated before.</s>
+          <s id="g0120807">Hence the body that travels in no constant ratio and in no fixed time will not make a straight line.</s>
+          <s id="g0120808">For if it travels in a fixed ratio for a given time, during this time it must move in a straight line, because of what we have already said.</s>
+          <s id="g0120809">So that if it moves in two directions with no fixed ratio and in no fixed time it will be a curve.</s>
+        </p>
+        <p>
+          <s id="g0120901">That the line describing a circle moves in two directions simultaneously is obvious from these considerations, and also because that which travels along a straight line is along a perpendicular, so that it again travels along the perpendicular to a point above the centre.</s>
+          <s id="g0121001">Let \a \b \g be a circle, and from the point \b  above the centre let a line be drawn to \g; it is joined to the point \g;</s>
+          <s id="g0121002">if it travelled with velocities in the ratio of \b \d to \d \g it would move along the diagonal \b \g.</s>
+          <s id="g0121003">But, as it is, seeing that it is in no such proportion it travels along the arc \b \e \g.</s>
+          <s id="g0121101">Now if of two objects moving under the influence of the same force one  suffers more interference, and the other less; it is reasonable to suppose that the one suffering the greater interference should move more slowly than that suffering less, which seems to take place in the case of the greater and the less of those radii which describe circles from the centre.</s>
+          <s id="g0121102">For because the extremity of the less is nearer the fixed point than the extremity of the greater, being attracted towards the centre in the opposite direction, the extremity of the lesser radius moves more slowly.</s>
+          <s id="g0121201">This happens with any radius which describes a circle; it moves along a curve naturally in the direction of the tangent, but is attracted to the centre contrary to nature. The lesser radius always moves in its unnatural direction; for because it is nearer the centre which attracts it, it is the more influenced.</s>
+          <s id="g0121301">That the lesser radius moves more than the greater in the unnatural direction in the case of radii describing the circles from a fixed centre is obvious from the following considerations.</s>
+        </p>
+        <p>
+          <s id="g0121302">Let there be a circle \b \g \e \d and another smaller one inside it \c \n \m \x described about the same centre \a and let the diameters be drawn, the larger \d \g and \e and in the smaller circle \m \c and \n \x; let the rectangle \d \g be completed. If the radius \a \b describing the circle returns again to the same position from which it started, namely to \a \b, it is clearly travelling towards itself.</s>
+          <s id="g0121303">In the same way \a \c will return to the position \a \c.</s>
+          <s id="g0121304">But \a \c travels more slowly than \a \b, as has been said, because the interference with it is greater, and \a \c is more interrupted.</s>
+        </p>
+        <p>
+          <s id="g0121401">Let \a \t \E be drawn, and from the point \t a perpendicular \t Z be dropped within the circle to \a \b; again from \t let \t \O be drawn parallel to \a \b, and the perpendiculars \O \y and \E K dropped on \a \b. </s>
+          <s id="g0121402">Now the lines \O \y and \t Z are equal, but \b \y is less than \c Z.</s>
+          <s id="g0121403">For in unequal circles equal straight lines drawn perpendicular to the diameter cut off smaller parts of the diameter in the greater circles, and \O \y is equal to \t Z.</s>
+          <s id="g0121404">Now in the same time in which \a \t travels along the distance \c \t the extremity of the radius \b \a has described a greater arc than \b \O in the greater circle.</s>
+          <s id="g0121501">For the natural travel is equal, but the unnatural is less; and \b \y is less than \c Z:</s>
+          <s id="g0121502">but one would expect them to be in proportion, the two that is whose travel is natural, and the two whose travel is unnatural.</s>
+        </p>
+        <p>
+          <s id="g0121503">The point has actually travelled over \E \b, which is greater than \O \b.</s>
+          <s id="g0121504">Now in the given time (i.e., that in which \a \c moves to \a \ t) \a \b must have travelled over the arc \E \b;</s>
+          <s id="g0121505">for that will be its position, when the proportion between the natural and unnatural movements is true.</s>
+          <s id="g0121506">If, then, the natural movement is greater in the greater circle, the unnatural movement would at that point have the same proportion only</s>
+          <s id="g0121507">in the sense that the point \b would travel along the arc \b \E in the same time as the point \c would travel along the arc \c \t. For in that case the natural movement of the point \b carries it to \E, but its unnatural movement to K. For \E K is the perpendicular dropped from \E.</s>
+          <s id="g0121508">Then \E K is in the same ratio to K \b, as \t Z is to Z \c. This will be obvious if \b and \c are joined respectively to \E and \t.</s>
+          <s id="g0121509">But if the distance travelled by \b is either greater or less than \E \b, the result will not be the same, nor will the proportion between the natural and unnatural movements be the same in the two circles.</s>
+        </p>
+        <p>
+          <s id="g0121510">From what has already been said the reason why the point more distant from the centre travels more quickly than the nearer point, though impelled by the same force, and why the greater radius describes the greater arc, is obvious.</s>
+          <s id="g0130101">Why also greater balances are more accurate than smaller ones, is clear from these considerations.</s>
+          <s id="g0130102">The cord  which suspends the balance is the centre (for it is a fixed point), and the parts on either side of the balance scale are the radii from the centre.</s>
+          <s id="g0130103">Now the extremity of the balance scale must move at a greater rate under the influence of the same weight, inasmuch as it is further from the cord,</s>
+          <s id="g0130104">and conse&que;ntly in small balances some weights must make  no impression on the senses, but in large balances the movement must be obvious;</s>
+          <s id="g0130105">for there is nothing to prevent a quantity from moving too little for it to be observed by the senses.</s>
+          <s id="g0130106">But in a large balance the same weight makes the movement visible.</s>
+          <s id="g0130107">Some movements are obvious in both cases, but are much more obvious in larger balances, because then the extent of the swing is much greater for the same weight.</s>
+          <s id="g0130108">This is how sellers of purple arrange  their weighing machines to deceive, by putting the cord out of the true centre, and pouring lead into one arm of the balance, or by employing wood for the side to which they want it to incline taken from the root or from where there is a knot. For the part of the tree in which the root lies is heavier, and a knot is in a sense a root.</s>
+        </p>
+        <p>
+          <s id="g0130201prop02">2. If the cord supporting a balance is fixed from above, when after the beam has inclined the weight is removed, the balance returns to its original position. If, however, it is supported from below, then it does not return to its original position. Why is this?</s>
+          <s id="g0130202">It is because, when the support is from above (when the weight is applied) the larger portion of the beam [sic! correct: balance] is above the perpendicular. For the cord is the perpendicular. So that the greater weight must swing downwards until the line dividing the beam [sic! correct: balance] coincides with the perpendicular, because the greater weight now lies in the raised part of the beam [sic! correct: balance].</s>
+          <s id="g0130203">Let the beam [sic! correct: balance] be a straight one represented by B \g, and the cord be A \d. When this is driven downwards the perpendicular will be represented by A \d M,</s>
+          <s id="g0130204">if the weight is attached in the direction of B. The face B will then adopt the position E, and the face \g that of Z, so that the line bisecting the beam [sic! correct: balance] at first was in the position of the perpendicular \d M, but when the weight was attached took up the position \d \t. Conse&que;ntly that part of the beam [sic! correct: balance] in its position \e Z which is outside the perpendicular A M will exceed half the beam by \t \p.</s>
+          <s id="g0130205">If, then, the weight is removed from the arm E, the arm Z must be depressed, for the arm \E is the smaller.</s>
+          <s id="g0130206">If, then, the cord is attached from above, the balance returns again to its original position.</s>
+        </p>
+        <p>
+          <s id="g0130207">If, however, the support is from below, the opposite results; for now the portion of the beam [sic! correct: balance] which is lower than the perpendicular dividing it is more than half; conse&que;ntly it does not return to its place; for the part rising above is lighter.</s>
+          <s id="g0130208">Let the straight beam [sic! correct: balance] be represented by N \x, the perpendicular being K \l M, and this bisects N \x.</s>
+          <s id="g0130209">When the weight is attached to the arm N, N will take up the position O and \x will take up the position \r, while K \l will go to \t \l, so that K \o is greater than \l \r by \t K \l.</s>
+          <s id="g0130210">Now when the weight is removed the beam must keep its new position; for the excess over half the beam beyond \k acts as a weight and depresses the beam.</s>
+        </p>
+        <p>
+          <s id="g0130301prop03">3. Why is it that small forces can move great weights by means of a lever, as was said at the beginning of the treatise, seeing that one naturally adds the weight of the lever? For surely the smaller weight is easier to move, and it is smaller without the lever.</s>
+          <s id="g0130302">Is the lever the reason, being equivalent to a beam with its cord attached below, and divided into two equal parts? For the fulcrum acts as the attached cord: for both these remain stationary, and act as a centre.</s>
+          <s id="g0130303">But since under the impulse of the same weight the greater radius from the centre moves the more rapidly, and there are three elements in the lever, the fulcrum, that is the cord or centre, and the two weights, the one which causes the movement, and the one that is moved; now the ratio of the weight moved to the weight moving it is the inverse ratio of the distances from the centre. </s>
+          <s id="g0130304">Now the greater the distance from the fulcrum, the more easily it will move.</s>
+          <s id="g0130305">The reason has been given before that the point further from the centre describes the greater circle,</s>
+          <s id="g0130306">so that by the use of the same force, when the motive force is farther from the lever [sic! correct: fulcrum], it will cause a greater movement.</s>
+          <s id="g0130307">Let A B be the bar, \g be the weight, and \d the moving force, E the fulcrum;</s>
+          <s id="g0130308">and let H be the point to which the moving force travels and K the point to which \g the weight moved travels.</s>
+        </p>
+        <p>
+          <s id="g0130401prop04">4. Why do the rowers in the middle of the ship contribute most to its movement?</s>
+          <s id="g0130402">Is it because the oar acts like a bar? For the thole-pin is the fulcrum (for it is fixed), and the sea is the weight, which the oar presses; the sailor is the force which moves the bar.</s>
+          <s id="g0130403">In proportion as the moving force is further away from the fulcrum, so it always moves the weight more;</s>
+          <s id="g0130404">for the circle described from the centre is greater, and the thole-pin, which is the fulcrum, is the centre.</s>
+          <s id="g0130405">The largest part of the oar is within in the centre of the ship. For the ship is broadest at this point, so that it is possible for the greater part of the oar to be within the sides of the ship on either side.</s>
+          <s id="g0130406">Therefore the movement of the ship is caused, because the end of the oar which is within the ship travels forward when the oar is supported against the sea,</s>
+          <s id="g0130407">and the ship being fastened to the thole-pin travels forward in the same direction as the end of the oar.</s>
+          <s id="g0130408">The ship must be thrust forward most at the point at which the oar displaces most sea, where the distance between the handle and the thole-pin is greatest.</s>
+          <s id="g0130409">This is the reason why those in the middle of the ship contribute most to the movement of the ship; for that part of the oar which stretches inside from the thole-pin is greatest in the middle of the ship.</s>
+        </p>
+        <p>
+          <s id="g0130501prop05">5. Why does the rudder, which is small and at the end of the vessel, have so great power that it is able to move the huge mass of the ship, though it is moved by a smaller tiller and by the strength of but one man, and then without violent exertion?</s>
+          <s id="g0130502">Is it because the rudder is a bar [sic! correct: lever], and the helmsman works a lever? The point at which it is attached to the ship is the fulcrum, the whole rudder is the bar, the sea is the weight, and the helmsman is the motive force. </s>
+          <s id="g0130503">The rudder does not strike the sea at right angles to its length, as an oar does. For it does not drive the ship forward, but turns it while it moves, receiving the sea at an angle.</s>
+          <s id="g0130504">For since the sea is the weight, it turns the ship by pushing in a contrary direction. For the lever and the sea turn in opposite directions, the sea to the inside and the lever to the outside. The ship follows because it is attached to it.</s>
+          <s id="g0130505">The oar pushes the weight against its breadth, and being pushed by it it in return drives the ship straight forward; but the rudder, being placed aslant, causes movement also to be at an angle,  either in one direction or the other.</s>
+          <s id="g0130506">It is placed at the end and not in the middle of the ship, because the part moved can move most easily when the moving agent acts from the end.</s>
+          <s id="g0130507">For the first part moves most rapidly because as in other travelling bodies the travel ceases at the end, so in a continuous body the travel is weakest at the end. If, then, it is weakest there, it is at that point easiest to shift it from its position.</s>
+          <s id="g0130508">This is why the rudder is at the stern and also because, as there is very little movement at that point, the displacement is much greater at the end, because the same angle stands on a large base, and because the enclosing lines are greater.</s>
+          <s id="g0130509">From this it is obvious why the ship moves further in an opposite direction than the oar-blade; for the same mass, when moved by the same force, will travel further in air than in water.</s>
+          <s id="g0130510">For let A B be the oar, \g the thole-pin, and A the part of the oar inside the ship, that is, the handle of the oar,  while the point B is the end in the sea.</s>
+          <s id="g0130511">Now if the point A be moved to the point \d, the point B will not be at E; for B E is equal to A \d, and it  would thus have travelled an equal distance.</s>
+          <s id="g0130512">But it is smaller, and it will be at the point Z. The point \t then cuts the line A B, not where \g is but below. For B Z is less than A \d, just as \t Z is less than A \t; for the triangles are similar.</s>
+          <s id="g0130513">The centre \g will also be displaced; for it moves in the opposite direction to  the part B, which is in the sea, and in the same direction as A, the part in the boat,</s>
+          <s id="g0130514">and A has changed its position to \d. So the position of the ship will be changed, and the point where the handle of the oar is will be moved.</s>
+          <s id="g0130515">The rudder acts in the same way except that it does not contribute anything to the forward movement of the ship, but only pushes the stern sideways in one direction or the other; for the  bow moves in the opposite direction to the rudder.</s>
+          <s id="g0130516">The point at which the rudder is attached must be regarded as the pivot of the moving part, and functions like the thole-pin for the oar; but the centre of the ship is moved in the same direction as the rudder.</s>
+          <s id="g0130517">If it is moved inwards the stern moves in that direction; but the bow moves in a contrary direction, for while the bow remains in the same place the whole ship changes position.</s>
+        </p>
+        <p>
+          <s id="g0130601prop06">6. Why is it that the higher the yard-arm, the faster; the ship travels with the same sail and the same wind?</s>
+          <s id="g0130602">Is it because the mast acts as a lever with its base in which it is fixed as a fulcrum? Then the weight which requires to be moved is the ship, and the agent of movement is the wind in the sail.</s>
+          <s id="g0130603">If, then, it is true that the farther the fulcrum, the more easily and rapidly does a given power move a given weight, then the yard-arm being higher makes the sail also farther away from the base which is the fulcrum.</s>
+        </p>
+        <p>
+          <s id="g0130701prop07">7. Why is it that, when the wind is unfavourable and they wish to run before it, they reef the sail in the direction of the helmsman, and slacken the part of the sheet towards the bows?</s>
+          <s id="g0130702">Is it because the rudder cannot act against the wind when it is stormy, but can when the wind is slight and so they shorten sail?</s>
+          <s id="g0130703">In this way the wind carries the ship forward, but the rudder turns it into the wind, acting against the sea as a lever.</s>
+          <s id="g0130704">At the same time the sailors fight against the wind; for they lean over in the opposite direction.</s>
+        </p>
+        <p>
+          <s id="g0130801prop08">8. Why are round and circular bodies easiest to move?</s>
+          <s id="g0130802">It is possible for a wheel to move in three ways; first, it may move along the felloe, the centre moving also, just as the wheel of a cart revolves; secondly, it may move about the centre, like a pulley, the centre remaining fixed; thirdly, it may move in a plane parallel to the ground, the centre still remaining fixed, as the potter&apos;s wheel revolves.</s>
+          <s id="g0130803">All such movements are fast because the contact with the ground is slight, as a circle has only one point of contact, and because of the absence of friction; for the angle of the circumference is away from the ground.</s>
+          <s id="g0130804">If also it meets a body, it again only comes into contact with a small surface.</s>
+          <s id="g0130805">If, on the other hand, the body were rectilinear, it would because of its straight side touch the ground for a considerable distance.</s>
+          <s id="g0130806">Again, the mover moves it in the same direction as its weight inclines. For when the diameter of the circle is at right angles to the ground, as the circle only touches the ground at one point, the diameter divides the weight equally on both sides of it; but when it moves the weight is immediately more in the direction of the movement, as though its balance were thrown that way. Conse&que;ntly it is easier for the pusher to move it forward; for any body is easily moved in the direction towards which it inclines, and is similarly difficult to move in a direction opposite to its weight.</s>
+          <s id="g0130807">Some say that the circumference of a circle travels perpetually, just as things remain at rest owing to resistance, as one can see in the case of greater circles in comparison with less. </s>
+          <s id="g0130808">For greater circles move quickly and move greater weights by the application of the same force, because the angle of the greater circle has considerable influence in comparison with that of the lesser, and is in the same ratio as the diameter of the one bears to the diameter of the other. Now every circle is greater than some smaller one; for there are an infinite number of smaller circles.</s>
+          <s id="g0130809">Now if it is a fact that one circle has weight in comparison with another, and is therefore easy to move, there are cases in which the circle and the things moved </s>
+          <s id="g0130810">by it have an additional inclination; that is, when they do not touch the surface with the felloe, but either move parallel with the ground, or with the motion of pulleys; for in this position they move very easily, and move weights as well.</s>
+          <s id="g0130811">But this is not due to the small degree of contact and friction, but to another cause.</s>
+          <s id="g0130812">This is the one mentioned before, that a circle consists of two directions of motion, so that the weight must always incline in the direction of one of them; thus the mover always impels it in the direction in which it is already travelling, when they move it in any direction in a line with its circumference. For they are moving it when it is already travelling;</s>
+          <s id="g0130813">for the moving force drives it in the direction of the tangent, while the circle itself moves in the direction of its diameter.</s>
+        </p>
+        <p>
+          <s id="g0130901prop09">9. Why is it that we can move more easily and quickly things raised and drawn by means of greater circles? For instance larger pulleys work better than smaller ones and so do large rollers.</s>
+          <s id="g0130902">Surely it is because, the distance from the centre being larger, a greater space is covered in the same time,</s>
+          <s id="g0130903">and this result will still take place if an equal weight is put upon it, just as we said that larger balances are more accurate than smaller ones.</s>
+          <s id="g0130904">For the cord is the centre and the parts of the beam [sic! correct: balance] which are on either side of the cord are the radii of the circle.</s>
+        </p>
+        <p>
+          <s id="g0131001prop10">10. Why is a balance moved more easily when it is without a weight than when it has one?</s>
+          <s id="g0131002">In the same way in the case of a wheel or anything of the kind the smaller and lighter is more easily moved than the larger and heavier.</s>
+          <s id="g0131003">Is it because the weight is more difficult to move, not only in the opposite direction but at an angle?</s>
+          <s id="g0131004">For it is hard to move a thing in the opposite direction to its weight, but easy in the direction of its weight; but it does not incline at an angle.</s>
+        </p>
+        <p>
+          <s id="g0131101prop11">11. Why are heavy weights more easily carried on rollers than on carts, though the latter&apos;s wheels are larger while the circumference of rollers is small?</s>
+          <s id="g0131102">Is it because in the case of rollers there is no friction but in the case of carts there is the axle, and there is friction on that; for there is pressure upon it not only from above, but also horizontally?</s>
+          <s id="g0131103">But a weight resting on rollers moves at two points of them, the ground supporting from below and the weight pressing from above; for the circle is revolving at both these points, and is impelled in the direction it travels.</s>
+        </p>
+        <p>
+          <s id="g0131201prop12">12. Why does a missile travel further from the sling than from the hand? And yet the thrower has more control with his hand than when he has a suspended weight.</s>
+          <s id="g0131202">In the case of a sling he has two weights to move, that of the sling and that of the missile, whereas in the former case he has the missile only.</s>
+          <s id="g0131203">Is it because the man who hurls the missile has it already moving in the sling (for he only lets it go after swinging it round in a circle many times),</s>
+          <s id="g0131204">but when projected from the hand it starts from rest? For everything is easier to move when it is already set in motion than when it is at rest.</s>
+          <s id="g0131205">Is this, then, one reason, and is this another, that in using a sling the hand becomes the centre and the sling the radius? The greater then the radius, the faster the movement. But the cast from the hand is at a small distance compared to the sling.</s>
+        </p>
+        <p>
+          <s id="g0131301prop13">13. Why are the larger handles more easy to move round a spindle than smaller ones, and in the same way less bulky windlasses are more easily moved than thicker ones by the application of the same force?</s>
+          <s id="g0131302">Is it because the windlass and the spindle are the centre and the parts which stand away from them are the radii? Now the radii of greater circles move more quickly and a greater distance by the application of the same force than the radii of smaller circles; for by the application of the same force the extremity which is farther from the centre moves more.</s>
+          <s id="g0131303">This is why they fit handles to the spindle with which they turn it more easily; in the case of light windlasses the part outside the centre travels further, and this is the radius of the circle.</s>
+        </p>
+        <p>
+          <s id="g0131401prop14">14. Why is a piece of wood of equal size more easily broken over the knee, if one holds it at equal distance far away from the knee to break it, than if one holds it by the knee and quite close to it? And similarly if one supports the wood on the ground and then putting the foot on it one breaks it with the hand, it breaks more easily if the hand is at some distance rather than if one holds it at a point close to the foot.</s>
+          <s id="g0131402">Is it because in one case the knee and in the other the foot is the centre? But the farther it is away from the centre the more easily is everything moved. And what is being broken must necessarily be moved.</s>
+        </p>
+        <p>
+          <s id="g0131501prop15">15. Why are the stones on the seashore which are called pebbles round, when they are originally made from long stones and shells?</s>
+          <s id="g0131502">Surely it is because in movement what is further from the middle moves more rapidly.</s>
+          <s id="g0131503">For the middle is the centre, and the distance from this is the radius.</s>
+          <s id="g0131504">And from an equal movement the greater radius describes a greater circle. But that which travels a greater distance in an equal time describes a greater circle. Things travelling with a greater velocity over a greater distance strike harder; and things which strike harder are themselves struck harder.</s>
+          <s id="g0131505">So that the parts further from the middle must always get worn down. As this happens to them they become round.</s>
+          <s id="g0131506">In the case of pebbles, owing to the movement of the sea and the fact that they are moving with the sea, they are perpetually in motion and are liable to friction as they roll.</s>
+          <s id="g0131507">But this must occur most of all at their extremities.</s>
+        </p>
+        <p>
+          <s id="g0131601prop16">16. Why are pieces of timber weaker the longer they are, and why do they bend more easily when raised; even if the short piece is for instance two cubits and light, while the long piece of a hundred cubits is thick?</s>
+          <s id="g0131602">Is it because the length of the wood in the act of raising it forms the lever, weight and fulcrum?</s>
+          <s id="g0131603">For the first part of it, that which the hand raises, acts as a fulcrum, the part at the end is the weight.</s>
+          <s id="g0131604">Conse&que;ntly the greater the distance from the fulcrum the more it must bend; for the greater the distance from the fulcrum the greater the bending must be.</s>
+          <s id="g0131605">So the ends of the bar [sic! correct: lever] must be raised.</s>
+          <s id="g0131606">If, then, the bar [sic! correct: lever] bends, it will bend more the more it is raised &mdash; a condition which occurs in the case of long pieces of wood; whereas in short pieces the end is close to the fulcrum, which is at rest.</s>
+        </p>
+        <p>
+          <s id="g0131701prop17">17. Why are great weights and bodies of considerable size split by a small wedge, and why does it exert great pressure?</s>
+          <s id="g0131702">Is it because the wedge consists of two levers opposite to each other? And each has both a weight and a fulcrum, which works either upwards or downwards.</s>
+          <s id="g0131703">The travel of the blow is the weight which strikes and causes movement, and which makes the weight heavy;</s>
+          <s id="g0131704">and because it moves an already moving object with considerable speed, the force is even greater. Great forces then follow what is in itself a small object; so we do not notice that it produces a considerable movement in comparison with its size.</s>
+          <s id="g0131705">Let A B \g be the wedge, and the block to which it is applied \d E \E Z. Now A B is the lever, and the weight is below at B, while Z A is the fulcrum. Opposite this is the other lever B \g.</s>
+          <s id="g0131706">When A \g is struck it makes use of both these levers; for at the point B there is an upward thrust.</s>
+        </p>
+        <p>
+          <s id="g0131801prop18">18. Why is it that if one puts two pulleys on two blocks which support each other in opposite directions, and passes a rope round them in a circle, with one end suspended from one of the blocks, and the other either supported by or passed over the pulleys, if one drags one end of the rope, one can draw up great weights, even if the dragging force is small?</s>
+          <s id="g0131802">Is it because the same weight, if less force is used, can be raised, if a lever is employed, than by hand? The pulley acts in the same way as the lever, so that even one will draw the weight more easily and will raise a much heavier weight with less pull than by hand. And two pulleys will quickly raise more than twice as much.</s>
+          <s id="g0131803">For the second rope is drawing even less weight than it would be, if it were drawing by itself, when the one rope is passed over the other; for that makes the weight still less.</s>
+          <s id="g0131804">So if one puts the rope over still more, a great difference is made by a few pulleys, so that supposing a weight of four minae is being borne by the first, much less is being borne by the last.</s>
+          <s id="g0131805">In this way in building construction they can easily raise great weights; for they shift from the one pulley to the other, and again from that to capstans and levers; and this is equivalent to making many pulleys.</s>
+        </p>
+        <p>
+          <s id="g0131901prop19">19. Why is it that if one puts a large axe on a block of wood and a heavy weight on top of it, it does not cut the wood to any extent; but if one raises the axe and strikes with it, it splits it in half, even if the striker has far less weight than one placed on it and pressing it down?</s>
+          <s id="g0131902">Is it because all work is produced by movement; and a heavy object produces the movement of weight more when it is moving than when it is at rest?</s>
+          <s id="g0131903">When the weight lies on it, it does not produce the movement of the weight, but when it travels it produces both this movement and that of the striker.</s>
+          <s id="g0131904">Moreover, the axe acts like a wedge; but the wedge, though it is small, splits large pieces of wood, because it is composed of two levers fixed together, and acting in opposite directions.</s>
+        </p>
+        <p>
+          <s id="g0132001prop20">20. How is it that a steelyard can weigh heavy pieces of meat for a small weight, when the whole apparatus is only half the beam [sic! correct: balance]? For from the point at which the weight is placed there hangs only the scale-pan, while on the other end there is nothing but the steelyard. </s>
+          <s id="g0132002">Is it because the steelyard is both balance and lever at the same time? It is a balance insomuch as each of the cords becomes the centre of the steelyard. Now at one end it has a scale-pan, and at the other instead of a pan it has a round weight, which is fastened on to the beam [sic! correct: balance], just as if one were to put the other scale-pan and the weight at the other end of the steelyard;</s>
+          <s id="g0132003">for it is clear that it draws just as much weight when it lies in the other pan.</s>
+          <s id="g0132004">But in order that the one beam [sic! correct: balance] may act as a number of beams [sic! correct: balances], a number of small cords are attached to such a beam [sic! correct: balance]; in each case the part on the side of the round ball constitutes half of the steelyard, [and the weight acts equally when the small cords are moved away from each other, so that it is possible to measure how much weight the object lying in the scale-pan draws; so that one knows, when the steelyard is straight, how much weight the scale-pan holds according to the position of the rope, as has been said.]</s>
+          <s id="g0132005">Speaking generally this is a balance, having but one scale-pan, in which the weight is placed, the other being that in which the weight of the steelyard lies.</s>
+          <s id="g0132006">So the steelyard at the opposite end is the ball weight. Being made in this way it acts as a number of beams [sic! correct: balances], according to the number of cords it possesses.</s>
+          <s id="g0132007">But the cord nearer to the scale-pan and the weight thereon draws a greater weight, because the whole steelyard is really an inverted lever (for each cord is the fulcrum which supports from above, and the weight is what is in the scale-pan),</s>
+          <s id="g0132008">but the greater the distance of the beam [sic! correct: lever] from the fulcrum, the more easily does it move, but in this case it produces a balance, and balances the weight of the steelyard by the ball weight.</s>
+        </p>
+        <p>
+          <s id="g0132101prop21">21. Why do dentists find it easier to take out teeth by applying the weight of the forceps than with the bare hand?</s>
+          <s id="g0132102">Is it because the tooth more easily slips from the hand than it does from the forceps? Or does iron slip more easily than the hand and also does not press evenly on the tooth all round? For the flesh of the fingers being soft should stick more easily and fit more readily round it.</s>
+          <s id="g0132103">But the forceps are really two levers working in opposite directions, having the point at which the blades are joined together as the fulcrum; </s>
+          <s id="g0132104">dentists use this instrument for extraction because they find it moves more easily.</s>
+          <s id="g0132105">Let one end of the forceps be A and the other, the end which extracts, B. Now the one lever is A \d Z and the other B \g E and \g \t \d is the fulcrum; the tooth is at the point I, where the extremities of the forceps come together; this is the weight.</s>
+          <s id="g0132106">The dentist holds the tooth with B Z and moves it at the same time; but when he has moved it he can extract it more easily with the hand than with the instrument.</s>
+        </p>
+        <p>
+          <s id="g0132201prop22">22. Why can one easily break nuts without a blow in instruments made to break them? For the considerable force of motion and violence is missing. Moreover one could break them more quickly with hard and heavy nutcrackers than with wooden and light ones. Is it because the nut is crushed in two directions by two levers, and heavy bodies are easily split by a lever?</s>
+          <s id="g0132202">For nutcrackers consist of two levers having the same fulcrum, namely the point of junction, the point A in the figure.</s>
+          <s id="g0132203">Just, then, as the extremities E Z could easily be pushed apart, so they can easily be brought together by small force applied at the points A and \g.</s>
+          <s id="g0132204">So the two arms E \g and Z \d being levers produce as much or even more force than that which the weight produces in a blow; for by raising them they are raised in opposite directions, and when they crush they break what is at the point K.</s>
+          <s id="g0132205">For exactly the same reason the nearer K is to the point A the more quickly is it crushed; for the farther the distance the lever is from the fulcrum, the more easily and the more considerably does it move it by use of the same force.</s>
+          <s id="g0132206">A is then the fulcrum and \d A Z is the lever, as also is \g A E.</s>
+          <s id="g0132207">The nearer, then, that K is to the angle A the nearer it is to the junction at A; and this is the fulcrum.</s>
+          <s id="g0132208">It follows therefore that Z E is raised farther by the use of the same force.</s>
+          <s id="g0132209">So that when the raising is from two opposite directions, it must be the more crushed; and that which is more crushed is more easily broken.</s>
+        </p>
+        <p>
+          <s id="g0132301prop23">23. Why is it that in a rhombus, when the extreme points travel in two movements, they do not each travel along an equal straight line, but one travels much farther than the other?</s>
+          <s id="g0132302">It is only another way of asking the same &que;stion to inquire why the travelling point passes through a distance less than the side? For the diagonal is the less distance and the side the greater; the one travels with one motion and the other with two.</s>
+          <s id="g0132303">Let A travel towards B, and B towards A [sic! correct is: D] with the same velocity along the line AB; again let AB travel along AS parallel to \g \d with the same velocity as these.</s>
+          <s id="g0132304">The point A must be carried along the diagonal A \d and B along B \g, and each must arrive at the end at the same time, and A B moves along the side A \g.</s>
+          <s id="g0132305">For let the point A be carried along A E, and A B along to A Z, so as to make Z H parallel to A B, and a line drawn from E to complete the parallelogram.</s>
+          <s id="g0132306">The parallelogram thus formed is similar to the whole.</s>
+          <s id="g0132307">Then A Z is equal to A E, so that the point A is borne along the side A E. Then A B would travel along A Z and will therefore be on the diagonal at \t.</s>
+          <s id="g0132308">And it must always travel along the diagonal. At the same time the side A B will travel along the side A \g, and the point A will travel along the diagonal A \d.</s>
+          <s id="g0132309">Similarly it can be proved that the point B is borne along the diagonal B \g; for B E is equal to B H.</s>
+          <s id="g0132310">When, then, the parallelogram is completed by a line drawn from H, the enclosed parallelogram is similar to the whole. The point B will be on the diagonal at the intersection of the diagonals, and the side will travel along the side at the same time as the point B will travel along the diagonal B \g.</s>
+          <s id="g0132311">Then the point B will travel many times more than A B, and the side will travel along the lesser side, though carried at the same velocity, and the side in one journey has travelled further than A.</s>
+          <s id="g0132312">The more acute-angled the rhombus is the less the diagonal A \d becomes and the greater B \g, but the side is less than B \g.</s>
+          <s id="g0132313">For it is odd, as has been said, that the point travelling along two components should sometimes move more slowly than that travelling along one, and that when both points are given an equal velocity one should travel a greater distance than the other.</s>
+        </p>
+        <p>
+          <s id="g0132314">But the reason is, that when a point moves from an obtuse angle, the two paths are more or less opposite, I mean the path which the point travels and that in which it is impelled along the side; </s>
+          <s id="g0132315">when on the other hand the point moves from the acute angle it is almost being borne in the same direction. For the angle made by the sides assists to move the point along the diagonal; and in proportion as the one makes the angle more acute and the other more obtuse, so the former travels more slowly and the latter more quickly. </s>
+          <s id="g0132316">For they are more in opposite directions because the angle is more obtuse; but in the other case they approximate more nearly to the same direction because the lines are closer together. For the point B in both its movements is travelling nearly in the same direction; </s>
+          <s id="g0132317">for the one movement is assisted by the other, and the more acute the angle the more this becomes true. But with A the opposite is the case; for the point itself is travelling towards B, while the side tends to divert it to  \d. </s>
+          <s id="g0132318">The more obtuse the angle, the more opposed to each other do the two movements become; for the lines approach more nearly to the straight.</s>
+          <s id="g0132319">If they were entirely straight, they would be entirely opposite. But the side travelling in one direction is checked by nothing. Naturally therefore it traverses the greater distance.</s>
+        </p>
+        <p>
+          <s id="g0132401prop24">24. A difficulty arises as to how it is that a greater circle when it revolves traces out a path of the same length as a smaller circle, if the two are concentric. When they are revolved separately, then the paths along which they travel are in the same ratio as their respective sizes.</s>
+          <s id="g0132402">Again, assuming that the two have the same centre, sometimes the path along which they revolve is the same size as the smaller circle would travel independently, and sometimes it is the size of the larger circle&apos;s path.</s>
+          <s id="g0132403">Now it is evident that the larger circle revolves along a larger path. For an examination of the angle which each circumference makes with its own diameter shows that the angle of the larger circle is larger, and of the smaller circle smaller, so that they bear the same ratio as that of the paths on which they travel bear to each other.</s>
+          <s id="g0132404">Yet on the other hand it is clear that they do revolve over the same distance, when they are described about the same centre; and thus it comes about that sometimes the revolution is equal to the path which the larger circle traces out, and sometimes to that of the smaller.</s>
+          <s id="g0132405">Let \d Z \g be the greater circle and E H B the less, with A as the centre of both. Let the line Z I be the path traced by the circumference of the larger circle, when it travels independently, and \E K the path travelled independently by the smaller circle, \E K being equal to Z \l.</s>
+          <s id="g0132406">If I move the smaller circle I am moving the same centre, namely A; now let the larger circle be attached to it. At the moment when AB becomes perpendicular to \E K, A \g also becomes perpendicular to Z A; so that it will have invariably travelled the same distance, that is \E K, the distance over which the circumference H B has travelled, and Z \l that over which Z \g has travelled.</s>
+          <s id="g0132407">Now if the quadrant in each case has travelled an equal distance, it is obvious that the whole circle will travel over a distance equal to the whole circumference, so that when the line B \E has reached the point K, then the arc of the circumference Z \g will have travelled along Z \l, and the circle will have performed a complete revolution.</s>
+        </p>
+        <p>
+          <s id="g0132408">Similarly, if I move the large circle and fit the small one to it, the two circles being concentric as before, the line A B will be perpendicular and vertical at the same time as A \g, the latter to Z I, the former to H \t.</s>
+          <s id="g0132409">So that whenever the one shall have traversed a distance equal to H \t, and the other to Z I, and Z A has again become perpendicular to Z \l, and A \E again to \E K, the points \E and Z will again be in their original positions at \t and I.</s>
+          <s id="g0132410">As, then, nowhere does the greater stop and wait for the less in such a way as to remain stationary for a time at the same point (for in both cases both are moving continuously), and as the smaller does not skip any point, it is remarkable that in the one case the greater should travel over a path equal to the smaller, and in the other case the smaller equal to the larger.</s>
+          <s id="g0132411">It is indeed remarkable that as the movement is one all the time, that the same centre should in one case travel a large path and in the other a smaller one.</s>
+          <s id="g0132412">For the same thing travelling at the same speed should always cover an equal path; and moving anything with the same velocity implies travelling over the same distance in both cases.</s>
+        </p>
+        <p>
+          <s id="g0132413">To discover the cause of these things we may start with this axiom, that the same or equal forces move one mass more slowly and another more rapidly.</s>
+          <s id="g0132414">Let us suppose that there is a body which has no natural movement of its own; if a body which has a natural movement of his own moves the former as well as itself, it will move more slowly than if it moved by itself;</s>
+          <s id="g0132415">and it will be just the same if it naturally moves by itself, and nothing is moved with it.</s>
+          <s id="g0132416">It is impossible for it to have a greater movement than that which moves it; for it moves not with a motion of its own, but with that of the mover.</s>
+        </p>
+        <p>
+          <s id="g0132417">Suppose that there are two circles, the greater A and the lesser B. If the lesser were to push the greater without revolving itself it is clear that the greater will travel along a straight path as far as it is pushed by the lesser. It must have been pushed as far as the small circle has moved. Therefore they have travelled over an equal amount of the straight path .</s>
+          <s id="g0132418">So if the lesser circle were to push the larger while revolving, the latter would be revolved as well as pushed, and only so far as the smaller revolves, if it does not move at all by its own motion.</s>
+          <s id="g0132419">For that which is moved must be moved just so far as the mover moves it; so the small circle has moved it so far and in such a way, e.g. in a circle over one foot (let this be the extent of the movement), and the greater circle has moved thus far.</s>
+          <s id="g0132420">Similarly, if the greater circle moves the less, the small circle will move exactly as the greater does.</s>
+          <s id="g0132421">(This will be true) whichever of the two circles is moved independently, whether fast or slowly; so the lesser circle will trace a path at the same velocity, and of the same length as the greater does. This, then, constitutes our difficulty, that they do not behave in the same way when joined together; that is to say, if one is moved by the other, not in a natural way nor by its own movement.</s>
+          <s id="g0132422">For it makes no difference whether it is enclosed and fitted in or whether one is attached to the other. In the same way, when one produces the movement, and the other is moved by it, to whatever distance the one moves the other will also move.</s>
+          <s id="g0132423">Now when one moves a circle which is leaning against or suspended from another, one does not move it continuously; but when they are fastened about the same centre, the one must of necessity revolve with the other.</s>
+          <s id="g0132424">But nevertheless the other does not move with its own motion, but just as if it had no motion. This also occurs if it l as a motion of its own, but does not use it.</s>
+          <s id="g0132425">When, then, the large circle moves the small one attached to it, the smaller one moves exactly as the larger one; when the small one is the mover, the larger one moves according to the other&apos;s movement. But when separated each of them has its own movement.</s>
+          <s id="g0132426">If anyone objects that the two circles trace out unequal paths though they have the same centre, and move at the same speed, his argument is erroneous.</s>
+          <s id="g0132427">It is true that both circles have the same centre, but this fact is only accidental, just as a thing might be both &quot;musical&quot; and &quot;white&quot;. For the fact of each circle having the same centre does not affect it in the same way in the two cases.</s>
+          <s id="g0132428">When the small circle produces the movement the centre, and origin of movement belongs to the small circle, but when the large circle produces the movement, the centre belongs to it.</s>
+          <s id="g0132429">Therefore what produces the movement is not the same in both cases, though in a sense it is.</s>
+        </p>
+        <p>
+          <s id="g0132501prop25">25. Why do they make beds with the length double the ends, the former being six feet or a little more and the latter three? And why do they not cord them diagonally?</s>
+          <s id="g0132502">Probably they are of those dimensions, that they may fit ordinary bodies; for the length is twice the ends, the length being four cubits and the width two.</s>
+          <s id="g0132503">They do not cord them diagonally, but from side to side, that the timbers may be less strained; for these are most easily split when they are cleft in a natural direction, and they suffer most strain when pulled in this way.</s>
+          <s id="g0132504">Moreover, since the ropes have to bear the weight, they will be much less strained if the weight is put on the ropes stretched crosswise than diagonally.</s>
+          <s id="g0132505">Also in this way less rope is expended.</s>
+          <s id="g0132506">Let A Z \E I be the bed, and let Z \E be bisected at B. The holes in Z B are equal to those in Z A. For these sides are equal; and the whole length Z H is twice Z A.</s>
+          <s id="g0132507">Now they cord them as has been explained from A to B, then to \g, then to \d, and then to \t and then to E and so on continuously until they return to the other corner.</s>
+          <s id="g0132508">For the terminations of the rope are at two corners.</s>
+        </p>
+        <p>
+          <s id="g0132509">Now the lengths of rope that form the angles are equal, e.g. A B and B \g to \g \d and \d \t. For the same proof shows it in each case.</s>
+          <s id="g0132510">For instance, A B is equal to E \t; for the opposite sides of the parallelogram B \E K A are equal, and the holes are an equal distance apart.</s>
+          <s id="g0132511">B \E is equal to K A; for the angle at B is equal to the angle at \E; for the exterior angle of a parallelogram is equal to the interior and opposite; and the angle at B is half a right angle; for Z B is equal to Z A, and the angle at Z is a right angle.</s>
+          <s id="g0132512">Again, the angle at B is equal to the angle H; for the angle at Z is a right angle, since the one side is double the other, and is bisected at B. So B \g is equal to E \E; and K \t is also equal to it; for it is parallel to it, so that B \g is equal to K \t. And \g E to \d \t.</s>
+          <s id="g0132513">Similarly also the other sides forming the turns can be shown to be equal pair by pair.</s>
+          <s id="g0132514">So that it is clear that there are four lengths of rope equal to A B in the bed;</s>
+          <s id="g0132515">and whatever number of holes there are in Z \E, there will be half the number in Z B, which is half of it.</s>
+          <s id="g0132516">So that in half the bed there are as many lengths of rope as there are in B A, and just as many holes as there are in B \E.</s>
+          <s id="g0132517">This is equivalent to saying as many as there are in A Z plus B Z.</s>
+          <s id="g0132518">But if the ropes were fastened diagonally as in the bed A B \g \d, the halves are not of the same length as the sides of both A Z and Z \E, but they are the same number as the holes in Z B, Z A;</s>
+          <s id="g0132519">for A Z, B Z being two lines are greater than A B. So that the rope is greater by the amount that the two sides are greater than the diagonal.</s>
+        </p>
+        <p>
+          <s id="g0132601prop26">26. Why is it more difficult to carry long timbers on the shoulders by the end than by the middle, provided that the weight is equal in the two cases?</s>
+          <s id="g0132602">Is it because the vibration of the end of the timber prevents the carrying, because it interferes with the carrying by its vibration? Hardly, because even if it does not bend at all, and is not very long, still it is more difficult to carry it by the end. For the same reason that it is more easily lifted from the middle than from the end, it is easier to carry it in this position.</s>
+          <s id="g0132603">The reason is that when raised from the middle each end tends to lighten the other, and the one end assists in lifting the other. For the middle acts as a centre, whether it is being lifted or carried.</s>
+          <s id="g0132604">Each of the two ends by pressing downwards raises the other in an upward direction. But when raised or carried from the end this does not happen, but all the weight presses in one direction.</s>
+          <s id="g0132605">Let A be the centre of a piece of timber while the ends are B and \g.</s>
+          <s id="g0132606">When lifted or carried from A, the end B pressing downwards tends to raise the end \g, while \g pressing downwards tends to raise B; this is not what happens when they are both raised together.</s>
+        </p>
+        <p>
+          <s id="g0132701prop27">27. Why is it that if the weight in &que;stion is extremely long, it is harder to raise it on the shoulder, even if one carries it by the middle, than if it is smaller?</s>
+          <s id="g0132702">In the previous case it was stated that it was not due to vibration; but in this case it is.</s>
+          <s id="g0132703">For when the timber is longer the ends vibrate more, so that it would be more difficult for the bearer to carry it.</s>
+          <s id="g0132704">The reason why the vibration is greater is, that under the influence of the same movement the ends shift further, inasmuch as the timber is longer.</s>
+          <s id="g0132705">For the shoulder is the centre, at A (and this remains stationary), and AB and A \g are the radii from the centre. In so far as the radius, that is AB or A \g, is larger the more movement will take place in the mass. This has been demonstrated before.</s>
+        </p>
+        <p>
+          <s id="g0132801prop28">28. Why do men make swing-beams at wells in the way they do? For they add the weight of the lead to the wooden beam, the bucket itself having weight whether empty or full.</s>
+          <s id="g0132802">Is it because the machine functions in two stages (for it must be let down and drawn up again), and it can easily be let down whereas it is difficult to draw up?</s>
+          <s id="g0132803">The disadvantage, then, of letting it down rather more slowly is balanced by the advantage of lightening the weight when drawing it up. The attachment of lead or a stone at the end of the swing-beam produces this result.</s>
+          <s id="g0132804">For thus, when one lets down the bucket by a rope, the weight is greater than if one let the bucket down alone and empty; but when it is full, the lead draws it up, or whatever weight is attached to it.</s>
+          <s id="g0132805">So that on the average the two processes are easier than they would be in the other case.</s>
+        </p>
+        <p>
+          <s id="g0132901prop29">29. Why is it that when two men carry a weight between them on a plank or something of the kind, they do not feel the pressure equally, unless the weight is midway between them, but the nearer carrier feels it more?</s>
+          <s id="g0132902">Surely it is because in these circumstances the plank becomes a lever, the weight the fulcrum, </s>
+          <s id="g0132903">and the nearer of the two carrying the weight is the object moved, and the other carrier is the mover of the weight.</s>
+          <s id="g0132904">For the farther he is from the weight, the more easily he moves it, and the more downward pressure falls on the other, as though the weight attached pressed in the opposite direction, and became the fulcrum.</s>
+          <s id="g0132905">But when the weight is placed in the middle, the one no more becomes the weight than the other, nor does either do the moving, but one is the weight in just the same sense as the other.</s>
+        </p>
+        <p>
+          <s id="g0133001prop30">30. Why is it that, when men stand up, they rise by making an acute angle between the lower leg and the thigh, and between the trunk and the thigh? Otherwise they cannot rise at all.</s>
+          <s id="g0133002">Is it because equilibrium is always a cause of rest, and a right angle is a type of equilibrium, and so produces immobility: so the man is travelling towards a position in which he makes equal angles with the earth&apos;s surface; for he will not be actually at right angles to the ground?</s>
+          <s id="g0133003">Or is it because when standing up he becomes at right angles, and the man in an erect position must be at right angles to the ground?</s>
+          <s id="g0133004">If, then, he is going to arrive at the perpendicular, that is, so that his head is immediately above his feet, this must happen when he rises.</s>
+          <s id="g0133005">For when he is seated, his head and feet are parallel and not in one straight line.</s>
+          <s id="g0133006">Let A be the head, AB the trunk, B \g the thigh, and \g \l the lower leg.</s>
+          <s id="g0133007">The trunk, that is A B, is perpendicular to the thigh, and the thigh to the lower leg, when the man is seated in this position. So that while in this position he cannot rise.</s>
+          <s id="g0133008">But he must bend the lower leg, and bring the feet below the head.</s>
+          <s id="g0133009">This will be the position if \g \d takes up the position \g Z, and then he will rise at the same time as he brings the head and the feet into the same straight line. And \g Z makes an acute angle with B \g.</s>
+        </p>
+        <p>
+          <s id="g0133101prop31">31. Why is it easier to move that which is already moving than that which is stationary? For instance, a moving wagon is more easily shifted than it is at the beginning.</s>
+          <s id="g0133102">Is it for the same reason that it is most difficult to shift a weight which is moving in the opposite direction? For some of the power of the mover is lost, even if it is much quicker than the object moved. For the thrust of the body which is being pushed against has to become slower.</s>
+          <s id="g0133103">In a secondary degree it is more difficult, if it is at rest; for what is at rest offers a resistance.</s>
+          <s id="g0133104">But when a body is moving in the same direction as the pusher, it acts just as if one increased the force and speed of the mover; for by moving forward itself it has the same effect as would be produced by the mover.</s>
+        </p>
+        <p>
+          <s id="g0133201prop32">32. Why do objects thrown ever stop travelling?</s>
+          <s id="g0133202">Is it when the force that discharged them is exhausted, or because of the resistance, or because of the weight, if any of these is stronger than the discharging force?</s>
+          <s id="g0133203">Or is it ridiculous to deal with these difficulties, when we have not the underlying principle?</s>
+        </p>
+        <p>
+          <s id="g0133301prop33">33. Why, again, does a body travel at all except by its own motion, when the discharging force does not follow and continue to push it?</s>
+          <s id="g0133302">Surely it is clear that the initial impulse given causes it to push something else in the first instance, while this in turn pushes something else;</s>
+          <s id="g0133303">it stops when the force which is pushing the travelling object has no longer power to push it along, and when the weight of the travelling object pulls it down more than the power of the pushing force can drive it forwards.</s>
+        </p>
+        <p>
+          <s id="g0133401prop34">34. Why can neither small nor great bodies travel far when thrown, but must always bear a relation to the thrower?</s>
+          <s id="g0133402">Is it because an object thrown or pushed must always offer resistance in the direction from which the thrust comes?</s>
+          <s id="g0133403">But that which by its size cannot give way, or by its weakness cannot offer any resistance can neither be thrown nor pushed.</s>
+          <s id="g0133404">That which far exceeds the strength of what pushes it does not yield at all, but that which is much weaker offers no resistance.</s>
+          <s id="g0133405">Is it because a travelling body can only travel as far as it can penetrate into the depths of the air? But that which does not move at all cannot move anything. Both these conditions occur with these things.</s>
+          <s id="g0133406">For the superlatively great and the superlatively small may both be regarded as having no movement; for the one moves nothing and the other does not move at all.</s>
+        </p>
+        <p>
+          <s id="g0133501prop35">35. Why do objects which are travelling in eddying water all finish their movement in the middle?</s>
+          <s id="g0133502">Is it because the travelling object has definite magnitude, so that it is moving in two circles, one less and one greater, each of its ends being in one of them? The greater circle then, because it is travelling more quickly, turns the object round and drives it sideways into the smaller circle. But since the travelling object has breadth, this second circle produces the same result, and again drives it into the next inner circle, until ultimately it reaches the middle.</s>
+          <s id="g0133503">There it remains because being in the middle it is in the same relation to all circles. For in each circle the centre is the same distance from the circumference.</s>
+          <s id="g0133504">Or can it be because objects which the travel of the whirling water cannot control because of their weight (that is, that the weight of the object overcomes the speed of the revolving circle) must get left behind and must travel more slowly?</s>
+          <s id="g0133505">But the smaller circle travels more slowly; for the large circle revolves to the same extent in the same time as the smaller circle, when the two are concentric.</s>
+          <s id="g0133506">So that the object must be left in each lesser circle in succession until it comes to the centre.</s>
+          <s id="g0133507">In cases in which the travel prevails at the beginning, it will do the same until it stops. For the original circle and then the next must prevail by its speed over the weight of the object, so that it will pass successively to each smaller circle all the time.</s>
+          <s id="g0133508">For an object which does not prevail must be moved either inside or outside.</s>
+          <s id="g0133509">For that which is not overcome cannot continue to travel in the circle in which it is originally. Still less can it remain in the outer circle; for the travel of the outer circle is more rapid.</s>
+          <s id="g0133510">The only thing left is for the object which is not controlled by the water to shift to the inside. Now each object always inclines not to be controlled.</s>
+          <s id="g0133511">But since its arrival at the middle puts an end to the movement, the centre is the only part at rest, and everything therefore must collect there.</s>
+        </p>
+      </chap>
+    </body>
+    <back/>
+  </text>
+</archimedes>

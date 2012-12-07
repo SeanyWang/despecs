@@ -1,0 +1,1441 @@
+<archimedes xmlns:xlink="http://www.w3.org/1999/xlink">
+
+
+
+
+<chunk>
+<name>Preface</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::info[1]"/>
+<link xlink:href="107.xml#/descendant::text[1]"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[1]"/>
+<link xlink:href="107.xml#/descendant::body[1]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[1]/p[1]"/>
+<link xlink:href="107.xml#/descendant::p[1]/s[1]"/>
+<link xlink:href="107.xml#id.1.1.01.02"/>
+<link xlink:href="107.xml#id.1.1.01.03"/>
+<link xlink:href="107.xml#id.1.1.01.04"/>
+<link xlink:href="107.xml#/descendant::body[1]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[2]/p[1]"/>
+<link xlink:href="107.xml#id.1.2.01.01"/>
+<link xlink:href="107.xml#id.1.2.01.02"/>
+<link xlink:href="107.xml#id.1.2.01.03"/>
+<link xlink:href="107.xml#id.1.2.01.04"/>
+<link xlink:href="107.xml#id.1.2.01.05"/>
+<link xlink:href="107.xml#id.1.2.01.06"/>
+<link xlink:href="107.xml#id.1.2.01.07"/>
+<link xlink:href="107.xml#id.1.2.01.08"/>
+<link xlink:href="107.xml#id.1.2.01.09"/>
+<link xlink:href="107.xml#id.1.2.01.10"/>
+<link xlink:href="107.xml#id.1.2.01.11"/>
+<link xlink:href="107.xml#id.1.2.01.12"/>
+<link xlink:href="107.xml#id.1.2.01.13"/>
+<link xlink:href="107.xml#id.1.2.01.14"/>
+<link xlink:href="107.xml#id.1.2.01.15"/>
+<link xlink:href="107.xml#id.1.2.01.16"/>
+<link xlink:href="107.xml#id.1.2.01.17"/>
+<link xlink:href="107.xml#id.1.2.01.18"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Introduction</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[1]/chap[3]"/>
+<link xlink:href="107.xml#/descendant::chap[3]/p[1]"/>
+<link xlink:href="107.xml#id.1.3.01.01"/>
+<link xlink:href="107.xml#id.1.3.01.02"/>
+<link xlink:href="107.xml#id.1.3.01.03"/>
+<link xlink:href="107.xml#id.1.3.01.04"/>
+<link xlink:href="107.xml#id.1.3.01.05"/>
+<link xlink:href="107.xml#id.1.3.01.06"/>
+<link xlink:href="107.xml#id.1.3.01.07"/>
+<link xlink:href="107.xml#id.1.3.01.08"/>
+<link xlink:href="107.xml#id.1.3.01.09"/>
+<link xlink:href="107.xml#id.1.3.01.10"/>
+<link xlink:href="107.xml#id.1.3.01.11"/>
+<link xlink:href="107.xml#id.1.3.01.12"/>
+<link xlink:href="107.xml#id.1.3.01.13"/>
+<link xlink:href="107.xml#id.1.3.01.14"/>
+<link xlink:href="107.xml#id.1.3.01.15"/>
+<link xlink:href="107.xml#id.1.3.01.16"/>
+<link xlink:href="107.xml#id.1.3.01.17"/>
+<link xlink:href="107.xml#id.1.3.01.18"/>
+<link xlink:href="107.xml#id.1.3.01.19"/>
+<link xlink:href="107.xml#id.1.3.01.20"/>
+<link xlink:href="107.xml#id.1.3.01.21"/>
+<link xlink:href="107.xml#id.1.3.01.22"/>
+<link xlink:href="107.xml#id.1.3.01.23"/>
+<link xlink:href="107.xml#id.1.3.01.24"/>
+<link xlink:href="107.xml#id.1.3.01.25"/>
+<link xlink:href="107.xml#id.1.3.01.26"/>
+<link xlink:href="107.xml#id.1.3.01.27"/>
+<link xlink:href="107.xml#id.1.3.01.28"/>
+<link xlink:href="107.xml#id.1.3.01.29"/>
+<link xlink:href="107.xml#id.1.3.01.30"/>
+<link xlink:href="107.xml#id.1.3.01.31"/>
+<link xlink:href="107.xml#id.1.3.01.32"/>
+<link xlink:href="107.xml#id.1.3.01.33"/>
+<link xlink:href="107.xml#id.1.3.01.34"/>
+<link xlink:href="107.xml#id.1.3.01.35"/>
+<link xlink:href="107.xml#id.1.3.01.36"/>
+<link xlink:href="107.xml#id.1.3.01.37"/>
+<link xlink:href="107.xml#id.1.3.01.38"/>
+<link xlink:href="107.xml#id.1.3.01.39"/>
+<link xlink:href="107.xml#id.1.3.01.40"/>
+<link xlink:href="107.xml#id.1.3.01.41"/>
+<link xlink:href="107.xml#id.1.3.01.42"/>
+</nodeset>
+</chunk>
+
+
+<chunk>
+<name>Premesse di Aristotele</name>
+<description></description>
+
+
+<chunk>
+<name>secondo natura e contro natura</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[2]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[4]/p[1]"/>
+<link xlink:href="107.xml#id.2.1.01.01"/>
+<link xlink:href="107.xml#id.2.1.01.02"/>
+<link xlink:href="107.xml#id.2.1.01.03"/>
+<link xlink:href="107.xml#id.2.1.01.04"/>
+<link xlink:href="107.xml#id.2.1.01.05"/>
+<link xlink:href="107.xml#id.2.1.01.06"/>
+<link xlink:href="107.xml#id.2.1.01.07"/>
+<link xlink:href="107.xml#id.2.1.01.08"/>
+<link xlink:href="107.xml#id.2.1.01.09"/>
+<link xlink:href="107.xml#id.2.1.01.10"/>
+<link xlink:href="107.xml#id.2.1.01.11"/>
+<link xlink:href="107.xml#id.2.1.01.12"/>
+<link xlink:href="107.xml#id.2.1.01.13"/>
+<link xlink:href="107.xml#id.2.1.01.14"/>
+<link xlink:href="107.xml#id.2.1.01.15"/>
+<link xlink:href="107.xml#id.2.1.01.16"/>
+<link xlink:href="107.xml#id.2.1.01.17"/>
+<link xlink:href="107.xml#id.2.2.01.18"/>
+<link xlink:href="107.xml#id.2.2.01.19"/>
+<link xlink:href="107.xml#id.2.2.01.20"/>
+</nodeset>
+</chunk>
+
+
+<chunk>
+<name>Il cerchio</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::text[1]/body[3]"/>
+<link xlink:href="107.xml#/descendant::body[3]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[6]/p[1]"/>
+<link xlink:href="107.xml#id.2.2.01.23"/>
+<link xlink:href="107.xml#id.2.2.01.24"/>
+<link xlink:href="107.xml#id.2.2.01.25"/>
+<link xlink:href="107.xml#id.2.2.01.26"/>
+<link xlink:href="107.xml#id.2.2.01.27"/>
+<link xlink:href="107.xml#/descendant::body[3]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[7]/p[1]"/>
+<link xlink:href="107.xml#id.2.3.01.01"/>
+<link xlink:href="107.xml#id.2.3.01.02"/>
+<link xlink:href="107.xml#id.2.3.01.03"/>
+<link xlink:href="107.xml#id.2.3.01.04"/>
+<link xlink:href="107.xml#id.2.3.01.05"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[4]"/>
+<link xlink:href="107.xml#/descendant::body[4]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[8]/p[1]"/>
+<link xlink:href="107.xml#id.2.3.01.08"/>
+<link xlink:href="107.xml#id.2.3.01.09"/>
+<link xlink:href="107.xml#id.2.3.01.10"/>
+<link xlink:href="107.xml#id.2.3.01.11"/>
+<link xlink:href="107.xml#id.2.3.01.12"/>
+<link xlink:href="107.xml#id.2.3.01.13"/>
+<link xlink:href="107.xml#id.2.3.01.14"/>
+<link xlink:href="107.xml#id.2.3.01.15"/>
+<link xlink:href="107.xml#id.2.3.01.16"/>
+<link xlink:href="107.xml#id.2.3.01.17"/>
+<link xlink:href="107.xml#id.2.3.01.18"/>
+<link xlink:href="107.xml#id.2.3.01.19"/>
+<link xlink:href="107.xml#id.2.3.01.20"/>
+<link xlink:href="107.xml#id.2.3.01.21"/>
+<link xlink:href="107.xml#id.2.3.01.22"/>
+<link xlink:href="107.xml#id.2.3.01.23"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[5]"/>
+<link xlink:href="107.xml#/descendant::body[5]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[9]/p[1]"/>
+<link xlink:href="107.xml#id.2.3.01.26"/>
+<link xlink:href="107.xml#id.2.3.01.27"/>
+<link xlink:href="107.xml#id.2.3.01.28"/>
+<link xlink:href="107.xml#id.2.3.01.29"/>
+<link xlink:href="107.xml#id.2.3.01.30"/>
+<link xlink:href="107.xml#id.2.3.01.31"/>
+<link xlink:href="107.xml#id.2.3.01.32"/>
+<link xlink:href="107.xml#/descendant::body[5]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[10]/p[1]"/>
+<link xlink:href="107.xml#id.2.4.01.01"/>
+<link xlink:href="107.xml#id.2.4.01.02"/>
+<link xlink:href="107.xml#id.2.4.01.03"/>
+<link xlink:href="107.xml#id.2.4.01.04"/>
+<link xlink:href="107.xml#id.2.4.01.05"/>
+<link xlink:href="107.xml#id.2.4.01.06"/>
+<link xlink:href="107.xml#id.2.4.01.07"/>
+<link xlink:href="107.xml#id.2.4.01.08"/>
+<link xlink:href="107.xml#id.2.4.01.09"/>
+<link xlink:href="107.xml#id.2.4.01.10"/>
+<link xlink:href="107.xml#id.2.4.01.11"/>
+<link xlink:href="107.xml#id.2.4.01.12"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[6]"/>
+<link xlink:href="107.xml#/descendant::body[6]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[11]/p[1]"/>
+<link xlink:href="107.xml#id.2.4.01.15"/>
+<link xlink:href="107.xml#id.2.4.01.16"/>
+<link xlink:href="107.xml#id.2.4.01.17"/>
+<link xlink:href="107.xml#id.2.4.01.18"/>
+<link xlink:href="107.xml#id.2.4.01.19"/>
+<link xlink:href="107.xml#id.2.4.01.20"/>
+<link xlink:href="107.xml#id.2.4.01.21"/>
+<link xlink:href="107.xml#id.2.4.01.22"/>
+<link xlink:href="107.xml#id.2.4.01.23"/>
+<link xlink:href="107.xml#id.2.4.01.24"/>
+<link xlink:href="107.xml#id.2.4.01.25"/>
+<link xlink:href="107.xml#id.2.4.01.26"/>
+<link xlink:href="107.xml#id.2.4.01.27"/>
+<link xlink:href="107.xml#id.2.4.01.28"/>
+<link xlink:href="107.xml#id.2.4.01.29"/>
+<link xlink:href="107.xml#id.2.4.01.30"/>
+<link xlink:href="107.xml#id.2.4.01.31"/>
+<link xlink:href="107.xml#id.2.4.01.32"/>
+<link xlink:href="107.xml#id.2.4.01.33"/>
+<link xlink:href="107.xml#id.2.4.01.34"/>
+<link xlink:href="107.xml#id.2.4.01.35"/>
+<link xlink:href="107.xml#id.2.4.01.36"/>
+<link xlink:href="107.xml#id.2.4.01.37"/>
+<link xlink:href="107.xml#id.2.4.01.38"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>La leva</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[6]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[12]/p[1]"/>
+<link xlink:href="107.xml#id.2.5.01.01"/>
+<link xlink:href="107.xml#id.2.5.01.02"/>
+<link xlink:href="107.xml#id.2.5.01.03"/>
+<link xlink:href="107.xml#id.2.5.01.04"/>
+<link xlink:href="107.xml#id.2.5.01.05"/>
+<link xlink:href="107.xml#id.2.5.01.06"/>
+<link xlink:href="107.xml#id.2.5.01.07"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[7]"/>
+<link xlink:href="107.xml#/descendant::body[7]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[13]/p[1]"/>
+<link xlink:href="107.xml#id.2.5.01.10"/>
+<link xlink:href="107.xml#id.2.5.01.11"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>la libra</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::text[1]/body[8]"/>
+<link xlink:href="107.xml#/descendant::body[8]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[14]/p[1]"/>
+<link xlink:href="107.xml#id.2.5.01.14"/>
+<link xlink:href="107.xml#id.2.5.01.15"/>
+<link xlink:href="107.xml#id.2.5.01.16"/>
+<link xlink:href="107.xml#id.2.5.01.17"/>
+<link xlink:href="107.xml#id.2.5.01.18"/>
+<link xlink:href="107.xml#id.2.5.01.19"/>
+<link xlink:href="107.xml#id.2.5.01.20"/>
+<link xlink:href="107.xml#id.2.5.01.21"/>
+<link xlink:href="107.xml#id.2.5.01.22"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>La leva deriva dalla libra</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::text[1]/body[9]"/>
+<link xlink:href="107.xml#/descendant::body[9]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[15]/p[1]"/>
+<link xlink:href="107.xml#id.2.5.01.25"/>
+<link xlink:href="107.xml#id.2.5.01.26"/>
+<link xlink:href="107.xml#id.2.5.01.27"/>
+<link xlink:href="107.xml#id.2.5.01.28"/>
+<link xlink:href="107.xml#id.2.5.01.29"/>
+<link xlink:href="107.xml#id.2.5.01.30"/>
+<link xlink:href="107.xml#id.2.5.01.31"/>
+<link xlink:href="107.xml#id.2.5.01.32"/>
+<link xlink:href="107.xml#id.2.5.01.33"/>
+</nodeset>
+</chunk>
+
+</chunk>
+
+
+
+
+<chunk>
+<name>Questions</name>
+<description></description>
+
+
+<chunk>
+<name>Question 1</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[1]/chap[10]"/>
+<link xlink:href="107.xml#/descendant::chap[10]/subchap1[1]"/>
+<link xlink:href="107.xml#/descendant::subchap1[16]/p[1]"/>
+<link xlink:href="107.xml#id.3.1.01.01"/>
+<link xlink:href="107.xml#id.3.1.01.02"/>
+<link xlink:href="107.xml#id.3.1.01.03"/>
+<link xlink:href="107.xml#id.3.1.01.04"/>
+<link xlink:href="107.xml#id.3.1.01.05"/>
+<link xlink:href="107.xml#id.3.1.01.06"/>
+<link xlink:href="107.xml#id.3.1.01.07"/>
+<link xlink:href="107.xml#id.3.1.01.08"/>
+<link xlink:href="107.xml#id.3.1.01.09"/>
+<link xlink:href="107.xml#id.3.1.01.10"/>
+<link xlink:href="107.xml#id.3.1.01.11"/>
+<link xlink:href="107.xml#id.3.1.01.12"/>
+<link xlink:href="107.xml#id.3.1.01.13"/>
+<link xlink:href="107.xml#id.3.1.01.14"/>
+<link xlink:href="107.xml#id.3.1.01.15"/>
+<link xlink:href="107.xml#id.3.1.01.16"/>
+<link xlink:href="107.xml#id.3.1.01.17"/>
+<link xlink:href="107.xml#id.3.1.01.18"/>
+<link xlink:href="107.xml#id.3.1.01.19"/>
+</nodeset>
+</chunk>
+
+
+
+
+
+
+
+<chunk>
+<name>Question 2</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[10]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[17]/p[1]"/>
+<link xlink:href="107.xml#id.3.2.01.01"/>
+<link xlink:href="107.xml#id.3.2.01.02"/>
+<link xlink:href="107.xml#id.3.2.01.03"/>
+<link xlink:href="107.xml#id.3.2.01.04"/>
+<link xlink:href="107.xml#id.3.2.01.05"/>
+<link xlink:href="107.xml#id.3.2.01.06"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[11]"/>
+<link xlink:href="107.xml#/descendant::body[11]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[18]/p[1]"/>
+<link xlink:href="107.xml#id.3.2.01.09"/>
+<link xlink:href="107.xml#id.3.2.01.10"/>
+<link xlink:href="107.xml#id.3.2.01.11"/>
+<link xlink:href="107.xml#id.3.2.01.12"/>
+<link xlink:href="107.xml#id.3.2.01.13"/>
+<link xlink:href="107.xml#id.3.2.01.14"/>
+<link xlink:href="107.xml#id.3.2.01.15"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[12]"/>
+<link xlink:href="107.xml#/descendant::body[12]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[19]/p[1]"/>
+<link xlink:href="107.xml#id.3.2.01.18"/>
+<link xlink:href="107.xml#id.3.2.01.19"/>
+<link xlink:href="107.xml#id.3.2.01.20"/>
+<link xlink:href="107.xml#id.3.2.01.21"/>
+<link xlink:href="107.xml#id.3.2.01.22"/>
+<link xlink:href="107.xml#id.3.2.01.23"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[13]"/>
+<link xlink:href="107.xml#/descendant::body[13]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[20]/p[1]"/>
+<link xlink:href="107.xml#id.3.2.01.26"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[14]"/>
+<link xlink:href="107.xml#/descendant::body[14]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[21]/p[1]"/>
+<link xlink:href="107.xml#id.3.2.01.29"/>
+</nodeset>
+</chunk>
+
+
+<chunk>
+<name>Question 3</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#id.3.3.01.00"/>
+<link xlink:href="107.xml#id.3.3.01.01"/>
+<link xlink:href="107.xml#id.3.3.01.02"/>
+<link xlink:href="107.xml#id.3.3.01.03"/>
+<link xlink:href="107.xml#id.3.3.01.04"/>
+<link xlink:href="107.xml#id.3.3.01.05"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 4</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[14]/chap[3]"/>
+<link xlink:href="107.xml#/descendant::chap[23]/p[1]"/>
+<link xlink:href="107.xml#id.3.4.01.01"/>
+<link xlink:href="107.xml#id.3.4.01.02"/>
+<link xlink:href="107.xml#id.3.4.01.03"/>
+<link xlink:href="107.xml#id.3.4.01.04"/>
+<link xlink:href="107.xml#id.3.4.01.05"/>
+<link xlink:href="107.xml#id.3.4.01.06"/>
+<link xlink:href="107.xml#id.3.4.01.07"/>
+<link xlink:href="107.xml#id.3.4.01.08"/>
+<link xlink:href="107.xml#id.3.4.01.09"/>
+<link xlink:href="107.xml#id.3.4.01.10"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 5</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[14]/chap[4]"/>
+<link xlink:href="107.xml#/descendant::chap[24]/p[1]"/>
+<link xlink:href="107.xml#id.3.5.01.01"/>
+<link xlink:href="107.xml#id.3.5.01.02"/>
+<link xlink:href="107.xml#id.3.5.01.03"/>
+<link xlink:href="107.xml#id.3.5.01.04"/>
+<link xlink:href="107.xml#id.3.5.01.05"/>
+<link xlink:href="107.xml#id.3.5.01.06"/>
+<link xlink:href="107.xml#id.3.5.01.07"/>
+<link xlink:href="107.xml#id.3.5.01.08"/>
+<link xlink:href="107.xml#id.3.5.01.09"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[15]"/>
+<link xlink:href="107.xml#/descendant::body[15]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[25]/p[1]"/>
+<link xlink:href="107.xml#id.3.5.01.12"/>
+<link xlink:href="107.xml#id.3.5.01.13"/>
+<link xlink:href="107.xml#id.3.5.01.14"/>
+<link xlink:href="107.xml#id.3.5.01.15"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[16]"/>
+<link xlink:href="107.xml#/descendant::body[16]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[26]/p[1]"/>
+<link xlink:href="107.xml#id.3.5.01.18"/>
+<link xlink:href="107.xml#id.3.5.01.19"/>
+<link xlink:href="107.xml#id.3.5.01.20"/>
+<link xlink:href="107.xml#id.3.5.01.21"/>
+<link xlink:href="107.xml#id.3.5.01.22"/>
+<link xlink:href="107.xml#id.3.5.01.23"/>
+<link xlink:href="107.xml#id.3.5.01.24"/>
+<link xlink:href="107.xml#id.3.5.01.25"/>
+<link xlink:href="107.xml#id.3.5.01.26"/>
+<link xlink:href="107.xml#id.3.5.01.27"/>
+</nodeset>
+</chunk>
+
+
+<chunk>
+<name>Question 6</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[16]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[27]/p[1]"/>
+<link xlink:href="107.xml#id.3.6.01.01"/>
+<link xlink:href="107.xml#id.3.6.01.02"/>
+<link xlink:href="107.xml#id.3.6.01.03"/>
+<link xlink:href="107.xml#id.3.6.01.04"/>
+<link xlink:href="107.xml#id.3.6.01.05"/>
+<link xlink:href="107.xml#id.3.6.01.06"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 7</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[16]/chap[3]"/>
+<link xlink:href="107.xml#/descendant::chap[28]/p[1]"/>
+<link xlink:href="107.xml#id.3.7.01.01"/>
+<link xlink:href="107.xml#id.3.7.01.02"/>
+<link xlink:href="107.xml#id.3.7.01.03"/>
+<link xlink:href="107.xml#id.3.7.01.04"/>
+<link xlink:href="107.xml#id.3.7.01.05"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 8</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#id.3.8.01.01"/>
+<link xlink:href="107.xml#id.3.8.01.02"/>
+<link xlink:href="107.xml#id.3.8.01.03"/>
+<link xlink:href="107.xml#id.3.8.01.04"/>
+<link xlink:href="107.xml#id.3.8.01.05"/>
+<link xlink:href="107.xml#id.3.8.01.06"/>
+<link xlink:href="107.xml#id.3.8.01.07"/>
+<link xlink:href="107.xml#id.3.8.01.08"/>
+<link xlink:href="107.xml#id.3.8.01.09"/>
+<link xlink:href="107.xml#id.3.8.01.10"/>
+<link xlink:href="107.xml#id.3.8.01.11"/>
+<link xlink:href="107.xml#id.3.8.01.12"/>
+<link xlink:href="107.xml#id.3.8.01.13"/>
+<link xlink:href="107.xml#id.3.8.01.14"/>
+<link xlink:href="107.xml#id.3.8.01.15"/>
+<link xlink:href="107.xml#id.3.8.01.16"/>
+<link xlink:href="107.xml#id.3.8.01.17"/>
+<link xlink:href="107.xml#id.3.8.01.18"/>
+<link xlink:href="107.xml#id.3.8.01.19"/>
+<link xlink:href="107.xml#id.3.8.01.20"/>
+<link xlink:href="107.xml#id.3.8.01.21"/>
+<link xlink:href="107.xml#id.3.8.01.22"/>
+<link xlink:href="107.xml#id.3.8.01.23"/>
+<link xlink:href="107.xml#id.3.8.01.24"/>
+<link xlink:href="107.xml#id.3.8.01.25"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[17]"/>
+<link xlink:href="107.xml#/descendant::body[17]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[30]/p[1]"/>
+<link xlink:href="107.xml#id.3.8.01.28"/>
+<link xlink:href="107.xml#id.3.8.01.29"/>
+<link xlink:href="107.xml#id.3.8.01.30"/>
+<link xlink:href="107.xml#id.3.8.01.31"/>
+<link xlink:href="107.xml#id.3.8.01.32"/>
+<link xlink:href="107.xml#id.3.8.01.33"/>
+<link xlink:href="107.xml#id.3.8.01.34"/>
+<link xlink:href="107.xml#id.3.8.01.35"/>
+<link xlink:href="107.xml#id.3.8.01.36"/>
+<link xlink:href="107.xml#id.3.8.01.37"/>
+<link xlink:href="107.xml#id.3.8.01.38"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 9</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[17]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[31]/p[1]"/>
+<link xlink:href="107.xml#id.3.9.01.01"/>
+<link xlink:href="107.xml#id.3.9.01.02"/>
+<link xlink:href="107.xml#id.3.9.01.03"/>
+<link xlink:href="107.xml#id.3.9.01.04"/>
+<link xlink:href="107.xml#id.3.9.01.05"/>
+<link xlink:href="107.xml#id.3.9.01.06"/>
+<link xlink:href="107.xml#id.3.9.01.07"/>
+<link xlink:href="107.xml#id.3.9.01.08"/>
+<link xlink:href="107.xml#id.3.9.01.09"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 10</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[17]/chap[3]"/>
+<link xlink:href="107.xml#/descendant::chap[32]/p[1]"/>
+<link xlink:href="107.xml#id.3.10.01.01"/>
+<link xlink:href="107.xml#id.3.10.01.02"/>
+<link xlink:href="107.xml#id.3.10.01.03"/>
+<link xlink:href="107.xml#id.3.10.01.04"/>
+<link xlink:href="107.xml#id.3.10.01.05"/>
+<link xlink:href="107.xml#id.3.10.01.06"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 11</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[17]/chap[4]"/>
+<link xlink:href="107.xml#/descendant::chap[33]/p[1]"/>
+<link xlink:href="107.xml#id.3.11.01.01"/>
+<link xlink:href="107.xml#id.3.11.01.02"/>
+<link xlink:href="107.xml#id.3.11.01.03"/>
+<link xlink:href="107.xml#id.3.11.01.04"/>
+<link xlink:href="107.xml#id.3.11.01.05"/>
+<link xlink:href="107.xml#id.3.11.01.06"/>
+<link xlink:href="107.xml#id.3.11.01.07"/>
+<link xlink:href="107.xml#id.3.11.01.08"/>
+<link xlink:href="107.xml#id.3.11.01.09"/>
+<link xlink:href="107.xml#id.3.11.01.10"/>
+<link xlink:href="107.xml#id.3.11.01.11"/>
+<link xlink:href="107.xml#id.3.11.01.12"/>
+<link xlink:href="107.xml#id.3.11.01.13"/>
+</nodeset>
+</chunk>
+
+
+
+
+<chunk>
+<name>Question 12</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[17]/chap[5]"/>
+<link xlink:href="107.xml#/descendant::chap[34]/p[1]"/>
+<link xlink:href="107.xml#id.3.12.01.01"/>
+<link xlink:href="107.xml#id.3.12.01.02"/>
+<link xlink:href="107.xml#id.3.12.01.03"/>
+<link xlink:href="107.xml#id.3.12.01.04"/>
+<link xlink:href="107.xml#id.3.12.01.05"/>
+<link xlink:href="107.xml#id.3.12.01.06"/>
+<link xlink:href="107.xml#id.3.12.01.07"/>
+<link xlink:href="107.xml#id.3.12.01.08"/>
+</nodeset>
+</chunk>
+
+
+<chunk>
+<name>Question 13</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[18]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[36]/p[1]"/>
+<link xlink:href="107.xml#id.3.13.01.01"/>
+<link xlink:href="107.xml#id.3.13.01.02"/>
+<link xlink:href="107.xml#id.3.13.01.03"/>
+<link xlink:href="107.xml#id.3.13.01.04"/>
+<link xlink:href="107.xml#id.3.13.01.05"/>
+<link xlink:href="107.xml#id.3.13.01.06"/>
+<link xlink:href="107.xml#id.3.13.01.07"/>
+<link xlink:href="107.xml#id.3.13.01.08"/>
+<link xlink:href="107.xml#id.3.13.01.09"/>
+<link xlink:href="107.xml#id.3.13.01.10"/>
+<link xlink:href="107.xml#id.3.13.01.11"/>
+<link xlink:href="107.xml#id.3.13.01.12"/>
+<link xlink:href="107.xml#id.3.13.01.13"/>
+<link xlink:href="107.xml#id.3.13.01.14"/>
+<link xlink:href="107.xml#id.3.13.01.15"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 14</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[18]/chap[3]"/>
+<link xlink:href="107.xml#/descendant::chap[37]/p[1]"/>
+<link xlink:href="107.xml#id.3.14.01.01"/>
+<link xlink:href="107.xml#id.3.14.01.02"/>
+<link xlink:href="107.xml#id.3.14.01.03"/>
+<link xlink:href="107.xml#id.3.14.01.04"/>
+<link xlink:href="107.xml#id.3.14.01.05"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 15</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[18]/chap[4]"/>
+<link xlink:href="107.xml#/descendant::chap[38]/p[1]"/>
+<link xlink:href="107.xml#id.3.15.01.01"/>
+<link xlink:href="107.xml#id.3.15.01.02"/>
+<link xlink:href="107.xml#id.3.15.01.03"/>
+<link xlink:href="107.xml#id.3.15.01.04"/>
+<link xlink:href="107.xml#id.3.15.01.05"/>
+<link xlink:href="107.xml#id.3.15.01.06"/>
+<link xlink:href="107.xml#id.3.15.01.07"/>
+<link xlink:href="107.xml#id.3.15.01.08"/>
+<link xlink:href="107.xml#id.3.15.01.09"/>
+<link xlink:href="107.xml#id.3.15.01.10"/>
+<link xlink:href="107.xml#id.3.15.01.11"/>
+</nodeset>
+</chunk>
+
+
+<chunk>
+<name>Question 16</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[18]/chap[5]"/>
+<link xlink:href="107.xml#/descendant::chap[39]/p[1]"/>
+<link xlink:href="107.xml#id.3.16.01.01"/>
+<link xlink:href="107.xml#id.3.16.01.02"/>
+<link xlink:href="107.xml#id.3.16.01.03"/>
+<link xlink:href="107.xml#id.3.16.01.04"/>
+<link xlink:href="107.xml#id.3.16.01.05"/>
+<link xlink:href="107.xml#id.3.16.01.06"/>
+<link xlink:href="107.xml#id.3.16.01.07"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 17</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[18]/chap[6]"/>
+<link xlink:href="107.xml#/descendant::chap[40]/p[1]"/>
+<link xlink:href="107.xml#id.3.17.01.01"/>
+<link xlink:href="107.xml#id.3.17.01.02"/>
+<link xlink:href="107.xml#id.3.17.01.03"/>
+<link xlink:href="107.xml#id.3.17.01.04"/>
+<link xlink:href="107.xml#id.3.17.01.05"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[19]"/>
+<link xlink:href="107.xml#/descendant::body[19]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[41]/p[1]"/>
+<link xlink:href="107.xml#id.3.17.01.08"/>
+<link xlink:href="107.xml#id.3.17.01.09"/>
+<link xlink:href="107.xml#id.3.17.01.10"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[20]"/>
+<link xlink:href="107.xml#/descendant::body[20]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[42]/p[1]"/>
+<link xlink:href="107.xml#id.3.17.01.13"/>
+<link xlink:href="107.xml#id.3.17.01.14"/>
+
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 18</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[21]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[44]/p[1]"/>
+<link xlink:href="107.xml#id.3.18.01.01"/>
+<link xlink:href="107.xml#id.3.18.01.02"/>
+<link xlink:href="107.xml#id.3.18.01.03"/>
+<link xlink:href="107.xml#id.3.18.01.04"/>
+<link xlink:href="107.xml#id.3.18.01.05"/>
+<link xlink:href="107.xml#id.3.18.01.06"/>
+<link xlink:href="107.xml#id.3.18.01.07"/>
+<link xlink:href="107.xml#id.3.18.01.08"/>
+<link xlink:href="107.xml#id.3.18.01.09"/>
+<link xlink:href="107.xml#id.3.18.01.10"/>
+<link xlink:href="107.xml#id.3.18.01.11"/>
+<link xlink:href="107.xml#id.3.18.01.12"/>
+<link xlink:href="107.xml#id.3.18.01.13"/>
+<link xlink:href="107.xml#id.3.18.01.14"/>
+<link xlink:href="107.xml#id.3.18.01.15"/>
+<link xlink:href="107.xml#id.3.18.01.16"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 19</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[21]/chap[3]"/>
+<link xlink:href="107.xml#/descendant::chap[45]/p[1]"/>
+<link xlink:href="107.xml#id.3.19.01.01"/>
+<link xlink:href="107.xml#id.3.19.01.02"/>
+<link xlink:href="107.xml#id.3.19.01.03"/>
+<link xlink:href="107.xml#id.3.19.01.04"/>
+<link xlink:href="107.xml#id.3.19.01.05"/>
+<link xlink:href="107.xml#id.3.19.01.06"/>
+<link xlink:href="107.xml#id.3.19.01.07"/>
+<link xlink:href="107.xml#id.3.19.01.08"/>
+<link xlink:href="107.xml#id.3.19.01.09"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 20</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::text[1]/body[22]"/>
+<link xlink:href="107.xml#/descendant::body[22]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[46]/p[1]"/>
+<link xlink:href="107.xml#id.3.2.0.01.00"/>
+<link xlink:href="107.xml#/descendant::body[22]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[47]/p[1]"/>
+<link xlink:href="107.xml#id.3.20.01.01"/>
+<link xlink:href="107.xml#id.3.20.01.02"/>
+<link xlink:href="107.xml#id.3.20.01.03"/>
+<link xlink:href="107.xml#id.3.20.01.04"/>
+<link xlink:href="107.xml#id.3.20.01.05"/>
+<link xlink:href="107.xml#id.3.20.01.06"/>
+<link xlink:href="107.xml#id.3.20.01.07"/>
+<link xlink:href="107.xml#id.3.20.01.08"/>
+<link xlink:href="107.xml#id.3.20.01.09"/>
+<link xlink:href="107.xml#id.3.20.01.10"/>
+<link xlink:href="107.xml#id.3.20.01.11"/>
+<link xlink:href="107.xml#id.3.20.01.12"/>
+<link xlink:href="107.xml#id.3.20.01.13"/>
+<link xlink:href="107.xml#id.3.20.01.14"/>
+<link xlink:href="107.xml#id.3.20.01.15"/>
+<link xlink:href="107.xml#id.3.20.01.16"/>
+<link xlink:href="107.xml#id.3.20.01.17"/>
+<link xlink:href="107.xml#id.3.20.01.18"/>
+<link xlink:href="107.xml#id.3.20.01.19"/>
+<link xlink:href="107.xml#id.3.20.01.20"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 21</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::text[1]/body[23]"/>
+<link xlink:href="107.xml#/descendant::body[23]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[48]/p[1]"/>
+<link xlink:href="107.xml#id.3.2.1.01.00"/>
+<link xlink:href="107.xml#/descendant::body[23]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[49]/p[1]"/>
+<link xlink:href="107.xml#id.3.21.01.01"/>
+<link xlink:href="107.xml#id.3.21.01.02"/>
+<link xlink:href="107.xml#id.3.21.01.03"/>
+<link xlink:href="107.xml#id.3.21.01.04"/>
+<link xlink:href="107.xml#id.3.21.01.05"/>
+<link xlink:href="107.xml#id.3.21.01.06"/>
+<link xlink:href="107.xml#id.3.21.01.07"/>
+<link xlink:href="107.xml#id.3.21.01.08"/>
+<link xlink:href="107.xml#id.3.21.01.09"/>
+<link xlink:href="107.xml#id.3.21.01.10"/>
+<link xlink:href="107.xml#id.3.21.01.11"/>
+<link xlink:href="107.xml#id.3.21.01.12"/>
+<link xlink:href="107.xml#id.3.21.01.13"/>
+<link xlink:href="107.xml#id.3.21.01.14"/>
+</nodeset>
+</chunk>
+
+
+
+
+<chunk>
+<name>Question 22</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::text[1]/body[24]"/>
+<link xlink:href="107.xml#/descendant::body[24]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[50]/p[1]"/>
+<link xlink:href="107.xml#id.3.2.2.01.00"/>
+<link xlink:href="107.xml#/descendant::body[24]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[51]/p[1]"/>
+<link xlink:href="107.xml#id.3.22.01.01"/>
+<link xlink:href="107.xml#id.3.22.01.02"/>
+<link xlink:href="107.xml#id.3.22.01.03"/>
+<link xlink:href="107.xml#id.3.22.01.04"/>
+<link xlink:href="107.xml#id.3.22.01.05"/>
+<link xlink:href="107.xml#id.3.22.01.06"/>
+<link xlink:href="107.xml#id.3.22.01.07"/>
+<link xlink:href="107.xml#id.3.22.01.08"/>
+<link xlink:href="107.xml#id.3.22.01.09"/>
+<link xlink:href="107.xml#id.3.22.01.10"/>
+<link xlink:href="107.xml#id.3.22.01.11"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 23</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::text[1]/body[25]"/>
+<link xlink:href="107.xml#/descendant::body[25]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[52]/p[1]"/>
+<link xlink:href="107.xml#id.3.2.3.01.00"/>
+<link xlink:href="107.xml#/descendant::body[25]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[53]/p[1]"/>
+<link xlink:href="107.xml#id.3.23.01.01"/>
+<link xlink:href="107.xml#id.3.23.01.02"/>
+<link xlink:href="107.xml#id.3.23.01.03"/>
+<link xlink:href="107.xml#id.3.23.01.04"/>
+<link xlink:href="107.xml#id.3.23.01.05"/>
+<link xlink:href="107.xml#id.3.23.01.06"/>
+<link xlink:href="107.xml#id.3.23.01.07"/>
+<link xlink:href="107.xml#id.3.23.01.08"/>
+<link xlink:href="107.xml#id.3.23.01.09"/>
+<link xlink:href="107.xml#id.3.23.01.10"/>
+<link xlink:href="107.xml#id.3.23.01.11"/>
+<link xlink:href="107.xml#id.3.23.01.12"/>
+<link xlink:href="107.xml#id.3.23.01.13"/>
+<link xlink:href="107.xml#id.3.23.01.14"/>
+<link xlink:href="107.xml#id.3.23.01.15"/>
+<link xlink:href="107.xml#id.3.23.01.16"/>
+<link xlink:href="107.xml#id.3.23.01.17"/>
+<link xlink:href="107.xml#id.3.23.01.18"/>
+<link xlink:href="107.xml#id.3.23.01.19"/>
+<link xlink:href="107.xml#id.3.23.01.20"/>
+<link xlink:href="107.xml#id.3.23.01.21"/>
+<link xlink:href="107.xml#id.3.23.01.22"/>
+<link xlink:href="107.xml#id.3.23.01.23"/>
+<link xlink:href="107.xml#id.3.23.01.24"/>
+<link xlink:href="107.xml#id.3.23.01.25"/>
+<link xlink:href="107.xml#id.3.23.01.26"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 24</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::text[1]/body[26]"/>
+<link xlink:href="107.xml#/descendant::body[26]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[54]/p[1]"/>
+<link xlink:href="107.xml#id.3.2.4.01.00"/>
+<link xlink:href="107.xml#/descendant::body[26]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[55]/p[1]"/>
+<link xlink:href="107.xml#id.3.24.01.01"/>
+<link xlink:href="107.xml#id.3.24.01.02"/>
+<link xlink:href="107.xml#id.3.24.01.03"/>
+<link xlink:href="107.xml#id.3.24.01.04"/>
+<link xlink:href="107.xml#id.3.24.01.05"/>
+<link xlink:href="107.xml#id.3.24.01.06"/>
+<link xlink:href="107.xml#id.3.24.01.07"/>
+<link xlink:href="107.xml#id.3.24.01.08"/>
+<link xlink:href="107.xml#id.3.24.01.09"/>
+<link xlink:href="107.xml#id.3.24.01.10"/>
+<link xlink:href="107.xml#id.3.24.01.11"/>
+<link xlink:href="107.xml#id.3.24.01.12"/>
+<link xlink:href="107.xml#id.3.24.01.13"/>
+<link xlink:href="107.xml#id.3.24.01.14"/>
+<link xlink:href="107.xml#id.3.24.01.15"/>
+<link xlink:href="107.xml#id.3.24.01.16"/>
+<link xlink:href="107.xml#id.3.24.01.17"/>
+<link xlink:href="107.xml#id.3.24.01.18"/>
+<link xlink:href="107.xml#id.3.24.01.19"/>
+<link xlink:href="107.xml#id.3.24.01.20"/>
+<link xlink:href="107.xml#id.3.24.01.21"/>
+<link xlink:href="107.xml#id.3.24.01.22"/>
+<link xlink:href="107.xml#id.3.24.01.23"/>
+<link xlink:href="107.xml#id.3.24.01.24"/>
+<link xlink:href="107.xml#id.3.24.01.25"/>
+<link xlink:href="107.xml#id.3.24.01.26"/>
+<link xlink:href="107.xml#id.3.24.01.27"/>
+<link xlink:href="107.xml#id.3.24.01.28"/>
+<link xlink:href="107.xml#id.3.24.01.29"/>
+<link xlink:href="107.xml#id.3.24.01.30"/>
+<link xlink:href="107.xml#id.3.24.01.31"/>
+<link xlink:href="107.xml#id.3.24.01.32"/>
+<link xlink:href="107.xml#id.3.24.01.33"/>
+<link xlink:href="107.xml#id.3.24.01.34"/>
+</nodeset>
+</chunk>
+
+
+<chunk>
+<name>Question 25</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[26]/chap[3]"/>
+<link xlink:href="107.xml#/descendant::chap[56]/p[1]"/>
+<link xlink:href="107.xml#id.3.25.01.01"/>
+<link xlink:href="107.xml#id.3.25.01.02"/>
+<link xlink:href="107.xml#id.3.25.01.03"/>
+<link xlink:href="107.xml#id.3.25.01.04"/>
+<link xlink:href="107.xml#id.3.25.01.05"/>
+<link xlink:href="107.xml#id.3.25.01.06"/>
+<link xlink:href="107.xml#id.3.25.01.07"/>
+<link xlink:href="107.xml#id.3.25.01.08"/>
+<link xlink:href="107.xml#id.3.25.01.09"/>
+<link xlink:href="107.xml#id.3.25.01.10"/>
+<link xlink:href="107.xml#id.3.25.01.11"/>
+<link xlink:href="107.xml#id.3.25.01.12"/>
+<link xlink:href="107.xml#id.3.25.01.13"/>
+<link xlink:href="107.xml#id.3.25.01.14"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[27]"/>
+<link xlink:href="107.xml#/descendant::body[27]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[57]/p[1]"/>
+<link xlink:href="107.xml#id.3.25.01.17"/>
+<link xlink:href="107.xml#id.3.25.01.18"/>
+<link xlink:href="107.xml#id.3.25.01.19"/>
+<link xlink:href="107.xml#id.3.25.01.20"/>
+<link xlink:href="107.xml#id.3.25.01.21"/>
+<link xlink:href="107.xml#id.3.25.01.22"/>
+<link xlink:href="107.xml#id.3.25.01.23"/>
+<link xlink:href="107.xml#id.3.25.01.24"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[28]"/>
+<link xlink:href="107.xml#/descendant::body[28]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[58]/p[1]"/>
+<link xlink:href="107.xml#id.3.25.01.27"/>
+<link xlink:href="107.xml#id.3.25.01.28"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[29]"/>
+<link xlink:href="107.xml#/descendant::body[29]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[59]/p[1]"/>
+<link xlink:href="107.xml#id.3.25.01.31"/>
+<link xlink:href="107.xml#id.3.25.01.32"/>
+<link xlink:href="107.xml#id.3.25.01.33"/>
+<link xlink:href="107.xml#id.3.25.01.34"/>
+<link xlink:href="107.xml#id.3.25.01.35"/>
+<link xlink:href="107.xml#id.3.25.01.36"/>
+<link xlink:href="107.xml#id.3.25.01.37"/>
+<link xlink:href="107.xml#id.3.25.01.38"/>
+<link xlink:href="107.xml#id.3.25.01.39"/>
+<link xlink:href="107.xml#id.3.25.01.40"/>
+<link xlink:href="107.xml#id.3.25.01.41"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 26</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::text[1]/body[30]"/>
+<link xlink:href="107.xml#/descendant::body[30]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[60]/p[1]"/>
+<link xlink:href="107.xml#id.3.2.6.01.00"/>
+<link xlink:href="107.xml#/descendant::body[30]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[61]/p[1]"/>
+<link xlink:href="107.xml#id.3.26.01.01"/>
+<link xlink:href="107.xml#id.3.26.01.02"/>
+<link xlink:href="107.xml#id.3.26.01.03"/>
+<link xlink:href="107.xml#id.3.26.01.04"/>
+<link xlink:href="107.xml#id.3.26.01.05"/>
+<link xlink:href="107.xml#id.3.26.01.06"/>
+<link xlink:href="107.xml#id.3.26.01.07"/>
+<link xlink:href="107.xml#id.3.26.01.08"/>
+<link xlink:href="107.xml#id.3.26.01.09"/>
+<link xlink:href="107.xml#id.3.26.01.10"/>
+<link xlink:href="107.xml#id.3.26.01.11"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 27</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::text[1]/body[31]"/>
+<link xlink:href="107.xml#/descendant::body[31]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[62]/p[1]"/>
+<link xlink:href="107.xml#id.3.2.7.01.00"/>
+<link xlink:href="107.xml#/descendant::body[31]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[63]/p[1]"/>
+<link xlink:href="107.xml#id.3.27.01.01"/>
+<link xlink:href="107.xml#id.3.27.01.02"/>
+<link xlink:href="107.xml#id.3.27.01.03"/>
+<link xlink:href="107.xml#id.3.27.01.04"/>
+<link xlink:href="107.xml#id.3.27.01.05"/>
+<link xlink:href="107.xml#id.3.27.01.06"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 28</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::text[1]/body[32]"/>
+<link xlink:href="107.xml#/descendant::body[32]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[64]/p[1]"/>
+<link xlink:href="107.xml#id.3.2.8.01.00"/>
+<link xlink:href="107.xml#/descendant::body[32]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[65]/p[1]"/>
+<link xlink:href="107.xml#id.3.28.01.01"/>
+<link xlink:href="107.xml#id.3.28.01.02"/>
+<link xlink:href="107.xml#id.3.28.01.03"/>
+<link xlink:href="107.xml#id.3.28.01.04"/>
+<link xlink:href="107.xml#id.3.28.01.05"/>
+<link xlink:href="107.xml#id.3.28.01.06"/>
+<link xlink:href="107.xml#id.3.28.01.07"/>
+<link xlink:href="107.xml#id.3.28.01.08"/>
+<link xlink:href="107.xml#id.3.28.01.09"/>
+<link xlink:href="107.xml#id.3.28.01.10"/>
+<link xlink:href="107.xml#id.3.28.01.11"/>
+<link xlink:href="107.xml#id.3.28.01.12"/>
+<link xlink:href="107.xml#id.3.28.01.13"/>
+<link xlink:href="107.xml#id.3.28.01.14"/>
+</nodeset>
+</chunk>
+
+
+
+<chunk>
+<name>Question 29</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::text[1]/body[33]"/>
+<link xlink:href="107.xml#/descendant::body[33]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[66]/p[1]"/>
+<link xlink:href="107.xml#id.3.2.9.01.00"/>
+<link xlink:href="107.xml#/descendant::body[33]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[67]/p[1]"/>
+<link xlink:href="107.xml#id.3.29.01.01"/>
+<link xlink:href="107.xml#id.3.29.01.02"/>
+<link xlink:href="107.xml#id.3.29.01.03"/>
+<link xlink:href="107.xml#id.3.29.01.04"/>
+<link xlink:href="107.xml#id.3.29.01.05"/>
+<link xlink:href="107.xml#id.3.29.01.06"/>
+<link xlink:href="107.xml#id.3.29.01.07"/>
+<link xlink:href="107.xml#id.3.29.01.08"/>
+<link xlink:href="107.xml#id.3.29.01.09"/>
+<link xlink:href="107.xml#id.3.29.01.10"/>
+</nodeset>
+</chunk>
+
+
+<chunk>
+<name>Question 30</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::text[1]/body[34]"/>
+<link xlink:href="107.xml#/descendant::body[34]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[68]/p[1]"/>
+<link xlink:href="107.xml#id.3.3.0.01.00"/>
+<link xlink:href="107.xml#/descendant::body[34]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[69]/p[1]"/>
+<link xlink:href="107.xml#id.3.30.01.01"/>
+<link xlink:href="107.xml#id.3.30.01.02"/>
+<link xlink:href="107.xml#id.3.30.01.03"/>
+<link xlink:href="107.xml#id.3.30.01.04"/>
+<link xlink:href="107.xml#id.3.30.01.05"/>
+<link xlink:href="107.xml#id.3.30.01.06"/>
+<link xlink:href="107.xml#id.3.30.01.07"/>
+<link xlink:href="107.xml#id.3.30.01.08"/>
+<link xlink:href="107.xml#id.3.30.01.09"/>
+<link xlink:href="107.xml#id.3.30.01.10"/>
+<link xlink:href="107.xml#id.3.30.01.11"/>
+<link xlink:href="107.xml#id.3.30.01.12"/>
+</nodeset>
+</chunk>
+
+
+<chunk>
+<name>Question 31</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#id.3.31.01.01"/>
+<link xlink:href="107.xml#id.3.31.01.02"/>
+<link xlink:href="107.xml#id.3.31.01.03"/>
+<link xlink:href="107.xml#id.3.31.01.04"/>
+</nodeset>
+</chunk>
+
+
+<chunk>
+<name>Question 32</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#id.3.32.01.01"/>
+<link xlink:href="107.xml#id.3.32.01.02"/>
+<link xlink:href="107.xml#id.3.32.01.03"/>
+<link xlink:href="107.xml#id.3.32.01.04"/>
+<link xlink:href="107.xml#id.3.32.01.05"/>
+<link xlink:href="107.xml#id.3.32.01.06"/>
+<link xlink:href="107.xml#id.3.32.01.07"/>
+<link xlink:href="107.xml#id.3.32.01.08"/>
+<link xlink:href="107.xml#id.3.32.01.09"/>
+<link xlink:href="107.xml#id.3.32.01.10"/>
+<link xlink:href="107.xml#id.3.32.01.11"/>
+<link xlink:href="107.xml#id.3.32.01.12"/>
+<link xlink:href="107.xml#id.3.32.01.13"/>
+<link xlink:href="107.xml#id.3.32.01.14"/>
+<link xlink:href="107.xml#id.3.32.01.15"/>
+<link xlink:href="107.xml#id.3.32.01.16"/>
+<link xlink:href="107.xml#id.3.32.01.17"/>
+<link xlink:href="107.xml#id.3.32.01.18"/>
+<link xlink:href="107.xml#id.3.32.01.19"/>
+<link xlink:href="107.xml#id.3.32.01.20"/>
+<link xlink:href="107.xml#id.3.32.01.21"/>
+<link xlink:href="107.xml#id.3.32.01.22"/>
+<link xlink:href="107.xml#id.3.32.01.23"/>
+</nodeset>
+</chunk>
+
+
+<chunk>
+<name>Question 33</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#id.3.33.01.01"/>
+<link xlink:href="107.xml#id.3.33.01.02"/>
+<link xlink:href="107.xml#id.3.33.01.03"/>
+</nodeset>
+</chunk>
+
+
+<chunk>
+<name>Question 34</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::body[34]/chap[6]"/>
+<link xlink:href="107.xml#/descendant::chap[73]/p[1]"/>
+<link xlink:href="107.xml#id.3.34.01.01"/>
+<link xlink:href="107.xml#id.3.34.01.02"/>
+<link xlink:href="107.xml#id.3.34.01.03"/>
+<link xlink:href="107.xml#id.3.34.01.04"/>
+<link xlink:href="107.xml#id.3.34.01.05"/>
+<link xlink:href="107.xml#id.3.34.01.06"/>
+<link xlink:href="107.xml#id.3.34.01.07"/>
+<link xlink:href="107.xml#id.3.34.01.08"/>
+<link xlink:href="107.xml#id.3.34.01.09"/>
+<link xlink:href="107.xml#id.3.34.01.10"/>
+<link xlink:href="107.xml#id.3.34.01.11"/>
+<link xlink:href="107.xml#id.3.34.01.12"/>
+<link xlink:href="107.xml#id.3.34.01.13"/>
+<link xlink:href="107.xml#id.3.34.01.14"/>
+<link xlink:href="107.xml#id.3.34.01.15"/>
+<link xlink:href="107.xml#id.3.34.01.16"/>
+<link xlink:href="107.xml#id.3.34.01.17"/>
+<link xlink:href="107.xml#id.3.34.01.18"/>
+</nodeset>
+</chunk>
+
+
+<chunk>
+<name>Question 35</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::text[1]/body[35]"/>
+<link xlink:href="107.xml#/descendant::body[35]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[74]/p[1]"/>
+<link xlink:href="107.xml#id.3.3.5.01.00"/>
+<link xlink:href="107.xml#/descendant::body[35]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[75]/p[1]"/>
+<link xlink:href="107.xml#id.3.35.01.01"/>
+<link xlink:href="107.xml#id.3.35.01.02"/>
+<link xlink:href="107.xml#id.3.35.01.03"/>
+<link xlink:href="107.xml#id.3.35.01.04"/>
+<link xlink:href="107.xml#id.3.35.01.05"/>
+<link xlink:href="107.xml#id.3.35.01.06"/>
+<link xlink:href="107.xml#id.3.35.01.07"/>
+<link xlink:href="107.xml#id.3.35.01.08"/>
+<link xlink:href="107.xml#id.3.35.01.09"/>
+<link xlink:href="107.xml#id.3.35.01.10"/>
+<link xlink:href="107.xml#id.3.35.01.11"/>
+<link xlink:href="107.xml#id.3.35.01.12"/>
+<link xlink:href="107.xml#id.3.35.01.13"/>
+<link xlink:href="107.xml#id.3.35.01.14"/>
+<link xlink:href="107.xml#id.3.35.01.15"/>
+<link xlink:href="107.xml#id.3.35.01.16"/>
+</nodeset>
+</chunk>
+
+
+<chunk>
+<name>Appendix. Questione sulla vite</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#id.3.36.01.01"/>
+<link xlink:href="107.xml#id.3.36.01.02"/>
+<link xlink:href="107.xml#id.3.36.01.03"/>
+<link xlink:href="107.xml#id.3.36.01.04"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[36]"/>
+<link xlink:href="107.xml#/descendant::body[36]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[77]/p[1]"/>
+<link xlink:href="107.xml#id.3.36.01.07"/>
+<link xlink:href="107.xml#id.3.36.01.08"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[37]"/>
+<link xlink:href="107.xml#/descendant::body[37]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[78]/p[1]"/>
+<link xlink:href="107.xml#id.3.36.01.11"/>
+<link xlink:href="107.xml#id.3.36.01.12"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[38]"/>
+<link xlink:href="107.xml#/descendant::body[38]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[79]/p[1]"/>
+<link xlink:href="107.xml#id.3.36.01.15"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[39]"/>
+<link xlink:href="107.xml#/descendant::body[39]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[80]/p[1]"/>
+<link xlink:href="107.xml#id.3.36.01.18"/>
+<link xlink:href="107.xml#id.3.36.01.19"/>
+<link xlink:href="107.xml#id.3.36.01.20"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[40]"/>
+<link xlink:href="107.xml#/descendant::body[40]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[81]/p[1]"/>
+<link xlink:href="107.xml#id.3.36.01.25"/>
+<link xlink:href="107.xml#/descendant::text[1]/body[41]"/>
+<link xlink:href="107.xml#/descendant::body[41]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[82]/p[1]"/>
+<link xlink:href="107.xml#id.3.36.01.32"/>
+<link xlink:href="107.xml#id.3.36.01.33"/>
+</nodeset>
+</chunk>
+
+</chunk>
+
+
+<chunk>
+<name>Peroratione</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#id.3.36.02.01"/>
+<link xlink:href="107.xml#/descendant::chap[82]/p[3]"/>
+<link xlink:href="107.xml#id.3.36.03.01"/>
+<link xlink:href="107.xml#id.3.36.03.02"/>
+<link xlink:href="107.xml#id.3.36.03.03"/>
+<link xlink:href="107.xml#id.3.36.03.04"/>
+<link xlink:href="107.xml#id.3.36.03.05"/>
+<link xlink:href="107.xml#id.3.36.03.06"/>
+<link xlink:href="107.xml#id.3.36.03.07"/>
+</nodeset>
+</chunk>
+
+
+<chunk>
+<name>index</name>
+<description></description>
+<nodeset>
+<link xlink:href="107.xml#/descendant::text[1]/body[42]"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[1]"/>
+<link xlink:href="107.xml#/descendant::chap[83]/p[1]"/>
+<link xlink:href="107.xml#id.4.1.01.01"/>
+<link xlink:href="107.xml#id.4.1.01.02"/>
+<link xlink:href="107.xml#id.4.1.01.03"/>
+<link xlink:href="107.xml#id.4.1.01.04"/>
+<link xlink:href="107.xml#id.4.1.01.05"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[2]"/>
+<link xlink:href="107.xml#/descendant::chap[84]/p[1]"/>
+<link xlink:href="107.xml#id.4.2.01.01"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[3]"/>
+<link xlink:href="107.xml#/descendant::chap[85]/p[1]"/>
+<link xlink:href="107.xml#id.4.3.01.01"/>
+<link xlink:href="107.xml#id.4.3.01.02"/>
+<link xlink:href="107.xml#id.4.3.01.03"/>
+<link xlink:href="107.xml#id.4.3.01.04"/>
+<link xlink:href="107.xml#id.4.3.01.05"/>
+<link xlink:href="107.xml#id.4.3.01.06"/>
+<link xlink:href="107.xml#id.4.3.01.07"/>
+<link xlink:href="107.xml#id.4.3.01.08"/>
+<link xlink:href="107.xml#id.4.3.01.09"/>
+<link xlink:href="107.xml#id.4.3.01.10"/>
+<link xlink:href="107.xml#id.4.3.01.11"/>
+<link xlink:href="107.xml#id.4.3.01.12"/>
+<link xlink:href="107.xml#id.4.3.01.13"/>
+<link xlink:href="107.xml#id.4.3.01.14"/>
+<link xlink:href="107.xml#id.4.3.01.15"/>
+<link xlink:href="107.xml#id.4.3.01.16"/>
+<link xlink:href="107.xml#id.4.3.01.17"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[4]"/>
+<link xlink:href="107.xml#/descendant::chap[86]/p[1]"/>
+<link xlink:href="107.xml#id.4.4.01.01"/>
+<link xlink:href="107.xml#id.4.4.01.02"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[5]"/>
+<link xlink:href="107.xml#/descendant::chap[87]/p[1]"/>
+<link xlink:href="107.xml#id.4.5.01.01"/>
+<link xlink:href="107.xml#id.4.5.01.02"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[6]"/>
+<link xlink:href="107.xml#/descendant::chap[88]/p[1]"/>
+<link xlink:href="107.xml#id.4.6.01.01"/>
+<link xlink:href="107.xml#id.4.6.01.02"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[7]"/>
+<link xlink:href="107.xml#/descendant::chap[89]/p[1]"/>
+<link xlink:href="107.xml#id.4.7.01.01"/>
+<link xlink:href="107.xml#id.4.7.01.02"/>
+<link xlink:href="107.xml#id.4.7.01.03"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[8]"/>
+<link xlink:href="107.xml#/descendant::chap[90]/p[1]"/>
+<link xlink:href="107.xml#id.4.8.01.01"/>
+<link xlink:href="107.xml#id.4.8.01.02"/>
+<link xlink:href="107.xml#id.4.8.01.03"/>
+<link xlink:href="107.xml#id.4.8.01.04"/>
+<link xlink:href="107.xml#id.4.8.01.05"/>
+<link xlink:href="107.xml#id.4.8.01.06"/>
+<link xlink:href="107.xml#id.4.8.01.07"/>
+<link xlink:href="107.xml#id.4.8.01.08"/>
+<link xlink:href="107.xml#id.4.8.01.09"/>
+<link xlink:href="107.xml#id.4.8.01.10"/>
+<link xlink:href="107.xml#id.4.8.01.11"/>
+<link xlink:href="107.xml#id.4.8.01.12"/>
+<link xlink:href="107.xml#id.4.8.01.13"/>
+<link xlink:href="107.xml#id.4.8.01.14"/>
+<link xlink:href="107.xml#id.4.8.01.15"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[9]"/>
+<link xlink:href="107.xml#/descendant::chap[91]/p[1]"/>
+<link xlink:href="107.xml#id.4.9.01.01"/>
+<link xlink:href="107.xml#id.4.9.01.02"/>
+<link xlink:href="107.xml#id.4.9.01.03"/>
+<link xlink:href="107.xml#id.4.9.01.04"/>
+<link xlink:href="107.xml#id.4.9.01.05"/>
+<link xlink:href="107.xml#id.4.9.01.06"/>
+<link xlink:href="107.xml#id.4.9.01.07"/>
+<link xlink:href="107.xml#id.4.9.01.08"/>
+<link xlink:href="107.xml#id.4.9.01.09"/>
+<link xlink:href="107.xml#id.4.9.01.10"/>
+<link xlink:href="107.xml#id.4.9.01.11"/>
+<link xlink:href="107.xml#id.4.9.01.12"/>
+<link xlink:href="107.xml#id.4.9.01.13"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[10]"/>
+<link xlink:href="107.xml#/descendant::chap[92]/p[1]"/>
+<link xlink:href="107.xml#id.4.10.01.01"/>
+<link xlink:href="107.xml#id.4.10.01.02"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[11]"/>
+<link xlink:href="107.xml#/descendant::chap[93]/p[1]"/>
+<link xlink:href="107.xml#id.4.11.01.01"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[12]"/>
+<link xlink:href="107.xml#/descendant::chap[94]/p[1]"/>
+<link xlink:href="107.xml#id.4.12.01.01"/>
+<link xlink:href="107.xml#id.4.12.01.02"/>
+<link xlink:href="107.xml#id.4.12.01.03"/>
+<link xlink:href="107.xml#id.4.12.01.04"/>
+<link xlink:href="107.xml#id.4.12.01.05"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[13]"/>
+<link xlink:href="107.xml#/descendant::chap[95]/p[1]"/>
+<link xlink:href="107.xml#id.4.13.01.01"/>
+<link xlink:href="107.xml#id.4.13.01.02"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[14]"/>
+<link xlink:href="107.xml#/descendant::chap[96]/p[1]"/>
+<link xlink:href="107.xml#id.4.14.01.01"/>
+<link xlink:href="107.xml#id.4.14.01.02"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[15]"/>
+<link xlink:href="107.xml#/descendant::chap[97]/p[1]"/>
+<link xlink:href="107.xml#id.4.15.01.01"/>
+<link xlink:href="107.xml#id.4.15.01.02"/>
+<link xlink:href="107.xml#id.4.15.01.03"/>
+<link xlink:href="107.xml#id.4.15.01.04"/>
+<link xlink:href="107.xml#id.4.15.01.05"/>
+<link xlink:href="107.xml#id.4.15.01.06"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[16]"/>
+<link xlink:href="107.xml#/descendant::chap[98]/p[1]"/>
+<link xlink:href="107.xml#id.4.16.01.01"/>
+<link xlink:href="107.xml#id.4.16.01.02"/>
+<link xlink:href="107.xml#id.4.16.01.03"/>
+<link xlink:href="107.xml#id.4.16.01.04"/>
+<link xlink:href="107.xml#id.4.16.01.05"/>
+<link xlink:href="107.xml#id.4.16.01.06"/>
+<link xlink:href="107.xml#id.4.16.01.07"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[17]"/>
+<link xlink:href="107.xml#/descendant::chap[99]/p[1]"/>
+<link xlink:href="107.xml#id.4.17.01.01"/>
+<link xlink:href="107.xml#id.4.17.01.02"/>
+<link xlink:href="107.xml#id.4.17.01.03"/>
+<link xlink:href="107.xml#id.4.17.01.04"/>
+<link xlink:href="107.xml#id.4.17.01.05"/>
+<link xlink:href="107.xml#id.4.17.01.06"/>
+<link xlink:href="107.xml#/descendant::body[42]/chap[18]"/>
+<link xlink:href="107.xml#/descendant::chap[100]/p[1]"/>
+<link xlink:href="107.xml#id.4.18.01.01"/>
+<link xlink:href="107.xml#id.4.18.01.02"/>
+</nodeset>
+</chunk>
+
+
+
+
+</archimedes>

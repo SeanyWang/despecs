@@ -1,0 +1,10 @@
+<!-- missing entity refs in gehler texts 
+
+     These are NOT in the archimedes.pen entity file, as the gehler texts are TEI not archimedes
+	
+-->
+
+
+<!ENTITY Theta  "&#x0398;"> <!-- GREEK CAPITAL LETTER THETA -->
+<!ENTITY mnplus  "-+"> <!-- Todo: check in image -->
+

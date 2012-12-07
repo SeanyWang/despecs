@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE archimedes SYSTEM "../dtd/archimedes.dtd" >
+<archimedes>
+<info>
+    <author>Pseudo-Aristotle</author>
+    <title>Nutaf min al-hiyal (English)</title> 
+    <date>2003</date>
+    <place>Harvard</place>
+    <translator>ek</translator>
+    <lang>en</lang>
+    <cvs_file></cvs_file>
+    <cvs_version></cvs_version>
+    <locator>102.xml</locator>
+</info>
+<text>
+<front/>
+<body>
+<chap>
+<p n="1">
+<s id="A010010001">Elements/Extracts of Mechanics.  Aristotle said: People marvel either at things which occur in accordance with nature and of which the cause is not known, or at things which are contrary to nature, and are produced by art for the benefit of mankind.  For nature always follows the same direction, whereas the needs of humans  differ widely.</s>
+<s id="A010010101">And in every difficult action which happens contrary to nature, mechanical artifices are needed, and for this reason the lesser things overcome the greater things.</s>
+<s id="A010010102">The mechanical problems have a share in both the mathematical and the natural sciences, for the &lsquo;how&rsquo; in them belongs to the mathematical sciences, whereas the &lsquo;what&rsquo; belongs to the natural sciences, as in the operation of the lever: when the load is increased, the heavy thing is moved [more] rapidly.</s>
+<s id="A010010103">The circle is the cause of all this, and the like.</s>
+<s id="A010010104">The most marvelous is that in which contrary things are combined, and in the circle are combined motion and rest. In its circumference sinking and rising exist, and between them the tangent, just as the equal exists between the greater and the smaller, and the straight between the concave and the convex.</s>
+<s id="A010010105">And in one and the same movement of the circle, there exists contrariety between forward and backward, upward and downward.</s>
+<s id="A010010106">A line draws it by motion on one side and by rest on the other, ending where it started and proceeding to what it has left.</s>
+<s id="A010010107">The motions of the points posited on it differ in speed, the one closer to the end at rest being slower.</s>
+<s id="A010010108">Therefore, the circle is undeniably the origin and principle of any and every marvel.</s>
+<s id="A010010201">The things that occur in the case of the balance occur only because of the circle and are referred to it, whereas those which occur in the case of the lever are referred to the balance.</s>
+<s id="A010010202">And since a single circle can move with two different motions, it is possible to produce circles that move with a single motion, from which many motions come about.</s>
+<s id="A010010203">This is the origin of many contrary and marvelous motions; only one of them is obvious, but its cause is hidden.</s>
+</p>
+<p n="2" type="head">
+<s id="A010020001">Problem</s>
+</p>
+<p n="3">
+<s id="A010020101">It is also asked why the large balances are more accurate and of more precision than the small balances.</s>
+<s id="A010020102">The principle of the answer regarding this cause is to ask why, in the case of a line that departs from the center of a circle and is long, and therefore the distance of its end from the center is a greater distance, the motion of its end is faster when both ends are moved by the same force.</s>
+<s id="A010020103">The faster of two mobiles is the one that travels over a greater distance in the same time.</s>
+<s id="A010020104">And the farther from the center travels over a greater distance along its circumference, and the nearer a smaller distance.</s>
+<s id="A010020105">It is evident from this reasoning that the suspension of the balance is a center, since it is fixed, and because the two sides of the beam, which are on either side of the suspension, stand for the lines departing from the center.</s>
+<s id="A010020106">If the beam is longer, the motion of its end, as it is caused by the same weight, will be stronger than the motion it would have if it were shorter.</s>
+<s id="A010020107">Hence, when some weights are put on small balances, they do not produce any inclination toward their side, because of their smallness and the shortness of the beam.</s>
+<s id="A010020108">But if they are put on a large balance, an evident inclination results, because of the length of the needle and of the beam.</s>
+</p>
+</chap>
+</body>
+<back/>
+</text>
+</archimedes>

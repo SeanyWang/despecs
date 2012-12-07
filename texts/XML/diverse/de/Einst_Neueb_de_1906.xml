@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Neueb_de_1906.tex" /> 
+<meta name="date" content="2005-03-02 20:06:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Neueb_de_1906.css" /> 
+</head><body >
+
+<!--l. 12--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 13--><p class="noindent">
+</p><!--l. 14--><p class="noindent"><span 
+class="cmbx-12">3. </span><span 
+class="cmbxti-10x-x-120">Eine neue Bestimmung der Molek</span><span 
+class="cmbxti-10x-x-120">ül- </span> <br/><span 
+class="cmbxti-10x-x-120">dimensionen;</span>
+<span 
+class="cmbxti-10x-x-120">von A. Einstein.</span></p></div>
+<div class="center" >
+
+<!--l. 19--><p class="noindent">
+</p><!--l. 20--><p class="noindent">--------</p></div>
+<!--l. 23--><p class="indent">   Die ältesten Bestimmungen der wahren Größe der Moleküle <br/>hat die kinetische Theorie der Gase ermöglicht, während die <br/>an Flüssigkeiten beobachteten physikalischen Phänomene bis <br/>jetzt zur Bestimmung der Molekülgrößen nicht gedient haben. <br/>Es liegt dies ohne Zweifel an den bisher unüberwindlichen <br/>Schwierigkeiten, welche der Entwickelung einer ins einzelne <br/>gehenden molekularkinetischen Theorie der Flüssigkeiten ent-<br/>gegenstehen. In dieser Arbeit soll nun gezeigt werden, daß <br/>man die Größe der Moleküle des gelösten Stoffs in einer <br/>nicht dissoziierten verdünnten Lösung aus der inneren Reibung <br/>der Lösung und des reinen Lösungsmittels und aus der Diffusion <br/>des gelösten Stoffes im Lösungsmittel ermitteln kann, wenn <br/>das Volumen eines Moleküls des gelösten Stoffs groß ist gegen <br/>das Volumen eines Moleküls des Lösungsmittels. Ein derartiges <br/>gelöstes Molekül wird sich nämlich bezüglich seiner Beweg-<br/>lichkeit im Lösungsmittel und bezüglich seiner Beeinflussung
+ <br/>der inneren Reibung des letzteren annähernd wie ein im <br/>Lösungsmittel suspendierter fester Körper verhalten, und es <br/>wird erlaubt sein, auf die Bewegung des Lösungsmittels in <br/>unmittelbarer Nähe eines Moleküls die hydrodynamischen
+ <br/>Gleichungen anzuwenden, in welchen die Flüssigkeit als homogen <br/>betrachtet, eine molekulare Struktur derselben also nicht be-<br/>rücksichtigt wird. Als Form der festen Körper, welche die <br/>gelösten Moleküle darstellen sollen, wählen wir die Kugelform.
+</p>
+<div class="center" >
+
+<!--l. 55--><p class="noindent">
+</p><!--l. 56--><p class="noindent"><span 
+class="cmsy-10">§ </span>1.  Über die Beeinflussung der Bewegung einer Flüssigkeit <br/>durch eine sehr kleine in derselben suspendierte Kugel.</p></div>
+<!--l. 61--><p class="indent">   Es liege eine inkompressible homogene Flüssigkeit mit <br/>dem Reibungskoeffizienten
+<span 
+class="cmmi-10">k </span>der Betrachtung zugrunde, deren <br/>Geschwindigkeitskomponenten <span 
+class="cmmi-10">u</span>, <span 
+class="cmmi-10">v</span>, <span 
+class="cmmi-10">w </span>als Funktionen der <br/>Koordinaten <span 
+class="cmmi-10">x</span>, <span 
+class="cmmi-10">y</span>, <span 
+class="cmmi-10">z </span>und der Zeit gegeben seien. Von einem <br/>beliebigen Punkt <span 
+class="cmmi-10">x</span><sub ><span 
+class="cmr-7">0</span></sub>, <span 
+class="cmmi-10">y</span><sub ><span 
+class="cmr-7">0</span></sub>, <span 
+class="cmmi-10">z</span><sub ><span 
+class="cmr-7">0</span></sub> aus denken wir uns die Funk-<br/>tionen <span 
+class="cmmi-10">u</span>, <span 
+class="cmmi-10">v</span>, <span 
+class="cmmi-10">w </span>als Funktionen von
+<span 
+class="cmmi-10">x </span><span 
+class="cmsy-10">- </span><span 
+class="cmmi-10">x</span><sub ><span 
+class="cmr-7">0</span></sub>, <span 
+class="cmmi-10">y </span><span 
+class="cmsy-10">- </span><span 
+class="cmmi-10">y</span><sub ><span 
+class="cmr-7">0</span></sub>, <span 
+class="cmmi-10">z </span><span 
+class="cmsy-10">- </span><span 
+class="cmmi-10">z</span><sub ><span 
+class="cmr-7">0</span></sub> nach <br/><pb/>
+</p><!--l. 73--><p class="indent">
+
+</p><!--l. 74--><p class="noindent">dem Taylorschen Satze entwickelt und um diesen Punkt ein <br/>so kleines Gebiet <span 
+class="cmmi-10">G</span>
+abgegrenzt, daß innerhalb desselben nur <br/>die linearen Glieder dieser Entwickelung berücksichtigt werden <br/>müssen. Die Bewegung der in <span 
+class="cmmi-10">G </span>enthaltenen Flüssigkeit kann
+ <br/>dann bekanntlich als die Superposition dreier Bewegungen auf-<br/>gefaßt werden, nämlich
+</p><!--l. 82--><p class="indent">   1. einer Parallelverschiebung aller Flüssigkeitsteilchen ohne <br/>Änderung von deren relativer Lage,
+</p><!--l. 85--><p class="indent">   2. einer Drehung der Flüssigkeit ohne Änderung der <br/>relativen Lage der Flüssigkeitsteilchen,
+</p><!--l. 88--><p class="indent">   3. einer Dilatationsbewegung in drei aufeinander senk-<br/>rechten Richtungen (den Hauptdilatationsrichtungen).
+</p><!--l. 91--><p class="indent">   Wir denken uns nun im Gebiete <span 
+class="cmmi-10">G </span>einen kugelförmigen starren <br/>Körper, dessen Mittelpunkt im Punkte <span 
+class="cmmi-10">x</span><sub ><span 
+class="cmr-7">0</span></sub>, <span 
+class="cmmi-10">y</span><sub ><span 
+class="cmr-7">0</span></sub>, <span 
+class="cmmi-10">z</span><sub ><span 
+class="cmr-7">0</span></sub> liege und dessen <br/>Dimensionen gegen diejenigen des Gebietes <span 
+class="cmmi-10">G </span>sehr klein seien. <br/>Wir nehmen ferner an, daß die betrachtete Bewegung eine so <br/>langsame sei, daß die kinetische Energie der Kugel sowie <br/>diejenige der Flüssigkeit vernachlässigt werden können. Es <br/>werde ferner angenommen, daß die Geschwindigkeitskompo-<br/>nenten eines Oberflächenelementes der Kugel mit den ent-<br/>sprechenden Geschwindigkeitskomponenten der unmittelbar be-<br/>nachbarten Flüssigkeitsteilchen übereinstimme, d. h., daß auch <br/>die (kontinuierlich gedachte) Trennungsschicht überall einen <br/>nicht unendlich kleinen Koeffizienten der inneren Reibung <br/>aufweise.
+</p><!--l. 107--><p class="indent">   Es ist ohne weiteres klar, daß die Kugel die Teil-<br/>bewegungen 1. und 2. einfach mitmacht, ohne die Bewegung <br/>der benachbarten Flüssigkeit zu modifizieren, da sich bei diesen <br/>Teilbewegungen die Flüssigkeit wie ein starrer Körper bewegt, <br/>und da wir die Wirkungen der Trägheit vernachlässigt haben.
+</p><!--l. 114--><p class="indent">   Die Bewegung 3. aber wird durch das Vorhandensein der <br/>Kugel modifiziert, und es wird unsere nächste Aufgabe sein, <br/>den Einfluß der Kugel auf diese Flüssigkeitsbewegung zu unter-<br/>suchen. Beziehen wir die Bewegung 3. auf ein Koordinaten-<br/>system, dessen Achsen den Hauptdilatationsrichtungen parallel <br/>sind, und setzen wir
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_19060x.png" alt="x- x  = q, y- y0 = j, z- z0 = z,     0 " class="par-math-display"  /></center>
+<!--l. 130--><p class="nopar"> <pb/>
+</p><!--l. 137--><p class="indent">
+
+</p><!--l. 138--><p class="noindent">so läßt sich jene Bewegung, falls die Kugel nicht vorhanden <br/>ist, durch die Gleichungen darstellen:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_19061x.png" alt="  u0 = A q, { v0 = B j,   w0 = C z; " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 149--><p class="nopar">
+</p><!--l. 152--><p class="noindent"><span 
+class="cmmi-10">A</span>, <span 
+class="cmmi-10">B</span>, <span 
+class="cmmi-10">C </span>sind Konstanten, welche wegen der Inkompressibilität <br/>der Flüssigkeit die Bedingung erfüllen:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_19062x.png" alt="A + B + C = 0. " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 161--><p class="nopar">
+</p><!--l. 164--><p class="noindent">Befindet sich nun im Punkte <span 
+class="cmmi-10">x</span><sub ><span 
+class="cmr-7">0</span></sub>, <span 
+class="cmmi-10">y</span><sub ><span 
+class="cmr-7">0</span></sub>, <span 
+class="cmmi-10">z</span><sub ><span 
+class="cmr-7">0</span></sub> die starre Kugel mit <br/>dem Radius <span 
+class="cmmi-10">P</span>, so ändert sich in der Umgebung derselben die <br/>Flüssigkeitsbewegung. Im folgenden wollen wir der Bequemlich-<br/>keit wegen <span 
+class="cmmi-10">P </span>als ,,endlich&#8220; bezeichnen, dagegen die Werte <br/>von
+<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" />,  <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-11.png" alt="j" class="cmmi-10x-x-11" align="middle" />,  <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-10.png" alt="z" class="cmmi-10x-x-10" align="middle" />, </span>für welche die Flüssigkeitsbewegung durch die <br/>Kugel nicht mehr merklich modifiziert wird, als ,,unend-<br/>lich groß&#8220;.
+</p><!--l. 175--><p class="indent">   Zunächst ist wegen der Symmetrie der betrachteten <br/>Flüssigkeitsbewegung klar, daß die Kugel bei der betrachteten <br/>Bewegung weder eine Translation noch eine Drehung aus-<br/>führen kann, und wir erhalten die Grenzbedingungen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_19063x.png" alt="u = v = w = 0 f¨ur  r = P , " class="par-math-display"  /></center>
+<!--l. 186--><p class="nopar">
+</p><!--l. 190--><p class="noindent">wobei
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_19064x.png" alt="r =  V~ q-2-+-j2 +-z2 &gt; 0 " class="par-math-display"  /></center>
+<!--l. 197--><p class="nopar">
+</p><!--l. 201--><p class="noindent">gesetzt ist. Hierbei bedeuten <span 
+class="cmmi-10">u</span>, <span 
+class="cmmi-10">v</span>, <span 
+class="cmmi-10">w </span>die Geschwindigkeits-<br/>komponenten der nun betrachteten (durch die Kugel modifizierten) <br/>Bewegung. Setzt man</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_19065x.png" alt="    u = A q + u1 , {  v = B j + v1 ,    w = C z + w1, " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 213--><p class="nopar">
+</p><!--l. 217--><p class="noindent">so müßte, da die in Gleichungen (3) dargestellte Bewegung <br/>im Unendlichen in die in Gleichungen (1) dargestellte über-<br/>gehen soll, die Geschwindigkeiten <span 
+class="cmmi-10">u</span><sub ><span 
+class="cmr-7">1</span></sub>, <span 
+class="cmmi-10">v</span><sub ><span 
+class="cmr-7">1</span></sub>, <span 
+class="cmmi-10">w</span><sub ><span 
+class="cmr-7">1</span></sub> im Unendlichen <br/>verschwinden.
+</p><!--l. 223--><p class="indent">   Die Funktionen <span 
+class="cmmi-10">u</span>, <span 
+class="cmmi-10">v</span>, <span 
+class="cmmi-10">w </span>haben den Gleichungen der Hydro-<br/>dynamik zu genügen unter Berücksichtigung der inneren Reibung <br/><pb/>
+</p><!--l. 229--><p class="indent">
+
+</p><!--l. 230--><p class="noindent">und unter Vernachlässigung der Trägheit. Es gelten also die <br/>Gleichungen<sup ><span 
+class="cmr-7">1</span></sup>)</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-5r4"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_19066x.png" alt="   @p-         @p-         @-p {  @q = kD u   @j = kD v   @ z = k D w,          @ u    @v    @ w          -@q +  @j-+  @-z = 0, " class="math-display"  /></center></td><td width="5%">(4)</td></tr></table>
+<!--l. 247--><p class="nopar">
+</p><!--l. 251--><p class="noindent">wobei <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmr10-1.png" alt="D" class="10x-x-1" /> den Operator
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_19067x.png" alt="  2      2      2 -@-2 + @--2 +-@-2 @ q    @ j   @ z " class="par-math-display"  /></center>
+<!--l. 259--><p class="nopar">
+</p><!--l. 263--><p class="noindent">und <span 
+class="cmmi-10">p </span>den hydrostatischen Druck bedeutet.
+</p><!--l. 266--><p class="indent">   Da die Gleichungen (1) Lösungen der Gleichungen (4) und <br/>letztere linear sind, müssen nach (3) auch die Größen <span 
+class="cmmi-10">u</span><sub ><span 
+class="cmr-7">1</span></sub>, <span 
+class="cmmi-10">v</span><sub ><span 
+class="cmr-7">1</span></sub>, <span 
+class="cmmi-10">w</span><sub ><span 
+class="cmr-7">1</span></sub> <br/>den Gleichungen (4) genügen. Ich bestimmte <span 
+class="cmmi-10">u</span><sub ><span 
+class="cmr-7">1</span></sub>, <span 
+class="cmmi-10">v</span><sub ><span 
+class="cmr-7">1</span></sub>, <span 
+class="cmmi-10">w</span><sub ><span 
+class="cmr-7">1</span></sub> und <span 
+class="cmmi-10">p. </span> <br/>nach einer im <span 
+class="cmsy-10">§ </span>4 der erwähnten Kirchhoffschen Vorlesung <br/>angegebenen Methode<sup ><span 
+class="cmr-7">2</span></sup>) und fand:
+</p><!--l. 274--><p class="noindent">----------
+</p><!--l. 277--><p class="indent">   1) G. Kirchhoff, Vorlesungen über Mechanik. 26. Vorl.
+</p><!--l. 279--><p class="indent">   2) ,,Aus den Gleichungen (4) folgt <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmr10-1.png" alt="D" class="10x-x-1" /><span 
+class="cmmi-10">p </span>= 0<span 
+class="cmmi-10">. </span>Ist <span 
+class="cmmi-10">p </span>dieser Bedingung <br/>gemäß angenommen und eine Funktion <span 
+class="cmmi-10">V </span>bestimmt, die der Gleichung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_19068x.png" alt="       1 D V =  k p " class="par-math-display"  /></center>
+<!--l. 287--><p class="nopar">
+</p><!--l. 291--><p class="noindent">genügt, so erfüllt man die Gleichungen (4), wenn man
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_19069x.png" alt="    @-V-   '         @ V-  '         @-V-   ' u =  @ q + u ,   v = @ j + v ,   w = @ z + w " class="par-math-display"  /></center>
+<!--l. 300--><p class="nopar">
+</p><!--l. 304--><p class="noindent">setzt und <span 
+class="cmmi-10">u</span><span 
+class="cmsy-10">'</span><span 
+class="cmmi-10">,  v</span><span 
+class="cmsy-10">'</span><span 
+class="cmmi-10">,  w</span><span 
+class="cmsy-10">' </span>so wählt, daß <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmr10-1.png" alt="D" class="10x-x-1" /> <span 
+class="cmmi-10">u</span><span 
+class="cmsy-10">' </span>= 0<span 
+class="cmmi-10">,  </span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmr10-1.png" alt="D" class="10x-x-1" /> <span 
+class="cmmi-10">v</span><span 
+class="cmsy-10">' </span>= 0 und <br/><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmr10-1.png" alt="D" class="10x-x-1" /> <span 
+class="cmmi-10">w</span><span 
+class="cmsy-10">' </span>= 0 und
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190610x.png" alt="@u'-+  @v' + @-w' = -1-p @q     @j     @z     k " class="par-math-display"  /></center>
+<!--l. 314--><p class="nopar">
+</p><!--l. 318--><p class="noindent">ist.&#8220;
+</p><!--l. 321--><p class="indent">   Setzt man nun
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190611x.png" alt="p-    @2-1r k = 2 c@ q2 " class="par-math-display"  /></center>
+<!--l. 328--><p class="nopar">
+</p><!--l. 332--><p class="noindent">und im Einklang hiermit
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190612x.png" alt="     @2r-   @21r-  a(  2  j2   z2) V = c@ q2 + b@q2 + 2  q -  2 - 2 " class="par-math-display"  /></center>
+<!--l. 342--><p class="nopar">
+</p><!--l. 346--><p class="noindent">und
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190613x.png" alt="        @ 1r u'= - 2c@-q,  v' =  0,   w' =  0 , " class="par-math-display"  /></center>
+<!--l. 354--><p class="nopar">
+</p><!--l. 358--><p class="noindent">so lassen sich die Konstanten <span 
+class="cmmi-10">a</span>, <span 
+class="cmmi-10">b</span>, <span 
+class="cmmi-10">c </span>so bestimmen, daß für <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /> </span>= <span 
+class="cmmi-10">P </span> <br/><span 
+class="cmmi-10">u </span>= <span 
+class="cmmi-10">v </span>= <span 
+class="cmmi-10">w </span>= 0 ist. Durch Superposition dreier derartiger Lösungen erhält <br/>man die in den Gleichungen (5) und (5a) angegebene Lösung. <pb/>
+</p><!--l. 366--><p class="indent">
+
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-6r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190614x.png" alt="             {                          }         5   3   @2(1r)     @2(1r)-    @2(1r)    p = - 3 kP  A @ q2 + B @ j2 +  C @ z2  + konst.,             5  3  -q   @D- { u = A q - 3 P A r3-  @q ,   v = B j - 53 P 3 B jr3-- @@Dj-,             5  3   z-  @D-   w = C z - 3 P C  r3 - @z , " class="math-display"  /></center></td><td width="5%">(5)</td></tr></table>
+<!--l. 391--><p class="nopar">
+</p><!--l. 395--><p class="noindent">wobei
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-7r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190615x.png" alt="         {                    }    D = A  5 P3 @2r2 + 1 P5@2(1r2)          {6   @ q    6    @ q } {    + B  5 P3-@2r2 + 1 P5@2(1r2)          {6   @ j    6    @ j }      + C   5P3 @2r2-+  1P 5@2(1r)2- .            6   @ z    6   @ z " class="math-display"  /></center></td><td width="5%">(5a)</td></tr></table>
+<!--l. 415--><p class="nopar">
+</p><!--l. 418--><p class="noindent">Es ist leicht zu beweisen, daß die Gleichungen (5) Lösungen <br/>der Gleichungen (4) sind. Denn da
+</p>
+
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190616x.png" alt="            1             2 D q = 0,  D r = 0,  D r = r " class="par-math-display"  /></center>
+<!--l. 428--><p class="nopar">
+</p><!--l. 432--><p class="noindent">und
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190617x.png" alt="  (   )       {   (  )} D   q-  = --@- D   1    = 0,     r3     @q      r " class="par-math-display"  /></center>
+<!--l. 441--><p class="nopar">
+</p><!--l. 445--><p class="noindent">erhält man
+</p><!--l. 448--><p class="indent">   <span 
+class="cmmi-10">k </span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmr10-1.png" alt="D" class="10x-x-1" /><span 
+class="cmmi-10">u </span>= <span 
+class="cmsy-10">-</span><span 
+class="cmmi-10">k</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190618x.png" alt="@@q"  class="frac" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190619x.png" alt=" {D D}"  class="left" align="middle" /> = <span 
+class="cmsy-10">-</span><span 
+class="cmmi-10">k</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190620x.png" alt="@@q"  class="frac" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190621x.png" alt="{       21          21     }   53 P3A @@qr2 + 53 P3B @@jr2 + ..."  class="left" align="middle" /><span 
+class="cmmi-10">.</span>
+</p><!--l. 457--><p class="noindent">Der zuletzt erhaltene Ausdruck ist aber nach der ersten der <br/>Gleichungen (5) mit
+<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-40.png" alt="@" class="10x-x-40" /> n</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190622x.png" alt="/"  class="left" align="middle" /><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-40.png" alt="@" class="10x-x-40" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-18.png" alt="q" class="cmmi-10x-x-18" align="middle" /></span> identisch. Auf gleiche Weise zeigt <br/>man, daß die zweite und dritte der Gleichungen (4) erfüllt ist. <br/>Ferner erhält man
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190623x.png" alt="@u-+  @-v +  @w- =  (A  + B  +  C) @q    @ j    @q " class="par-math-display"  /></center>
+<!--l. 472--><p class="nopar">
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190624x.png" alt="   5   {  @2(1r)     @2(1r)      @2(1r)} +  3 P3 A -@q2- + B -@j2- +  C -@z2-- - D D. " class="par-math-display"  /></center>
+<!--l. 485--><p class="nopar"> <pb/>
+</p><!--l. 492--><p class="indent">
+
+</p><!--l. 493--><p class="noindent">Da aber nach Gleichung (5a)
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190625x.png" alt="             {   21        2 1       2 1 } D D =  53 A P3 A @(@rq2)- + B @@(jr2) +  C@@(zr2)  , " class="par-math-display"  /></center>
+<!--l. 504--><p class="nopar">
+</p><!--l. 508--><p class="noindent">so folgt, daß auch die letzte der Gleichungen (4) erfüllt ist. <br/>Was die Grenzbedingungen betrifft, so gehen zunächst für <br/>unendlich große <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /> </span>unsere Gleichungen für <span 
+class="cmmi-10">u</span>, <span 
+class="cmmi-10">v</span>, <span 
+class="cmmi-10">w </span>in die
+ <br/>Gleichungen (1) über. Durch Einsetzen des Wertes von <span 
+class="cmmi-10">D </span>aus <br/>Gleichung (5a) in die zweite der Gleichungen (5) erhält man:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-8r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190626x.png" alt="             5P3  (   2      2      2) {   u = A q - 2r5 q A q + B j  + C z             5 P5  (  2       2      2)  P5            +2 r7 q Aq  +  B j +  C z  - r5 A q . " class="math-display"  /></center></td><td width="5%">(6)</td></tr></table>
+<!--l. 530--><p class="nopar">
+</p><!--l. 533--><p class="noindent">Man erkennt, daß <span 
+class="cmmi-10">u </span>für <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /> </span>= <span 
+class="cmmi-10">P </span>verschwindet. Gleiches gilt <br/>aus Symmetriegründen für
+<span 
+class="cmmi-10">v </span>und <span 
+class="cmmi-10">w</span>. Es ist nun bewiesen, <br/>daß durch die Gleichungen (5) sowohl den Gleichungen (4) als <br/>auch den Grenzbedingungen der Aufgabe Genüge geleistet ist.
+</p><!--l. 540--><p class="indent">   Es läßt sich auch beweisen, daß die Gleichungen (5) die <br/>einzige mit den Grenzbedingungen der Aufgabe verträgliche <br/>Lösung der Gleichungen (4) sind. Der Beweis soll hier nur <br/>angedeutet werden. Es mögen in einem endlichen Raume die
+ <br/>Geschwindigkeitskomponenten <span 
+class="cmmi-10">u</span>, <span 
+class="cmmi-10">v</span>, <span 
+class="cmmi-10">w </span>einer Flüssigkeit den <br/>Gleichungen (4) genügen. Existierte noch eine andere Lösung <br/><span 
+class="cmmi-10">U</span>, <span 
+class="cmmi-10">V </span>, <span 
+class="cmmi-10">W </span>der Gleichungen (4), bei welcher an den Grenzen des <br/>betrachteten Raumes <span 
+class="cmmi-10">U </span>= <span 
+class="cmmi-10">u,  V </span>= <span 
+class="cmmi-10">v,  W </span>= <span 
+class="cmmi-10">w </span>ist, so ist (<span 
+class="cmmi-10">U</span>
+-- <span 
+class="cmmi-10">u</span>, <br/><span 
+class="cmmi-10">V </span>-- <span 
+class="cmmi-10">v</span>, <span 
+class="cmmi-10">W </span>-- <span 
+class="cmmi-10">w</span>) eine Lösung der Gleichungen (4), bei welcher <br/>die Geschwindigkeitskomponenten an der Grenze des Raumes <br/>verschwinden. Der in dem betrachteten Raume befindlichen <br/>Flüssigkeit wird also keine mechanische Arbeit zugeführt. Da <br/>wir die lebendige Kraft der Flüssigkeit vernachlässigt haben, <br/>so folgt daraus, daß auch die im betrachteten Raume in Wärme <br/>verwandelte Arbeit gleich Null ist. Hieraus folgert man, daß <br/>im ganzen Raume <span 
+class="cmmi-10">u </span>= <span 
+class="cmmi-10">u</span><sub ><span 
+class="cmr-7">1</span></sub><span 
+class="cmmi-10">,  v </span>= <span 
+class="cmmi-10">v</span><sub ><span 
+class="cmr-7">1</span></sub>  <span 
+class="cmmi-10">w </span>= <span 
+class="cmmi-10">w</span><sub ><span 
+class="cmr-7">1</span></sub> sein muß, falls der <br/>Raum wenigstens zum Teil durch ruhende Wände begrenzt <br/>ist. Durch Grenzübergang kann dies Resultat auch auf den <br/>Fall ausgedehnt werden, daß, wie in 
+dem oben betrachteten <br/>Falle, der betrachtete Raum unendlich ist. Man kann so
+ <br/>dartun, daß die oben gefundene Lösung die einzige Lösung <br/>der Aufgabe ist.
+<pb/>
+</p><!--l. 570--><p class="indent">
+
+</p><!--l. 571--><p class="indent">   Wir legen nun um den Punkt <span 
+class="cmmi-10">x</span><sub ><span 
+class="cmr-7">0</span></sub>, <span 
+class="cmmi-10">y</span><sub ><span 
+class="cmr-7">0</span></sub>, <span 
+class="cmmi-10">z</span><sub ><span 
+class="cmr-7">0</span></sub> eine Kugel vom <br/>Radius <span 
+class="cmmi-10">R</span>, wobei <span 
+class="cmmi-10">R </span>gegen
+<span 
+class="cmmi-10">P </span>unendlich groß sei, und berechnen <br/>die Energie, welche in der innerhalb der Kugel befindlichen <br/>Flüssigkeit (in der Zeiteinheit) in Wärme verwandelt wird. <br/>Diese Energie
+<span 
+class="cmmi-10">W </span>ist gleich der der Flüssigkeit mechanisch <br/>zugeführten Arbeit. Bezeichnet man die Komponenten des <br/>auf die Oberfläche der Kugel vom Radius <span 
+class="cmmi-10">R </span>ausgeübten <br/>Druckes mit <span 
+class="cmmi-10">X</span><sub ><span 
+class="cmmi-7">n</span></sub>, <span 
+class="cmmi-10">Y</span> <sub ><span 
+class="cmmi-7">n</span></sub>, <span 
+class="cmmi-10">Z</span><sub ><span 
+class="cmmi-7">n</span></sub>, so ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190627x.png" alt="      integral 
+W  =   (Xn u + Ynv + Zn w)ds , " class="par-math-display"  /></center>
+<!--l. 586--><p class="nopar">
+</p><!--l. 590--><p class="noindent">wobei das Integral über die Oberfläche der Kugel vom Radius <span 
+class="cmmi-10">R </span> <br/>zu erstrecken ist. Hierbei ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190628x.png" alt="        (   q       j      z) Xn  = -  Xq - + Xj  --+ Xz -  ,         (   r       r      r) Yn  = -  Yq q +  Yj j-+  Yz z  ,         (   r       r      r)             q       j-     z Zn  = -  Zq r +  Zj r + Zz r   , " class="par-math-display"  /></center>
+<!--l. 608--><p class="nopar">
+</p><!--l. 612--><p class="noindent">wobei
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190629x.png" alt="           @u                    (@ v   @w ) Xq  = p- 2k@-q,     Yz = Zj = - k @-z + @j-  ,                                 (          ) Yj = p -2k @v,     Zq = Xz = - k  @w- + @u-  ,            @j                    (@ q   @ z)            @w-                    @-u   @-v Zz = p - 2k@z ,     Xj = Yq = - k @ j + @ q  . " class="par-math-display"  /></center>
+<!--l. 635--><p class="nopar">
+</p><!--l. 638--><p class="noindent">Die Ausdrücke für <span 
+class="cmmi-10">u</span>, <span 
+class="cmmi-10">v</span>, <span 
+class="cmmi-10">w </span>vereinfachen sich, wenn wir be-<br/>achten, daß für <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /> </span>= <span 
+class="cmmi-10">R </span>die Glieder mit dem Faktor <span 
+class="cmmi-10">P</span><sup ><span 
+class="cmr-7">5</span></sup><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190630x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /></span><sup ><span 
+class="cmr-7">5</span></sup> <br/>gegenüber denen mit dem Faktor <span 
+class="cmmi-10">P</span><sup ><span 
+class="cmr-7">3</span></sup><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190631x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /></span><sup ><span 
+class="cmr-7">3</span></sup>
+verschwinden. Wir <br/>haben zu setzen:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-9r7"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190632x.png" alt="            5  3q(Aq2+B-j2+C-z2)    u = A q - 2 P      r5      , {  v = B j - 5P3j-(A-q2+B5j2+C-z2),              2      2  r 2   2   w = C z -  52 P3z-(A-q+Br5j+C-z-). " class="math-display"  /></center></td><td width="5%">(6a)</td></tr></table>
+<!--l. 658--><p class="nopar">
+</p><!--l. 661--><p class="noindent">Für <span 
+class="cmmi-10">p </span>erhalten wir aus der ersten der Gleichungen (5) durch <br/>die entsprechenden Vernachlässigungen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190633x.png" alt="             2     2     2 p = - 5kP 3 A-q-+-B-j-+-C-z + konst.                  r5 " class="par-math-display"  /></center>
+<!--l. 670--><p class="nopar"> <pb/>
+</p><!--l. 678--><p class="indent">
+
+</p><!--l. 679--><p class="noindent">Wir erhalten zunächst:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190634x.png" alt="                    A q2          q2(A q2 + B j2 + C z2) Xq = - 2kA +  10kP 3-r5- - 25k P 3---------r7----------,                                  2(   2     2      2) Xj =       +10 kp3A-qj -  25kp3 j--A-q-+-B-j--+-C-z--,                    r5             (      r7         )                  3A-qz        3 z2-A-q2-+-B-j2-+-C-z2- Xz =       +10 kp  r5  - 25 kp           r7          , " class="par-math-display"  /></center>
+<!--l. 697--><p class="nopar">
+</p><!--l. 701--><p class="noindent">und hieraus</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190635x.png" alt="                                (                 )          q        3 q2       3 q A q2 + B j2 + C z2 Xn = 2Ak r - 10k p r4-+  25kp  ---------r6---------. " class="par-math-display"  /></center>
+<!--l. 708--><p class="nopar">
+</p><!--l. 711--><p class="noindent">Mit Hilfe der durch zyklische Vertauschung abzuleitenden Aus-<br/>drücke für <span 
+class="cmmi-10">Y</span> <sub ><span 
+class="cmmi-7">n</span></sub> und <span 
+class="cmmi-10">Z</span><sub ><span 
+class="cmmi-7">n</span></sub>
+erhält man unter Vernachlässigung aller <br/>Glieder, die das Verhältnis <span 
+class="cmmi-10">P</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190636x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /> </span>in einer höheren als der dritten <br/>Potenz enthalten:
+</p><!--l. 719--><p class="indent">   </p><center class="gathered"><table class="gathered" 
+border="0" cellpadding="0" cellspacing="15"><tr><td><span 
+class="cmmi-10">X</span><sub ><span 
+class="cmmi-7">n</span></sub> <span 
+class="cmmi-10">u </span>+ <span 
+class="cmmi-10">Y</span> <sub ><span 
+class="cmmi-7">n</span></sub> <span 
+class="cmmi-10">v </span>+ <span 
+class="cmmi-10">Z</span><sub ><span 
+class="cmmi-7">n</span></sub> <span 
+class="cmmi-10">w </span>+ <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190637x.png" alt="2k- r"  class="frac" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190638x.png" alt="(A2q2 + B2j2 + C2z2)"  class="left" align="middle" />
+            <span 
+class="cmsy-10">-</span>10<span 
+class="cmmi-10">k</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190639x.png" alt="P-3  r4"  class="frac" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190640x.png" alt="(  22       )  A  q + .+  ."  class="left" align="middle" /> + 20<span 
+class="cmmi-10">k</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190641x.png" alt="P-3 r6"  class="frac" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190642x.png" alt="(  2       )  Aq  + .+  ."  class="left" align="middle" /><sup ><span 
+class="cmr-7">2</span></sup><span 
+class="cmmi-10">.</span>      </td></tr></table></center>
+   Integriert man über die Kugel und berücksichtigt, daß    <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190643x.png" alt="  integral 
+   ds = 4R2p,   integral         integral        integral 
+    2        2       2     4   4    q ds =   j ds =  z d s = 3 pR ,   integral  4      integral  4     integral   4    4   6    q ds =   j ds =   zd s = 5 pR ,  integral           integral           integral 
+   j2z2d s =  z2q2ds =   q2j2d s = 416 pR6,  integral  (                )           (             )    Aq2 + B j2 + C z22d s = 416-pR6 A2 +  B2 + C2 , " class="par-math-display"  /></center>
+<!--l. 753--><p class="nopar">
+</p><!--l. 757--><p class="noindent">so erhält man:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-10r7"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190644x.png" alt="W  = 83 pR3 kd2 - 83 pP 3kd2 = 2d2 k(V - P) , " class="math-display"  /></center></td><td width="5%">(7)</td></tr></table>
+<!--l. 766--><p class="nopar">
+</p><!--l. 770--><p class="noindent">wobei</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190645x.png" alt="d = A2 + B2 + C2,     4 pR3 =  V     3 " class="par-math-display"  /></center>
+<!--l. 778--><p class="nopar">
+</p><!--l. 782--><p class="noindent">und</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190646x.png" alt="43 p P 3 = P " class="par-math-display"  /></center>
+<!--l. 787--><p class="nopar">
+</p><!--l. 791--><p class="noindent">gesetzt ist. Wäre die suspendierte Kugel nicht vorhanden <br/><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190647x.png" alt="(P  = 0)"  class="left" align="middle" />, so erhielte man für die im Volumen <span 
+class="cmmi-10">V </span>verzehrte <br/>Energie
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-11r8"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190648x.png" alt="W0  = 2d2k V . " class="math-display"  /></center></td><td width="5%">(7a)</td></tr></table>
+<!--l. 798--><p class="nopar">
+<pb/>
+</p><!--l. 805--><p class="indent">
+
+</p><!--l. 806--><p class="noindent">Durch das Vorhandensein der Kugel wird also die verzehrte <br/>Energie um 2<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-e.png" alt="d" class="10x-x-e" /></span><sup ><span 
+class="cmr-7">2</span></sup> <span 
+class="cmmi-10">k </span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmr10-8.png" alt="P" class="10x-x-8" />
+verkleinert. Es ist bemerkenswert, daß <br/>der Einfluß der suspendierten Kugel auf die Größe der ver-<br/>zehrten Energie gerade so groß ist, wie er wäre, wenn durch <br/>die Anwesenheit der Kugel die Bewegung der sie umgebenden <br/>Flüssigkeit gar nicht modifiziert würde.
+</p>
+<div class="center" >
+
+<!--l. 815--><p class="noindent">
+</p><!--l. 816--><p class="noindent"><span 
+class="cmsy-10">§ </span>2. Berechnung des Reibungskoeffizienten einer Flüssigkeit, in <br/>welcher sehr viele kleine Kugeln in regelloser Verteilung sus-<br/>pendiert sind.</p></div>
+<!--l. 821--><p class="indent">   Wir haben im vorstehenden den Fall betrachtet, daß in <br/>einem Gebiete <span 
+class="cmmi-10">G </span>von der oben definierten Größenordnung eine <br/>relativ zu diesem Gebiete sehr kleine Kugel suspendiert ist <br/>und untersucht, wie dieselbe die Flüssigkeitsbewegung beein-<br/>flußt. Wir wollen nun annehmen, daß in dem Gebiete <span 
+class="cmmi-10">G </span> <br/>unendlich viele Kugeln von gleichem, und zwar so kleinem <br/>Radius regellos verteilt sind, daß das Volumen aller Kugeln <br/>zusammen sehr klein sei gegen das Gebiet <span 
+class="cmmi-10">G</span>. Die Zahl der <br/>auf die Volumeneinheit entfallenden Kugeln sei <span 
+class="cmmi-10">n</span>, wobei <span 
+class="cmmi-10">n </span> <br/>allenthalben in der Flüssigkeit bis auf Vernachlässigbares kon-<br/>stant sei.
+</p><!--l. 835--><p class="indent">   Wir gehen nun wieder aus von einer Bewegung einer <br/>homogenen Flüssigkeit ohne suspendierte Kugeln und betrachten <br/>wieder die allgemeinste Dilatationsbewegung. Sind keine <br/>Kugeln vorhanden, so können wir bei passender Wahl des <br/>Koordinatensystems die Geschwindigkeitskomponenten <span 
+class="cmmi-10">u</span><sub ><span 
+class="cmr-7">0</span></sub>, <span 
+class="cmmi-10">v</span><sub ><span 
+class="cmr-7">0</span></sub>, <span 
+class="cmmi-10">w</span><sub ><span 
+class="cmr-7">0</span></sub> <br/>in dem beliebigen Punkte <span 
+class="cmmi-10">x</span>, <span 
+class="cmmi-10">y</span>, <span 
+class="cmmi-10">z </span>des Gebietes <span 
+class="cmmi-10">G </span>darstellen <br/>durch die Gleichungen:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190649x.png" alt="u0 =  A x, v0 =  B y, w0 =  C z, " class="par-math-display"  /></center>
+<!--l. 851--><p class="nopar">
+</p><!--l. 855--><p class="noindent">wobei
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190650x.png" alt="A  + B  + C  =  0. " class="par-math-display"  /></center>
+<!--l. 862--><p class="nopar">
+</p><!--l. 865--><p class="noindent">Eine im Punkte <span 
+class="cmmi-10">x</span><sub ><span 
+class="cmmi-7">v</span></sub>, <span 
+class="cmmi-10">y</span><sub ><span 
+class="cmmi-7">v</span></sub>, <span 
+class="cmmi-10">z</span><sub ><span 
+class="cmmi-7">v</span></sub> suspendierte Kugel beeinflußt nun <br/>diese Bewegung in der aus Gleichung (6) ersichtlichen Weise. <br/>Da wir den mittleren Abstand benachbarter Kugeln als sehr <br/>groß gegen deren Radius wählen, und folglich die von allen
+ <br/><pb/>
+</p><!--l. 875--><p class="indent">
+
+</p><!--l. 876--><p class="noindent">suspendierten Kugeln zusammen herrührenden zusätzlichen <br/>Geschwindigkeitskomponenten gegen <span 
+class="cmmi-10">u</span><sub ><span 
+class="cmr-7">0</span></sub>, <span 
+class="cmmi-10">v</span><sub ><span 
+class="cmr-7">0</span></sub>, <span 
+class="cmmi-10">w</span><sub ><span 
+class="cmr-7">0</span></sub> sehr klein sind, <br/>so erhalten wir für die Geschwindigkeitskomponenten <span 
+class="cmmi-10">u</span>,
+<span 
+class="cmmi-10">v</span>, <span 
+class="cmmi-10">w </span> <br/>in der Flüssigkeit unter Berücksichtigung der suspendierten <br/>Kugeln und unter Vernachlässigung von Gliedern höherer Ord-<br/>nungen:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-12r8"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190651x.png" alt="             sum  { 5P-3qv(A-q2v+-Bj2v+-Cz2v)   u =  Ax -      2 r2v        r3v                       5q Aq2+ Bj2+C z2     5   }                  - 52Pr4v v(--v--r3v-v----v)-+ Pr4v Aqrvv  , 
+
+             sum  { 5 P3jv(Aq2v+B-j2v-+Cz2v)   lv = By -      2 r2v       r3v {                     5j A q2+ Bj2+C z2     5   }                  - 52Pr4v -v(--v--r3v-v----v)-+  Pr4v Bjrvv , 
+
+             sum  { 5P-3zv(A-q2v+-Bj2v+-Cz2v)   w  = Cz -      2 r2v        r3v                      5 z Aq2+ Bj2+C z2     5   }                  - 52Pr4v v(--v--r3v-v---v)-+ Pr4v Czrvv  , " class="math-display"  /></center></td><td width="5%">(8)</td></tr></table>
+<!--l. 921--><p class="nopar">
+</p><!--l. 924--><p class="noindent">wobei die Summation über alle Kugeln des Gebietes <span 
+class="cmmi-10">G </span>zu <br/>erstrecken ist und
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190652x.png" alt="qv = x - xv,                     V~ -2----2----2 jv = y - yv,  rv =   qv + jv + zv , zv = z - zv, " class="par-math-display"  /></center>
+<!--l. 936--><p class="nopar">
+
+</p><!--l. 940--><p class="noindent">gesetzt ist. <span 
+class="cmmi-10">x</span><sub ><span 
+class="cmmi-7">v</span></sub>, <span 
+class="cmmi-10">y</span><sub ><span 
+class="cmmi-7">v</span></sub>, <span 
+class="cmmi-10">z</span><sub ><span 
+class="cmmi-7">v</span></sub> sind die Koordinaten der Kugelmittel-<br/>punkte. Aus den Gleichungen (7) und (7a) schließen wir ferner, <br/>daß die Anwesenheit jeder der Kugeln bis auf unendlich <br/>Kleines höherer Ordnung eine Verringerung der Wärme-<br/>produktion pro Zeiteinheit um 2<span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-e.png" alt="d" class="10x-x-e" /></span><sup ><span 
+class="cmr-7">2</span></sup> <span 
+class="cmmi-10">k </span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmr10-8.png" alt="P" class="10x-x-8" /> zum Gefolge hat und <br/>daß im Gebiete <span 
+class="cmmi-10">G </span>die pro Volumeneinheit in Wärme ver-<br/>wandelte Energie den Wert hat:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190653x.png" alt="       2         2 W  = 2d  k - 2n d kP , " class="par-math-display"  /></center>
+<!--l. 954--><p class="nopar">
+</p><!--l. 958--><p class="noindent">oder
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-13r9"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190654x.png" alt="W  = 2d2k (1 - f) , " class="math-display"  /></center></td><td width="5%">(7b)</td></tr></table>
+<!--l. 964--><p class="nopar">
+<pb/>
+</p><!--l. 971--><p class="indent">
+
+</p><!--l. 972--><p class="noindent">wobei <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10x-x-27" align="middle" /> </span>den von den Kugeln eingenommenen Bruchteil des <br/>Volumens bedeutet.
+</p><!--l. 975--><p class="indent">   Gleichung (7b) erweckt den Anschein, als ob der Reibungs-<br/>koeffizient der von uns betrachteten inhomogenen Mischung <br/>von Flüssigkeit und suspendierten Kugeln (im folgenden kurz <br/>,,Mischung&#8220; genannt) kleiner sei als der Reibungskoeffizient <span 
+class="cmmi-10">k </span> <br/>der Flüssigkeit. Dies ist jedoch nicht der Fall, da <span 
+class="cmmi-10">A</span>, <span 
+class="cmmi-10">B</span>, <span 
+class="cmmi-10">C </span> <br/>nicht die Werte der Hauptdilatationen der in Gleichungen (8) <br/>dargestellten Flüssigkeitsbewegung sind; wir wollen die Haupt-<br/>dilatationen der Mischung <span 
+class="cmmi-10">A</span><sup ><span 
+class="cmmi-7">x</span></sup>, <span 
+class="cmmi-10">B</span><sup ><span 
+class="cmmi-7">x</span></sup>, <span 
+class="cmmi-10">C</span><sup ><span 
+class="cmmi-7">x</span></sup> nennen. Aus Symmetrie-<br/>gründen folgt, daß die Hauptdilatationsrichtungen der Mischung <br/>den Richtungen der Hauptdilatationen <span 
+class="cmmi-10">A</span>, <span 
+class="cmmi-10">B</span>, <span 
+class="cmmi-10">C</span>, also den Ko-<br/>ordinatenrichtungen parallel sind. Schreiben wir die Glei-<br/>chungen (8) in der Form:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190655x.png" alt="u = A x +  sum  u , v = B y +  sum  vv, w = C z +  sum  wv,               v " class="par-math-display"  /></center>
+<!--l. 999--><p class="nopar">
+</p><!--l. 1003--><p class="noindent">so erhalten wir:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190656x.png" alt=" x    (@-u)            sum  (@-uv)            sum  (@-uv) A  =   @ x     = A  +      @x      =  A -      @x0     .            x=0                  x=0                  x=0 " class="par-math-display"  /></center>
+<!--l. 1013--><p class="nopar">
+</p><!--l. 1016--><p class="noindent">Schließen wir die unmittelbaren Umgebungen der einzelnen <br/>Kugeln von der Betrachtung aus, so können wir die zweiten <br/>und dritten Glieder der Ausdrücke von <span 
+class="cmmi-10">u</span>,
+<span 
+class="cmmi-10">v</span>, <span 
+class="cmmi-10">w </span>weglassen und <br/>erhalten für <span 
+class="cmmi-10">x </span>= <span 
+class="cmmi-10">y  </span>= <span 
+class="cmmi-10">z </span>= 0:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-14r9"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190657x.png" alt="            5 P3xv(Ax2v+B-y2v+C-z2v)      uv = - 2 r2v       r3v       , {           5P-3yv(A-x2v+B-yv2+Cz2v)      vv = - 2 r2v       r3v       ,      w  = - 5P-3zv(A-x2v+B-y2v+-Cz2v),       v     2 rv2       r3v 
+" class="math-display"  /></center></td><td width="5%">(9)</td></tr></table>
+<!--l. 1034--><p class="nopar">
+</p><!--l. 1038--><p class="noindent">wobei
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190658x.png" alt="       V~ -2---2----2 rv =   x v + yv + zv &gt; 0 " class="par-math-display"  /></center>
+<!--l. 1045--><p class="nopar">
+</p><!--l. 1049--><p class="noindent">gesetzt ist. Die Summierung erstrecken wir über das Volumen <br/>einer Kugel <span 
+class="cmmi-10">K </span>von sehr großem Radius <span 
+class="cmmi-10">R</span>, deren Mittelpunkt <br/>im Koordinatenursprung liegt. Betrachten wir ferner die <br/><pb/>
+</p><!--l. 1056--><p class="indent">
+
+</p><!--l. 1057--><p class="noindent"><span 
+class="cmti-10">regellos </span>verteilten Kugeln als <span 
+class="cmti-10">gleichm</span><span 
+class="cmti-10">ä</span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-c.png" alt="b" class="cmmi-10x-x-c" align="middle" /></span><span 
+class="cmti-10">ig </span>verteilt und setzen <br/>an Stelle der Summe ein Integral, so erhalten wir:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190659x.png" alt="             integral 
+              @uv- A* =  A - n   @xv dxv dyvdzv,            K integral 
+   =  A - n   uvxv-ds,                rv " class="par-math-display"  /></center>
+<!--l. 1071--><p class="nopar">
+</p><!--l. 1075--><p class="noindent">wobei das letzte Integral über die Oberfläche der Kugel <span 
+class="cmmi-10">K </span> <br/>zu erstrecken ist. Wir finden unter Berücksichtigung von (9):
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190660x.png" alt="                 integral 
+A* =  A - 5 P36-n  x20(A x20 + B y20 + Cz20)d s,           2 R(     )     = A - n  43 P 3p A = A (1 - f) . " class="par-math-display"  /></center>
+<!--l. 1088--><p class="nopar">
+</p><!--l. 1091--><p class="noindent">Analog ist
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190661x.png" alt="B* =  B (1 - f) , C* =  C (1 - f) . " class="par-math-display"  /></center>
+<!--l. 1101--><p class="nopar">
+</p><!--l. 1104--><p class="noindent">Setzen wir
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190662x.png" alt="d* = A*2 + B*2 + C*2, " class="par-math-display"  /></center>
+<!--l. 1111--><p class="nopar">
+</p><!--l. 1115--><p class="noindent">so ist bis auf unendlich Kleines höherer Ordnung:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190663x.png" alt="d*2 = d2(1 - 2f). " class="par-math-display"  /></center>
+<!--l. 1122--><p class="nopar">
+</p><!--l. 1125--><p class="noindent">Wir haben für die Wärmeentwickelung pro Zeit- und Volumen-<br/>einheit gefunden: 
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190664x.png" alt="W * = 2d2k(1 - f). " class="par-math-display"  /></center>
+<!--l. 1133--><p class="nopar">
+</p><!--l. 1136--><p class="noindent">Bezeichnen wir mit <span 
+class="cmmi-10">k</span><sup ><sup ><span 
+class="cmsy-5">*</span></sup>
+ </sup> den Reibungskoeffizienten des Gemisches, <br/>so ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190665x.png" alt="W * = 2 d*2 k*. " class="par-math-display"  /></center>
+<!--l. 1143--><p class="nopar">
+</p><!--l. 1146--><p class="noindent">Aus den drei letzten Gleichungen erhält man unter Vernach-<br/>lässigung von unendlich Kleinem höherer Ordnung:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190666x.png" alt="k* = k(1 + f). " class="par-math-display"  /></center>
+<!--l. 1155--><p class="nopar">
+</p><!--l. 1158--><p class="noindent">Wir erhalten also das Resultat:
+</p><!--l. 1161--><p class="indent">   Werden in einer Flüssigkeit sehr kleine starre Kugeln <br/>suspendiert, so wächst dadurch der Koeffizient der inneren <br/>Reibung um einen Bruchteil, der gleich ist dem Gesamt-<br/><pb/>
+</p><!--l. 1168--><p class="indent">
+
+</p><!--l. 1169--><p class="noindent">volumen der in der Volumeneinheit suspendierten Kugeln, <br/>vorausgesetzt, daß dieses Gesamtvolumen sehr klein ist.
+</p>
+<div class="center" >
+
+<!--l. 1173--><p class="noindent">
+</p><!--l. 1174--><p class="noindent"><span 
+class="cmsy-10">§ </span>3. Über das Volumen einer gelösten Substanz von im Vergleich <br/>zum Lösungsmittel großem Molekularvolumen.</p></div>
+<!--l. 1179--><p class="indent">   Es liege eine verdünnte Lösung vor eines Stoffes, welcher <br/>in der Lösung nicht dissoziiert. Ein Molekül des gelösten <br/>Stoffes sei groß gegenüber einem Molekül des Lösungsmittels <br/>und werde als starre Kugel vom Radius <span 
+class="cmmi-10">P </span>aufgefaßt. Wir
+ <br/>können dann das in <span 
+class="cmsy-10">§ </span>2 gewonnene Resultat anwenden. Be-<br/>deutet <span 
+class="cmmi-10">k</span><sup ><sup ><span 
+class="cmsy-5">*</span></sup>
+ </sup> den Reibungskoeffizienten der Lösung, <span 
+class="cmmi-10">k </span>denjenigen <br/>des reinen Lösungsmittels, so ist:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190667x.png" alt="k*-  k =  1 + f, " class="par-math-display"  /></center>
+<!--l. 1193--><p class="nopar">
+</p><!--l. 1197--><p class="noindent">wobei <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10x-x-27" align="middle" /> </span>das Gesamtvolumen der in Lösung befindlichen Mole-<br/>küle pro Volumeinheit ist.
+</p><!--l. 1201--><p class="indent">   Wir wollen <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10x-x-27" align="middle" /> </span>für eine 1 proz. wässerige Zuckerlösung be-<br/>rechnen. Nach Beobachtungen von Burkhard (Tabellen von <br/>Landolt und Börnstein) ist bei einer 1proz. wässerigen <br/>Zuckerlösung <span 
+class="cmmi-10">k</span><sup ><span 
+class="cmsy-7">*</span></sup><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190668x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-10">k </span>= 1<span 
+class="cmmi-10">,</span>0245 (bei 20<sup ><span 
+class="cmr-7">0</span></sup> C.), also <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10x-x-27" align="middle" /> </span>= 0<span 
+class="cmmi-10">,</span>0245 für
+ <br/>(beinahe genau) 0,01 g Zucker. Ein Gramm in Wasser gelöster <br/>Zucker hat also auf den Reibungskoeffizienten denselben Einfluß <br/>wie kleine suspendierte starre Kugeln vom Gesamtvolumen <br/>2,45 cm<sup ><span 
+class="cmr-7">3</span></sup>.
+</p><!--l. 1213--><p class="indent">   Es ist nun daran zu erinnern, daß 1 g festen Zuckers <br/>das Volumen 0,61 cm<sup ><span 
+class="cmr-7">3</span></sup>
+besitzt. Dasselbe Volumen findet man <br/>auch für das spezifische Volumen <span 
+class="cmmi-10">s </span>des in Lösung befindlichen <br/>Zuckers, wenn man die Zuckerlösung als eine <span 
+class="cmti-10">Mischung </span>von
+ <br/>Wasser und Zucker in gelöster Form auffaßt. Die Dichte <br/>einer 1 proz. wässerigen Zuckerlösung (bezogen auf Wasser von <br/>derselben Temperatur) bei 17<span 
+class="cmmi-10">,</span>5<sup ><span 
+class="cmr-7">0</span></sup> ist nämlich 1,00388. Man hat <br/>also (unter Vernachlässigung des Dichteunterschiedes von <br/>Wasser von 4<sup ><span 
+class="cmr-7">0</span></sup> und Wasser von 17<span 
+class="cmmi-10">,</span>5<sup ><span 
+class="cmr-7">0</span></sup>:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190669x.png" alt="--1----=  0,99 + 0,01s; 1,00388 " class="par-math-display"  /></center>
+<!--l. 1229--><p class="nopar">
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190670x.png" alt="also                        s = 0,61. 
+" class="par-math-display"  /></center>
+<!--l. 1240--><p class="nopar">
+</p><!--l. 1244--><p class="indent">   Während also die Zuckerlösung, was ihre Dichte anbelangt, <br/>sich wie eine Mischung von Wasser und festem Zucker ver-<br/><pb/>
+</p><!--l. 1250--><p class="indent">
+
+</p><!--l. 1251--><p class="noindent">hält, ist der Einfluß auf die innere Reibung viermal größer, <br/>als er aus der Suspendierung der gleichen Zuckermenge re-<br/>sultieren würde. Es scheint mir dies Resultat im Sinne der <br/>Molekulartheorie kaum anders gedeutet werden zu können, als
+ <br/>indem man annimmt, daß das in Lösung befindliche Zucker-<br/>molekül die Beweglichkeit des unmittelbar angrenzenden <br/>Wassers hemme, so daß ein Quantum Wasser, dessen Volumen <br/>ungefähr das Dreifache des Volums des Zuckermoleküls ist,
+ <br/>an das Zuckermolekül gekettet ist.
+</p><!--l. 1263--><p class="indent">   Wir können also sagen, daß ein gelöstes Zuckermolekül <br/>(bez. das Molekül samt dem durch dasselbe festgehaltene <br/>Wasser) in hydrodynamischer Beziehung sich verhält wie eine <br/>Kugel vom Volumen 2,45.342/<span 
+class="cmmi-10">N </span>cm<sup ><span 
+class="cmr-7">3</span></sup>, wobei 342 das Molekular-<br/>gewicht des Zuckers und <span 
+class="cmmi-10">N </span>die Anzahl der wirklichen Mole-<br/>küle in einem Grammolekül ist.
+</p>
+<div class="center" >
+
+<!--l. 1271--><p class="noindent">
+</p><!--l. 1272--><p class="noindent"><span 
+class="cmsy-10">§ </span>4. Über die Diffusion eines nicht dissoziierten Stoffes in <br/>flüssiger Lösung.</p></div>
+<!--l. 1276--><p class="indent">   Es liege eine Lösung vor, wie sie in <span 
+class="cmsy-10">§ </span>3 betrachtet wurde. <br/>Wirkt auf das Molekül, welches wir als eine Kugel vom Radius <span 
+class="cmmi-10">P </span> <br/>betrachten, eine Kraft <span 
+class="cmmi-10">K</span>, so bewegt sich das Molekül mit einer <br/>Geschwindigkeit <span 
+class="cmmi-10">w</span>, welche durch <span 
+class="cmmi-10">P </span>und den Reibungskoeffi-<br/>zienten <span 
+class="cmmi-10">k </span>des Lösungsmittels bestimmt ist. Es besteht nämlich <br/>die Gleichung<sup ><span 
+class="cmr-7">1</span></sup>):
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-15r10"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190671x.png" alt="       K w =  6pk-P-. " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 1287--><p class="nopar">
+</p><!--l. 1291--><p class="indent">   Diese Beziehung benutzen wir zur Berechnung des Diffu-<br/>sionskoeffizienten einer nicht dissoziierten Lösung. Bedeutet <span 
+class="cmmi-10">p </span> <br/>den osmotischen Druck der gelösten Substanz, welcher bei der <br/>betrachteten verdünnten Lösung als die einzige bewegende <br/>Kraft anzusehen sei, so ist die auf die gelöste Substanz pro <br/>Volumeneinheit der Lösung in Richtung der <span 
+class="cmmi-10">X</span>-Achse ausgeübte <br/>Kraft = <span 
+class="cmsy-10">-</span><span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-40.png" alt="@" class="10x-x-40" />p</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190672x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-40.png" alt="@" class="10x-x-40" /> x</span>. Befinden sich <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /></span>; Gramm in der Volumen-<br/>einheit und ist <span 
+class="cmmi-10">m </span>das Molekulargewicht des gelösten Stoffes, <br/><span 
+class="cmmi-10">N </span>die Anzahl wirklicher Moleküle in einem 
+Grammolekül, so <br/>ist <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190673x.png" alt="(r/m)"  class="left" align="middle" />   <span 
+class="cmmi-10">N </span>die Anzahl der (wirklichen) Moleküle in der Vo-<br/>----------
+</p><!--l. 1309--><p class="indent">   1) G. Kirchhoff, Vorlesungen über Mechanik. 26. Vorl., Gl. (22). <pb/>
+</p><!--l. 1315--><p class="indent">
+
+</p><!--l. 1316--><p class="noindent">lumeneinheit und die auf ein Molekül infolge des Konzentrations-<br/>gefälles wirkende Kraft:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-16r10"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190674x.png" alt="       -m--@-p K  = - r N @ x . " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 1323--><p class="nopar">
+</p><!--l. 1326--><p class="noindent">Ist die Lösung genügend verdünnt, so ist der osmotische <br/>Druck durch die Gleichung gegeben:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-17r10"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190675x.png" alt="    R p = --r T,     m " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 1333--><p class="nopar">
+</p><!--l. 1337--><p class="noindent">wobei <span 
+class="cmmi-10">T </span>die absolute Temperatur und <span 
+class="cmmi-10">R </span>= 8<span 
+class="cmmi-10">,</span>31<span 
+class="cmmi-10">.</span>10<sup ><span 
+class="cmr-7">7</span></sup> ist. Aus <br/>den Gleichungen (1), (2) und (3) erhalten wir für die Ge-<br/>schwindigkeit der Wanderung der gelösten Substanz:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190676x.png" alt="       R-T- -1--1 @r- w  = - 6p k N P r @x . " class="par-math-display"  /></center>
+
+<!--l. 1348--><p class="nopar">
+</p><!--l. 1352--><p class="indent">   Die pro Zeiteinheit durch die Einheit des Querschnittes <br/>in Richtung der <span 
+class="cmmi-10">X </span>- Achse hindurchtretende Stoffmenge ist <br/>endlich:
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-18r10"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190677x.png" alt="       -R-T   -1--@r- wr = - 6 pk . N P @x . " class="math-display"  /></center></td><td width="5%">(4)</td></tr></table>
+<!--l. 1360--><p class="nopar">
+</p><!--l. 1363--><p class="noindent">Wir erhalten also für den Diffusionskoeffizienten <span 
+class="cmmi-10">D</span>:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190678x.png" alt="D =  R-T-. -1--.      6pk   N P " class="par-math-display"  /></center>
+<!--l. 1371--><p class="nopar">
+</p><!--l. 1374--><p class="noindent">Man kann also aus dem Diffusionskoeffizienten und dem <br/>Koeffizienten der inneren Reibung des Lösungsmittels das Pro-<br/>dukt aus der Anzahl <span 
+class="cmmi-10">N </span>der wirklichen Moleküle in einem <br/>Grammolekül und dem hydrodynamisch wirksamen Molekular-<br/>radius <span 
+class="cmmi-10">P</span>
+berechnen.
+</p><!--l. 1382--><p class="indent">   In dieser Ableitung ist der osmotische Druck wie eine <br/>auf die einzelnen Moleküle wirkende Kraft behandelt worden, <br/>was offenbar der Auffassung der kinetischen Molekulartheorie <br/>nicht entspricht, da gemäß letzterer in dem vorliegenden Falle <br/>der osmotische Druck nur als eine scheinbare Kraft aufzu-<br/>fassen ist. Diese Schwierigkeit verschwindet jedoch, wenn man <br/>bedenkt, daß den (scheinbaren) osmotischen Kräften, welche <br/>den Konzentrationsverschiedenheiten der Lösung entsprechen, <br/>durch ihnen numerisch gleiche, entgegengesetzt gerichtete, auf <br/>die einzelnen Moleküle wirkende Kräfte das (dynamische) Gleich-<br/><pb/>
+</p><!--l. 1397--><p class="indent">
+
+</p><!--l. 1398--><p class="noindent">gewicht geleistet werden kann, wie auf thermodynamischem <br/>Wege leicht eingesehen werden kann.
+</p><!--l. 1401--><p class="indent">   Der auf die Masseneinheit wirkenden osmotischen Kraft <br/><span 
+class="cmsy-10">-</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190679x.png" alt="1 r"  class="frac" align="middle" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190680x.png" alt="-@p @ x"  class="frac" align="middle" /> kann durch die (an den einzelnen gelösten Molekülen <br/>angreifende) Kraft <span 
+class="cmsy-10">-</span><span 
+class="cmmi-10">P</span><sub ><span 
+class="cmmi-7">x</span></sub> das Gleichgewicht geleistet werden, <br/>wenn
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190681x.png" alt="  1 @p - - ----  Px = 0.   r @x " class="par-math-display"  /></center>
+<!--l. 1411--><p class="nopar">
+</p><!--l. 1415--><p class="indent">   Denkt man sich also an der gelösten Substanz (pro Massen-<br/>einheit) die zwei sich gegenseitig aufhebenden Kräftesysteme <span 
+class="cmmi-10">P</span><sub ><span 
+class="cmmi-7">x</span></sub> <br/>und <span 
+class="cmsy-10">-</span><span 
+class="cmmi-10">P</span><sub ><span 
+class="cmmi-7">x</span></sub> angreifend, so leistet <span 
+class="cmsy-10">-</span><span 
+class="cmmi-10">P</span><sub ><span 
+class="cmmi-7">x</span></sub> dem osmotischen Drucke <br/>das Gleichgewicht und es bleibt nur die dem osmotischen <br/>Drucke numerisch gleiche Kraft <span 
+class="cmmi-10">P</span><sub ><span 
+class="cmmi-7">x</span></sub> als Bewegungsursache übrig. <br/>Damit ist die erwähnte Schwierigkeit beseitigt.<sup ><span 
+class="cmr-7">1</span></sup>)
+</p>
+<div class="center" >
+
+<!--l. 1424--><p class="noindent">
+</p><!--l. 1425--><p class="noindent"><span 
+class="cmsy-10">§ </span>5. Bestimmung der Moleküldimensionen mit Hilfe der <br/>erlangten Relationen.</p></div>
+<!--l. 1429--><p class="indent">   Wir haben in <span 
+class="cmsy-10">§ </span>3 gefunden:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190682x.png" alt=" * k- = 1 + f = 1 + n .13 p P 3, k
+" class="par-math-display"  /></center>
+<!--l. 1436--><p class="nopar">
+</p><!--l. 1440--><p class="noindent">wobei <span 
+class="cmmi-10">n </span>die Anzahl der gelösten Moleküle pro Volumeneinheit <br/>und <span 
+class="cmmi-10">P </span>den hydrodynamisch wirksamen Molekülradius bedeutet. <br/>Berücksichtigt man, daß
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190683x.png" alt="n-   r- N  = m , " class="par-math-display"  /></center>
+<!--l. 1449--><p class="nopar">
+</p><!--l. 1453--><p class="noindent">wobei <span 
+class="cmmi-10"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/cmmi10-25.png" alt="r" class="cmmi-10x-x-25" align="middle" /> </span>die in der Volumeneinheit befindliche Masse des ge-<br/>lösten Stoffes und <span 
+class="cmmi-10">m</span>
+dessen Molekulargewicht bedeutet, so <br/>erhält man:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190684x.png" alt="             (  *    ) N P 3 = -3-m-  k--  1  .         4p r   k " class="par-math-display"  /></center>
+
+<!--l. 1462--><p class="nopar">
+</p><!--l. 1465--><p class="noindent">Andererseits wurde in <span 
+class="cmsy-10">§ </span>4 gefunden:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190685x.png" alt="       R T 1 N P =  6pk-D-. " class="par-math-display"  /></center>
+<!--l. 1472--><p class="nopar">
+</p><!--l. 1475--><p class="noindent">Diese beiden Gleichungen setzen uns in den Stand, die Größen <br/><span 
+class="cmmi-10">P </span>und <span 
+class="cmmi-10">N </span>einzeln zu berechnen, von welchen sich <span 
+class="cmmi-10">N </span>als un-<br/>----------
+</p><!--l. 1481--><p class="indent">   1) Eine ausführliche Darlegung dieses Gedankenganges findet sich <br/>in Ann. d. Phys. <span 
+class="cmbx-10">17. </span>p. 549. 1905. <pb/>
+</p><!--l. 1488--><p class="indent">
+
+</p><!--l. 1489--><p class="noindent">abhängig von der Natur des Lösungsmittels, der gelösten Sub-<br/>stanz und der Temperatur herausstellen muß, wenn unsere <br/>Theorie den Tatsachen entspricht.
+</p><!--l. 1494--><p class="indent">   Wir wollen die Rechnung für wässerige Zuckerlösung <br/>durchführen. Nach den oben mitgeteilten Angaben über die <br/>innere Reibung der Zuckerlösung folgt zunächst für 2<sup ><span 
+class="cmr-7">0</span></sup>
+C.:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190686x.png" alt="    3 N P  =  200. " class="par-math-display"  /></center>
+<!--l. 1503--><p class="nopar">
+</p><!--l. 1507--><p class="indent">   Nach Versuchen von Graham (berechnet von Stefan) ist <br/>der Diffusionskoeffizient von Zucker in Wasser bei 9<span 
+class="cmmi-10">,</span>5<sup ><span 
+class="cmr-7">0</span></sup> C. <br/>0,384, wenn der Tag als Zeiteinheit gewählt wird. Die Zähig-<br/>keit des Wassers bei 9<span 
+class="cmmi-10">,</span>5<sup ><span 
+class="cmr-7">0</span></sup> ist 0,0135. Wir wollen diese Daten <br/>in unsere Formel für den Diffusionskoeffizienten einsetzen, <br/>trotzdem sie an 10 proz. Lösungen gewonnen sind und eine <br/>genaue Gültigkeit unserer Formel bei so hohen Konzentrationen <br/>nicht zu erwarten ist. Wir erhalten
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190687x.png" alt="N P =  2,08 .1016. " class="par-math-display"  /></center>
+<!--l. 1521--><p class="nopar">
+</p><!--l. 1525--><p class="indent">   Aus den für <span 
+class="cmmi-10">NP</span><sup ><span 
+class="cmr-7">3</span></sup> und <span 
+class="cmmi-10">NP </span>gefundenen Werten folgt, wenn <br/>wir die Verschiedenheit von <span 
+class="cmmi-10">P </span>bei 9<span 
+class="cmmi-10">,</span>5<sup ><span 
+class="cmr-7">0</span></sup> und 20<sup ><span 
+class="cmr-7">0</span></sup> vernach-<br/>lässigen,
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190688x.png" alt="P  = 9,9 .10-8cm, N =  2,1 . 1023. " class="par-math-display"  /></center>
+<!--l. 1536--><p class="nopar">
+</p><!--l. 1540--><p class="indent">   Der für <span 
+class="cmmi-10">N </span>gefundene Wert stimmt der Größenordnung <br/>nach mit den durch andere Methoden gefundenen Werten für <br/>diese Größe befriedigend überein.
+</p><!--l. 1545--><p class="indent">   Bern, den 30. April 1905.
+</p>
+<div class="center" >
+
+<!--l. 1548--><p class="noindent">
+</p><!--l. 1549--><p class="noindent">(Eingegangen 19. August 1905.)</p></div>
+<div class="center" >
+
+<!--l. 1552--><p class="noindent">
+</p><!--l. 1553--><p class="noindent">---------</p></div>
+
+<div class="center" >
+
+<!--l. 1556--><p class="noindent">
+</p><!--l. 1557--><p class="noindent"><span 
+class="cmbx-10">Nachtrag.</span></p></div>
+<!--l. 1560--><p class="indent">   In der neuen Auflage der physikalisch-chemischen Tabellen <br/>von Landolt und Börnstein finden sich weit brauchbarere <br/>Angaben zur Berechnung der Größe des Zuckermoleküls und <br/>der Anzahl <span 
+class="cmmi-10">N </span>der wirklichen Moleküle in einem Gramm-<br/>molekül.
+</p><!--l. 1566--><p class="indent">   Thovert fand (Tab. p. 372) für den Diffusionskoeffizienten <br/>von Zucker in Wasser bei 18<span 
+class="cmmi-10">,</span>5<sup ><span 
+class="cmr-7">0</span></sup> C. und der Konzentration <br/><pb/>
+</p><!--l. 1572--><p class="indent">
+
+</p><!--l. 1573--><p class="noindent">0,005 Mol./Liter den Wert 0,33 cm<sup ><span 
+class="cmr-7">2</span></sup>/Tage. Aus einer Tabelle <br/>mit Beobachtungsresultaten von Hosking (Tab. p. 81) findet <br/>man ferner durch Interpolation, daß bei verdünnter Zucker-<br/>lösung einer Zunahme des Zuckergehaltes um 1 Proz. bei <br/>18<span 
+class="cmmi-10">,</span>5<sup ><span 
+class="cmr-7">0</span></sup> C. eine Zunahme des Viskositätskoeffizienten um 0,000 25 <br/>entspricht.
+</p><!--l. 1581--><p class="indent">   Unter Zugrundelegung dieser Angaben findet man
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190689x.png" alt="            - 6 P = 0,78 . 10  mm " class="par-math-display"  /></center>
+<!--l. 1587--><p class="nopar">
+</p><!--l. 1591--><p class="noindent">und
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Neueb_de_1906/fulltext/img/Einst_Neueb_de_190690x.png" alt="             23 N = 4,15 . 10 . " class="par-math-display"  /></center>
+<!--l. 1598--><p class="nopar">
+</p><!--l. 1602--><p class="indent">   Bern, Januar 1906.
+</p>
+<div class="center" >
+
+<!--l. 1605--><p class="noindent">
+</p><!--l. 1606--><p class="noindent">---------</p></div>
+    
+</body></html> 
+
+
+

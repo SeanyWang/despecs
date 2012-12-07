@@ -1,0 +1,1694 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+
+<!--http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd-->  
+<html>
+
+<head><title></title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/mn.html)" /> 
+<!-- xhtml,html --> 
+<meta name="src" content="Einst_Theor_de_1910.tex" /> 
+<meta name="date" content="2005-03-10 17:41:00" /> 
+<link rel="stylesheet" type="text/css" href="Einst_Theor_de_1910.css" /> 
+</head><body >
+
+<!--l. 13--><p class="noindent"><pb/></p>
+<div class="center" >
+
+<!--l. 14--><p class="noindent">
+</p><!--l. 15--><p class="noindent"><span 
+class="cmr-12x-x-120">11.</span><span 
+class="cmbxti-10x-x-144">Theorie der Opaleszenz von homogenen</span>
+ <br/><span 
+class="cmbxti-10x-x-144">Fl</span><span 
+class="cmbxti-10x-x-144">üssigkeiten und Fl</span><span 
+class="cmbxti-10x-x-144">üssigkeitsgemischen in der </span> <br/><span 
+class="cmbxti-10x-x-144">N</span><span 
+class="cmbxti-10x-x-144">ähe</span>
+<span 
+class="cmbxti-10x-x-144">des kritischen Zustandes; </span> <br/><span 
+class="cmbxti-10x-x-144">von A. Einstein.</span></p></div>
+<div class="center" >
+
+<!--l. 21--><p class="noindent">
+</p><!--l. 22--><p class="noindent">--------</p></div>
+<!--l. 28--><p class="indent">   Smoluchowski hat in einer wichtigen theoretischen <br/>Arbeit<sup ><span 
+class="cmr-8">1</span></sup>) gezeigt, daß die Opaleszenz bei Flüssigkeiten in der <br/>Nähe des kritischen Zustandes sowie die Opaleszenz bei Flüssig-<br/>keitsgemischen in der Nähe des kritischen Mischungsverhält-<br/>nisses und der kritischen Temperatur vom Standpunkte der
+ <br/>Molekulartheorie der Wärme aus in einfacher Weise erklärt <br/>werden kann. Jene Erklärung beruht auf folgender allge-<br/>meiner Folgerung aus Boltzmanns Entropie -- Wahrschein-<br/>lichkeitsprinzip: Ein nach außen abgeschlossenes physikalisches
+ <br/>System durchläuft im Laufe unendlich langer Zeit alle Zu-<br/>stände, welche mit dem (konstanten) Wert seiner Energie ver-<br/>einbar sind. Die statistische Wahrscheinlichkeit eines Zu-<br/>standes ist hierbei aber nur dann merklich von Null ver-<br/>schieden, wenn die Arbeit, die man nach der Thermodynamik <br/>zur Erzeugung des Zustandes aus dem Zustande idealen thermo-<br/>dynamischen Gleichgewichtes aufwenden müßte, von derselben <br/>Größenordnung ist, wie die kinetische Energie eines einatomigen <br/>Gasmoleküls bei der betreffenden Temperatur.
+</p><!--l. 51--><p class="indent">   Wenn eine derart kleine Arbeit genügt, um in Flüssig-<br/>keitsräumen von der Größenordnung eines Wellenlängenkubus <br/>eine von der mittleren Dichte der Flüssigkeit merklich ab-<br/>weichende Dichte bzw. ein von dem mittleren merklich ab-<br/>weichendes Mischungsverhältnis herbeizuführen, so muß slso <br/>offenbar die Erscheinung der Opaleszenz (Tyndallphänomen) <br/>auftreten. Smoluchowski zeigte, daß diese Bedingung in <br/>der Nähe der kritischen Zustände tatsächlich erfüllt ist; er
+ <br/>hat aber keine exakte Berechnung der Menge des durch Opa-<br/>leszenz seitlich abgegebenen Lichtes gegeben. Diese Lücke <br/>soll im folgenden ausgefüllt werden.
+</p><!--l. 65--><p class="noindent">----------
+</p><!--l. 68--><p class="indent">   1) M. v. Smoluchowski, Ann. d. Phys. <span 
+class="cmbx-12">25. </span>p. 205--226. 1908. <pb/>
+</p><!--l. 73--><p class="indent">
+
+</p>
+<div class="center" >
+
+<!--l. 74--><p class="noindent">
+</p><!--l. 75--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>1.   Allgemeines über das Boltzmannsche Prinzip.</p></div>
+<!--l. 79--><p class="indent">   Das Boltzmannsche Prinzip kann durch die Gleichung</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-2r1"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_19100x.png" alt="     R-- S =  N  lg W  + konst. " class="math-display"  /></center></td><td width="5%">(1)</td></tr></table>
+<!--l. 84--><p class="nopar">
+</p><!--l. 88--><p class="noindent">formuliert werden. Hierbei bedeutet       </p><dl class="description"><dt class="description">
+ </dt><dd 
+class="description"><span 
+class="cmmi-12">R  </span><span 
+class="cmr-10x-x-109">die Gaskonstante,</span>
+      </dd><dt class="description">
+ </dt><dd 
+class="description"><span 
+class="cmmi-10x-x-109">N  </span><span 
+class="cmr-10x-x-109">die Zahl der Molek</span><span 
+class="cmr-10x-x-109">üle in einem Grammolek</span><span 
+class="cmr-10x-x-109">ül,</span>
+      </dd><dt class="description">
+ </dt><dd 
+class="description"><span 
+class="cmmi-10x-x-109">S  </span><span 
+class="cmr-10x-x-109">die Entropie,</span>
+      </dd><dt class="description">
+ </dt><dd 
+class="description"><span 
+class="cmmi-10x-x-109">W  </span><span 
+class="cmr-10x-x-109">ist  die  Gr</span><span 
+class="cmr-10x-x-109">öße,  welche  als  die  ,,Wahrscheinlichkeit&#8220;  desjenigen  Zu-</span> <br/><span 
+class="cmr-10x-x-109">standes</span>
+      <span 
+class="cmr-10x-x-109">bezeichnet zu werden pflegt, welchem der Entropiewert </span><span 
+class="cmmi-10x-x-109">S</span> <br/><span 
+class="cmr-10x-x-109">zukommt.</span></dd></dl>
+<!--l. 107--><p class="indent">   Gewöhnlich wird <span 
+class="cmmi-12">W </span>gleichgesetzt der Anzahl der mög-<br/>lichen verschiedenen Arten (Kompexionen), in welchen der ins <br/>Auge gefaßte, durch die beobachtbaren Parameter eines Systems <br/>im Sinne einer Molekulartheorie unvollständig definierte Zu-<br/>stand realisiert gedacht werden kann. Um <span 
+class="cmmi-12">W </span>berechnen zu <br/>können, braucht man eine <span 
+class="cmti-12">vollst</span><span 
+class="cmti-12">ändige </span>Theorie (etwa eine voll-<br/>ständige molekular-mechanische Theorie) des ins Auge ge-<br/>faßten Systems. Deshalb erscheint es fraglich, ob bei dieser <br/>Art der Auffassung dem Boltzmannschen Prinzip <span 
+class="cmti-12">allein</span>, d. h. <br/>ohne eine
+<span 
+class="cmti-12">vollst</span><span 
+class="cmti-12">ändige </span>molekular-mechanische oder sonstige <br/>die Elementarvorgänge vollständig darstellende Theorie (Ele-<br/>mentartheorie) irgend ein Sinn zukommt. Gleichung (1) er-<br/>scheint ohne Beigabe einer Elementartheorie oder -- wie man <br/>es auch wohl ausdrücken kann -- vom phänomenologischen <br/>Standpunkt aus betrachtet inhaltlos. 
+</p><!--l. 126--><p class="indent">   Das Boltzmannsche Prinzip erhält jedoch einen Inhalt <br/>unabhängig von jeder Elementartheorie, wenn man aus der <br/>Molekularkinetik den Satz annimmt und verallgemeinert, daß <br/>die Nichtumkehrbarkeit der physikalischen Vorgänge nur eine
+ <br/>scheinbare sei.
+</p><!--l. 132--><p class="indent">   Es sei nämlich der Zustand eines Systems in phänomeno-<br/>logischem Sinne bestimmt durch die prinzipiell beobachtbaren <br/>Variabeln <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">...</span> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">n</span></sub><span 
+class="cmmi-12">. </span>Jedem Zustand
+<span 
+class="cmmi-12">Z </span>entspricht eine Kombi-<br/>nation von Werten dieser Variabeln. Ist das System nach <br/>außen abgeschlossen, so ist die Energie -- und zwar im all-<br/>gemeinen außer dieser keine andere Funktion der Variabeln <br/>-- unveränderlich. Wir denken uns alle mit dem Energie-<br/><pb/>
+</p><!--l. 144--><p class="indent">
+
+</p><!--l. 145--><p class="noindent">wert des Systems vereinbarten Zustände des Systems und be-<br/>zeichnen sie mit
+<span 
+class="cmmi-12">Z</span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">...</span> <span 
+class="cmmi-12">Z</span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub> Wenn die Nichtumkehrbarkeit der <br/>Vorgänge keine prinzipielle ist, so werden diese Zustände <br/><span 
+class="cmmi-12">Z</span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">...</span> <span 
+class="cmmi-12">Z</span><sub ><span 
+class="cmmi-8">l</span></sub> im Laufe der Zeit immer wieder vom System durch-<br/>laufen werden. Unter dieser Annahme kann man in folgen-<br/>dem Sinne von der Wahrscheinlichkeit der einzelnen Zustände <br/>sprechen. Denkt man sich das System eine ungeheuer lange <br/>Zeit <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmr12-2.png" alt="Q" class="12x-x-2" /> hindurch beobachtet und den Bruchteil <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /></span><sub ><span 
+class="cmr-8">1</span></sub>
+der Zeit <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmr12-2.png" alt="Q" class="12x-x-2" /> <br/>ermittelt, in welchem das System den Zustand <span 
+class="cmmi-12">Z</span><sub ><span 
+class="cmr-8">1</span></sub> hat, so ist
+ <br/><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /></span><sub ><span 
+class="cmr-8">1</span></sub><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_19101x.png" alt="/"  class="left" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmr12-2.png" alt="Q" class="12x-x-2" /> die Wahrscheinlichkeit des Zustandes <span 
+class="cmmi-12">Z</span><sub ><span 
+class="cmr-8">1</span></sub>. Analoges gilt <br/>für die Wahrscheinlichkeit der übrigen Zustände <span 
+class="cmmi-12">Z</span>. Wir <br/>haben nach Boltzmann die scheinbare Nichtumkehrbarkeit <br/>darauf zurückzuführen, daß die Zustände von verschiedener <br/>Wahrscheinlichkeit sind, und daß das System wahrscheinlich
+ <br/>Zustände größerer Wahrscheinlichkeit annimmt, wenn es sich <br/>gerade in einem Zustande relativ geringer Wahrscheinlichkeit <br/>befindet. Das scheinbar vollkommen Gesetzmäßige nichtum-<br/>kehrbarer Vorgänge ist darauf zurückzuführen, daß die Wahr-<br/>scheinlichkeiten der einzelnen Zustände <span 
+class="cmmi-12">Z </span>von <span 
+class="cmti-12">verschiedener</span>
+ <br/><span 
+class="cmti-12">Gr</span><span 
+class="cmti-12">ößenordnung </span>sind, so daß von allen an einen bestimmten <br/>Zustand <span 
+class="cmmi-12">Z</span>
+angrenzenden Zuständen <span 
+class="cmti-12">einer </span>wegen seiner gegen-<br/>über den anderen ungeheuren Wahrscheinlichkeit praktisch <br/>immer auf den erstgenannten Zustand folgen wird.
+</p><!--l. 178--><p class="indent">   Die soeben fortgesetzte Wahrscheinlichkeit, zu deren Defi-<br/>nation es keiner Elementartheorie bedarf, ist es, welche mit <br/>der Entropie in der durch Gleichung (1) ausgedrückten Be-<br/>ziehung steht. Daß Gleichung (1) für die so definierte Wahr-<br/>scheinlichkeit wirklich gelten muß, ist leicht einzusehen. Die <br/>Entropie ist nämlich eine Funktion, welche (innerhalb des <br/>Gültigkeitsbereiches der Thermodynamik) bei keinem Vorgange <br/>abnimmt, bei welchem das System ein isoliertes ist. Es gibt <br/>noch andere Funktionen, welche diese Eigenschaft haben; alle <br/>aber sind, falls die Energie <span 
+class="cmmi-12">E </span>die einzige zeitlich invariante
+ <br/>Funktion des Systems ist, von der Form <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_19102x.png" alt="(S, E)"  class="left" align="middle" /> <span 
+class="cmmi-12">, </span>wobei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_19103x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /> S</span> <br/>stets positiv ist. Da die Wahrscheinlichkeit <span 
+class="cmmi-12">W </span>ebenfalls eine <br/>bei keinem Prozesse abnehmende Funktion ist, so ist auch <span 
+class="cmmi-12">W </span> <br/>eine Funktion von <span 
+class="cmmi-12">S </span>und <span 
+class="cmmi-12">E </span>allein, oder -- wenn nur Zu-<br/>stände derselben Energie verglichen werden -- eine Funktion <br/>von <span 
+class="cmmi-12">S </span>allein. Daß die zwischen <span 
+class="cmmi-12">S </span>und <span 
+class="cmmi-12">W </span>in Gleichung (1)
+ <br/><pb/>
+</p><!--l. 203--><p class="indent">
+
+</p><!--l. 204--><p class="noindent">gegebene Beziehung die einzig mögliche ist, kann bekanntlich <br/>aus dem Satze abgeleitet werden, daß die Entropie eines aus <br/>Teilsystemen bestehenden Gesamtsystems gleich ist der Summe <br/>der Entropien der Teilsysteme. So kann Gleichung (1) für <br/>alle Zustände <span 
+class="cmmi-12">Z </span>bewiesen werden, die zu demselben Wert der
+ <br/>Energie gehören.
+</p><!--l. 212--><p class="indent">   Dieser Auffassung des Boltzmannschen Prinzipes steht <br/>zunächst folgender Einwand entgegen. Man kann nicht von <br/>der statistischen Wahrscheinlichkeit eines
+<span 
+class="cmti-12">Zustandes</span>, sondern <br/>nur von der eines <span 
+class="cmti-12">Zustandsgebietes </span>reden. Ein solches ist defi-<br/>niert durch einen Teil <span 
+class="cmmi-12">g </span>der ,,Energiefläche&#8220; <span 
+class="cmmi-12">E </span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_19104x.png" alt="(c  ...c )   1     n"  class="left" align="middle" /> = 0<span 
+class="cmmi-12">. </span> <br/><span 
+class="cmmi-12">W </span>sinkt offenbar mit der Größe des gewählten Teiles der <br/>Energiefläche zu Null herab. Hierdurch würde Gleichung (1) <br/>durchaus bedeutungslos, wenn die Beziehung zwischen <span 
+class="cmmi-12">S </span>und <span 
+class="cmmi-12">W </span> <br/>nicht von ganz besonderer Art wäre. Es tritt nämlich in (1) <br/>lg <span 
+class="cmmi-12">W </span>mit dem sehr kleinen Faktor <span 
+class="cmmi-12">R</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_19105x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">N </span>multipliziert auf.
+ <br/>Denkt man sich <span 
+class="cmmi-12">W </span>für ein so großes Gebiet <span 
+class="cmmi-12">G</span><sub ><span 
+class="cmmi-8">w</span></sub> ermittelt, daß <br/>dessen Abmessungen etwa an der Grenze des Wahrnehmbaren <br/>liegen, so wird lg <span 
+class="cmmi-12">W </span>einen bestimmten Wert haben. Wird <br/>das Gebiet etwa <span 
+class="cmmi-12">e</span><sup ><span 
+class="cmr-8">10</span></sup> mal verkleinert, so wird die rechte Seite <br/>nur um die verschwindend kleine Größe 10 <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_19106x.png" alt="(R/N  )"  class="left" align="middle" />
+wegen der <br/>Verminderung der Gebietsgröße verkleinert. Wenn daher die
+ <br/>Abmessungen des Gebietes zwar klein gewählt werden gegen-<br/>über beobachtbaren Abmessungen, aber doch so groß, daß <br/><span 
+class="cmmi-12">R</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_19107x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">N</span>  lg  <span 
+class="cmmi-12">G</span><sub ><span 
+class="cmmi-8">w</span></sub><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_19108x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">G </span>numerisch von vernachlässigbarer Größe ist, so <br/>hat Gleichung (1) einen genügend genauen Inhalt.
+</p><!--l. 230--><p class="indent">   Es wurde bisher angenommen, daß <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">...</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">n</span></sub> den Zustand <br/>des betrachteten Systems im phänomenologischen Sinne <span 
+class="cmti-12">voll- </span> <br/><span 
+class="cmti-12">st</span><span 
+class="cmti-12">ändig </span>bestimmen. Gleichung (1) behält ihre Bedeutung aber <br/>auch ungeschmälert bei, wenn wir nach der Wahrscheinlich-<br/>keit eines im phänomenologischen Sinne unvollständig be-<br/>stimmten Zustandes fragen. Fragen wir nämlich nach der <br/>Wahrscheinlichkeit eines Zustandes, der durch bestimmte Werte <br/>von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">...</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub> definiert ist (wobei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> &lt; n</span>), während wir die <br/>Werte von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub> <span 
+class="cmmi-12">...</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">n</span></sub> unbestimmt lassen. Unter allen Zu-<br/>ständen mit den Werten <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">...</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub> werden diejenigen Werte <br/>von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub> <span 
+class="cmmi-12">...</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">n</span></sub> weitaus die häufigsten sein, welche die Entropie <br/>des Systems bei konstantem <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">...</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub> zu einem Maximum <br/>machen. Zwischen diesem Maximalwerte der Energie und
+ <br/><pb/>
+</p><!--l. 250--><p class="indent">
+
+</p><!--l. 251--><p class="noindent">der Wahrscheinlichkeit <span 
+class="cmti-12">dieses </span>Zustandes wird in diesem Falle <br/>Gleichung (1) bestehen.
+</p>
+<div class="center" >
+
+<!--l. 255--><p class="noindent">
+</p><!--l. 256--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>2.   Über die Abweichungen von einem Zustande <br/>thermodynamischen Gleichgewichtes.</p></div>
+<!--l. 261--><p class="indent">   Wir wollen nun aus Gleichung (1) Schlüsse ziehen über <br/>den Zusammenhang zwischen den thermodynamischen Eigen-<br/>schaften eines Systems und dessen statistischen Eigenschaften. <br/>Gleichung (1) liefert unmittelbar die Wahrscheinlichkeit eines <br/>Zustandes, wenn die Entropie desselben gegeben ist. Wir <br/>haben jedoch gesehen, daß diese Beziehung keine exakte ist; <br/>es kann vielmehr bei bekanntem <span 
+class="cmmi-12">S</span>
+nur die Größenordnung <br/>der Wahrscheinlichkeit <span 
+class="cmmi-12">W </span>des betreffenden Zustandes ermittelt <br/>werden. Trotzdem aber können aus (1) genaue Beziehungen
+ <br/>über das statistische Verhalten eines Systems abgeleitet werden, <br/>und zwar in dem Falle, daß der Bereich der Zustandsvariabeln, <br/>für welchen <span 
+class="cmmi-12">W </span>in Betracht kommende Werte hat, als unend-<br/>lich klein angesehen werden kann.
+</p><!--l. 277--><p class="indent">   Aus Gleichung (1) folgt
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_19109x.png" alt="W  =  konst.eNR-S . " class="par-math-display"  /></center>
+<!--l. 282--><p class="nopar">
+</p><!--l. 285--><p class="noindent">Diese Gleichung gilt der Größenordnung nach, wenn man <br/>jedem Zustand
+<span 
+class="cmmi-12">Z </span>ein kleines Gebiet, von der Größenordnung <br/>wahrnehmbarer Gebiete, zuordnet. Die Konstante bestimmt <br/>sich der Größenordnung nach durch die Erwägung, daß <span 
+class="cmmi-12">W </span> <br/>für den Zustand des Entropiemaximums (Entropie <span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">0</span></sub>) von der <br/>Größenordnung Eins ist, so daß man der Größenordnung <br/>nach hat</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191010x.png" alt="      NR (S-S0) W  = e        . " class="par-math-display"  /></center>
+<!--l. 294--><p class="nopar">
+</p><!--l. 297--><p class="noindent">Daraus ist zu folgern, daß die Wahrscheinlichkeit <span 
+class="cmmi-12">dW </span>dafür, <br/>daß die Größen
+<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">...</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">n</span></sub> zwischen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmr-8">1</span></sub> und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmr-8">1</span></sub> + <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">...</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">n</span></sub> <br/>und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">n</span></sub> + <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">n</span></sub> liegen, der Größenordnung nach gegeben ist <br/>durch die Gleichung<sup ><span 
+class="cmr-8">1</span></sup>)
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191011x.png" alt="        N- d W  = eR (S-S0).dc1  ..d cn " class="par-math-display"  /></center>
+<!--l. 308--><p class="nopar">
+</p><!--l. 311--><p class="noindent">----------
+</p><!--l. 314--><p class="indent">   1) Wir wollen annehmen, daß Gebiete von Ausdehnungen beob-<br/>achtbarer Größe in den <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /> </span>endlich ausgedehnt sind. <pb/>
+</p><!--l. 320--><p class="indent">
+
+</p><!--l. 321--><p class="noindent">und zwar in dem Falle, daß das System durch die <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">...</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">n</span></sub> <br/>(in phänomenologischem Sinne) nur unvollständig bestimmt ist.<sup ><span 
+class="cmr-8">1</span></sup>) <br/>Genau genommen unterscheidet sich <span 
+class="cmmi-12">dW</span>
+von dem gegebenen <br/>Ausdruck noch durch einen Faktor <span 
+class="cmmi-12">f</span>, so daß zu setzen ist
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191012x.png" alt="        N d W  = eR-(S-S0).f .d c1 ...d cn. " class="par-math-display"  /></center>
+<!--l. 332--><p class="nopar">
+</p><!--l. 335--><p class="noindent">Dabei wird <span 
+class="cmmi-12">f </span>eine Funktion von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmr-8">1</span></sub> <span 
+class="cmmi-12">...</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">n</span></sub> und von solcher <br/>Größenordnung sein, daß es die Größenordnung des Faktors <br/>auf der rechten Seite nicht beeinträchtigt.<sup ><span 
+class="cmr-8">2</span></sup>)
+</p><!--l. 340--><p class="indent">   Wir bilden nun <span 
+class="cmmi-12">dW </span>für die unmittelbare Umgebung eines <br/>Entropiemaximums. Es ist, falls die Taylorsche Entwicke-<br/>lung in dem in Betracht kommenden Bereich konvergiert, zu <br/>setzen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191013x.png" alt="         1  sum   sum 
+S = S0 - 2     ( smn cm) cn + ...           sum        @ f f = f0 +    cn   ----   + ...                  @ cn " class="par-math-display"  /></center>
+<!--l. 353--><p class="nopar">
+</p><!--l. 357--><p class="noindent">falls für den Zustand des Entropiemaximums <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmr-8">1</span></sub> = <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmr-8">2</span></sub> = <span 
+class="cmmi-12">...</span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8">n</span></sub> = 0 <br/>ist. Die Doppelsumme im Ausdruck für <span 
+class="cmmi-12">S </span>ist, weil es sich <br/>um ein Entropiemaximum handelt, wesentlich positiv. Man <br/>kann daher statt der <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /> </span>neue Variable einführen, so daß sich <br/>jene Doppelsumme in eine einfache Summe verwandelt, in der <br/>nur die Quadrate der wieder mit <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /> </span>bezeichneten neuen Varia-<br/>beln auftreten. Man erhält
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191014x.png" alt="                N-  sum    2+... [      sum   ( @ f   )] d W  = konst.e- 2R   sncn   . f0 +       ----cn    d c1 ...d cn.                                          @ cn " class="par-math-display"  /></center>
+<!--l. 374--><p class="nopar">
+</p><!--l. 377--><p class="noindent">Die im Exponenten auftretenden Glieder erscheinen mit der <br/>sehr großen Zahl <span 
+class="cmmi-12">N/R</span>
+multipliziert. Deshalb wird der Expo-<br/>nentialfaktor im allgemeinen bereits für solche Werte der <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /> </span> <br/>praktisch verschwinden, die wegen ihrer Kleinheit keinen vom
+ <br/>Zustand thermodynamischen Gleichgewichtes irgendwie erheb-<br/>lich abweichenden 
+Zuständen des Systems entsprechen. Für <br/>----------
+</p><!--l. 388--><p class="indent">   1) Im anderen Falle wäre die Mannigfaltigkeit der möglichen Zu-<br/>stände wegen des Energieprinzipes nur (<span 
+class="cmmi-12">n </span>- 1) dimensional.
+</p><!--l. 392--><p class="indent">   2) Über die Größenordnung der Ableitungen der Funktion <span 
+class="cmmi-12">f </span>nach <br/>den
+<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /> </span>wissen wir nichts. Wir wollen aber im folgenden annehmen, daß <br/>die Ableitungen von <span 
+class="cmmi-12">f </span>der Größenordnung nach der Funktion <span 
+class="cmmi-12">f </span>selbst <br/>gleich sind.
+<pb/>
+</p><!--l. 400--><p class="indent">
+
+</p><!--l. 401--><p class="noindent">derartig kleine Werte <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /> </span>wird man stets den Faktor <span 
+class="cmmi-12">f </span>durch <br/>denjenigen Wert <span 
+class="cmmi-12">f</span><sub ><span 
+class="cmr-8">0</span></sub>
+ersetzen können, den er im Zustand des <br/>thermodynamischen Gleichgewichtes hat. In allen diesen Fällen, <br/>in denen die Variablen nur wenig von ihren dem idealen
+ <br/>thermischen Gleichgewicht entsprechenden Werten abweichen, <br/>kann also die Formel durch</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-3r2"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191015x.png" alt="                N- d W  = konst.e- R (S- S0).d c1 ...d cn " class="math-display"  /></center></td><td width="5%">(2)</td></tr></table>
+<!--l. 413--><p class="nopar">
+</p><!--l. 417--><p class="noindent">ersetzt werden.
+</p><!--l. 420--><p class="indent">   Für derart kleine Abweichungen vom thermodynamischen <br/>Gleichgewicht, wie sie für unseren Fall in Betracht kommen, <br/>hat die Größe <span 
+class="cmmi-12">S </span><span 
+class="cmsy-10x-x-120">- </span><span 
+class="cmmi-12">S</span><sub ><span 
+class="cmr-8">0</span></sub> eine anschauliche Bedeutung. Denkt <br/>man sich die uns interessierenden Zustände in der Nähe des
+ <br/>thermodynamischen Gleichgewichtes durch äußere Einwirkung <br/>in umkehrbarer Weise hergestellt, so gilt nach der Thermo-<br/>dynamik für jeden Elementarvorgang die Energiegleichung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191016x.png" alt="d U = d A + T d S, " class="par-math-display"  /></center>
+<!--l. 433--><p class="nopar"></p><!--l. 437--><p class="noindent">falls man mit <span 
+class="cmmi-12">U </span>die Energie des Systems, mit <span 
+class="cmmi-12">dA </span>die dem-<br/>selben zugeführte elementare Arbeit bezeichnet. Uns inter-<br/>essieren nur Zustände, welche ein nach außen abgeschlossenes <br/>System annehmen kann, also Zustände, die zu dem nämlichen <br/>Energiewerte gehören. Für den Übergang eines solchen Zu-<br/>standes in einen benachbarten ist <span 
+class="cmmi-12">dU </span>= 0<span 
+class="cmmi-12">. </span>Es wird ferner <br/>nur einen vernachlässigbaren Fehler bedingen, wenn wir in <br/>obiger Gleichung <span 
+class="cmmi-12">T </span>durch die Temperatur <span 
+class="cmmi-12">T</span><sub ><span 
+class="cmr-8">0</span></sub> des thermo-<br/>dynamischen Gleichgewichtes ersetzen. Obige Gleichung geht <br/>dann über in
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191017x.png" alt="d A + T0 dS =  0 
+" class="par-math-display"  /></center>
+<!--l. 453--><p class="nopar">
+</p><!--l. 457--><p class="noindent">oder</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-4r3"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191018x.png" alt=" integral 
+                   1    dS =  S - S0 =  --A ,                    T0 " class="math-display"  /></center></td><td width="5%">(3)</td></tr></table>
+<!--l. 463--><p class="nopar">
+</p><!--l. 467--><p class="noindent">wobei <span 
+class="cmmi-12">A </span>die Arbeit bedeutet, welche man nach der Thermo-<br/>dynamik aufwenden müßte, um das System aus dem Zustande <br/>thermodynamischen Gleichgewichtes in den betrachteten Zu-<br/>stand überzuführen. Wir können also Gleichung (2) in der
+ <br/>Form schreiben</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-5r4"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191019x.png" alt="               N dW  =  konst.eR-T0 Ad c1 ...d cn . " class="math-display"  /></center></td><td width="5%">(2a)</td></tr></table>
+<!--l. 477--><p class="nopar">
+<pb/>
+</p><!--l. 484--><p class="indent">
+
+</p><!--l. 485--><p class="indent">   Die Parameter <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /> </span>denken wir uns nun so gewählt, daß <br/>sie beim thermodynamischen Gleichgewicht gerade verschwin-<br/>den. In einer gewissen Umgebung wird <span 
+class="cmmi-12">A </span>nach den <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /> </span>nach <br/>dem Taylorschen Satz entwickelbar sein, welche Entwicke-<br/>lung bei passender Wahl der <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /> </span>die Gestalt haben wird
+ <br/><span 
+class="cmmi-12">A </span>+ <span 
+class="cmr-8">1</span> 
+<span 
+class="cmr-8">2</span>  <span 
+class="cmex-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmex10-c-50.png" alt=" sum " class="10-120x-x-50" /></span>
+    <span 
+class="cmmi-12">a</span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub><sup>  <span 
+class="cmr-8">2</span></sup> + Glieder höheren als zweiten Grades in den <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span>, <br/>wobei die <span 
+class="cmmi-12">a</span><sub >
+<span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub>
+sämtlich positiv sind. Da ferner im Exponenten <br/>der Gleichung (2a) die Größe <span 
+class="cmmi-12">A</span>
+mit dem sehr großen Faktor <br/><span 
+class="cmmi-12">N</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191020x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">RT</span><sub ><span 
+class="cmr-8">0</span></sub> multipliziert erscheint, so wird der Exponentialfaktor <br/>im allgemeinen nur für sehr kleine Werte von <span 
+class="cmmi-12">A</span>, also auch <br/>für sehr kleine Werte der <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /> </span>merkbar von Null abweichen. <br/>Für derart kleine Werte der <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /> </span>werden im allgemeinen die <br/>Glieder höheren als ersten Grades im Ausdruck von <span 
+class="cmmi-12">A </span>gegen-<br/>über den Gliedern zweiten Grades nur vernachlässigbare <br/>Beiträge liefern. Ist dies der Fall, so können wir für Glei-<br/>chung (2a) setzen</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-6r4"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191021x.png" alt="              - 2NRT-  sum  an dn2 d W  = konst.e     0        dc1 ... dcn, " class="math-display"  /></center></td><td width="5%">(2b)</td></tr></table>
+<!--l. 503--><p class="nopar">
+</p><!--l. 507--><p class="noindent">eine Gleichung, welche die Form des Gaussschen Fehler-<br/>gesetzes hat.
+</p><!--l. 510--><p class="indent">   Auf diesen wichtigsten Spezialfall wollen wir uns in dieser <br/>Arbeit beschränken. Aus (2b) folgt unmittelbar, daß der <br/>Mittelwert der auf den Parameter <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub>
+entfallenden Abweichungs-<br/>arbeit <span 
+class="cmmi-12">A</span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-17.png" alt="n" class="8x-x-17" /></span></sub> den Wert hat</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-7r4"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191022x.png" alt="---    --------   R T0 An  =  12 an cn2 = -----.                    2N 
+" class="math-display"  /></center></td><td width="5%">(4)</td></tr></table>
+<!--l. 520--><p class="nopar">
+</p><!--l. 523--><p class="noindent">Diese mittlere Arbeit ist also gleich dem dritten Teil der <br/>mittleren kinetischen Energie eines einatomigen Gasmoleküls.
+</p>
+<div class="center" >
+
+<!--l. 529--><p class="noindent">
+</p><!--l. 530--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>3.   Über die Abweichungen der räumlichen Verteilung von <br/>Flüssigkeiten und Flüssigkeitsgemischen von der gleichmäßigen <br/>Verteilung.</p></div>
+<!--l. 537--><p class="indent">   Wir bezeichnen mit <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /></span><sub ><span 
+class="cmr-8">0</span></sub> die mittlere Dichte einer homo-<br/>genen Substanz bzw. die mittlere Dichte der einen Kompo-<br/>nente eines binären Flüssigkeitsgemisches. Wegen der Un-<br/>regelmäßigkeit der Wärmebewegung wird die Dichte <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /> </span>in einem
+ <br/>Punkte der Flüssigkeit von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /></span><sub ><span 
+class="cmr-8">0</span></sub> im allgemeinen verschieden <br/><pb/>
+</p><!--l. 546--><p class="indent">
+
+</p><!--l. 547--><p class="noindent">sein. Ist die Flüssigkeit in einen Würfel eingeschlossen, <br/>welcher bezüglich eines Koordinatensystems durch
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191023x.png" alt="0 &lt; x &lt; L , 
+0 &lt; y &lt; L " class="par-math-display"  /></center>
+<!--l. 557--><p class="nopar">
+</p><!--l. 561--><p class="noindent">und</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191024x.png" alt="0 &lt; z &lt; L " class="par-math-display"  /></center>
+<!--l. 567--><p class="nopar">
+</p><!--l. 571--><p class="noindent">charakterisiert ist, so können wir für das Innere dieses Würfels <br/>setzen</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-8r5"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191025x.png" alt="   r = r  + D , {        sum 0  sum   sum 
+   D =             Br st cos 2 p r-x-cos 2 ps -y--cos 2 pt -z--.          r   s  t                2 L          2 L          2 L " class="math-display"  /></center></td><td width="5%">(5)</td></tr></table>
+<!--l. 585--><p class="nopar">
+</p><!--l. 588--><p class="noindent">Die Größen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1b.png" alt="s" class="12x-x-1b" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>bedeuten die ganzen positiven Zahlen. <br/>Hierzu ist aber folgendes zu bemerken.
+</p><!--l. 592--><p class="indent">   Streng genommen kann man nicht von der Dichte einer <br/>Flüssigkeit in einem Raumpunkte reden, sondern nur von der <br/>mittleren Dichte in einem Raume, dessen Abmessungen groß <br/>sind gegenüber der mittleren Distanz benachbarter Moleküle. <br/>Aus diesem Grunde werden die Glieder der Entwickelung, bei <br/>denen eine der Größen <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1b.png" alt="s" class="12x-x-1b" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>oberhalb gewisser Grenzen <br/>liegt, keine physikalische Bedeutung besitzen. Aus dem fol-<br/>genden wird man aber ersehen, daß dieser Umstand für uns <br/>nicht von Bedeutung 
+ist.
+</p><!--l. 603--><p class="indent">   Die Größen <span 
+class="cmmi-12">B</span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-25.png" alt="r" class="cmmi-8x-x-25" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-1b.png" alt="s" class="8x-x-1b" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-1c.png" alt="t" class="8x-x-1c" /></span></sub> werden sich mit der Zeit ändern, derart, <br/>daß sie im Mittel gleich Null sind. Wir fragen nach den <br/>statistischen Gesetzen, denen die Größen <span 
+class="cmmi-12">B </span>unterliegen. Diese <br/>spielen die Rolle der Parameter <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /> </span>des vorigen Paragraphen, <br/>welche den Zustand unseres Systems im phänomenologischen <br/>Sinne bestimmen.
+</p><!--l. 611--><p class="indent">   Diese statistischen Gesetze erhalten wir nach dem vorigen <br/>Paragraphen, indem wir die Arbeit <span 
+class="cmmi-12">A </span>in Funktion der Größen <span 
+class="cmmi-12">B </span> <br/>ermitteln. Dies ist auf folgende Weise möglich. Bezeichnen <br/>wir mit <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191026x.png" alt="(r)"  class="left" align="middle" /> die Arbeit, die man aufwenden muß, um die
+ <br/>Masseneinheit von der mittleren Dichte <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /></span><sub ><span 
+class="cmr-8">0</span></sub> isotherm auf die <br/>Dichte <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /> </span>zu bringen, so hat diese Arbeit für die im Volumen-<br/>element <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>befindliche Masse <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" />d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>den Wert
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191027x.png" alt="r f dt , " class="par-math-display"  /></center>
+<!--l. 624--><p class="nopar"> <pb/>
+</p><!--l. 631--><p class="indent">
+
+</p><!--l. 632--><p class="noindent">also für den ganzen Flüssigkeitswürfel den Wert
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191028x.png" alt="     integral 
+
+A =    r .f.d t . " class="par-math-display"  /></center>
+<!--l. 638--><p class="nopar">
+</p><!--l. 641--><p class="noindent">Wir werden anzunehmen haben, daß die Abweichungen <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> der <br/>Dichte von der mittleren sehr klein sind und setzen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191029x.png" alt="r = r 0 + D , (    )         (     )                @ f         1   @2f      2 f =  f (r 0) +  ----   D  + 2   ---2-  D  +  ...                 @ r  0         @ r   0 " class="par-math-display"  /></center>
+<!--l. 658--><p class="nopar">
+</p><!--l. 661--><p class="noindent">Hieraus folgt, weil <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191030x.png" alt="(r 0)"  class="left" align="middle" /> = 0 und <span 
+class="cmex-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmex10-c-52.png" alt=" integral " class="cmex-10-120x-x-52" align="middle" /></span>
+  <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>= 0 ist,
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191031x.png" alt="     (           2  )  integral 
+A =    @ f-+ 1r @--f-    D2 d t ,        @ r   2  @ r2 " class="par-math-display"  /></center>
+<!--l. 670--><p class="nopar">
+</p><!--l. 674--><p class="noindent">wobei der Index ,,0&#8220; der Einfachheit halber fortgelassen ist. <br/>Dabei sind im Integranden die Glieder vierten und höheren <br/>Grades weggelassen, was offenbar nur dann erlaubt ist, wenn
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191032x.png" alt="           2 @-f-+  1r @-f-- @ r    2  @ r2 " class="par-math-display"  /></center>
+<!--l. 684--><p class="nopar">
+</p><!--l. 688--><p class="noindent">nicht allzu klein und die mit <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /><sup ><span 
+class="cmr-8">4</span></sup> usw. multiplizierten Glieder <br/>nicht allzu groß sind. Nach (5) ist aber
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191033x.png" alt=" integral             3  sum   sum    sum 
+   D2 d t = L--            B2    ,              8   r   s  t   r,s,t " class="par-math-display"  /></center>
+<!--l. 697--><p class="nopar">
+</p><!--l. 701--><p class="noindent">da die Raumintegrale der Doppelprodukte der Fourierschen <br/>Summenglieder verschwinden. Es ist also
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191034x.png" alt="     (               )        @ f   1  @2 f   L3   sum   sum    sum     2 A  =   @-r-+ 2 r-@ r2  -8-            Br st .                             r   s  t " class="par-math-display"  /></center>
+<!--l. 711--><p class="nopar">
+</p><!--l. 714--><p class="noindent">Drücken wir die Arbeit, die pro Masseneinheit geleistet werden <br/>muß, um aus dem Zustande thermodynamischen Gleichgewichtes <br/>einen Zustand von bestimmtem <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /></span>
+zu erzielen, als Funktion <br/>des spezifischen Volumens 1<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191035x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /> </span>= <span 
+class="cmmi-12">v </span>aus, setzt man also
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191036x.png" alt="f (r) = y (v), " class="par-math-display"  /></center>
+<!--l. 726--><p class="nopar"></p><!--l. 730--><p class="noindent">so erhält man noch einfacher</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-9r6"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191037x.png" alt="     L3- 3 @2-y- sum   sum    sum    2 A =  16 v @ v2            B rst ,                  r  s   t " class="math-display"  /></center></td><td width="5%">(6)</td></tr></table>
+<!--l. 738--><p class="nopar">
+</p><!--l. 742--><p class="noindent">wobei die Größen <span 
+class="cmmi-12">v </span>und <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /></span><sup ><span 
+class="cmr-8">2</span></sup> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-20.png" alt="y" class="12x-x-20" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191038x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /> v</span><sup ><span 
+class="cmr-8">2</span></sup> für den Zustand des idealen <br/>thermodynamischen Gleichgewichtes einzusetzen sind. Wir be-<br/>merken, daß die Koeffizienten <span 
+class="cmmi-12">B </span>nur quadratisch, nicht aber <br/><pb/>
+</p><!--l. 751--><p class="indent">
+
+</p><!--l. 752--><p class="noindent">als Doppelprodukte im Ausdrucke für <span 
+class="cmmi-12">A </span>vorkommen. Es sind <br/>also die Größen <span 
+class="cmmi-12">B</span>
+Parameter des Systems von der Art, wie <br/>sie in den Gleichungen (2b) und (4) des vorigen Paragraphen <br/>auftreten. Die Größen <span 
+class="cmmi-12">B </span>befolgen daher (unabhängig von-<br/>einander) das Gausssche Fehlergesetz, und Gleichung (4) er-<br/>gibt unmittelbar</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-10r7"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191039x.png" alt="L3   @2 y ------   R T ---v3-----B 2rst =  ----0. 8     @ v2          N " class="math-display"  /></center></td><td width="5%">(7)</td></tr></table>
+<!--l. 765--><p class="nopar">
+</p><!--l. 769--><p class="indent">   Die statistischen Eigenschaften unseres Systems sind also <br/>vollkommen bestimmt bzw. auf die thermodynamisch ermittel-<br/>bare Funktion <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-20.png" alt="y" class="12x-x-20" /> </span>zurückgeführt.
+</p><!--l. 773--><p class="indent">   Wir bemerken, daß die Vernachlässigung der Glieder mit <br/><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /><sup ><span 
+class="cmr-8">3</span></sup> usw. nur dann gestattet ist, wenn <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /></span><sup ><span 
+class="cmr-8">2</span></sup> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-20.png" alt="y" class="12x-x-20" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191040x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /> v</span><sup ><span 
+class="cmr-8">2</span></sup> für das ideale <br/>thermodynamische Gleichgewicht nicht allzu klein ist, oder gar <br/>verschwindet. Letzteres findet statt bei Flüssigkeiten und
+ <br/>Flüssigkeitsgemischen, die sich genau im kritischen Zustande <br/>befinden. Innerhalb eines gewissen (sehr kleinen) Bereiches <br/>um den kritischen Zustand werden die Formeln (6) und (7) <br/>ungültig. Es besteht jedoch keine <span 
+class="cmti-12">prinzipielle </span>Schwierigkeit
+ <br/>gegen eine Vervollständigung der Theorie durch Berücksichti-<br/>gung der Glieder höheren Grades in den Koeffizienten.<sup ><span 
+class="cmr-8">1</span></sup>)
+</p>
+<div class="center" >
+
+<!--l. 791--><p class="noindent">
+</p><!--l. 792--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>4.   Berechnung des von einem unendlich wenig inhomogenen
+ <br/>absorptionsfreien Medium abgebeugten Lichtes.</p></div>
+<!--l. 797--><p class="indent">   Nachdem wir aus dem Boltzmannschen Prinzip das <br/>statistische Gesetz ermittelt haben, nach welchem die Dichte <br/>einer einheitlichen Substanz bzw. das Mischungsverhältnis einer <br/>Mischung mit dem Orte variiert, gehen wir dazu über, den <br/>Einfluß zu untersuchen, den das Medium auf einen hindurch-<br/>gehenden Lichtstrahl ausübt. 
+</p><!--l. 805--><p class="indent">   <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /> </span>= <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /></span><sub ><span 
+class="cmr-8">0</span></sub> + <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> sei wieder die Dichte in einem Punkte des <br/>Mediums, bzw. falls es sich um eine Mischung handelt, die <br/>räumliche Dichte der einen Komponente. Der betrachtete <br/>Lichtstrahl sei monochromatisch. In bezug auf ihn läßt sich <br/>das Medium durch den Brechungsindex <span 
+class="cmmi-12">g </span>charakterisieren, <br/>oder durch die zu der betreffenden Frequenz gehörige schein-<br/>----------
+</p><!--l. 814--><p class="indent">   1) Vgl. M. v. Smoluchowski, l. c., p. 215. <pb/>
+</p><!--l. 818--><p class="indent">
+
+</p><!--l. 819--><p class="noindent">bare Dielektrizitätskonstante <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span>, die durch die Beziehung <span 
+class="cmmi-12">g </span>= <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191041x.png" alt=" V~ --    e"  class="sqrt"  /> <br/>mit dem Brechungsindex verknüpft ist. Wir setzen</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-11r8"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191042x.png" alt="        (@  e) e = e0 +  ---    D =  e0 + i ;           @ r  0 " class="math-display"  /></center></td><td width="5%">(8)</td></tr></table>
+<!--l. 829--><p class="nopar">
+</p><!--l. 833--><p class="noindent">wobei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-13.png" alt="i" class="12x-x-13" /> </span>ebenso wie <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> als unendlich kleine Größe zu be-<br/>handeln ist.
+</p><!--l. 836--><p class="indent">   In jedem Punkte des Mediums gelten die Maxwellschen <br/>Gleichungen, welche -- da wir den Einfluß der Geschwindig-<br/>keit der zeitlichen Änderung von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /> </span>auf das Licht vernach-<br/>lässigen können, die Form annehmen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191043x.png" alt="e-@ G-= curl H ,         div H  =  0, c @ t " class="par-math-display"  /></center>
+<!--l. 849--><p class="nopar">
+</p>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191044x.png" alt="1-@ H- c @ t =  - curlG,      div (eG) =  0, " class="math-display"  /></center>
+<!--l. 856--><p class="nopar">
+</p><!--l. 859--><p class="noindent">Hierin bedeutet <span 
+class="cmmi-12">G </span>die elektrische, <span 
+class="cmmi-12">H </span>die magnetische Feld-<br/>stärke, <span 
+class="cmmi-12">c </span>die Vakuum-Lichtgeschwindigkeit. Durch Eliminieren <br/>von <span 
+class="cmmi-12">H </span>erhält man daraus
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-12r9"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191045x.png" alt="-e @2G-- c2 @ t2 = D  G - grad divG  , " class="math-display"  /></center></td><td width="5%">(9)</td></tr></table>
+<!--l. 869--><p class="nopar">
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-13r10"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191046x.png" alt="div (e G) = 0 " class="math-display"  /></center></td><td width="5%">(10)</td></tr></table>
+<!--l. 876--><p class="nopar">
+</p><!--l. 880--><p class="indent">   Es sei nun <span 
+class="cmmi-12">G</span><sub ><span 
+class="cmr-8">0</span></sub> das elektrische Feld einer Lichtwelle, wie <br/>es verlaufen würde, wenn <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /> </span>nicht mit dem Orte variierte, wir <br/>wollen sagen ,,das Feld der erregenden Lichtwelle&#8220;. Das <br/>wirkliche Feld (Gesamtfeld) <span 
+class="cmmi-12">G </span>wird sich von <span 
+class="cmmi-12">G</span><sub ><span 
+class="cmr-8">0</span></sub>
+unendlich <br/>wenig unterscheiden um das Opaleszenzfeld <span 
+class="cmmi-12">e</span>, so daß zu <br/>setzen ist</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-14r11"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191047x.png" alt="G =  G  + e .       0 " class="math-display"  /></center></td><td width="5%">(11)</td></tr></table>
+
+<!--l. 891--><p class="nopar">
+</p><!--l. 895--><p class="indent">   Setzt man die Ausdrücke für <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /> </span>und <span 
+class="cmmi-12">G </span>aus (8) und (11) <br/>in (9) und (10) ein, so erhält man bei Vernachlässigung von <br/>unendlich Kleinem zweiter Ordnung, indem man berücksichtigt, <br/>daß <span 
+class="cmmi-12">G</span><sub ><span 
+class="cmr-8">0</span></sub> die Maxwellschen Gleichungen mit konstanter Dielek-<br/>trizitätskonstante <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span><sub ><span 
+class="cmr-8">0</span></sub> befriedigt,
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-15r12"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191048x.png" alt="e  @2e            1   @2G -02 --2--  D e = - -2 t---20-- grad dive , c  @ t            c    @ t " class="math-display"  /></center></td><td width="5%">(9a)</td></tr></table>
+<!--l. 908--><p class="nopar">
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-16r12"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191049x.png" alt="div (tG0) + div (e0e) = 0 . " class="math-display"  /></center></td><td width="5%">(10a)</td></tr></table>
+<!--l. 916--><p class="nopar">
+<pb/>
+</p><!--l. 923--><p class="indent">
+
+</p><!--l. 924--><p class="noindent">Entwickelt man (10a), und berücksichtigt man dabei, daß <br/>div <span 
+class="cmmi-12">G</span><sub ><span 
+class="cmr-8">0</span></sub> = 0 und grad
+<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /></span><sub ><span 
+class="cmr-8">0</span></sub> = 0 ist, so erhält man
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191050x.png" alt="          1 div e = - --G0 grad i.           e0 " class="par-math-display"  /></center>
+<!--l. 933--><p class="nopar">
+</p><!--l. 936--><p class="noindent">Setzt man dies in (9a) ein, so ergibt sich</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-17r12"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191051x.png" alt="e  @2 e            1  @2 G     1 -02 ---2-  D e = - -2 t----20+  --grad {G0 grad i}=  a, c  @ t            c    @ t     e0 " class="math-display"  /></center></td><td width="5%">(9b)</td></tr></table>
+<!--l. 946--><p class="nopar">
+</p><!--l. 950--><p class="noindent">wobei die rechte Seite ein als bekannt anzusehender Vektor <br/>ist, der zur Abkürzung mit ,,<span 
+class="cmmi-12">a</span>&#8220; bezeichnet ist. Zwischen dem <br/>Opaleszenzfelde <span 
+class="cmmi-12">e </span>und dem Vektor <span 
+class="cmmi-12">a </span>besteht also eine Be-<br/>ziehung von derselben Form wie zwischen dem Vektorpotential <br/>und der elektrischen Strömung. Die Lösung lautet bekanntlich</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-18r12"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191052x.png" alt="         integral  {a}    r- e = -1-    ----t0--V-d t ,     4 p        r " class="math-display"  /></center></td><td width="5%">(12)</td></tr></table>
+
+<!--l. 961--><p class="nopar">
+</p><!--l. 965--><p class="noindent">wobei <span 
+class="cmmi-12">r </span>die Entfernung von <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>vom Aufpunkt, <span 
+class="cmmi-12">V  </span>= <span 
+class="cmmi-12">c/</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191053x.png" alt=" ---  V~  e0"  class="sqrt"  />  die
+ <br/>Fortpflanzungsgeschwindigkeit der Lichtwellen bedeutet. Das <br/>Raumintegral ist über den ganzen Raum auszudehnen, in <br/>welchem das erregende Lichtfeld <span 
+class="cmmi-12">G</span><sub ><span 
+class="cmr-8">0</span></sub> von Null verschieden ist. <br/>Erstreckt man es nur über einen Teil dieses Raumes, so er-<br/>hält man den Teil des Opaleszenzfeldes, welchen die erregende <br/>Lichtwelle dadurch erzeugt, daß sie den betreffenden Raumteil <br/>durchsetzt.
+</p><!--l. 976--><p class="indent">   Wir stellen uns die Aufgabe, denjenigen Teil des Opales-<br/>zenzfeldes zu ermitteln, der von einer erregenden ebenen mono-<br/>chromatischen Lichtwelle im Innern des Würfels
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191054x.png" alt="0 &lt; x &lt;  l, 
+0 &lt; y &lt; l , 0 &lt; z &lt; l " class="par-math-display"  /></center>
+<!--l. 988--><p class="nopar">
+</p><!--l. 992--><p class="noindent">erzeugt wird. Dabei sei die Kantenlänge <span 
+class="cmmi-12">l </span>dieses Würfels <br/>klein gegenüber der Kantenlänge <span 
+class="cmmi-12">L </span>des früher betrachteten <br/>Würfels.
+</p><!--l. 996--><p class="indent">   Die erregende ebene Lichtwelle sei gegeben durch</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-19r13"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191055x.png" alt="                 (       )                       n-r G0 =  A cos 2p n   t-  V   , " class="math-display"  /></center></td><td width="5%">(13)</td></tr></table>
+<!--l. 1002--><p class="nopar">
+<pb/>
+</p><!--l. 1009--><p class="indent">
+
+</p><!--l. 1010--><p class="noindent">wobei <span 
+class="cmmi-12">n </span>den Einheitsvektor der Wellennormale (Komponenten <br/><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-c.png" alt="b" class="cmmi-12x-x-c" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-d.png" alt="g" class="12x-x-d" /></span>) und <span 
+class="cmmi-12">r</span>
+den vom Koordinatenursprung gezogenen Radius-<br/>vektor (Komponenten
+<span 
+class="cmmi-12">x, y, z</span>) bedeute. Den Aufpunkt wählen <br/>wir der Einfachheit halber in einer gegen <span 
+class="cmmi-12">l </span>unendlich großen <br/>Entfernung <span 
+class="cmmi-12">D </span>auf der <span 
+class="cmmi-12">X</span>-Achse unseres Koordinatensystems. <br/>Für einen solchen Aufpunkt nimmt Gleichung (12) die Form an:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-20r14"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191056x.png" alt="           integral 
+    --1--- e = 4 pD     {a}t1+ xV-d t . " class="math-display"  /></center></td><td width="5%">(12a)</td></tr></table>
+<!--l. 1023--><p class="nopar">
+</p><!--l. 1026--><p class="noindent">Es ist nämlich
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191057x.png" alt="     r        D  - x t0-  --=  t0- ------ .      V           V " class="par-math-display"  /></center>
+<!--l. 1032--><p class="nopar">
+</p><!--l. 1036--><p class="noindent">zu setzen, wobei zur Abkürzung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191058x.png" alt="     D- t0-  V  = t1 " class="par-math-display"  /></center>
+<!--l. 1042--><p class="nopar">
+</p><!--l. 1046--><p class="noindent">gesetzt ist, und man kann den Faktor 1<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191059x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">r </span>des Integranden <br/>durch den bis auf relativ unendlich Kleines gleichen konstanten <br/>Faktor 1<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191060x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">D </span>ersetzen.
+</p><!--l. 1052--><p class="indent">   Wir haben nun das über unsern Würfel von der Kanten-<br/>länge <span 
+class="cmmi-12">l </span>erstreckte, in (12a) auftretende Raumintegral zu be-<br/>rechnen, indem wir den Ausdruck für a aus (9b) einsetzen. <br/>Diese Rechnung erleichtern wir uns durch die Einführung des
+ <br/>folgenden Symbols. Ist <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /> </span>ein Skalar oder Vektor, der Funktion <br/>ist von <span 
+class="cmmi-12">x, y, z </span>mit
+<span 
+class="cmmi-12">t</span>, so setzen wir 
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191061x.png" alt="  (               )                 x-      * f   x, y, z, t1 + V =  f , " class="par-math-display"  /></center>
+<!--l. 1064--><p class="nopar">
+</p><!--l. 1068--><p class="noindent">so daß also <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /></span><sup ><span 
+class="cmmi-8">x</span></sup> nur von <span 
+class="cmmi-12">x, y </span>und <span 
+class="cmmi-12">z </span>abhängig ist. Daraus <br/>folgt für einen Skalar <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /></span>
+sofort die Gleichung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191062x.png" alt="                          (    )* gradf* =  (gradf)* + i 1-  @-f-   ,                        V    @ t " class="par-math-display"  /></center>
+<!--l. 1077--><p class="nopar">
+</p><!--l. 1081--><p class="noindent">woraus folgt
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191063x.png" alt="                                        (    )  integral         *        integral       *        1  integral    @ f  *   (grad f)  dt =    grad f  dt - i --     ----   dt ,                                    V      @ t " class="par-math-display"  /></center>
+<!--l. 1090--><p class="nopar">
+</p><!--l. 1094--><p class="noindent">wobei <span 
+class="cmmi-12">i </span>den Einheitsvektor in Richtung der <span 
+class="cmmi-12">X</span>-Achse bedeutet. <br/>Das erste der Integrale auf der rechten Seite läßt sich durch <br/>partielle Integration umformen. Bedeutet <span 
+class="cmsy-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmsy10-c-3c.png" alt=" R " class="10-120x-x-3c" /> </span>die äußere Ein-<br/>heitsnormale der Oberfläche des Integrationsraumes,
+<span 
+class="cmmi-12">ds </span>das <br/>Oberflächenelement, so ist
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191064x.png" alt=" integral               integral 
+  grad f* dt =    f*  R  ds . " class="par-math-display"  /></center>
+<!--l. 1105--><p class="nopar"> <pb/>
+</p><!--l. 1112--><p class="indent">
+
+</p><!--l. 1113--><p class="noindent">Man hat also</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-21r14"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191065x.png" alt=" integral                  integral                 integral  (    )*            *          *         -1      @ f-    (gradf)  d t =    f   R  ds - iV      @ t    dt. " class="math-display"  /></center></td><td width="5%">(14)</td></tr></table>
+<!--l. 1121--><p class="nopar">
+</p><!--l. 1125--><p class="indent">   Ist <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /> </span>eine Funktion undulatorischen Charakters, so wird <br/>das Flächenintegral der rechten Seite unserer Gleichung keinen <br/>dem Volum des Integrationsraumes proportionalen, überbaupt <br/>keinen für uns in Betracht kommenden Beitrag leisten. In <br/>diesem Falle kann also ein Integral von der Gestalt
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191066x.png" alt=" integral 
+   (grad f)* dt " class="par-math-display"  /></center>
+<!--l. 1135--><p class="nopar">
+</p><!--l. 1139--><p class="noindent">nur zur <span 
+class="cmmi-12">X</span>-Komponente einen Beitrag liefern.
+</p><!--l. 1142--><p class="indent">   Bildet man nun die beiden Integrale, welche durch Ein-<br/>setzen von a (Gleichung (9b)) in das in (12a) auftretende <br/>Integral</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191067x.png" alt=" integral 
+   a*d t " class="par-math-display"  /></center>
+<!--l. 1149--><p class="nopar">
+</p><!--l. 1153--><p class="noindent">entstehen, so ersieht man, daß das zweite dieser Integrale die <br/>Gestalt der linken Seite von (14) hat, wobei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /> </span>= <span 
+class="cmmi-12">G</span><sub ><span 
+class="cmr-8">0</span></sub> grad <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-13.png" alt="i" class="12x-x-13" /> </span>ist. <br/>Da dies tatsächlich eine Funktion undulatorischen Charakters <br/>ist, welche zudem verschwindet, wenn grad <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-13.png" alt="i" class="12x-x-13" /> </span>an der Oberfläche <br/>verschwindet, so kann nach (14) dies zweite Integral nur zur <br/><span 
+class="cmmi-12">X</span>-Komponente von <span 
+class="cmmi-12">e </span>einen in Betracht kommenden Anteil
+ <br/>liefern. Eine genauere Rechnung lehrt, daß dies zweite Inte-<br/>gral gerade die
+<span 
+class="cmmi-12">X</span>-Komponente des ersten Integrales kompensiert. <br/>Wir brauchen dies 
+nicht eigens zu beweisen, weil <span 
+class="cmmi-12">e</span><sub ><span 
+class="cmmi-8">x</span></sub> wegen <br/>der Transversalität des Lichtes verschwinden muß. Vermöge <br/>des soeben Gesagten folgt aus (12a) und (9b)</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-22r15"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191068x.png" alt="   ex = 0,         integral   (       )              1          @2G0 y  * {  ey = - 4p-D-c2-  i   -@-t2--   dt ,                    integral   (       )*           ---1----      @2G0-z-    ez = - 4pD  c2   i    @ t2     dt . " class="math-display"  /></center></td><td width="5%">(12b)</td></tr></table>
+<!--l. 1183--><p class="nopar">
+</p><!--l. 1187--><p class="noindent">Wir berechnen nun <span 
+class="cmmi-12">e</span><sub ><span 
+class="cmmi-8">y</span></sub>, indem wir in die zweite dieser Glei-<br/>chungen aus Gleichung (13)</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191069x.png" alt="(@2 G0 y )*                         (      x    a x + b y + g z)   ----2--   = - Ay (2 pn)2 cos 2 pn   t1 + ---  ---------------    @ t                                     V          V " class="par-math-display"  /></center>
+<!--l. 1196--><p class="nopar">
+</p><!--l. 1201--><p class="noindent">einsetzen. Ferner ersetzen wir <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-13.png" alt="i" class="12x-x-13" /> </span>mittels der Gleichungen (8) <br/><pb/>
+</p><!--l. 1206--><p class="indent">
+
+</p><!--l. 1207--><p class="noindent">und (5). Wir erhalten so, indem wir Summen- und Integrations-<br/>zeichen vertauschen,</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191070x.png" alt="              2                       integral  integral   integral       (                          ) e  = Ay--(2pn)- @-e  sum    sum   sum   B           cos2pn   t +  (1---a)x---b-y---g-z-  y     4p D c2  @ r              rst                 1            V                      r   s   t " class="par-math-display"  /></center>
+<!--l. 1221--><p class="nopar"></p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191071x.png" alt="    (      x )       (      y  )     (       z ) cos  2 pr 2-L-  .cos  2 ps 2-L- ; cos  2p t 2L-- d xd y dz , " class="par-math-display"  /></center>
+<!--l. 1233--><p class="nopar">
+</p><!--l. 1237--><p class="noindent">wobei das Raumintegral über den Würfel von der Kanten-<br/>länge <span 
+class="cmmi-12">l </span>zu erstrecken ist. Das Raumintegral ist von der Form</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191072x.png" alt="         integral   integral  integral 
+                                       '       '       ' Jr st =       cos (c x + m y + n z) cos c x cos m y cos n z dx dy dz , " class="par-math-display"  /></center>
+<!--l. 1247--><p class="nopar">
+</p><!--l. 1251--><p class="noindent">wobei zu berücksichtigen ist, daß <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /></span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" /></span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /></span><span 
+class="cmsy-10x-x-120">' </span>als sehr <br/>große Zahlen zu betrachten sind.<sup ><span 
+class="cmr-8">1</span></sup>) In diesem Falle ist zu <br/>setzen
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-23r15"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191073x.png" alt="          (  )3    sin (c - c') l-  sin (m - m') l-  sin (n - n') l-    J    =   1-  l3 ------------2-. ------------2- .-------------2 {   rst     2        (c---c') l      (m---m')-l       (n---n')-l-                          2               2                2                        (                 '           '            '  )                    cos   2p n t1 + (c---c-)-l+  (m---m-) l-+ (n---n-)-l .                                        2           2           2 " class="math-display"  /></center></td><td width="5%">(15)</td></tr></table>
+<!--l. 1276--><p class="nopar">
+</p><!--l. 1279--><p class="noindent">Neben diesem Ausdruck sind bei der Integration solche Aus-<br/>drücke vernachlässigt, welche eine oder mehrere der sehr <br/>großen Größen <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191074x.png" alt="(c + c')"  class="left" align="middle" /> usw. im Nenner haben. Man sieht, <br/>daß <span 
+class="cmmi-12">J </span>nur für solche <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1b.png" alt="s" class="12x-x-1b" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>merklich von Null abweicht, für <br/>welche die Differenzen <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191075x.png" alt="       ' (c - c )"  class="left" align="middle" /> usw. nicht sehr groß sind. Wir <br/>merken an, daß hierbei gesetzt ist</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-24r16"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191076x.png" alt="              1-  a            p r   c =    2p n ------,     c'=  ----,                 V               L { m =  - 2p n b-,         m'=  p-s-,               V                 L   n =  -2 p n n-,         n'=  p-t .               V                 L " class="math-display"  /></center></td><td width="5%">(15a)</td></tr></table>
+<!--l. 1301--><p class="nopar">
+</p><!--l. 1304--><p class="noindent">----------
+</p><!--l. 1307--><p class="indent">   1) Es ist im folgenden so gerechnet, wie wenn <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-16.png" alt="m" class="cmmi-12x-x-16" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-17.png" alt="n" class="12x-x-17" /> </span><span 
+class="cmti-12">positiv </span>wären. <br/>Ist dies nicht der Fall, so ändern sich ein oder mehrere Vorzeichen <br/>in (15). Das Endresultat ist aber stets das gleiche. <pb/>
+</p><!--l. 1314--><p class="indent">
+
+</p><!--l. 1315--><p class="indent">   Setzen wir zur Abkürzung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191077x.png" alt="         2 Ay-(2p-n)--- -@ e = A ,  4 p D c2    @ r " class="par-math-display"  /></center>
+<!--l. 1321--><p class="nopar">
+</p><!--l. 1325--><p class="noindent">so ist</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-25r16"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191078x.png" alt="         sum   sum    sum 
+ey = A             Br st Jr st .          r   s  t " class="math-display"  /></center></td><td width="5%">(12c)</td></tr></table>
+<!--l. 1333--><p class="nopar">
+</p><!--l. 1337--><p class="indent">   Diese Gleichung ergibt in Verbindung mit (15) und (15a) <br/>den Momentanwert des Opaleszenzfeldes für jeden Moment <br/><span 
+class="cmmi-12">t</span><sub ><span 
+class="cmr-8">0</span></sub> = <span 
+class="cmmi-12">t</span><sub ><span 
+class="cmr-8">1</span></sub> + <span 
+class="cmmi-12">D</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191079x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">V </span>an der Stelle <span 
+class="cmmi-12">x </span>= <span 
+class="cmmi-12">D, y </span>= <span 
+class="cmmi-12">z </span>= 0<span 
+class="cmmi-12">.</span>
+Uns interessiert <br/>besonders die mittlere Intensität des Opaleszenzlichtes, wobei <br/>der Mittelwert zu nehmen ist sowohl hinsichtlich der Zeit als <br/>auch hinsichtlich der auftretenden opaleszenz-erregenden Dichte-<br/>schwankungen. Als Maß für diese mittlere Intensität kann <br/>der Mittelwert von <span 
+class="cmmi-12">e</span><sup ><span 
+class="cmr-8">2</span></sup> = <span 
+class="cmmi-12">e</span><sub >
+<span 
+class="cmmi-8">y</span></sub><sup ><span 
+class="cmr-8">2</span></sup> + <span 
+class="cmmi-12">e</span><sub >
+<span 
+class="cmmi-8">z</span></sub><sup ><span 
+class="cmr-8">2</span></sup> dienen. Es ist
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191080x.png" alt="          sum    sum    sum   sum    sum    sum 
+ey2 = A2                       Br s t Br's't'Jrst Jr's't',            r  s   t  r'  s'  t' " class="par-math-display"  /></center>
+<!--l. 1357--><p class="nopar">
+</p><!--l. 1361--><p class="noindent">wobei die Summe über alle Kombinationen der Indizes <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1b.png" alt="s" class="12x-x-1b" />, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" />, </span> <br/><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /></span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1b.png" alt="s" class="12x-x-1b" /></span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">, <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /></span><span 
+class="cmsy-10x-x-120">' </span>zu erstrecken ist -- stets für denselben Wert von <span 
+class="cmmi-12">t</span><sub ><span 
+class="cmr-8">1</span></sub> <br/>Wir bilden nun den Mittelwert dieser Größe in bezug auf die <br/>verschiedenen Dichteverteilungen. Aus (15) ersieht man, daß <br/>die Größen <span 
+class="cmmi-12">J</span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-25.png" alt="r" class="cmmi-8x-x-25" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-1b.png" alt="s" class="8x-x-1b" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-1c.png" alt="t" class="8x-x-1c" /></span></sub> von der Dichteverteilung nicht abhängen, <br/>ebensowenig 
+die Größe <span 
+class="cmmi-12">A</span>. Bezeichnen wir also den Mittel-<br/>wert einer Größe durch einen darüber gesetzten Strich, so <br/>erhalten wir
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191081x.png" alt="---       sum    sum    sum   sum    sum    sum  ------------ ey2 = A2                       Br s t Br's't'Jrst Jr's't'. " class="par-math-display"  /></center>
+<!--l. 1379--><p class="nopar">
+</p><!--l. 1383--><p class="indent">   Da aber gemäß <span 
+class="cmsy-10x-x-120">§ </span>3 die Größen <span 
+class="cmmi-12">B </span>voneinander unab-<br/>hängig das Gausssche Fehlergesetz erfüllen (wenigstens soweit <br/>die von uns verfolgte Annäherung reicht), so ist, falls nicht <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /> </span>= <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /></span><span 
+class="cmsy-10x-x-120">'</span><span 
+class="cmmi-12">, </span> <br/><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1b.png" alt="s" class="12x-x-1b" /> </span>= <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1b.png" alt="s" class="12x-x-1b" /></span><span 
+class="cmsy-10x-x-120">' </span><span 
+class="cmti-12">und </span><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>= <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /></span><span 
+class="cmsy-10x-x-120">' </span>ist
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191082x.png" alt="------------ Br st Br's't'= 0 . " class="par-math-display"  /></center>
+<!--l. 1394--><p class="nopar">
+</p><!--l. 1397--><p class="noindent">Unser Ausdruck für <span class="overline"><span 
+class="cmmi-12">e</span><sub ><span 
+class="cmmi-8">y</span></sub><sup ><span 
+class="cmr-8">2</span></sup></span> reduziert sich deshalb auf
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191083x.png" alt="---        sum   sum    sum   ------ ey2 = A2             B2rs t Jr2s t . " class="par-math-display"  /></center>
+<!--l. 1405--><p class="nopar">
+</p><!--l. 1408--><p class="noindent">Dieser Mittelwert ist aber noch nicht der gesuchte. Es muß <br/>auch bezüglich der <span 
+class="cmti-12">Zeit</span>
+der Mittelwert genommen werden. <br/>Diese tritt lediglich auf im letzten Faktor des Ausdruckes <br/><pb/>
+</p><!--l. 1415--><p class="indent">
+
+</p><!--l. 1416--><p class="noindent">für <span 
+class="cmmi-12">J</span><sub ><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-25.png" alt="r" class="cmmi-8x-x-25" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-1b.png" alt="s" class="8x-x-1b" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-1c.png" alt="t" class="8x-x-1c" /></span></sub><span 
+class="cmmi-12">. </span>Berücksichtigt man, daß der zeitliche Mittelwert <br/>dieses Faktors den Wert
+<span 
+class="cmr-8">1</span>_
+<span 
+class="cmr-8">2</span> hat und setzt man zur Abkürzung</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-26r16"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191084x.png" alt="         '    (c---c-)-l=  q,        2 {  (m---m') l        2     = j ,    (n-  n') l    ----------= z ,        2 " class="math-display"  /></center></td><td width="5%">(16)</td></tr></table>
+<!--l. 1429--><p class="nopar">
+</p><!--l. 1433--><p class="noindent">so erhält man für den endgültigen Mittelwert <span class="overline"><span class="overline"><span 
+class="cmmi-12">e</span><sub ><span 
+class="cmmi-8">y</span></sub><sup ><span 
+class="cmr-8">2</span></sup></span></span> den Ausdruck
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191085x.png" alt="---         (   )6         ------    2     2      2 ty2 = 1A2  .  l-    sum   sum   sum  B2   -sin--q  sin--j-sin--z.       2       2              rst   q2     j2     z2 " class="par-math-display"  /></center>
+<!--l. 1444--><p class="nopar">
+</p><!--l. 1447--><p class="noindent">Nach (7) ist ferner <span class="overline"><span 
+class="cmmi-12">B</span><sub><span 
+class="cmmi-8"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-25.png" alt="r" class="cmmi-8x-x-25" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-1b.png" alt="s" class="8x-x-1b" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-1c.png" alt="t" class="8x-x-1c" /></span></sub><sup><span 
+class="cmr-8">2</span></sup></span> von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1b.png" alt="s" class="12x-x-1b" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-1c.png" alt="t" class="12x-x-1c" /> </span>unabhängig, kann also vor <br/>die Summenzeichen gestellt werden. Es unterscheiden sich <br/>ferner die <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /></span>, welche zu aufeinanderfolgenden Werten von <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-25.png" alt="r" class="cmmi-12x-x-25" align="middle" /> </span> <br/>gehören, nach (16) und (15a) um <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191086x.png" alt="p -- 2"  class="frac" align="middle" /> <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191087x.png" alt="l -- L"  class="frac" align="middle" /><span 
+class="cmmi-12">, </span>also um eine unend-<br/>lich kleine Größe. Deshalb kann man die auftretende drei-<br/>fache Summe in ein dreifaches Integral verwandeln. Da nach <br/>dem Gesagten für das Intervall <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmr12-1.png" alt="D" class="12x-x-1" /> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /> </span>zweier aufeinanderfolgen-<br/>der <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-18.png" alt="q" class="cmmi-12x-x-18" align="middle" /></span>-Werte in dreifacher Summe die Beziehung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191088x.png" alt="D q .2--L- = 1       p  l 
+" class="par-math-display"  /></center>
+<!--l. 1458--><p class="nopar">
+</p><!--l. 1462--><p class="noindent">ist, so ist
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191089x.png" alt="             sum   sum    sum   sin2 q sin2 j sin2 z                        ---2-----2-- ---2--    (     )2              q     j      z      2-L-    sum    sum   sum   sin2-q sin2-j-sin2-z- =    p l                 q2    j2     z2  D q D j D z , " class="par-math-display"  /></center>
+<!--l. 1477--><p class="nopar">
+</p><!--l. 1481--><p class="noindent">welche letztere Summe ohne weiteres als dreifaches Integral <br/>geschrieben werden kann. Aus (16) und (15a) schließt man, <br/>daß dies Integral praktisch zwischen den Grenzen <span 
+class="cmsy-10x-x-120">-<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmsy10-c-31.png" alt=" oo " class="10-120x-x-31" /></span> <br/>und + <span 
+class="cmsy-10x-x-120"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmsy10-c-31.png" alt=" oo " class="10-120x-x-31" /> </span>zu nehmen ist, so daß es in ein Produkt dreier <br/>Integrale zerfällt, deren jedes den Wert <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-19.png" alt="p" class="12x-x-19" /> </span>hat. Berücksichtigt <br/>man dies, so erhält man endlich mit Hilfe von (7) und durch <br/>Einsetzen des Ausdruckes für <span 
+class="cmmi-12">A </span>für <span class="overline"><span class="overline"><span 
+class="cmmi-12">e</span><sub ><span 
+class="cmmi-8">y</span></sub><sup ><span 
+class="cmr-8">2</span></sup></span></span> den Ausdruck
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191090x.png" alt="             (    )2                @-e    (      ) ---   R T0     @ r      2p n  4    l3    Ay2 ey2 = ------ ----2---   -----   -------2 ----        N      v2 @-y-     c     (4p D)    2                 @ v2 " class="par-math-display"  /></center>
+<!--l. 1498--><p class="nopar"> <pb/>
+</p><!--l. 1505--><p class="indent">
+
+</p><!--l. 1506--><p class="noindent">oder, wenn man konsequent das spezifische Volumen <span 
+class="cmmi-12">v </span>ein-<br/>führt und <span 
+class="cmmi-12">c</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191091x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12">n </span>durch die Wellenlänge <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-15.png" alt="c" class="12x-x-15" /> </span>des erregenden Lichtes <br/>ersetzt:</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-27r17"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191092x.png" alt="             (    )                @ e  2 ---         v  ---    (    )4             2 ey2 = R--T0 ---@-v----  2p-   ---P---- Ay--.         N     @2-y-     c     (4 pD)2   2               @ v2 " class="math-display"  /></center></td><td width="5%">(17)</td></tr></table>
+<!--l. 1519--><p class="nopar">
+</p><!--l. 1522--><p class="noindent">Hierbei ist das durchstrahlte opaleszenzerregende Volumen, <br/>auf dessen Gestalt es nicht ankommt, mit <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> bezeichnet. Eine <br/>analoge Formel gilt bezüglich der
+<span 
+class="cmmi-12">z</span>-Komponente, während <br/>seine <span 
+class="cmmi-12">x</span>-Komponente von e verschwindet. Man sieht daraus, <br/>daß für Intensität und Polarisationszustand des nach einer <br/>bestimmten Richtung entsandten Opaleszenzlichtes die Projektion <br/>des elektrischen Vektors des erregenden Lichtes auf die Normal-<br/>ebene zum Opaleszenzstrahl maßgebend ist, welches auch die <br/>Fortpflanzungsrichtung des erregenden Lichtes sein mag.<sup ><span 
+class="cmr-8">1</span></sup>) Be-<br/>zeichnet <span 
+class="cmmi-12">J</span><sub >
+<span 
+class="cmmi-8">e</span></sub> die Intensität des erregenden Lichtes, <span 
+class="cmmi-12">J</span><sub ><span 
+class="cmr-8">0</span></sub> die des
+ <br/>Opaleszenzlichtes in der Distanz <span 
+class="cmmi-12">D </span>von der Erregerstelle in <br/>bestimmter Richtung, <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-27.png" alt="f" class="cmmi-12x-x-27" align="middle" /> </span>den Winkel zwischen elektrischem <br/>Vektor des Erregerlichtes und der Normalebene zum be-<br/>trachteten Opaleszenzstrahl, so ist nach (17)</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-28r18"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191093x.png" alt="             (    )2                @ e J0    R T0 v   @ v   (2  p)4     P ---=  ---------2-----  ---    -------2 cos2 f . Je     N      @-y--     c     (4p D)               @ v2 " class="math-display"  /></center></td><td width="5%">(17a)</td></tr></table>
+<!--l. 1538--><p class="nopar">
+</p><!--l. 1542--><p class="noindent">Wir berechnen noch die scheinbare Absorption infolge Opales-<br/>zenz durch Integration des Opaleszenzlichtes über alle Rich-<br/>tungen. Man erhält, wenn man mit <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-e.png" alt="d" class="12x-x-e" /> </span>die Dicke der durch-<br/>strahlten Schicht, mit <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-b.png" alt="a" class="12x-x-b" /> </span>die Absorptionskonstante bezeichnet <br/>(<span 
+class="cmmi-12">e</span><sup ><span 
+class="cmsy-8">-</span><span 
+class="cmmi-8">n<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi8-e.png" alt="d" class="8x-x-e" /></span></sup> = Schwächungsfaktor der Intensität):
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-29r18"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191094x.png" alt="               (    )2                  @ e   (    )      1  R T0 v   @ v     2 p  4 a = --- ---------2-----  ---    .     6 p  N      @-y--     c                 @ v2 " class="math-display"  /></center></td><td width="5%">(18)</td></tr></table>
+<!--l. 1555--><p class="nopar">
+</p><!--l. 1558--><p class="noindent">----------
+</p><!--l. 1561--><p class="indent">   1) Daß unser Opaleszenzlicht diese Eigenschaft mit demjenigen <br/>Opaleszenzlicht gemein hat, das durch gegen die Wellenlänge des Lichtes <br/>kleine suspendierte Körper veranlaßt wird, kann nicht auffallen. Denn <br/>in beiden Fällen handelt es sich um unregelmäßige, örtlich rasch ver-<br/>änderliche Störungen der Homogenität der durchstrahlten Substanz. <pb/>
+</p><!--l. 1572--><p class="indent">
+
+</p><!--l. 1573--><p class="indent">   Es ist von Bedeutung, daß das Hauptresultat unserer <br/>Untersuchung, das durch Formel (17a) gegeben ist, eine exakte <br/>Bestimmung der Konstante <span 
+class="cmmi-12">N</span>, d. h. der absoluten Größe der <br/>Moleküle gestattet. Im folgenden soll dies Resultat auf den <br/>Spezialfall der homogenen Substanz sowie auf den flüssiger
+ <br/>binärer Gemische in der Nähe des kritischen Zustandes an-<br/>gewendet werden.
+</p>
+<div class="center" >
+
+<!--l. 1583--><p class="noindent">
+</p><!--l. 1584--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>5.   Homogene Substanz.</p></div>
+<!--l. 1588--><p class="indent">   Im Falle einer homogenen Substanz haben wir zu setzen
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191095x.png" alt="       integral 
+y = -    p dv , " class="par-math-display"  /></center>
+<!--l. 1593--><p class="nopar">
+</p><!--l. 1597--><p class="noindent">also
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191096x.png" alt="@2 y      @ p ---2-=  - ---.  @ v      @ v " class="par-math-display"  /></center>
+<!--l. 1604--><p class="nopar">
+</p><!--l. 1607--><p class="noindent">Ferner ist nach der Beziehung von Clausius-Mosotti-<br/>Lorentz
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191097x.png" alt="e--1- e + 2 v = konst., " class="par-math-display"  /></center>
+<!--l. 1614--><p class="nopar">
+</p><!--l. 1618--><p class="noindent">also
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191098x.png" alt="(    )   @ e  2   (e-  1)2 (e + 2)2   @-v   =  ------9-v2------. " class="par-math-display"  /></center>
+<!--l. 1626--><p class="nopar">
+</p><!--l. 1630--><p class="noindent">Setzt man diese Werte in (17a) ein, so erhält man</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-30r19"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_191099x.png" alt="                            (    ) J0-   R-T0-(e---1)2-(e-+-2)2   2p- 4 ---P----    2 J  =   N         (  @-p)      c            2 cos  f .  e            9v  - @ v             (4 pD) " class="math-display"  /></center></td><td width="5%">(17b)</td></tr></table>
+<!--l. 1638--><p class="nopar">
+</p><!--l. 1641--><p class="noindent">In dieser Formel, welche das Verhältnis der Intensität des <br/>Opaleszenzlichtes zum erregenden Licht ergibt, falls letzteres <br/>in der Distanz <span 
+class="cmmi-12">D </span>vom primär bestrahlten Volumen <img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmr12-8.png" alt="P" class="12x-x-8" /> ge-<br/>messen wird, bedeutet:       </p><dl class="description"><dt class="description">
+ </dt><dd 
+class="description">  <span 
+class="cmmi-12">R </span><span 
+class="cmr-10x-x-109">die Gaskonstante,</span>
+      </dd><dt class="description">
+ </dt><dd 
+class="description">  <span 
+class="cmmi-10x-x-109">T  </span><span 
+class="cmr-10x-x-109">die absolute Temperatur,</span>
+      </dd><dt class="description">
+ </dt><dd 
+class="description">  <span 
+class="cmmi-10x-x-109">N  </span><span 
+class="cmr-10x-x-109">die Zahl der Molek</span><span 
+class="cmr-10x-x-109">üle in einem Grammolek</span><span 
+class="cmr-10x-x-109">ül,</span>
+      </dd><dt class="description">
+ </dt><dd 
+class="description">  <span 
+class="cmmi-10x-x-109"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi10-22.png" alt="e" class="10-109x-x-22" />  </span><span 
+class="cmr-10x-x-109">das Quadrat des Brechungsexponenten f</span><span 
+class="cmr-10x-x-109">ür die Wellenl</span><span 
+class="cmr-10x-x-109">änge </span><span 
+class="cmmi-10x-x-109"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi10-15.png" alt="c" class="10-109x-x-15" /></span><span 
+class="cmr-10x-x-109">,</span>
+      </dd><dt class="description">
+ </dt><dd 
+class="description">  <span 
+class="cmmi-10x-x-109">v  </span><span 
+class="cmr-10x-x-109">das spezifische Volumen,</span>
+      </dd><dt class="description">
+ </dt><dd 
+class="description"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_1910100x.png" alt="@p @v"  class="frac" align="middle" /> <span 
+class="cmr-10x-x-109">den isotbermen Differentialquotienten des Druckes nach dem Vo- </span> <br/><span 
+class="cmr-10x-x-109">lumen,</span>
+      </dd><dt class="description">
+ </dt><dd 
+class="description"> <span 
+class="cmmi-10x-x-109"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi10-27.png" alt="f" class="cmmi-10-109x-x-27" align="middle" /> </span><span 
+class="cmr-10x-x-109">den Winkel zwischen dem elektrischen Feldvektor der erregenden </span> <br/><span 
+class="cmr-10x-x-109">Welle und</span>
+      <span 
+class="cmr-10x-x-109">der Normalebene zum betrachteten Opaleszenzstrahl. </span><pb/></dd></dl>
+<!--l. 1665--><p class="indent">
+
+</p><!--l. 1666--><p class="indent">   Daß <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /> p</span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_1910101x.png" alt="/"  class="left" align="middle" /><span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /> v</span> der isotherm und nicht etwa der adiabatisch <br/>genommene Differentialquotient ist, hängt damit zusammen, <br/>daß von allen Zuständen, die zu einer gegebenen Dichtever-<br/>teilung gehören, der Zustand gleicher Temperatur bei ge-<br/>gebener Gesamtenergie der Zustand größter Entropie, also <br/>auch größter statistischer Wahrscheinlichkeit ist.
+</p><!--l. 1676--><p class="indent">   Ist die Substanz, um welche es sich handelt, ein ideales <br/>Gas, so ist nahe
+<span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-22.png" alt="e" class="12x-x-22" /> </span>+ 2 = 3 zu setzen. Man erhält für diesen Fall</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-31r19"></a>
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_1910102x.png" alt="J0    R T0 (e-  1)2 (2 p )4    P ---=  -------------  ---    -------2 cos2 f. Je     N      p       c     (4p D) " class="math-display"  /></center></td><td width="5%">(17c)</td></tr></table>
+<!--l. 1684--><p class="nopar">
+</p><!--l. 1687--><p class="noindent">Diese Formel vermag, wie eine Überschlagsrechnung zeigt, <br/>sehr wohl die Existenz des von dem bestrahlten Luftmeer <br/>ausgesandten vorwiegend blauen Lichtes zu erklären.<sup ><span 
+class="cmr-8">1</span></sup>) Dabei <br/>ist bemerkenswert, daß unsere Theorie nicht
+<span 
+class="cmti-12">direkt </span>Gebrauch <br/>macht von der Annahme einer diskreten Verteilung der Materie.
+</p>
+<div class="center" >
+
+<!--l. 1697--><p class="noindent">
+</p><!--l. 1698--><p class="noindent"><span 
+class="cmsy-10x-x-120">§ </span>6.   Flüssigkeitsgemisch.</p></div>
+<!--l. 1702--><p class="indent">   Auch im Falle eines Flüssigkeitsgemisches gilt der Her-<br/>leitung gemäß Gleichung (17a), wenn man setzt       </p><dl class="description"><dt class="description">
+ </dt><dd 
+class="description"><span 
+class="cmmi-12">v </span>= <span 
+class="cmr-10x-x-109">spezifisches Volumen der Masseneinheit der ersten Komponente,</span>
+      </dd><dt class="description">
+ </dt><dd 
+class="description"><span 
+class="cmmi-10x-x-109"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi10-20.png" alt="y" class="10-109x-x-20" /></span><span 
+class="cmr-10x-x-109">=Arbeit, welche man braucht, um auf umkehrbarem Wege die </span> <br/><span 
+class="cmr-10x-x-109">Masseneinheit der</span>
+      <span 
+class="cmr-10x-x-109">ersten Komponente bei konstanter Temperatur </span> <br/><span 
+class="cmr-10x-x-109">auf umkehrbarem Wege vom</span>
+      <span 
+class="cmr-10x-x-109">spezifischen Volumen des Tem- </span> <br/><span 
+class="cmr-10x-x-109">peraturgleichgewichtes auf ein bestimmtes</span>
+      <span 
+class="cmr-10x-x-109">anderes spezifisches </span> <br/><span 
+class="cmr-10x-x-109">Volumen zu bringen.</span></dd></dl>
+
+<!--l. 1718--><p class="noindent">Die Größe <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-20.png" alt="y" class="12x-x-20" /> </span>läßt sich in dem Falle, daß der mit dem be-<br/>trachteten Flüssigkeitsgemisch koexistierende Dampf als Ge-<br/>misch idealer Gase betrachtet werden kann, und daß die <br/>Mischung als inkompressibel anzusehen ist, durch der Er-<br/>fahrung zugängliche Größen ersetzen. Wir finden dann <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-20.png" alt="y" class="12x-x-20" /> </span> <br/>durch folgende elementare Betrachtung.
+</p><!--l. 1727--><p class="indent">   Der Masseneinheit der ersten Komponente sei die Masse <span 
+class="cmmi-12">k </span> <br/>der zweiten Komponente zugemischt. <span 
+class="cmmi-12">k </span>ist dann ein Maß für <br/>die Zusammensetzung des Gemisches, dessen Gesamtmasse <br/>----------
+</p><!--l. 1733--><p class="indent">   1) Gleichung (17c) kann man auch erhalten, indem man die Aus-<br/>strahlungen der einzelnen Gasmoleküle summiert, wobei diese als voll-<br/>kommen unregelmäßig verteilt angesehen werden. (Vgl. Rayleigh, <br/>Phil. Mag. <span 
+class="cmbx-12">47</span>. p. 375. 1899 und Papers
+<span 
+class="cmbx-12">4</span>. p. 400.) <pb/>
+</p><!--l. 1742--><p class="indent">
+
+</p><!--l. 1743--><p class="indent">   1 + <span 
+class="cmmi-12">k </span>ist. Dies Gemisch besitze eine Dampfphase, und es <br/>sei <span 
+class="cmmi-12">p</span><span 
+class="cmsy-10x-x-120">''</span> der Partialdruck, <span 
+class="cmmi-12">v</span><span 
+class="cmsy-10x-x-120">''</span> das spezifische Volumen der zweiten <br/>Komponente in der Dampfphase. Dies System sei in eine <br/>Hülle eingeschlossen, welche einen semipermeabeln Wandteil <br/>besitzt, durch den die zweite Komponente, nicht aber die erste <br/>in Gasform aus- und eingeführt werden kann. In eine zweite, <br/>relativ unendlich große Hülle sei eine relativ unendlich große <br/>Menge des Gemisches eingeschlossen von derjenigen Zusammen-<br/>setzung (charakterisiert durch <span 
+class="cmmi-12">k</span><sub ><span 
+class="cmr-8">0</span></sub>), für welche wir die Opales-<br/>zenz berechnen wollen. Dies zweite Gemisch besitze auch
+ <br/>einen Dampfraum mit semipermeabler Wand, und es sei Par-<br/>tialdruck - spezifisches Volumen der zweiten Komponente im <br/>Dampfraum mit <span 
+class="cmmi-12">p</span><sub ><span 
+class="cmr-8">0</span></sub><span 
+class="cmsy-10x-x-120">''</span><span 
+class="cmmi-12">, v</span><sub ><span 
+class="cmr-8">0</span></sub><span 
+class="cmsy-10x-x-120">''</span>
+bezeichnet. Im Innern beider Hüllen <br/>möge die Temperatur <span 
+class="cmmi-12">T</span><sub ><span 
+class="cmr-8">0</span></sub> herrschen. Wir berechnen nun die <br/>Arbeit <span 
+class="cmmi-12">d<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-20.png" alt="y" class="12x-x-20" /></span>, welche nötig ist, um durch Transportieren der
+ <br/>Masse <span 
+class="cmmi-12">dk </span>der zweiten Komponente von dem zweiten Behälter <br/>in den ersten in Gasform auf umkehrbarem Wege das Kon-<br/>zentrationsmaß <span 
+class="cmmi-12">k </span>im ersten Behälter um <span 
+class="cmmi-12">dk </span>zu erhöhen. Diese <br/>Arbeit setzt sich aus folgenden drei Teilen zusammen:</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_1910103x.png" alt="   dk - ----p 0''v0''       (Arbeit bei der Entnahme  aus dem  zweiten Beha¨lter)   M  ''               ''     (Isothermische Kompression  bis auf den Partialdruck -dk-        -p--                im  ersten Beh alter) M  ''R  T0 lg p 0''                              ¨ 
+   dk + ---''p''v''         (Arbeit beim  Einf¨uhren in den ersten Beha¨lter) .   M " class="par-math-display"  /></center>
+<!--l. 1782--><p class="nopar">
+</p><!--l. 1785--><p class="noindent">Hierbei ist das Flüssigkeitsvolumen neben dem Gasvolumen <br/>vernachlässigt. <span 
+class="cmmi-12">M</span><span 
+class="cmsy-10x-x-120">''</span>
+ist das Molekulargewicht der zweiten <br/>Komponente in der Dampfphase. Da sich das erste und dritte <br/>Glied nach dem Gesetz von Mariotte wegheben, erhalten wir
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_1910104x.png" alt="                   '' d y = R-T0-d k lg  p--.        M ''       p0'' " class="par-math-display"  /></center>
+<!--l. 1796--><p class="nopar">
+</p><!--l. 1800--><p class="indent">   Die Funktion <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-20.png" alt="y" class="12x-x-20" /> </span>ist also unmittelbar aus Konzentrationen und <br/>Partialdrucken berechenbar. Wir haben nun <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /></span><sup ><span 
+class="cmr-8">2</span></sup> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-20.png" alt="y" class="12x-x-20" /></span><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_1910105x.png" alt="/"  class="left" align="middle" /> <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-40.png" alt="@" class="12x-x-40" /> v</span><sup ><span 
+class="cmr-8">2</span></sup> zu er-<br/>mitteln für denjenigen Zustand, den wir durch den Index ,,<sub ><span 
+class="cmr-8">0</span></sub>&#8220; <br/>bezeichnet haben. Es ist
+</p>
+
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_1910106x.png" alt="  (     )      (             )     -p''-             p''---p0''-                     p2- lg  p  ''  =  lg   1 +   p  ''     = lg (1 + p) = p - 2  ...,       0                  0 " class="par-math-display"  /></center>
+<!--l. 1809--><p class="nopar">
+</p><!--l. 1813--><p class="noindent">wobei <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-19.png" alt="p" class="12x-x-19" /> </span>die relative Druckänderung der zweiten Komponente <br/><pb/>
+</p><!--l. 1817--><p class="indent">
+
+</p><!--l. 1818--><p class="noindent">gegenüber dem Ursprungszustande bezeichnet. Aus den beiden <br/>letzten Gleichungen folgt
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_1910107x.png" alt="                 p2- @-y-   R-T0-p----2--...  @ v =  M ''     @ v    .                 ---                 @ k " class="par-math-display"  /></center>
+<!--l. 1826--><p class="nopar">
+</p><!--l. 1829--><p class="noindent">Differenziert man noch einmal nach <span 
+class="cmmi-12">v </span>und berücksichtigt, daß
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_1910108x.png" alt="       -@- -@-   -@ k @ v =  @ v        @ k " class="par-math-display"  /></center>
+<!--l. 1838--><p class="nopar">
+</p><!--l. 1842--><p class="noindent">ist, so erhält man, wenn man im Resultat <span 
+class="cmmi-12"><img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/cmmi12-19.png" alt="p" class="12x-x-19" /> </span>= 0 setzt:
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_1910109x.png" alt="(     )            @ p            1--@ p''   @2y       R T0   ----     R T0  p'' @ k   ---2-  =  ---''-(-@-k)2- = ---''-(----)2- .   @ v   0   M      @-v       M     @-v                    @ k             @ k " class="par-math-display"  /></center>
+<!--l. 1854--><p class="nopar">
+</p><!--l. 1857--><p class="noindent">Berücksichtigen wir dies, und ebenso, daß
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_1910110x.png" alt="      @-e @ e   @-k- @ v = @ v ,       @-k " class="par-math-display"  /></center>
+<!--l. 1865--><p class="nopar">
+</p><!--l. 1869--><p class="noindent">so geht die Formel (17a) über in
+</p>
+   <table width="100%" 
+class="equation"><tr><td><a 
+ id="x1-32r19"></a>
+
+   <center class="math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_1910111x.png" alt="           (    )              @-e  2 J    M  '' v  @ k    (2 p )4     P -0-= ---- -------''--  ---    -------2 cos2 f . Je    N   @-(lg-p-)    c     (4p D)              @ k " class="math-display"  /></center></td><td width="5%">(17d)</td></tr></table>
+<!--l. 1878--><p class="nopar">
+</p><!--l. 1882--><p class="indent">   Diese Formel, welche nur noch dem Experiment zugäng-<br/>liche Größen enthält, bestimmt die Opaleszenzeigenschaften <br/>von binären Flüssigkeitsgemischen, insoweit man deren ge-<br/>sättigte Dämpfe als ideale Gase behandeln darf, vollkommen <br/>bis auf ein kleines Gebiet in unmittelbarer Nähe des kri-<br/>tischen Punktes. Hier aber dürfte wegen der starken Licht-<br/>absorption und deren großer Temperaturabhängigkeit eine <br/>quantitative Untersuchung ohnehin ausgeschlossen sein. Wir <br/>wiederholen hier die Bedeutungen der in der Formel auf-<br/>tretenden Zeichen, soweit sie nicht bei Formel (17b) angegeben <br/>sind; es ist
+<pb/>
+</p><!--l. 1898--><p class="indent">
+
+      </p><dl class="description"><dt class="description">
+ </dt><dd 
+class="description"><span 
+class="cmmi-12">M</span><span 
+class="cmsy-10x-x-120">''</span> <span 
+class="cmr-10x-x-109">das Molekulargewicht der zweiten Komponente in der Dampf- </span> <br/><span 
+class="cmr-10x-x-109">phase,</span>
+      </dd><dt class="description">
+ </dt><dd 
+class="description"> <span 
+class="cmmi-10x-x-109">v </span><span 
+class="cmr-10x-x-109">das Volumen des Fl</span><span 
+class="cmr-10x-x-109">üssigkeitsgemisches, in welchem die Massen- </span> <br/><span 
+class="cmr-10x-x-109">einheit der</span>
+      <span 
+class="cmr-10x-x-109">ersten Komponente enthalten ist,</span>
+      </dd><dt class="description">
+ </dt><dd 
+class="description"> <span 
+class="cmmi-10x-x-109">k  </span><span 
+class="cmr-10x-x-109">die  Masse  zweiter  Komponente,  welche  auf  die  Masseneinheit  erster</span>
+      <br/><span 
+class="cmr-10x-x-109">Komponente entf</span><span 
+class="cmr-10x-x-109">ällt,</span>
+      </dd><dt class="description">
+ </dt><dd 
+class="description"><span 
+class="cmmi-10x-x-109">p</span><span 
+class="cmsy-10x-x-109">''</span> <span 
+class="cmr-10x-x-109">der Dampfdruck der zweiten Komponente.</span></dd></dl>
+<!--l. 1914--><p class="noindent">Damit es nicht wunderlich erscheine, daß in (17d) die beiden <br/>Komponenten eine verschiedene Rolle spielen, bemerke ich, <br/>daß die bekannte thermodynamische Beziehung
+</p>
+   <center class="par-math-display" >
+<img 
+src="http://foxridge.mpiwg-berlin.mpg.de/permanent/einstein/annalen/Einst_Theor_de_1910/fulltext/img/Einst_Theor_de_1910112x.png" alt=" 1  d p''      1    1 dp' --''--''- = - --' . ----'- M    p       M     k  p " class="par-math-display"  /></center>
+<!--l. 1925--><p class="nopar">
+</p><!--l. 1929--><p class="noindent">besteht. Aus dieser kann man schließen, daß es gleichgültig <br/>ist, welche Komponente man als erste bzw. zweite behandelt.
+</p><!--l. 1933--><p class="indent">   Eine quantitative experimentelle Untersuchung der hier <br/>behandelten Erscheinungen wäre von großem Interesse. Denn <br/>einerseits wäre es wertvoll, zu wissen, ob das Boltzmann-<br/>sche Prinzip wirklich die hier in Betracht kommenden Er-<br/>scheinungen richtig ergibt, andererseits könnte man durch <br/>solche Untersuchungen zu genauen Werten für die Zahl <span 
+class="cmmi-12">N </span> <br/>gelangen.
+</p><!--l. 1942--><p class="indent">   Zürich, Oktober 1910.
+</p>
+<div class="center" >
+
+<!--l. 1945--><p class="noindent">
+</p><!--l. 1946--><p class="noindent">(Eingegangen 8. Oktober 1910.)</p></div>
+<div class="center" >
+
+<!--l. 1951--><p class="noindent">
+</p><!--l. 1952--><p class="noindent">----------</p></div>
+    
+</body></html> 
+
+
+

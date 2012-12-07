@@ -1,0 +1,584 @@
+<?xml version="1.0"?>
+<archimedes xmlns:xlink="http://www.w3.org/1999/xlink" >      <info>
+	<author>Landi, Bassiano</author>
+	<title>Ecphrasis de motu</title>
+	<date>1550</date>
+	<place>Padua</place>
+	<translator></translator>
+	<lang>la</lang>
+	<cvs_file>landi_ecphr_030_la_1552.xml</cvs_file>
+	<cvs_version></cvs_version>
+	<locator>030.xml</locator>
+</info>      <text>          <front>          </front>          <body>            <chap>	<pb xlink:href="030/01/001.jpg" id="p.0001"></pb><p type="head">
+
+<s>BASSIANI <lb></lb><emph type="italics"></emph>LANDIPLA.<emph.end type="italics"></emph.end><lb></lb>CENTINI PHILOSOPHI <lb></lb>ET MEDICI <lb></lb>OPVSCVLA.</s></p><figure id="id.030.01.001.1.jpg" xlink:href="030/01/001/1.jpg"></figure><p type="head">
+
+<s>PATAVII. <lb></lb><emph type="italics"></emph>Apud Simonem Galignanum, <lb></lb>M D LII.<emph.end type="italics"></emph.end></s></p><pb xlink:href="030/01/002.jpg"></pb><p type="main">
+
+<s><emph type="italics"></emph>Ecphraſis de Motu.<emph.end type="italics"></emph.end></s></p><p type="main">
+
+<s><emph type="italics"></emph>Ecphraſis de Tempore.<emph.end type="italics"></emph.end></s></p><p type="main">
+
+<s><emph type="italics"></emph>Ecphraſis de Loco.<emph.end type="italics"></emph.end></s></p><p type="main">
+
+<s><emph type="italics"></emph>Præfatio in Aphoriſmos Hippocratis.<emph.end type="italics"></emph.end></s></p><p type="main">
+
+<s><emph type="italics"></emph>Libellus de Vacuatione.<emph.end type="italics"></emph.end></s></p><p type="head">
+
+<s><foreign lang="grc">Ρέ<gap></gap>ου του<gap></gap> Κορτωναίου.</foreign></s></p><p type="main">
+
+<s><foreign lang="grc">Βίβλον ὁ ουμφερτ<gap></gap>ὼ σω̄ουδαίοις τήνδε πονήσας <lb></lb>Βαασιανὸς, τέκμωρ ὤπασεν ἐ<gap></gap>ομξν́ων,</foreign></s></p><p type="main">
+
+<s><foreign lang="grc">Τοῑς γ<gap></gap> ἀπαιδδ<gap></gap>τοις, φθονερὸν κη̄ρ οἱ̄ς ἐμαραν́θη. <lb></lb><gap></gap>πᾱσινέμειν νοέει μι<gap></gap>ὸν ὀφειλόμ<gap></gap>νον,</foreign></s></p><p type="main">
+
+<s><foreign lang="grc">Καὶ νόον ἐκτελέσειν μάλαἔλπεται, οὕνεκα πά<gap></gap>ειν <lb></lb>Αν̓τὸς ἔχει χλωρη̄ς φάρμα<gap></gap>α τηκεδόνος.</foreign></s></p><pb xlink:href="030/01/003.jpg"></pb><p type="head">
+
+<s><emph type="italics"></emph>PETRO FRANCI. <lb></lb>ſco Contareno Patritio Vene <lb></lb>to, et Senatori optimo, atque<lb></lb>philoſopho grauisſimo, <lb></lb>Basſianus Landus. <lb></lb>S. P. D.<emph.end type="italics"></emph.end></s>
+
+</p><p type="main">
+
+<s><emph type="italics"></emph>Scripsit <lb></lb>olim Montanus <lb></lb>Veronenſis, me <lb></lb>taphraſim <expan abbr="eorũ">eorum</expan><gap></gap><lb></lb>quæ pertinent ad <lb></lb><expan abbr="cõpoſitionẽ">compoſitionem</expan> medi <lb></lb>camentorum, pro <lb></lb>qua, aduerſus calumniatores ſolebat di <lb></lb>cere, materiam quidem ſe eſſe <expan abbr="mutuatũ">mutuatum</expan> <lb></lb>à Galeno, formam uero eſſe ſuam, &amp; <lb></lb>ideò meliorem partem iure optimo ſibi <lb></lb>potuiſſe uendicare. </s>
+
+<s>Ego quoque con-<pb xlink:href="030/01/004.jpg"></pb>ſcripſi Ecphraſim totius phyſiologiæ, <lb></lb>in qua non diffiteor rei <expan abbr="inuentionẽ">inuentionem</expan> eſſe <lb></lb>propriam Ariſtotelis, ſed ordinem, <lb></lb>&amp; methodum, &amp; perſpicuitatem mihi <lb></lb>uendico. </s>
+
+<s>Hanc ſane partem, quæ po­<lb></lb>tior eſt, qui poſſunt adinuenire, illi <expan abbr="cõ-munia">con­<lb></lb>munia</expan> dicunt propriè, quo nihil eſſe dif­<lb></lb>ficilius noster Horatius putauit. </s>
+
+<s>Pro <lb></lb>inde de ſino mirari, cur hoc noſtro ſæ­<lb></lb>culo, cum medici, <expan abbr="tũ">tum</expan> philoſophi id ipſum <lb></lb>uel profitendo, nel ſcribendo, præſta <lb></lb>re aut non posſine, aut nolint. </s>
+
+<s>Et ſi qui <lb></lb>ſint, <expan abbr="qũns">qunns</expan> quidem perpaucos eſſe reor, <lb></lb>hactenus mihi non licuit iudicare. </s>
+
+<s>Qui <lb></lb>enim nihil ſcriptis commendarunt, ſed <lb></lb>de alienis ſe conſtituunt perpetuò &amp; li­<lb></lb>benter. </s>
+
+<s>Iudices &amp; criticos, nullam cen­<lb></lb>ſuram adiorum ſubire poſſunt. </s>
+
+<s>Ego qui­<lb></lb>dem, qui hoc fœliciter præstare potue-<pb xlink:href="030/01/005.jpg"></pb>rit, neminem alium cognoui, queex medi­<lb></lb>cis, quorum ſcripta nunc extant, Mon­<lb></lb>tanum hominem Italum, ex Philoſophis <lb></lb>Iuſtum Velſium Germanum, qui &amp; <lb></lb>viua uoce &amp; ſcriptis hodie <expan abbr="quoq;">quoque</expan> idem <lb></lb>præſtat. </s>
+
+<s>Itaque ex totius Phyſiologiæ <lb></lb>ecphraſieam partem ſelegi, quæ ſpe­<lb></lb>ctat ad res ſuccesſiuas, atque uolui ſub­<lb></lb>tuo nomine in lucem exire, ut ſi compro­<lb></lb>bari ipſam intellexero, quæ longe diffi­<lb></lb>cillima est, quod reliqui fit, poſtea ſi­<lb></lb>nam apparere, quàm diligenter expoli­<lb></lb>uerim. </s>
+
+<s>At omnibus non cupio place­<lb></lb>re, ſed illis duntaxat, qui ſciunt ex arte <lb></lb>&amp; dicere, et ſcribere: præſertim tibi <lb></lb>uni, cuius iudicium tanti facio, quanti <lb></lb>æſtimo, et admiror tuam uariarum re­<lb></lb>rum cognitionem, &amp; in rebus gerendis <lb></lb><expan abbr="mirã">miram</expan> prudentiam. </s>
+
+<s>Accuratam uer<gap></gap><pb xlink:href="030/01/006.jpg"></pb>illam elocutionis formam neglexi, ſed <lb></lb>ſolum artificium tentaui, ſiquidem or <lb></lb>nari res ipſa negat contenta doceri. <lb></lb></s>
+
+<s>Vale, et me, ut facis, ama. </s>
+
+<s>Patauii. <lb></lb></s>
+
+<s>XIIII. Cal. Mart. M. D. LII.<emph.end type="italics"></emph.end></s>
+
+
+
+</p><pb xlink:href="030/01/007.jpg"></pb><p type="head">
+
+<s>ECPHRASIS DE <lb></lb>MOTV.</s></p><p type="main">
+
+<s>MELISSVS Ex priſcis <lb></lb>Philoſophis celebris vir <lb></lb>ſuſtulit motum: quoniam <lb></lb>opinabatur, quod moue­<lb></lb>tur, id omne moueri per inane ſpa­<lb></lb>cium, non per plenum, ne corpora ſe <lb></lb>ſe mutuò penetrarent. </s>
+
+<s>Sed quia ina­<lb></lb>ne nullum eſt, propterea neque motum <lb></lb>eſſe ratus, conſtituit vniuerſum immo­<lb></lb>bile. </s>
+
+<s>Cum autem ſit euidentisſimum <lb></lb>vel ipſis ſenſibus motum eſſe in natura <lb></lb>rerum, an ſit diſquirere ſuperuacaneum <lb></lb>mihi eſſe videtur. </s>
+
+<s>Quin ad præſens <lb></lb>inſtitutum magis pertinere arbitror, <lb></lb>ſi ex perſpecta tota eius natura, diffe­<lb></lb>rentias atque proprias affectiones inue­<lb></lb>nero. </s>
+
+<s>Itaque motus eſt actus rei mobilis, <lb></lb>qua mobilis eſt, à motore proficiſcens,<pb xlink:href="030/01/008.jpg"></pb>ex termino oppoſito in terminum oppo­<lb></lb>ſitum, vnus atque <expan abbr="cõtinuus">continuus</expan>, æquabilis aut <lb></lb>inæquabilis, velox aut tardus, vt vicisſi­<lb></lb>tudo rerum naturalium ſempiterno tem­<lb></lb>pore conſeruetur. </s>
+
+<s>Actum Ariſto. nun­<lb></lb>cupat <foreign lang="grc">ἐνδελέχεαν</foreign>, recentiores philoſo­<lb></lb>phi <foreign lang="grc">ἐνέργεαν</foreign>, á Latinis appoſitè dicitur <lb></lb>perennis motio, quoniam illa <expan abbr="perẽnitas">perennitas</expan> <lb></lb>veram motus naturam ſignificat. </s>
+
+
+
+<s>Cuius <lb></lb>quidem terminus, in quem deſinit, <foreign lang="grc">ω̄ἁ<gap></gap>ος</foreign><lb></lb>vocatur, hoc eſt pasſio. </s>
+
+<s>Motus ergo non <lb></lb>eſt pasſio, vt aliqui falſò opinantur, quia <lb></lb>terminus ille eſt forma. </s>
+
+<s>Forma autem <lb></lb>neque mouet, neque mouetur, ſed id dun­<lb></lb>taxat aut mouet, aut mouetur, quod eſt <lb></lb>compoſitum ex materia ſimul &amp; forma. <lb></lb></s>
+
+<s>Quod dixi de forma, idem iudican­<lb></lb>dum eſt de ſola materia. </s>
+
+<s>Sed rectius <lb></lb><foreign lang="grc">ω̄ἀθκσιν</foreign> appellaſſent, quæ eſt <expan abbr="quædã">quædam</expan> itio <lb></lb>&amp; actus ad ipſum <foreign lang="grc">ω̄ἀθος. </foreign></s>
+
+<s>Interdum ta­<lb></lb>men Galenus in lib. 
+
+de&#039; ſymptomatum<pb xlink:href="030/01/009.jpg"></pb>differentiis <foreign lang="grc">ω̄ἀθημα &amp; ω̄ἀθος</foreign> ſumit <lb></lb>pro ipſa motione &amp; actu, non pro ter­<lb></lb>mino immobili, id quod Ariſtotelimi­<lb></lb>nime placet. </s>
+
+<s>Siquidem de eius ſenten­<lb></lb>tia motus ſit ad pasſionem. </s>
+
+<s>Nam ſi <lb></lb>motus eſſet pasſio, tunc motus eſſet ad <lb></lb>motum. </s>
+
+<s>Conſtat igitur pasſionem eſ­<lb></lb>ſe terminum ſiue formam, in quam de­<lb></lb>ſinit motus. </s>
+
+<s>Itaque, quia motus eſt pe­<lb></lb>rennis motio ad pasſionem, neceſſa­<lb></lb>rium eſt aliquod ſubiectum eſſe capax <lb></lb>motionis &amp; pasſionis: nam motus cie­<lb></lb>ri non poteſt, niſi quippiam moueatur: <lb></lb>nihil autem poteſt moueri, niſi præ­<lb></lb>ſente motu: motus præſens, eſt ip­<lb></lb>ſa motio, ſiue ipſum moueri: motus <lb></lb>enim atque motio ſunt ſubiecto idem, <lb></lb>ſola ratione differunt: quandoquidem <lb></lb>motus &amp; motio ita diſtinguantur, vt <lb></lb>pasſio &amp; pati, actio &amp; agere, albe­<lb></lb>do &amp; albeſcere: nam moueri eſt no-<pb xlink:href="030/01/010.jpg"></pb>tius, quám motus, quia quod mouetur, <lb></lb>id videmus, motum non videmus: <lb></lb>quod patitur ſimiliter videmus, at paſ­<lb></lb>ſionem non videmus. </s>
+
+<s>Quot igitur erunt <lb></lb>ſubiecta genera, in quibus reperitur mo­<lb></lb>tus, &amp; ex quibus eſt motus, &amp; in quæ <lb></lb>eſt pariter motus, totidem quoqueerunt <lb></lb>ſpecies, ſiue differentiæ ipſius. </s>
+
+<s>Porrò <lb></lb>ſubiecta genera plura quàm decem nec <lb></lb>excogitari, nec conſtitui poſſunt, in qui­<lb></lb>bus comperitur motus. </s>
+
+<s>Sed ex his de­<lb></lb>cem ſummis rerum generibus non po­<lb></lb>teſt reperiri in pluribus, quàm in tri­<lb></lb>bus, nimirum in Qualitate, in Quanti­<lb></lb>tate, &amp; in loco. </s>
+
+<s>Motus namque in his tri­<lb></lb>bus eſt, &amp; ex his eſt, &amp; in hæc tria termi­<lb></lb>natur: quia terminus motus eſt aut paſ­<lb></lb>ſio, aut locus: pasſio rurſus eſt, aut qua­<lb></lb>litas, aut quantitas. </s>
+
+<s>In reliquis ſubie­<lb></lb>ctis rerum generibus, non eſt motus: <lb></lb>propterea quòd in illis non reperitur<pb xlink:href="030/01/011.jpg"></pb>contrarium, motus autem eſt inter con­<lb></lb>traria. </s>
+
+<s>Quód nec in ſubſtantia repe­<lb></lb>riatur, neque in relatione, neque in actio­<lb></lb>ne, neque in pasſione, neque in tempore, <lb></lb>ſed potius tempus in motu, neque in ſi­<lb></lb>tu, neque in ipſo habere, his planisſi­<lb></lb>mè conuincitur argumentis. </s>
+
+<s>Non eſt <lb></lb>quidem in ſubſtantia, quia ſubſtantiæ <lb></lb>nihil eſt contrarium, at motus eſt in <lb></lb>contrariis. </s>
+
+<s>Sed contra dicat quis, in <lb></lb>ſubſtantia ſunt priuantia, ergo ſunt con­<lb></lb>traria. </s>
+
+<s>Atqui duplex eſt priuatio, al­<lb></lb>tera ‘quidem generationis &amp; ſubſtan­<lb></lb>tiæ, qualis eſt priuatio formæ in <lb></lb>materia, altera veto eſt motus, at­<lb></lb>que accidentium. </s>
+
+<s>Priuatio ſanè ac­<lb></lb>cidentium eſt vera contrarietas. </s>
+
+<s>Non <lb></lb>in actione &amp; pasſione, neque in <lb></lb>motu, neque in mutatione: quo<gap></gap>­<lb></lb>niam motus eſt actio, &amp; pasſio, at­<lb></lb>que’ mutatio, pasſionem nunc intel-<pb xlink:href="030/01/012.jpg"></pb>ligi volo <foreign lang="grc">ω̄ἀθησιν. </foreign></s>
+
+<s>Si igitur eſſet <lb></lb>in actione &amp; pasſione, motio eſſet in <lb></lb>motione. </s>
+
+<s>Hoc ipſum pronunciatum po­<lb></lb>teſt trifariam intelligi motionem eſſe mo­<lb></lb>tionis, aut eſſe ſubiectum motionis, aut <lb></lb>eſſe terminum, à quo incipit, hoc eſt eſ­<lb></lb>ſe ex motione, aut terminum, in quem <lb></lb>deſinit, hoc eſt eſſe in motionem. </s>
+
+<s>Subie­<lb></lb>ctum non eſt, quia ſubiectum, quando in­<lb></lb>caleſcit, aut creſcit, aut decreſcit, aut lo­<lb></lb>co mouetur, tunc motio non eſt ſubie­<lb></lb>ctum calefactionis, aut incrementi, aut <lb></lb>decrementi, aut loci: ſed eſt ſubſtantia <lb></lb>corporea, in qua eſt motus. </s>
+
+<s>Nec eſt ter­<lb></lb>minus, in quem deſinit, hoc eſt in mo­<lb></lb>tionem: nec is, à quo incipit, hoc eſt ex <lb></lb>motione: quia ſequeretur, vt <expan abbr="idẽ">idem</expan> ſimul <lb></lb>eodem tempore per ſe mutaretur in op­<lb></lb>poſitos motus, vt ſanatio eſt mutatio ex <lb></lb>morbo in ſanitatem, quia motus eſt mu­<lb></lb>tatio ex forma in formam: ſi autem ſa-<pb xlink:href="030/01/013.jpg"></pb>natio in ſanitatem eodem tempore eſſet <lb></lb>in motionem, neceſſarium foret eſſe <expan abbr="nõ">non</expan> <lb></lb>in ſanationem, ſed in ægrotationem, <lb></lb>quia ita motus eſt inter contraria, vt ge­<lb></lb>neratio &amp; interitus inter contradicen­<lb></lb>tia, vt ens, non ens: eſt, <expan abbr="nõ">non</expan> eſt: ergo idem <lb></lb>ſimul eſſet ſanus &amp; æger. </s>
+
+<s>Dixi per ſe, <lb></lb>quia ex accidenti poteſt aliquid in op­<lb></lb>poſitos motus cieri: poteſt enim <expan abbr="quiſpiã">quiſpiam</expan> <lb></lb>ægrotare ſimul &amp; currere &amp; diſcere, ſed <lb></lb>accidit ægrotanti currere, aut diſcere. <lb></lb></s>
+
+<s>Præterea ſi motionis eſſet motio, &amp; ge­<lb></lb>nerationis generatio, &amp; mutationis mu­<lb></lb>tatio, tunc ſequeretur, vt generationis <lb></lb>eſſet in immenſum progresſio, quia ge­<lb></lb>neratio, quæ generatur, ‘ex generatio­<lb></lb>ne eſt antecedente, &amp; alia ſubinde ex <lb></lb>alia, ‘&amp; alia infinitè ex alia: ergo nihil <lb></lb>poterit per ſe generari, aut mutari, quia <lb></lb>in infinito neque primum, neque ſecun­<lb></lb>dum, neque tertium eſt. </s>
+
+<s>Huc etiam perti­<lb></lb><pb xlink:href="030/01/014.jpg"></pb>net, quòd quippiam eſſet muſt<gap></gap> an­<lb></lb>t<gap></gap>, quàm ſit: nam ſi generatio gene­<lb></lb>ratur ex generatione, neceſſarium eſt <lb></lb>vt vna ſit poſterior &amp; altera prior: po­<lb></lb>ſterior nondum eſt, quia quod fit, idnó­<lb></lb>dum eſt, prior eſt, quia facta eſt, er­<lb></lb>go idem eſſet ſimul, &amp; non eſſet. </s>
+
+<s>Ad <lb></lb>extremum efficeretur, vt quod genera­<lb></lb>tur, idem tunc interiret, cum genera­<lb></lb>tur, &amp; vicisſim quod interit, id tunc <lb></lb>generetur, quando interit: hoc eſt ge­<lb></lb>neratio idem eſſet quod interitus, &amp; <lb></lb>interitus quod generatio. </s>
+
+<s>Id quod li­<lb></lb>quidò conſtabit ex duabus poſitis &amp; <lb></lb><expan abbr="cōſtitutis">conſtitutis</expan> hypotheſibus, <expan abbr="quarũ">quarum</expan> hæc pri­<lb></lb>ma eſt. </s>
+
+<s>Vnius atque eiuſdem rei eſt ge­<lb></lb>neratio &amp; interitus, atque prorſus omnis <lb></lb>motus oppoſitus, pariter &amp; illi aduerſa <lb></lb>quies: nam idem corpus, quod moue­<lb></lb>tur, poteſt etiam quieſcere, &amp; quod ca­<lb></lb>leſcit, idem refrigerari. </s>
+
+<s>Altera vero<pb xlink:href="030/01/015.jpg"></pb>eſt, nihil poteſt generari, quod <expan abbr="interdũ">interdum</expan> <lb></lb>non intereat, &amp; reciprocatur. </s>
+
+<s>Siergo ge­<lb></lb>neratio hominis eſt mutatio ex ſemine <lb></lb>in corpus ſentiens, neceſſarium eſt vt ge­<lb></lb>neratio ſit interitus, quia ſi huius gene­<lb></lb>rationis eſt generatio, non alia eſt quàm <lb></lb>generatio cadaueris, quæ eſt interitus, <lb></lb>ſiue corruptio viui corporis: ergo <expan abbr="dũ">dum</expan> ge­<lb></lb>neratur homo, interea corrumpitur, ſiue <lb></lb>interit, &amp; contrà, Itaque motio non eſt mo­<lb></lb>tionis vt terminus à quo incipit, neque vt <lb></lb>terminus in <expan abbr="quẽ">quem</expan> deſinit. </s>
+
+<s>Simili quoque <expan abbr="ra-tiōis">ra­<lb></lb>tionis</expan> modo nec eſt vt ſubiectum, <expan abbr="ſiquidẽ">ſiquidem</expan> <lb></lb>in omni mutatione duo oporteat adeſſe, <lb></lb>vnum quidem quod ſit <expan abbr="ſubiectũ">ſubiectum</expan>, ſiue ma­<lb></lb>teria ex qua, vel inqua ſit mutatio: ex <lb></lb>qua, vt generatio &amp; interitus, in qua, vt <lb></lb>motus: alterum verò, quod ſit <expan abbr="ſubiectũ">ſubiectum</expan>: <lb></lb>ad quod ſit mutatio vel ad formá, vel ad <lb></lb>pasſionem, vel ad locum, &amp; vtrunque<lb></lb>oportet eſſe diuerſum vnum ab altero,<pb xlink:href="030/01/016.jpg"></pb>atque adeo ab ipſa mutatione. </s>
+
+<s>Propterea <lb></lb>ego ſciſcitarer abs te, qualis materia ſub­<lb></lb>ſit mutationi, ex qua, vel in qua^{a}, &amp; in <lb></lb>quam ſit. </s>
+
+<s>Non profectò reſpondebis <lb></lb>eſſe mutationem, quia vterque terminus <lb></lb>debet eſſe diuerſus à mutatione. </s>
+
+<s>Atqui <lb></lb>mutatio non eſt diuerſa à mutatione, <lb></lb>ergo mutatio non eſt ſubiectum muta­<lb></lb>tionis: ſed ſubiectum eſt vel corpus ſim­<lb></lb>plex, vel <expan abbr="cõpoſitũ">compoſitum</expan>, vel anima: &amp; vt muta­<lb></lb>tio ad diſciplinam non eſt diſciplina, <lb></lb>quia nemo ante ſeit, quàm diſcat, ſed <lb></lb>poſtquam didicit, ſic generationis non <lb></lb>eſt generatio. </s>
+
+<s>Non enim qui eſt in via, <lb></lb>idem eſt in termino, ad quem ducit via: <lb></lb>&amp; qui proficiſcitur Thebas, <expan abbr="nõdum">nondum</expan> eſt <lb></lb>Thebis. </s>
+
+<s>Quid quæris?, ſi motionis al­<lb></lb>tera motio eſſet materia, profectò erit <lb></lb>neceſſarium alterationis eſſe vel altera­<lb></lb>tionem, vel accretionem, vel lationem, <lb></lb>Alteratio quidem eſſe non poteſt, quo-<pb xlink:href="030/01/017.jpg"></pb>niam, vt nuper probabam, nec genera­<lb></lb>tionis eſt generatio, neque vllius muta­<lb></lb>tionis eſt mutatio: neque accretio, neque  <lb></lb>latio, quia quod alterabitur, idem <lb></lb>etiam feretur &amp; augeſcet: proinde al­<lb></lb>teratio erit incrementum, aut latio. <lb></lb></s>
+
+<s>Poteſt tamen mutatio eſſe ex acciden­<lb></lb>ti mutationis, vt ſubiecti, quandoqui­<lb></lb>dem posſit Socrates, qui ſanatur, cur­<lb></lb>rere pariter &amp; diſcere, ideo accidit ſa­<lb></lb>nationi currere &amp; diſcere, quia acci­<lb></lb>dit Socrati: ſed hæc motio eſt valde alie­<lb></lb>na à ſcientia de motu. </s>
+
+<s>Quòd autem <lb></lb>non ſit in reliquis generibus, notius <lb></lb>eſt, quàm vt à me demonſtretur. </s>
+
+<s>Re­<lb></lb>linquitur ergo, vt ſit nec in pluribus, <lb></lb>neque in paucioribus, quàm in tri­<lb></lb>bus, tum in genere qualitatis, tum in <lb></lb>genere quantitatis, tum in loco: non <lb></lb>quia moueatur qualitas, aut quantitas, <lb></lb>aut locus, quia termini ſunt quædam<pb xlink:href="030/01/018.jpg"></pb>formæ, proinde immobiles: ſed pro­<lb></lb>pterea in his ſtatuitur, quòd ex qua­<lb></lb>litate in qualitatem, aut ex quanti­<lb></lb>tate in quantitatem, aut ex loco in <lb></lb>locum fiat motio, hoc eſt ex forma in <lb></lb>formam, ſiue ex pasſione in pasſionem, <lb></lb>vel locum. </s>
+
+<s>Cum igitur in tribus ge­<lb></lb>neribus duntaxat motus reperiatur, <lb></lb>illius tres erunt tantum ſpecies, ſiue <lb></lb>differentiæ ſuis nominibus diſtinctæ. <lb></lb></s>
+
+<s>Itaque motus in qualitate dicitur <foreign lang="grc">ἀλ­<lb></lb>λοίωσις</foreign>, à noſtris alteratio vertitur, <lb></lb>quod quidem nomen eſt commune om­<lb></lb>nibus motibus, qui fiunt in qua­<lb></lb>litate, &amp; in qualitatem. </s>
+
+<s>Plato ta­<lb></lb>men accommodauit plerunque ad ge­<lb></lb>nerationem &amp; interitum, niſi meta­<lb></lb>phoricè tranſtulerit ad illud genus al­<lb></lb>terationis, quæ eſt mutatio quali­<lb></lb>tatis in ſubſtantia, quæ nuncupatur <lb></lb>differentia ſiue qualitas <foreign lang="grc">δ̓σιὠδης</foreign>, hoc<pb xlink:href="030/01/019.jpg"></pb>eſt eſſentialis: quandoquidem conſti­<lb></lb>tuat eſſentiam rei, à qua non poteſt ſe­<lb></lb>iungi ſine ipſius interitu, vt nec ca­<lb></lb>lor ab igne, nec frigus à glacie, Sed al­<lb></lb>teratio eſt duplex, vna quidem eſt mu­<lb></lb>tatio ex forma contraria in formam: <lb></lb>formam in præſentia volo intelligi paſ­<lb></lb>ſionem, vel locum: pasſionem quidem <lb></lb>tam in qualitate, quàm in quantita­<lb></lb>te: verbi cauſa ſanatio eſt motus, ſiue <lb></lb>mutatio ex ægritudine in ſanitatem. <lb></lb></s>
+
+<s>San<gap></gap> ægritudo &amp; ſanitas ſunt formę, <lb></lb>&amp; termini ſanationis, qui quidem <lb></lb>termini ſunt immobiles, non enim <lb></lb>mouentur, ſed generantur, quia ſu­<lb></lb>bitò fiunt, &amp; hæc generatio non eſt <lb></lb><foreign lang="grc">ἁω̄λω̄ς γέν εσις</foreign>, ſed eſt vel quædam ge­<lb></lb>neratio, vel alicuius generatio, quia eſt <lb></lb>generatio accidentis: nam generatio <lb></lb>ſimplex eſt mutatio ſubſtantiæ. </s>
+
+<s>Alte­<lb></lb>ra verò eſt eiuſdem formæ, qualis eſt<pb xlink:href="030/01/020.jpg"></pb>mutatio ex minus albo, vel minus cali­<lb></lb>do, in magis album, vel magis calidum. <lb></lb></s>
+
+<s>Eſt quoque id poſtremum genus alteratio <lb></lb>nisinter contraria, quia minus album ni­<lb></lb>gri naturam, quemadmodum minus ca­<lb></lb>lidum frigidi obtinet, vt mutatio tepi­<lb></lb>dæ aquę ad gelidam, obtinet naturam <lb></lb>calidæ, &amp; ad feruidam ſubit naturam <lb></lb>gelidæ: proinde nominatur ab Ariſtot. <lb></lb>s.phy. <foreign lang="grc">ω̄ῑ ἀλλοἰωσις</foreign>, hoc eſt <expan abbr="quædā">quædam</expan> al­<lb></lb>teratio, ſiue alteratio quadam ex par­<lb></lb>te, Iamverò motus in quantitate, vt <lb></lb>vnum commune nomen deſideratur, (eſt <lb></lb>enim duplex <foreign lang="grc">ἄυζνσις καὶ φοίσις</foreign>, in cre­<lb></lb>mentum &amp; decrementum) ſic in loco <lb></lb>motus neque proprium, neque commune <lb></lb>nomen habet. </s>
+
+
+
+<s>Nam <foreign lang="grc">φορὰ</foreign>, quæ à La­<lb></lb>tinis appellatur latio propriè &amp; appo­<lb></lb>ſitè, conuenit illis corporibus, quæ natu­<lb></lb>ra mouentur, &amp; cum loco mouentur, <expan abbr="tũc">tunc</expan> <lb></lb>nó habent in ſua poteſtate, vt quieſcát:<pb xlink:href="030/01/021.jpg"></pb>nec quando quieſcunt in, illis <expan abbr="ſitũ">ſitum</expan> eſt, vt <lb></lb><expan abbr="motũ">motum</expan> ex ſe auſpicentur<gap></gap>: cuius modi eſt <lb></lb>motus <expan abbr="illorũ">illorum</expan> corporum <expan abbr="grauiũ">grauium</expan> &amp; <expan abbr="leuiũ">leuium</expan>, <lb></lb>quæ ſunt inanimia. </s>
+
+<s>Proinde ob egeſta­<lb></lb>tem ſermonis cum Græci, tum Latini <lb></lb><foreign lang="grc">φρζὰ̓</foreign>, hoc eſt latio, transfertur ad om­<lb></lb>nia genera motuum, qui ſunt in loco, &amp; <lb></lb>cientur ad locum. </s>
+
+<s>Motus porrò, qui <lb></lb>eſt in loco, duplex eſt genus, alterum <lb></lb>commune, &amp; alterum proprium. </s>
+
+<s>Com­<lb></lb>mune eſt, quod pluribus in rebus ineſt, <lb></lb>quàm cætera genera motuum, &amp; per <lb></lb>plura vagatur genera: pluribus qui­<lb></lb>dem in rebus, quoniam hæret &amp; corpo­<lb></lb>ribus caducis, tam ſimplicibus, quàm <expan abbr="cō">com</expan> <lb></lb>poſitis, atque adeo cœleſtibus, cœleſtia <expan abbr="nā">nam</expan> <lb></lb>que in loco mouentur. </s>
+
+<s>Per plura vaga­<lb></lb>tur genera, quoniam transfertur &amp; ad <lb></lb>accretionem, &amp; ad imminutionem: nam <lb></lb>accretio motus eſt, quo non tota mole, <lb></lb>ſed partibus corpus mutat locum, vti<pb xlink:href="030/01/022.jpg"></pb>ſtirpes, quæ creſcentes occupant am­<lb></lb>pliorem locum humi adhæreſcentes: <lb></lb>imminutione accipiunt humiliorem &amp; <lb></lb>minorem locum. </s>
+
+<s>Et ſinec in accretio­<lb></lb>ne, neque in imminutione mutatur locus <lb></lb>tota mole, tamen hic motus differt à mo­<lb></lb>tu cœli, quia cœlum in eodem loco ſem­<lb></lb>per conuertitur, eundem perpetuò te­<lb></lb>nens locum, partibus per vicisfitu dinem <lb></lb>ſubeuntibus. </s>
+
+<s>At verò motus proprius <lb></lb>eſt ille, quo corpus omnino, &amp; tota ſua <lb></lb>mole mutat locum. </s>
+
+<s>Iccirco philoſophi <lb></lb>audito nomine motus, per <expan abbr="antonomaſiā">antonomaſiam</expan> <lb></lb>intelligi volunt mutationem loci, quam <lb></lb><foreign lang="grc">τῡͅν φοράν</foreign> Ariſtote nuncupauit: quem­<lb></lb>admodum medici bilemſme aliqua ad­<lb></lb>iunctione <foreign lang="grc">κατ̓ ἐζοχ<gap></gap></foreign> intelligunt <expan abbr="flauā">flauam</expan>. <lb></lb></s>
+
+<s>Nec ſolum eſt communis, &amp; proprius, <lb></lb>verum etiam eſt prior omni motu, tum <lb></lb>natura, tum ratione, tum tempore. </s>
+
+<s>Pro­<lb></lb>inde nemini debet mirum videri, ſi Ari.<pb xlink:href="030/01/023.jpg"></pb>ſæpe lationem diuiſit in tres motus; <lb></lb>ſpecies, vnam propriam, &amp; reliquas <lb></lb>duas communes. </s>
+
+<s>Cæterum qualia cun­<lb></lb>que ſint genera motus, diuiſione ha­<lb></lb>ctenus inuenta, neceſſarium eſt, vt ha­<lb></lb>beant <expan abbr="rē">rem</expan> mobilem ſibi ſubiectam: quia, <lb></lb>omnis motus est in re mobili, hoc <lb></lb>eſt in eo, quod mouetur, vt caleſactio <lb></lb>eſt in ligno, non in termino à quo inci­<lb></lb>pit, veluti in frigore, neque, in termino <lb></lb>in quem deſinit, vt in calore, quia eſt <lb></lb>forma &amp; finis, finis autem eſt immobilis: <lb></lb>proinde admonet Auer cum eo non <lb></lb>eſſe diſputandum, qui cogitat &amp; conten­<lb></lb>dit formam moueri, quemadmodum in­<lb></lb>ter initia explanabam. </s>
+
+<s>At ſi in aliquo <lb></lb>eſſet termino, veriſimilius eſt in termino <lb></lb>ad quem tendit motus, eſſe, quàm in eo <lb></lb>vnde fit: quia motus ſumit nomen a ter­<lb></lb>mino, i <expan abbr="quē">quem</expan> deſinit, vt motus in ens, deno­<lb></lb>minatur generatio, quanquam incipit à<pb xlink:href="030/01/024.jpg"></pb>non ente: &amp; motus in non ens vocatur in <lb></lb>teritus, quamuis incipiat ab ente: &amp; mo­<lb></lb>tus in calorem deſinens, nominatur cale­<lb></lb>factio: quanquam, incipit à frigore. </s>
+
+<s>Mo­<lb></lb>tus ergo eſt in eo, quod mouetur, quia <lb></lb>eſt ſua materia, in qua eſt: id quod oſten­<lb></lb>dit breuis &amp; propria definitio tradita­<lb></lb>ab Ariſt.3.phy. definit enim motum eſſe <lb></lb><expan abbr="Endelechiārei">Endelechiarrei</expan> mobilis, vt mobilis eſt: <lb></lb>ergo motus eſt in eo, quod mouetur: &amp; <lb></lb>quia res mobilis patitur &amp; recipit mo­<lb></lb>tum, ideo motus ſæpe vocatur pasſio. <lb></lb></s>
+
+
+
+<s>Sed quo ad res mouetur, &amp; motus vtro­<lb></lb>que termino ita concluditur, vt partim <lb></lb>ſit in termino, à quo recedit, &amp; partim <lb></lb>in termino, ad quem accedit, ſed nullo <lb></lb>adhuc perfectè potitur, interea motus <lb></lb>eſt: quandiu enim motus fit, tandiu <lb></lb>eſt, vbi deſinit fieri, continuò etiam de­<lb></lb>finit eſſe: perpetuo fluit, &amp; nunquam <lb></lb>permanet in re mobili, qua mobilis eſt:<pb xlink:href="030/01/025.jpg"></pb>res namque, in qua eſt motus, nobis in­<lb></lb>dicat eius naturam: cuius rei illud eſt <lb></lb>argumentum, quòd talem motum con­<lb></lb>ſueuimus appellare, qualis eſt res mo­<lb></lb>bilis, qua mobilis eſt. </s>
+
+<s>Ne longius abie­<lb></lb>ris, ree mobilis cenſetur eſſe, quia poteſt <lb></lb>moueri aut perſe, aut ex accidenti, aut <lb></lb>per partem. </s>
+
+<s>Per ſe eaeſt, quæ habet in <lb></lb>ſe motum, &amp; motus à nullo pendet. </s>
+
+<s>Ex <lb></lb>accidenti verò, aut perpetuò, aut non <lb></lb>perpetuò: perpetuò quidem, quia nun­<lb></lb>quam perſe mouetur: quandoquidem <lb></lb>ſemper alteri hęreat, vt omnia acciden­<lb></lb>tia, vt affectiones, vt anima: non per­<lb></lb>petuò quidem, quia aliquando mouetur <lb></lb>per ſe, vt nauta mouetur quidem per <lb></lb>accidens, ſed abſolutus &amp; ſeparatus a <lb></lb>nauigio, per ſe mouetur. </s>
+
+<s>Per partem mo­<lb></lb>bilis res, poteſt referri ad mobilem ex <lb></lb>accidenti non perpetuò <gap></gap> vt dicimus <lb></lb>Socratem male valere, quia oculus<pb xlink:href="030/01/026.jpg"></pb>quia corpus mobile eò mouetur, quò <expan abbr="ſuũ">ſuum</expan> <lb></lb><expan abbr="principiũ">principium</expan> inclinat &amp; <expan abbr="propẽdet">propendet</expan>, quod di­<lb></lb>citur natura. </s>
+
+<s>Natura <expan abbr="aũt">aunt</expan>, quę eſt <expan abbr="princi-piũ">princi­<lb></lb>pium</expan> eius inclin<gap></gap><expan abbr="tiõis">tionis</expan>, &amp; <expan abbr="propẽſionis">propenſionis</expan>, à <expan abbr="nõ">non</expan> <lb></lb>nullis vocat<gap></gap> grauitas &amp; leuitas: pro­<lb></lb>penſio verò dicitur <foreign lang="grc">ρ οπ<gap></gap>. </foreign></s>
+
+<s>De illoum <lb></lb>igitur ſententia propenſio ſequitur gra­<lb></lb>uitatem &amp; leuitatem, grauitas &amp; leuitas <lb></lb>formam, per quam corpus mobile &amp; eſt, <lb></lb>&amp; exit in opus. </s>
+
+<s>Sed vtrum grauitas &amp; le­<lb></lb>uitas ſit natura, nunc non facio meam li­<lb></lb>tem: ſatis eſt mihi habere pro comperto, <lb></lb>de ſententia Ariſtotelis, motum natura­<lb></lb>lem cieri à motore, ſiue à principio in­<lb></lb>terno. </s>
+
+<s>Externum principium, quod eò <lb></lb>mouet corpus mobile, quò principium <lb></lb>internum non inclinat, motum violen­<lb></lb>tum efficit: vt motus corporis leuis deor­<lb></lb>sum, &amp; grauis ſurſum, violentus eſt: mo­<lb></lb>tus igitur violentus eſt, quò pellitur cor­<lb></lb>pus mobile à motore externo, &amp; illo qui-<pb xlink:href="030/01/027.jpg"></pb>dem, aut præſente, aut abſente: præſente <lb></lb>quidem, aut vehente, aut trahente: ab­<lb></lb>ſente verò, quia abeſt à toto motu, &amp; ad <lb></lb>eſt initio motus, qualis eſt motus ille, <lb></lb>qui dicitur iactus a Latinis, à græcis <foreign lang="grc">ρ<gap></gap><lb></lb>ψις. </foreign></s>
+
+<s>Iactum portò abſente motore pro­<lb></lb>duci opinatur Plato per antiperiſtaſim, <lb></lb>hoc eſt ex appetitu quodam naturali aë­<lb></lb>ris, occupandi ſubitò illum locum, quem <lb></lb>antea implebat corpus proiectum, idque  <lb></lb>ne detur locus vacuus corpore: aër <lb></lb>enim, qui circumſtat &amp; obſidet iactam <lb></lb>ſagittam, aut aliud misſile, dum occupat <lb></lb>locum deſtitutum corpore, interea pel­<lb></lb>lit ſagittam. </s>
+
+<s>Itaque efficitur iactus ex per­<lb></lb>mutatione locorum ſecundum dogma <lb></lb>Platonis: id tamen Ariſtoteli non vſque<lb></lb>quaque probatur: Is enim in phyſicis cau­<lb></lb>ſatur pulſum, quem nominat <foreign lang="grc">ὤθησιν</foreign>: <lb></lb>Motor namque verbi cauſa manus, primò <lb></lb>pellit aërem, deinde pars aeris pulſa, &amp;<pb xlink:href="030/01/028.jpg"></pb>misſile compellit ſimul &amp; ſibi <expan abbr="proximũ">proximum</expan> <lb></lb>aerem, ſubinde alia pars aliam vici­<lb></lb>nam, quoad poteſt reddere aptam ad <lb></lb>mouendum, vbi non poteſt aptam red­<lb></lb>dere, tunc pulſus continuò ceſſat. </s>
+
+<s>Sed <lb></lb>ille pulſus, eſt motus <expan abbr="lõgè">longè</expan> celerior, quàm <lb></lb>motus naturalis, corporis iacti, vt aër <lb></lb>ocyus pellitur deorſum, quàm mouea­<lb></lb>tur corpus graue: ſi eſſet tardior, iactum <lb></lb>corpus <expan abbr="nõ">non</expan> pelleretur. </s>
+
+<s>Proinde Empedo <lb></lb>cles opinatus eſt terram eſſe immobi­<lb></lb>lem, ex conuerſione coeli, eò ſané, quòd <lb></lb>ſit ipſa longè velocior, quàm motus <lb></lb>terræ deorſum. </s>
+
+<s>Argumento nobis eſt <lb></lb>chalcydryon plenum aqua, ex cuius <lb></lb>orificio patente &amp; lato, circá caput ce­<lb></lb>lerrime rotato, nihil aquæ funditur, <lb></lb>ſed ſtat immobilis: propterea quód <lb></lb>illa rotatio eſt multo velocior, quàm <lb></lb>aquæ motus naturalis deorſum. </s>
+
+<s>Non <lb></lb>nulli recentiores Philoſophi, vt oſten-<pb xlink:href="030/01/029.jpg"></pb>derent etiam ipſis haud eſſe præclu­<lb></lb>ſam viam philoſophandi, nec Platoni, <lb></lb>nec Ariſtoteli aſſentiuntur: propte­<lb></lb>rea comminiſcuntur aliam cauſam: opi­<lb></lb>nantur enim quandam qualitatem im­<lb></lb>preſſam à motore ipſis misſilibus, oc­<lb></lb>cultam, &amp; fugientem ſenſus, iaculatio­<lb></lb>nem perficere. </s>
+
+<s>An hæc opinio etiam <lb></lb>ſit veriſimilis, docti viri iudicabunt: <lb></lb><expan abbr="equidẽ">equidem</expan> ipſam validis argumentis euer­<lb></lb>ti (vt reor) in eo opere, quod inſcripſi <lb></lb>de ſcholaſticis <expan abbr="cõtrouerſiis">controuerſiis</expan>. </s>
+
+<s>Sed vt eò re­<lb></lb>deat, vnde deflexit noſtra oratio, Ne­<lb></lb>mini <expan abbr="dubiũ">dubium</expan> eſt, quin motor ſit <expan abbr="principiũ">principium</expan> <lb></lb>motus in re mobili, qua mobilis eſt. <lb></lb></s>
+
+<s>Motus autem, qui cietur a finito moto <lb></lb>re, itidem finitus eſt, propterea finibus <lb></lb>&amp; terminis concluditur: eſt ergo motus <lb></lb>itio quædam, ſiue mutatio ex termino in <lb></lb><expan abbr="terminũ">terminum</expan>, <expan abbr="quemadmodũ">quemadmodum</expan> nominis etymon <lb></lb>planisſime ſignificat: nuncupatur enim<pb xlink:href="030/01/030.jpg"></pb>à Græcis phyſiologis <foreign lang="grc">μεταβολή παρἀ <lb></lb>τὸβάλλεν μετἀ τό <gap></gap>ε θ̓ς τό δε</foreign>, quòd fiat <lb></lb>tranſitus ex hoc in illud, vt Ariſt. 
+
+gram­<lb></lb>maticorum ſecedil;pisſime præcepta conſecta­<lb></lb>tus in phyſicis interpretatur. </s>
+
+<s>Mutatio <lb></lb>tamen latius patet, quàm motus, <expan abbr="quoniã">quoniam</expan> <lb></lb>omnis quidem motus eſt mutatio, ſed <lb></lb>non omnis mutatio eſt motus: quia ge­<lb></lb>neratio, &amp; interitus eſt mutatio, motus <lb></lb>verò differt à generatione &amp; interitu, <lb></lb>quemadmodum ex natura terminorum <lb></lb>&amp; finium, quibus clauduntur, manifeſtò <lb></lb>apparet. </s>
+
+<s>Nam termini ſunt, oppoſiti, <lb></lb>alioqui nullus citaretur motus, ſed cun­<lb></lb>cta quieſcerent, illa cuim diuerſa na­<lb></lb>tura eſt opifex motus. </s>
+
+<s>Poſſunt autem <lb></lb>opponi, aut <foreign lang="grc">ἐναντ<gap></gap>ς</foreign>, hoc eſt con­<lb></lb>trariè. </s>
+
+<s>aut <foreign lang="grc">ἀντιφατικω̄ς</foreign>, hoc eſt con­<lb></lb>tradictoriè, veluti affirmatio &amp; negatio <lb></lb>Contrariè quidem, vt ſanatio eſt mo­<lb></lb>tus ex ægritudine in fanitatem: nam<pb xlink:href="030/01/031.jpg"></pb>ægritudo eſt contraria ſanitatis. </s>
+
+<s>Si­<lb></lb>mili quoque modo ægrotatio eſt muta­<lb></lb>tio ex ſanitate in ægritudinem. </s>
+
+<s>Mo­<lb></lb>tus ergo proficiſcens ope motoris, in re­<lb></lb>mobili, qua mobilis eſt, à termino con­<lb></lb>trario fertur i~n terminum contrarium. <lb></lb></s>
+
+<s>Sed ad eſſentiam contrarietatis, magis <lb></lb>concurrit terminus contrarius, in quem <lb></lb>deſinit motus, quám terminus pari­<lb></lb>ter contrarius a quo inchoat motus: <lb></lb>propterea quòd terminus, à quo pro­<lb></lb>ficiſcitur motus, eſt liberatio contra­<lb></lb>rietatis, terminus ver<gap></gap>, ad quem <lb></lb>contendit, eſt aſſumptio contrarieta­<lb></lb>tis: per illum abit á contrarietate, <lb></lb>per hune ſubit contrarietatem: eſt igi­<lb></lb>tur motus, ex ſubiecto contrario, in <lb></lb>contrarium. </s>
+
+<s>Contradictorie verò ad­<lb></lb>uerſantur, vbi fit tranſitus, ex ſu­<lb></lb>biecto, ſiue ex affirmatione, in non ſubie­<lb></lb>ctum, ſiue negationem, qualis eſt interitus:<pb xlink:href="030/01/032.jpg"></pb>aut ex non ſubiecto, ſiue ex ne­<lb></lb>gatione in ſubiectum, ſiue affir­<lb></lb>mationem, cuiuſmodi eſt generatio. <lb></lb></s>
+
+<s>Porrò interitus, atque generationon eſt <lb></lb>motus, ſed rectius nominatur muta­<lb></lb>tio, ſiquidem non ſit ex contrario, <lb></lb>quin potius ex non contrario: quia eſt <lb></lb>ex negatione in affirmationem, vt ex <lb></lb>non ente in ens, &amp; vicisſm, ex affirma­<lb></lb>tione in negationem, vt ex, ente, in <lb></lb>non ens. </s>
+
+<s>Sed affirmantia, ſiue aien­<lb></lb>tia, &amp; negantia, vt Cicero quoque teſta­<lb></lb>cur, non ſunt contraria, ſed contradicen­<lb></lb>tia. </s>
+
+<s>Motus ergo, &amp; mutatio, ratione ter <lb></lb>minorum differunt. </s>
+
+<s>Et quemadmodum <lb></lb>motus, clauditur terminis contrariis, ita <lb></lb>etiam ratione terminorum, alter alteri <lb></lb>contrarius eſt: nam illi ſunt motus con­<lb></lb>trarii, qui cientur ex contrariis in <lb></lb>contraria: cuiusmodi ſunt ſanatio &amp; <lb></lb>ægrotatio, cuius modiſcientia, quæ di-<pb xlink:href="030/01/033.jpg"></pb>citur inuentio, &amp; error ex ſe: cuiuſmodi <lb></lb>ſcientia ab alio accepta, &amp; error per <lb></lb>alium: cuiuſmodi locus ſuperus, &amp; in­<lb></lb>ſerus, ratione longitudinis, aut dextes <lb></lb>&amp; ſiniſter, meritò latitudinis, aut poſte­<lb></lb>rior, &amp; anterior, ratione altitudinis. <lb></lb></s>
+
+<s>Ex contrariis autem, vel ſunt exactè <lb></lb>contrarii, vel quodam modo. </s>
+
+<s>Exactè <lb></lb>contrarii illi planè ſunt, qui cientur ex <lb></lb>contrariis extremis, in contraria ex­<lb></lb>trema. </s>
+
+<s>Quodam modò contrarii <lb></lb>iudicantur illi eſſe, qui ſunt ex mediis <lb></lb>contrariis: nam medium comparatum <lb></lb>cum alterutro extremorum, rationem <lb></lb>obtinet alterius extremi. </s>
+
+<s>Non <expan abbr="ſolũ">ſolum</expan> mo­<lb></lb>tus, ſed propriè &amp; primum motus, qui <lb></lb>fiunt in loco, aduerſantur ratione ter­<lb></lb>minorum (vt explanaui) qui ſunt <lb></lb>oppoſiti, ſed etiam ratione modi. </s>
+
+<s>Nam <lb></lb>omnis motus, eſt aut violentus, aut na­<lb></lb>turalis. </s>
+
+<s>At verò interitus, aduerſatur<pb xlink:href="030/01/034.jpg"></pb>generationi ſola ratione terminorum, <lb></lb>non modi: propterea quòd interitus, <lb></lb>eſt mutatio ex ente: generatio ex non en­<lb></lb>te, ens non ens, eſt, non eſt, ſunt termini <lb></lb>oppoſiti, &amp; contradicunt. </s>
+
+<s>Sed interi­<lb></lb>tus aduerſatur reritui, &amp; generatio ge­<lb></lb>nerationi, non ratione terminorum, ſed <lb></lb>modi duntaxat: quoniam vtraque muta­<lb></lb>tio, eſt aut violenta, aut naturalis. </s>
+
+<s>Nam <lb></lb>interitus naturalis, aduerſatur interi­<lb></lb>tui pręter naturam, pariter &amp; generatio­<lb></lb>ni, ſed alia ratione, nempè termmino­<lb></lb>rum. </s>
+
+<s>Et quemadmodum motus, atque<lb></lb>mutationes aduerſantur, aut ratione ter­<lb></lb>minorum, aut modi, ita quoque iudicari <lb></lb>volo de quiete, de qua ſuo loco breuiter <lb></lb>dicetur. </s>
+
+<s>Quin potius illud diſquira­<lb></lb>mus, quod ad <expan abbr="diſſolutionẽ">diſſolutionem</expan> definitionis <lb></lb>pertinet, an in omni motu ſit duplex <expan abbr="cõ-trarietas">con­<lb></lb>trarietas</expan>. </s>
+
+<s>Nonnulli quidem, qui ſibi <lb></lb>totum nomen <expan abbr="vendicãt">vendicant</expan> in philolophia,<pb xlink:href="030/01/035.jpg"></pb>opinantur in latione tantùm eſſe dupli­<lb></lb>cem contrarietatem, alteram ſanè, quæ <lb></lb>ſumitur à terminis contrariis, alteram <lb></lb>autem, quæ ſumitur à modo. </s>
+
+<s>A ter­<lb></lb>minis contrariis, vt latio à ſupero ad <lb></lb>inferum locum, eſt contraria lationi, quæ <lb></lb>eſt ab infero ad ſuperum. </s>
+
+<s>A modo, vt <lb></lb>latio ignis ſurſum, eſt contraria lationi <lb></lb>eiuſdem deorſum, quia illa quidem eſt <lb></lb>naturalis, hæc verò eſt præter naturam. <lb></lb></s>
+
+<s>Huiuſ modi autem differentias (natu­<lb></lb>ra, &amp; præter naturam) non, inueniri af­<lb></lb>firmant in aliis motibus, neque in altera­<lb></lb>tione, neque in accretione, neque in imminu­<lb></lb>tione, neque in generatione, neque in inte­<lb></lb>ritu. </s>
+
+<s>Sanatio enim non diuiditur in <lb></lb>naturalem, aut præter naturam: nec in­<lb></lb>crementum eſt aut natura, aut præter <lb></lb>naturam: nec generatio, neque interitus <lb></lb>diducitur in naturalem, aut præter na­<lb></lb>turam: quemadmodum nec ſenium, nec<pb xlink:href="030/01/036.jpg"></pb>moibus, recipit diniſionem in natura­<lb></lb>lem &amp; præter naturam. </s>
+
+<s>Sed hi perin­<lb></lb>ſignes ſcitcer philoſophi (meo quidem <lb></lb>iudicio). parum attendunt, quid eaun­<lb></lb>cient. </s>
+
+<s>Nam de ſententia Ariſtotelis, <lb></lb>ego arbitror omnem motum mutatio­<lb></lb>nem que eſſe capacem harum differen­<lb></lb>tiarum: ſiquidem latio, alteratio, accre­<lb></lb>tio, imminutio, posſit eſſe motus violen­<lb></lb>tus, &amp; naturalis: pariter &amp; interitus, atque<lb></lb>generatio eſſe violenta mutatio, &amp; natu­<lb></lb>ralis. </s>
+
+<s>Sed violentum idem eſt, quod <lb></lb>præter naturam: id autem quod eſt præter <lb></lb>ter naturam, opponitur ei quod eſt ſe­<lb></lb>cundum naturam. </s>
+
+<s>Porrò natura eſt <lb></lb>principium mutationis, in re mutabili, <lb></lb>in qua ineſt. </s>
+
+<s>Violenta autem, ſiue vis, <lb></lb>eſt principium mouendi atque mutandi <lb></lb>rem, extra quam eſt. </s>
+
+<s>vt docet Ariſto. li­<lb></lb>bro tertio de vita &amp; moribus. </s>
+
+
+
+<s>Gene­<lb></lb>ratio igitur, &amp; interitus, &amp; alteratio, &amp;<pb xlink:href="030/01/037.jpg"></pb>accrecio, &amp; imminutio, &amp; latio eſt mu­<lb></lb>tatio, atque motus naturalis, vbi ſerua­<lb></lb>tur ordo à natura præſcriptus, &amp; tem­<lb></lb>pus <expan abbr="definitũ">definitum</expan>: &amp; quia naturalis eſt, ideo <lb></lb>fatalis quoque iure optimo nominata eſt <lb></lb>hæc mutatio à Peripateticis: quando­<lb></lb>quidem <expan abbr="ſatũ">ſatum</expan> nihil ſit aliud, quàm ſeries <lb></lb>cauſarum, &amp; ordo à natura præfinitus: <lb></lb>dicitur ergo violenta mutatio, quando <lb></lb>allata ui externa, ordo naturæ turbatur, <lb></lb>ac peruertitur: vt accretio frumenti in <lb></lb>hortis Adonidis fuit violenta, &amp; præ­<lb></lb>ter naturam: propterea quod irrigatum <lb></lb>calida, ante tempus à natura præſcri­<lb></lb>ptum, &amp; intempeſtiue increuit: &amp; ſæpe <lb></lb>pili ex vi oleorum calidorum, &amp; arte <lb></lb>adhibita, præter naturam, pręter que fa­<lb></lb>tum ſuccreſcunt. </s>
+
+<s>Quid quæris; ſolutio, <lb></lb>morbi in diebus decretoriis natura eſt, <lb></lb>in aliis diebus non decretoriis eſt vio­<lb></lb>lenta, &amp; præter <expan abbr="naturã">naturam</expan>. </s>
+
+<s>Niſi igitur tur-<pb xlink:href="030/01/038.jpg"></pb>betur ordo naturæ, definito <expan abbr="tẽpore">tempore</expan> mo­<lb></lb>tor citabit motum naturalem, à termi­<lb></lb>no ad terminum, atque ſine intermisſione <lb></lb>continuabit, vnum que &amp; perpetuum <lb></lb>producet. </s>
+
+<s>Nam motus à termino con­<lb></lb>trario, ad terminum contrarium, ſine <lb></lb>intermisſione productus, efficitur vnus <lb></lb>&amp; continuus. </s>
+
+<s>Ad <expan abbr="eſſentiã">eſſentiam</expan> <expan abbr="constiruen-dã">constiruen­<lb></lb>dam</expan> vnitatis in motu, multa concurrunt, <lb></lb>&amp; vt partes ſint ſimul, non ſeorſum, &amp; vt <lb></lb>extrema ordine cohæreant per <expan abbr="ſuũ">ſuum</expan> <expan abbr="in-termediũ">in­<lb></lb>termedium</expan>, &amp; vt ſe ſe tangant, atque conti­<lb></lb>nuæ ſint. </s>
+
+<s>Porrò intermedium eſt, id <lb></lb>quò res prius peruenit, quàm ad id, ad <lb></lb>quod vltimò mutatur, quæ naturà con­<lb></lb>tinenter mouetur: tria enim ad motum <lb></lb>concurrunt, &amp; duo extrema, &amp; vnum in­<lb></lb>ter medium, quia motus, vt antea expo­<lb></lb>nebam, eſt mutatio ab extremo contra­<lb></lb>rio, ad alterum extremum contrarium. <lb></lb></s>
+
+<s>Ad extrema verò non fit tranſitus ſine<pb xlink:href="030/01/039.jpg"></pb>intermedio. </s>
+
+<s>Continenter autem mo­<lb></lb>ueri ſecundum naturam, eſt ſine <expan abbr="partiũ">partium</expan> <lb></lb>rei intermisſione, aut nulla, aut per exi­<lb></lb>gua, ſiue momentanea (per exiguum <lb></lb>enim pro nihilo ducitur) mutari ad ex­<lb></lb>tremum, At continenter moueri ſine <lb></lb>temporis intermisſione, non eſt moueri <lb></lb>continenter ſecundum naturam: quia in <lb></lb>continuatione motus ſecundum natu­<lb></lb>ram, conſideratur ordo partium rei. <lb></lb></s>
+
+<s>Nam mouere digitos ab extremis fi­<lb></lb>dibus, ad, extremas, prætermisſis inter­<lb></lb>mediis, ſine intermisſione temporis, non <lb></lb>eſt continenter ſecundum naturam mo­<lb></lb>ueri: continuatio enim motus, ſimpli­<lb></lb>citer æſtimatur ad temporis continua­<lb></lb>tionem. </s>
+
+<s>At continuatio motus ſecun­<lb></lb>dum naturam, æſtimatur ad continua­<lb></lb>tionem rei. </s>
+
+<s>Proinde intermedium im­<lb></lb>peditum, &amp; <expan abbr="interpellatũ">interpellatum</expan> à ſuo vltimo, <lb></lb>non eſt ſuum intermedium, vt la-<pb xlink:href="030/01/040.jpg"></pb>pis ſi, prius deſcenderet, quàm perue­<lb></lb>niret ad locum ſuperiorem, loci ſupe­<lb></lb>rioris, non eſt <expan abbr="intermediũ">intermedium</expan>: quia inter­<lb></lb>pellatur à continuatione <expan abbr="cũ">cum</expan> vltimo. </s>
+
+<s>Ex­<lb></lb>trema autem, &amp; vltima in motu, vt di­<lb></lb>xi, ſunt planè contraria: contraria <lb></lb>ſunt, quæ poſita ſub eodem genere plu­<lb></lb>rimum diſtant: diſtantia eſt menſura ex <lb></lb>tremorum. </s>
+
+<s>In motu loci menſura eſt li­<lb></lb>nea recta, quia finita eſt, atque bre­<lb></lb>uisſima, quæ quidem proprietas adiu­<lb></lb>dicatur menſuræ. </s>
+
+<s>In alteratione men­<lb></lb>ſura eſt qualitatis intentio, &amp; remiſ­<lb></lb>ſio. </s>
+
+<s>In accretione, &amp; imminutione, <lb></lb>eſt quantitas perfecta &amp; imperfecta. <lb></lb></s>
+
+<s>Itaque motus, qui eſt vnus, idem <lb></lb>etiam eſt continuus, vicisſimque, qui <lb></lb>eſt continuus, is quoque eſt vnus. <lb></lb></s>
+
+<s>Porrò continuum id eſſe definimus, cu­<lb></lb>ius extrema ſunt ſimul, hærent, tangunt, <lb></lb>pariter &amp; tanguntur, ita quidem,<pb xlink:href="030/01/041.jpg"></pb>vt in vnum extremum tantum coale­<lb></lb>ſcant, &amp; ex duobus <expan abbr="vnũ">vnum</expan> fiat <expan abbr="extremũ">extremum</expan>: vt <lb></lb>linea eſt <expan abbr="cõtinua">continua</expan>, quia extrema fiunt <expan abbr="vnũ">vnum</expan>. <lb></lb></s>
+
+<s>Vno enim puncto partes eius <expan abbr="copulãtur">copulantur</expan>, <lb></lb>&amp; <expan abbr="cõtinuantur">continuantur</expan>. </s>
+
+<s>Motus <expan abbr="autẽ">autem</expan> dicitur eſſe <lb></lb>vnus, aut genere ſummo, aut ſpecie, aut <lb></lb>numero. </s>
+
+<s>Genere quidem, vt <expan abbr="oẽs">oens</expan> lationes <lb></lb>ſunt vnus motus, <expan abbr="oẽs">oens</expan> alterationes, vnus <lb></lb>motus. </s>
+
+<s><expan abbr="Oẽs">Oens</expan> <expan abbr="accretiões">accretiones</expan> ſunt vnus motus. <lb></lb></s>
+
+<s>Specie veró, aut diuidua, aut indiuidua. <lb></lb></s>
+
+<s>Species ſane diuidua eſt, quę partim eſt <lb></lb>genus, partim eſt ſpecies, vt coloratio eſt <lb></lb>ſpecies diuidua <expan abbr="dealbatiõis">dealbationis</expan>, &amp; <expan abbr="denigra-tiõis">denigra­<lb></lb>tionis</expan>: iccirco vnus ſpecie motus eſt, <expan abbr="inquã">inquam</expan> <lb></lb>vnus <expan abbr="nõ">non</expan> ſimpliciter, ſed <expan abbr="quodãmõ">quodammom</expan>: nec <expan abbr="ſo-lũ">ſo­<lb></lb>lum</expan> multi motus vnus ſpecie dicuntur, ſed <lb></lb><expan abbr="etiã">etiam</expan> motus, qui eſt mutatio ad <expan abbr="ſpeciẽ">ſpeciem</expan> di­<lb></lb>uiduam, dicitur vnus quodam modo, vt <lb></lb><foreign lang="grc">μἀθκσις</foreign>, hoc eſt actus <expan abbr="diſcẽdi">diſcendi</expan> eſt mutatio <lb></lb>ad ſcientiam, quia ſcientia eſt ſpecies di­<lb></lb>uidua relata ad v<foreign lang="grc">̔<gap></gap>θ̓ληψιν</foreign> hoc eſt cogni-<pb xlink:href="030/01/042.jpg"></pb>tionem, quia cognitio eſt genus opinio­<lb></lb>nis, &amp; ſcientiæ: relata verò ad inferio­<lb></lb>res habitus, ad philoſophiam, ad arith­<lb></lb>meticam, eſt genus. </s>
+
+<s>Dealbationes ve­<lb></lb>rò omnes ſunt motus vnus ſpecie indi­<lb></lb>uidua ſimpliciter: quia eſt motus ad <lb></lb>ſpeciem vnam indiuiduam. </s>
+
+<s>Simili quoque<lb></lb>rationis modo, denigrationes ſunt mo­<lb></lb>tus vnus ſimpliciter ſpecie indiuidua. <lb></lb></s>
+
+<s>Numero vnus, eſt vnius numero for­<lb></lb>mæ, vt hæc dealbatio, &amp; hæc denigra­<lb></lb>tio. </s>
+
+<s>Vt autem ſit numero vnus ſim­<lb></lb>pliciter, tria deſiderat, in primis mobi­<lb></lb>le vnum numero, &amp; per ſe, non ex <expan abbr="accidẽ-ti">acciden­<lb></lb>ti</expan>: deinde tempus vnum numero: ad ex­<lb></lb>tremum formam vnam numero, ſiue id <lb></lb>genus, in quo eſt, vel qualitatem, vel <expan abbr="quã-titatem">quan­<lb></lb>titatem</expan>, vel locum. </s>
+
+<s>Mobile qui­<lb></lb>dem deſide. </s>
+
+<s>vnum numero, &amp; per <lb></lb>ſe, quia vnum ſpecie poteſt eſſe, &amp; mo­<lb></lb>tus tamen erunt diuerſi, vt Socrates, &amp;<pb xlink:href="030/01/043.jpg"></pb>  Plato ſunt ſubiectum vnum ſpecie, quan­<lb></lb>doquidem ſint homines: ſed motus <lb></lb>qui fiunt in ipſis, non ſunt vnus nu­<lb></lb>mero. </s>
+
+<s>Addidi per ſe, quia tametſi <lb></lb>Coriſcus albus eſt vnus, tamen motus <lb></lb>non erit vnus numero, &amp; per ſe, niſi ex <lb></lb>accidenti: nam quà Coriſcus eſt, de­<lb></lb>ambulat, quà verò albus, mutatur ex ni­<lb></lb>gredine in albedinem. </s>
+
+<s>Dealbatio &amp; <lb></lb>deambulatio non ſunt motus vnus per <lb></lb>ſe, ſed ex accidenti vnus, quia accidit <lb></lb>Coriſco deambulanti albeſcere, &amp; quia <lb></lb>deambulatio eſt vna numero, ideo ac­<lb></lb>cidit vt vterque motus qui diuerſus <lb></lb>eſt, vnus ſit. </s>
+
+<s>Tempus verò requirit, <lb></lb>quoniam poteſt Socrates mutari ad <expan abbr="for-mã">for­<lb></lb>mam</expan> <expan abbr="vnã">vnam</expan> numero, verbi cauſa ad albe­<lb></lb>dinem, quia poteſt albeſcere, ſed tem­<lb></lb>poris interuallo, &amp; non continuato <lb></lb>tempore, illa quidem dealbatio, quæ <lb></lb>fit diuerſis temporibus, non eſt vna<pb xlink:href="030/01/044.jpg"></pb>numero: quia tempus non eſt, conti­<lb></lb>nuatum, &amp; vnum numero. </s>
+
+<s>Nam motus <lb></lb>veluti dealbatio, quæ interiit, &amp; tem­<lb></lb>pus quod præteriit, non redit vnum <lb></lb>numero, ſed ſpecie tantum: vt enim <lb></lb>corpora æterna eadem numero, ita ge­<lb></lb>nita &amp; interitura eadem ſpecie, non nu­<lb></lb>mero reuertuntur: motus verò tam <lb></lb>æternus, quàm genitus &amp; interiturus, <lb></lb>non redit idem numero, ſed ſpecie <lb></lb>duntaxat. </s>
+
+<s>Proinde, conuerſio cœle­<lb></lb>ſtis hodierna, &amp; heſterna, non eſt ea­<lb></lb>dem numero, ſed ſpecie tantum: quia <lb></lb>motus, qui ſemel interiit, idem nu­<lb></lb>mero non reuertitur, ſed ſpecie: ſi­<lb></lb>quidem tempus, quod redit, non idem <lb></lb>numero, ſed ſpecie duntaxat redire <lb></lb>cenſeatur. </s>
+
+<s>Hoc tamen intereſt inter­<lb></lb>motus genitos, &amp; conuerſiones cœle­<lb></lb>ſtes, quòd ex omnibus conuerſioni­<lb></lb>bus fit vnus numero motus: quoniam<pb xlink:href="030/01/045.jpg"></pb>inter vnam et aliam non cadit tempo­<lb></lb>ris interuallum: atque adeo mobile ni­<lb></lb>mirum cœlum vnum numero eſt, et <lb></lb>eadem eſt ſpecies lationis. </s>
+
+<s>Formam <lb></lb>quoque requirit vnam numero, quia <lb></lb>ſi Socrates mutetur ex ophthalmia in <lb></lb>ſanitatem, non eſt vnus numero motus: <lb></lb>propterea quòd ſanitas eſt vna ſpecie, <lb></lb>non numero: nam ſanitas eſt forma <lb></lb>communis, quæ habet infra ſe alias: vt <lb></lb>enim eſt multiplex temperamentum, <lb></lb>ita quoque eſt multiplex forma ſanita­<lb></lb>tis. </s>
+
+<s>His ergo legibus obſtricta eſt con­<lb></lb>tinuatio motus, à quibus ſolutus, illicò <lb></lb>deſinit eſſe continuus. </s>
+
+<s>Exemplis ipſas <lb></lb>illuſtremus, ſiquis currendo, febricitet, <lb></lb>profectò eius motus non eſt conti­<lb></lb>nuus: quoniam non eſt vnus: deſinit <lb></lb>autem eſſe vnus, quia forma non eſt vna. <lb></lb></s>
+
+<s><expan abbr="Nã">Nam</expan> curſus eſt latio, <expan abbr="latiõis">lationis</expan> verò forma eſt <lb></lb>locus: et febricitatio eſt alteratio, cuius<pb xlink:href="030/01/046.jpg"></pb>forma eſt qualitas. </s>
+
+<s>Itaque et ſi mobile eſt <lb></lb>vnum, &amp; tempus vnum, quia non in­<lb></lb>termittit: nihilo, minus motus non eſt <lb></lb>continuus. </s>
+
+<s>Rurſum multi currentes <lb></lb>in equis, qui inuicem &amp; per manus ſibi <lb></lb>lampada in certaminibus græcis trade­<lb></lb>bant, non fuit illorum motus <expan abbr="cõtinuus">continuus</expan>, <lb></lb>quoniam deſiderabatur ſingularitas, ſi­<lb></lb>ue vnitas mobilis, quoniam multi fue­<lb></lb>runt curſores, attamen vna fuit lationis <lb></lb>forma, nempe iocus vnus, &amp; tempus <lb></lb>vnum minime intermittens. </s>
+
+<s>Huiuſ mo­<lb></lb>di ergo motus non ſunt continui, ſed po­<lb></lb>tius cohęrentes, &amp; deinceps ſequentes: <lb></lb>quoniam habent tempus <expan abbr="continuũ">continuum</expan>: pro <lb></lb>inde his ſatis eſt continuatio temporis. <lb></lb></s>
+
+<s>Cum igitur hac lege fiat vnus, &amp; con­<lb></lb>tinuus, tunc efficitur, vt neque ex in­<lb></lb>diuiduis partibus, &amp; terminis motus <lb></lb><expan abbr="cõponatur">componatur</expan>, neque in indiuiduas diuida­<lb></lb>tur: ſed ex diuiduis coaleſcat motibus,<pb xlink:href="030/01/047.jpg"></pb>&amp; diffoluatur itidem in diuiduos. </s>
+
+<s>Nam <lb></lb>motus ſequitur compoſitionem ſimul <lb></lb>&amp; diuiſionem magnitudinis, ac tempo­<lb></lb>ris: &amp; vicisſim magnitudo, &amp; tempus <lb></lb><expan abbr="accõmodatur">accommodatur</expan> ad diuiſionem, atque <expan abbr="cõpoſi-tionem">compoſi­<lb></lb>tionem</expan> motionis: Vnà enim conſpirant, <lb></lb>&amp; proportione quadam mutuò ſibi <expan abbr="re-ſpondẽt">re­<lb></lb>ſpondent</expan>. </s>
+
+<s>Ec quis dubitat, ſi aliquod cor­<lb></lb>pus mobile æqualis celeritatis, hora vna <lb></lb>confecerit <expan abbr="centũ">centum</expan> ſtadia, quin <expan abbr="idẽ">idem</expan> ſit ho­<lb></lb>ra dimidiata confecturum quinquagin­<lb></lb>ta: non ſanè ob <expan abbr="aliã">aliam</expan> cauſam, quàm quòd <lb></lb>motus, <expan abbr="tẽpus">tempus</expan>, &amp; magnitudo <expan abbr="inuicẽ">inuicem</expan> <expan abbr="cõſpi-rant">conſpi­<lb></lb>rant</expan>. </s>
+
+<s>Vt enim puncta in magnitudine, <lb></lb>&amp; inſtantia, quæ <expan abbr="dicũtur">dicuntur</expan> <foreign lang="grc">τὰ</foreign> in <expan abbr="tẽpo-re">tempo­<lb></lb>re</expan>, ſe habent, ita quoque momenta, ſiue vt <lb></lb>recepto <expan abbr="ſcholarũ">ſcholarum</expan> vocabulo vtar, muta­<lb></lb>menta in motu, quæ nuncupantur <lb></lb>ab Ariſto. <foreign lang="grc">χινἠματα</foreign>, puncta <expan abbr="quidẽ">quidem</expan> ſunt <lb></lb>termini magnitudinis, at non ſunt ma­<lb></lb>gnitudo, nec ipſa <expan abbr="cõponitur">componitur</expan> ex illis: ſed<pb xlink:href="030/01/048.jpg"></pb>ex magnitudinibus. </s>
+
+<s>Simili quoquera­<lb></lb>tionis modo vt inſtantia temporis, ita <lb></lb>momenta ſunt termini motus: ex his <lb></lb>neque motus, <expan abbr="nequetẽpus">nequetempus</expan> componitur, ſed <lb></lb>ille ex motibus, hoc verò ex temporibus <lb></lb>conſurgit. </s>
+
+<s>Cæterum motus vnus atque<lb></lb>continuus, <expan abbr="idẽ">idem</expan> pariter &amp; perfectus eſt: <lb></lb>quia vnum eſt quoddam <expan abbr="totũ">totum</expan>, &amp; <expan abbr="perfe-ctũ">perfe­<lb></lb>ctum</expan>. </s>
+
+<s>Sed ille eſt veré perfectus, qui illuc <lb></lb>euadit, quò promouere natura inſtituit: <lb></lb>promouetur <expan abbr="autẽ">autem</expan> motus, aut æquabilis, <lb></lb>aut inæquabilis, aut velox, aut tardus: <lb></lb>quamuis ſit continuus. </s>
+
+<s>Aequabilis eſt, <lb></lb>qui totus eſt ſibi ſimilis, &amp; obtinet par­<lb></lb>tes cunctas inter ſe ſe congruentes: ic­<lb></lb>circo asſimilatur lineæ recte, quæ vide­<lb></lb>tur ſimilis vndiquaque, &amp; vna: inæquabi­<lb></lb>lis asſimilatur tortuoſæ &amp; anfractuo­<lb></lb>ſę quę videtur eſſe <expan abbr="cõpoſita">compoſita</expan> ex pluribus. <lb></lb></s>
+
+<s>Porró cauſa ęquabilitatis &amp; inęquabili­<lb></lb>tatis eſt duplex, aut eſt id, in quo cietur<pb xlink:href="030/01/049.jpg"></pb>motus, aut modus. </s>
+
+<s>Sanè id, in quo eſt mo­<lb></lb>tus, eſt aut magnitudo, aut qualitas, aut <lb></lb>locus: ideo in ęquabili ſpacio latio <expan abbr="ē">em</expan> mo­<lb></lb>tus ęquabilis, vti in linea recta: in ęqua­<lb></lb>bili qualitate intenditur, &amp; remittitur <lb></lb>ęquabilis alteratio: in ęquabili magnitu­<lb></lb>dine <expan abbr="extẽditur">extenditur</expan> ęquabilis accretio, &amp; im­<lb></lb>minutio. </s>
+
+<s>Modus <expan abbr="aũt">aunt</expan> eſt celeritas &amp; tar­<lb></lb>ditas: ex ſimilitudine enim celeritatis, ac <lb></lb>tarditatis, motus cietur ęquabilis, ex diſ­<lb></lb>ſimilitudine inęquabilis: ex quo fit ma­<lb></lb>xime <expan abbr="pſpicuũ">pſpicuum</expan> <expan abbr="celeritatẽ">celeritatem</expan> atque tarditatem <lb></lb><expan abbr="nõ">non</expan> eſſe <expan abbr="ſpeciẽ">ſpeciem</expan> motus neque <expan abbr="differẽtiam">differentiam</expan>: <lb></lb><expan abbr="quandoquidẽ">quandoquidem</expan> ſit in omni genere &amp; ſpe­<lb></lb>cie motus. </s>
+
+<s><expan abbr="Nã">Nam</expan>, mas &amp; fœmina, quia eſt in <lb></lb>omni fermè animalis genere, ideo <expan abbr="nõ">non</expan> eſt <lb></lb>eius ſpecies, nec <expan abbr="cõſtituit">conſtituit</expan> <expan abbr="ſpeciẽ">ſpeciem</expan> anima­<lb></lb>lis, ſed eſt accidens. </s>
+
+<s>Simili quoque <expan abbr="rõnis">ronnis</expan> <lb></lb>modo celeritas &amp; tar ditas reperitur in <lb></lb>omni ſpecie motus: naturalis enim <expan abbr="ĩter">inter</expan> <lb></lb>initia tardus eſt, in fine accelerat. </s>
+
+<s><expan abbr="Rursũ">Rursum</expan> Ari-<pb xlink:href="030/01/050.jpg"></pb>ſtotele. </s>
+
+<s>Et quemadmodum ex celeri­<lb></lb>tatis, &amp; tarditatis incremento diuidi­<lb></lb>tur tempus, ita quoque magnitudo, vt li­<lb></lb>quido conſtat ex definitione velocioris <lb></lb>&amp; tardioris corporis acti per aliquam <lb></lb><expan abbr="magnitudinẽ">magnitudinem</expan>. </s>
+
+<s>Ex deſcriptione velo­<lb></lb>cis motus facillime dignoſcitur tardus, <lb></lb>quia <expan abbr="contrariorũ">contrariorum</expan> eſt par ratio &amp; defini­<lb></lb>tio: tardus igitur motus eſt, quo mobi­<lb></lb>le corpus, aut in æquali <expan abbr="tẽpore">tempore</expan> minus <lb></lb><expan abbr="ſpaciũ">ſpacium</expan> pertranſit, aut in maiori minus, <lb></lb>aut in maiori æquale. </s>
+
+<s>Cauſa&#039; verò velo­<lb></lb>citatis ac tarditatis (vt pote <expan abbr="cũ">cum</expan> aliquod <lb></lb>corpus inanime celerius alio mouea­<lb></lb>tur) duplex reddi ſolet: altera <expan abbr="qdẽ">qdem</expan> ſumi­<lb></lb>tur à disſimilitudine medii: altera ve­<lb></lb>rò à diſpari grauitate &amp; leuitate corpo­<lb></lb>ris mobilis. </s>
+
+<s>Corpus namque longè cele­<lb></lb>rius fertur per medium liquidius &amp; ma­<lb></lb>gis tenue, vt per aëra, quàm per ſolidius <lb></lb>&amp; ſpisſius, vt per aquam: vt pote quod<pb xlink:href="030/01/051.jpg"></pb>tenue, facilius &amp; oeyus cedat, craſſum <lb></lb>autem obſiſtat, renitatur &amp; remoretur <lb></lb>motum: nam tenue eſt, quod diuidi­<lb></lb>tur facilé, id <expan abbr="aũt">aunt</expan> facile diuiditur, quod <lb></lb>etiam facilè terminatur. </s>
+
+<s>Itaque <expan abbr="aẽr">aerr</expan>, quia <lb></lb>facilius terminatur, <gap></gap> aqua, propte­<lb></lb>rea citius diuiditur. </s>
+
+<s>Sed qualis eſt ra­<lb></lb>tio fiue proportio medii in tenuitate ac­<lb></lb>denſitate ad <expan abbr="mediũ">medium</expan>, talis eſt <expan abbr="tẽporis">temporis</expan> ad <lb></lb><expan abbr="tēpus">tempus</expan>: et qualis eſt <expan abbr="tẽporis">temporis</expan> ad <expan abbr="tẽpus">tempus</expan>, <lb></lb>ſanè talis eſt motus ad <expan abbr="motũ">motum</expan> in celerita­<lb></lb>te &amp; tarditate. </s>
+
+<s>Corpus <expan abbr="aũt">aunt</expan> quò graui­<lb></lb>us, eò celerius deſcendit, &amp; <expan abbr="quãtò">quantò</expan> leui­<lb></lb>us, <expan abbr="tãtò">tantò</expan> velocius aſcendit. </s>
+
+<s>Sed hæc cor­<lb></lb>pora, quę <expan abbr="cõparãtur">comparantur</expan> in motu velociori <lb></lb>&amp; tardiori, <expan abbr="debẽt">debent</expan> eſſe patia, &amp; eſſe eiuſ­<lb></lb>dem figurę, atque <expan abbr="eiuſdẽ">eiuſdem</expan> magnitudinis. <lb></lb></s>
+
+<s>hæc enim oia ſunt adiumenta, vt pote­<lb></lb>quę <expan abbr="cõcerant">concerant</expan> ad motus <expan abbr="tarditatẽ">tarditatem</expan> ſimul <lb></lb>&amp; velocitatem. </s>
+
+<s>At verò ſi nulla ſit pro­<lb></lb>portio medii in tenuitate &amp; den<gap></gap>tate,<pb xlink:href="030/01/052.jpg"></pb>ſiue crasſitie, profectò neque erit tempo­<lb></lb>ris ad tempus neque motus ad motum.  <lb></lb>Proinde motus in vacuo nequaquam <lb></lb>cietur, quia inanis, &amp; pleni, quæ ſunt <lb></lb>media, per quæ motus agitatur, nullas <lb></lb>eſt proportio in tenuitate, &amp; denſitate: <lb></lb>quoniam inane eſt quoddam infinitum, <lb></lb>plenum verò eſt finitum: ſed finiti ad <lb></lb><expan abbr="infinitũ">infinitum</expan> vt inquit Lucretius noſter, pro­<lb></lb>portio nulla: quemadmodum nulla eſt <lb></lb>proportio puncti ad lineam, &amp; nihili ad <lb></lb><expan abbr="numerũ">numerum</expan>. </s>
+
+<s>Posita &amp; constituta cauſa ve­<lb></lb>locitatis, &amp; tarditatis, <expan abbr="cõmodisſimè">commodisſimè</expan> ſol­<lb></lb>nitur illa quæſtio, quæ viros doctes ha­<lb></lb>buit sollicitos hactenus: cur corpora, <lb></lb>quæ naturà <gap></gap>onentur, quando pro­<lb></lb>ximant loco proprio, tunc celeriori mo­<lb></lb>tu ferantur. </s>
+
+<s>Conſpicimus cum gut­<lb></lb>ram, inquit Serato, quæ defluena ab <lb></lb>imbricibus, vb pauimento propinquat, <lb></lb>ab vehementem celeritatem disucitur,<pb xlink:href="030/01/053.jpg"></pb>ac disſipatur: &amp; corpus graue turba­<lb></lb>tum ab alto tecto, ſonum grauiorem <lb></lb>ædit proximè ſuum locum. </s>
+
+<s>At cor­<lb></lb>pora quæ mouentur præter naturam, <lb></lb>tardius, &amp; ſegnius aguntur propè lo­<lb></lb>cum, ad quem pelluntur. </s>
+
+<s>Fottasſis <lb></lb>ea eſt ratio, quòd corpus ſponte natu­<lb></lb>ræ motum maiorem, &amp; vim acquirit, <lb></lb>accedens proximè locum proprium: <lb></lb>quia forma ſua, &amp; natura totius, magis <lb></lb>ac plenius participat. </s>
+
+<s>Tametſi hæc opi­<lb></lb>nio poteſt defendi, &amp; captioſis <expan abbr="argu-mẽtis">argu­<lb></lb>mentis</expan> comprobari, quemadmodum ſeio <lb></lb>eſſe comprobatam à quibusdam minu­<lb></lb>tis philoſophis, mihi tamen non pro­<lb></lb>batur: propterea quòd cum his uoſtris <lb></lb>placitis (vt credo) Peripateticis mi­<lb></lb>nimè conuenit. </s>
+
+<s>Ex natura ergo medii <lb></lb>ſpacii, per quod fertur corpus natu­<lb></lb>ra mobile, cauſa potior multò, ſumi po­<lb></lb>teſt. </s>
+
+<s>Quando igitur corpua propin-<pb xlink:href="030/01/054.jpg"></pb>quat loco proprio, in quo conſerua­<lb></lb>tur, tunc minus medium intercedit, <lb></lb>&amp; fit tenuius, &amp; ideo facilius diuidi­<lb></lb>tur, ac minus impedit, minuſ que re­<lb></lb>ſiſtit, ob id celerius mouetur. </s>
+
+<s>Non de­<lb></lb>ſunt aliqui haud obſcuri nominis phi­<lb></lb>loſophi, qui cauſam referant in plures <lb></lb>partes medii, verbi cauſa aëris ad mo­<lb></lb>tum actas, atque validè agitatas: &amp; <lb></lb>ideo minus reſiſtunt: quia plures ſunt <lb></lb>in motu, quàm in quiete tunc, cum pro­<lb></lb>pinquat corpus loco proprio: nam <lb></lb>quantò plures partes quieſcunt, tan­<lb></lb>tò validius reſiſtunt, quia firmæ con­<lb></lb>ſiſtunt: nutantes verò &amp; quaſi fluitan­<lb></lb>tes, paulo <expan abbr="momẽto">momento</expan> facilè cedunt, at­<lb></lb>que huc illuc impelluntur. </s>
+
+<s>At in motu <lb></lb>violento, &amp; præter naturam, vis im­<lb></lb>pellens, aut impetu facto proiiciens, <lb></lb>paulatim &amp; perpetuò deficit, &amp; qua­<lb></lb>ſi exoleſcit: quippe quæ ſemper of-<pb xlink:href="030/01/055.jpg"></pb>fendat plures partes ſtabiles, &amp; quie­<lb></lb>ſcentes, quàm inconſtantes, &amp; <expan abbr="cõmo-tas">commo­<lb></lb>tas</expan>: iccirco corpus vi actum, tardius <lb></lb>fertur in fine, quàm in principio mo­<lb></lb>tus. </s>
+
+<s>Vt vt res eſt, de hac controuerſia <lb></lb>nunc non ſum ſollicitus, modo apud <lb></lb>te conſtet cauſam pendere ex natura <lb></lb>medii, ſecundum dogma Ariſtotelis: <lb></lb>quemadmodum plenius et diligentius <lb></lb>explanaui in opere noſtro; de ſcho­<lb></lb>laſticis controuerſiis. </s>
+
+<s>Sed hæc om­<lb></lb>nia, quæ hactenus dixi, de celerita­<lb></lb>tis &amp; velocitatis cauſa, dicta eſſe vo­<lb></lb>lo de velocitate, et tarditate corpo­<lb></lb>rum inanimium: nam nemini eſt du­<lb></lb>bium, quin corpora ſint cuncta, aut <lb></lb>animata, aut inanimia: animata, aut <lb></lb>immortalia, vt corpora cœleſtia, aut <lb></lb>mortalia, vt corpora hominum bru­<lb></lb>torum, ſtirpium: inanimia, aut ſim­<lb></lb>plicia, vt elementa quatuor, aut com-<pb xlink:href="030/01/056.jpg"></pb>poſita, vt ſulphura, gemmæ, metalla, <lb></lb>&amp; reliqua id genus grauia, &amp; leuia: <lb></lb>propterea aliter eſt iudicandum de ce­<lb></lb>leritate, &amp; tarditate inanimium corpo­<lb></lb>rum, quàm animatorum. </s>
+
+<s>Corpora ete­<lb></lb>nim inanimia, non poſſunt temporis mo­<lb></lb>mento moueti, propter repugnantiam <lb></lb>externam, quia (vt nuper dicebam) me­<lb></lb>dium ſua ſpisſitudine, aut tenuitate im­<lb></lb>pedit, ac remoratur motum, tenuitate <lb></lb>quidem minus, ſpisſitudine verò ma­<lb></lb>gis. </s>
+
+<s>Animata corpora caduea, nec ſu­<lb></lb>bitò mouentur, nec aut celerius, aut <lb></lb>tardius, cum propter repugnantiam ex­<lb></lb>ternam, tum internam. </s>
+
+<s>Diuiduntur <lb></lb>enim in partem perſe mouentem, vt <lb></lb>formam, &amp; partem per ſe motam vt <lb></lb>corpus. </s>
+
+<s>Inanimia non diuiduntur in <lb></lb>partem per ſe mouentem, &amp; per ſe mo­<lb></lb>tam, vt elementa, ſed in formam, ac ſim­<lb></lb>plicem materiam, quæ per ſe non mo-<pb xlink:href="030/01/057.jpg"></pb>uetur. </s>
+
+<s>Cauſa ergo interna velocitatis, <lb></lb>&amp; tarditatis animatorum corporum, <lb></lb>eſt ipſa repugnantia, inter partem mo­<lb></lb>tam, &amp; mouentem, vt corpus huma­<lb></lb>num, vel ferinum, non poteſt tanta ce­<lb></lb>leritate ferri, vt ſubitò moueatur, tum <lb></lb>quia pars mota reſiſtit animæ per ſe <lb></lb>mouenti, tum quia mouetur per ple­<lb></lb>num ſpacium, aut ſpisſius, aut rarius: <lb></lb>propter hanc eandem repugnantiam <lb></lb>inter partem motam, &amp; mouentem, ma­<lb></lb>gni quidam philoſophi ſibi perſuaſe­<lb></lb>runt, corpus cœleſte ita celeri motu <lb></lb>conuerti, vt celeriori non posſit: ſiqui­<lb></lb>dem formæ ſuæ mouenti, orbis cœle­<lb></lb>ſtis repugnet, &amp; obſiſtat. </s>
+
+<s>In hac hæ­<lb></lb>reſi fuiſſe videtur Ariſtoteles, qui in ſe­<lb></lb>cundo libro de cœlo &amp; mundo, iudi­<lb></lb>cat, ſi ad orbem ſtella ad deretur, om­<lb></lb>nino fore, vt is vel à ſuo motore eti­<lb></lb><gap></gap> moueri non poſſet, vel tardius<pb xlink:href="030/01/058.jpg"></pb>moueretur, idque <expan abbr="nõ">non</expan> ob <expan abbr="aliã">aliam</expan> <expan abbr="causã">causam</expan>, quàm <lb></lb>quod repugnantia increſceret. </s>
+
+<s>Sed re­<lb></lb>pugnantia interna corporis cœleſtis, <lb></lb>&amp; cadues, eſt valde disſimilis, quia cor­<lb></lb>pus caducum repugnat, &amp; renititur, <lb></lb>ne feratur in eam partem, in quam ſua <lb></lb>forma mouet. </s>
+
+<s>Cœleſte verò propen­<lb></lb>det ſemper &amp; inclinet eò, quò ſua for­<lb></lb>ma mouet, ſed obſiſtit, ne ocyus conuer­<lb></lb>tatur, quàm conuerti aptum ſit. </s>
+
+<s>Ex <lb></lb>quo loco planè intelligitur de ſenten­<lb></lb>tia Ariſtotelis, Deum habere poten­<lb></lb>tiam mouendi finitam, non infinitam. <lb></lb></s>
+
+<s>Sed hæc diſceptatio in alium locum, <lb></lb>&amp; aliud tempus reiiciatur: quandoqui­<lb></lb>dem ad vſum, &amp; finem motus aſpira­<lb></lb>re, &amp; <expan abbr="cõtendere">contendere</expan> nunc ſit vtilius, &amp; op­<lb></lb>portunius: nihil enim natura temerè, <lb></lb>&amp; ſine cauſa molitur, &amp; facit, ſed <expan abbr="oẽs">oens</expan> <lb></lb>ſuos conatus (niſi ab aliqua vi externa <lb></lb>impediantur) intendit in aliquos vſus,<pb xlink:href="030/01/059.jpg"></pb>&amp; certos fines, vt ille calceus inutilis <lb></lb>eſt, &amp; fruſtra ab artifice factus eſt, qui <lb></lb>pedem aliquem non munit, &amp; induit, <lb></lb>ſic quoque motus in hoc diuino opificio <lb></lb>incaſſum cieretur, niſi à ſagaci, &amp; pro­<lb></lb>uida natura, ad <expan abbr="aliquẽ">aliquem</expan> vſum fuiſſet in­<lb></lb>ſtitutus. </s>
+
+<s>Naturę <expan abbr="quidẽ">quidem</expan> finis eſt, vt ſuo <lb></lb>quodam inſtinctu appettat, &amp; aſpires <lb></lb>ad rerum cuſtodiam. </s>
+
+<s>Cuſtodiri autem <lb></lb>non poſſunt niſi per ſuam <expan abbr="formã">formam</expan>: per <expan abbr="for-mã">for­<lb></lb>mam</expan> <expan abbr="nãque">nanque</expan> &amp; ſunt, &amp; opus <expan abbr="propriũ">proprium</expan> faciunt, <lb></lb>&amp; tantiſper ſunt, atque ſunt in opere, quo <lb></lb>ad forma <expan abbr="fruũtur">fruuntur</expan>: vbi deſtituuntur illa, <lb></lb>continuò <expan abbr="intereũt">intereunt</expan> vnà <expan abbr="cũ">cum</expan> ſuo opere. </s>
+
+<s><expan abbr="Cũ">Cum</expan> <lb></lb>igitur præſtet eſſe, quàm <expan abbr="nõ">non</expan> eſſe, natura <lb></lb>ſalutaris adhibuit omnes conatus in for­<lb></lb>mam, veluti ſummum bonum omnium <lb></lb>rerum naturalium. </s>
+
+<s>Vtile enim eſt, &amp; <lb></lb>bonum quamque rem per <expan abbr="formã">formam</expan> conſtitui, <lb></lb><gap></gap> expoliri, atque exornari: ſed forma edu <lb></lb><gap></gap> ex materia rei fingendæ, efforman-<pb xlink:href="030/01/060.jpg"></pb>dæque gratia, aut in ipſam induci, mi­<lb></lb>nime potuit, ſine aliquo commodisſi­<lb></lb>mo inſtrumento. </s>
+
+<s>Nam quiſque opifex <lb></lb>ad opus fabricandum, accommodæ <lb></lb>omnia genera illorum armorum, quæ <lb></lb>eſſe aptiora iudicat. </s>
+
+<s>Simili quoque mo­<lb></lb>do natura, quæ eſt ſummus artifex, &amp; <lb></lb>idea, atque imago artis, commodiori in­<lb></lb>ſtrumento vti non potuit ad formasedu­<lb></lb>cendas, atque res vniuerſi mundi fin­<lb></lb>gendas, quàm ipſo motu. </s>
+
+<s>Vt enim ex <lb></lb>ſemine genitali conformetur illud&#039; ani­<lb></lb>mal ſagax, prudens, &amp; rationis capax, <lb></lb>qui vocatur homo, habet opus natu­<lb></lb>ra, alteratione, atque generatione: ſed <lb></lb>generari &amp; educi non poteſt forma ho­<lb></lb>minis, quin ſeminis intereat, quia ge­<lb></lb>neratio vnius rei, eſt interitus aloe­<lb></lb>rius. </s>
+
+<s>Alteratio autem &amp; generatis, <lb></lb>at interitus, ſunt mutationes, &amp; m­<lb></lb>tus, vt initio explanabam. </s>
+
+<s>Sed ot<gap></gap><pb xlink:href="030/01/061.jpg"></pb>ſum eſſet inſtrumentum, niſi per ipſum <lb></lb>perficeretur, &amp; abſolueretur opus, atque  <lb></lb>extendetetur ad eam magnitudinem <lb></lb>præfinitam, quæ commoda ſit ad opus. <lb></lb></s>
+
+<s>Nam forma non in quacunque magni­<lb></lb>tudine poteſt eſſe principium operan­<lb></lb>di. </s>
+
+<s>Vt enim artifex non poteſt figu­<lb></lb>ram eius nauigii inducere, in quamuis <lb></lb>portionem materiæ, quod vſui ſic, &amp; <lb></lb>vtile ad ſulcanda matia, ſic forma re­<lb></lb>quirit materiam, quæ extendatur in <lb></lb>certam quantitatem, ac terminatam, <lb></lb>extenſio autem eſt motus, &amp; quodam <lb></lb>modo loci mutatio, vt antea dicebam. <lb></lb></s>
+
+<s>Itaque motus eſt inſtrumentum natura­<lb></lb>le, aptisſimum ad exornandas mate­<lb></lb>rias ſuis formis, vt hæc pulchra rerum <lb></lb>vicisſitudo in terris conſeruetur. </s>
+
+<s>Nam <lb></lb>bonus artifex, non ſolum ſtudet opus <lb></lb>ſuum probè fingere, atque ornare, ſed <lb></lb>etiam fictum, &amp; ſumma arte elabora-<pb xlink:href="030/01/062.jpg"></pb>tua, quoad fieri poteſt cuſtodire: ideo na­<lb></lb>tura ſagax, &amp; prouida, quia ſubeſt for­<lb></lb>mæ materia quædam inconſtans, &amp; no­<lb></lb>uæ formæ appetens, &amp; <expan abbr="veterẽ">veterem</expan> <expan abbr="faſtidiẽs">faſtidiens</expan>, <lb></lb>præfecit diuinas mentes, &amp; coeleſtia cor­<lb></lb>pora, quæ ſempiterno tempore circum­<lb></lb>acta, conſeruarent hoc inſtrumentum <lb></lb>in æternitatem. </s>
+
+<s>Idque vt opus naturæ, <lb></lb>quod interit, omne citra globum lunæ <lb></lb>ſeruato incolumi inſtrumento, per <expan abbr="quã-dam">quan­<lb></lb>dam</expan> ſuccesſionem repararetur in per­<lb></lb>peturitatem. </s>
+
+<s>Verum enim uerò res na­<lb></lb>turales, vt generentur, atque conſeruen­<lb></lb>tur, non ſolùm habent opus motu, ſed <lb></lb>etiam quiete: quandoquidem, nec cun­<lb></lb>ctæ quieſcant, nec cunctæ mouean­<lb></lb>tur, ſed interim quieſcant, interim <lb></lb>agitentur: propterea vt integra mo­<lb></lb>tus natura plus atque plus appareat, <lb></lb>quo rerum vicisſitudo conſeruatur, eſ­<lb></lb>ſentia quietis non eſt negligenda: nam<pb xlink:href="030/01/063.jpg"></pb>qui profitentur ſe tenere ſcientiam, &amp; <lb></lb>cognitionem animæ, illi non modo <lb></lb>eius facultates, &amp; opera, &amp; ſenſilia <lb></lb>propria, qualia ſunt viſilia, auditi­<lb></lb>lia, guſtatilia, tactilia, olfactilia, con­<lb></lb>templantur, ſed etiam quid ſit in­<lb></lb>uiſile, inauditile, &amp; reliqua inſenſi­<lb></lb>lia diſquirunt. </s>
+
+<s>Simili quoque rationis <lb></lb>modo opinor non eſſe ſatis, ſcire quid <lb></lb>ſit, &amp; qualis ſit motus, atque eius mo­<lb></lb>bile: ſed etiam (mea quidem ſen­<lb></lb>tentia) operæ eſt precium intelli­<lb></lb>gere, quid ſit illud, quod adurrſa­<lb></lb>tur &amp; motui &amp; mobili. </s>
+
+<s>Nam non <lb></lb>eſt cuipiam dubium, quin immobi­<lb></lb>le aduerſetur &amp; pugnet cum mobili. <lb></lb></s>
+
+<s>Porro immobile, quod ab Ariſtotele <lb></lb>nuncupatur <foreign lang="grc">ἀκίνντον</foreign> quatuor modis <lb></lb>concipitur. </s>
+
+<s>Aut enim immobile id eſt, <lb></lb>quod nullo prorſus modo poteſt moueri, <lb></lb>neque per ſe, neque ex accidenti, cuiuſmodi<pb xlink:href="030/01/064.jpg"></pb>eſt Deus Optimus Maximus, &amp; axes <lb></lb>mundi: aut quod longo tempore mo­<lb></lb>netur, vt ſtellæ errantes, vt diuturna <lb></lb>ægrotatio: aut quod ægre mouetur, <lb></lb>vt corpora indecenter conformata, qua­<lb></lb>les ſunt loripedes: aut quod ſanè quie­<lb></lb>ſcit, ſed aptum eſt vt moueatur, &amp; <lb></lb>quando, oportet&#039;, &amp; vbi oportet, &amp; <lb></lb>quemadmodum oportet. </s>
+
+<s>Quando <lb></lb>oportet, quia puer vt primum natus, <lb></lb>licet non moueatur, non tamen dici­<lb></lb>tur immobilia: quoniam nondum ve­<lb></lb>nit tempus, quo poteſt moueri, &amp; <lb></lb>quomodo debet moueri. </s>
+
+<s>Vbi opor­<lb></lb>tet, quia in terra, non vocamus piſces <lb></lb>immobiles, quanquam non mouentur: <lb></lb>nec homines immobiles, qui in cœlo <lb></lb>fiue aete priuantur motu: quia locus <lb></lb>vbi mouentur homines, eſt terra, vbi <lb></lb>piſces natant, eſt aqua: quemadmo­<lb></lb>dum igitur immobile poſtremi generis,<pb xlink:href="030/01/065.jpg"></pb>opponitur mobili, ſie motui immobi­<lb></lb>litas, quæ dicitur à Græcis <foreign lang="grc">ἀυσνυσἱα</foreign>, <lb></lb>hoc eſt priuatio motus: à Latinis appo­<lb></lb>ſitè, vocatur quies. </s>
+
+<s>Nam priuatio habet <lb></lb>magnam similitudinem cum ipſo con­<lb></lb>trario, ſed hoc intereſt, quòd priua­<lb></lb>tio non omnino negat, ſed habet apti­<lb></lb>tudinem innctam cum negatione: con­<lb></lb>tratium verò negat protlus. </s>
+
+<s>Argu­<lb></lb>mento ſunt cæcum, &amp; inerme, quæ di­<lb></lb>ſtinguntur à non vidence, &amp; à non ar­<lb></lb>mato. </s>
+
+<s>Itaque quies opponitur motui <lb></lb>priuatiuè, ſed non indiſcriminatim, <lb></lb>quæque quies, cuique motui opponi­<lb></lb>tur. </s>
+
+<s>Nam quies in termino à quo mo­<lb></lb>tus incipit, opponitur motui: non qui­<lb></lb>es in termino, in quem definit mo­<lb></lb>tus: propterea quòd, quies in ter­<lb></lb>mino ad quem eſt motus, finis &amp; per­<lb></lb>fectio eſt ipſius motus, quæ dicitur <lb></lb><expan abbr="etiã">etiam</expan> <foreign lang="grc"><gap></gap> &amp; ὁ <gap></gap></foreign>: &amp; ideo non<pb xlink:href="030/01/066.jpg"></pb>eſt contraria motui, cuius eſt perfectio, <lb></lb>verbi cauſa, ſanationi opponitur illa <lb></lb>quies, quæ eſt in ægritudine, non ea, <lb></lb>quæ eſt in ſanitate: <expan abbr="quoniã">quoniam</expan> ſanitas eſt <lb></lb>perfectio ſanationis: ęgritudo verò eſt <lb></lb>contratis, &amp; aduerſa, à qua deiicitur. <lb></lb></s>
+
+<s>Sed quia termini ſunt contrarii, ideo <lb></lb>quies erit quoque quieti contraria. </s>
+
+<s>Qui­<lb></lb>es ergo in termino à quo proficiſcitur <lb></lb>motus, aduerſatur quieti, quę eſt in ter­<lb></lb>mino ad quem cietur motus: et quem­<lb></lb>admodum mutationes opponuntur mu­<lb></lb>tationibus contradictoriè, hoc eſt per <lb></lb><expan abbr="negationē">negationem</expan> &amp; affirmationem, qualis eſt <lb></lb>generatio &amp; interitus: ſic mutationis <lb></lb><gap></gap>acuitas, ſiue priuatio, quæ dicitur à <lb></lb>Gręcis <foreign lang="grc">ἀμιτα βλνσί α</foreign>, hoc eſt (vt verbú <lb></lb>verbo reddamus) immutabilitas, oppo­<lb></lb>nitur priuatiuè mutationi. </s>
+
+<s>At cui? </s>
+
+<s>ro­<lb></lb>get quis: nempè illi, quæ eſt in termi­<lb></lb>no à quo fit mutatio, non illi, quę eſt in ter-<pb xlink:href="030/01/067.jpg"></pb>mino ad quem eſt mutatio, quia eſt ſua <lb></lb>forma &amp; <foreign lang="grc">ἐνδιελε ̓χ<gap></gap>α</foreign>, vt generationi <lb></lb>opponitur immutabilitas illa, quæ eſt <lb></lb>in negatione ſiue in non ente, &amp; interi­<lb></lb>tui illa, quæ eſt in affirmatione, hoc, eſt <lb></lb>in ente: at que vt generatio &amp; interitus, <lb></lb>affirmatio &amp; negatio opponuntur, ita <lb></lb>quoque immutabilitates opponuntur al­<lb></lb>tera alteri, quemadmodum etiam di­<lb></lb>ctum eſt de motu. </s>
+
+<s>Sed immutabili­<lb></lb>tas non eſt quies, alioqui alterum duo­<lb></lb>rum incommodorum nobis incumbe­<lb></lb>ret, aut non omnis quies opponeretur <lb></lb>motui: aut generatio, atque interitus eſ­<lb></lb>ſet motus, id quod ſanè vtrumque eſſet <lb></lb>abſurdum. </s>
+
+<s>Iam verò cum ſtatuerimus <lb></lb>quietem in termino, à quo recedit mo­<lb></lb>tus, opponi motui, qui ab eodem pro­<lb></lb>ficiſcitur, tunc rogauerit quiſpiam, an <lb></lb>duo contraria ſint ſimul, quoniam vi­<lb></lb>dentur eſſe ambo in aliquo, atque co-<pb xlink:href="030/01/068.jpg"></pb>dem, vt denigratio eſt in albedine, &amp; <lb></lb>ſua quies. </s>
+
+<s>Roganti hunc in modum <lb></lb>reſponderem, eſſe ſimul non ſimplici­<lb></lb>ter, ſed quadam ex parte: quia quem­<lb></lb>admodum motus partim eſt in termi­<lb></lb>no à quo incipit, partim etiam in ter­<lb></lb>mino in quem deſinit, quia eſt diuidu­<lb></lb>us: ſic etiam quies participat vtriuſque <lb></lb>termini: vt quando fit denigratio, <expan abbr="tũc">tunc</expan> <lb></lb>quies partim eſt in albedine, partim <lb></lb>in nigredine: quia ſuccedit nigredo ſen­<lb></lb>ſim. </s>
+
+<s>Pręterea quies &amp; motus, vt The­<lb></lb>miſtius atteſtatur in Phyſica Ariſtote­<lb></lb>lis, non verè opponuntur, ſed eſt op­<lb></lb>poſitio priuatiua, quæ dicitur à Gręcis <lb></lb><foreign lang="grc">ἀν τι ̓θεσις κατὰ σξ̓θυενσιν</foreign>: quoniam quies <lb></lb>eſt priuatio motus. </s>
+
+<s>At magis motus, <lb></lb>quàm quies motui aduerſatur, ſiqui­<lb></lb>dem motus ſint contrarii. </s>
+
+<s>Rurſus hoc <lb></lb>loco aliquis ſciſcitari commodè poteſt, <lb></lb>an quietis ſit generatio, non enim vide-<pb xlink:href="030/01/069.jpg"></pb>tur eſſe generatio, quia generatio quie­<lb></lb>tis eſt via ad ſtatum, quem nuncupat <lb></lb>Ariſtoteles <foreign lang="grc">το̄ ἵ σα<gap></gap>αι</foreign>, ergo quies ter­<lb></lb>rę ſurſum pręter naturam, eſſet via ad <lb></lb>ſtatum, quod quidem eſt falſum, quia <lb></lb>quæ feruntur ad ſtatum, illa ſtatui pro <lb></lb>pinquiora celerius mouentur. </s>
+
+<s>Sed ter­<lb></lb>ra, quę fertur ſurſum, tardius mouetur: <lb></lb>ergo quietis non eſt generatio. </s>
+
+<s>Præ­<lb></lb>terea ire ad ſtatum, eſt moueri in pro­<lb></lb>prium <expan abbr="locũ">locum</expan>, ergo terra moueretur ſur­<lb></lb>ſum ſuapte natura in proprium locum. <lb></lb></s>
+
+<s>Rurſum altius rem ſpeculanti, videbi­<lb></lb>tur quietis eſſe generatio: quoniam <expan abbr="nõ">non</expan> <lb></lb>poteſt quippiam quieſcere, cuius quies <lb></lb>non generatur: hoc eſt non poteſt quie­<lb></lb>ſcere, quod ad quietem non peruenit. <lb></lb></s>
+
+<s>Huic itaque ſciſcitanti, atque dialectico <lb></lb>more in vtramque partem diſputanti, &amp; <lb></lb>argumentoſa oratione cauillanti, non <lb></lb>prius reſponderem, quàm mihi secum<pb xlink:href="030/01/070.jpg"></pb>conueniret, de quo genere quietis pro­<lb></lb>poſita ſit controuerſia. </s>
+
+<s>Nam quies, eſt <lb></lb>aut ſempiterna, aut non ſempiterna, <lb></lb>ſempiterna quidem quies, eſt terrę quę <lb></lb>tempore çterno quieuit, &amp; quieſcet, de <lb></lb>ſententia Ariſtotelis: non ſempiterna <lb></lb>verò, eſt earum rerum, quæ interdum <lb></lb>mouentur, interdum non mouentur: <lb></lb>&amp; hæc rurſus, aut eſt naturalis, aut <lb></lb>violenta. </s>
+
+<s>Sanè violentæ quietis non <lb></lb>eſt generatio, naturalis autem eſt ge­<lb></lb>neratio: quoniam generatio eſt via ad <lb></lb>ſtatum: venire autem ad ſtatum, eſt <lb></lb>ferri in locum proprium. </s>
+
+<s>Propterea <lb></lb>quies non ſempiterna, &amp; illa quidem <lb></lb>violenta, ſiue præter naturam, oppo­<lb></lb>nitur motui naturali. </s>
+
+<s>Nam quemad­<lb></lb>modum ignis motus deorſum, qui eſt <lb></lb>præter naturam, aduerſatur motui ſur­<lb></lb>ſum naturali, ſic quics ignis deorſum <lb></lb>violéta, aduerſatur quieti ignis ſurſum<pb xlink:href="030/01/071.jpg"></pb>naturali. </s>
+
+<s>Atque hactenus de omnibus <lb></lb>generibus cauſarum, &amp; principiorum <lb></lb>motus, &amp; proprietatibus, &amp; affectio­<lb></lb>nibus eius, atque adeo de quiete illi op­<lb></lb>poſita, dicta ſint hęc ſatis per <expan abbr="methodũ">methodum</expan> <lb></lb>definitiuam, in qua nunc lubens <lb></lb>acquieſco, ipſam amplifi­<lb></lb>caturus&#039;, ornando in <lb></lb>Ecphraſi toti­<lb></lb>us phyſio­<lb></lb>logię.</s></p><p type="main">
+
+<s></s></p>			</chap>		</body>		<back></back>	</text></archimedes>

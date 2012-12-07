@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE archimedes SYSTEM "../dtd/archimedes.dtd">
+<archimedes xmlns:xlink="http://www.w3.org/1999/xlink">      <info>
+        <author>Pseudo Euclid</author>
+        <title>de ponderoso et levi</title>
+        <date>1565</date>
+        <place>Paris</place>
+       <translator></translator>
+        <lang>fr</lang>
+        <cvs_file>eucli_ponde_058_fr_1565.xml</cvs_file>
+        <cvs_version/>
+        <locator>058.xml</locator>
+</info>      <text>
+<pb xlink:href="058/01/001.jpg" /><front>
+
+<section><p type="head"><s id="id.000001">UNE PIECE DV LIV&shy;<lb/>VRE D'EVCLIDE INTITVLE,<lb/>DV LEGER ET DV PESANT TRA&shy;<lb/>duict &amp; comment&eacute; par Pierre <lb/>Forcadel de <lb/>Bezies</s></p></section></front><body><chap><p type="head">
+<s id="id.000002">DEFINITIONS.</s></p><p type="main">
+<s id="id.000003">1. <lb/>Les corps &longs;ont d'e&longs;galle grandeur qui rempli&longs;&shy;<lb/>&longs;ent les lieux egaux.</s></p><p>
+<s id="id.000004">2. <lb/>Les corps &longs;ont de diuer&longs;e grandeur, qui rempli&longs;&shy;<lb/>&longs;ent les lieux non egaux.</s></p><pb xlink:href="058/01/002.jpg" /><p>
+<s id="id.000005">3. <lb/>Les corps &longs;e di&longs;ent plus grans de magnitude, qui<lb/>&longs;ont en plus grand lieu.</s></p><p>
+<s id="id.000006">4. <lb/>Les corps &longs;ont d'egalle pui&longs;&longs;ance, de&longs;quelz les <lb/>mouuem<expan abbr="&etilde;">en</expan>s &longs;ont egaux en temps, air ou eau, moy<expan abbr="&etilde;">en</expan>s <lb/>egaux, &amp; par egaux interualles.</s></p><p>
+<s id="id.000007">5. <lb/>Les corps &longs;ont de diuer&longs;e pui&longs;&longs;ance, de&longs;quelz les <lb/>mouuemens &longs;ont egeux en temps diuers.</s></p><p>
+<s id="id.000008">6. <lb/>Des corps de diuer&longs;e pui&longs;&longs;ance, celluy &longs;e dict e&longs;tre <lb/>plus gr<expan abbr="&atilde;">am</expan>d de pui&longs;&longs;ance lequel mouuant prent moins <lb/>de temps: &amp; plus petit de pui&longs;&longs;ance, qui employe <lb/>plus de temps.</s></p><p>
+<s id="id.000009">7.<lb/><pb xlink:href="058/01/003.jpg" />Les corps &longs;ont de me&longs;me genre, le&longs;quelz e&longs;tans <lb/>egaux de grandeur, &longs;ont au&longs;&longs;i egaux de pui&longs;&longs;ance.</s></p><p>
+<s id="id.000010">8. <lb/>Les corps &longs;ont de diuers genre le&longs;quelz combi<expan abbr="&etilde;">en</expan><lb/>qu'ilz &longs;oient egaux de grandeur, ne &longs;ont pas egaux<lb/>de pui&longs;&longs;ance, &amp; faut qu'ilz meuuent par un me&longs;me <lb/>moyen.</s></p><p>
+<s id="id.000011">9.<lb/> Des corps de diuers genre, celluy &longs;e dict plus pu<lb/>i&longs;&longs;ant, qui e&longs;t plus &longs;olide.
+</s></p></chap><chap><p type="head"><s id="id.000012">PROPOSITIONS.</s></p><p type="main">
+<s id="id.000013">1.</s></p><p>
+<s id="id.000014">Des corps de diuer&longs;e pui&longs;&longs;ance, celluy qui e&longs;t meu<lb/>en plus grand e&longs;pace, ha plus de pui&longs;&longs;ance.</s></p><pb xlink:href="058/01/004.jpg" /><p>
+<s id="id.000015">2.</s></p><p>
+<s id="id.000016">Des corps de me&longs;me genre, &longs;i iceux &longs;ont entr'eux <lb/>de plu&longs;ieurs fois, les pui&longs;&longs;ances d'iceux &longs;er<expan abbr="&otilde;">on</expan>t d'e&longs;gal <lb/>plu&longs;ieurs fois.</s></p><pb xlink:href="058/01/005.jpg" /><p>
+<s id="id.000017">3.</s></p><p>
+<s id="id.000018">Des corps de me&longs;me genre, la proportion e&longs;t la me&longs;me &amp; de grandeur &amp; de pui&longs;&longs;ance.</s></p><p>
+<s id="id.000019">4.</s></p><p>
+<s id="id.000020">Les corps le&longs;quelz &longs;ont egaux de pui&longs;&longs;ance &agrave; vn <lb/>corps de me&longs;me genre &longs;ont entr'eux de me&longs;me gen&shy;<lb/>re, car o&longs;t&eacute;es cho&longs;es egales &agrave; ce tiers la, les vertus d'i&shy;<lb/>celles &longs;eront egales pource qu'elles &longs;ont egales &agrave; la <lb/>pui&longs;&longs;ance du tiers.</s></p></chap></body></text></archimedes>
