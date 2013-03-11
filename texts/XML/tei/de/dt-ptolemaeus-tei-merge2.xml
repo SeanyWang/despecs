@@ -18,7 +18,7 @@
 				</respStmt>
 				<respStmt>
 					<resp>Unterstützung</resp>
-					<name>Martin Scholz</name>
+					<name>Martin Scholz; Josef Willenborg; Klaus Thoden</name>
 				</respStmt>
 				<respStmt>
 					<resp>Einleitung</resp>
@@ -31,7 +31,7 @@
 						zu digitalen Editionen im Rahmen der Sommerakademie der Studienstiftung 
 						des Deutschen Volkes in Greifswald 2008 und an der 
 						Friedrich-Alexander-Universität Erlangen- Nürnberg in den 
-						Sommersemestern 2009, 2010, 2011, 2012 für ihre Mithilfe.
+						Sommersemestern 2009, 2010, 2011 und 2012 für ihre Mithilfe.
 						</name>
 				</respStmt>
 			</titleStmt>
@@ -102,7 +102,7 @@
 			<change when="2011-06-01">Viele Änderungen in 2010 und 2011 durch GG und JS</change>
 			<change when="2011-07-15">Zusammenfassung der Versionen aus Erlangen und Berlin (JS)</change>
 			<change when="2011-07-15">Elimination der Punkte in choice Elementen (JS)</change>
-            <change when="2011-08-03">Kleinere Korrekturen und Einfügen von s-Elementen</change>
+                        <change when="2011-08-03">Kleinere Korrekturen und Einfügen von s-Elementen (KT)</change>
 			<change when="2012-08-07">Einleitung von Bettina Lindner und Inhaltsübersicht eingefügt (BL, GG)</change>
 		</revisionDesc> 
 
@@ -110,61 +110,14 @@
   
   <text xml:lang="de">
 	<front>
-	    <pb n="0" facs="Ptolemaeus_text_00"/>
-		<div type="title">
-			<head>Titel</head>
-			<p>
-			Der Deutsche Ptolemaeus - Eine digitale Edition
-			</p>
-		</div>
-		<div type="author">
-			<head>Autor</head>
-			<p>
-			Anonymus; Goerz, Guenther; Schneeberger, Josef (eds.)
-			</p>
-		</div>
-		<div type="resp">
-			<head>Gesamtverantwortung</head>
-			<p>
-			Guenther Goerz
-			</p>
-		</div>
-		<div type="tech">
-			<head>Technische Umsetzung</head>
-			<p>
-			Josef Schneeberger
-			</p>
-		</div>
-		<div type="support">
-			<head>Unterstützung</head>
-			<p>
-			Martin Scholz
-			</p>
-		</div>
-		<div type="intro">
-			<head>Einleitung</head>
-			<p>
-			Bettina Lindner
-			</p>
-		</div>
-		<div type="thank">
-			<head>Mitarbeit</head>
-			<p>
-			Wir danken allen Teilnehmern der Veranstaltungen 
-			zu digitalen Editionen im Rahmen der Sommerakademie der Studienstiftung 
-			des Deutschen Volkes in Greifswald 2008 und an der 
-			Friedrich-Alexander-Universität Erlangen- Nürnberg in den 
-			Sommersemestern 2009, 2010, 2011, 2012 für ihre Mithilfe.
-			</p>
-		</div>
 		<div type="preface">
 			<head>Einleitung</head>
 			<p>
-			Beim „Deutschen Ptolemäus“ handelt es sich um eine kleine frühneuhochdeutsche 
+			Beim „Deutschen Ptolemaeus“ handelt es sich um eine kleine frühneuhochdeutsche 
 			Kosmographie aus dem Ende des 15. Jahrhunderts. Obwohl der Autor sie als deutsche 
 			Übersetzung der „Geographia“ des Ptolemaeus bezeichnet, darf sie als eigenständiges 
-			Werk gelten, auch wenn sie sich erkennbar an Ptolemäus orientiert. Besonderen Wert 
-			erhält sie durch die beigefügte, auf der Ulmer Ptolemäus Ausgabe basierenden Weltkarte.
+			Werk gelten, auch wenn sie sich erkennbar an Ptolemaeus orientiert. Besonderen Wert 
+			erhält sie durch die beigefügte, auf der Ulmer Ptolemaeus-Ausgabe basierenden Weltkarte.
 			Eine der mindestens zwei Ausgaben befindet sich in der Public Library in New York 
 			und eine in der Bayerischen Staatsbibliothek in München. Ein dritter Druck, der in 
 			Berlin gewesen sein soll, gilt seit dem 2. Weltkrieg als verschollen.
@@ -173,7 +126,7 @@
 		<div>
 			<head>Zum Stand der Forschung</head>
 			<p>
-			Der Stand der Forschung zum „Deutschen Ptolemäus“ ist als eher niedrig anzusetzen. 
+			Der Stand der Forschung zum „Deutschen Ptolemaeus“ ist als eher niedrig anzusetzen. 
 			Die Arbeiten von Michael Herkenhoff und Barbara Ries sind jüngeren Datums 
 			(Herkenhoff 1996; Ries 2006). Daneben erschienen bereits 1910 die von Joseph 
 			Fischer herausgegebene Faksimileausgabe und bis in die 1960er Jahre hinein 
@@ -202,7 +155,7 @@
 			nicht um die Type 14 handelte – wie Joseph Fischer noch annahm (Fischer : 23) – sondern 
 			dass die kleine Kosmographie sehr viel wahrscheinlicher mit der Type 13 frühestens Mitte 
 			der 90er Jahre gedruckt wurde (Matthey 1961: 83). Für Stuchs spricht auch die Tatsache, 
-			dass dieser Ende des 15. Jahrhunderts vor allem liturgische Bücher für ostdeutsche und 
+			dass dieser Ende des 15. Jahrhunderts vor allem liturgische Bücher für 
 			ostdeutsche Diözesen herausgab und zeitweise auch für das Erzbistum Krakau tätig war. 
 			Andererseits wurde in der Forschung darauf hingewiesen, dass der schlechte und 
 			ungleichmäßige Satz und die Verwendung eines spärlichen und  dazu abgenutzten 
@@ -233,7 +186,7 @@
 			Wie schon erwähnt, stellt die beigefügte Weltkarte eine Besonderheit dar. Sie ist nicht 
 			zusammen mit einer der beiden bekannten Ausgaben überliefert, sondern wurde erst Anfang 
 			des 20. Jahrhunderts von Joseph Fischer in der Vadiana Bibliothek in St. Gallen 
-			wiederentdeckt, und zwar in einer Ulmer Ptolemaeus Ausgabe. Sie befindet sich heute in 
+			wiederentdeckt, und zwar in einer Ulmer Ptolemaeus-Ausgabe. Sie befindet sich heute in 
 			der Public Library in New York. Dass sich weder in der gebundenen Kosmographie in 
 			New York noch in München eine Karte erhalten hat, erklärt Fischer damit, dass die Werke 
 			vermutlich nicht gebunden, sondern nur geheftet waren, bzw. die Karten nur lose beilagen, 
@@ -275,21 +228,25 @@
 						<name>Matthey, Walther</name>
 					</author>
 					<title level="a">Wurde der 'Deutsche Ptolemäus' vor 1492 gedruckt?</title>
-					<title level="j">Gutenberg Jahrbuch</title>
-					<date>1961</date>
-					<biblScope type="vol">36</biblScope>
-					<biblScope type="pp">77-87</biblScope>
+					<bibl type="monogr">
+						<title level="j">Gutenberg Jahrbuch</title>
+						<date>1961</date>
+						<biblScope type="vol">36</biblScope>
+						<biblScope type="pp">77-87</biblScope>
+					</bibl>
 				</bibl>
 				<bibl type="article">
 					<author>
 						<name>Rosenthal, Erwin</name>
 					</author>
 					<title level="a">The German Ptolemy and its World Map</title>
+					<bibl type="monogr">
 					<title level="j">Bulletin of the New York Public Library</title>
 					<date>1944</date>
 					<biblScope type="vol">48</biblScope>
 					<biblScope type="issue">2</biblScope>
 					<biblScope type="pp">135-147</biblScope>
+					</bibl>
 				</bibl>
 				<bibl type="monogr">
 					<author>
@@ -307,74 +264,292 @@
 			<list>
 				<head>1. Die Darstellung der Erde nach Ptolemaeus</head>
 				<item>Die Wendekreise (der Sonne)</item>
-				<lb/><item>Der Tierkreis / Eigenschaften der Zeichen und zugeordnete Länder</item>
-				<lb/><item>Parallelkreise</item>
-				<lb/><item>Klimazonen</item>
-				<lb/><item>Meridiane / Zwölf Winde</item>
+				<item>Der Tierkreis / Eigenschaften der Zeichen und zugeordnete Länder</item>
+				<item>Parallelkreise</item>
+				<item>Klimazonen</item>
+				<item>Meridiane / Zwölf Winde</item>
 			</list>
 			<list>
 				<head>2. Die Einteilung der Erde</head>
 				<item>Die Meere</item>
-				<lb/><item>Teile Europas</item>
-				<lb/><item> Teile Afrikas</item>
-				<lb/><item>Teile Asiens</item>
+				<item>Teile Europas</item>
+				<item> Teile Afrikas</item>
+				<item>Teile Asiens</item>
 			</list>
 			<list>
 				<head>Überschriften im Text</head>
 				<item>Ein einleitung diß buchleins yn die kunst Cosmographia.</item>
-				<lb/><item>Uon der gemeinen figur ptolomei gegen dises büchleins Figur.</item>
-				<lb/><item>Uon inhalt dises buchleins figur.</item>
-				<lb/><item>Uon den drey Zirkeln. der Sunnen</item>
-				<lb/><item>Hie nach geschriben sagt es von dem zodiaco.</item>
-				<lb/><item>Jtem welche land zu geeygent werden yn sunderheit disen 12 zeichenn.</item>
-				<lb/><item>Uon den linien paralellenn</item>
-				<lb/><item>Uon den climaten.</item>
-				<lb/><item>Das erst clima dyameroes</item>
-				<lb/><item>das ander clima diasienes</item>
-				<lb/><item>Das dritte clima dyalexandrios</item>
-				<lb/><item>Das vierde Clima dyarodus.</item>
-				<lb/><item>Das funffte clima dyaromes</item>
-				<lb/><item>Das sechste clima dyaboristenes</item>
-				<lb/><item>Das sibend clima dyaripheos.</item>
-				<lb/><item>von den meridians zirkeln</item>
-				<lb/><item>Hienach sagt es von den zwelff windenn.</item>
-				<lb/><item>Uon teilung der irdischen werlt</item>
-				<lb/><item>Uon den meheren</item>
-				<lb/><item>Uon den teylen Europe</item>
-				<lb/><item>Hybernia yrland.  Albion Engelland 1</item>
-				<lb/><item>Hyspania 2</item>
-				<lb/><item>Gallia Franckreich 3</item>
-				<lb/><item>Germania nyderste teutschland. 4</item>
-				<lb/><item>Gotland. norwegen. schweden.</item>
-				<lb/><item>Pannonia Hungern vnd Ostereich 5</item>
-				<lb/><item>Jtalia welschland 6</item>
-				<lb/><item>Sicilia Sardinia ynsulln 7</item>
-				<lb/><item>Jtem sarmacam europe reyssen liten 8</item>
-				<lb/><item>Dacia walachei. 9</item>
-				<lb/><item>Macedonia criechenlant 10</item>
-				<lb/><item>Zumercken was buchstaben oder littera europa in iebung der sproch hatt</item>
-				<lb/><item>Uon den teilenn Affrice oder Libie 1</item>
-				<lb/><item>Affrica minor.  Ist klein affrica 2</item>
-				<lb/><item>Marmarica libia egipten. 3</item>
-				<lb/><item>Ethiopia morland vnder egipten gelegen 4</item>
-				<lb/><item>was buchstaben der sprach.  affrica yn ubung hatt.</item>
-				<lb/><item>Uon den teilen asie</item>
-				<lb/><item>Azia minor klein asia. 1</item>
-				<lb/><item>Sarmatia Aziatica Mosquiten 2</item>
-				<lb/><item>Armenia maior groß armenien 3</item>
-				<lb/><item>Siria mesopotanea babilonia. 4</item>
-				<lb/><item>Media persidis hircania parthia. 5</item>
-				<lb/><item>Scitia intra ymaum montem.  Scitia zwischen dem berg Ymaus</item>
-				<lb/><item>Scitia axtra ymaum montem 8</item>
-				<lb/><item>Aria paropanisis drangiana arachosia 9</item>
-				<lb/><item>Yndia zwischen dem flis ganges.</item>
-				<lb/><item>Jndia extra gangem awssen dem flis gange 11</item>
+				<item>Uon der gemeinen figur ptolomei gegen dises büchleins Figur.</item>
+				<item>Uon inhalt dises buchleins figur.</item>
+				<item>Uon den drey Zirkeln. der Sunnen</item>
+				<item>Hie nach geschriben sagt es von dem zodiaco.</item>
+				<item>Jtem welche land zu geeygent werden yn sunderheit disen 12 zeichenn.</item>
+				<item>Uon den linien paralellenn</item>
+				<item>Uon den climaten.</item>
+				<item>Das erst clima dyameroes</item>
+				<item>das ander clima diasienes</item>
+				<item>Das dritte clima dyalexandrios</item>
+				<item>Das vierde Clima dyarodus.</item>
+				<item>Das funffte clima dyaromes</item>
+				<item>Das sechste clima dyaboristenes</item>
+				<item>Das sibend clima dyaripheos.</item>
+				<item>von den meridians zirkeln</item>
+				<item>Hienach sagt es von den zwelff windenn.</item>
+				<item>Uon teilung der irdischen werlt</item>
+				<item>Uon den meheren</item>
+				<item>Uon den teylen Europe</item>
+				<item>Hybernia yrland.  Albion Engelland 1</item>
+				<item>Hyspania 2</item>
+				<item>Gallia Franckreich 3</item>
+				<item>Germania nyderste teutschland. 4</item>
+				<item>Gotland. norwegen. schweden.</item>
+				<item>Pannonia Hungern vnd Ostereich 5</item>
+				<item>Jtalia welschland 6</item>
+				<item>Sicilia Sardinia ynsulln 7</item>
+				<item>Jtem sarmacam europe reyssen liten 8</item>
+				<item>Dacia walachei. 9</item>
+				<item>Macedonia criechenlant 10</item>
+				<item>Zumercken was buchstaben oder littera europa in iebung der sproch hatt</item>
+				<item>Uon den teilenn Affrice oder Libie 1</item>
+				<item>Affrica minor.  Ist klein affrica 2</item>
+				<item>Marmarica libia egipten. 3</item>
+				<item>Ethiopia morland vnder egipten gelegen 4</item>
+				<item>was buchstaben der sprach.  affrica yn ubung hatt.</item>
+				<item>Uon den teilen asie</item>
+				<item>Azia minor klein asia. 1</item>
+				<item>Sarmatia Aziatica Mosquiten 2</item>
+				<item>Armenia maior groß armenien 3</item>
+				<item>Siria mesopotanea babilonia. 4</item>
+				<item>Media persidis hircania parthia. 5</item>
+				<item>Scitia intra ymaum montem.  Scitia zwischen dem berg Ymaus</item>
+				<item>Scitia axtra ymaum montem 8</item>
+				<item>Aria paropanisis drangiana arachosia 9</item>
+				<item>Yndia zwischen dem flis ganges.</item>
+				<item>Jndia extra gangem awssen dem flis gange 11</item>
 			</list>
 		</div>
 		
 	</front>  
   	<body>
           <div type="editorial" xml:lang="ger"> 
+		    <pb n="0" facs="Ptolemaeus_text_00"/>
+			<head>Einleitung</head>
+			<p>
+			Beim „Deutschen Ptolemaeus“ handelt es sich um eine kleine frühneuhochdeutsche 
+			Kosmographie aus dem Ende des 15. Jahrhunderts. Obwohl der Autor sie als deutsche 
+			Übersetzung der „Geographia“ des Ptolemaeus bezeichnet, darf sie als eigenständiges 
+			Werk gelten, auch wenn sie sich erkennbar an Ptolemaeus orientiert. Besonderen Wert 
+			erhält sie durch die beigefügte, auf der Ulmer Ptolemaeus-Ausgabe basierenden Weltkarte.
+			Eine der mindestens zwei Ausgaben befindet sich in der Public Library in New York 
+			und eine in der Bayerischen Staatsbibliothek in München. Ein dritter Druck, der in 
+			Berlin gewesen sein soll, gilt seit dem 2. Weltkrieg als verschollen.
+			</p>
+		</div>
+		<div>
+			<head>Zum Stand der Forschung</head>
+			<p>
+			Der Stand der Forschung zum „Deutschen Ptolemaeus“ ist als eher niedrig anzusetzen. 
+			Die Arbeiten von Michael Herkenhoff und Barbara Ries sind jüngeren Datums 
+			(Herkenhoff 1996; Ries 2006). Daneben erschienen bereits 1910 die von Joseph 
+			Fischer herausgegebene Faksimileausgabe und bis in die 1960er Jahre hinein 
+			einige weitere grundlegende Veröffentlichungen, die sich mit unterschiedlichen 
+			Fragen zum „Deutschen Ptolemaeus“ beschäftigen (Fischer 1910; Rosenthal 1944; Matthey 1961).
+			</p>
+			<p>
+			Die Frage der Autorenschaft ist nach wie vor ungeklärt. Das Buch selbst gibt keinerlei
+			Auskunft über seinen Verfasser oder Entstehungsort. In der Forschung ist man sich seit 
+			Fischer aber einig, dass die Hervorhebung der Städte Krakau, Neisse und Nürnberg auf 
+			eine besondere Beziehung des Autors zu diesen Orten schließen lässt. So vermutet man 
+			Neisse als Geburts- und Krakau als möglichen Studienort des Verfassers.
+			</p>
+			<p>
+			Unsicher ist auch, in welchem Jahr der „Deutsche Ptolemaeus“ erschien. Da der Verfasser 
+			sowohl die 1486 erstmals gedruckte „Peregrinatio in terram sanctam“ des Bernhard von 
+			Breyenbach als auch die im selben Jahr von Johannes Reger besorgte Ulmer Ptolemaeus 
+			Ausgabe verwendete, geht man in der Forschung davon aus, dass das Werk frühestens 1486 
+			geschrieben sein kann. Eine Abschrift des „Deutschen Ptolemaeus“ aus dem Nachlass Johann 
+			Schöners von 1509 markiert das späteste mögliche Erscheinungsjahr (Herkenhoff 1996 : 135; 
+			Matthey 1961: 79).
+			</p>
+			<p>
+			Zweifelsfrei wurde der „Deutsche Ptolemaeus“ mit einer Type des Nürnberger Frühdruckers 
+			Georg Stuchs gedruckt. Allerdings ergaben paläotypische Untersuchungen, dass es sich dabei 
+			nicht um die Type 14 handelte – wie Joseph Fischer noch annahm (Fischer : 23) – sondern 
+			dass die kleine Kosmographie sehr viel wahrscheinlicher mit der Type 13 frühestens Mitte 
+			der 90er Jahre gedruckt wurde (Matthey 1961: 83). Für Stuchs spricht auch die Tatsache, 
+			dass dieser Ende des 15. Jahrhunderts vor allem liturgische Bücher für 
+			ostdeutsche Diözesen herausgab und zeitweise auch für das Erzbistum Krakau tätig war. 
+			Andererseits wurde in der Forschung darauf hingewiesen, dass der schlechte und 
+			ungleichmäßige Satz und die Verwendung eines spärlichen und  dazu abgenutzten 
+			Typenvorrats nicht den sonstigen qualitativ hochwertigen Arbeiten Stuchs entspricht 
+			(Matthey 1961: 80; Herkenhoff 1996 : 136). Matthey hält es daher für möglich, dass ein 
+			Anfänger im Buchgewerbe den „Deutschen Ptolemaeus“ mit zuvor bei Stuchs erworbenen 
+			Typen druckte (Matthey 1961 : 80).
+			</p>
+		</div>
+		<div>
+			<head>Inhalt</head>
+			<p>
+			Inhaltlich ist der „Deutsche Ptolemaeus“, wie die meisten Kosmographien der Zeit, zweigeteilt. 
+			Einem lateinischen Widmungsgedicht, das, so Herkenhoff, den wissenschaftlichen Charakter 
+			des Werkes betonen soll (Herkenhoff 1996: 139), folgen ein theoretisch-mathematischer erster 
+			Teil und eine Erdbeschreibung. Gerade in letzterer orientiert sich der Verfasser an der 
+			ptolemaeischen „Geographia“. Er beschreibt in diesem zweiten Teil alle damals bekannten 
+			Kontinente. Besonders charakteristisch für den „Deutschen Ptolemaeus“ ist das dezidierte 
+			Interesse an Sprachen und Alphabeten, denn der Beschreibung jedes Kontinents folgt eine 
+			Auflistung der dort gesprochenen Sprachen und Schriften. Hier ähnelt die Kosmographie 
+			zeitgenössischen Reiseberichten, „die gleichfalls ein deutliches Interesse für die Sprachen 
+			fremder Völker und Kulturen erkennen lassen“ (Herkenhoff 1996 : 140).
+			</p>
+		</div>
+		<div>
+			<head>Weltkarte</head>
+			<p>
+			Wie schon erwähnt, stellt die beigefügte Weltkarte eine Besonderheit dar. Sie ist nicht 
+			zusammen mit einer der beiden bekannten Ausgaben überliefert, sondern wurde erst Anfang 
+			des 20. Jahrhunderts von Joseph Fischer in der Vadiana Bibliothek in St. Gallen 
+			wiederentdeckt, und zwar in einer Ulmer Ptolemaeus-Ausgabe. Sie befindet sich heute in 
+			der Public Library in New York. Dass sich weder in der gebundenen Kosmographie in 
+			New York noch in München eine Karte erhalten hat, erklärt Fischer damit, dass die Werke 
+			vermutlich nicht gebunden, sondern nur geheftet waren, bzw. die Karten nur lose beilagen, 
+			um eine bequemere Nutzung zu ermöglichen (Fischer 1910 : 12).
+			</p>
+			<p>
+			Die Karte ist die erste Weltkarte, die in Planiglobular-Projektion entstanden ist und 
+			somit einen direkten Hinweis auf die Kugelgestalt der Erde gibt. Fischer konnte anhand 
+			der Übereinstimmung von Nummern in Karte und Text eindeutig die Zusammengehörigkeit 
+			feststellen (Fischer 1910 : 11).
+			</p>
+		</div>
+		<div>
+			<listBibl>
+				<head>Sekundärliteratur zum "Deutschen Ptolemaeus"</head>
+				<bibl type="monogr">
+					<author>
+						<name>Fischer, Joseph</name>
+					</author>
+					<title>Der "Deutsche Ptolemäus" aus dem Ende des XV. Jahrhunderts 
+						(um 1490) in Faksimiledruck herausgegeben mit einer Einleitung</title>
+					<publisher>J. H. Ed. Heitz</publisher>
+					<date>1910</date>
+					<pubPlace>Strassburg</pubPlace>
+				</bibl>
+				<bibl type="monogr">
+					<author>
+						<name>Herkenhoff, Michael</name>
+					</author>
+					<title>Die Darstellung außereuropäischer Welten in Drucken deutscher 
+						Offizinen des 15. Jahrhunderts</title>
+					<publisher>Akademie Verlag</publisher>
+					<date>1996</date>
+					<pubPlace>Berlin</pubPlace>
+					<biblScope type="chap">2.2</biblScope>
+				</bibl>
+				<bibl type="article">
+					<author>
+						<name>Matthey, Walther</name>
+					</author>
+					<title level="a">Wurde der 'Deutsche Ptolemäus' vor 1492 gedruckt?</title>
+					<bibl type="monogr">
+						<title level="j">Gutenberg Jahrbuch</title>
+						<date>1961</date>
+						<biblScope type="vol">36</biblScope>
+						<biblScope type="pp">77-87</biblScope>
+					</bibl>
+				</bibl>
+				<bibl type="article">
+					<author>
+						<name>Rosenthal, Erwin</name>
+					</author>
+					<title level="a">The German Ptolemy and its World Map</title>
+					<bibl type="monogr">
+					<title level="j">Bulletin of the New York Public Library</title>
+					<date>1944</date>
+					<biblScope type="vol">48</biblScope>
+					<biblScope type="issue">2</biblScope>
+					<biblScope type="pp">135-147</biblScope>
+					</bibl>
+				</bibl>
+				<bibl type="monogr">
+					<author>
+						<name>Ries, Barbara</name>
+					</author>
+					<title>Der 'Deutsche Ptolemäus'. Vorstudien zu einer digitalen Edition</title>
+					<date>2006</date>
+					<pubPlace>Erlangen</pubPlace>
+					<note>Magisterarbeit</note>
+				</bibl>
+			</listBibl>
+		</div>
+		<div>
+			<head>Inhaltsübersicht (GG)</head>
+			<list>
+				<head>1. Die Darstellung der Erde nach Ptolemaeus</head>
+				<item>Die Wendekreise (der Sonne)</item>
+				<item>Der Tierkreis / Eigenschaften der Zeichen und zugeordnete Länder</item>
+				<item>Parallelkreise</item>
+				<item>Klimazonen</item>
+				<item>Meridiane / Zwölf Winde</item>
+			</list>
+			<list>
+				<head>2. Die Einteilung der Erde</head>
+				<item>Die Meere</item>
+				<item>Teile Europas</item>
+				<item> Teile Afrikas</item>
+				<item>Teile Asiens</item>
+			</list>
+			<list>
+				<head>Überschriften im Text</head>
+				<item>Ein einleitung diß buchleins yn die kunst Cosmographia.</item>
+				<item>Uon der gemeinen figur ptolomei gegen dises büchleins Figur.</item>
+				<item>Uon inhalt dises buchleins figur.</item>
+				<item>Uon den drey Zirkeln. der Sunnen</item>
+				<item>Hie nach geschriben sagt es von dem zodiaco.</item>
+				<item>Jtem welche land zu geeygent werden yn sunderheit disen 12 zeichenn.</item>
+				<item>Uon den linien paralellenn</item>
+				<item>Uon den climaten.</item>
+				<item>Das erst clima dyameroes</item>
+				<item>das ander clima diasienes</item>
+				<item>Das dritte clima dyalexandrios</item>
+				<item>Das vierde Clima dyarodus.</item>
+				<item>Das funffte clima dyaromes</item>
+				<item>Das sechste clima dyaboristenes</item>
+				<item>Das sibend clima dyaripheos.</item>
+				<item>von den meridians zirkeln</item>
+				<item>Hienach sagt es von den zwelff windenn.</item>
+				<item>Uon teilung der irdischen werlt</item>
+				<item>Uon den meheren</item>
+				<item>Uon den teylen Europe</item>
+				<item>Hybernia yrland.  Albion Engelland 1</item>
+				<item>Hyspania 2</item>
+				<item>Gallia Franckreich 3</item>
+				<item>Germania nyderste teutschland. 4</item>
+				<item>Gotland. norwegen. schweden.</item>
+				<item>Pannonia Hungern vnd Ostereich 5</item>
+				<item>Jtalia welschland 6</item>
+				<item>Sicilia Sardinia ynsulln 7</item>
+				<item>Jtem sarmacam europe reyssen liten 8</item>
+				<item>Dacia walachei. 9</item>
+				<item>Macedonia criechenlant 10</item>
+				<item>Zumercken was buchstaben oder littera europa in iebung der sproch hatt</item>
+				<item>Uon den teilenn Affrice oder Libie 1</item>
+				<item>Affrica minor.  Ist klein affrica 2</item>
+				<item>Marmarica libia egipten. 3</item>
+				<item>Ethiopia morland vnder egipten gelegen 4</item>
+				<item>was buchstaben der sprach.  affrica yn ubung hatt.</item>
+				<item>Uon den teilen asie</item>
+				<item>Azia minor klein asia. 1</item>
+				<item>Sarmatia Aziatica Mosquiten 2</item>
+				<item>Armenia maior groß armenien 3</item>
+				<item>Siria mesopotanea babilonia. 4</item>
+				<item>Media persidis hircania parthia. 5</item>
+				<item>Scitia intra ymaum montem.  Scitia zwischen dem berg Ymaus</item>
+				<item>Scitia axtra ymaum montem 8</item>
+				<item>Aria paropanisis drangiana arachosia 9</item>
+				<item>Yndia zwischen dem flis ganges.</item>
+				<item>Jndia extra gangem awssen dem flis gange 11</item>
+			</list>
+
 		    <head>Editorische Notizen</head>
             <p>Alle Druckfehler wurden in der Quelle durch die korrekte Form ersetzt.
 	        Die fehlerhafte Form ist codiert mit 
