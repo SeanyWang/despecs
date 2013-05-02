@@ -28,7 +28,8 @@ numbers=noenddot]{scrartcl}
 \input{../../abbreviations/abbreviations_2}
 
 \newcommand{\hash}{{\char"0023}}
-\newenvironment{typeChinese}{\begin{alltt}\s\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}}
+\newenvironment{typeChinese}{\begin{alltt}\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}}
+\newenvironment{typeChineseSmall}{\begin{alltt}\footnotesize\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}}
 
 \newcommand{\chin}[1]{{\fontspec{Sun-ExtA}{#1}}}
 \newcommand{\sunExtA}[1]{{\fontspec{Sun-ExtA}{#1}}}
@@ -43,6 +44,7 @@ numbers=noenddot]{scrartcl}
 \newcommand{\f}[1]{\bold{#1}} % f für fett
 \newcommand{\z}[1]{\chin{#1}} % z für Zeichen
 
+\newcommand{\smlb}{\bold{\textbackslash\textbackslash}}
 %%%
 
 \begin{document}
@@ -51,7 +53,7 @@ numbers=noenddot]{scrartcl}
 {\fontspec{Helvetica}{\LARGE \textbf{
 Special Instructions for Danshengtang
 \\[3mm]
-(Addendum to DESpecs for Chinese text 2.0.1) 
+(Addendum to DESpecs for Chinese text 2.1) 
 }}} \\[5mm]
 \large Wolfgang Schmidle, Martina Siebert, Cathleen Päthe
 
@@ -61,134 +63,177 @@ Special Instructions for Danshengtang
 \end{center}
 
 %\tableofcontents
+%\vspace{10mm}
 
 
-für den Begleitbrief:
+%gibt es „reparierten Text“? (in §DESpecs_1_2_chinese_special.pdf§ gibt es einen Abschnitt <rep>)
 
-\begin{itemize}
-\item Kostenvoranschlag
-\item jeweils Beispielseiten anfordern! (wieviele? Für die drei Texte unterschiedlich viele Seiten, immerhin ist bei Mantang ja viel mehr auf einer Seite drauf? Konkrete JPGs angeben, oder die ersten Seiten? Erste Seiten des gesamten Textes, oder erste Seiten nach dem Vorwort? Mantang p.749 mit dem Beispiel der verschiedenen <sm>-Typen?
-\item Sollen wir auch gleichzitig schon eine begleitende Tabelle der markeirten Varianten verlangen? Wohl ja.
-\end{itemize}
+\section{Collected Works \chin{澹生堂集}}
 
-Sollen denn jetzt alle drei Texte geschickt werden?
-
-gibt es „reparierten Text“? (in §DESpecs_1_2_chinese_special.pdf§ gibt es einen Abschnitt <rep>)
-
-(Joachim: Mingli tan noch aktuell? Sollen wir schicken, oder er?)
-
-\section{Collected Works}
-
-lang, einfach zu tippen: sollte billiger sein als die anderen Texte (Preise vergleichen!)
-
-Probeseiten aus dem Hauptteil, mit markierten Varianten. Dann: Wir sagen ihnen was sie genau markieren sollen. (Ist diese Strategie auch für die anderen beiden Texte sinnvoll?)
-
-*
-
-handschriftliche Markierungen, zum Beispiel p.103: Es folgt ein Abschnitt aus den Special Instructions §DESpecs_1_2_chinese_special.pdf§. Brauchen wir die Regel für small dotted lines, oder können wir die weglassen? Neues Beispiel, oder ist dieses Beispiel (aus Xifa shenji \, \chin{西法神機}) gut genug? Im Beispiel sind die handschriftlichen Markierungen in rot, und jetzt ist der Text schwarzweiß, aber soviel Abstraktionsleisutng könnte man den Chinesen wohl zutrauen, oder?
+%handschriftliche Markierungen, zum Beispiel p.103: Es folgt ein Abschnitt aus den Special Instructions §DESpecs_1_2_chinese_special.pdf§. Brauchen wir die Regel für small dotted lines, oder können wir die weglassen? Neues Beispiel, oder ist dieses Beispiel (aus Xifa shenji \, \chin{西法神機}) gut genug? Im Beispiel sind die handschriftlichen Markierungen in rot, und jetzt ist der Text schwarzweiß, aber soviel Abstraktionsleisutng könnte man den Chinesen wohl zutrauen, oder?
 
 
 \begin{mainrule}
-Type the handwritten underlinings. Use §{ }§ for dotted lines. Use §[ ]§ for circles or circled lines. Use §( )§ for small circles. 
-\end{mainrule}
+Type the handwritten underlinings as described in the DESpecs 2.1, page 15. In addition, use §<pl> </pl>§ for dotted lines.
 
-\begin{clarification}
-Do not treat circles as punctuation marks.
-Do not mark the red colour.
-\end{clarification}
+However, please type single circles and dots as punctuation marks. If there is an underlining immediately before the punctuation mark, include the character (but not the punctuation mark).
+\end{mainrule}
 
 \begin{tabular}{@{}ll}
 \parbox[b]{125mm}{
 \htsc{Example } \\[17mm]
 \begin{typeChinese}
-\bold{\{}\chin{其節短}\bold{\}[}\chin{矣}\bold{]}\chin{既猛烈而益} \\
-\chin{由是而}\bold{[(}\chin{別}\bold{)]}\chin{使}\bold{[}\chin{臨敵者氣}\bold{]} \\
-\bold{\{}\chin{必固}\bold{\}[}\chin{矣}\bold{]\{}\chin{然必車製合}\bold{\}[}\chin{宜}\bold{]} \\[12mm]
+... \bold{<pl>}\chin{其節短矣}\bold{</pl>}\chin{。旣猛烈而益} ... \\
+... \chin{由是而別。使}\bold{<cl>}\chin{臨敵者氣}\bold{</cl>} ... \\
+... \bold{<pl>}\chin{必固矣}\bold{</pl>}\chin{。}\bold{<pl>}\chin{然必車製合宜}\bold{</pl>}\chin{。} ... \\[12mm]
 \end{typeChinese}
 } & \qquad
 \includegraphics[height=6cm]{Specs-Bild3}
 \end{tabular}
 
+\vspace{-7mm}
+\begin{clarification}
+(We have ignored the tone mark next to \chin{別} in this example.)
+\end{clarification}
 
-\section{Mantang}
+\section{Mantang \chin{漫堂鈔本} (\chin{澹生堂藏書目})}
 
-handgeschrieben; Zeichenvarianten nur bei Buchtiteln, Titelzusätzen und Autoren markieren. Oder andersrum: nicht bei Standardangaben wie „Rolle“, „Heft“, „Umfang“, book \z{册}, chapter \z{卷} (weitere Zeichen), und bei Zahlen. Wierum ist es sinnvoller? Oder gar keine Regel auper „markiere die Varianten, obwohl der Text handgeschrieben ist“, dann müssen sie halt auch bei \z{册} einmal (und nicht öfter) die Variante markieren?
+% handgeschrieben; Zeichenvarianten nur bei Buchtiteln, Titelzusätzen und Autoren markieren. Oder andersrum: nicht bei Standardangaben wie „Rolle“, „Heft“, „Umfang“, book \z{册}, chapter \z{卷} (weitere Zeichen), und bei Zahlen. Wierum ist es sinnvoller? Oder gar keine Regel auper „markiere die Varianten, obwohl der Text handgeschrieben ist“, dann müssen sie halt auch bei \z{册} einmal (und nicht öfter) die Variante markieren?
 
-*
+% This text is handwritten. Nevertheless, please mark character variants as described in the DESpecs 2.1. For example, the character \z{册} occurs as standard character and as a variant. In the text, mark the first occurrence of the variant (do not mark the standard character). In the accompanying table, add “S + V” to the line for the variant.
 
-Problem, dass auf einem JPG zwei Seiten (d.h. vier Halbseiten) sind: Special Instructions oder nicht? Es gibt bisher keine allgemeinen Regeln für moderne Facsimiles. (Das sollte in der nächsten Version eingefügt werden. Gibt es schon ein modernes Facsimile, das wir haben tippen lassen?)
+\begin{mainrule}
+This text is handwritten. Consequently, make use of the full range of Unicode, but do NOT mark character variants if they are not in Unicode. 
+\end{mainrule}
 
-Ist es sinnvoll, sie viermal <pb> tippen zu lassen? Das würden die DESpecs nahelegen. Müsste hinterher wieder herausgenommen werden. Ist es sinnvoll, die JPGs von der Digigroup in zwei Teile teilen zu lassen? (mit zwei Halbseiten auf einem JPG sollten sie klarkommen.) Andererseits: Wir sind an den originalen Seiten interessiert, und nicht an der Tatsache, dass im Reprint zwei Seite auf einer Seite sind.
+\begin{clarification}
+For example, the character \z{册} occurs as standard character and as a variant. Type both the standard character and the variant as \z{册}.
+\end{clarification}
 
-Rahmen: Reihentitel ist uninteressant und sollen explizit nicht getippt werden. Aber die modernen Seitennummern könnten getippt werden, weil die originalen Seitenzahlen entweder nicht lesbar oder gar nicht da sind. Wenn ja: Wo werden sie getippt? Möglichkeit:
+\begin{mainrule}
+Do not type the running heads, neither from the facsimile nor from the original book. However, DO type the facsimile page numbers in square brackets.
+\end{mainrule}
 
-\begin{typeChinese}
-\bold{<pb a>} \bold{[}\chin{五五八}\bold{]} \\
-(text) \\
+\begin{clarification}
+If you can identify a single space within a name etc. as a decorative space, do not type it (see the DESpecs page 6).
+\end{clarification}
+
+\newpage
+%\vspace{5mm}
+\begin{example}[: page 0580]
+
+\vspace{-5mm}
+\begin{typeChineseSmall}
+\bold{<pb a [}\chin{五六〇}\bold{]>} \\
+\z{劉石潭易傳撮要}\f{<sm>}\z{一卷}\f{</sm>}\z{　}\f{<sm>}\z{劉髦}\smlb\z{見本集}\f{</sm>} \\
+\z{張文定公易說}\f{<sm>}\z{一卷}\f{</sm>}\z{　}\f{<sm>}\z{張邦竒}\smlb\z{見本集}\f{</sm>} \\
+\z{羅念菴易觧}\f{<sm>}\z{一}\smlb\z{卷}\f{</sm>}\z{　}\f{<sm>}\z{羅洪先}\smlb\z{見本載}\f{</sm>}\z{升庵易觧}\f{<sm>}\z{一卷}\f{</sm>}\z{　}\f{<sm>}\z{楊慎}\smlb\z{見餘苑}\f{</sm>} \\
+... \\
 \bold{<pb b>} \\
-(text) \\
-\bold{<pb a>} \\
-(text) \\
-\bold{<pb b>} \\
-(text) \\
-\end{typeChinese}
+... \\
+\bold{<pb c>} \\
+... \\
+\bold{<pb d>} \\
+... \\
+\end{typeChineseSmall}
 
-Wenn es Seitenzahlen gäbe, würde es so aussehen:
+\end{example}
 
-\begin{typeChinese}
-\bold{<pb} \chin{三十七}\bold{a>} \bold{[}\chin{五五八}\bold{]} \\
-(text) \\
-\bold{<pb} \chin{三十七}\bold{b>} \\
-(text) \\
-\bold{<pb} \chin{三十八}\bold{a>} \\
-(text) \\
-\bold{<pb} \chin{三十八}\bold{b>} \\
-(text) \\
-\end{typeChinese}
-
-*
-
-Kann man eine einfache Regel für die Reihenfolge bei <sm>-Zeichen definieren? Oder hofft man, dass sie es schon richtig machen werden? Argument für ZhongYi oder nicht? Beispielseiten abwarten.
-
-Regel könnte sein: normalgroßer space trennt auf. Problem: Das stimmt, blind angewendet, so nicht. Beispiel p.749.
-
-Problem mit mitdenk-Regeln für einzelne Bücher ist, dass sie nicht gut funktionieren. Ich würde sagen, wir probieren es ohne Regel.
-
-(Zierspaces können sie auch ohne Regeln erkennen.)
-
-*
-
-large spaces: Es reicht, wenn sie wie in den DESpecs erklärt §#§ tippen.
-
-Die Struktur der Einträge (zwei in einer Zeile, falls sie jeweils kürzer sind als eine halb Spalte; längere Einträge haben eine Zeile für sich) muss man wohl nicht erläutern, das sollten sie auch so hinkriegen.
-
-*
-
-Ziel sollte sein, dass man aus dem Text im post-processing automatisiert die Betandteile wie Autor, Titel etc. herauszieht. Im besten Fall wie Titelerfassungen in einer Bibliothek. Kann man Regeln machen, die uns dieses Ziel einfahcer machen? (Ich wüsste bisher keine. Tags für Autor, Titel, etc. sind wohl nicht sinnvoll.)
+\vspace{-3mm}
+\begin{note}
+This example does not contain §<list>§ because page 0580 is part of a list that begins before this page and ends after this page.
+\end{note}
 
 
+% Problem, dass auf einem JPG zwei Seiten (d.h. vier Halbseiten) sind: Special Instructions oder nicht? Es gibt bisher keine allgemeinen Regeln für moderne Facsimiles. (Das sollte in der nächsten Version eingefügt werden. Gibt es schon ein modernes Facsimile, das wir haben tippen lassen?)
 
-\section{Xushi}
+% Ist es sinnvoll, sie viermal <pb> tippen zu lassen? Das würden die DESpecs nahelegen. Müsste hinterher wieder herausgenommen werden. Ist es sinnvoll, die JPGs von der Digigroup in zwei Teile teilen zu lassen? (mit zwei Halbseiten auf einem JPG sollten sie klarkommen.) Andererseits: Wir sind an den originalen Seiten interessiert, und nicht an der Tatsache, dass im Reprint zwei Seite auf einer Seite sind.
 
-gedruckt
+% Rahmen: Reihentitel ist uninteressant und sollen explizit nicht getippt werden. Aber die modernen Seitennummern könnten getippt werden, weil die originalen Seitenzahlen entweder nicht lesbar oder gar nicht da sind. Wenn ja: Wo werden sie getippt? Möglichkeit:
 
-keine Regel für <sm>, in der Hoffnung, dass sie es entweder sinnvoll tippen oder man es mit wenig Aufwand nachträglich bearbeiten kann
+%\begin{typeChinese}
+%\bold{<pb a>} \bold{[}\chin{五五八}\bold{]} \\
+%(text) \\
+%\bold{<pb b>} \\
+%(text) \\
+%\bold{<pb a>} \\
+%(text) \\
+%\bold{<pb b>} \\
+%(text) \\
+%\end{typeChinese}
+
+%Wenn es Seitenzahlen gäbe, würde es so aussehen:
+%
+%\begin{typeChinese}
+%\bold{<pb} \chin{三十七}\bold{a>} \bold{[}\chin{五五八}\bold{]} \\
+%(text) \\
+%\bold{<pb} \chin{三十七}\bold{b>} \\
+%(text) \\
+%\bold{<pb} \chin{三十八}\bold{a>} \\
+%(text) \\
+%\bold{<pb} \chin{三十八}\bold{b>} \\
+%(text) \\
+%\end{typeChinese}
+
+
+% Kann man eine einfache Regel für die Reihenfolge bei <sm>-Zeichen definieren? Oder hofft man, dass sie es schon richtig machen werden? Argument für ZhongYi oder nicht? Beispielseiten abwarten.
+
+% Regel könnte sein: normalgroßer space trennt auf. Problem: Das stimmt, blind angewendet, so nicht. Beispiel p.749.
+
+% Problem mit mitdenk-Regeln für einzelne Bücher ist, dass sie nicht gut funktionieren. Ich würde sagen, wir probieren es ohne Regel.
+
+%(Zierspaces können sie auch ohne Regeln erkennen.)
+
+%large spaces: Es reicht, wenn sie wie in den DESpecs erklärt §#§ tippen.
+
+% Die Struktur der Einträge (zwei in einer Zeile, falls sie jeweils kürzer sind als eine halb Spalte; längere Einträge haben eine Zeile für sich) muss man wohl nicht erläutern, das sollten sie auch so hinkriegen.
+
+% Ziel sollte sein, dass man aus dem Text im post-processing automatisiert die Betandteile wie Autor, Titel etc. herauszieht. Im besten Fall wie Titelerfassungen in einer Bibliothek. Kann man Regeln machen, die uns dieses Ziel einfahcer machen? (Ich wüsste bisher keine. Tags für Autor, Titel, etc. sind wohl nicht sinnvoll.)
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\section{Xushi \chin{徐氏刊本} (\chin{澹生堂藏書目})}
+%
+%This text is the printed version of the handwritten Mantang \chin{漫堂鈔本}. It has a more elaborate classification structure, and the characters are more standard than in the Mantang. We assume that you will re-use the Mantang text when you type his text. Keep in mind, however, that we are explicitly interested in the \bold{differences} between the two versions.
+%
+%Please type the original page numbers as well as the facsimile page numbers. Type the running head of the original book, but not the running head of the facsimile.
+%
+%\vspace{3mm}
+%\begin{example}[: page 0059]
+%
+%\vspace{-5mm}
+%\begin{typeChinese}
+%\f{<pb }\z{三}\f{a [}051\f{]><rh>}\z{書目一　會稽徐氏刊本}\f{</rh>} \\
+%... \\
+%\end{typeChinese}
+%\end{example}
+%
+%\vspace{-3mm}
+%\begin{clarification}
+%Xushi \chin{徐氏刊本} page 0059 contains the text from the example above (Mantang \chin{漫堂鈔本} page 0580).
+%\end{clarification}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% keine Regel für <sm>, in der Hoffnung, dass sie es entweder sinnvoll tippen oder man es mit wenig Aufwand nachträglich bearbeiten kann
 
 \section{Table of Contents}
 \label{toc}
 
-Braucht man diesen Abschnitt?
+%Braucht man diesen Abschnitt?
 
-Wenn ja: Ersetze zumindest das Beispiel durch eines in den drei Texten dieser Workorder？
+%Wenn ja: Ersetze zumindest das Beispiel durch eines in den drei Texten dieser Workorder？
 
-(Ist das eine sinnvolle Regel, die man auch in die DESpecs übernehmen könnte, oder hat sie sich explizit nur auf Mingli tan bezogen? Die DESpecs sagen etwas anderes, aber die Mingitan-Regeln sind entstanden, als wir schon erste Erfahrungen hatten.)
+%(Ist das eine sinnvolle Regel, die man auch in die DESpecs übernehmen könnte, oder hat sie sich explizit nur auf Mingli tan bezogen? Die DESpecs sagen etwas anderes, aber die Mingitan-Regeln sind entstanden, als wir schon erste Erfahrungen hatten.)
 
 \begin{mainrule}
 Mark the lines in the table of contents as headings.
 \end{mainrule}
 
 \begin{clarification}
-Type the pagenumbers after the §</h>§, separated by a single ideographic space U+3000.
+If there are pagenumbers, type them after the §</h>§.
 \end{clarification}
 
 \vspace{5mm}
@@ -199,12 +244,12 @@ Type the pagenumbers after the §</h>§, separated by a single ideographic space
 \f{<toc>} \\
 ... \\
 \f{<ti>}\z{卷之二}\f{</ti>} \\
-\f{<ti>}\z{五分稱之解}\f{</ti>}\z{　一} \\
-\f{<h 1>}\z{〇五公之篇第一}\f{</h>}\z{　一} \\
-\f{<h 2>}\z{立公稱者何義辯一}\f{<sm><}\z{隨}\f{V>}\z{論三}\f{</sm></h>}\z{　三} \\
-\f{<h 3>}\z{公者非虛名}\f{<}\z{相}\f{2><sm>}\z{一}\f{</sm></h>}\z{　五} \\
-\f{<h 3>}\z{公性不別於賾而自立}\f{<sm>}\z{二}\f{</sm></h>}\z{　十四} \\
-\f{<h 3>}\z{公性正解}\f{<sm>}\z{三}\f{</sm></h>}\z{　十八} \\
+\f{<ti>}\z{五分稱之解}\f{</ti> \hash} \z{一} \\
+\f{<h 1>}\z{〇五公之篇第一}\f{</h> \hash} \z{一} \\
+\f{<h 2>}\z{立公稱者何義辯一}\f{<sm><}\z{隨}\f{V>}\z{論三}\f{</sm></h> \hash} \z{三} \\
+\f{<h 3>}\z{公者非虛名}\f{<}\z{相}\f{2><sm>}\z{一}\f{</sm></h> \hash} \z{五} \\
+\f{<h 3>}\z{公性不別於賾而自立}\f{<sm>}\z{二}\f{</sm></h> \hash} \z{十四} \\
+\f{<h 3>}\z{公性正解}\f{<sm>}\z{三}\f{</sm></h> \hash} \z{十八} \\
 ... \\
 \f{</toc>} \\[5mm]
 \end{typeChinese}

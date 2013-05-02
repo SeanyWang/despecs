@@ -59,10 +59,6 @@ If you experience difficulty with Chinese characters from the blocks in the supp
 
 \section{General Markup}
 
-%\begin{note}
-%Conventions for typing page breaks and numbers, running heads, headings, paragraphs, figures, and captions as specified in the standard Data Entry Specs are to be observed. 
-%Conventions for indicating illegible characters and uncertain readings (see section 2.7.1 of the Data Entry Specs) are also to be observed. 
-%\end{note}
 The conventions for typing page breaks and numbers, running heads, headings, paragraphs, figures, and captions as specified in the standard Data Entry Specs apply,
 as well as the conventions for indicating illegible characters and uncertain readings (see section 2.7.1 of the Data Entry Specs). 
 
@@ -87,12 +83,6 @@ Type spaces in Chinese text as the IDEOGRAPHIC SPACE character U+3000.
 \subsection{Small Characters}
 
 Strings of small characters are marked by §<sm> </sm>§. Indicate half-column breaks by §\\§. 
-%Observe the following example, which shows the correct transcription of the heading on image 0023.jpg.
-
-%We would like a cost estimate and work sample of fifty pages before this text is keyed in full.
-
-%NOTE for checking work sample: are captions on 0027.jpg transcribed correctly?
-
 
 \section{Whole-Page Example}
 \label{section example}
@@ -100,10 +90,6 @@ Strings of small characters are marked by §<sm> </sm>§. Indicate half-column b
 This is a transcription of Euclid p. 23 (i.e. scan §0023.jpg§).
 
 \newcommand{\chin}[1]{{\fontspec{SimSun}{#1}}}
-
-%§<h>§\chin{幾何原本第一卷之首}§<sm>§\chin{界說三十六 求作四}§\\ §\chin{公論十九}§</sm></h>§
-
-%\begin{example}[: \, Euclid p. 23]
 
 \begin{typeLatin}
 \bold{<pb><rh>}\chin{幾何原本　卷一之首}\bold{</rh>} \\
@@ -118,12 +104,109 @@ This is a transcription of Euclid p. 23 (i.e. scan §0023.jpg§).
 \bold{<p x>}\chin{點者、無分。}\bold{</p>} \\
 \bold{<p>}\chin{無長短、廣狹、厚薄。　如下圖。}\bold{<sm>}\chin{凡圖十干爲識。干盡用十} \bold{\bs\bs} \chin{二支。支盡用八卦八音。}\bold{</sm></p>} \\
 \bold{<fig>} \\
+\bold{<desc>}\chin{甲}\bold{</desc>} \\
 \bold{<h>}\chin{第二界}\bold{</h>} \\
 \bold{<p x>}\chin{線、有長無廣。}\bold{</p>} \\
 \bold{<p>}\chin{試如一平面。光照之。有光無光之間。不容一物。是線也。眞平眞圜相遇。其遇處止有一點。行則止有一 }\\
 \chin{線。}\bold{</p>} \\
 \end{typeLatin}
 
-%\end{example}
+
+
+\section{Figures}
+\label{section chinese figures}
+
+\begin{mainrule}
+Where a figure occurs in the text, type a §<fig>§ tag on a separate line. If you can identify a caption of the figure, mark it by §<cap> </cap>§. Additional text that describes parts of the figure is marked by §<desc> </desc>§.
+\end{mainrule}
+
+\begin{clarification}
+Type the caption on a separate line after §<fig>§. A figure may have more than one description. Type each description on a separate line after §<fig>§ and §<cap>§. If the same description is repeated in a figure, type it only once.
+\end{clarification}
+
+\begin{note}
+In the example in section 4, there is now an additional line §<desc>§\chin{甲}§</desc>§ after the §<fig>§ tag.
+\end{note}
+
+
+\begin{tabular}{@{}ll}
+\parbox[b]{8.3cm}{
+\htsc{Examples} \\
+\begin{typeLatin}
+\bold{<fig>} \\
+\bold{<cap>}\chin{第九鐵餅正看圖}\bold{<sm>}\chin{四分之一}\bold{</sm>}\bold{</cap>} \\
+\bold{<desc>}\chin{秋}\bold{</desc>} \\
+\bold{<desc>}\chin{收}\bold{</desc>} \\
+\bold{<fig>} \\
+\bold{<cap>}\chin{鐵餅剖看圖}\bold{</cap>} \\
+\bold{<desc>}\chin{秋}\bold{</desc>} \\
+\bold{<desc>}\chin{螺帽}\bold{</desc>} \\
+\bold{<desc>}\chin{收}\bold{</desc>} \\
+\bold{<desc>}\chin{螺鍵}\bold{</desc>} 
+\end{typeLatin}} &
+\includegraphics[width=8.1cm]{text18-1p24}
+\end{tabular}
+
+\mehrzeilen
+
+\begin{tabular}{@{}lll}
+\parbox[b]{8.3cm}{
+\begin{typeLatin}
+\bold{<p>}\chin{西洋大彈式十種　凡彈必合銃口徑以爲圓形故不預} \\
+\chin{定大小斤數}\bold{</p>} \\
+\bold{<fig>} \\
+\bold{<desc>}\chin{中空迎風} \\
+\chin{其聲如雷}\bold{</desc>} \\
+\bold{<desc>}\chin{圓彈}\bold{</desc>} \\
+\bold{<desc>}\chin{響彈}\bold{</desc>} \\
+\bold{<fig>} \\
+\bold{<desc>}\chin{中用百鍊鋼條兩頭銼} \\
+\chin{尖鑄時先定中線毋使} \\
+\chin{稍偏長短致} \\
+\chin{有輕重低昂} \\
+\chin{不能直貫}\bold{</desc>} \\
+\bold{<desc>}\chin{遇賊攻} \\
+\chin{寨勢如} \\
+\chin{拉朽}\bold{</desc>} \\
+\bold{<fig>} \\
+\bold{<desc>}\chin{彈形兩分中綰百鍊} \\
+\chin{鋼條不拘長短點放} \\
+\chin{迸發橫拉如火龍}\bold{</desc>} \\
+\bold{<desc>}\chin{鍊彈}\bold{</desc>} \\
+\bold{<fig>} \\
+\bold{<desc>}\chin{最厚之城用十餘彈先} \\
+\chin{鑿破磚石繼以員彈推} \\
+\chin{倒}\bold{</desc>} \\
+\bold{<desc>}\chin{攻城}\bold{</desc>} \\
+\bold{<fig>} \\
+\bold{<desc>}\chin{攻城攻墻一也特中用} \\
+\chin{鋼鑿大小厚薄不同耳} \\
+\chin{鑄法如前說}\bold{</desc>} \\
+\bold{<desc>}\chin{攻墻}\bold{</desc>} \\
+\end{typeLatin}
+} & 
+\parbox[b]{8cm}{
+\includegraphics[height=12cm]{text16p69} \\
+}
+\end{tabular}
+
+\begin{tabular}{@{}lll}
+\parbox[b]{126.5mm}{
+\begin{typeLatin}
+
+\bold{<pb a><rh>}\chin{泰西事物起原　}\bold{<sm>}\chin{第三章}\bold{</sm></rh>} \\
+\someText \\
+\bold{<fig>} \\
+\bold{<desc>}\chin{第二大派}\bold{</desc>} \\
+\bold{<desc>}\chin{希伯流語}\bold{</desc>} \\
+\bold{<desc>}\chin{亞刺比亞語}\bold{</desc>} \\ \\
+\bold{<pb b><rh>}\chin{泰西事物起原　}\bold{<sm>}\chin{第三章}\bold{</sm></rh>} \\
+\bold{<desc>}\chin{非尼西亞語}\bold{</desc>} \\
+\someText \\[1mm]
+\end{typeLatin}} & 
+\includegraphics[height=5cm]{figure_14_33teil2} &
+\includegraphics[height=5cm]{figure_14_33teil1}
+\end{tabular}
+
 
 \end{document}
