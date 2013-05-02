@@ -3,9 +3,9 @@ use strict;
 use warnings;
 
 #
-# create_overview_text.pl
+# create_overview_text2.pl
 #
-# Wolfgang Schmidle, 2008-10-04
+# Wolfgang Schmidle, 2008-10-06
 #
 
 
@@ -43,6 +43,11 @@ foreach (@datei)
 	
 	next if /^\\vspace/;
 	next if /^\\tocspace/;
+	next if /^\\clearpage/;
+	next if /^\\mehrzeilen/;
+
+	s/^%overview //;    # commands for the overview document 
+						# that are ignored in the main document
 
 	# remove all unwanted enviromnents, e.g. clarification
 	if (/\\begin\{(.+?)\}/)
@@ -72,7 +77,10 @@ for my $i (0..$#neueDatei-2)
 		$_ = $neueDatei[$i+$offset];
 		if (/^ *$/ || /\\section/)
 		{
-			$neueDatei[$i] =~ s/\{(.+?)\}/\{($1)\}/;
+#			$neueDatei[$i] =~ s/\{(.+?)\}/\{($1)\}/;
+			$neueDatei[$i] = "% $neueDatei[$i]";
+			$neueDatei[$i] .= '\refstepcounter{section}';
+			$neueDatei[$i] .= "\n";	
 		}
 	} 
 	else 
@@ -82,7 +90,10 @@ for my $i (0..$#neueDatei-2)
 			$_ = $neueDatei[$i+$offset];
 			if (/^ *$/ || /\\section/ || /\\subsection/)
 			{
-				$neueDatei[$i] =~ s/\{(.+?)\}/\{($1)\}/;
+#				$neueDatei[$i] =~ s/\{(.+?)\}/\{($1)\}/;
+				$neueDatei[$i] = "% $neueDatei[$i]";
+				$neueDatei[$i] .= '\refstepcounter{subsection}';
+				$neueDatei[$i] .= "\n";	
 			}
 		} 
 		else 
@@ -92,7 +103,10 @@ for my $i (0..$#neueDatei-2)
 				$_ = $neueDatei[$i+$offset];
 				if (/^ *$/ || /\\section/ || /\\subsection/ || /\\subsubsection/)
 				{
-					$neueDatei[$i] =~ s/\{(.+?)\}/\{($1)\}/;
+#					$neueDatei[$i] =~ s/\{(.+?)\}/\{($1)\}/;
+				$neueDatei[$i] = "% $neueDatei[$i]";
+				$neueDatei[$i] .= '\refstepcounter{subsubsection}';
+				$neueDatei[$i] .= "\n";	
 				}
 			}
 		}
