@@ -54,9 +54,9 @@ The §<p>§ for the beginning of the paragraph is on the previous page.
 \end{note}
 
 \vspace{3mm}
-\begin{sampleImage}[ 2: \, roman page number]{montag_roemische_seitenzahl}
+\begin{sampleImage}[ 2: \, roman page number]{montag_roemische_seitenzahl} 
 \begin{typeLatin}
-\bold{<pb} vij\bold{><rh>_}PREFACE.\bold{_</rh>}
+\bold{<pb} vij\bold{><rh>_}PREFACE\bold{_}.\bold{</rh>}
 \end{typeLatin}
 \end{sampleImage}
 
@@ -129,7 +129,7 @@ Paragraphs are marked by §<p>§ and §</p>§.
 \end{mainrule}
 
 \begin{clarification}
-Make sure that for each §<p>§ there is a corresponding §</p>§ somewhere.
+Make sure that for each §<p>§ there is a corresponding §</p>§ somewhere. If a paragraph starts and ends on different pages, the §<p>§ and §</p>§ tags are on these different pages.
 If the first line of the paragraph is indented, this will not be encoded. If the text is centered, this will not be encoded either.
 %A change in the font style, for example a line in italics, may indicate a new paragraph. TODO: Probably this rule will not apply very often. Leave it out? Put it somewhere else? (it occurs in the example in \sect{Structural markup general example})
 \end{clarification}
@@ -244,13 +244,13 @@ Note that the page number and the running head are not part of a column.}
 \parbox[t]{4cm}{ \vspace{-3mm}
 \begin{typeLatin}
 \bold{<col 1>} \\
-\bold{<p>}This is one \\ column ...\bold{<p>} \\
+\bold{<p>}This is one \\ column ...\bold{</p>} \\
 \bold{</col>} \\ 
 \bold{<col 2>} \\
-\bold{<p>}This is \\ another \\ column.\bold{<p>} \\
+\bold{<p>}This is \\ another \\ column.\bold{</p>} \\
 \bold{</col>} \\ 
 \bold{<col 3>} \\
-\bold{<p>}And there \\ might be \\ yet another \\ column.\bold{<p>} \\
+\bold{<p>}And there \\ might be \\ yet another \\ column.\bold{</p>} \\
 \bold{</col>} \\
 \end{typeLatin}}
 \end{tabular}
@@ -410,7 +410,7 @@ Diametri \bold{\bs\bs} magnitu- \bold{\bs\bs} do. \bold{####} Aureæ $pheræ \bo
 
 \vspace{-5mm}
 \begin{crossref}
-For fractions such as §{ 1/4 }§ see \sect{section fractions}.
+For fractions such as §{1/4}§ see \sect{section fractions}.
 \end{crossref}
 
 \vspace{3mm}
@@ -459,10 +459,10 @@ Within a structure in italics, the §_ _§ denote single words in upright type (
 \bold{<ind>} \\
 \bold{<col 1>} \\
 \someText \\
-Diligenz $overchia, quale. \bold{#} 49 \\
-Diminuzione di gro$$ozze, come deb- \\
+Diligenza $overchia, quale. \bold{#} 49 \\
+Diminuzione di gro$$ezze, come deb- \\
 \bold{#} ba condur$i. \bold{#} 56 \\
-\bold{_}Diocleziano\bold{_} . Sue Terme. \bold{#} 51 \\
+\bold{_}Diocleziano\bold{_}. Sue Terme. \bold{#} 51 \\
 \someText \\
 \bold{</col>} \\
 \bold{<col 2>} \\
@@ -490,9 +490,9 @@ A table of contents is marked by §<toc>§ and §</toc>§. Use §#§ for large s
 \begin{typeLatin}
 \bold{<toc it>} \\
 Cap. 1. \bold{#} De Chorographia generatim: quid $it, & que ad eam In-\\
-\bold{#} strumenta poti{$s}imùm requi$ita, \bold{#} pag 1. \\
+\bold{#} $trumenta poti{$s}imùm requi$ita, \bold{#} pag. 1. \\
 II. \bold{#} De In$trumenti fabricâ, \bold{#} 2 \\
-III. \bold{#} De Triangulis, omnium dimen$ionum fundamento, \bold{#} 5 \\
+III. \bold{#} De Triangul{is}, omnium dimen$ionum fundamento, \bold{#} 5 \\
 \someText \\
 \bold{</toc>} 
 \end{typeLatin}
@@ -504,11 +504,11 @@ III. \bold{#} De Triangulis, omnium dimen$ionum fundamento, \bold{#} 5 \\
 \begin{typeLatin}
 \bold{<toc it>} \\
 \bold{_}CH\bold{<sc>}APITRE\bold{</sc>} I.\bold{_} Où l'on en$eigne comme $e fait la pou$$ée des \\
-\bold{#} Voutes, & où l'on raporte quelques principes tirés de la mé- \\
-\bold{#} canique pour en faciliter l'intelligence \bold{#} 2 \\
+\bold{#} Voutes, & où l'on raporte quelques principes tirés de la méca- \\
+\bold{#} nique pour en faciliter l'intelligence \bold{#} 2 \\
 \bold{_}C\bold{<sc>}HAP\bold{</sc>}. II. \bold{_}De la maniere de calculer l'épai$$eur des Pié-droits \\
 \bold{#} des Voutes en plain ceintre pour e$tre en équilibre par leur ré- \\
-\bold{#} $i$tance avec la pou$$ée qu'ils ont à $oútenir. \bold{#} 10 \\
+\bold{#} $i$tance avec la pou$$ée qu'ils ont à $oûtenir. \bold{#} 10 \\
 \bold{</toc>} \\
 \end{typeLatin}
 \end{sampleImage}
@@ -528,7 +528,7 @@ Before you use §<p #>§, make sure the paragraph is not part of a table, an ind
 
 \begin{typeLatin}
 \bold{<p #>} \someText \\
-extrema ad axes \bold{#} angulorum, continent autem hunc propo$itiones \\
+extrema ad axes \bold{#} angulorum@ continent autem hunc propo$itiones \\
 ferè exi$tentes vna multa, & varia theoremata, & linearum, & $uperficie- \\
 rum, & $olidorum omnia $imul vna demon$tratione, & quæ nondum de- \\
 mon$trata $unt, & quæ \bold{#} & in duodecimo libro horum elemento- \\
@@ -576,12 +576,14 @@ For anchored marginal notes see \sect{section anchored marginal notes}.
 \begin{sampleImage}[ 2: \, transcribing a marginal note]{mkbsp_marginalnote_big_benedetti.jpg}
 
 \begin{typeLatin}
-Si ad aliquã rectã lineã * compare\bs\tld{}t parallelogrãm\bs\tld{}u, defici\bs\tld{}es forma\\
+\bold{<p>}
+Si ad aliquã rectã lineã * compare\li{tur} parallelogrãm\bs\tld{}u, defici\bs\tld{}es forma\\
 \bold{<mgr>}παραβληθῆ, \bold{_}ap\bold{_} \\
 \bold{_}ponatur, appli-\bold{_} \\
 \bold{_}cetur\bold{_</mgr>}\\
-quadrata, ip$um cõparat\bs\tld{}u æqu\bs\tld{}u e$t ei quod (cõtine\bs\tld{}t) $ub $egm\bs\tld{}etis\\
+quadrata, ip$um cõparat\bs\tld{}u æqu\bs\tld{}u e$t ei quod (cõtine\li{tur}) $ub $egm\bs\tld{}etis\\
 rect\li{ae} line\li{ae}, qu\li{ae} ex ip$a cõparatione $unt facta.
+\bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
 
@@ -639,7 +641,7 @@ An anchored marginal note is marked by §<mgl> </mgl>§ or §<mgr> </mgr>§ acco
 \begin{typeLatin}
 \bold{<p it>} \someText \\
 circumferentiam datæ rectæ A, æqualem e$$e. Cùm enim $it, vt E,\\
-ad A, ita B D, ad F G; hoc est, \bold{<n} a\bold{>} ita tota diameter circuli B C, ad\\
+ad A, ita B D, ad F G; hoc est, \bold{<n} \bold{_}a\bold{_}\bold{>} ita tota diameter circuli B C, ad\\
 \bold{<mgr} a\bold{>}15.\\
 \bold{_}quinti\bold{_}.\bold{</mgr>}\\
 totam diametrum circuli F H: Sit autem vt diameter ad diametrum,\\
@@ -714,21 +716,21 @@ $e$quipedem, circumagito, ut altera pars æquè cale$cat ab igni.\bold{</p>}\\
 
 \begin{sampleImage}[ 3: \, figures with variables]{imageleftandright_4}
 \begin{typeLatin}
-\bold{<h it>}Euclid. ex Zamb. Theorema 68. Propo$itio 92.\bold{</h>} \\
+\bold{<h it>_}E\bold{_}uclid. ex \bold{_}Z\bold{_}amb. \bold{_}T\bold{_}heorema \bold{_}68\bold{_}. \bold{_}P\bold{_}ropo$itio \bold{_}92\bold{_}.\bold{</h>} \\
 \bold{<p>}Si areola comprehen$a fuerit $ub rationali & apotome $ecunda\\
 \bold{<mgr>}92\bold{</mgr>}\\
 quæ areolam pote$t, mediæ apotome e$t prima.\bold{</p>} \\
 \bold{<fig>} \\
 \bold{<var>}λ @ ο @ ν @ σ ξ χ @ τ μ\bold{</var>} \\
 \bold{</fig>} \\
-\bold{<p it>_}THEON\bold{_} ex Zãb. Areola nãq; α β, \\
+\bold{<p it>_}THEON\bold{_} ex \bold{_}Z\bold{_}ãb. \bold{_}A\bold{_}reola nãq; α β, \\
 \bold{<fig>}\\
 \bold{<var>}α @ @ ζ @ γ @ @ @ @\bold{</var>} \\
 \bold{</fig>} \\
-cõpreh\bs\tld{}edatur $ub ratiõali α γ, \& 2 a- \\
-potome α δ. Dico \li{quod} quæ α β, arcolam\\
-pote$t, mediæ apotome e$t prima. E$to\\
-enim (p 79 decimi) ip$i α δ cõgru\bs\tld{}es δ\\
+cõpreh\bs\tld{}edatur $ub ratiõali α γ, \& \bold{_}2\bold{_} a- \\
+potome α δ. \bold{_}D\bold{_}ico \li{quod} quæ α β, areolam\\
+pote$t, mediæ apotome e$t prima. \bold{_}E\bold{_}$to\\
+enim (\li{per} 79 decimi) ip$i α δ cõgru\bs\tld{}es δ\\
 \someText \bold{</p>}\\
 \end{typeLatin}
 \end{sampleImage}
@@ -736,13 +738,13 @@ enim (p 79 decimi) ip$i α δ cõgru\bs\tld{}es δ\\
 \begin{sampleImageSmall}[ 4: \, figure with descriptions and variables]{width=8cm}{voltaire_156}
 \begin{typeLatin}
 \bold{<fig>} \\
-\bold{<desc>}Violet\bold{</desc>} \\
-\bold{<desc>}Pourpre\bold{</desc>} \\
-\bold{<desc>}Bleu\bold{</desc>} \\
-\bold{<desc>}Verd\bold{</desc>} \\
-\bold{<desc>}Jaune\bold{</desc>} \\
-\bold{<desc>}Orange\bold{</desc>} \\
-\bold{<desc>}Rouge\bold{</desc>} \\
+\bold{<desc it>}Violet\bold{</desc>} \\
+\bold{<desc it>}Pourpre\bold{</desc>} \\
+\bold{<desc it>}Bleu\bold{</desc>} \\
+\bold{<desc it>}Verd\bold{</desc>} \\
+\bold{<desc it>}Jaune\bold{</desc>} \\
+\bold{<desc it>}Orange\bold{</desc>} \\
+\bold{<desc it>}Rouge\bold{</desc>} \\
 \bold{<var>}A B C\bold{</var>} \\
 \bold{</fig>} \\
 \end{typeLatin}
@@ -803,12 +805,14 @@ Type §<hd>§ on a separate line, after the line of the main text the note is cl
 \begin{sampleImage}[ 1: \, a handwritten note]{bsp_handwrittenmargin_2}
 
 \begin{typeLatin}
+\bold{<p>} \someText
 h. $upponendo igitur in puncto. g. pondus, aut virtutem mouentem unius libræ, & in\\
-h. duarum librarum, ab$q; dubio hæ duæ uirtutes in huiu$modi di$tantijs à centro\\
+h. duarum librarum, ab$\li{que} dubio hæ duæ uirtutes in huiu$modi di$tantijs à centro\\
 \li{ae}quales inuic\bs\tld{}e er\bs\tld{}ut, ob rationes prioribus capitibus iam allatas, & $tatera orizontalis\\
 \bold{<hd>}\\
 manebit. Vnde clarum erit, \li{quod} quæuis etiam exigua virtus adiuncta ip$i. g. mouebit\\
 $tateram extra orizontalem $itum. Nunc $i puncto. i. ex æquo medio inter. g. et. K.
+\someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
 
@@ -844,8 +848,10 @@ Use one §@§ for each unreadable character, e.g. §unr@@dable§. If in doubt, u
 \vspace{2mm}
 \begin{sampleImage}[ 1: \, a stain]{bsp_gaptag_circumcised} 
 \begin{typeLatin}
+\bold{<p>} \someText
 d & f ad quadratum f, ergo di$iunctim erit quadratum \bold{@} ad\\
 quadratum f, ergo b ad e $icut d ad f, item per æquam pro-\\ 
+\someText \bold{</p>}
 \end{typeLatin}
 
 \end{sampleImage}
@@ -853,9 +859,11 @@ quadratum f, ergo b ad e $icut d ad f, item per æquam pro-\\
 \begin{sampleImage}[ 2: \, a paper crease]{mkbsp_helptag.jpg}
 
 \begin{typeLatin}
+\bold{<p>} \someText
 fe$$ore: cui acceptum feras quicquid hîc aut ad Gr\li{ae}cum exem\bold{<?>}plar, aut alio-\\
 qui doctè re$titutum uideris. Adiecimus Phænomena, S\bold{@}ecularia, Pro-\\
 theoriam Marini, & Data, argumentorum $imilitudine ind\bold{<?>}ucti. Quum\li{\bs´que}
+\someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
 
@@ -927,7 +935,7 @@ Do not silently correct the mistake.
 
 \begin{mainrule}
 Type a space after the punctuation marks § . , : ; ! ?§ \quad 
-Type a space before the opening brackets § ( [ § and after the closing brackets  § ) ] §
+Type a space before the opening brackets § ( [ § and after the closing brackets  § ) ] §.
 \end{mainrule}
 
 \begin{clarification}
@@ -937,19 +945,21 @@ Ignore superfluous and missing spaces before and after punctuation marks and bra
 \vspace{2mm}
 \begin{sampleImage}[ 1: \, normal punctuation marks]{montag_punctuation}
 \begin{typeLatin}
-\bold{<p>}Exempli gratia, $umemus quadratum. 3. $cilicet 9. quod in $ummam cum qua-\\
-drato. 4. colligemus, nempè. 16. erit\bs'q; quadratum. 25. & ita quadratum. 6. hoc e$t.\\
-36. collectum cum quadrato. 8. nempè. 64. efficiet quadratum. 100. ita etiam qua-\\
-dratum. 9. hoc e$t. 81. coniunctum quadrato. 12. nempè. 144. producet quadra- \\
+\bold{<p>}Exempli gratia, $umemus quadratum. \bold{_}3\bold{_}. $cilicet 9. quod in $ummam cum qua-\\
+drato. 4. colligemus, nempè. 1\bold{_}6\bold{_}. erit\bs'q; quadratum. 25. & ita quadratum. 6. hoc e$t.\\
+\bold{_}36\bold{_}. collectum cum quadrato. 8. nempè. \bold{_}6\bold{_}4. efficiet quadratum. 100. ita etiam qua-\\
+dratum. \bold{_}9\bold{_}. hoc e$t. 81. coniunctum quadrato. 12. nempè. 144. producet quadra- \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
 
 \begin{sampleImage}[ 2: \, unusual punctuation marks]{punktuation_2}
 \begin{typeLatin}
+\bold{<p>} \someText
 $cindendus pannus uel tela: num id $ine cultro uel forfice faciet? num con-\\
 $uet ullam ue$tem $ine acu? ne populus quidem tran$marinus pennarum\\
 contextu corporis tegumentum faciet $ine \li{ij}$dem in$trumentis, nec pel-\\ 
+\someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
 
@@ -1107,18 +1117,29 @@ acute & grave & flex & diaeresis & tilde & cedilla &&& above & macron & breve \\
 \label{section italics}
 
 \begin{mainrule}
-Use underscores §_ _§ to mark the beginning and end of words or whole lines in italics. Encode only up to a few lines of text this way. A whole paragraph in italics is marked by §it§ in the §<p>§ tag, i.e. §<p it>§.
+Use underscores §_ _§ to mark the beginning and end of words or whole lines in italics. Encode only up to a few lines of text this way, enclosing each line in underscores. A whole paragraph in italics is marked by §it§ in the §<p>§ tag, i.e. §<p it>§. Also, be careful not to include punctuation marks.
 \end{mainrule}
 
 \begin{clarification}
 This applies not only to paragraphs (\sect{section paragraphs}), but also to tables (\sect{section tables}), i.e. §<tb it>§, and pages (\sect{section page breaks}), i.e. §<pb it>§. If you use §it§, do not mark the lines with additional §_ _§ to indicate italics. However, within a §<p it>§ paragraph you can use §_ _§ to mark single words in upright type (see §_THEON_§ in example 2 in \sect{section figures}).
 \end{clarification}
 
-\begin{sampleImageSmall}{scale=0.25}{montag_kursiv2}
+\begin{sampleImageSmall}[ 1: \, a single word in italics]{scale=0.25}{montag_kursiv2}
 \begin{typeLatin}
 C\bold{<sc>}AMPANI\bold{</sc>} \bold{_}annotatio\bold{_}. Habito minimo, $i cura e$t
 \end{typeLatin}
 \end{sampleImageSmall}
+
+\begin{sampleImage}[ 2: \, a phrase in italics, including a line break]{italics_intwolines}
+\begin{typeLatin}
+\bold{<p>} \someText\\
+bus, figuris vtar geometricis, ita enim in .2. libr. fecit Euclides, qui mo-\\
+dus, eo magis mihi arridet, quo minus e$t ab$tractus, \bold{_}quoniam oportet in-\bold{_}\\
+\bold{_}telligentem phanta$mata $peculari\bold{_}, cum pr\li{ae}terea per$picuum $it, di$cretum\\
+omne, ex continui diui$ione aliquo modo oriri, $iue actu, $iue potentia.\\
+\someText \bold{</p>}
+\end{typeLatin}
+\end{sampleImage}
 
 
 \subsubsection{Bold Face}
@@ -1217,7 +1238,7 @@ In this sentence, \bold{<ul>}two words\bold{</ul>} are underlined. \\
 \begin{sampleImageSmall}[ 2: \, overlines]{height=8mm}{overlines}
 
 \begin{typeLatin}
-\bold{<ol>}DE\bold{</ol><^>}3\bold{</^>} ad \bold{<ol>}AC\bold{</ol><^>}3\bold{</^>}, ita Cohærentia \\
+\bold{<ol>}D E\bold{</ol><^>}3\bold{</^>} ad \bold{<ol>}A C\bold{</ol><^>}3\bold{</^>}, ita Cohærentia \\
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -1238,7 +1259,7 @@ Text in red is marked by §<red>§ and §</red>§.
 
 \begin{typeLatin}
 \bold{<h it><red>}OMNES PERSPICVIS DEMONSTRA-\bold{</red>} \\
-tionibus, accuratí$que $choli\li{is} illu$trati: nunc quartò editi, \\
+tionibus, accurati$que $choli\li{is} illu$trati: nunc quartò editi, \\
 ac multarum rerum acce\li{$s}ione post primam \\
 editionem locupletati.\bold{</h>} \\
 \end{typeLatin}
@@ -1303,10 +1324,13 @@ italics & \lig{\textit{ff}} & \lig{\textit{fi}} & \lig{\textit{fl}} & \lig{\text
 &&
 \includegraphics[height=8mm]{qmitkreis} & §{quo}§ 
 \\ \\
+\includegraphics[height=8mm]{p_stroke} & §{per}§ 
+\\ \\
 \includegraphics[height=8mm]{p} & §{pro}§ 
 \\ \\
 \includegraphics[height=8mm]{longs_p_slash} & §{secundu}§ 
 \\ \\
+\includegraphics[height=8mm]{t_with_curly_bar} & §{tur}§
 \end{longtable}
 \end{liste}
 
@@ -1583,8 +1607,8 @@ Mark single words or lines in Fraktur by §<fr> </fr>§. Mark paragraphs in Frak
 small letters & \fraktur{a} & \fraktur{b} & \fraktur{c} & \fraktur{d} & \fraktur{e} & \fraktur{f} & \fraktur{g} & \fraktur{h} & \fraktur{i} & \fraktur{j} & \fraktur{k} & \fraktur{l} & \fraktur{m} & \fraktur{n} & \fraktur{o} & \fraktur{p} & \fraktur{q} & \fraktur{r} & \fraktur{s <} & \fraktur{t} & \fraktur{u} & \fraktur{v} & \fraktur{w} & \fraktur{x} & \fraktur{y} & \fraktur{z} \\[2mm]
  & §a§ & §b§ & §c§ & §d§ & §e§ & §f§ & §g§ & §h§ & §i§ & §j§ & §k§ & §l§ & §m§ & §n§ & §o§ & §p§ & §q§ & §r§ & §$§ §s§ & §t§ & §u§ & §v§ & §w§ & §x§ & §y§ & §z§ \\ 
  \\ 
-capital letters & \fraktur{A} & \fraktur{B} & \fraktur{C} & \fraktur{D} & \fraktur{E} & \fraktur{F} & \fraktur{G} & \fraktur{H} & \fraktur{I} && \fraktur{K} & \fraktur{L} & \fraktur{M} & \fraktur{N} & \fraktur{O} & \fraktur{P} & \fraktur{Q} & \fraktur{R} & \fraktur{S} & \fraktur{T} & \fraktur{U} & \fraktur{V} & \fraktur{W} & \fraktur{X} & \fraktur{Y} & \fraktur{Z} \\[2mm]
- & §A§ & §B§ & §C§ & §D§ & §E§ & §F§ & §G§ & §H§ & §I§ && §K§ & §L§ & §M§ & §N§ & §O§ & §P§ & §Q§ & §R§ & §S§ & §T§ & §U§ & §V§ & §W§ & §X§ & §Y§ & §Z§ \\ 
+capital letters & \fraktur{A} & \fraktur{B} & \fraktur{C} & \fraktur{D} & \fraktur{E} & \fraktur{F} & \fraktur{G} & \fraktur{H} & \fraktur{I} & \fraktur{J} & \fraktur{K} & \fraktur{L} & \fraktur{M} & \fraktur{N} & \fraktur{O} & \fraktur{P} & \fraktur{Q} & \fraktur{R} & \fraktur{S} & \fraktur{T} & \fraktur{U} & \fraktur{V} & \fraktur{W} & \fraktur{X} & \fraktur{Y} & \fraktur{Z} \\[2mm]
+ & §A§ & §B§ & §C§ & §D§ & §E§ & §F§ & §G§ & §H§ & §I§ & §J§ & §K§ & §L§ & §M§ & §N§ & §O§ & §P§ & §Q§ & §R§ & §S§ & §T§ & §U§ & §V§ & §W§ & §X§ & §Y§ & §Z§ \\ %KT: fraktur J eingefügt
  \\ 
 \end{tabular}
 \end{tabelle}
@@ -1670,7 +1694,7 @@ laufen.\bold{</p>} \\
 \bold{<p fr>}Der innere we$entliche Unter$chied zwi$chen elektri- \\
 $chen und nicht-elektri$chen Körpern gehört zu den noch \\
 unentdeckten Geheimni$$en der Natur. Nur $oviel i$t \\
-ausgemacht, daß das leitende Vermögen der Körter eini- \\
+ausgemacht, daß das leitende Vermögen der Körper eini- \\
 germaßen von der Wärme abhängt, oder durch die$elbe \\
 verändert wird. Glas, Harz und viele andere elektrische \\
 Körper werden durch die Hitze in Leiter verwandlet; da \\
@@ -1684,7 +1708,7 @@ macht.\bold{</p>} \\
 \begin{typeLatin}
 \bold{<p fr>}Die weil aber nitt geleich volget wann $ie geberen/ daß $ie auch einerley \\
 thier $eyend/ als in den ro$$en vnd e$$len be$chicht/ wöllen wir l\li{uo}gen ob die \\
-$o gehoren $eind/ etwas verletzet werden/ wie die maul thier. Dañ $ie werden \\
+$o gehoren $eind/ etwas verletzet werden/ wie die maul thier. dañ $ie werden \\
 auß zweyerley arten geboren. Wölche aber wider geberen/ die $eind auß ge \\
 leicher art geboren/ als auß einem hund vnd fuchs. Wir mü$$end auch die \\
 be$ondere würckungen ergründen/ als wann ein hund ein be$ondere nei- \\
@@ -1842,9 +1866,11 @@ MP = y = \bold{\{} √ bb; \bold{/} 2 \bold{\}} \\
 \vspace{3mm}
 \begin{sampleImage}[ 3: \, overline without and with root symbol]{root_musschen_625}
 \begin{typeLatin}
+\bold{<p>} \someText
 cetur AD aut DB, \bold{_}r\bold{_}. BG $it = \bold{_}x\bold{_}. eritque FG\bold{<^>}q\bold{</^>} = 2 \bold{_}r x\bold{_} - \bold{_}x x\bold{_}, unde \\
 Cubus FG = √\bold{\{}2 \bold{_}rx\bold{_} - \bold{_}xx\bold{_}\bold{\}} \bold{<001>} √\bold{\{}2 \bold{_}rx\bold{_} - \bold{_}xx\bold{_}.\bold{\}} & Cubus AD = \bold{_}r\bold{_<^>}3\bold{</^>}. qua- \\
-re Cohærentia ba$eos ADC e$t ad eam ba$eos FGE uti r\bold{<^>}3\bold{</^>} ad \\
+re Cohærentia ba$eos ADC e$t ad eam ba$eos FGE uti \bold{_}r\bold{_}\bold{<^>}3\bold{</^>} ad \\
+\someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
 
