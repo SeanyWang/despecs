@@ -1,0 +1,216 @@
+%!TEX TS-program = xelatex 
+%!TEX encoding = UTF-8 Unicode 
+
+\documentclass[fontsize=11pt, paper=a4, 
+DIV15,
+headings=normal,
+parskip=half-, 
+numbers=noenddot]{scrartcl}
+
+\usepackage[british]{babel} 
+
+\usepackage{fontspec,xltxtra,xunicode} 
+\defaultfontfeatures{Mapping=tex-text} 
+
+\setromanfont[Mapping=tex-text]{DejaVu Serif}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica} 
+\setmonofont[Scale=1.0]{Courier New} 
+
+\frenchspacing
+
+\usepackage{graphicx}
+\graphicspath{{../../Bilder/}}
+
+\usepackage{longtable}
+
+%%%
+
+\input{../../abbreviations/abbreviations_2}
+
+\newcommand{\hash}{{\char"0023}}
+\newenvironment{typeChinese}{\begin{alltt}\s\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}}
+
+\newcommand{\chin}[1]{{\fontspec{Sun-ExtA}{#1}}}
+\newcommand{\sunExtA}[1]{{\fontspec{Sun-ExtA}{#1}}}
+\newcommand{\sunExtB}[1]{{\fontspec{Sun-ExtB}{#1}}}
+
+\newcommand{\mincho}[1]{{\fontspec{MS Mincho}{#1}}}
+\newcommand{\hira}[1]{{\fontspec{HiraMinPro-W3}{#1}}}
+
+% Verkürzung von \bold und \chin:
+% schon vorhanden: ch, c, s;  b, bf
+% noch nicht vorhanden: sun (bringt aber nicht viel)
+\newcommand{\f}[1]{\bold{#1}} % f für fett
+\newcommand{\z}[1]{\chin{#1}} % z für Zeichen
+
+%%%
+
+\begin{document}
+
+\begin{center}
+{\fontspec{Helvetica}{\LARGE \textbf{
+Special Instructions for Danshengtang
+\\[3mm]
+(Addendum to DESpecs for Chinese text 2.0.1) 
+}}} \\[5mm]
+\large Wolfgang Schmidle, Martina Siebert, Cathleen Päthe
+
+\normalsize Max Planck Institute for the History of Science, Berlin, Germany
+
+\today
+\end{center}
+
+%\tableofcontents
+
+
+für den Begleitbrief:
+
+\begin{itemize}
+\item Kostenvoranschlag
+\item jeweils Beispielseiten anfordern! (wieviele? Für die drei Texte unterschiedlich viele Seiten, immerhin ist bei Mantang ja viel mehr auf einer Seite drauf? Konkrete JPGs angeben, oder die ersten Seiten? Erste Seiten des gesamten Textes, oder erste Seiten nach dem Vorwort? Mantang p.749 mit dem Beispiel der verschiedenen <sm>-Typen?
+\item Sollen wir auch gleichzitig schon eine begleitende Tabelle der markeirten Varianten verlangen? Wohl ja.
+\end{itemize}
+
+Sollen denn jetzt alle drei Texte geschickt werden?
+
+gibt es „reparierten Text“? (in §DESpecs_1_2_chinese_special.pdf§ gibt es einen Abschnitt <rep>)
+
+(Joachim: Mingli tan noch aktuell? Sollen wir schicken, oder er?)
+
+\section{Collected Works}
+
+lang, einfach zu tippen: sollte billiger sein als die anderen Texte (Preise vergleichen!)
+
+Probeseiten aus dem Hauptteil, mit markierten Varianten. Dann: Wir sagen ihnen was sie genau markieren sollen. (Ist diese Strategie auch für die anderen beiden Texte sinnvoll?)
+
+*
+
+handschriftliche Markierungen, zum Beispiel p.103: Es folgt ein Abschnitt aus den Special Instructions §DESpecs_1_2_chinese_special.pdf§. Brauchen wir die Regel für small dotted lines, oder können wir die weglassen? Neues Beispiel, oder ist dieses Beispiel (aus Xifa shenji \, \chin{西法神機}) gut genug? Im Beispiel sind die handschriftlichen Markierungen in rot, und jetzt ist der Text schwarzweiß, aber soviel Abstraktionsleisutng könnte man den Chinesen wohl zutrauen, oder?
+
+
+\begin{mainrule}
+Type the handwritten underlinings. Use §{ }§ for dotted lines. Use §[ ]§ for circles or circled lines. Use §( )§ for small circles. 
+\end{mainrule}
+
+\begin{clarification}
+Do not treat circles as punctuation marks.
+Do not mark the red colour.
+\end{clarification}
+
+\begin{tabular}{@{}ll}
+\parbox[b]{125mm}{
+\htsc{Example } \\[17mm]
+\begin{typeChinese}
+\bold{\{}\chin{其節短}\bold{\}[}\chin{矣}\bold{]}\chin{既猛烈而益} \\
+\chin{由是而}\bold{[(}\chin{別}\bold{)]}\chin{使}\bold{[}\chin{臨敵者氣}\bold{]} \\
+\bold{\{}\chin{必固}\bold{\}[}\chin{矣}\bold{]\{}\chin{然必車製合}\bold{\}[}\chin{宜}\bold{]} \\[12mm]
+\end{typeChinese}
+} & \qquad
+\includegraphics[height=6cm]{Specs-Bild3}
+\end{tabular}
+
+
+\section{Mantang}
+
+handgeschrieben; Zeichenvarianten nur bei Buchtiteln, Titelzusätzen und Autoren markieren. Oder andersrum: nicht bei Standardangaben wie „Rolle“, „Heft“, „Umfang“, book \z{册}, chapter \z{卷} (weitere Zeichen), und bei Zahlen. Wierum ist es sinnvoller? Oder gar keine Regel auper „markiere die Varianten, obwohl der Text handgeschrieben ist“, dann müssen sie halt auch bei \z{册} einmal (und nicht öfter) die Variante markieren?
+
+*
+
+Problem, dass auf einem JPG zwei Seiten (d.h. vier Halbseiten) sind: Special Instructions oder nicht? Es gibt bisher keine allgemeinen Regeln für moderne Facsimiles. (Das sollte in der nächsten Version eingefügt werden. Gibt es schon ein modernes Facsimile, das wir haben tippen lassen?)
+
+Ist es sinnvoll, sie viermal <pb> tippen zu lassen? Das würden die DESpecs nahelegen. Müsste hinterher wieder herausgenommen werden. Ist es sinnvoll, die JPGs von der Digigroup in zwei Teile teilen zu lassen? (mit zwei Halbseiten auf einem JPG sollten sie klarkommen.) Andererseits: Wir sind an den originalen Seiten interessiert, und nicht an der Tatsache, dass im Reprint zwei Seite auf einer Seite sind.
+
+Rahmen: Reihentitel ist uninteressant und sollen explizit nicht getippt werden. Aber die modernen Seitennummern könnten getippt werden, weil die originalen Seitenzahlen entweder nicht lesbar oder gar nicht da sind. Wenn ja: Wo werden sie getippt? Möglichkeit:
+
+\begin{typeChinese}
+\bold{<pb a>} \bold{[}\chin{五五八}\bold{]} \\
+(text) \\
+\bold{<pb b>} \\
+(text) \\
+\bold{<pb a>} \\
+(text) \\
+\bold{<pb b>} \\
+(text) \\
+\end{typeChinese}
+
+Wenn es Seitenzahlen gäbe, würde es so aussehen:
+
+\begin{typeChinese}
+\bold{<pb} \chin{三十七}\bold{a>} \bold{[}\chin{五五八}\bold{]} \\
+(text) \\
+\bold{<pb} \chin{三十七}\bold{b>} \\
+(text) \\
+\bold{<pb} \chin{三十八}\bold{a>} \\
+(text) \\
+\bold{<pb} \chin{三十八}\bold{b>} \\
+(text) \\
+\end{typeChinese}
+
+*
+
+Kann man eine einfache Regel für die Reihenfolge bei <sm>-Zeichen definieren? Oder hofft man, dass sie es schon richtig machen werden? Argument für ZhongYi oder nicht? Beispielseiten abwarten.
+
+Regel könnte sein: normalgroßer space trennt auf. Problem: Das stimmt, blind angewendet, so nicht. Beispiel p.749.
+
+Problem mit mitdenk-Regeln für einzelne Bücher ist, dass sie nicht gut funktionieren. Ich würde sagen, wir probieren es ohne Regel.
+
+(Zierspaces können sie auch ohne Regeln erkennen.)
+
+*
+
+large spaces: Es reicht, wenn sie wie in den DESpecs erklärt §#§ tippen.
+
+Die Struktur der Einträge (zwei in einer Zeile, falls sie jeweils kürzer sind als eine halb Spalte; längere Einträge haben eine Zeile für sich) muss man wohl nicht erläutern, das sollten sie auch so hinkriegen.
+
+*
+
+Ziel sollte sein, dass man aus dem Text im post-processing automatisiert die Betandteile wie Autor, Titel etc. herauszieht. Im besten Fall wie Titelerfassungen in einer Bibliothek. Kann man Regeln machen, die uns dieses Ziel einfahcer machen? (Ich wüsste bisher keine. Tags für Autor, Titel, etc. sind wohl nicht sinnvoll.)
+
+
+
+\section{Xushi}
+
+gedruckt
+
+keine Regel für <sm>, in der Hoffnung, dass sie es entweder sinnvoll tippen oder man es mit wenig Aufwand nachträglich bearbeiten kann
+
+\section{Table of Contents}
+\label{toc}
+
+Braucht man diesen Abschnitt?
+
+Wenn ja: Ersetze zumindest das Beispiel durch eines in den drei Texten dieser Workorder？
+
+(Ist das eine sinnvolle Regel, die man auch in die DESpecs übernehmen könnte, oder hat sie sich explizit nur auf Mingli tan bezogen? Die DESpecs sagen etwas anderes, aber die Mingitan-Regeln sind entstanden, als wir schon erste Erfahrungen hatten.)
+
+\begin{mainrule}
+Mark the lines in the table of contents as headings.
+\end{mainrule}
+
+\begin{clarification}
+Type the pagenumbers after the §</h>§, separated by a single ideographic space U+3000.
+\end{clarification}
+
+\vspace{5mm}
+\begin{tabular}{@{}ll}
+\parbox[b]{111mm}{
+\htsc{Example} \\[55mm]
+\begin{typeChinese}
+\f{<toc>} \\
+... \\
+\f{<ti>}\z{卷之二}\f{</ti>} \\
+\f{<ti>}\z{五分稱之解}\f{</ti>}\z{　一} \\
+\f{<h 1>}\z{〇五公之篇第一}\f{</h>}\z{　一} \\
+\f{<h 2>}\z{立公稱者何義辯一}\f{<sm><}\z{隨}\f{V>}\z{論三}\f{</sm></h>}\z{　三} \\
+\f{<h 3>}\z{公者非虛名}\f{<}\z{相}\f{2><sm>}\z{一}\f{</sm></h>}\z{　五} \\
+\f{<h 3>}\z{公性不別於賾而自立}\f{<sm>}\z{二}\f{</sm></h>}\z{　十四} \\
+\f{<h 3>}\z{公性正解}\f{<sm>}\z{三}\f{</sm></h>}\z{　十八} \\
+... \\
+\f{</toc>} \\[5mm]
+\end{typeChinese}
+} & 
+\includegraphics[height=12cm]{Mingli_p6_mit_Seitenzahlen.pdf}
+\end{tabular}
+
+
+\end{document}

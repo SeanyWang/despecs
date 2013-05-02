@@ -1,0 +1,129 @@
+%!TEX TS-program = xelatex 
+%!TEX encoding = UTF-8 Unicode 
+
+\documentclass[fontsize=11pt, paper=a4, 
+DIV15,
+normalheadings,
+parskip=half-, 
+pointlessnumbers]{scrartcl}
+
+\usepackage[british]{babel} 
+
+\usepackage{fontspec,xltxtra,xunicode} 
+\defaultfontfeatures{Mapping=tex-text} 
+
+\setromanfont[Mapping=tex-text]{DejaVu Serif}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica} 
+\setmonofont[Scale=1.0]{Courier New} 
+
+\frenchspacing
+
+\usepackage{graphicx}
+\graphicspath{{./Bilder/}}
+
+\usepackage{longtable}
+
+\usepackage{philokalia}
+
+%%%
+
+\input{abbreviations/abbreviations}
+
+\begin{document}
+
+\begin{center}
+{\fontspec{Helvetica}{\LARGE \textbf{
+Special Instructions for Euclid 1966
+\\[3mm]
+(Addendum to Data Entry Specs 1.1.2) 
+}}} \\[5mm]
+\large Wolfgang Schmidle, Klaus Thoden, Malcolm D. Hyman
+
+\normalsize Max Planck Institute for the History of Science, Berlin, Germany
+
+\today
+\end{center}
+
+
+\section{Data Entry}
+
+Data entry should be in UTF-8, making use of the complete character repertoire found in Unicode version 5.1.0, including characters in the following blocks when applicable: 
+
+\begin{itemize}
+\item CJK Unified Ideographs Extension A (U+3499 -- U+4DFF), 
+\item CJK Unified Ideographs Extension B (U+20000 -- U+2A6DF), 
+\item CJK Compatibility Ideographs Supplement (U+2F800 -- U+2FA1F). 
+\end{itemize}
+
+If you experience difficulty with Chinese characters from the blocks in the supplementary plane (SMP), please let us know. We can provide assistance by providing fonts containing these characters and other technical assistance.
+
+\section{General Markup}
+
+%\begin{note}
+%Conventions for typing page breaks and numbers, running heads, headings, paragraphs, figures, and captions as specified in the standard Data Entry Specs are to be observed. 
+%Conventions for indicating illegible characters and uncertain readings (see section 2.7.1 of the Data Entry Specs) are also to be observed. 
+%\end{note}
+The conventions for typing page breaks and numbers, running heads, headings, paragraphs, figures, and captions as specified in the standard Data Entry Specs apply,
+as well as the conventions for indicating illegible characters and uncertain readings (see section 2.7.1 of the Data Entry Specs). 
+
+\subsection{Paragraphs}
+
+Outdented paragraphs (i.e. paragraphs where the first character is printed one space higher on the page) are marked by §<p x>§.
+
+\begin{note}
+Examples for outdented paragraphs as well as the rules in section 3 can be found in the whole-page example in \sect{section example}.
+\end{note}
+
+\section{Chinese Characters}
+
+\subsection{Punctuation}
+
+Type the punctuation to the right of characters.
+
+\subsection{Spaces}
+
+Type spaces in Chinese text as the IDEOGRAPHIC SPACE character U+3000.
+
+\subsection{Small Characters}
+
+Strings of small characters are marked by §<sm> </sm>§. Indicate half-column breaks by §\\§. 
+%Observe the following example, which shows the correct transcription of the heading on image 0023.jpg.
+
+%We would like a cost estimate and work sample of fifty pages before this text is keyed in full.
+
+%NOTE for checking work sample: are captions on 0027.jpg transcribed correctly?
+
+
+\section{Whole-Page Example}
+\label{section example}
+
+This is a transcription of Euclid p. 23 (i.e. scan §0023.jpg§).
+
+\newcommand{\chin}[1]{{\fontspec{SimSun}{#1}}}
+
+%§<h>§\chin{幾何原本第一卷之首}§<sm>§\chin{界說三十六 求作四}§\\ §\chin{公論十九}§</sm></h>§
+
+%\begin{example}[: \, Euclid p. 23]
+
+\begin{typeLatin}
+\bold{<pb><rh>}\chin{幾何原本　卷一之首}\bold{</rh>} \\
+\bold{<h>}\chin{幾何原本第一卷之首}\bold{<sm>}\chin{界說三十六　求作四} \bold{\bs\bs} \chin{公論十九}\bold{</sm></h>} \\
+\bold{<p>}\chin{泰西利瑪竇口譯}\bold{</p>} \\
+\bold{<p>}\chin{吳凇徐光啓筆受}\bold{</p>} \\ 
+\bold{<h>}\chin{界說三十六則}\bold{</h>} \\
+\bold{<p>}\chin{凡造論。先當分別解說論中所用名目。故曰界說。}\bold{</p>} \\
+\bold{<p>}\chin{凡歷法、地理、樂律、算章、技藝、工巧諸事。有度、有數者。皆依賴十府中。幾何府屬。凡論幾何。先從一點始。} \\
+\chin{自點引之爲線。線展爲面。面積爲體。是名三度。}\bold{</p>} \\
+\bold{<h>}\chin{第一界}\bold{</h>} \\
+\bold{<p x>}\chin{點者、無分。}\bold{</p>} \\
+\bold{<p>}\chin{無長短、廣狹、厚薄。　如下圖。}\bold{<sm>}\chin{凡圖十干爲識。干盡用十} \bold{\bs\bs} \chin{二支。支盡用八卦八音。}\bold{</sm></p>} \\
+\bold{<fig>} \\
+\bold{<h>}\chin{第二界}\bold{</h>} \\
+\bold{<p x>}\chin{線、有長無廣。}\bold{</p>} \\
+\bold{<p>}\chin{試如一平面。光照之。有光無光之間。不容一物。是線也。眞平眞圜相遇。其遇處止有一點。行則止有一 }\\
+\chin{線。}\bold{</p>} \\
+\end{typeLatin}
+
+%\end{example}
+
+\end{document}

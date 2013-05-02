@@ -1,0 +1,189 @@
+%!TEX TS-program = xelatex 
+%!TEX encoding = UTF-8 Unicode 
+
+\documentclass[fontsize=11pt, paper=a4, 
+DIV15,
+headings=normal,
+parskip=half-, 
+numbers=noenddot]{scrartcl}
+
+\usepackage[british]{babel} 
+
+\usepackage{fontspec,xltxtra,xunicode} 
+\defaultfontfeatures{Mapping=tex-text} 
+
+\setromanfont[Mapping=tex-text]{DejaVu Serif}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica} 
+\setmonofont[Scale=1.0]{Courier New} 
+
+\frenchspacing
+
+\usepackage{graphicx}
+\graphicspath{{../../Bilder/}}
+
+\usepackage{longtable}
+
+%%%
+
+\input{../../abbreviations/abbreviations_2}
+
+\newcommand{\hash}{{\char"0023}}
+\newenvironment{typeChinese}{\begin{alltt}\s\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}}
+
+\newcommand{\chin}[1]{{\fontspec{Sun-ExtA}{#1}}}
+\newcommand{\sunExtA}[1]{{\fontspec{Sun-ExtA}{#1}}}
+\newcommand{\sunExtB}[1]{{\fontspec{Sun-ExtB}{#1}}}
+
+\newcommand{\mincho}[1]{{\fontspec{MS Mincho}{#1}}}
+\newcommand{\hira}[1]{{\fontspec{HiraMinPro-W3}{#1}}}
+
+% Verkürzung von \bold und \chin:
+% schon vorhanden: ch, c, s;  b, bf
+% noch nicht vorhanden: sun (bringt aber nicht viel)
+\newcommand{\f}[1]{\bold{#1}} % f für fett
+\newcommand{\z}[1]{\chin{#1}} % z für Zeichen
+
+%%%
+
+\begin{document}
+
+\begin{center}
+{\fontspec{Helvetica}{\LARGE \textbf{
+Special Instructions for Mingli tan \z{名理探}
+\\[3mm]
+(Addendum to DESpecs for Chinese text 2.0.1) 
+}}} \\[5mm]
+\large Wolfgang Schmidle, Martina Siebert, Joachim Kurtz
+
+\normalsize Max Planck Institute for the History of Science, Berlin, Germany
+
+\today
+\end{center}
+
+\section{Punctuation Marks}
+\label{punctuation marks}
+
+\begin{mainrule}
+Type the filled circle as “fullwidth full stop” \z{．} (U+FF0E). 
+Type the filled double circle as “fullwidth colon” \z{：} (U+FF1A).
+%Type the comma \z{、} as “fullwidth comma” \z{，} (U+FF0C).
+\end{mainrule}
+
+\begin{clarification}
+Type the ideographic full stop \z{。} (U+3002) and the ideographic comma \z{、} (U+3001) as you always do.
+% Type the ideographic full stop \z{。} (U+3002) as you always do.
+\end{clarification}
+
+\vspace{8mm}
+\begin{tabular}{@{}ll}
+\parbox[b]{114mm}{
+\htsc{Example} \\[100mm]
+} & 
+\includegraphics[height=5cm]{Punctuation_Variants_p9.pdf}
+\end{tabular}
+
+\vspace{-12mm}
+
+\begin{typeChinese}
+\f{<pb} \z{一}\f{><rh>}\z{名理探}\f{<sm>}\z{卷之一}\f{</sm></rh>} \\
+\f{<h 2>}\z{愛}\f{<}\z{知}\f{2>}\z{學原始}\f{</h>} \\
+\z{愛}\f{<}\z{知}\f{2>}\z{學者、西云}\f{<wl>}\z{斐錄瑣費亞}\f{</wl>}\z{、乃窮理諸學之}\f{<}\z{總}\f{R>}\z{名．譯名、則}\f{<}\z{知}\f{2>} \\
+\z{之嗜．譯義、則言}\f{<}\z{知}\f{2>}\z{也。古有國王問於大賢人曰：汝深於}\f{<}\z{知}\f{2>}\z{、吾} \\
+\z{夙聞之、不知何種之學爲深。對曰：余非能}\f{<}\z{知}\f{2>}\z{、惟愛}\f{<}\z{知}\f{2>}\z{耳。後賢} \\
+\z{學}\f{<}\z{務}\f{V>}\z{辟}\f{<}\z{傲}\f{V>}\z{、故不敢用}\f{<}\z{知}\f{2>}\z{者之名、而第取愛}\f{<}\z{知}\f{2>}\z{爲名也。古稱大} \\
+\f{<}\z{知}\f{2>}\z{者三人：一、}\f{<sl>}\z{索加德 }\f{</sl>}\z{．一、}\f{<sl>}\z{霸辣篤}\f{</sl>}\z{．一、}\f{<sl>}\z{亞利斯多特勒}\f{</sl>}\z{．}\f{<sl>}\z{亞利}\f{</sl>}\z{學問} \\
+\end{typeChinese}
+
+
+\begin{crossref}
+For §< 2>§ see \sect{readings}.
+\end{crossref}
+
+\begin{note}
+Some running heads contain signatures, for example the “1” in the lower left corner of this page. Do not type these signatures.
+\end{note}
+
+
+\section{Indications of Variant Readings}
+\label{readings}
+
+\begin{mainrule}
+A circle in the corner of a character is marked by §< 1>§ (upper left corner), §< 2>§ (upper right corner), §< 3>§ (lower left corner) or §< 4>§ (lower right corner).
+\end{mainrule}
+
+\begin{clarification}
+Unlike §< V>§ or §< R>§, mark every occurrence of the circle.
+\end{clarification}
+
+\begin{crossref}
+Examples can be found in sections \ref{punctuation marks} and \ref{toc}.
+\end{crossref}
+
+\vspace{3mm}
+\begin{note}
+We number the corners according to the Four Corner Index (\z{四角號碼}). We do not attempt to mimic any historic numbering; for example, the §< 2>§ in the examples in sections \ref{punctuation marks} and \ref{toc} indicates the fourth tone.
+\end{note}
+
+
+\section{Table of Contents}
+\label{toc}
+
+\begin{mainrule}
+Mark the lines in the table of contents as headings.
+\end{mainrule}
+
+\begin{clarification}
+Type the pagenumbers after the §</h>§, separated by a single ideographic space U+3000.
+\end{clarification}
+
+\vspace{5mm}
+\begin{tabular}{@{}ll}
+\parbox[b]{111mm}{
+\htsc{Example} \\[55mm]
+\begin{typeChinese}
+\f{<toc>} \\
+... \\
+\f{<ti>}\z{卷之二}\f{</ti>} \\
+\f{<ti>}\z{五分稱之解}\f{</ti>}\z{　一} \\
+\f{<h 1>}\z{〇五公之篇第一}\f{</h>}\z{　一} \\
+\f{<h 2>}\z{立公稱者何義辯一}\f{<sm><}\z{隨}\f{V>}\z{論三}\f{</sm></h>}\z{　三} \\
+\f{<h 3>}\z{公者非虛名}\f{<}\z{相}\f{2><sm>}\z{一}\f{</sm></h>}\z{　五} \\
+\f{<h 3>}\z{公性不別於賾而自立}\f{<sm>}\z{二}\f{</sm></h>}\z{　十四} \\
+\f{<h 3>}\z{公性正解}\f{<sm>}\z{三}\f{</sm></h>}\z{　十八} \\
+... \\
+\f{</toc>} \\[5mm]
+\end{typeChinese}
+} & 
+%\includegraphics[height=6cm]{ToC_Levels_p6.pdf}
+\includegraphics[height=12cm]{Mingli_p6_mit_Seitenzahlen.pdf}
+\end{tabular}
+
+
+\section{Specifically Marked Passages}
+
+\begin{mainrule}
+If a single character is in parentheses, type §( )§, i.e. ASCII parentheses U+0028 and U+0029, around the character.
+\end{mainrule}
+
+\begin{clarification}
+Do not mark the smaller size of this character.
+\end{clarification}
+
+\vspace{8mm}
+\begin{tabular}{@{}ll}
+\parbox[b]{113.5mm}{
+\htsc{Example} \\[20mm]
+\begin{typeChinese}
+\f{<pb><rh>}\z{名理探}\f{<sm>}\z{卷之二}\f{</sm></rh>} \\
+\f{<p>(}\z{古}\f{)}\z{欲徹十倫府．解釋凡物} [...] \\
+\z{五公稱．宗類殊獨依．}\f{<}\z{約}\f{R>}\z{拈} [...] \\
+\z{中亦寓奧理．或實在於物．} [...] \\
+\z{妙理．或別倫屬立．或依可} [...] \\
+\f{(}\z{解}\f{)<sl>}\z{薄斐畧}\f{</sl>}\z{弟子曰}\f{<sl>}\z{計洒}\f{</sl>}\z{者、} [...] \\
+\end{typeChinese}
+} & 
+\includegraphics[height=5cm]{HeadCharacters_p51.pdf}
+\end{tabular}
+
+
+\end{document}

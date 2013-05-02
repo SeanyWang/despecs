@@ -1,6 +1,8 @@
 DS_Store
 
+DESpecs/.*\.pdf
+
 syntax: regexp
 ^\.project$
 
-/DESpecs/.*\.pdf$
+
