@@ -4,9 +4,9 @@
 \documentclass[fontsize=11pt, paper=a4, 
 twoside, % openright, cleardoubleplain, 
 DIV15,
-normalheadings,
+headings=normal,
 parskip=half-, 
-pointlessnumbers]{scrartcl}
+numbers=noenddot]{scrartcl}
 
 \usepackage[british]{babel} 
 
@@ -20,7 +20,7 @@ pointlessnumbers]{scrartcl}
 \frenchspacing
 
 \usepackage{graphicx}
-\graphicspath{{./Bilder/}}
+\graphicspath{{../../Bilder/}}
 
 \usepackage{longtable}
 
@@ -33,12 +33,13 @@ pointlessnumbers]{scrartcl}
 
 %%%
 
-\input{abbreviations/abbreviations}
+\input{../../abbreviations/abbreviations_2}
 
 \begin{document}
 
-\title{Data Entry Specs 2.0}
+\title{Data Entry Specs 2.1}
 \date{}
+\author{}
 \maketitle
 \vspace{-20mm}
 
@@ -54,8 +55,7 @@ pointlessnumbers]{scrartcl}
 \tableofcontents
 \newpage
 
-\input{text/DESpecs_2}
-\input{text/DESpecs_2_appendix_part1}
-% \input{text/DESpecs_1_2_appendix_part2}
+\input{DESpecs_text}
+\input{DESpecs_appendix}
 
 \end{document}

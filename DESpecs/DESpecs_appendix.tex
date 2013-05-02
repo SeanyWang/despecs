@@ -1,6 +1,6 @@
 %!TEX TS-program = xelatex 
 %!TEX encoding = UTF-8 Unicode 
-%!TEX root = ../DESpecs.tex
+%!TEX root = DESpecs.tex
  
 
 \newpage
@@ -11,6 +11,7 @@
 \label{appendix list of all tags}
 
 \newcommand{\eins}{{\fontspec{DejaVu Sans}{①}}}
+\newcommand{\zwei}{{\fontspec{DejaVu Sans}{②}}}
 
 \begin{longtable}[l]{@{}llll@{}l@{}}
 %\begin{tabular}{@{}llll@{}}
@@ -69,20 +70,22 @@ section & tag & name & tag may contain \\[1mm]
 %\ref{section greek ligatures} & §{μεν}§ etc. & Greek ligature & \\
 \\
 \hline \\
-\ref{section fractions} & §{  /  }§ & fraction & \\
-\ref{section roots} & §<r>§ & root & number or letter \\
-\\
-\hline \\
 \ref{section fraktur alphabet} & §<fr>§ & \multicolumn{2}{l}{whole book in Fraktur} & \\
 \ref{section fraktur alphabet} & §<fr> </fr>§ & words in Fraktur & \\
 \ref{section sperrung} & §<sp> </sp>§ & Sperrung & \\
 \ref{section words in roman characters} & §<rom> </rom>§ & words in roman chars & \\
 \\
 \hline \\
+\ref{section fractions} & §{  /  }§ & fraction & \\
+\ref{section roots} & §√[]{}§ & root && \zwei \\
+\\
+\hline \\
 %\end{tabular}
 \end{longtable}
 
 \eins \quad This tag may also contain §it§ (italics; see \sect{section italics}) or §fr§ (Fraktur; see \sect{section fraktur}).
+
+\zwei \quad §[]§ and §{}§ are optional
 
 \newpage
 

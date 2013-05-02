@@ -47,6 +47,7 @@
 \newcommand{\xs}{\scriptsize}
 \newcommand{\s}{\footnotesize}
 
+%
 
 \newcommand{\bs}{\textbackslash}
 \newcommand{\tld}{\textasciitilde}
@@ -58,14 +59,11 @@
 
 %%%%%%%%%%%%%%%%
 
-%\newfontfamily{\H}{Hoefler Text} 
-%\newcommand{\htsc}[1]{{\fontspec{Hoefler Text}{\large\scshape #1}}}
 \newcommand{\htsc}[1]{\emph{#1}}
-
 \newcommand{\lig}[1]{\fontspec{Hoefler Text}{\Large #1}}
-
 \newcommand{\fraktur}[1]{{\fontspec{BreitkopfFraktur}{\LARGE #1}}}
 
+%
 
 \newenvironment{mainrule}{}{}
 \newenvironment{mainruleLessImportant}{}{}
@@ -74,20 +72,18 @@
 \newenvironment{note}{\textbf{Please note:}}{}
 \newenvironment{crossref}{\s\ensuremath{\longrightarrow}}{}
 
+%
 
-\newenvironment{sampleImage}[2][]{\parbox{\linewidth}{{\htsc{Example #1}} \\[3mm] \includegraphics[width=\linewidth]{#2}}}{}
+\newenvironment{sampleImage}[2][]{\parbox{\linewidth}{{\htsc{Example#1}} \\[3mm] \includegraphics[width=\linewidth]{#2}}}{}
+\newenvironment{sampleImageSmall}[3][]{\parbox{\linewidth}{{\htsc{Example#1}} \\[3mm] \includegraphics[#2]{#3}}}{}
 
-%\newenvironment{smallSampleImage}[2]{\parbox{\linewidth}{{\htsc{Example}} \\[3mm] \includegraphics[#1]{#2}}}{}
-
-\newenvironment{sampleImageSmall}[3][]{\parbox{\linewidth}{{\htsc{Example #1}} \\[3mm] \includegraphics[#2]{#3}}}{}
-
-
-\newenvironment{example}[1][]{\htsc{Example #1} \\}{}
-%\newenvironment{example}[1][]{\parbox{\linewidth}{{\fontspec{Hoefler Text}{\large\scshape Example #1}} \\[3mm] }}{}
-\newenvironment{exampleTest}[2][]{\parbox{\linewidth}{\htsc{Example #1} \\[3mm] #2}}{}
+\newenvironment{example}[1][]{\htsc{Example#1} \\}{}
+\newenvironment{exampleTest}[2][]{\parbox{\linewidth}{\htsc{Example #1} \\[3mm] #2}}{} % ??
 
 \newenvironment{liste}[1][]{\htsc{List#1} \\}{}
 \newenvironment{tabelle}[1][]{\htsc{Table#1} \\}{}
+
+%
 
 \newenvironment{typeLatin}{\begin{alltt}\s\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}}
 
@@ -96,9 +92,10 @@
 
 \newenvironment{typeMath}{\begin{alltt}\begin{tabular}{l}}{\end{tabular}\end{alltt}}
 
+%
 
 \newfontfamily{\muh}[Scale=0.9]{DejaVu Serif} 
-\newcommand{\someText}{{\muh\textit{(some text)}}} % für Text, der im Buch, aber nicht im Bild ist
-\newcommand{\untranscribedText}{{\muh\textit{(some untranscribed text)}}} % für Text, der im Bild, aber nicht in der Transkiption ist
+\newcommand{\someText}{...} % {{\muh\textit{(some text)}}} 
+\newcommand{\untranscribedText}{...} % {{\muh\textit{(some untranscribed text)}}}
 \newcommand{\notTranscribed}{{\muh\textit{(not transcribed)}}} 
-\newcommand{\missingText}[1]{{\muh\textit{(#1)}}} % andere Angaben
+\newcommand{\missingText}[1]{{\muh\textit{(#1)}}}
