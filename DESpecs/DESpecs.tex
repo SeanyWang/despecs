@@ -1,46 +1,35 @@
 %!TEX TS-program = xelatex 
 %!TEX encoding = UTF-8 Unicode 
 
-\documentclass[11pt, a4paper, 
-headinclude, 
+\documentclass[fontsize=11pt, paper=a4, 
+twoside, % openright, cleardoubleplain, 
+DIV15,
 normalheadings,
-halfparskip-, 
+parskip=half-, 
 pointlessnumbers]{scrartcl}
 
 \usepackage[british]{babel} 
 
-%\usepackage[applemac]{inputenc} % Apple-spezifisch!
-%\usepackage[T1]{fontenc}
-%\usepackage{latexsym} % für einmal "\leadsto"
-%\usepackage{lmodern} % ich verwende daraus nur: \renewcommand{\ttdefault}{lmtt}
-%\usepackage{mathptmx} % Formeln in times
-%\usepackage{charter} % roman in charter statt in times, Formeln weiterhin in times
-%\usepackage[scaled=.92]{helvet} 
-%\usepackage[draft=false]{microtype}
-
 \usepackage{fontspec,xltxtra,xunicode} 
 \defaultfontfeatures{Mapping=tex-text} 
 
-\setromanfont[Mapping=tex-text]{DejaVu Serif} % war {Hoefler Text}, dann {Times}
-% Times hat keine small caps, und kein stigma
-% dafür Times New Roman?
-
-\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica} % war {Gill Sans} 
-
-%\setmonofont[Scale=MatchLowercase]{Courier New} 
-%\setmonofont[Scale=0.8]{Courier New} 
-% Andale Mono hat keine ae-Ligatur und keine griechischen Spiritus
-% Courier hat keine griechischen Buchstaben
-% Courier New: ae, griechisch
-% Monaco: kein griechisch
-% bleibt mit monospace für griechisch nur Courier New, oder wir brauchen eine neue Schrift, oder wir gehen von der monospace-Regel ab.
-%\setmonofont[Scale=0.9]{Courier} 
-\setmonofont[Scale=0.9]{DejaVu Sans Mono} 
+\setromanfont[Mapping=tex-text]{DejaVu Serif}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica} 
+\setmonofont[Scale=1.0]{Courier New} 
 
 \frenchspacing
 
 \usepackage{graphicx}
 \graphicspath{{./Bilder/}}
+
+\usepackage{longtable}
+
+\usepackage{philokalia}
+
+%\usepackage{amsmath}
+
+\usepackage{yfonts}
+
 
 %%%
 
@@ -48,13 +37,25 @@ pointlessnumbers]{scrartcl}
 
 \begin{document}
 
-\title{Data Entry Specs 0.3}
-\author{Wolfgang Schmidle}
+\title{Data Entry Specs 2.0}
+\date{}
 \maketitle
+\vspace{-20mm}
+
+\begin{center}
+%{\fontspec{Helvetica}{\LARGE \textbf{Data Entry Specs 1.0.1}}} \\[5mm]
+\large Wolfgang Schmidle, Klaus Thoden, Malcolm D. Hyman
+
+\normalsize Max Planck Institute for the History of Science, Berlin, Germany
+
+\today
+\end{center}
 
 \tableofcontents
-%\newpage
+\newpage
 
-\input{text/DESpecs_0_3}
+\input{text/DESpecs_2}
+\input{text/DESpecs_2_appendix_part1}
+% \input{text/DESpecs_1_2_appendix_part2}
 
 \end{document}
