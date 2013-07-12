@@ -1,0 +1,94 @@
+%!TEX TS-program = xelatex 
+%!TEX encoding = UTF-8 Unicode 
+
+\documentclass[fontsize=11pt, paper=a4, 
+DIV15,
+normalheadings,
+parskip=half-, 
+pointlessnumbers]{scrartcl}
+
+\usepackage[british]{babel} 
+
+\usepackage{fontspec,xltxtra,xunicode} 
+\defaultfontfeatures{Mapping=tex-text} 
+
+\setromanfont[Mapping=tex-text]{DejaVu Serif}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica} 
+\setmonofont[Scale=1.0]{Courier New} 
+
+\frenchspacing
+
+\usepackage{graphicx}
+\graphicspath{{../../bilder/}}
+\graphicspath{{./bilder/}}
+
+\usepackage{longtable}
+
+\usepackage{philokalia}
+
+%%%
+
+\input{../../abbreviations}
+
+\begin{document}
+
+\begin{center}
+{\fontspec{Helvetica}{\LARGE \textbf{
+Special Instructions for three volumes of “Tartaglia”
+\\[3mm]
+(Addendum to Data Entry Specs 2.1.1) 
+}}} \\[5mm]
+\large Klaus Thoden
+
+\normalsize Max Planck Institute for the History of Science, Berlin, Germany
+
+\today
+\end{center}
+
+% \section{Introduction}
+% These Special Instruction are for the three volumes
+% §Tartaglia_1556_H5BAMGAN§, §Tartaglia_1556_MRV5C34S§ and
+% §Tartaglia_1560_Q9B15RYG§. They deal with small pieces of text that
+% interrupt the main text.
+
+\section{Text Flows}
+
+
+\begin{mainrule}
+  These three books contain small passages of separate text inside
+  paragraphs (see image). Please mark them as separate text flows with
+  the tags §<tf>§ and §</tf>§. Type the <tf> and </tf> tags on separate
+  lines.
+\end{mainrule}
+
+\begin{clarification}
+Type the §<tf>§ and §</tf>§ tags on separate lines. On each page, type the first text flow before the second text flow.
+\end{clarification}
+
+\vspace{3mm}
+\begin{sampleImage}[1: \, example of inset text flow. Please replace ”§<unknown1>§“ by the code you assign to this unknown character.]{Tartaglia_1560_Q9B15RYG-045.jpg}
+\begin{typeLatin}
+\someText \\
+\bold{<p>} \someText
+POngo anchora che $ia vna pezza di \someText\\
+\someText\\
+rai per la longhezza braccia 512.&per\bold{<lb/>}\\
+\bold{<tf>}\\
+Vna pezza di terra\bold{<lb/>}\\
+lon. zu. 42. braccia 8. la proua è braccia 1.\bold{<lb/>}\\
+te. zu. 23. braccia 3. la proua è braccia 6.\bold{<lb/>}\\
+fa perti. 41. ta. 8. p.o. \bold{<unknown1>} o. la proua \bold{<unknown1>} 6.\bold{<lb/>}\\
+\bold{</tf>}\\
+la larghezza braccia 279. multiplicaraili detti brac- \bold{<lb/>}\\
+\someText
+\bold{</p>}
+\end{typeLatin}
+\end{sampleImage}
+
+
+\end{document}
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 
