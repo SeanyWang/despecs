@@ -1,0 +1,148 @@
+%!TEX TS-program = xelatex 
+%!TEX encoding = UTF-8 Unicode 
+
+\documentclass[fontsize=11pt, paper=a4, 
+  DIV15,
+  normalheadings,
+  parskip=half-, 
+  pointlessnumbers]{scrartcl}
+
+\usepackage[british]{babel} 
+\usepackage[%obeyDraft,
+  english, colorinlistoftodos]{todonotes}
+
+\usepackage{fontspec,xltxtra,xunicode} 
+\defaultfontfeatures{Mapping=tex-text} 
+
+\setromanfont[Mapping=tex-text]{DejaVu Serif}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica} 
+\setmonofont[Scale=1.0]{Courier New} 
+
+\frenchspacing
+
+\usepackage{graphicx}
+\graphicspath{{../../bilder/}}
+\graphicspath{{./bilder/}}
+
+\usepackage{longtable}
+
+\usepackage{philokalia}
+
+%%%
+
+\input{../../abbreviations}
+
+\begin{document}
+
+\begin{center}
+  {\fontspec{Helvetica}{\LARGE \textbf{
+        Special Instructions for "Ben Cao Jing Ji Zhu (\chin{本草經集注})”
+        \\[3mm]
+        (Addendum to Data Entry Specs for Chinese Text 2.1) 
+  }}} \\[5mm]
+  \large Klaus Thoden, Shih-Pei Chen, Georg Freise
+
+  \normalsize Max Planck Institute for the History of Science, Berlin, Germany
+
+  \today
+\end{center}
+
+\section{Footnote marks}
+\begin{mainrule}
+  This book contains footnotes with anchors in the main text. The
+  footnote marks in the main text are surrounded by Chinese
+  parentheses. Please tag them with §<a>§ and §</a>§.
+\end{mainrule}
+
+%% \begin{clarification}
+%% Type the §<tf>§ and §</tf>§ tags on separate lines. On each page, type the first text flow before the second text flow.
+%% \end{clarification}
+\vspace{3mm}
+\missingfigure{For each example, we need an image from the text displaying the example typed below.}
+\begin{sampleImageSmall}[\ 1: \, caption.]{width=1cm}{missing.jpg}
+  \todo[color=red]{We also want to preserve the original line breaks of the text. They should be inserted with <lb/>}
+  \begin{typeChinese}
+    \someText \\
+    \z{<p>味甘，平，無毒。主除胃中熱、喘息、煩滿，止渴}\\
+\z{，屑如麻豆服之。久服輕身長年。生藍田，采無時。<sm>惡鹿角。</sm></p>}\\
+     \z{<p><sm>此云玉屑，亦是以玉為屑，非應別一種物也。《}\\
+\z{仙經》服榖玉，有擣如米粒，乃以苦酒輩}\f{<a>}\z{﹝一﹞}\f{</a>，}\\
+\z{消令如泥，亦有合為漿者。凡服玉，皆不得用已成器物，及塚中玉璞也。}\\
+\z{好玉出藍田，及南陽徐善亭部界中，日南、盧容水中，}\\
+\z{外國於闐、疎勒諸處皆善。《仙方》名玉為玄真，潔白如豬膏，叩之鳴者，是真也。}\\
+\z{其比類甚多相似，宜精別之。所以燕石入笥}\f{<a>}\z{﹝二﹞，}\\
+\f{</a>}\z{卞氏長號也。（《新修》三頁，《大觀》}\\
+\z{卷三），《政和》八一頁）</sm></p>}
+      \someText
+  \end{typeChinese}
+\end{sampleImageSmall}
+
+\section{Footnote text}
+\begin{mainrule}
+  Type each footnote text where it appears, surrounded by §<fn>§ and
+  §</fn>§. Start a new line for every new footnote.
+\end{mainrule}
+\vspace{3mm}
+
+%% tell them also to encode the heading of the footnote with <h4>
+\begin{sampleImageSmall}[\ 2: \, caption.]{width=1cm}{missing.jpg}
+  \begin{typeChinese}
+    \z{<h4>注</h4>}\\
+    \f{<fn>}\z{﹝一﹞輩 《綱目》作「浸」。}\f{</fn>}\\
+    \f{<fn>}\z{﹝二﹞笥  玄《大觀》作「筒」。}\f{</fn>}
+  \end{typeChinese}
+\end{sampleImageSmall}
+
+\section{Kaiti}
+\todo{I can't really remember what this meant other than that it is necessary. Small text?}
+\begin{mainrule}
+  Please surround the kaiti as shown on the image with the tags §<k>§ and §</k>§.
+\end{mainrule}
+\vspace{3mm}
+
+\begin{sampleImageSmall}[\ 3: \, caption.]{width=1cm}{missing.jpg}
+\todo{is the comma still inside <k>?}
+  \begin{typeChinese}
+\z{<h3>}\f{<k>}\z{玉泉}\f{</k>}\z{</h3>}\\
+\z{<p>}\f{<k>}\z{味 甘，平，}\f{</k>}\\
+\z{無毒。<k>主治<a>﹝一﹞</a>五<a>﹝二﹞</a>藏百病，柔<a>﹝三﹞</a>筋強骨，安魂魄<a>﹝四﹞</a>，}\\
+\z{長肌肉，益氣<a>﹝五﹞</a></k>，利血脉<a>﹝六﹞，</a>治婦人帶下十二病，除氣癃，明耳目<a>﹝七﹞</a>。}\\
+\z{<k>久服耐寒暑，不飢渴，不老神仙<a>﹝八﹞，</a></k>輕身長年。}\\
+\z{<k>人臨死服五斤，死<a>﹝九﹞</a>三年色不變。一名玉札<a>﹝十﹞</a>。}\\
+\z{生</k>藍田<k>山谷。</k>采無時<a>﹝十一﹞</a>。<sm>畏欸冬花。</sm></p>}
+  \end{typeChinese}
+\end{sampleImageSmall}
+
+
+\section{Itemized Lists}
+\begin{mainrule}
+  The book contains also itemized lists as depicted below. Items start
+  either with the character "●" or "○" or with no character at all.
+  Please use the character sequence §" # "§ as a delimiter between items.
+\end{mainrule}
+\todo{should we tell them to also put such a delimiter in front of the first item?}
+\vspace{3mm}
+
+\begin{sampleImageSmall}[\ 4: \, caption.]{width=1cm}{missing.jpg}
+  \begin{typeChinese}
+\someText
+<h3>傷寒</h3>
+\f{<list>}\\
+\z{○麻黃}\f{ # }\z{葛根}\f{ # }\z{○杏人}\f{ # }\z{茈胡<a>﹝一﹞</a>}\\
+\f{ # }\z{前胡}\f{ # }\z{●大青}\f{ # }\z{●龍膽}\f{ # }\z{芍<a>﹝二﹞</a>藥}\\
+\f{ # }\z{薰草}\f{ # }\z{生麻}\f{ # }\z{●牡丹}\f{ # }\z{○虎掌}\f{ # }\\
+\z{○朮}\f{ # }\z{防己}\f{ # }\z{●石膏}\f{ # }\z{牡蠣<a>﹝三﹞</a>}\f{ # }\\
+\z{貝齒<a>﹝四﹞</a>}\f{ # }\z{鱉甲}\f{ # }\z{●犀角}\f{ # }\z{●零<a>﹝五﹞</a>羊角}\\
+\f{ # }\z{蔥白}\f{ # }\z{○生薑}\f{ # }\z{●豉}\f{ # }\z{●溺<a>﹝六﹞</a>}\\
+\f{ # }\z{●芒消}\\
+\f{</list>}
+\someText
+  \end{typeChinese}
+\end{sampleImageSmall}
+
+\end{document}
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 

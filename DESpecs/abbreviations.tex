@@ -99,3 +99,16 @@
 \newcommand{\untranscribedText}{...} % {{\muh\textit{(some untranscribed text)}}}
 \newcommand{\notTranscribed}{{\muh\textit{(not transcribed)}}} 
 \newcommand{\missingText}[1]{{\muh\textit{(#1)}}}
+
+%% Chinese bits
+\newenvironment{typeChinese}{\begin{alltt}\s\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}}
+
+\newcommand{\chin}[1]{{\fontspec{Sun-ExtA}{#1}}}
+\newcommand{\sunExtA}[1]{{\fontspec{Sun-ExtA}{#1}}}
+\newcommand{\sunExtB}[1]{{\fontspec{Sun-ExtB}{#1}}}
+
+\newcommand{\mincho}[1]{{\fontspec{MS Mincho}{#1}}}
+\newcommand{\hira}[1]{{\fontspec{HiraMinPro-W3}{#1}}}
+
+\newcommand{\f}[1]{\bold{#1}} % f für fett
+\newcommand{\z}[1]{\chin{#1}} % z für Zeichen
