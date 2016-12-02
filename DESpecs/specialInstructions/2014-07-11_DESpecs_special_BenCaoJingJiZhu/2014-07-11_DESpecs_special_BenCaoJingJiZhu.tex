@@ -16,6 +16,8 @@
 \setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica} 
 \setmonofont[Scale=1.0]{Courier New} 
 
+\usepackage{caption}
+
 \frenchspacing
 
 \usepackage{graphicx}
@@ -32,6 +34,9 @@
 
 \begin{document}
 
+%%\captionsetup{justification=raggedright}
+
+
 \begin{center}
   {\fontspec{Helvetica}{\LARGE \textbf{
         Special Instructions for "Ben Cao Jing Ji Zhu (\chin{本草經集注})”
@@ -47,20 +52,11 @@
 
 \section{Footnote marks}
 \begin{mainrule}
-  This book contains footnotes with anchors in the main text. The
+  This book contains footnotes with anchors in the main text (cf. Figure \ref{fig1} on page \pageref{fig1}). The
   footnote marks in the main text are surrounded by Chinese
   parentheses. Please tag them with §<a>§ and §</a>§.
 \end{mainrule}
 
-%% \begin{clarification}
-%% Type the §<tf>§ and §</tf>§ tags on separate lines. On each page, type the first text flow before the second text flow.
-%% \end{clarification}
-\vspace{3mm}
-%%\includegraphics[height=4cm]{image1}
-\begin{sampleImageSmall}[\ 1: \, Footnote marks.]{height=10cm}{image1.png}
-\end{sampleImageSmall}
-%% \begin{tabular}{@{}ll}
-%%   \parbox[b]{131mm}{
 \begin{typeChinese}
   \f{<h3>}\z{玉屑}\f{</h3>}\\
   \f{<p>}\z{味甘，平，無毒。主除胃中熱、喘息、煩滿，止渴，屑如麻豆服之。久}\\
@@ -87,18 +83,14 @@
     \f{<fn>}\z{﹝二﹞笥  玄《大觀》作「筒」。}\f{</fn>}
   \end{typeChinese}
 } & 
-\includegraphics[height=4cm]{image2}
+\includegraphics[height=8cm]{image2}
 \end{tabular}
 
 
 \section{Kaiti \chin{楷體}}
 \begin{mainrule}
-  Please surround the text in kaiti (\chin{楷體}) font as shown on the image with the tags §<k>§ and §</k>§.
+  Please surround the text in kaiti (\chin{楷體}) font as shown in Figure \ref{fig3} with the tags §<k>§ and §</k>§.
 \end{mainrule}
-\vspace{3mm}
-
-\begin{sampleImageSmall}[\ 3: \, Kaiti \chin{楷體}]{height=10cm}{image3.png}
-\hspace{-25mm}
   \begin{typeChinese}
  \f{<h3><k>}\z{玉泉}\f{</k></h3>}\\
  \f{<p><k>}\z{味 甘，平，}\f{</k>}\z{無}\untranscribedText\z{。}\f{<k>}\z{主治}\f{<a>}\z{﹝一﹞}\f{</a>}\z{五}\f{<a>}\z{﹝二﹞}\f{</a>}\z{藏}\untranscribedText\z{柔}\f{<a>}\z{﹝三﹞}\f{</a>}\z{筋}\untranscribedText\z{魄}\f{<a>}\z{﹝四﹞}\f{</a>}\z{，}\\
@@ -106,18 +98,13 @@
   \end{typeChinese}
   %% shortened the example a bit to make it fit on the page
 %% \f{<p><k>}\z{味 甘，平，}\f{</k>}\z{無毒。}\f{<k>}\z{主治}\f{<a>}\z{﹝一﹞}\f{</a>}\z{五}\f{<a>}\z{﹝二﹞}\f{</a>}\z{藏百病，柔}\f{<a>}\z{﹝三﹞}\f{</a>}\z{筋強骨，安魂魄}\f{<a>}\z{﹝四﹞}\f{</a>}\z{，}\\
-\end{sampleImageSmall}
-
 
 \section{Itemized Lists}
 \begin{mainrule}
-  The book contains also itemized lists as depicted below. Items start
+  The book contains also itemized lists as depicted in Figure \ref{fig4} on the next page. Items start
   either with the character "●" (U+25CF) or "○" (U+25CB) or with no character at all.
   Please use the character sequence §" # "§ as a delimiter between items.
 \end{mainrule}
-\vspace{3mm}
-
-\begin{sampleImageSmall}[\ 4: \, Itemized lists]{height=10cm}{image4.png}
   \begin{typeChinese}
     \f{<h3>}\z{傷寒}\f{</h3>}\\
     \f{<list>}\\
@@ -126,7 +113,30 @@
     \f{ # }\z{●犀角}\f{ # }\z{●零}\f{<a>}\z{﹝五﹞}\f{</a>}\z{羊角}\f{ # }\z{蔥白}\f{ # }\z{○生薑}\f{ # }\z{●豉}\f{ # }\z{●溺}\f{<a>}\z{﹝六﹞}\f{</a>}\f{ # }\z{●芒消}\\
     \f{</list>}
   \end{typeChinese}
-\end{sampleImageSmall}
+
+\begin{figure}[h]
+  \begin{minipage}[b]{5 cm}
+    \begin{centering}
+    \includegraphics[height=20cm]{image1}
+    \caption{Footnote marks}
+    \label{fig1}
+    \end{centering}
+  \end{minipage}
+  \begin{minipage}[b]{5 cm}
+    \begin{centering}
+    \includegraphics[height=20cm]{image3}
+    \caption{ Kaiti \chin{楷體}}
+    \label{fig3}
+    \end{centering}
+  \end{minipage}
+  \begin{minipage}[b]{5 cm}
+    \begin{centering}
+    \includegraphics[height=20cm]{image4}
+    \caption{Itemized lists}
+    \label{fig4}
+    \end{centering}
+  \end{minipage}
+\end{figure}
 
 \end{document}
 

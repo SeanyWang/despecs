@@ -1,0 +1,89 @@
+%!TEX TS-program = xelatex 
+%!TEX encoding = UTF-8 Unicode 
+
+\documentclass[fontsize=11pt, paper=a4, 
+DIV15,
+normalheadings,
+parskip=half-, 
+pointlessnumbers]{scrartcl}
+
+\usepackage[british]{babel} 
+
+\usepackage{fontspec,xltxtra,xunicode} 
+\defaultfontfeatures{Mapping=tex-text} 
+
+\setromanfont[Mapping=tex-text]{DejaVu Serif}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica} 
+\setmonofont[Scale=1.0]{Courier New} 
+
+\frenchspacing
+
+\usepackage{graphicx}
+\graphicspath{{../../bilder/}}
+
+\usepackage{longtable}
+
+\usepackage{philokalia}
+
+\usepackage{yfonts}
+
+%%%
+
+\input{../../../abbreviations/abbreviations_2}
+
+%\usepackage{blacklettert1}
+
+\begin{document}
+
+\begin{center}
+{\fontspec{Helvetica}{\LARGE \textbf{
+Special Instructions for Hippocrates
+}}} \\[5mm]
+\large Klaus Thoden
+
+\normalsize Max Planck Institute for the History of Science, Berlin, Germany
+
+\today
+\end{center}
+
+%\tableofcontents
+
+\section{Column numbers in Hippocrates}
+
+The major part of the text is printed in two columns per page. There
+are no page numbers in this book. Instead, each column has a number in
+the running header of the page. Please proceed as follows:
+
+\begin{mainrule}
+Begin each page with a §<pb>§ (without page number), followed by the
+running head §<rh>…</rh>§. Include the number of the column in the
+column tag.
+\end{mainrule}
+
+\begin{clarification}
+This is a deviation of the rule given in section 2.3 of the
+main DE Specs document, where the counting of the columns starts at 1 on every
+new page.
+\end{clarification}
+
+\begin{sampleImage}[: Continuous column numbering]{0029-crop}
+\begin{typeLatin}
+\bold{<pb>}\bold{<rh>}In Primum Aphori$mum.\bold{</rh>} \\
+\bold{<col 9>} \\
+\bold{<p>}Nos re$pondemus, ordinem duplicem \\
+e$$e, alium vniuer$alem, qui dat e$$e \& for- \\
+mam libris, \& e$t ordo re$olutiuus, \& com- \\
+\untranscribedText\\
+\bold{</col>} \\ 
+\bold{<col 10>} \\
+\bold{<p>}medicina, \& ex qualibet eius parte\bold{</p>} \\
+\bold{<p>}Diuiditur medicina in quinque partes: \\
+quat\~u prima dicitur phy$iologica, quæ $unt \\
+\untranscribedText\\
+\bold{</col>} \\ 
+
+\end{typeLatin}
+\end{sampleImage}
+
+
+\end{document}

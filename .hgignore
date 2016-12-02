@@ -1,6 +1,14 @@
-DS_Store
+syntax: glob
+.DS_Store
 
-DESpecs/.*\.pdf
+DESpecs/bilder/unbenutzt
+
+DESpecs/*/*/*.pdf
+*.aux
+*.log
+*.toc
+*.synctex.gz
+auto
 
 syntax: regexp
 ^\.project$
