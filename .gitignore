@@ -1,0 +1,13 @@
+.DS_Store
+
+bilder/unbenutzt
+
+*.pdf
+*.aux
+*.log
+*.toc
+*.synctex.gz
+auto
+
+syntax: regexp
+^\.project$

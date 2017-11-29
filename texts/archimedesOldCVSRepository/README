@@ -1,7 +1,0 @@
-Um Original-Archimedes-Texte mit DTD in XML-Dokumente ohne DTD und ohne Entities zu erzeugen:
-ein Verzeichnis
-mit den Original-XML-Dokumenten erstellen (z.B. "xml") und ein Verzeichnis
-"dtd" mit den Archimedes DTD's erstellen. Dann in das Verzeichnis xml
-gehen und dort das Kommando "/Users/jwillenborg/bin/resolve-entities-and-resolve-dtds.sh" aufrufen.
-Dann wird dort ein Unterverzeichnis "resolved" erzeugt, dass alle XML-Dokumente
-nun ohne DTD's enthält.

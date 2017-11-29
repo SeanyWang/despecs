@@ -1,0 +1,146 @@
+%!TEX TS-program = xelatex 
+%!TEX encoding = UTF-8 Unicode 
+
+\documentclass[fontsize=11pt, paper=a4, 
+  DIV15,
+  normalheadings,
+  parskip=half-, 
+  pointlessnumbers]{scrartcl}
+
+\usepackage[british]{babel} 
+
+\usepackage{fontspec,xltxtra,xunicode} 
+\defaultfontfeatures{Mapping=tex-text} 
+
+\setromanfont[Mapping=tex-text]{DejaVu Serif}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica} 
+\setmonofont[Scale=1.0]{Courier New} 
+
+\usepackage{caption}
+
+\frenchspacing
+
+\usepackage{graphicx}
+\graphicspath{{../../bilder/}}
+\graphicspath{{./bilder/}}
+
+\usepackage{longtable}
+
+\usepackage{philokalia}
+
+%%%
+
+\input{../../abbreviations}
+
+\begin{document}
+
+%%\captionsetup{justification=raggedright}
+
+
+\begin{center}
+  {\fontspec{Helvetica}{\LARGE \textbf{
+        Special Instructions for "Ben Cao Jing Ji Zhu (\chin{本草經集注})”
+        \\[3mm]
+        (Addendum to Data Entry Specs for Chinese Text 2.1) 
+  }}} \\[5mm]
+  \large Klaus Thoden, Shih-Pei Chen, Georg Freise
+
+  \normalsize Max Planck Institute for the History of Science, Berlin, Germany
+
+  \today
+\end{center}
+
+\section{Footnote marks}
+\begin{mainrule}
+  This book contains footnotes with anchors in the main text (cf. Figure \ref{fig1} on page \pageref{fig1}). The
+  footnote marks in the main text are surrounded by Chinese
+  parentheses. Please tag them with §<a>§ and §</a>§.
+\end{mainrule}
+
+\begin{typeChinese}
+  \f{<h3>}\z{玉屑}\f{</h3>}\\
+  \f{<p>}\z{味甘，平，無毒。主除胃中熱、喘息、煩滿，止渴，屑如麻豆服之。久}\\
+  \z{服輕身長年。生藍田，采無時。}\f{<sm>}\z{惡鹿角。}\f{</sm></p>}\\
+  \f{<p><sm>}\z{此云玉屑，亦是以玉為屑，非應別一種物也。《仙經》服榖玉，有擣如米粒，乃以苦酒輩}\f{<a>}\z{﹝一﹞}\f{</a>，}\z{消令如泥，亦有}\\
+  \z{合為漿者。凡服玉，皆不得用已成器物，及塚中玉璞也。好玉出藍田，及南陽徐善亭部界中，日南、盧容水中，外}\\
+  \z{國於闐、疎勒諸處皆善。《仙方》名玉為玄真，潔白如豬膏，叩之鳴者，是真也。其比類甚多相似，宜精別之。所以燕}\\
+  \z{石入笥}\f{<a>}\z{﹝二﹞，}\f{</a>}\z{卞氏長號也。（《新修》三頁，《大觀》}\z{卷三），《政和》八一頁）}\f{</sm></p>}
+\end{typeChinese}
+
+\section{Footnote text}
+\begin{mainrule}
+  Type each footnote text where it appears, surrounded by §<fn>§ and
+  §</fn>§. Start a new line for every new footnote.
+\end{mainrule}
+\vspace{3mm}
+
+%% tell them also to encode the heading of the footnote with <h4>
+\begin{tabular}{@{}ll}
+\parbox[b]{131mm}{
+  \begin{typeChinese}
+    \f{<h4>}\z{注}\f{</h4>}\\
+    \f{<fn>}\z{﹝一﹞輩 《綱目》作「浸」。}\f{</fn>}\\
+    \f{<fn>}\z{﹝二﹞笥  玄《大觀》作「筒」。}\f{</fn>}
+  \end{typeChinese}
+} & 
+\includegraphics[height=8cm]{image2}
+\end{tabular}
+
+
+\section{Kaiti \chin{楷體}}
+\begin{mainrule}
+  Please surround the text in kaiti (\chin{楷體}) font as shown in Figure \ref{fig3} with the tags §<k>§ and §</k>§.
+\end{mainrule}
+  \begin{typeChinese}
+ \f{<h3><k>}\z{玉泉}\f{</k></h3>}\\
+ \f{<p><k>}\z{味 甘，平，}\f{</k>}\z{無}\untranscribedText\z{。}\f{<k>}\z{主治}\f{<a>}\z{﹝一﹞}\f{</a>}\z{五}\f{<a>}\z{﹝二﹞}\f{</a>}\z{藏}\untranscribedText\z{柔}\f{<a>}\z{﹝三﹞}\f{</a>}\z{筋}\untranscribedText\z{魄}\f{<a>}\z{﹝四﹞}\f{</a>}\z{，}\\
+\someText \f{</p>}
+  \end{typeChinese}
+  %% shortened the example a bit to make it fit on the page
+%% \f{<p><k>}\z{味 甘，平，}\f{</k>}\z{無毒。}\f{<k>}\z{主治}\f{<a>}\z{﹝一﹞}\f{</a>}\z{五}\f{<a>}\z{﹝二﹞}\f{</a>}\z{藏百病，柔}\f{<a>}\z{﹝三﹞}\f{</a>}\z{筋強骨，安魂魄}\f{<a>}\z{﹝四﹞}\f{</a>}\z{，}\\
+
+\section{Itemized Lists}
+\begin{mainrule}
+  The book contains also itemized lists as depicted in Figure \ref{fig4} on the next page. Items start
+  either with the character "●" (U+25CF) or "○" (U+25CB) or with no character at all.
+  Please use the character sequence §" # "§ as a delimiter between items.
+\end{mainrule}
+  \begin{typeChinese}
+    \f{<h3>}\z{傷寒}\f{</h3>}\\
+    \f{<list>}\\
+    \z{○麻黃}\f{ # }\z{葛根}\f{ # }\z{○杏人}\f{ # }\z{茈胡}\f{<a>}\z{﹝一﹞}\f{</a>}\f{ # }\z{前胡}\f{ # }\z{●大青}\f{ # }\z{●龍膽}\f{ # }\z{芍<a>﹝二﹞</a>藥}\f{ # }\z{薰草}\\
+    \f{ # }\z{升麻}\f{ # }\z{●牡丹}\f{ # }\z{○虎掌}\f{ # }\z{○朮}\f{ # }\z{防己}\f{ # }\z{●石膏}\f{ # }\z{牡蠣}\f{<a>}\z{﹝三﹞}\f{</a>}\f{ # }\z{貝齒}\f{<a>}\z{﹝四﹞}\f{</a> # }\z{鱉甲}\\
+    \f{ # }\z{●犀角}\f{ # }\z{●零}\f{<a>}\z{﹝五﹞}\f{</a>}\z{羊角}\f{ # }\z{蔥白}\f{ # }\z{○生薑}\f{ # }\z{●豉}\f{ # }\z{●溺}\f{<a>}\z{﹝六﹞}\f{</a>}\f{ # }\z{●芒消}\\
+    \f{</list>}
+  \end{typeChinese}
+
+\begin{figure}[h]
+  \begin{minipage}[b]{5 cm}
+    \begin{centering}
+    \includegraphics[height=20cm]{image1}
+    \caption{Footnote marks}
+    \label{fig1}
+    \end{centering}
+  \end{minipage}
+  \begin{minipage}[b]{5 cm}
+    \begin{centering}
+    \includegraphics[height=20cm]{image3}
+    \caption{ Kaiti \chin{楷體}}
+    \label{fig3}
+    \end{centering}
+  \end{minipage}
+  \begin{minipage}[b]{5 cm}
+    \begin{centering}
+    \includegraphics[height=20cm]{image4}
+    \caption{Itemized lists}
+    \label{fig4}
+    \end{centering}
+  \end{minipage}
+\end{figure}
+
+\end{document}
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 

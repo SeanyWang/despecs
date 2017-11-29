@@ -1,0 +1,118 @@
+%!TEX TS-program = xelatex 
+%!TEX encoding = UTF-8 Unicode 
+
+\documentclass[fontsize=11pt, paper=a4, 
+DIV15,
+normalheadings,
+parskip=half-, 
+pointlessnumbers]{scrartcl}
+
+\usepackage[british]{babel} 
+
+\usepackage{fontspec,xltxtra,xunicode} 
+\defaultfontfeatures{Mapping=tex-text} 
+
+\setromanfont[Mapping=tex-text]{DejaVu Serif}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica} 
+\setmonofont[Scale=1.0]{Courier New} 
+
+\frenchspacing
+
+\usepackage{graphicx}
+\graphicspath{{./Bilder/}}
+
+\usepackage{longtable}
+
+\usepackage{philokalia}
+
+%%%
+
+\input{abbreviations/abbreviations}
+
+\begin{document}
+
+\begin{center}
+{\fontspec{Helvetica}{\LARGE \textbf{
+Special Instructions for Barrow 1674 and Clavius 1586
+\\[3mm]
+(Addendum to Data Entry Specs 1.1.2) 
+}}} \\[5mm]
+\large Wolfgang Schmidle, Klaus Thoden, Malcolm D. Hyman
+
+\normalsize Max Planck Institute for the History of Science, Berlin, Germany
+
+\today
+\end{center}
+
+\section{Barrow 1674}
+
+\begin{mainrule}
+Rule 1: If a formula contains curly braces followed by text that is broken into separate lines, do not type a return after the lines. Instead, type §\\§ to separate the lines.
+\end{mainrule}
+
+%\vspace{3mm}
+\begin{example}[1: \, Barrow p. 115]
+
+\vspace{-5mm}
+\begin{typeLatin}
+fiat \{ I - R. I:: B C. B Z; \& \bold{\bs\bs} I. R:: D Z. D Y.
+\end{typeLatin}
+
+\end{example}
+
+%\vspace{3mm}
+\begin{example}[2: \, Barrow p. 120]
+
+\vspace{-5mm}
+\begin{typeLatin}
+In vitro, $i C B = 15, erit \{ Z C = 9 \bold{\bs\bs} Z B = 24 \} & \{ A Z = 16. \bold{\bs\bs} A B = 40.
+\end{typeLatin}
+
+\end{example}
+
+\begin{mainrule}
+Rule 2: Type \, \includegraphics[height=5mm]{Barrow_kuerzer} \, as §--]§ and \, \includegraphics[height=5mm]{Barrow_laenger} \, as §[--§.
+\end{mainrule}
+
+
+\section{Clavius 1586}
+
+\begin{mainrule}
+Rule 1. In the case of a table element that spans more than one cell, repeat the symbol §#§ before the table element for each cell spanned by the element, e.g. §####§ for an element spanning four cells. 
+\end{mainrule}
+
+\begin{clarification}
+Do not type spaces between the §#§ symbols in this case. This rule applies even if the spanning element is the first element in a table row.
+\end{clarification}
+
+\begin{note}
+In all other cases there should be a space before and after each §#§ symbol.
+\end{note}
+
+\vspace{3mm}
+\begin{mainrule}
+Rule 2. Within tables cells, if text is broken into separate lines, do not type a return after the lines. Instead, type §\\§ followed by a space to separate the lines.
+\end{mainrule}
+
+%\vspace{3mm}
+\begin{example}[: \, Clavius p. 11]
+
+\vspace{-5mm}
+\begin{typeLatin}
+\bold{<tb>} \\
+\someText \\
+44. \bold{#} 20. \bold{#} Quod $secundo loco \bold{#} Quod primo loco \\
+47. \bold{###} Secunda figura cum prima paginæ 48. locum permutet. \\
+48. \bold{###} Prima figura \someText in tertio ca$u de- \bs\bs mon$trationis \someText paginæ 48. \\
+\someText \\
+\bold{</tb>} \\
+\end{typeLatin}
+%48. \bold{###} Prima figure cum $ecunda paginæ 47. locum permutet: & in tertio ca$u de- \bs\bs mon$trationis adhibeatur $secunda figura paginæ 48. \\
+
+\end{example}
+
+\begin{mainrule}
+Rule 3. In the tables on pp. 144 - 179 and pp. 214 - 303, do not type the vertical text.
+\end{mainrule}
+
+\end{document}

@@ -1,9 +1,0 @@
-1_1_with_appendix: mit Zeile \input{DESpecs_1_1_appendix_part2} in DESpecs
-
-1_1: ohne diese Zeile
-
-1_1_appendix: manuell Kopie von 1_1_with_appendix erstellen, alle Seiten vor Appendix C löschen
-
-1_1_overview: Kopie von DESpecs_1_1_appendix_part1 mit Zusatz _overview, dort manuell das erste \newpage löschen (das kann sich in späteren Versionen wieder ändern!) 
-
---> Nur die letzten drei Versionen hochladen!

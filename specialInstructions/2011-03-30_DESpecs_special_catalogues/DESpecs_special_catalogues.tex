@@ -1,0 +1,197 @@
+%!TEX TS-program = xelatex 
+%!TEX encoding = UTF-8 Unicode 
+
+\documentclass[fontsize=11pt, paper=a4, 
+DIV15,
+headings=normal,
+parskip=half-, 
+numbers=noenddot]{scrartcl}
+
+\usepackage[british]{babel} 
+
+\usepackage{fontspec,xltxtra,xunicode} 
+\defaultfontfeatures{Mapping=tex-text} 
+
+\setromanfont[Mapping=tex-text]{DejaVu Serif}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica} 
+\setmonofont[Scale=1.0]{Courier New} 
+
+\frenchspacing
+
+\usepackage{graphicx}
+\graphicspath{{../../Bilder/}}
+
+\usepackage{longtable}
+
+%%%
+
+\input{../../abbreviations/abbreviations_2}
+
+\newcommand{\hash}{{\char"0023}}
+\newenvironment{typeChinese}{\begin{alltt}\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}}
+\newenvironment{typeChineseSmall}{\begin{alltt}\footnotesize\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}}
+
+\newcommand{\chin}[1]{{\fontspec{Sun-ExtA}{#1}}}
+\newcommand{\sunExtA}[1]{{\fontspec{Sun-ExtA}{#1}}}
+\newcommand{\sunExtB}[1]{{\fontspec{Sun-ExtB}{#1}}}
+
+\newcommand{\mincho}[1]{{\fontspec{MS Mincho}{#1}}}
+\newcommand{\hira}[1]{{\fontspec{HiraMinPro-W3}{#1}}}
+
+% Verkürzung von \bold und \chin:
+% schon vorhanden: ch, c, s;  b, bf
+% noch nicht vorhanden: sun (bringt aber nicht viel)
+\newcommand{\f}[1]{\bold{#1}} % f für fett
+\newcommand{\z}[1]{\chin{#1}} % z für Zeichen
+
+\newcommand{\smlb}{\bold{\textbackslash\textbackslash}}
+%%%
+
+\begin{document}
+
+\begin{center}
+{\fontspec{Helvetica}{\LARGE \textbf{
+Special Instructions for Danshengtang
+\\[3mm]
+(Addendum to DESpecs for Chinese text 2.1) 
+}}} \\[5mm]
+\large Wolfgang Schmidle, Martina Siebert, Cathleen Päthe
+
+\normalsize Max Planck Institute for the History of Science, Berlin, Germany
+
+\today
+\end{center}
+
+
+\section{Collected Works \chin{澹生堂集}}
+
+
+\begin{mainrule}
+Type the handwritten underlinings as described in the DESpecs 2.1, page 15. In addition, use §<pl> </pl>§ for dotted lines.
+
+However, please type single circles and dots as punctuation marks. If there is an underlining immediately before the punctuation mark, include the character (but not the punctuation mark).
+\end{mainrule}
+
+\begin{tabular}{@{}ll}
+\parbox[b]{125mm}{
+\htsc{Example } \\[17mm]
+\begin{typeChinese}
+... \bold{<pl>}\chin{其節短矣}\bold{</pl>}\chin{。旣猛烈而益} ... \\
+... \chin{由是而別。使}\bold{<cl>}\chin{臨敵者氣}\bold{</cl>} ... \\
+... \bold{<pl>}\chin{必固矣}\bold{</pl>}\chin{。}\bold{<pl>}\chin{然必車製合宜}\bold{</pl>}\chin{。} ... \\[12mm]
+\end{typeChinese}
+} & \qquad
+\includegraphics[height=6cm]{Specs-Bild3}
+\end{tabular}
+
+\vspace{-7mm}
+\begin{clarification}
+(We have ignored the tone mark next to \chin{別} in this example.)
+\end{clarification}
+
+\section{Mantang \chin{漫堂鈔本} (\chin{澹生堂藏書目})}
+
+
+\begin{mainrule}
+This text is handwritten. Consequently, make use of the full range of Unicode, but do NOT mark character variants if they are not in Unicode. 
+\end{mainrule}
+
+\begin{clarification}
+For example, the character \z{册} occurs as standard character and as a variant. Type both the standard character and the variant as \z{册}.
+\end{clarification}
+
+\begin{mainrule}
+Do not type the running heads, neither from the facsimile nor from the original book. However, DO type the facsimile page numbers in square brackets.
+\end{mainrule}
+
+\begin{clarification}
+If you can identify a single space within a name etc. as a decorative space, do not type it (see the DESpecs page 6).
+\end{clarification}
+
+\newpage
+%\vspace{5mm}
+\begin{example}[: page 0580]
+
+\vspace{-5mm}
+\begin{typeChineseSmall}
+
+\f{<toc>} \\
+\f{<pb a [}\z{五五八}\f{]>}\red{\f{<rh>}\z{續修四庫全書　史部　目錄類}\f{</rh>}} \\
+\f{<h>}\z{圖說計六則}\f{</h>} \\
+\f{<p>}\z{小學之目為爾雅為蒙書為家訓為纂訓為}\f{<001>}\z{學為}\f{</p>} \\
+\f{<p>}\z{字學計六則}\f{</p>} \\
+\f{<p>}\z{經部凡十二類共六十二目}\f{</p>} \\
+\f{<pb c>} \\
+\f{<h>}\z{澹生堂}\f{<002>}\z{書目}\f{(}\z{經部}\f{)</h>} \\
+\f{<p>}\z{山陰祁氏}\f{<}\z{收}\f{R>}\z{集}\f{</p>} \\
+\f{<p>}\z{易}\f{(}\z{古易}\f{\smlb}\z{圖譜}\f{)}\z{　}\f{(}\z{章句註傳}\f{\smlb}\z{拈}\f{<}\z{鮮}\f{V>}\z{考正}\f{)}\z{　}\f{(}\z{疏義集鮮}\f{\smlb}\z{識緯}\f{)}\z{　}\f{(}\z{詳說}\f{\smlb<004>}\z{易}\f{)}\z{　}\f{(}\z{蓍卜}\f{)</p>} \\
+\f{<p>}\z{三墳}\f{(}\z{一}\f{<003>\smlb}\z{一冊}\f{)}\z{　周易古文}\f{(}\z{二卷}\f{\smlb}\z{二冊}\f{)}\z{　}\f{(}\z{楊時喬}\f{)</p>} \\
+\z{古易筌}\f{(}\z{二十九}\f{<003>\smlb}\z{鄧伯羔}\f{)}\z{　周易古本}\f{(}\z{一卷}\f{\smlb}\z{一冊}\f{)}\z{　}\f{(}\z{羅夫竑}\f{)} \\
+\z{古易}\f{<004>}\z{編}\f{(}\z{詞意集十三}\f{<003>}\z{　}\f{(}\z{象數集十三}\f{<003>}\z{　}\f{(}\z{虞仲}\f{\smlb}\z{翔等傳}\f{)}\z{　}\f{ (}\z{變占集二卷}\f{)}\z{　}\f{(}\z{共八冊}\f{)}\z{　}\f{(}\z{李本}\f{)</p>} \\
+\f{<p i>(}\z{圖輯}\f{)</p>} \\
+\f{<p>}\z{羲經十一翼}\f{(}\z{五卷}\f{)\smlb}\z{兆文　}\f{(}\z{六冊}\f{)}\z{　}\f{(}\z{巳上六種俱古易}\f{)}\z{　}\f{(}\z{傳}\f{)</p>} \\
+\f{<p>}\z{周易真文}\f{(}\z{二卷}\f{)}\z{　周易傳義}\f{(}\z{二十四卷}\f{\smlb}\z{冊}\f{)}\z{　}\f{(}\z{一套}\f{)}\z{　}\f{(}\z{八}\f{)</p>} \\
+\f{<pb d>} \\
+\f{<p>}\z{周易本義}\f{(}\z{四卷}\f{)}\z{　周易本義通釋}\f{(}\z{十卷}\f{)}\z{　}\f{(}\z{四冊}\f{\smlb}\z{胡炳文}\f{)</p>} \\
+\f{<p>}\z{易經程傳}\f{(}\z{十二}\f{\smlb}\z{卷}\f{)}\z{　}\f{(}\z{程顧}\f{)}\z{　易經大全}\f{(}\z{十四卷}\f{)</p>} \\
+\f{<p>}\z{易經旁訓}\f{(}\z{三卷}\f{)}\z{　京氏易傳}\f{(}\z{三卷}\f{\smlb}\z{京房蓍}\f{)}\z{　}\f{(}\z{一冊}\f{)</p>} \\
+\f{<p>}\z{周易例略}\f{(}\z{一卷}\f{\smlb}\z{一冊}\f{)}\z{　}\f{(}\z{王弼著}\f{\smlb}\z{邢註}\f{)}\z{　鄭康成周易註}\f{(}\z{一}\f{<003>)</p>} \\
+\f{<p>}\z{楊慈湖易傳}\f{(}\z{二十}\f{<003>\smlb}\z{一套}\f{)}\z{　}\f{(}\z{四冊}\f{\smlb}\z{宋楊簡}\f{)</p>} \\
+\f{<p>}\z{楊誠齊易傳}\f{(}\z{二十}\f{<003>\smlb}\z{宋楊萬里}\f{)}\z{　}\f{(}\z{八冊}\f{)</p>} \\
+\f{<p>}\z{今易銓}\f{(}\z{二十}\f{\smlb}\z{四卷}\f{)}\z{　}\f{(}\z{鄧伯羔}\f{)}\z{　易鮮}\f{(}\z{一卷}\f{)}\z{　}\f{(}\z{載升庵雜録}\f{\smlb}\z{巳上俱章句注傳}\f{)</p>} \\
+\f{<p>}\z{周易註疏}\f{(}\z{九卷}\f{\smlb}\z{八冊}\f{)}\z{　周易鮮詁}\f{(}\z{三卷}\f{)</p>} \\
+\f{<p>}\z{周易今文集說}\f{(}\z{九卷}\f{\smlb}\z{九冊}\f{)}\z{　}\f{(}\z{楊時喬}\f{)</p></toc>} \\
+\f{<toc>} \\
+\f{<pb a [}\z{五五九}\f{]>} \\
+\f{<ti>}\z{澹生堂藏書目　經部}\f{</ti>} \\
+\f{<p>}\z{周易集鮮}\f{(}\z{十卷}\f{\smlb<003>)}\z{　}\f{(}\z{五冊}\f{)}\z{　}\f{(}\z{唐李鼎祚}\f{)}\z{　}\f{(}\z{易鮮附録一}\f{)</p>} \\
+\f{<p>}\z{易學四周}\f{(}\z{八}\f{<003>\smlb}\z{八冊}\f{)}\z{　}\f{(}\z{季本}\f{)</p>} \\
+\f{<p>}\z{來}\f{<005>}\z{鮮易集註}\f{(}\z{十六}\f{<003>)}\z{　}\f{(}\z{十冊}\f{)}\z{　}\f{(}\z{來知德輯}\f{)</p>} \\
+\f{<p>}\z{周易義海撮要}\f{(}\z{一}\f{<003>\smlb}\z{要}\f{)}\z{　}\f{(}\z{一冊}\f{)}\z{　}\f{(}\z{房審權編}\f{)}\z{　}\f{(}\z{李衡撮}\f{)</p>} \\
+\f{<p><006>}\z{氏易鮮}\f{(}\z{八}\f{<003>\smlb}\z{四冊}\f{)}\z{　}\f{(}\z{蘇軾}\f{)}\z{　東坡易傳}\f{(}\z{九卷}\f{\smlb}\z{一冊}\f{)</p>} \\
+\f{<p>}\z{朱子易學啟蒙}\f{(}\z{四}\f{<003>)}\z{　}\f{(}\z{四冊}\f{)}\z{　}\f{(}\z{朱文公}\f{)</p>} \\
+\f{<p>}\z{易學啟蒙集註}\f{(}\z{五}\f{<003>)}\z{　}\f{(}\z{五冊}\f{)}\z{　}\f{(}\z{楊時喬}\f{)</p>} \\
+\f{<p>}\z{周易玩辭}\f{(}\z{十六}\f{<003>\smlb}\z{四冊}\f{)}\z{　}\f{\smlb(}\z{項世安}\f{)}\z{　吳草}\f{<007>}\z{易纂言}\f{(}\z{六}\f{<003>\smlb}\z{四冊}\f{)}\z{　}\f{(}\z{吳澄}\f{)</p>} \\
+\f{<p>}\z{周易說}\f{<008>(}\z{四}\f{<003>\smlb}\z{四冊}\f{)}\z{　}\f{(}\z{羅倫}\f{)}\z{　周易象指}\f{??}\z{決録}\f{(}\z{七}\f{<003>\smlb}\z{六冊}\f{)}\z{　}\f{(}\z{態過}\f{)</p>} \\
+\f{<pb b>} \\
+\f{<p>}\z{周易筆意}\f{(}\z{十五}\f{<003>\smlb}\z{三冊}\f{)}\z{　}\f{\smlb(}\z{陶廷奎}\f{)}\z{　學易記}\f{(}\z{五卷}\f{\smlb}\z{三冊}\f{)}\z{　}\f{(}\z{金賁亨}\f{)</p>} \\
+\f{<p>}\z{易象大指}\f{(}\z{八卷}\f{\smlb}\z{四冊}\f{)}\z{　}\f{(}\z{薛甲}\f{)}\z{　易象鮮}\f{(}\z{六}\f{<003>\smlb}\z{二冊}\f{)}\z{　}\f{(}\z{劉濂}\f{)</p>} \\
+\f{<p>}\z{周易億}\f{(}\z{四}\f{<003>\smlb}\z{王文定公遺書}\f{)}\z{　}\f{(}\z{王道}\f{)}\z{　}\f{(}\z{載}\f{)}\z{　周易傳義補疑}\f{(}\z{十二}\f{<003>\smlb}\z{六冊}\f{)}\z{　}\f{(}\z{姜寶}\f{)</p>} \\
+\f{<p>}\z{周易生生篇}\f{(}\z{三}\f{<003>\smlb}\z{三冊}\f{)}\z{　}\f{(<006>}\z{濬}\f{)}\z{　周易義訓}\f{(}\z{十卷}\f{\smlb}\z{十冊}\f{)}\z{　}\f{(}\z{任惟賢}\f{)</p>} \\
+\f{<p>}\z{九正易因}\f{(}\z{十}\f{<003>\smlb}\z{四冊}\f{)}\z{　}\f{(}\z{李贄}\f{)}\z{　易經象義}\f{(}\z{十}\f{<003>\smlb}\z{四冊}\f{)}\z{　}\f{(}\z{章潢}\f{)</p>} \\
+\f{<p>}\z{易大象測}\f{(}\z{一}\f{<003>\smlb}\z{一冊}\f{)}\z{　}\f{(}\z{俱萬尚}\f{\smlb}\z{烈}\f{)}\z{　易替測}\f{(}\z{二}\f{<003>\smlb}\z{二冊}\f{)</p>} \\
+\f{<p>}\z{易大象說}\f{(}\z{二}\f{<003>\smlb}\z{二冊}\f{)}\z{　周易就正略義}\f{(}\z{五}\f{<003>\smlb}\z{陳嘉謨}\f{)}\z{　}\f{(}\z{二冊}\f{)</p>} \\
+\f{<p>}\z{周易指要}\f{(}\z{三}\f{<003>\smlb}\z{一冊}\f{)}\z{　}\f{(}\z{方社昌}\f{)}\z{　沈氏易學}\f{(}\z{十二}\f{<003>)}\z{　}\f{(}\z{六冊}\f{)}\z{　}\f{(}\z{沈一貫}\f{)</p>} \\
+\f{<p>}\z{郭司馬易鮮}\f{(}\z{十五}\f{<003>\smlb}\z{冊}\f{)}\z{　}\f{(}\z{六}\f{\smlb}\z{郭子章}\f{)}\z{　乾坤二卦集鮮}\f{(}\z{三卷}\f{\smlb}\z{一冊}\f{)</p>} \\
+\f{<pb c>} \\
+\f{<p>}\z{易經繹}\f{(}\z{五}\f{<003>\smlb}\z{二冊}\f{)}\z{　}\f{(}\z{鄧元錫}\f{)}\z{　易測}\f{(}\z{十}\f{<003>\smlb}\z{四冊}\f{)}\z{　}\f{(}\z{魯朝節}\f{)</p>} \\
+\f{<p>}\z{易說}\f{(}\z{九}\f{<003>\smlb}\z{六冊}\f{)}\z{　}\f{(}\z{徐即登}\f{)</p>} \\
+\f{<p>}\z{洗心齊讀易述}\f{(}\z{十七}\f{<003>)}\z{　}\f{(}\z{十三冊}\f{)}\z{　}\f{(}\z{潘士藻}\f{)</p>} \\
+\f{<p>}\z{易經疑問}\f{(}\z{十二卷}\f{\smlb}\z{冊}\f{)}\z{　}\f{(}\z{八}\f{\smlb}\z{姚舜牧}\f{)}\z{　易筌}\f{(}\z{六}\f{<003>\smlb}\z{六冊}\f{)}\z{　}\f{(}\z{焦竑}\f{)</p>} \\
+\f{<p>}\z{像象管見}\f{(}\z{六卷}\f{\smlb}\z{四冊}\f{)}\z{　}\f{(}\z{錢一本}\f{)}\z{　易知齊易說}\f{(}\z{一}\f{<003>\smlb}\z{一冊}\f{)}\z{　}\f{(}\z{李登}\f{)</p>} \\
+\f{<p>}\z{易像管}\f{<009>(}\z{十五卷}\f{\smlb}\z{冊}\f{)}\z{　}\f{(}\z{八}\f{\smlb}\z{黃正憲}\f{)}\z{　周易宗義}\f{(}\z{十二}\f{<003>\smlb}\z{十二冊}\f{)}\z{　}\f{(}\z{程汝}\f{\smlb}\z{繼}\f{)</p>} \\
+\f{<p>}\z{周易繹}\f{<008>(}\z{七卷}\f{)}\z{　}\f{(}\z{四冊}\f{\smlb}\z{又更定易繹}\f{<008>)}\z{　}\f{(}\z{俱吳烔}\f{\smlb}\z{卷冊同}\f{)</p>} \\
+\f{<p>}\z{周易畧義}\f{(}\z{乾坤至}\f{<010>}\z{八卦}\f{)}\z{　}\f{(}\z{一}\f{<003>)}\z{　}\f{(}\z{一冊}\f{)}\z{　}\f{(}\z{劉一焜}\f{)</p>} \\
+\f{<p>}\z{易}\f{<012>(}\z{五}\f{<003>\smlb}\z{五冊}\f{)}\z{　}\f{(}\z{喻安性}\f{)}\z{　易會}\f{(}\z{八卷}\f{\smlb}\z{四冊}\f{)}\z{　}\f{(}\z{鄒德溥}\f{)</p>} \\
+\f{<pb d>} \\
+\f{<p>}\z{易筏}\f{(}\z{六卷}\f{\smlb}\z{六冊}\f{)}\z{　}\f{(}\z{張燧輯}\f{)}\z{　易}\f{<013>(}\z{三}\f{<003>\smlb}\z{一冊}\f{)}\z{　}\f{(}\z{陳履祥}\f{)</p>} \\
+\f{<p><014>}\z{窩易因指}\f{(}\z{八卷}\f{\smlb}\z{八冊}\f{)}\z{　}\f{(}\z{張汝}\f{\smlb}\z{霖}\f{)}\z{　易略}\f{(}\z{三卷}\f{\smlb}\z{一冊}\f{)}\z{　}\f{(}\z{陸夢龍}\f{)</p>} \\
+\f{<p>}\z{鄭孔肩易臆}\f{(}\z{三}\f{<003>\smlb}\z{一冊}\f{)}\z{　}\f{(}\z{鄭圭}\f{)}\z{　讀書心印}\f{(}\z{七}\f{<003>\smlb}\z{五冊}\f{)}\z{　}\f{(}\z{朱篁}\f{)</p>} \\
+\f{<p>}\z{居易齊讀易雜言}\f{(}\z{一卷}\f{\smlb}\z{冊}\f{)}\z{　}\f{(}\z{一}\f{\smlb}\z{朱篁}\f{)</p>} \\
+\f{<p>}\z{易賸}\f{(}\z{六}\f{<003>)}\z{　}\f{(}\z{三冊}\f{)}\z{　}\f{(}\z{王應遴}\f{)</p>} \\
+\f{<p>}\z{易鮮俚語}\f{(}\z{一卷}\f{)}\z{　}\f{(}\z{林子分內集}\f{)}\z{　}\f{(}\z{林兆恩}\f{\smlb}\z{巳上俱詳說}\f{)</p>} \\
+\f{<p>}\z{卦名鮮}\f{(}\z{一卷}\f{)}\z{　}\f{(}\z{王安石}\f{\smlb}\z{載本集}\f{)}\z{　易象論}\f{)}\z{一卷}\f{)}\z{　}\f{)}\z{王安石}\f{\smlb}\z{載本集}\f{)</p>} \\
+\f{<p>}\z{易}\f{<015>}\z{子問}\f{(}\z{三}\f{<003>)}\z{　}\f{(}\z{歐陽修}\f{\smlb}\z{載本集}\f{)}\z{　張橫渠易說}\f{(}\z{三}\f{\smlb<003>)}\z{　}\f{(}\z{張載}\f{\smlb}\z{載本集}\f{)</p>} \\
+\f{<p>}\z{李泰伯易論}\f{(}\z{一}\f{\smlb<003>)}\z{　}\f{(}\z{載本集}\f{)}\z{　讀易私言}\f{(}\z{一卷}\f{)}\z{　}\f{(}\z{許衡}\f{\smlb}\z{載本集}\f{)</p>} \\
+\f{</toc>} \\
+\end{typeChineseSmall}
+
+\end{example}
+
+\vspace{-3mm}
+\begin{note}
+This example does not contain §<list>§ because page 0580 is part of a list that begins before this page and ends after this page.
+\end{note}
+
+
+\end{document}

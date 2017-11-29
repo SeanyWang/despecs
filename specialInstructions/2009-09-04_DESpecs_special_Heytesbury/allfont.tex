@@ -1,0 +1,97 @@
+% allfont.tex    Test Rotunda fonts
+\documentclass{article}
+%\documentclass[12pt]{article}
+\usepackage{allrtnd}
+
+\newcommand{\romannum}[1]{\romannumeral #1}
+\newcommand{\Romannum}[1]{\uppercase\expandafter{\romannumeral #1}}
+\newcommand{\ABC}{ABCDEFGHIJKL MNOPQRSTUVWXYZ}
+\newcommand{\abc}{abcdefghijkl mnopqrstuvwxyz}
+\newcommand{\punct}{.,;:!?`' \&{} () []}
+\newcommand{\dashes}{- -- ---}
+\newcommand{\figs}{0123456789}
+\newcommand{\sentence}{%
+this is an example of the rotunda font. now is the time for all good
+men, and women, to come to the aid of the party while the quick brown fox
+jumps over the lazy dog.}
+
+\newcommand{\Sentence}{%
+This is an example of the Rotunda font. Now is the time for all good
+men, and women, to come to the aid of the party while the quick brown fox
+jumps over the lazy dog.}
+
+\newcommand{\latin}{Te canit adcelebratque polus rex gazifer hymnis.
+  Trans zephyrique globum scandunt tua facta per axem.
+  Explicit secunda pars summe fratris thome de aquino ordinis fratrum 
+  predicatorium, longissima, prolixissima, \& tediosissima scribent;
+  Deo gratias, Deo gratias, et iterumm Deo gratias. }
+
+\title{Try Rotunda Fonts}
+\author{}
+\date{}
+%%\pagenumbering{roman}
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+\section{The character set}
+
+    This provides a short test of the characters in the Rotunda fonts
+--- the \verb|rtnd| font family.
+
+
+
+\begin{center}
+The Rotunda Huge normal font. \\ \par
+{\Huge \ABC\\ \abc\\ \punct{}\dashes\\ \figs\\ \par }
+\end{center}
+
+
+\begin{center}
+The Rotunda font in its normal size \\
+{\ABC{} \abc{} \figs} \\
+\end{center}
+
+\begin{center}
+The bold normal font, the normal font, and the bold Computer Modern
+Roman, all in the normal size \\
+{\textbf{\abc{} \figs}} \\
+{\abc{} \figs} \\
+\textcmr{\textbf{\abc{} \figs}} \\
+\end{center}
+
+\begin{center}
+The bold versions, in Huge and tiny sizes. \par
+\bfseries
+\Huge \abc{} \figs \par
+\tiny \abc{} \figs \par
+\end{center}
+
+\begin{center}
+The font in the tiny size \\ \par
+{\tiny \ABC{} \\ \abc\\ \figs\\ \par } 
+\end{center}
+
+\begin{center}
+    Some ligatures in the normal font \\
+{``the lazy dog --- but quick fox?''}
+\end{center}
+
+\section{Example texts}
+
+    First some well known English phrases in an abcedarian sentence.
+
+\Sentence{}
+
+    After this there are two Latin abecedarian sentences dating from about 
+\Romannum{790}, and another sentence from roughly the same period.
+
+\latin{}
+
+    
+\textcmss{This is the end of the test file, with this sentence being typeset
+using the Computer Modern Sans font in the point size as specified for this
+document.}
+
+\end{document}

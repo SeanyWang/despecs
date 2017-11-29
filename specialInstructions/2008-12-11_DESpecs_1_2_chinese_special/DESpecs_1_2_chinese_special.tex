@@ -1,0 +1,161 @@
+%!TEX TS-program = xelatex 
+%!TEX encoding = UTF-8 Unicode 
+
+\documentclass[fontsize=11pt, paper=a4, 
+DIV15,
+normalheadings,
+parskip=half-, 
+pointlessnumbers]{scrartcl}
+
+\usepackage[british]{babel} 
+
+\usepackage{fontspec,xltxtra,xunicode} 
+\defaultfontfeatures{Mapping=tex-text} 
+
+\setromanfont[Mapping=tex-text]{DejaVu Serif}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica} 
+\setmonofont[Scale=1.0]{Courier New} 
+
+\frenchspacing
+
+\usepackage{graphicx}
+\graphicspath{{./Bilder/}}
+
+\usepackage{longtable}
+
+\usepackage{philokalia}
+
+%%%
+
+\input{abbreviations/abbreviations_test}
+
+\begin{document}
+
+\begin{center}
+{\fontspec{Helvetica}{\LARGE \textbf{
+%Data Entry Specs 1.2 \\[3mm]
+%\Large Special Instructions for Chinese Texts
+Special Instructions for Chinese Texts in Batch 1 \\[3mm]
+\Large (Addendum to the Data Entry Specs 1.2, version for Chinese texts)
+}}} \\[5mm]
+\large Wolfgang Schmidle, Martina Siebert, Martin Hofmann, \\[1mm] Klaus Thoden, Malcolm D. Hyman
+
+\normalsize Max Planck Institute for the History of Science, Berlin, Germany
+
+\today
+\end{center}
+
+
+\tableofcontents
+
+\vspace{15mm}
+
+\newcommand{\hash}{{\char"0023}}
+\newcommand{\chin}[1]{{\fontspec{SimSun}{#1}}}
+\newenvironment{typeChinese}{\begin{alltt}\s\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}}
+
+
+
+%In general: Give them the information about the heading levels in each book, or is the rule clear enough?
+
+%\subsection{Text 11 (The Handwritten Text)}
+
+%\subsubsection{Text Emendations}
+
+%\begin{mainrule}
+%If a character has been crossed out, mark it by §{ }§. If there is a corrected character next to the crossed-out character, mark this by §{ / }§.
+%%If there is a line between two consecutive characters indicating that the order should be reversed, insert §~§ between the characters, but type them in the order as they appear in the text.
+%If there is a line between two consecutive characters indicating that the order should be reversed, mark this by §{ ~ }§, but type the characters in the order as they appear in the text.
+%\end{mainrule}
+
+%
+%\begin{tabular}{@{}ll}
+%\parbox[b]{8cm}{
+%\htsc{Examples} \\[25mm]
+%\begin{typeChinese}
+%xx\bold{\{}x\bold{\}}xx \\ \\
+%xxxx\{x/x\}\{x/x\}xx \\ \\
+%xx\bold{\tld}xxx \\ 
+%\end{typeChinese}
+%} & \qquad
+%\includegraphics[height=6cm]{Specs-Bild2-kt}
+%\end{tabular}
+
+%Or something like §<del>x</del>§, §<repl>xx</repl>§ and §<rev>xx</re>§?
+
+
+%\subsection{Text 14}
+%Rule for mathematics, e.g. $a^2 + b^2 = c^2$ on p.57?
+
+\section{Xifa shenji \, \chin{西法神機}}
+
+\begin{mainrule}
+Type the handwritten underlinings. Use §{ }§ for dotted lines. Use §[ ]§ for circles or circled lines. Use §( )§ for small circles. 
+\end{mainrule}
+
+\begin{clarification}
+Do not treat circles as punctuation marks.
+Do not mark the red colour.
+\end{clarification}
+
+%\begin{clarification}
+%A circled line may consist of dots, circles and wedges.
+%\end{clarification}
+
+%\begin{tabular}{@{}ll}
+%\parbox[b]{8cm}{
+%\htsc{Example } \\[32mm]
+%\begin{typeChinese}
+%\bold{<cl>}\chin{其節短矣}\bold{</cl>}\chin{既猛烈而益} \\
+%\chin{由是而}\bold{<cl>}\chin{別}\bold{</cl>}\chin{。使}\bold{<cl>}\chin{臨敵者氣}\bold{</cl>} \\
+%\bold{<cl>}\chin{必固矣然必車製合宜}\bold{</cl>} \\
+%\end{typeChinese}
+%} & \qquad
+%\includegraphics[height=6cm]{Specs-Bild3}
+%\end{tabular}
+
+\begin{tabular}{@{}ll}
+\parbox[b]{125mm}{
+\htsc{Example } \\[17mm]
+\begin{typeChinese}
+\bold{\{}\chin{其節短}\bold{\}[}\chin{矣}\bold{]}\chin{既猛烈而益} \\
+\chin{由是而}\bold{[(}\chin{別}\bold{)]}\chin{使}\bold{[}\chin{臨敵者氣}\bold{]} \\
+\bold{\{}\chin{必固}\bold{\}[}\chin{矣}\bold{]\{}\chin{然必車製合}\bold{\}[}\chin{宜}\bold{]} \\[12mm]
+\end{typeChinese}
+} & \qquad
+\includegraphics[height=6cm]{Specs-Bild3}
+\end{tabular}
+
+\newpage
+
+\section{Minchan lu yi \, \chin{閩產錄異}}
+
+%\subsection{Repaired Text}
+
+\begin{mainrule}
+Repaired text is marked by §<rep>§ and §</rep>§.
+\end{mainrule}
+
+\begin{tabular}{@{}ll}
+\parbox[b]{123mm}{
+\htsc{Example} \\[105mm]
+} & 
+\includegraphics[height=12cm]{text17-1p15}
+\end{tabular}
+
+\begin{typeChinese}
+\bold{<p>}\someText \\
+\chin{天下春社後春分榖米上}\bold{<rep>}\chin{錦墩秋分秋社前斗米一}\bold{</rep>} \\
+\chin{斗錢秋分秋社後斗米一斗豆}\bold{<rep><sm>}\chin{福州以早稻藳作薦}\bold{\bs\bs}\chin{呼草薦用晚稻病癩}\bold{</sm></rep></p>} \\
+\bold{<h 2>}\chin{六十二黃}\bold{</h>}\chin{　}\bold{<p>}\chin{早稻也福州諺曰肩頭}\bold{<rep>}\chin{擔秧六十日言分}\bold{</rep>} \\
+\chin{秧至收成僅六十餘日也蓋六十二}\bold{<rep>}\chin{黃之種成熟最}\bold{<rep>} \\
+\chin{早各郡兩}\bold{<001>}\chin{者亦種之}\bold{</p>} \\
+\end{typeChinese}
+
+\begin{crossref}
+The tag §<001>§ denotes a character that is not included in Unicode 5.1.0, see section 2.5.2 of the Data Entry Specs 1.2, version for Chinese texts.
+The indentation of the paragraph is not marked because the paragraph is preceded by a sub-heading in the same line, see section 2.2.2 of the Data Entry Specs 1.2, version for Chinese texts.
+\end{crossref}
+
+
+\end{document}

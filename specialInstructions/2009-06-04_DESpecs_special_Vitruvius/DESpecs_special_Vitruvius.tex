@@ -1,0 +1,217 @@
+%!TEX TS-program = xelatex 
+%!TEX encoding = UTF-8 Unicode 
+
+\documentclass[fontsize=11pt, paper=a4, 
+DIV15,
+headings=normal, % normalheadings,
+parskip=half-,
+numbers=noenddot % pointlessnumbers
+]{scrartcl}
+
+\usepackage[british]{babel} 
+
+\usepackage{fontspec,xltxtra,xunicode} 
+\defaultfontfeatures{Mapping=tex-text} 
+
+\setromanfont[Mapping=tex-text]{DejaVu Serif}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica} 
+\setmonofont[Scale=1.0]{Courier New} 
+
+\frenchspacing
+
+\usepackage{graphicx}
+\graphicspath{{../../Bilder/}}
+
+\usepackage{longtable}
+
+\usepackage{philokalia}
+
+%%%
+
+\input{../../abbreviations/abbreviations_1}
+
+\begin{document}
+
+\begin{center}
+{\fontspec{Helvetica}{\LARGE \textbf{
+Special Instructions for the “Vitruvius” Work Order
+\\[3mm]
+(Addendum to Data Entry Specs 2.0) 
+}}} \\[5mm]
+\large Wolfgang Schmidle, Klaus Thoden, Malcolm D. Hyman
+
+\normalsize Max Planck Institute for the History of Science, Berlin, Germany
+
+\today
+\end{center}
+
+
+\section{Handwritten Notes}
+
+\begin{mainrule}
+Handwritten underlining is marked by §<ul hd> </ul>§. Handwritten strokes through words are marked by §<st hd> </st>§. 
+\end{mainrule}
+
+%\begin{clarification}
+%§<hd ul>§ and §<hd st>§ are typed on the same line as the underlined or struck-through words. However, all other handwritten notes are still marked by §<hd>§ on a separate line before or after the line of the main text the note is closest to. 
+%% Make sure that each handwritten note is marked. 
+%Do not type the note itself. 
+%\end{clarification}
+
+%\begin{clarification}
+%(Alternative: All other handwritten notes are marked by §<hd>§. 
+%If a handwritten note clearly belongs to a word in the text, type it there. 
+%In particular, type §<hd ul>§ and §<hd st>§ on the same line as the underlined or struck-through words. 
+%Otherwise, type §<hd>§ on a separate line after the line of the main text the note is closest to. 
+%Do not type the note itself.)
+%\end{clarification}
+
+%\begin{clarification}
+%All other handwritten notes are marked by §<hd>§. Place the §<hd>§ tag
+%%where it best describes 
+%according to the position of the handwritten note. If the handwritten note is in the margin, type §<hd>§ on a separate line after the line of the main text the note is closest to. 
+%\end{clarification}
+
+\begin{clarification}
+All other handwritten notes or figures are marked by §<hd>§ on a separate line after the line of the main text to which the note or figure is closest. Do not type the note itself. Do not indicate the ink colour.
+\end{clarification}
+
+\vspace{5mm}
+\begin{sampleImageSmall}[1: \, underlining]{height=8mm}{vitruv1511_123}
+
+\vspace{-3mm}
+\begin{typeLatin}
+vita, \bold{<ul hd>}Epicurus\bold{</ul>} vero \\
+\end{typeLatin}
+\end{sampleImageSmall}
+
+\begin{sampleImageSmall}[2: \, stroke through a word]{height=8mm}{vitruv1513_102}
+
+\vspace{-3mm}
+\begin{typeLatin}
+uocabula, \bold{<st hd>}Pycno$tylos\bold{</st>}, id e$t \\
+\end{typeLatin}
+\end{sampleImageSmall}
+
+%\newpage
+\begin{sampleImage}[3: \, handwritten notes between lines and in the margin]{vitruv1513_99_neu2}
+%\end{sampleImage}
+%\begin{sampleImage}[3: \, handwritten notes between lines and in the margin]{vitruv1513_99_neu}
+
+\vspace{-3mm}
+\begin{typeLatin}
+01  \bold{<p it>} ... \\
+02  hypethros. Horum exprimuntur formationes, his \\
+03  rationibus. In antis erit ædes, cum habebit in fron- \\
+04  \bold{<hd><hd>} \\
+05  te \bold{<st hd>}antas\bold{</st>} parietum, qui \bold{<st hd>}cellam\bold{</st>} circ\bs~ucludunt, & inter \\
+06  \bold{<hd>} \\
+07  antas in medio col\bs~unas duas $upra\bs'q; fa$tigium $ym- \\
+08  metria ea collocatum, quæ in hoc libro fuerit per$cri- \\
+09  \bold{<hd>} \\
+10  pta. Huius autem exemplar erit ad tres fortunas, ex \\
+11  \bold{<hd>} \\
+12  tribus, quod e$t proxime portam collinam.\bold{<hd>} \\
+13  \bold{</p>} \\
+\end{typeLatin}
+\end{sampleImage}
+
+\begin{note}
+The two §<hd>§ in line 04 denote the two crosses above the struck-through words. Line 06 denotes the handwritten note in the margin. Lines 09 and 11 denote handwritten notes between lines of printed text.
+\end{note}
+
+%\begin{sampleImageSmall}[4: \, a handwritten note in the margin]{height=8mm}{vitruv1513_102}
+
+%\vspace{-3mm}
+%\begin{typeLatin}
+%bla \\
+%\bold{<hd>} \\
+%bla \\
+%\end{typeLatin}
+%\end{sampleImageSmall}
+
+\vspace{5mm}
+\begin{sampleImageSmall}[4: \, handwritten note within a figure]{width=8cm}{vitruv1513_81}
+
+\begin{typeLatin}
+\bold{<p it>} ... \\
+telli, Iouis $tatoris, Hermodi, & ad Mariana honoris \\
+& uirtutis $ine po$tico à Mutio facta.\bold{</p>} \\
+\bold{<fig>} \\
+\bold{<hd>} \\
+\bold{</fig>} \\
+\bold{<p it>}P$eudodipteros autem $ic collocatur, ut in fronte & \\
+po$tico $int columnæ octonæ, in lateribus cum angula \\
+... \bold{</p>} \\
+\end{typeLatin}
+\end{sampleImageSmall}
+
+
+\section{Figure Descriptions in the Margin}
+
+\begin{mainrule}
+Marginal notes to the left or right of figures are figure descriptions. Mark them by §<desc> </desc>§.
+\end{mainrule}
+
+\begin{clarification}
+Use one §<desc>§ tag for each paragraph. As always, type the §<desc>§ tags between the §<fig>§ and §</fig>§ lines. The position of the description in the left or right margin is not encoded.
+\end{clarification}
+
+\vspace{3mm}
+\begin{sampleImageSmall}{width=12cm}{vitruv1511_81}
+
+\begin{typeLatin}
+\bold{<p>} ... \\
+tres, e quibus vna plinthus cum cymatio fiat, altera echinus cum anulis, ter \\
+tia hypotrachelio c\bs~otrahatur columnæ, ita vti in tertio libro de ionicis e$t \\
+$criptum.\bold{</p>} \\
+\bold{<fig>} \\
+\bold{<desc>}a. cymati\bs~u\bold{</desc>} \\
+\bold{<desc>}b. plinthus\bold{</desc>} \\
+\bold{<desc>}c. echinus c\bs~u \\
+anulis\bold{</desc>} \\
+\bold{<desc>}d. pars \bs~q hy- \\
+potrachilio \\
+contrahitur \\
+columnæ\bold{</desc>} \\
+\bold{<var>}a b c d\bold{</var>} \\
+\bold{</fig>} \\
+\bold{<p>}Epi$tylii altitudo vnius moduli c\bs~u tenia & guttis, tenia moduli $eptima, \\
+guttarum longitudo $ub tenia contra triglyphos alta c\bs~u regula parte $ex- \\
+... \bold{</p>} \\
+\end{typeLatin}
+\end{sampleImageSmall}
+
+
+\section{Latin Abbreviations and Diacritics}
+
+\begin{mainrule}
+In addition to the ligatures given in the Data Entry Specs 2.0, please resolve the abbreviations §{ur}§ and §{us}§.
+\end{mainrule}
+
+\begin{clarification}
+As always, a tilde above a letter is marked marked by §\~§. Especially above the small letter i, make sure to distinguish between the normal dot above the i and a tilde.
+\end{clarification}
+
+\vspace{3mm}
+\begin{liste}[ : \, additional abbreviations and diacritics]
+
+\includegraphics[height=8mm]{vitruv1511_121} \quad
+\includegraphics[height=8mm]{ornatus} \quad
+\includegraphics[height=8mm]{intercurrunt} \quad
+
+\vspace{-3mm}
+\begin{typeLatin}
+$truant\li{ur}   ornat\li{us}    \bs~itercurrunt
+\end{typeLatin}
+\end{liste}
+
+%\begin{tabular}{lllllllllll} 
+%\\
+%\includegraphics[height=8mm]{neulig_longsi} & §nascit{ur}§ \\[3mm]
+%\includegraphics[height=8mm]{neulig_longsi} & §nascit{ur}§ \\[3mm]
+%\includegraphics[height=8mm]{neulig_longsi} & §nascit{ur}§ \\[3mm]
+%\end{tabular}
+
+
+\end{document}
