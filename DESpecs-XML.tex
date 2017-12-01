@@ -1,21 +1,21 @@
-%!TEX TS-program = xelatex 
-%!TEX encoding = UTF-8 Unicode 
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
 
-\documentclass[fontsize=11pt, paper=a4, 
-twoside, % openright, cleardoubleplain, 
+\documentclass[fontsize=11pt, paper=a4,
+twoside, % openright, cleardoubleplain,
 DIV15,
 headings=normal,
-parskip=half-, 
+parskip=half-,
 numbers=noenddot]{scrartcl}
 
-\usepackage[british]{babel} 
+\usepackage[british]{babel}
 
-\usepackage{fontspec,xltxtra,xunicode} 
-\defaultfontfeatures{Mapping=tex-text} 
+\usepackage{fontspec,xltxtra,xunicode}
+\defaultfontfeatures{Mapping=tex-text}
 
 \setromanfont[Mapping=tex-text]{DejaVu Serif}
-\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica} 
-\setmonofont[Scale=1.0]{Courier New} 
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica}
+\setmonofont[Scale=1.0]{Courier New}
 
 \frenchspacing
 
@@ -30,6 +30,9 @@ numbers=noenddot]{scrartcl}
 
 \usepackage{yfonts}
 
+\usepackage[%obeyDraft,
+  german, colorinlistoftodos]{todonotes}
+  \newcommand{\frage}[1]{\todo[color=green, caption={Frage}]{#1}}
 
 %%%
 
@@ -54,9 +57,11 @@ XML Data Entry Specs 1.0}
 \end{center}
 
 \tableofcontents
+\listoftodos
+
 \newpage
 
-\input{DESpecs_text}
+\input{DESpecs_text-XML}
 \input{DESpecs_appendix}
 
 \end{document}

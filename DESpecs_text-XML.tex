@@ -1,18 +1,20 @@
-%!TEX TS-program = xelatex 
-%!TEX encoding = UTF-8 Unicode 
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
 %!TEX root = DESpecs.tex
 
 
 % {quis}  --> {quod}
 
-
+\frage{Maybe include typing conventions, like saying that attributes are prefixed by @?}
 \section{File Conventions}
 \label{section file conventions}
 
+\frage{Maybe include the skeleton of a TEI file with a minimal header already generated?}
+\frage{German or English? (Write English and then have it translated)}
 \begin{mainruleLessImportant}
-Save the text in plain text format (§.txt§) with Unicode §utf-8§ encoding. If the text is saved in more than one file, number the parts, for example §Euclid_part_001.txt§, §Euclid_part_002.txt§, and so on. Create a §zip§ archive from all files.
+Save the text in XML format (§.xml§) with Unicode §utf-8§ encoding.
 
-We will also need the list of unknown characters (see \sect{section unknown characters}). If the list is handwritten, scan it and save it as PDF file. 
+We will also need the list of unknown characters (see \sect{section unknown characters}). If the list is handwritten, scan it and save it as PDF file.
 \end{mainruleLessImportant}
 
 
@@ -29,41 +31,41 @@ Type the entire contents of one page, then go on to the next page. Do not mix th
 \label{section page breaks}
 
 \begin{mainrule}
-Page breaks are marked by §<pb>§. If the page has a page number, type it within the §<pb>§ tag, e.g. §<pb 6>§. Type the page number exactly as it appears in the book. If there is a running head on the page, it is marked by §<rh>§ and §</rh>§. Type the running head immediately after the §<pb>§ tag. 
+Page breaks are marked by \xms{pb}. If the page has a page number, type it as an attribute \attr{pb}{n} within the \xms{pb} tag, e.g. \xmex{<pb n="6"/>}. Type the page number exactly as it appears in the book. If there is a running head on the page, it is marked by \xml{fw} with an attribute \attr{fw}{type="head"} and \xmcl{fw}. Type the running head immediately after the \xms{pb} tag.
 \end{mainrule}
 
 \begin{clarification}
-Insert a blank line before each §<pb>§ tag. 
-The position of the page number, e.g. at the top or bottom of the page, will not be encoded. Type the §<pb>§ and §<rh>§ tags before you type any content of the page. Do not type spaces within words. If there is a horizontal line below the running head, do not type it.
+Insert a blank line before each \xms{pb} tag.
+The position of the page number, e.g. at the top or bottom of the page, will not be encoded. Type the \xms{pb} and \xml{fw} tags before you type any content of the page. Do not type spaces within words. If there is a horizontal line below the running head, do not type it.
 \end{clarification}
 
 \begin{sampleImage}[ 1: \, arabic page number]{montag_mark_pagenumber_runninghead.jpg}
 \begin{typeLatin}
-\bold{<pb} 2\bold{><rh>}GEOMET. ELEMENT. EVCLIDIS\bold{</rh>} \\
-$unt ӕquales. 16 Et hic quidem punctus, centrum circuli dicitur.\bold{</p>} \\
+\bold{<pb n="2"} \bold{><fw type="head">}GEOMET. ELEMENT. EVCLIDIS\bold{</fw>} \\
+ſunt ӕquales. 16 Et hic quidem punctus, centrum circuli dicitur.\bold{</p>} \\
 \untranscribedText
 \end{typeLatin}
 \end{sampleImage}
 
 \begin{crossref}
-For §$§ and §æ§ see \sect{section characters to be typed directly}. For ligatures, e.g. {\fontspec[Ligatures=Rare]{Hoefler Text} ct}, see \sect{section latin ligatures}. §</p>§ marks the end of a paragraph (\sect{section paragraphs}). For spaces before and after punctuation marks see \sect{section latin punctuation}.
+For and §æ§ see \sect{section characters to be typed directly}. For ligatures, e.g. {\fontspec[Ligatures=Rare]{Hoefler Text} ct}, see \sect{section latin ligatures}. \xmcl{p} marks the end of a paragraph (\sect{section paragraphs}). For spaces before and after punctuation marks see \sect{section latin punctuation}.
 \end{crossref}
 
 \begin{note}
-The §<p>§ for the beginning of the paragraph is on the previous page. 
+The \xml{p} for the beginning of the paragraph is on the previous page.
 \end{note}
 
 \vspace{3mm}
-\begin{sampleImage}[ 2: \, roman page number]{montag_roemische_seitenzahl} 
+\begin{sampleImage}[ 2: \, roman page number]{montag_roemische_seitenzahl}
+\frage{Kann ich roman numerals ins n-Attribut tun?}
 \begin{typeLatin}
-\bold{<pb} vij\bold{><rh>_}PREFACE\bold{_}.\bold{</rh>}
+\bold{<pb n="vij"} \bold{><fw type="head"><hi rend="emph">}PREFACE\bold{</hi>}.\bold{</fw>}
 \end{typeLatin}
 \end{sampleImage}
 
 \begin{crossref}
-For §_ _§ see \sect{section italics}.
+For \xml{hi rend="emph"} and \xmcl{hi} see \sect{section italics}.
 \end{crossref}
-
 
 \subsubsection{Catchwords and Signatures}
 \label{section catchwords and signatures}
@@ -88,12 +90,16 @@ The left rectangle contains the signature (§Ec 2§) and the right rectangle the
 \subsection{Text Blocks}
 
 \begin{mainrule}
-Type a return after each line of the printed page.
+Type a \xms{lb} element after each line of the printed page, except for the last line of a paragraph.
 \end{mainrule}
 
 \begin{clarification}
-Do not insert a space at the end of the line. 
+Do not insert a space at the end of the line.
 \end{clarification}
+
+%%%%%%%%%%%%%%%
+% bis hierher %
+%%%%%%%%%%%%%%%
 
 \subsubsection{Headings}
 \label{section headings}
@@ -121,7 +127,7 @@ or alternatively, if you are unsure whether each line is a separate heading:
 \end{sampleImageSmall}
 
 
-\subsubsection{Paragraphs} 
+\subsubsection{Paragraphs}
 \label{section paragraphs}
 
 \begin{mainrule}
@@ -156,7 +162,7 @@ For  §à§ and §ã§ see \sect{section characters to be typed directly}. For  
 \end{crossref}
 
 \begin{note}
-Headings (\sect{section headings}) are marked by §<h>§~§</h>§ instead of §<p>§~§</p>§. Block quotations  (\sect{section block quotations}) are marked by §<q>§~§</q>§ instead of §<p>§~§</p>§. The §<p>§ and §</p>§ tags should not be used in marginal notes (\sect{section marginal notes}) or footnotes (\sect{section footnotes}). 
+Headings (\sect{section headings}) are marked by §<h>§~§</h>§ instead of §<p>§~§</p>§. Block quotations  (\sect{section block quotations}) are marked by §<q>§~§</q>§ instead of §<p>§~§</p>§. The §<p>§ and §</p>§ tags should not be used in marginal notes (\sect{section marginal notes}) or footnotes (\sect{section footnotes}).
 \end{note}
 
 
@@ -171,7 +177,7 @@ A block quotation is marked by §<q>§ and §</q>§. Do not type repeating quota
 The §<q>§ and §</q>§ replace the §<p>§ and §</p>§ tags.
 \end{clarification}
 
-\begin{sampleImage}{quotation_2.jpg} 
+\begin{sampleImage}{quotation_2.jpg}
 \begin{typeLatin}
 \bold{<p>}Nec non vbi ita inquit.\bold{</p>}\\
 \bold{<q>}Et $i (modo credimus) vnum\\
@@ -245,10 +251,10 @@ Note that the page number and the running head are not part of a column.}
 \begin{typeLatin}
 \bold{<col 1>} \\
 \bold{<p>}This is one \\ column ...\bold{</p>} \\
-\bold{</col>} \\ 
+\bold{</col>} \\
 \bold{<col 2>} \\
 \bold{<p>}This is \\ another \\ column.\bold{</p>} \\
-\bold{</col>} \\ 
+\bold{</col>} \\
 \bold{<col 3>} \\
 \bold{<p>}And there \\ might be \\ yet another \\ column.\bold{</p>} \\
 \bold{</col>} \\
@@ -312,7 +318,7 @@ Pag. \bold{#} Lin. \bold{#} Errata \bold{#} Correcta \\
 163 \bold{#} 7 \bold{#} oppo$itus \bold{#} oppo$itum \\
 \someText \\
 \bold{</col>} \\
-\bold{</tb>} 
+\bold{</tb>}
 \end{typeLatin}
 
 If you are unsure whether the table in the example is divided into two text columns or not, use cell separators instead of §<col>§ tags:
@@ -337,7 +343,7 @@ For §it§ see \sect{section italics}. The symbol §#§ is also used to mark lar
 \label{section large horizontal table elements}
 
 \begin{mainrule}
-Rule 1: In the case of a table element that horizontally spans more than one table cell, repeat the symbol §#§ before the table element for each cell spanned by the element, e.g. §####§ for an element spanning four cells. 
+Rule 1: In the case of a table element that horizontally spans more than one table cell, repeat the symbol §#§ before the table element for each cell spanned by the element, e.g. §####§ for an element spanning four cells.
 \end{mainrule}
 
 \begin{clarification}
@@ -429,7 +435,7 @@ If the table elements vertically span the whole table and contain running text, 
 \label{section indexes}
 
 \begin{mainrule}
-An index is marked by §<ind>§ and §</ind>§. Use §#§ for large spaces. Type a return after each row. 
+An index is marked by §<ind>§ and §</ind>§. Use §#§ for large spaces. Type a return after each row.
 \end{mainrule}
 
 % Ob sie für jede Seite einen getrennten Index machen, sollen sie selbst entscheiden.
@@ -445,7 +451,7 @@ Chalk, a good compo$t, \bold{_}122, 123\bold{_}. Good for \\
 \bold{#} Pa$ture, as well as for Arable \bold{#} \bold{_}ibid\bold{_}. \\
 Chameleons, \bold{_}80\bold{_}. Their nouri$hment, \bold{#} \bold{_}ibid\bold{_}. \\
 \bold{#} A fond Tradition of them \bold{#} \bold{_}ibid\bold{_}. \\
-\bold{</ind>} 
+\bold{</ind>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -482,7 +488,7 @@ Errori di que$to genere, cagione di \\
 \label{section tables of contents}
 
 \begin{mainrule}
-A table of contents is marked by §<toc>§ and §</toc>§. Use §#§ for large spaces. Type a return after each row. 
+A table of contents is marked by §<toc>§ and §</toc>§. Use §#§ for large spaces. Type a return after each row.
 \end{mainrule}
 
 \begin{sampleImageSmall}[ 1]{width=12cm}{zubler_43_2}
@@ -494,7 +500,7 @@ Cap. 1. \bold{#} De Chorographia generatim: quid $it, & que ad eam In-\\
 II. \bold{#} De In$trumenti fabricâ, \bold{#} 2 \\
 III. \bold{#} De Triangul{is}, omnium dimen$ionum fundamento, \bold{#} 5 \\
 \someText \\
-\bold{</toc>} 
+\bold{</toc>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -547,14 +553,14 @@ mon$trata $unt, & quæ \bold{#} & in duodecimo libro horum elemento- \\
 \subsection{Notes}
 
 \begin{note}
-Handwritten notes (\sect{section handwritten notes}) are not transcribed. 
+Handwritten notes (\sect{section handwritten notes}) are not transcribed.
 \end{note}
 
 \subsubsection{Marginal Notes}
 \label{section marginal notes}
 
 \begin{mainrule}
-A note in the left margin is marked by §<mgl> </mgl>§, and a note in the right margin is marked by §<mgr> </mgr>§. Type the marginal note on separate lines, starting after the line it is closest to. 
+A note in the left margin is marked by §<mgl> </mgl>§, and a note in the right margin is marked by §<mgr> </mgr>§. Type the marginal note on separate lines, starting after the line it is closest to.
 \end{mainrule}
 
 \begin{clarification}
@@ -674,12 +680,12 @@ Where a figure occurs in the text, type §<fig>§ on a separate line. If you can
 \end{mainrule}
 
 \begin{clarification}
-Type all §<cap>§, §<desc>§ and §<var>§ tags, in this order, on separate lines. 
-%Type the caption on a separate line after <fig>. 
-A figure may have more than one description. 
-%Type each description on a separate line after <fig> and <cap>. 
-If the same description is repeated in a figure, type it only once. 
-%If the caption or a description is vertical, ignore this and type it as normal horizontal text. 
+Type all §<cap>§, §<desc>§ and §<var>§ tags, in this order, on separate lines.
+%Type the caption on a separate line after <fig>.
+A figure may have more than one description.
+%Type each description on a separate line after <fig> and <cap>.
+If the same description is repeated in a figure, type it only once.
+%If the caption or a description is vertical, ignore this and type it as normal horizontal text.
 Separate the variable names and numbers in the §<var> </var>§ by spaces.
 %If there are variable names or numbers in the figure, type them all in a single §<var> </var>§ tag.
 Type §<fig/>§ instead of §<fig>§ and §</fig>§ to mark simple figures without §<cap>§, §<desc>§ or §<var>§ tags.
@@ -755,7 +761,7 @@ enim (\li{per} 79 decimi) ip$i α δ cõgru\bs\tld{}es δ\\
 \label{section drop caps}
 
 \begin{mainrule}
-Type a drop cap as an ordinary capital letter. 
+Type a drop cap as an ordinary capital letter.
 \end{mainrule}
 
 \begin{clarification}
@@ -766,19 +772,19 @@ Do not use a §<fig>§ tag (\sect{section figures}) for ornamental drop caps.
 \begin{sampleImage}[ 1: \, a simple drop cap]{montag_mark_dropcap_unorna}
 \begin{typeLatin}
 \bold{<p>}FErunt Ari$tipp\bs~u tempe$tate maris ad incognita littora delatum, cum in are-\\
-na vidi$$et qua$dã figuras geometricas delineatas exultant\bs\tld{}e l\li{ae}titia dixi$$e: Hæc\\ 
+na vidi$$et qua$dã figuras geometricas delineatas exultant\bs\tld{}e l\li{ae}titia dixi$$e: Hæc\\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
 
 \begin{sampleImage}[ 2: \, an ornamental drop cap]{montag_mark_dropcap_orna}
 
-\begin{typeLatin} 
+\begin{typeLatin}
 \bold{<p>}LV\bold{<sc>}MEN\bold{</sc>} Lunæ etiam $i $it lumen reflexum Solis ab ip$a Luna, ab ea tamen\\
 non ita reflectitur, vt à $uperficie polita $peculi, c\bs\tld{}u eius luminis tantã quã\\
 titatem $uper ip$um corpus lunare videamus, & eo modo terminatã quo\\
 con$picimus. per $e lumen, cau$a oculi e$t effectum, per accidens autem\\
-puta quod vis. Terra deinde nunquam lunari lumine (quãuis $olaris reflexio exi$tat)\\ 
+puta quod vis. Terra deinde nunquam lunari lumine (quãuis $olaris reflexio exi$tat)\\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -799,7 +805,7 @@ Handwritten notes are marked by §<hd>§. Do not type the note itself.
 \end{mainrule}
 
 \begin{clarification}
-Type §<hd>§ on a separate line, after the line of the main text the note is closest to. 
+Type §<hd>§ on a separate line, after the line of the main text the note is closest to.
 \end{clarification}
 
 \begin{sampleImage}[ 1: \, a handwritten note]{bsp_handwrittenmargin_2}
@@ -846,11 +852,11 @@ Use one §@§ for each unreadable character, e.g. §unr@@dable§. If in doubt, u
 \end{clarification}
 
 \vspace{2mm}
-\begin{sampleImage}[ 1: \, a stain]{bsp_gaptag_circumcised} 
+\begin{sampleImage}[ 1: \, a stain]{bsp_gaptag_circumcised}
 \begin{typeLatin}
 \bold{<p>} \someText
 d & f ad quadratum f, ergo di$iunctim erit quadratum \bold{@} ad\\
-quadratum f, ergo b ad e $icut d ad f, item per æquam pro-\\ 
+quadratum f, ergo b ad e $icut d ad f, item per æquam pro-\\
 \someText \bold{</p>}
 \end{typeLatin}
 
@@ -868,7 +874,7 @@ theoriam Marini, & Data, argumentorum $imilitudine ind\bold{<?>}ucti. Quum\li{\b
 \end{sampleImage}
 
 \begin{crossref}
-For unknown rather than unreadable characters please refer to \sect{section unknown characters}. 
+For unknown rather than unreadable characters please refer to \sect{section unknown characters}.
 \end{crossref}
 
 
@@ -876,9 +882,12 @@ For unknown rather than unreadable characters please refer to \sect{section unkn
 \label{section unknown characters}
 
 \begin{mainrule}
-If there is an unknown character in the text, add it to the numbered list of unknown characters. From then on, type its number whenever it occurs in the text, e.g. §<001>§.
+If there is an unknown character in the text, add it to the numbered
+list of unknown characters. From then on, type its number whenever it
+occurs in the text, e.g. §<001>§. Keep a separate list for every
+single text. Do not make one list for the whole work order.
 \end{mainrule}
- 
+
 \begin{clarification}
 Before you create a number for an unknown character, first check whether \\
 (1)~it is a known ligature (Latin: \sect{section latin ligatures}, Greek: \sect{section greek ligatures}), \\
@@ -889,7 +898,7 @@ Before you create a number for an unknown character, first check whether \\
  \end{clarification}
 
 \begin{clarification}
-If the character is indeed unknown: Assign the number §<001>§ to the first unknown character, §<002>§ to the second unknown character, and so on. Do not assign the same number twice. Use this number to type the unknown character. Always use the same number if the same unknown character occurs again. 
+If the character is indeed unknown: Assign the number §<001>§ to the first unknown character, §<002>§ to the second unknown character, and so on. Do not assign the same number twice. Use this number to type the unknown character. Always use the same number if the same unknown character occurs again.
 \end{clarification}
 
 \begin{note}
@@ -904,7 +913,7 @@ For unreadable rather than unknown characters please refer to \sect{section char
 \label{section obvious mistakes}
 
 \begin{mainrule}
-If you have reason to believe that there is a mistake in the text, use §<!>§. 
+If you have reason to believe that there is a mistake in the text, use §<!>§.
 \end{mainrule}
 
 \begin{clarification}
@@ -934,7 +943,7 @@ Do not silently correct the mistake.
 \label{section latin punctuation}
 
 \begin{mainrule}
-Type a space after the punctuation marks § . , : ; ! ?§ \quad 
+Type a space after the punctuation marks § . , : ; ! ?§ \quad
 Type a space before the opening brackets § ( [ § and after the closing brackets  § ) ] §.
 \end{mainrule}
 
@@ -958,7 +967,7 @@ dratum. \bold{_}9\bold{_}. hoc e$t. 81. coniunctum quadrato. 12. nempè. 144. pr
 \bold{<p>} \someText
 $cindendus pannus uel tela: num id $ine cultro uel forfice faciet? num con-\\
 $uet ullam ue$tem $ine acu? ne populus quidem tran$marinus pennarum\\
-contextu corporis tegumentum faciet $ine \li{ij}$dem in$trumentis, nec pel-\\ 
+contextu corporis tegumentum faciet $ine \li{ij}$dem in$trumentis, nec pel-\\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -972,23 +981,23 @@ If the line ends with a hyphen, type it.
 \end{mainrule}
 
 \begin{clarification}
-Hyphens at the end of a line can have different shapes. Always type a normal hyphen § - § regardless of its actual shape in the text. %Do not insert a space at the end of the line. 
+Hyphens at the end of a line can have different shapes. Always type a normal hyphen § - § regardless of its actual shape in the text. %Do not insert a space at the end of the line.
 \end{clarification}
 
 \vspace{2mm}
-\begin{sampleImage}[ 1: \, normal hyphen]{hyphen_normal} 
+\begin{sampleImage}[ 1: \, normal hyphen]{hyphen_normal}
 \begin{typeLatin}
 Oportet autem arcum in maiore circulo datum non e$-
 \end{typeLatin}
 \end{sampleImage}
 
-\begin{sampleImage}[ 2: \, slanted hyphen]{montag_hyphen_single_slanted} 
+\begin{sampleImage}[ 2: \, slanted hyphen]{montag_hyphen_single_slanted}
 \begin{typeLatin}
 æqualia. 4 Et $i ab inæqualibus æqualia demas, quæ relinquun-
 \end{typeLatin}
 \end{sampleImage}
 
-\begin{sampleImage}[ 3: \, slanted double hyphen]{hyphen_doppelt_schraeg} 
+\begin{sampleImage}[ 3: \, slanted double hyphen]{hyphen_doppelt_schraeg}
 \begin{typeLatin}
 RENSIS CLARISSIMI PHILOSOPHI, MATHEMA-
 \end{typeLatin}
@@ -1019,32 +1028,32 @@ If a character with diacritics can be easily typed and encoded as a single Unico
 
 \vspace{2mm}
 \begin{liste}[: \, characters that can be typed directly]
-
+ſ & \xs{(U+017F)}
 \vspace{-4mm}
 \begin{longtable}[l]{c@{ }lc@{ }lc@{ }lc@{ }lc@{ }lc@{ }l}
 \multicolumn{12}{l}{\s Characters with acute accent} \\[2mm]
 á & \xs{(U+00E1)} & é & \xs{(U+00E9)} & í & \xs{(U+00ED)} & ó & \xs{(U+00F3)} & ú & \xs{(U+00FA)} && \\
-Á & \xs{(U+00C1)} & É & \xs{(U+00C9)} & Í & \xs{(U+00CD)} & Ó & \xs{(U+00D3)} & Ú & \xs{(U+00DA)} && \\ 
+Á & \xs{(U+00C1)} & É & \xs{(U+00C9)} & Í & \xs{(U+00CD)} & Ó & \xs{(U+00D3)} & Ú & \xs{(U+00DA)} && \\
 \\
 \multicolumn{12}{l}{\s Characters with grave accent} \\[2mm]
 à & \xs{(U+00E0)} & è & \xs{(U+00E8)} & ì & \xs{(U+00EC)} & ò & \xs{(U+00F2)} & ù & \xs{(U+00F9)} && \\
-À & \xs{(U+00C0)} & È & \xs{(U+00C8)} & Ì & \xs{(U+00CC)} & Ò & \xs{(U+00D2)} & Ù & \xs{(U+00D9)} && \\ 
+À & \xs{(U+00C0)} & È & \xs{(U+00C8)} & Ì & \xs{(U+00CC)} & Ò & \xs{(U+00D2)} & Ù & \xs{(U+00D9)} && \\
 \\
 \multicolumn{12}{l}{\s Characters with circumflex accent} \\[2mm]
 â & \xs{(U+00E2)} & ê & \xs{(U+00EA)} & î & \xs{(U+00EE)} & ô & \xs{(U+00F4)} & û & \xs{(U+00FB)} && \\
-Â & \xs{(U+00C2)} & Ê & \xs{(U+00DA)} & Î & \xs{(U+00CE)} & Ô & \xs{(U+00D4)} & Û & \xs{(U+00DB)} && \\ 
+Â & \xs{(U+00C2)} & Ê & \xs{(U+00DA)} & Î & \xs{(U+00CE)} & Ô & \xs{(U+00D4)} & Û & \xs{(U+00DB)} && \\
 \\
 \multicolumn{12}{l}{\s Characters with umlaut/diaeresis} \\[2mm]
 ä & \xs{(U+00E4)} & ë & \xs{(U+00EB)} & ï & \xs{(U+00EF)} & ö & \xs{(U+00F6)} & ü & \xs{(U+00FC)} & ÿ & \xs{(U+00FF)} \\
-Ä & \xs{(U+00C4)} & Ë & \xs{(U+00CB)} & Ï & \xs{(U+00CF)} & Ö & \xs{(U+00D6)} & Ü & \xs{(U+00DC)} & Ÿ & \xs{(U+0178)} \\ 
+Ä & \xs{(U+00C4)} & Ë & \xs{(U+00CB)} & Ï & \xs{(U+00CF)} & Ö & \xs{(U+00D6)} & Ü & \xs{(U+00DC)} & Ÿ & \xs{(U+0178)} \\
 \\
 \multicolumn{12}{l}{\s Characters with tilde} \\[2mm]
 ã & \xs{(U+00E3)} & õ & \xs{(U+00F5)} & ñ & \xs{(U+00F1)} &&& \\
-Ã & \xs{(U+00C3)} & Õ & \xs{(U+00D5)} & Ñ & \xs{(U+00D1)} &&& \\ 
+Ã & \xs{(U+00C3)} & Õ & \xs{(U+00D5)} & Ñ & \xs{(U+00D1)} &&& \\
 \\
 \multicolumn{12}{l}{\s Characters with cedilla} \\[2mm]
 ç & \xs{(U+00C7)} &&&&& \\
-Ç & \xs{(U+00E7)} \\ 
+Ç & \xs{(U+00E7)} \\
 \\
 \multicolumn{12}{l}{\s Common ligatures} \\[2mm]
 æ & \xs{(U+00C6)} & œ & \xs{(U+0153)} \\
@@ -1052,12 +1061,9 @@ If a character with diacritics can be easily typed and encoded as a single Unico
 \end{longtable}
 \end{liste}
 
-\begin{note}
-Type the character ſ (i.e. long s) as §$§.
-\end{note}
 
 \begin{note}
-The small letter i sometimes occurs without the dot above. Type it as a normal §i§. 
+The small letter i sometimes occurs without the dot above. Type it as a normal §i§.
 \end{note}
 
 \vspace{2mm}
@@ -1149,7 +1155,7 @@ omne, ex continui diui$ione aliquo modo oriri, $iue actu, $iue potentia.\\
 Use §<bf> </bf>§ to mark bold face.
 \end{mainruleLessImportant}
 
-\begin{example} 
+\begin{example}
 
 \vspace{-4mm}
 This is a \textbf{bold}  statement.
@@ -1163,7 +1169,7 @@ This is a \bold{<bf>}bold\bold{</bf>} statement.
 \label{section small caps}
 
 \begin{mainrule}
-If you can identify capital letters as small caps, use §<sc> </sc>§. 
+If you can identify capital letters as small caps, use §<sc> </sc>§.
 \end{mainrule}
 
 \vspace{3mm}
@@ -1217,8 +1223,8 @@ Numbers or other symbols in superscript may indicate a footnote (\sect{section f
 \label{section underlines and overlines}
 
 \begin{mainrule}
-Underlines, i.e. lines below characters or words, are marked by §<ul> </ul>§. 
-Overlines, i.e. lines above characters or words, are marked by §<ol> </ol>§. 
+Underlines, i.e. lines below characters or words, are marked by §<ul> </ul>§.
+Overlines, i.e. lines above characters or words, are marked by §<ol> </ol>§.
 \end{mainrule}
 
 % Examples (from the Formax questions: Cavalieri 1653: Special instruction was to use §{ 00 / }§ (p.0157) and §{ / 1 }§ (p.0354); now we tell them to use §<ol>§ and §<ul>§. But would this really be a good idea in a situation as in Cavalieri? The idea of overlines and underlines is that the letters look normal and there is simply a line added above or below the letters. In Cavalieri, however, the lines make the characters move up or down. $\to$ still a Special Instruction, and not a good example here.)
@@ -1251,7 +1257,7 @@ In mathematical formulas, an overline may also indicate a root (see \sect{sectio
 \label{section text in red}
 
 \begin{mainruleLessImportant}
-Text in red is marked by §<red>§ and §</red>§. 
+Text in red is marked by §<red>§ and §</red>§.
 \end{mainruleLessImportant}
 
 \vspace{3mm}
@@ -1294,17 +1300,17 @@ Do not resolve æ and œ (see \sect{section characters to be typed directly}).
 \begin{tabular}{@{}lccccccccccc}
 upright & \lig{ff} & \lig{fi} & \lig{fl} & \lig{ffi} & \lig{ffl} & \lig{ſſ} & \lig{ſi} & \lig{ſſi} & \lig{ſt} & \lig{ﬆ} & {\fontspec[Ligatures=Rare]{Hoefler Text} \Large ct} \\[2mm] % siehe fontspec.pdf, Abschnitt "Ligatures"
 italics & \lig{\textit{ff}} & \lig{\textit{fi}} & \lig{\textit{fl}} & \lig{\textit{ffi}} & \lig{\textit{ffl}} & \lig{\textit{ſſ}} & \lig{\textit{ſi}} & \lig{\textit{ſſi}} & \lig{\textit{ſt}} & \lig{\textit{ﬆ}} & {\fontspec[Ligatures=Rare]{Hoefler Text} \Large \textit{ct}} \\[2mm] % siehe fontspec.pdf, Abschnitt "Ligatures"
-& §ff§ & §fi§ & §fl§ & §ffi§ & §ffl§ & §$$§ & §$i§ & §$$i§ & §$t§ & §st§ & §ct§ \\ \\ 
+& §ff§ & §fi§ & §fl§ & §ffi§ & §ffl§ & §$$§ & §$i§ & §$$i§ & §$t§ & §st§ & §ct§ \\ \\
 \end{tabular}
 \end{liste}
 
 \begin{liste}[ 2: \, difficult letter ligatures]
-\begin{tabular}{lllllllllll} 
+\begin{tabular}{lllllllllll}
 \\
 \includegraphics[height=8mm]{ij_ligatur} & §{ij}§ &&
 \includegraphics[height=8mm]{is_ligature} & §{is}§ &&
 %\includegraphics[height=8mm]{ss_ligature} &
-{\Large ß} & \textit{\Large ß} & §{$s}§ 
+{\Large ß} & \textit{\Large ß} & §{$s}§
 \\ \\
 \end{tabular}
 \end{liste}
@@ -1312,23 +1318,23 @@ italics & \lig{\textit{ff}} & \lig{\textit{fi}} & \lig{\textit{fl}} & \lig{\text
 %\newpage
 
 \begin{liste}[ 3: \, difficult complex ligatures]
-\begin{longtable}[l]{lllllllllll} 
+\begin{longtable}[l]{lllllllllll}
 \includegraphics[height=8mm]{eogonek} & §{ae}§ \\ \\
-\includegraphics[height=8mm]{colnr} & §{con}§ 
+\includegraphics[height=8mm]{colnr} & §{con}§
 \\ \\
-\includegraphics[height=8mm]{q3} & §{que}§ 
+\includegraphics[height=8mm]{q3} & §{que}§
 &
-\includegraphics[height=8mm]{q3tilde} & §{quam}§ 
+\includegraphics[height=8mm]{q3tilde} & §{quam}§
 &&
-\includegraphics[height=8mm]{qmitslash} & §{quis}§ 
+\includegraphics[height=8mm]{qmitslash} & §{quis}§
 &&
-\includegraphics[height=8mm]{qmitkreis} & §{quo}§ 
+\includegraphics[height=8mm]{qmitkreis} & §{quo}§
 \\ \\
-\includegraphics[height=8mm]{p_stroke} & §{per}§ 
+\includegraphics[height=8mm]{p_stroke} & §{per}§
 \\ \\
-\includegraphics[height=8mm]{p} & §{pro}§ 
+\includegraphics[height=8mm]{p} & §{pro}§
 \\ \\
-\includegraphics[height=8mm]{longs_p_slash} & §{secundu}§ 
+\includegraphics[height=8mm]{longs_p_slash} & §{secundu}§
 \\ \\
 \includegraphics[height=8mm]{t_with_curly_bar} & §{tur}§
 \end{longtable}
@@ -1418,7 +1424,7 @@ For German text in Fraktur see \sect{section fraktur}.
 \subsection{Characters}
 
 \begin{mainrule}
-Type Greek characters directly as Unicode characters. 
+Type Greek characters directly as Unicode characters.
 \end{mainrule}
 
 \begin{clarification}
@@ -1435,7 +1441,7 @@ The rules for Latin punctuation apply. In addition, type the mid-dot §·§ dire
 \end{mainrule}
 
 \begin{clarification}
-The mid-dot §·§ (Greek ano teleia) has the Unicode codepoint U+0387. 
+The mid-dot §·§ (Greek ano teleia) has the Unicode codepoint U+0387.
 \end{clarification}
 
 \begin{crossref}
@@ -1448,7 +1454,7 @@ For the Latin punctuation see \sect{section latin punctuation}.
 \label{section greek ligatures}
 
 \begin{mainrule}
-Resolve letter variations silently. Resolve all ligatures and type §{§ and §}§ around them. If a ligature contains some diacritics, type them. 
+Resolve letter variations silently. Resolve all ligatures and type §{§ and §}§ around them. If a ligature contains some diacritics, type them.
 \end{mainrule}
 
 \begin{clarification}
@@ -1463,7 +1469,7 @@ The acute accent above §ι§, e.g. in §{τί}§, may be vertical; in this case
 
 \vspace{-3mm}
 \begin{tabular}{ccccc}
-{\Large ϐ} && {\Large ϖ} && {\fontspec{Rgreekl2} \large õ} \\[2mm] % U+03D0, U+03D6 
+{\Large ϐ} && {\Large ϖ} && {\fontspec{Rgreekl2} \large õ} \\[2mm] % U+03D0, U+03D6
 §β§ && §π§ && §τ§ \\[2mm]
 \end{tabular}
 \end{liste}
@@ -1506,7 +1512,7 @@ The acute accent above §ι§, e.g. in §{τί}§, may be vertical; in this case
 %\phlk{έξ} \phlk{ἒξ}  §{όξ}§ \quad
 \phlk{όξ} \phlk{ὄξ}  §{όξ}§ \quad
 \phlk{ου} \includegraphics[height=6mm]{ou} §{ου}§ \\
- 
+
 \phlk{ρί} \includegraphics[height=6mm]{ri} §{ρι}§ \\
 
 \phlk{σθ}  §{σθ}§ \quad
@@ -1575,15 +1581,15 @@ Some two-letter ligatures have different shapes within a word and as a separate 
 \end{liste}
 
 
-\begin{sampleImage}{greek_text_with_ligatures} 
+\begin{sampleImage}{greek_text_with_ligatures}
 \begin{typeGreek}
-\bold{<h>}Πάππ\li{ου} τ\li{οῦ} Αλεξαν\li{δρ}έως Σ\li{υν}α\li{γω}\li{γῆ}ς \\ 
-ἕβ\li{δο}\li{μο}ν.\bold{</h>} \\ 
-\bold{<p>}Πε\li{ρι}έχ\li{ει} δὲ λήμμα\li{τα} τ\li{οῦ} ἀναλυο\li{μέν}\li{ου} \li{τό}\li{πο}υ.\bold{</p>} \\ 
-\bold{<p>}Ο καλ\li{ού}\li{μεν}ος ἀναλυό\li{μεν}ος, Ερμόδωρε \li{τέ}κνον, \\ 
+\bold{<h>}Πάππ\li{ου} τ\li{οῦ} Αλεξαν\li{δρ}έως Σ\li{υν}α\li{γω}\li{γῆ}ς \\
+ἕβ\li{δο}\li{μο}ν.\bold{</h>} \\
+\bold{<p>}Πε\li{ρι}έχ\li{ει} δὲ λήμμα\li{τα} τ\li{οῦ} ἀναλυο\li{μέν}\li{ου} \li{τό}\li{πο}υ.\bold{</p>} \\
+\bold{<p>}Ο καλ\li{ού}\li{μεν}ος ἀναλυό\li{μεν}ος, Ερμόδωρε \li{τέ}κνον, \\
 κα\li{τὰ} σύ\li{λλ}η\li{ψι}ν ἰ\li{δί}α \li{τί}ς ἐ\li{στι}ν ὕλη \li{πα}ρε\li{σκ}\li{ευ}ασ\li{μέν}η, \\
-\li{μετὰ} τ\li{ὴν} \li{τῶν} \li{κο}ινῶν \li{στο}ιχ\li{εί}ων \li{πο}ίη\li{σι}ν, \li{το}ῖς β\li{ου}λομένοις \\ 
-\someText \bold{</p>} 
+\li{μετὰ} τ\li{ὴν} \li{τῶν} \li{κο}ινῶν \li{στο}ιχ\li{εί}ων \li{πο}ίη\li{σι}ν, \li{το}ῖς β\li{ου}λομένοις \\
+\someText \bold{</p>}
 \end{typeGreek}
 \end{sampleImage}
 
@@ -1598,18 +1604,18 @@ Some two-letter ligatures have different shapes within a word and as a separate 
 %(Note: This font ist Walden's recreation of Breitkopf Fraktur. As soon as I can use it with XeTeX, I will add a second Fraktur/Schwabacher font, probably Unger Fraktur. Variations: slimmer letters, umlaut with normal dots (ö) or lines (ő), proper capital umlauts (Breitkopf uses Ae where the letters are closer than normal A and e, etc.), capital J. Letter variation z with and without closed circle. Or is a second font unnecessary? An alternative would be to include real examples in different Fraktur fonts, for instance in the “alphabet” subsection, or even Special Instructions for \emph{each} text in Fraktur, which only shows a few lines of text plus transcription.)
 
 \begin{mainrule}
-Mark single words or lines in Fraktur by §<fr> </fr>§. Mark paragraphs in Fraktur by §<p fr>§. Mark whole pages in Fraktur by §<pb fr>§. If the whole book is in Fraktur or mostly in Fraktur, simply type §<fr>§ at the beginning of the text before the first §<pb>§ tag. Type letters in Fraktur as normal roman characters. 
+Mark single words or lines in Fraktur by §<fr> </fr>§. Mark paragraphs in Fraktur by §<p fr>§. Mark whole pages in Fraktur by §<pb fr>§. If the whole book is in Fraktur or mostly in Fraktur, simply type §<fr>§ at the beginning of the text before the first §<pb>§ tag. Type letters in Fraktur as normal roman characters.
 \end{mainrule}
 
 \vspace{2mm}
 \begin{tabelle}[: \, Fraktur alphabet]
 \begin{tabular}{@{}lc@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c@{ }c} \\
 small letters & \fraktur{a} & \fraktur{b} & \fraktur{c} & \fraktur{d} & \fraktur{e} & \fraktur{f} & \fraktur{g} & \fraktur{h} & \fraktur{i} & \fraktur{j} & \fraktur{k} & \fraktur{l} & \fraktur{m} & \fraktur{n} & \fraktur{o} & \fraktur{p} & \fraktur{q} & \fraktur{r} & \fraktur{s <} & \fraktur{t} & \fraktur{u} & \fraktur{v} & \fraktur{w} & \fraktur{x} & \fraktur{y} & \fraktur{z} \\[2mm]
- & §a§ & §b§ & §c§ & §d§ & §e§ & §f§ & §g§ & §h§ & §i§ & §j§ & §k§ & §l§ & §m§ & §n§ & §o§ & §p§ & §q§ & §r§ & §$§ §s§ & §t§ & §u§ & §v§ & §w§ & §x§ & §y§ & §z§ \\ 
- \\ 
+ & §a§ & §b§ & §c§ & §d§ & §e§ & §f§ & §g§ & §h§ & §i§ & §j§ & §k§ & §l§ & §m§ & §n§ & §o§ & §p§ & §q§ & §r§ & §$§ §s§ & §t§ & §u§ & §v§ & §w§ & §x§ & §y§ & §z§ \\
+ \\
 capital letters & \fraktur{A} & \fraktur{B} & \fraktur{C} & \fraktur{D} & \fraktur{E} & \fraktur{F} & \fraktur{G} & \fraktur{H} & \fraktur{I} & \fraktur{J} & \fraktur{K} & \fraktur{L} & \fraktur{M} & \fraktur{N} & \fraktur{O} & \fraktur{P} & \fraktur{Q} & \fraktur{R} & \fraktur{S} & \fraktur{T} & \fraktur{U} & \fraktur{V} & \fraktur{W} & \fraktur{X} & \fraktur{Y} & \fraktur{Z} \\[2mm]
  & §A§ & §B§ & §C§ & §D§ & §E§ & §F§ & §G§ & §H§ & §I§ & §J§ & §K§ & §L§ & §M§ & §N§ & §O§ & §P§ & §Q§ & §R§ & §S§ & §T§ & §U§ & §V§ & §W§ & §X§ & §Y§ & §Z§ \\ %KT: fraktur J eingefügt
- \\ 
+ \\
 \end{tabular}
 \end{tabelle}
 
@@ -1640,7 +1646,7 @@ Resolve common Fraktur ligatures silently.
 \begin{tabular}{@{}lccccccccccc} \\
 separate & \fraktur{ff} & \fraktur{fi} & \fraktur{fl} & \fraktur{ft} & \fraktur{ss} & \fraktur{sf} & \fraktur{si} & \fraktur{st} & \fraktur{ch} & \fraktur{ck} & \fraktur{tz} \\[2mm]
 ligatures & \fraktur{\tld} & \fraktur{[} & \fraktur{\{} & \fraktur{\_} & \fraktur{\%} & \fraktur{]} & \fraktur{\}} & \fraktur{|} & \fraktur{\#} & \fraktur{\$} & \fraktur{@} \\[2mm]
- & §ff§ & §fi§ & §fl§ & §ft§ & §$$§ & §$f§ & §$i§ & §$t§ & §ch§ & §ck§ & §tz§ \\ \\ 
+ & §ff§ & §fi§ & §fl§ & §ft§ & §$$§ & §$f§ & §$i§ & §$t§ & §ch§ & §ck§ & §tz§ \\ \\
 \end{tabular}
 \end{tabelle}
 
@@ -1731,7 +1737,7 @@ The last example has a few peculiarities: There is a letter variation of the let
 \label{section sperrung}
 
 \begin{mainrule}
-Words or groups of words in Sperrung, i.e. words with extra space between each letter, are marked by §<sp> </sp>§. 
+Words or groups of words in Sperrung, i.e. words with extra space between each letter, are marked by §<sp> </sp>§.
 \end{mainrule}
 
 \begin{clarification}
@@ -1823,12 +1829,12 @@ Roots are marked by §√{ }§. If there is a number or letter above the root sy
 \end{mainrule}
 
 \begin{clarification}
-The root symbol §√§ has the Unicode codepoint U+221A. 
+The root symbol §√§ has the Unicode codepoint U+221A.
 \end{clarification}
 
 \begin{clarification}
-Roots consist of a root symbol followed by an overlined mathematical term. The overline may or may not be connected to the root symbol. 
-If the overline is missing, type only the root symbol without §{ }§. 
+Roots consist of a root symbol followed by an overlined mathematical term. The overline may or may not be connected to the root symbol.
+If the overline is missing, type only the root symbol without §{ }§.
 If there is no root symbol but you can still identify the overline as a root, insert §√§. If you are not sure whether the overline is part of a root, do not insert §√§ and use §<ol> </ol>§ for the overline (see \sect{section underlines and overlines}).
 \end{clarification}
 
@@ -1932,5 +1938,3 @@ symbol & \unicode{℞} \\[2mm]
 Unicode & \xs{U+211E} \\[2mm]
 \end{tabular}
 \end{tabelle}
-
-
