@@ -1,5 +1,5 @@
-%!TEX TS-program = xelatex 
-%!TEX encoding = UTF-8 Unicode 
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
 
 \usepackage{xspace} \xspaceaddexceptions{”}
 \usepackage{ifthen}
@@ -22,7 +22,7 @@
 
 % Zeilenabstand
 
-\usepackage{setspace} 
+\usepackage{setspace}
 \newenvironment{enum}{\begin{enumerate} \singlespacing} {\end{enumerate}}
 \newenvironment{items}{\begin{itemize} \singlespacing} {\end{itemize}}
 
@@ -41,7 +41,20 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+% xml commands
+% use for any xml markup, brackets supplied
+\newcommand{\xml}[1]{§<#1>§}
+% use for milestone tags
+\newcommand{\xms}[1]{§<#1/>§}
+% closing element markup
+\newcommand{\xmcl}[1]{§</#1>§}
+% full xml markup example
+\newcommand{\xmex}[1]{§#1§}
+% attribute markup, the first argument is the element name
+\newcommand{\attr}[2]{§@#2§}
+
 \newcommand{\bold}{\textbf}
+% ligature
 \newcommand{\li}[1]{\bold{\{}#1\bold{\}}}
 
 \newcommand{\xs}{\scriptsize}
@@ -87,17 +100,17 @@
 
 \newenvironment{typeLatin}{\begin{alltt}\s\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}}
 
-\newfontfamily{\greek}[Scale=0.95]{Courier New} 
+\newfontfamily{\greek}[Scale=0.95]{Courier New}
 \newenvironment{typeGreek}{\begin{alltt}\greek\s\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}}
 
 \newenvironment{typeMath}{\begin{alltt}\begin{tabular}{l}}{\end{tabular}\end{alltt}}
 
 %
 
-\newfontfamily{\muh}[Scale=0.9]{DejaVu Serif} 
-\newcommand{\someText}{...} % {{\muh\textit{(some text)}}} 
+\newfontfamily{\muh}[Scale=0.9]{DejaVu Serif}
+\newcommand{\someText}{...} % {{\muh\textit{(some text)}}}
 \newcommand{\untranscribedText}{...} % {{\muh\textit{(some untranscribed text)}}}
-\newcommand{\notTranscribed}{{\muh\textit{(not transcribed)}}} 
+\newcommand{\notTranscribed}{{\muh\textit{(not transcribed)}}}
 \newcommand{\missingText}[1]{{\muh\textit{(#1)}}}
 
 %% Chinese bits
