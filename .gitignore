@@ -2,6 +2,8 @@
 
 bilder/unbenutzt
 
+*.tdo
+*.out
 *.pdf
 *.aux
 *.log
