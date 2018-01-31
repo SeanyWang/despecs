@@ -19,6 +19,8 @@
 
 \newcommand{\mehrzeilen}[1][1]{\enlargethispage{#1\baselineskip}}
 
+% https://tex.stackexchange.com/questions/4386/defining-starred-versions-of-commands-macro
+\usepackage{suffix}
 
 % Zeilenabstand
 
@@ -51,7 +53,9 @@
 % full xml markup example
 \newcommand{\xmex}[1]{§#1§}
 % opening and closing
-\newcommand{\xmlpair}[1]{§<#1>§~§</#1>§}
+\newcommand{\xmlpair}[1]{§<#1>§ and §</#1>§}
+\WithSuffix\newcommand\xmlpair*[1]{§<#1>§~§</#1>§}
+
 % attribute markup, the first argument is the element name
 \newcommand{\attr}[2]{§@#2§}
 

@@ -97,15 +97,11 @@ Type a \xms{lb} element after each line of the printed page, except for the last
 Do not insert a space at the end of the line.
 \end{clarification}
 
-%%%%%%%%%%%%%%%
-% bis hierher %
-%%%%%%%%%%%%%%%
-
 \subsubsection{Headings}
 \label{section headings}
 
 \begin{mainrule}
-Headings are marked by §<h>§ and §</h>§.
+Headings are marked by \xmlpair{head}.
 \end{mainrule}
 
 \begin{clarification}
@@ -114,15 +110,15 @@ All headings are tagged in the same way, regardless of the font size. Do not typ
 
 \begin{sampleImageSmall}{width=.7\linewidth}{montag_headings_euclid_233}
 \begin{typeLatin}
-\bold{<h>}EUCLIDIS \\
+\bold{<head>}EUCLIDIS \\
 ELEMENTORUM \\
-LIBER DECIMUS.\bold{</h>}
+LIBER DECIMUS.\bold{</head>}
 \end{typeLatin}
 or alternatively, if you are unsure whether each line is a separate heading:
 \begin{typeLatin}
-\bold{<h>}EUCLIDIS\bold{</h>} \\
-\bold{<h>}ELEMENTORUM\bold{</h>} \\
-\bold{<h>}LIBER DECIMUS.\bold{</h>}
+\bold{<head>}EUCLIDIS\bold{</head>} \\
+\bold{<head>}ELEMENTORUM\bold{</head>} \\
+\bold{<head>}LIBER DECIMUS.\bold{</head>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -131,11 +127,11 @@ or alternatively, if you are unsure whether each line is a separate heading:
 \label{section paragraphs}
 
 \begin{mainrule}
-Paragraphs are marked by §<p>§ and §</p>§.
+Paragraphs are marked by \xmlpair{p}.
 \end{mainrule}
 
 \begin{clarification}
-Make sure that for each §<p>§ there is a corresponding §</p>§ somewhere. If a paragraph starts and ends on different pages, the §<p>§ and §</p>§ tags are on these different pages.
+Make sure that for each \xml{p} there is a corresponding \xmcl{p} somewhere. If a paragraph starts and ends on different pages, the \xml{p} and \xmcl{p} tags are on these different pages.
 If the first line of the paragraph is indented, this will not be encoded. If the text is centered, this will not be encoded either.
 %A change in the font style, for example a line in italics, may indicate a new paragraph. TODO: Probably this rule will not apply very often. Leave it out? Put it somewhere else? (it occurs in the example in \sect{Structural markup general example})
 \end{clarification}
@@ -162,7 +158,7 @@ For  §à§ and §ã§ see \sect{section characters to be typed directly}. For  
 \end{crossref}
 
 \begin{note}
-Headings (\sect{section headings}) are marked by \xmlpair{h} instead of §<p>§~§</p>§. Block quotations  (\sect{section block quotations}) are marked by §<q>§~§</q>§ instead of §<p>§~§</p>§. The §<p>§ and §</p>§ tags should not be used in marginal notes (\sect{section marginal notes}) or footnotes (\sect{section footnotes}).
+Headings (\sect{section headings}) are marked by \xmlpair{h} instead of \xmlpair{p}. Block quotations  (\sect{section block quotations}) are marked by \xmlpair{quote} instead of \xmlpair{p}. The \xmlpair{p} tags should not be used in marginal notes (\sect{section marginal notes}) or footnotes (\sect{section footnotes}).
 \end{note}
 
 
@@ -170,23 +166,23 @@ Headings (\sect{section headings}) are marked by \xmlpair{h} instead of §<p>§~
 \label{section block quotations}
 
 \begin{mainrule}
-A block quotation is marked by §<q>§ and §</q>§. Do not type repeating quotation symbols.
+A block quotation is marked by \xmlpair{quote}. Do not type repeating quotation symbols.
 \end{mainrule}
 
 \begin{clarification}
-The §<q>§ and §</q>§ replace the §<p>§ and §</p>§ tags.
+The \xmlpair{quote} replace the \xmlpair{p} tags.
 \end{clarification}
 
 \begin{sampleImage}{quotation_2.jpg}
 \begin{typeLatin}
 \bold{<p>}Nec non vbi ita inquit.\bold{</p>}\\
-\bold{<q>}Et ſi (modo credimus) vnum\\
+\bold{<quote>}Et ſi (modo credimus) vnum\\
 Iſſe diem ſine Sole ferunt, incendia lumen\\
-Præbebant.\bold{</q>}\\
+Præbebant.\bold{</quote>}\\
 \bold{<p>}Quod autem à Patre inſtruatur etiam de curſu annuali,\\
 videbitur vbi ita dicit.\bold{</p>}\\
-\bold{<q>}Nitor in aduerſum, nec me, qui cætera vincit.\\
-Impetus, & rapido contrarius euehor orbi.\bold{</q>} \\
+\bold{<quote>}Nitor in aduerſum, nec me, qui cætera vincit.\\
+Impetus, & rapido contrarius euehor orbi.\bold{</quote>} \\
 \bold{<p>}Et vbi ita loquitur.\bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -195,6 +191,9 @@ Impetus, & rapido contrarius euehor orbi.\bold{</q>} \\
 For inline quotations within a paragraph, type the quotation marks exactly as they appear in the text.
 \end{note}
 
+%%%%%%%%%%%%%%%
+% bis hierher %
+%%%%%%%%%%%%%%%
 
 \subsubsection{Footers}
 
