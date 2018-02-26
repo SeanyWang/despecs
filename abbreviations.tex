@@ -55,9 +55,20 @@
 % opening and closing
 \newcommand{\xmlpair}[1]{§<#1>§ and §</#1>§}
 \WithSuffix\newcommand\xmlpair*[1]{§<#1>§~§</#1>§}
-
+% xml entities
+\newcommand{\xent}[1]{§\&#1;§}
+% opening and closing with attribute
+\newcommand{\xmlatt}[3]{§<#1>§ with the attribute §@#2="#3"§}
+\newcommand{\xmsatt}[3]{§<#1/>§ with the attribute §@#2="#3"§}
+\newcommand{\xmlpatt}[3]{§<#1>§ and §</#1>§ with the attribute §@#2="#3"§}
 % attribute markup, the first argument is the element name
 \newcommand{\attr}[2]{§@#2§}
+
+% linewrap
+\newcommand{\lwr}{\\\hspace{2mm}\unicode{↪}\hspace{2mm}}
+
+% unicode points
+\newcommand{\uc}[1]{U+#1}
 
 \newcommand{\bold}{\textbf}
 % ligature
@@ -103,13 +114,16 @@
 \newenvironment{tabelle}[1][]{\htsc{Table#1} \\}{}
 
 %
+\usepackage{mdframed}
+\definecolor{shadecolor}{gray}{0.95}
+\mdfdefinestyle{mdfspe}{backgroundcolor=shadecolor, linecolor=shadecolor, innerleftmargin=4pt, innerrightmargin=4pt}
 
-\newenvironment{typeLatin}{\begin{alltt}\s\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}}
+\newenvironment{typeLatin}{\begin{mdframed}[style=mdfspe]\begin{alltt}\s\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}\end{mdframed}}
 
 \newfontfamily{\greek}[Scale=0.95]{Courier New}
-\newenvironment{typeGreek}{\begin{alltt}\greek\s\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}}
+\newenvironment{typeGreek}{\begin{mdframed}[style=mdfspe]\begin{alltt}\greek\s\begin{tabular}{@{}l}}{\end{tabular}\end{alltt}\end{mdframed}}
 
-\newenvironment{typeMath}{\begin{alltt}\begin{tabular}{l}}{\end{tabular}\end{alltt}}
+\newenvironment{typeMath}{\begin{mdframed}[style=mdfspe]\begin{alltt}\begin{tabular}{l}}{\end{tabular}\end{alltt}\end{mdframed}}
 
 %
 

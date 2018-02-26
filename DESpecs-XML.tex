@@ -2,7 +2,7 @@
 %!TEX encoding = UTF-8 Unicode
 
 \documentclass[fontsize=11pt, paper=a4,
-twoside, % openright, cleardoubleplain,
+twoside,  openright, cleardoubleplain,
 DIV15,
 headings=normal,
 parskip=half-,
@@ -16,6 +16,18 @@ numbers=noenddot]{scrartcl}
 \setromanfont[Mapping=tex-text]{DejaVu Serif}
 \setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica}
 \setmonofont[Scale=1.0]{Courier New}
+
+\makeatletter
+    \def\maketitle{%
+    \begin{center}
+    \setlength{\baselineskip}{30pt}
+    {\Huge{\textbf{\@title}}}\par%
+    {\Large{\@author}}\par
+    {\large{\@date}}
+    \end{center}
+    \medskip
+    }
+\makeatother
 
 \frenchspacing
 
@@ -34,34 +46,24 @@ numbers=noenddot]{scrartcl}
   german, colorinlistoftodos]{todonotes}
   \newcommand{\frage}[1]{\todo[color=green, caption={Frage}]{#1}}
 
-%%%
-
 \input{./abbreviations}
 
+\title{XML Data Entry Specs 1.0}
+\author{Klaus Thoden}
+\date{\today}
+
+%%%
 \begin{document}
+\pagestyle{empty}
+\input{./titlepage}
 
-\title{This document is work in progress!\\
-XML Data Entry Specs 1.0}
-\date{}
-\author{}
-\maketitle
-\vspace{-20mm}
-
-\begin{center}
-%{\fontspec{Helvetica}{\LARGE \textbf{Data Entry Specs 1.0.1}}} \\[5mm]
-\large Klaus Thoden
-
-\normalsize Max Planck Institute for the History of Science, Berlin, Germany
-
-\today
-\end{center}
-
+\pagestyle{plain}
 \tableofcontents
-\listoftodos
+% \listoftodos
 
 \newpage
 
 \input{DESpecs_text-XML}
-\input{DESpecs_appendix}
+\input{DESpecs_appendix-XML}
 
 \end{document}

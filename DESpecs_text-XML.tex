@@ -2,20 +2,44 @@
 %!TEX encoding = UTF-8 Unicode
 %!TEX root = DESpecs.tex
 
+% The entities
+% \xent{ij}&ij;
+% \xent{is}&is;
+% \xent{sz}&sz;
+% \xent{ae}&ae;
+% \xent{cn}\xent{cn}
+% \xent{q3}\xent{q3}
+% \xent{qm}\xent{qm}
+% \xent{qd}\xent{qd}
+% \xent{qo}\xent{qo}
+% \xent{pr}\xent{pr}
+% \xent{po}\xent{po}
+% \xent{sec\xent{sec
+% \xent{tr}\xent{tr}
 
-% {quis}  --> {quod}
 
-\frage{Maybe include typing conventions, like saying that attributes are prefixed by @?}
+\section{Conventions in this document}
+\label{sec:conv-this-docum}
+
+\subsection{Line wrapping}
+\label{sec:line-wrapping}
+
+Some lines in the examples are rather long and needed to be wrapped around for reasons of readability. If a piece of a line originally belongs to the line above, it is indicated with the symbol \unicode{↪} at the beginning of the line.
+
+\subsection{XML notation}
+\label{sec:xml-notation}
+
+Attributes of XML elements are prefixed by ``@'' (e.g. @type=”head”).
 \section{File Conventions}
 \label{section file conventions}
 
-\frage{Maybe include the skeleton of a TEI file with a minimal header already generated?}
-\frage{German or English? (Write English and then have it translated)}
 \begin{mainruleLessImportant}
 Save the text in XML format (§.xml§) with Unicode §utf-8§ encoding.
 
 We will also need the list of unknown characters (see \sect{section unknown characters}). If the list is handwritten, scan it and save it as PDF file.
 \end{mainruleLessImportant}
+
+Since this the expected result is a valid XML file, at least the charaters \& and < must not be written as such. Instead, \& needs to be typed as \&amp; and < needs to be written as \&lt;.
 
 
 \section{General Markup}
@@ -24,7 +48,7 @@ We will also need the list of unknown characters (see \sect{section unknown char
 \subsection{Pages}
 
 \begin{mainrule}
-Type the entire contents of one page, then go on to the next page. Do not mix the contents of different pages.
+Type the entire contents of one page, then go on to the next page. Do not mix the contents of different pages with the exception of footnotes that spread across a page, see \sect{section footnotes}.
 \end{mainrule}
 
 \subsubsection{Page Breaks, Page Numbers and Running Heads}
@@ -40,8 +64,9 @@ The position of the page number, e.g. at the top or bottom of the page, will not
 \end{clarification}
 
 \begin{sampleImage}[ 1: \, arabic page number]{montag_mark_pagenumber_runninghead.jpg}
+
 \begin{typeLatin}
-\bold{<pb n="2"} \bold{><fw type="head">}GEOMET. ELEMENT. EVCLIDIS\bold{</fw>} \\
+\bold{<pb n="2"/><fw type="head">}GEOMET. ELEMENT. EVCLIDIS\bold{</fw>} \\
 ſunt ӕquales. 16 Et hic quidem punctus, centrum circuli dicitur.\bold{</p>} \\
 \untranscribedText
 \end{typeLatin}
@@ -57,9 +82,8 @@ The \xml{p} for the beginning of the paragraph is on the previous page.
 
 \vspace{3mm}
 \begin{sampleImage}[ 2: \, roman page number]{montag_roemische_seitenzahl}
-\frage{Kann ich roman numerals ins n-Attribut tun?}
 \begin{typeLatin}
-\bold{<pb n="vij"} \bold{><fw type="head"><hi rend="emph">}PREFACE\bold{</hi>}.\bold{</fw>}
+\bold{<pb n="vij"/><fw type="head"><hi rend="emph">}PREFACE\bold{</hi>}.\bold{</fw>}
 \end{typeLatin}
 \end{sampleImage}
 
@@ -88,7 +112,7 @@ The left rectangle contains the signature (§Ec 2§) and the right rectangle the
 
 \tocspace
 \subsection{Text Blocks}
-
+\label{textblocks}
 \begin{mainrule}
 Type a \xms{lb} element after each line of the printed page, except for the last line of a paragraph.
 \end{mainrule}
@@ -110,8 +134,8 @@ All headings are tagged in the same way, regardless of the font size. Do not typ
 
 \begin{sampleImageSmall}{width=.7\linewidth}{montag_headings_euclid_233}
 \begin{typeLatin}
-\bold{<head>}EUCLIDIS \\
-ELEMENTORUM \\
+\bold{<head>}EUCLIDIS\bold{<lb/>} \\
+ELEMENTORUM\bold{<lb/>} \\
 LIBER DECIMUS.\bold{</head>}
 \end{typeLatin}
 or alternatively, if you are unsure whether each line is a separate heading:
@@ -139,15 +163,15 @@ If the first line of the paragraph is indented, this will not be encoded. If the
 \begin{sampleImage}{paragraph_benedetti_299}
 \begin{typeLatin}
 \untranscribedText \bold{</p>} \\
-\bold{<p>}Secunda cauſa eſt, quia quoduis graue corpus, aut per naturam, aut per vim mo- \\
-tum, rectitudinem itineris naturaliter appetat, quod clarè cognoſcere poſſumus, \\
-proijciendo lapides funda, & circunducentes brachium, nam funes tanto maius \\
-pondus acquirunt, & manum tanto magis onerant, quanto velocius voluitur funda, \\
-& incitatur motus, quod ab appetitu naturali inſito ei corpori per lineã rectam pro- \\
-grediendi procedit. Vnde fit, vt pondus circunferentiæ ipſius rotæ, tanto facilius cir- \\
-cunuoluatur, & ex ſeipſo tanto longiori tempore moueatur, quanto longius diſtat à \\
-centro, cum eius iter tanto minus ſit curuum. Hanc igitur ob cauſam, rota, quanto \\
-maior erit, eiuſ\bs´q; pondus tanto magis vicinum circunferentiæ, tanto magis durabit \\
+\bold{<p>}Secunda cauſa eſt, quia quoduis graue corpus, aut per naturam, aut per vim mo-\bold{<lb/>} \\
+tum, rectitudinem itineris naturaliter appetat, quod clarè cognoſcere poſſumus,\bold{<lb/>} \\
+proijciendo lapides funda, &amp; circunducentes brachium, nam funes tanto maius\bold{<lb/>} \\
+pondus acquirunt, &amp; manum tanto magis onerant, quanto velocius voluitur funda,\bold{<lb/>} \\
+&amp; incitatur motus, quod ab appetitu naturali inſito ei corpori per lineã rectam\lwr pro-\bold{<lb/>} \\
+grediendi procedit. Vnde fit, vt pondus circunferentiæ ipſius rotæ, tanto facilius\lwr cir-\bold{<lb/>} \\
+cunuoluatur, &amp; ex ſeipſo tanto longiori tempore moueatur, quanto longius diſtat\lwr  à\bold{<lb/>} \\
+centro, cum eius iter tanto minus ſit curuum. Hanc igitur ob cauſam, rota, quanto\bold{<lb/>} \\
+maior erit, eiuſ\bs´q; pondus tanto magis vicinum circunferentiæ, tanto magis\lwr durabit\bold{<lb/>} \\
 impetus motus aſſumptus.\bold{</p>} \\
 \bold{<p>} \untranscribedText
 \end{typeLatin}
@@ -158,7 +182,7 @@ For  §à§ and §ã§ see \sect{section characters to be typed directly}. For  
 \end{crossref}
 
 \begin{note}
-Headings (\sect{section headings}) are marked by \xmlpair{h} instead of \xmlpair{p}. Block quotations  (\sect{section block quotations}) are marked by \xmlpair{quote} instead of \xmlpair{p}. The \xmlpair{p} tags should not be used in marginal notes (\sect{section marginal notes}) or footnotes (\sect{section footnotes}).
+Headings (\sect{section headings}) are marked by \xmlpair{head} instead of \xmlpair{p}. Block quotations  (\sect{section block quotations}) are marked by \xmlpair{quote} instead of \xmlpair{p}. The \xmlpair{p} tags should not be used in marginal notes (\sect{section marginal notes}) or footnotes (\sect{section footnotes}).
 \end{note}
 
 
@@ -176,13 +200,13 @@ The \xmlpair{quote} replace the \xmlpair{p} tags.
 \begin{sampleImage}{quotation_2.jpg}
 \begin{typeLatin}
 \bold{<p>}Nec non vbi ita inquit.\bold{</p>}\\
-\bold{<quote>}Et ſi (modo credimus) vnum\\
-Iſſe diem ſine Sole ferunt, incendia lumen\\
+\bold{<quote>}Et ſi (modo credimus) vnum\bold{<lb/>} \\
+Iſſe diem ſine Sole ferunt, incendia lumen\bold{<lb/>} \\
 Præbebant.\bold{</quote>}\\
-\bold{<p>}Quod autem à Patre inſtruatur etiam de curſu annuali,\\
+\bold{<p>}Quod autem à Patre inſtruatur etiam de curſu annuali,\bold{<lb/>} \\
 videbitur vbi ita dicit.\bold{</p>}\\
-\bold{<quote>}Nitor in aduerſum, nec me, qui cætera vincit.\\
-Impetus, & rapido contrarius euehor orbi.\bold{</quote>} \\
+\bold{<quote>}Nitor in aduerſum, nec me, qui cætera vincit.\bold{<lb/>} \\
+Impetus, &amp; rapido contrarius euehor orbi.\bold{</quote>} \\
 \bold{<p>}Et vbi ita loquitur.\bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -191,28 +215,25 @@ Impetus, & rapido contrarius euehor orbi.\bold{</quote>} \\
 For inline quotations within a paragraph, type the quotation marks exactly as they appear in the text.
 \end{note}
 
-%%%%%%%%%%%%%%%
-% bis hierher %
-%%%%%%%%%%%%%%%
-
 \subsubsection{Footers}
+\label{footers}
 
 \begin{mainruleLessImportant}
-If you can identify a paragraph as a footer, use §<h>§ and §</h>§ instead of §<p>§ and §</p>§.
+If you can identify a paragraph as a footer, use \xmlpair{p}, and add the attribute \attr{p}{type="footer"}.
 \end{mainruleLessImportant}
 
 \begin{crossref}
-§<h>§ and §</h>§ is the tag for headings (\sect{section headings}).
+\xmlpair{head} is the tag for headings (\sect{section headings}).
 \end{crossref}
 
 \begin{sampleImage}{mkbsp_footer_benedetti.jpg}
 \begin{typeLatin}
 \bold{<p>} \someText \\
-quem quidem tractatum cum quibuſdam alijs meis ſpeculationibus in lucem prode\\
-re cupio, ſi fieri poterit, antequam ad directionem mei Horoſcopi cum corpore\\
-Martis An\li{ae}ret\li{ae} perueniam, qu\li{ae} quidem directio circa annum milleſimum quin-\\
+quem quidem tractatum cum quibuſdam alijs meis ſpeculationibus in lucem prode\bold{<lb/>} \\
+re cupio, ſi fieri poterit, antequam ad directionem mei Horoſcopi cum corpore\bold{<lb/>} \\
+Martis An&ae;ret&ae; perueniam, qu&ae; quidem directio circa annum milleſimum\lwr quin-\bold{<lb/>} \\
 genteſimum nonageſimum ſecundum eueniet.\bold{</p>}\\
-\bold{<h>}FINIS.\bold{</h>}
+\bold{<p type="footer''>}FINIS.\bold{</p>}
 \end{typeLatin}
 
 \end{sampleImage}
@@ -221,17 +242,15 @@ genteſimum nonageſimum ſecundum eueniet.\bold{</p>}\\
 For §{ae}§ see \sect{section latin ligatures}.
 \end{crossref}
 
-
 \tocspace
 \subsection{Columns}
 \label{section columns}
-
 \begin{mainrule}
-Columns are marked by §<col>§ and §</col>§. Assign a number to each column and type it in the §<col>§ tag.
+If the page layout consists of two or more columns, mark the beginning of each column with the milestone tag \xms{cb} together with the attribute \attr{cb}{n} denoting the number of each column, counted from left to right.
 \end{mainrule}
 
 \begin{clarification}
-Type the §<col>§ and §</col>§ tags on separate lines.
+Type the \xms{cb} tag on a separate line.
 \end{clarification}
 
 \mehrzeilen
@@ -248,15 +267,12 @@ Note that the page number and the running head are not part of a column.}
 &&&
 \parbox[t]{4cm}{ \vspace{-3mm}
 \begin{typeLatin}
-\bold{<col 1>} \\
+\bold{<cb n=``1''/>} \\
 \bold{<p>}This is one \\ column ...\bold{</p>} \\
-\bold{</col>} \\
-\bold{<col 2>} \\
+\bold{<cb n=''2''/>} \\
 \bold{<p>}This is \\ another \\ column.\bold{</p>} \\
-\bold{</col>} \\
-\bold{<col 3>} \\
+\bold{<cb n=''3''/>} \\
 \bold{<p>}And there \\ might be \\ yet another \\ column.\bold{</p>} \\
-\bold{</col>} \\
 \end{typeLatin}}
 \end{tabular}
 
@@ -290,102 +306,100 @@ In the context of tables, the term “column” refers to a vertical division in
 \label{section tables basic rule}
 
 \begin{mainrule}
-A table is marked by §<tb>§ and §</tb>§. Use §#§ as cell separators. Type a return after each row. Do not type horizontal or vertical lines or large horizontal or vertical braces.
+  A table is marked by \xmlpair{table}. Each row is marked up by the element \xml{row} and each cell therein is enclosed by \xmlpair{cell}. Do not type horizontal or vertical lines or large horizontal or vertical braces.
 \end{mainrule}
 
 \begin{clarification}
-Type the §<tb>§ and §</tb>§ tags on separate lines. Do not treat the table columns as text columns (\sect{section columns}), i.e. do not type a whole column before you go on to the next column. If the whole table is in italics (\sect{section italics}), indicate this in the §<tb>§ tag, i.e. §<tb it>§.
+Do not treat the table columns as text columns (\sect{section columns}), i.e. do not type a whole column before you go on to the next column. If the whole table is in italics (\sect{section italics}), indicate this in the \xml{table}, using the attribute \attr{table}{rend="emph"}.
 \end{clarification}
 
 \begin{sampleImage}{table_benedetti_439_2}
-
 \begin{typeLatin}
-\bold{<tb it>} \\
-\bold{<col 1>} \\
-Pag. \bold{#} Lin. \bold{#} Errata \bold{#} Correcta \\
-3 \bold{#} 29 \bold{#} æqualis \bold{#} æquali \\
-8 \bold{#} 35 \bold{#} maius \bold{#} maior \\
-9 \bold{#} 15 \bold{#} in vnitate ſuperficialis, erit ac \bold{#} in vnitate ſupreficialis erit, ac \\
-11 \bold{#} 1 \bold{#} proueuiens \bold{#} prouenientem \\
+\bold{<table rend="emph">} \\
+\bold{<cb n=''1''/>} \\
+\bold{<row><cell>}Pag. \bold{</cell><cell>} Lin. \bold{</cell><cell>} Errata \bold{</cell>}\lwr\bold{<cell>}Correcta\bold{</cell></row>} \\
+\bold{<row><cell>}3 \bold{</cell><cell>} 29 \bold{</cell><cell>} æqualis \bold{</cell><cell>} æquali\bold{</cell></row>} \\
+\bold{<row><cell>}8 \bold{</cell><cell>} 35 \bold{</cell><cell>} maius \bold{</cell><cell>} maior\bold{</cell></row>} \\
+\bold{<row><cell>}9 \bold{</cell><cell>} 15 \bold{</cell><cell>} in vnitate ſuperficialis, erit ac \bold{</cell>}\lwr\bold{<cell>} in vnitate ſupreficialis erit, ac\bold{</cell></row>} \\
+\bold{<row><cell>}11 \bold{</cell><cell>} 1 \bold{</cell><cell>} proueuiens \bold{</cell>}\lwr\bold{<cell>} prouenientem\bold{</cell></row>} \\
 \someText \\
-\bold{</col>} \\
-\bold{<col 2>} \\
-Pag. \bold{#} Lin. \bold{#} Errata \bold{#} Correcta \\
-158 \bold{#} 26 \bold{#} verſa \bold{#} verſam \\
-158 \bold{#} 26 \bold{#} ſit \bold{#} ſint \\
-162 \bold{#} 22 \bold{#} cindenda \bold{#} ſcindenda \\
-163 \bold{#} 7 \bold{#} oppoſitus \bold{#} oppoſitum \\
+\bold{</table>}
+\bold{<table rend="emph">} \\
+\bold{<cb n=''2''/>} \\
+\bold{<row><cell>}Pag. \bold{</cell><cell>} Lin. \bold{</cell><cell>} Errata \bold{</cell>}\lwr\bold{<cell>} Correcta\bold{</cell></row>} \\
+\bold{<row><cell>}158 \bold{</cell><cell>} 26 \bold{</cell><cell>} verſa \bold{</cell><cell>} verſam\bold{</cell></row>} \\
+\bold{<row><cell>}158 \bold{</cell><cell>} 26 \bold{</cell><cell>} ſit \bold{</cell><cell>} ſint\bold{</cell></row>} \\
+\bold{<row><cell>}162 \bold{</cell><cell>} 22 \bold{</cell><cell>} cindenda \bold{</cell>}\lwr\bold{<cell>} ſcindenda \bold{</cell></row>}\\
+\bold{<row><cell>}163 \bold{</cell><cell>} 7 \bold{</cell><cell>} oppoſitus \bold{</cell>}\lwr\bold{<cell>} oppoſitum\bold{</cell></row>} \\
 \someText \\
-\bold{</col>} \\
-\bold{</tb>}
+\bold{</table>}
 \end{typeLatin}
 
-If you are unsure whether the table in the example is divided into two text columns or not, use cell separators instead of §<col>§ tags:
+If you are unsure whether the table in the example is divided into two text columns or not, use cell separators instead of \xms{cb} tags:
 
 \begin{typeLatin}
-\bold{<tb it>} \\
-Pag. \bold{#} Lin. \bold{#} Errata \bold{#} Correcta \bold{#} Pag. \bold{#} Lin. \bold{#} Errata \bold{#} Correcta \\
-3 \bold{#} 29 \bold{#} æqualis \bold{#} æquali \bold{#} 158 \bold{#} 26 \bold{#} verſa \bold{#} verſam \\
-8 \bold{#} 35 \bold{#} maius \bold{#} maior \bold{#} 158 \bold{#} 26 \bold{#} ſit \bold{#} ſint \\
+\bold{<table rend="emph">} \\
+\bold{<row><cell>}Pag. \bold{</cell><cell>} Lin. \bold{</cell><cell>} Errata \bold{</cell><cell>} Correcta \bold{</cell>}\lwr\bold{<cell>} Pag. \bold{</cell><cell>} Lin. \bold{</cell><cell>} Errata \bold{</cell>}\lwr\bold{<cell>} Correcta\bold{</cell></row>} \\
+\bold{<row><cell>}3 \bold{</cell><cell>} 29 \bold{</cell><cell>} æqualis \bold{</cell><cell>} æquali \bold{</cell>}\lwr\bold{<cell>} 158 \bold{</cell><cell>} 26 \bold{</cell><cell>} verſa \bold{</cell><cell>} verſam\bold{</cell></row>} \\
+\bold{<row><cell>}8 \bold{</cell><cell>} 35 \bold{</cell><cell>} maius \bold{</cell><cell>} maior \bold{</cell>}\lwr\bold{<cell>} 158 \bold{</cell><cell>} 26 \bold{</cell><cell>} ſit \bold{</cell><cell>} ſint\bold{</cell></row>} \\
 \untranscribedText \\
-\bold{</tb>}
+\bold{</table>}
 \end{typeLatin}
 
 \end{sampleImage}
 
 \begin{crossref}
-For §it§ see \sect{section italics}. The symbol §#§ is also used to mark large spaces in table-like structures (see \sect{section table-like structures}).
+For \attr{table}{rend=''emph''} see \sect{section italics}.
 \end{crossref}
-
 
 \subsubsection{Large Horizontal Table Elements}
 \label{section large horizontal table elements}
-
 \begin{mainrule}
-Rule 1: In the case of a table element that horizontally spans more than one table cell, repeat the symbol §#§ before the table element for each cell spanned by the element, e.g. §####§ for an element spanning four cells.
+  Rule 1: In the case of a table element that horizontally spans more than one table cell, add the attribute \attr{cell}{cols} with the value the number of cells this cell includes.
+  %of how many cells this cell repeat the symbol §#§ before the table element for each cell spanned by the element, e.g. §####§ for an element spanning four cells.
 \end{mainrule}
 
-\begin{clarification}
-Do not type spaces between the §#§ symbols in this case. This rule applies even if the spanning element is the first element in a table row.
-\end{clarification}
+% \begin{clarification}
+% Do not type spaces between the §#§ symbols in this case. This rule applies even if the spanning element is the first element in a table row.
+% \end{clarification}
 
-\begin{note}
-In all other cases there should be a space before and after each §#§ symbol.
-\end{note}
+% \begin{note}
+% In all other cases there should be a space before and after each §#§ symbol.
+% \end{note}
 
 \vspace{3mm}
 \begin{mainrule}
-Rule 2: Within table cells, if text is broken into separate lines, do not type a return after the lines. Instead, type §\\§ to separate the lines.
+Rule 2: Within table cells, if text is broken into separate lines, use \xms{lb} to mark the line break.
 \end{mainrule}
 
 \vspace{3mm}
 \begin{mainruleLessImportant}
-Rule 3: If a table element spans the whole table width, type it as header/footer with §<h> </h>§ (without §#§, and do not use §\\§, but new lines).
+Rule 3: If a table element spans the whole table width, type it as header/footer with \xmlpair{head}.
 \end{mainruleLessImportant}
 
 \begin{sampleImage}{ghetaldi_p79_tabelle}
 
 \begin{typeLatin}
-\bold{<tb>} \\
-\bold{<h>}Tabula ad inueniendam qualitatem \\
-Auri, ex grauitate quam ha- \\
-bet in aere & aqua.\bold{</h>}  \\
-Qualitas \bold{\bs\bs} Auri. \bold{#} Grauitas Auri \bold{\bs\bs} in aere. \bold{####} Grauitas ... aqua. \bold{#} Miſt\~u ... ære. \\
-Part. \bold{#} Lib. \bold{#} Vnc. \bold{#} Scrup. \bold{#} Gran. \bold{#} Num. Fract. \bold{#} Part. \\
-24 \bold{#} 1 \bold{#} 11. \bold{#} 8. \bold{#} 20. \bold{#} 372 \bold{#} 0 \\
-23 \bold{#} 1 \bold{#} 11. \bold{#} 8. \bold{#} 5. \bold{#} 765 \bold{#} 1 \\
+\bold{<table>} \\
+\bold{<head>}Tabula ad inueniendam qualitatem \bold{<lb/>} \\
+Auri, ex grauitate quam ha- \bold{<lb/>} \\
+bet in aere &amp; aqua.\bold{</head>}  \\
+\bold{<row><cell>}Qualitas \bold{<lb/>} Auri. \bold{</cell><cell cols="4">} Grauitas Auri \bold{<lb/>}\lwr in aere. \bold{</cell>}\bold{<cell>} Miſt\~u ... ære.\bold{</cell></row>} \\
+\bold{<row><cell>}Part. \bold{</cell><cell>} Lib. \bold{</cell><cell>} Vnc. \bold{</cell><cell>} Scrup. \bold{</cell>}\lwr\bold{<cell>} Gran. \bold{</cell><cell>} Num. Fract. \bold{</cell><cell>} Part.\bold{</cell></row>} \\
+\bold{<row><cell>}24 \bold{</cell><cell>} 1 \bold{</cell><cell>} 11. \bold{</cell><cell>} 8. \bold{</cell>}\lwr\bold{<cell>} 20. \bold{</cell><cell>} 372 \bold{</cell><cell>} 0\bold{</cell></row>} \\
+\bold{<row><cell>}23 \bold{</cell><cell>} 1 \bold{</cell><cell>} 11. \bold{</cell><cell>} 8. \bold{</cell>}\lwr\bold{<cell>} 5. \bold{</cell><cell>} 765 \bold{</cell><cell>} 1\bold{</cell></row>} \\
 \someText \\
-\bold{</tb>} \\
-\bold{<tb>} \\
-\bold{<h>}Tabella Partis pro \\
-portionalis Deno- \\
-minatorum Auri.\bold{</h>} \\
-Pars proportio \bold{\bs\bs} nalis Auri in \bold{\bs\bs} partibus. 24. \bold{##} Differ\~etia ... aqua. \\
-Part. \bold{#} Gran. \bold{#} Num: Fract. \\
-1 \bold{#} 0. \bold{#} 1088 \\
-2 \bold{#} 1. \bold{#} 409 \\
+\bold{</table>} \\
+\bold{<table>} \\
+\bold{<head>}Tabella Partis pro \bold{<lb/>} \\
+portionalis Deno- \bold{<lb/>} \\
+minatorum Auri.\bold{</head>} \\
+\bold{<row><cell>}Pars proportio \bold{<lb/>} nalis Auri in \bold{<lb/>} partibus. 24. \bold{</cell>}\lwr\bold{<cell cols="2">} Differ\~etia ... aqua.\bold{</cell></row>} \\
+\bold{<row><cell>}Part. \bold{</cell><cell>} Gran. \bold{</cell><cell>} Num: Fract.\bold{</cell></row>} \\
+\bold{<row><cell>}1 \bold{</cell><cell>} 0. \bold{</cell><cell>} 1088\bold{</cell></row>} \\
+\bold{<row><cell>}2 \bold{</cell><cell>} 1. \bold{</cell><cell>} 409\bold{</cell></row>} \\
 \someText \\
-\bold{</tb>} \\
+\bold{</table>} \\
 \end{typeLatin}
 
 \end{sampleImage}
@@ -395,27 +409,26 @@ Part. \bold{#} Gran. \bold{#} Num: Fract. \\
 \label{section large vertical table elements}
 
 \begin{mainrule}
-Rule 4: If a table element vertically spans more than one cell, type its content in its uppermost cell. Mark each additional cell that belongs to this table element by~§"§.
+Rule 4: If a table element vertically spans more than one cell, type its content in its uppermost cell. Use the attribute \attr{cell}{rows} to mark how many rows the cell spans.
 \end{mainrule}
 
 \vspace{3mm}
 \begin{sampleImageSmall}{width=6cm}{ghetaldi_table}
-
 \begin{typeLatin}
-\bold{<tb>} \\
-Diametri \bold{\bs\bs} magnitu- \bold{\bs\bs} do. \bold{####} Aureæ ſpheræ \bold{\bs\bs} grauitas. \\
-\bold{" #} Lib. \bold{#} Vn. \bold{#} Scru. \bold{#} Gra. \\
-\bold{\{} 1/4 \bold{\}}  \bold{#} 0 \bold{#} 0 \bold{#} 2 \bold{#} \bold{\{} 29/37 \bold{\}} \\
-\bold{\{} 1/2 \bold{\}}  \bold{#} 0 \bold{#} 0 \bold{#} 16 \bold{#} 6 \bold{\{} 10/37 \bold{\}} \\
-\bold{\{} 3/4 \bold{\}}  \bold{#} 0 \bold{#} 2 \bold{#} 6 \bold{#} 21 \bold{\{} 6/37 \bold{\}} \\
-1 \bold{#} 0 \bold{#} 5 \bold{#} 10  \bold{#} 2 \bold{\{} 6/37 \bold{\}}  \\
-\bold{</tb>} \\
+\bold{<table>} \\
+\bold{<row><cell rows="2">}Diametri \bold{<lb/>} magnitu- \bold{<lb/>} do. \bold{</cell>}\lwr\bold{<cell cols="4">} Aureæ ſpheræ \bold{<lb/>} grauitas.\bold{</cell></row>} \\
+\bold{<row><cell>} Lib. \bold{</cell><cell>} Vn. \bold{</cell><cell>} Scru. \bold{</cell><cell>} Gra.\bold{</cell></row>} \\
+\bold{<row><cell><formula>} 1/4 \bold{</formula></cell><cell>} 0 \bold{</cell><cell>} 0 \bold{</cell>}\lwr\bold{<cell>} 2 \bold{</cell><cell><formula>} 29/37 \bold{</formula></cell></row>}\\
+\bold{<row><cell><formula>} 1/2 \bold{</formula></cell><cell>} 0 \bold{</cell><cell>} 0 \bold{</cell>}\lwr\bold{<cell>} 16 \bold{</cell><cell>} 6 \bold{<formula>} 10/37 \bold{</formula></cell></row>}\\
+\bold{<row><cell><formula>} 3/4 \bold{</formula></cell><cell>} 0 \bold{</cell><cell>} 2 \bold{</cell>}\lwr\bold{<cell>} 6 \bold{</cell><cell>} 21 \bold{<formula>} 6/37 \bold{</formula></cell></row>} \\
+\bold{<row><cell>}1 \bold{</cell><cell>} 0 \bold{</cell><cell>} 5 \bold{</cell><cell>} 10  \bold{</cell>}\lwr\bold{<cell>} 2 \bold{<formula>} 6/37\bold{</formula></cell></row>}\\
+\bold{</table>} \\
 \end{typeLatin}
 \end{sampleImageSmall}
 
 \vspace{-5mm}
 \begin{crossref}
-For fractions such as §{1/4}§ see \sect{section fractions}.
+For fractions such as \xmex{<formula>1/4</formula>} see \sect{section fractions}.
 \end{crossref}
 
 \vspace{3mm}
@@ -434,7 +447,9 @@ If the table elements vertically span the whole table and contain running text, 
 \label{section indexes}
 
 \begin{mainrule}
-An index is marked by §<ind>§ and §</ind>§. Use §#§ for large spaces. Type a return after each row.
+  The whole index is marked by \xmlpatt{list}{type}{index}. Enclose each entry with \xmlpair{item}.
+
+  If you can identify the page number (or \emph{ibid.} at the end of the line, enclose it in \xmlpair{ref} and ignore textual features like italics. Type a return after each row.
 \end{mainrule}
 
 % Ob sie für jede Seite einen getrennten Index machen, sollen sie selbst entscheiden.
@@ -443,42 +458,40 @@ An index is marked by §<ind>§ and §</ind>§. Use §#§ for large spaces. Type
 \begin{sampleImageSmall}[ 1]{width=10cm}{bacon_253}
 
 \begin{typeLatin}
-\bold{<ind it>} \\
-Caterpillars \bold{#} \bold{_}153\bold{_} \\
-Cements that grow hard \bold{#} \bold{_}183\bold{_} \\
-Chalk, a good compoſt, \bold{_}122, 123\bold{_}. Good for \\
-\bold{#} Paſture, as well as for Arable \bold{#} \bold{_}ibid\bold{_}. \\
-Chameleons, \bold{_}80\bold{_}. Their nouriſhment, \bold{#} \bold{_}ibid\bold{_}. \\
-\bold{#} A fond Tradition of them \bold{#} \bold{_}ibid\bold{_}. \\
-\bold{</ind>}
+\bold{<list rend="emph" type="index">} \\
+\bold{<item>}Caterpillars  \bold{<ref>}153\bold{</ref>}\bold{</item>} \\
+\bold{<item>}Cements that grow hard  \bold{<ref>}183\bold{</ref>}\bold{</item>} \\
+\bold{<item>}Chalk, a good compoſt, \bold{<ref>}122, 123\bold{</ref>}. Good for\bold{<lb/>} \\
+Paſture, as well as for Arable  \bold{<ref>}ibid\bold{</ref>}. \bold{</item>}\\
+\bold{<item>}Chameleons, \bold{<ref>}80\bold{</ref>}. Their nouriſhment,  \bold{<ref>}ibid\bold{</ref>}. \bold{</item>}\\
+\bold{<item>}A fond Tradition of them \bold{<ref>}ibid\bold{</ref>}. \bold{</item>}\\
+\bold{</list>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
-\begin{crossref}
-Within a structure in italics, the §_ _§ denote single words in upright type (see also \sect{section italics}).
-\end{crossref}
+% \begin{crossref}
+% Within a structure in italics\frage{italics}, the §_ _§ denote single words in upright type (see also \sect{section italics}).
+% \end{crossref}
 
 \begin{sampleImage}[ 2]{gallac_91}
 
 \begin{typeLatin}
-\bold{<ind>} \\
-\bold{<col 1>} \\
+\bold{<list type="index">} \\
+\bold{<cb n="1"/>} \\
 \someText \\
-Diligenza ſoverchia, quale. \bold{#} 49 \\
-Diminuzione di groſſezze, come deb- \\
-\bold{#} ba condurſi. \bold{#} 56 \\
-\bold{_}Diocleziano\bold{_}. Sue Terme. \bold{#} 51 \\
+\bold{<item>}Diligenza ſoverchia, quale. \bold{<ref>} 49 \bold{</ref></item>}\\
+\bold{<item>}Diminuzione di groſſezze, come deb- \bold{<lb/>}\\
+ ba condurſi. \bold{<ref>} 56 \bold{</ref></item>}\\
+\bold{<item><hi rend="emph">}Diocleziano\bold{</hi>}. Sue Terme. \bold{<ref>} 51 \bold{</ref></item>} \\
 \someText \\
-\bold{</col>} \\
-\bold{<col 2>} \\
+\bold{<cb n="2"/>} \\
 \someText \\
-Errori di queſto genere, cagione di \\
-\bold{#} tutti gli errori. \bold{#} 18. 19 \\
-\bold{#} Provvedimenti dei Romani con- \\
-\bold{#} tro a queſti errori. \bold{#} 19 \\
+\bold{<item>}Errori di queſto genere, cagione di \bold{<lb/>}\\
+ tutti gli errori. \bold{<ref>} 18. 19 \bold{</ref></item>}\\
+\bold{<item>} Provvedimenti dei Romani con-\bold{<lb/>} \\
+ tro a queſti errori. \bold{<ref>} 19 \bold{</ref></item>}\\
 \someText \\
-\bold{</col>} \\
-\bold{</ind>} \\
+\bold{</list>} \\
 \end{typeLatin}
 \end{sampleImage}
 
@@ -487,19 +500,21 @@ Errori di queſto genere, cagione di \\
 \label{section tables of contents}
 
 \begin{mainrule}
-A table of contents is marked by §<toc>§ and §</toc>§. Use §#§ for large spaces. Type a return after each row.
+  A table of contents is marked by \xmlpatt{list}{type}{toc}. Enclose each entry with \xmlpair{item}.
+
+  If you can identify the page number (or \emph{ibid.} at the end of the line, enclose it in \xmlpair{ref} and ignore textual features like italics. Type a return after each row and use \xms{space} for large spaces.
 \end{mainrule}
 
 \begin{sampleImageSmall}[ 1]{width=12cm}{zubler_43_2}
 
 \begin{typeLatin}
-\bold{<toc it>} \\
-Cap. 1. \bold{#} De Chorographia generatim: quid ſit, & que ad eam In-\\
-\bold{#} ſtrumenta poti{ſs}imùm requiſita, \bold{#} pag. 1. \\
-II. \bold{#} De Inſtrumenti fabricâ, \bold{#} 2 \\
-III. \bold{#} De Triangul{is}, omnium dimenſionum fundamento, \bold{#} 5 \\
+\bold{<list rend="emph" type="toc">} \\
+\bold{<item>}Cap. 1. \bold{<space/>} De Chorographia generatim: quid ſit, &amp; que ad eam In-\bold{<lb/>}\\
+ ſtrumenta poti{ſs}imùm requiſita, \bold{<ref>} pag. 1.\bold{</ref></item>} \\
+\bold{<item>}II. \bold{<space/>} De Inſtrumenti fabricâ, \bold{<ref>} 2 \bold{</ref></item>}\\
+\bold{<item>}III. \bold{<space/>} De Triangul{is}, omnium dimenſionum fundamento, \bold{<ref>} 5 \bold{</ref></item>}\\
 \someText \\
-\bold{</toc>}
+\bold{</list>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -507,36 +522,35 @@ III. \bold{#} De Triangul{is}, omnium dimenſionum fundamento, \bold{#} 5 \\
 \begin{sampleImage}[ 2]{belidor_683}
 
 \begin{typeLatin}
-\bold{<toc it>} \\
-\bold{_}CH\bold{<sc>}APITRE\bold{</sc>} I.\bold{_} Où l'on enſeigne comme ſe fait la pouſſée des \\
-\bold{#} Voutes, & où l'on raporte quelques principes tirés de la méca- \\
-\bold{#} nique pour en faciliter l'intelligence \bold{#} 2 \\
-\bold{_}C\bold{<sc>}HAP\bold{</sc>}. II. \bold{_}De la maniere de calculer l'épaiſſeur des Pié-droits \\
-\bold{#} des Voutes en plain ceintre pour eſtre en équilibre par leur ré- \\
-\bold{#} ſiſtance avec la pouſſée qu'ils ont à ſoûtenir. \bold{#} 10 \\
-\bold{</toc>} \\
+\bold{<list rend="emph" type="toc">} \\
+\bold{<item><hi rend="emph">}CH\bold{<hi rend="sc">}APITRE\bold{</hi>} I.\bold{</hi>} Où l'on enſeigne comme ſe\lwr fait la pouſſée des\bold{<lb/>} \\
+ Voutes, &amp; où l'on raporte quelques principes tirés de la méca-\bold{<lb/>} \\
+ nique pour en faciliter l'intelligence \bold{<ref>} 2 \bold{</ref></item>}\\
+\bold{<item><hi rend="emph">}C\bold{<hi rend="sc">}HAP\bold{</hi>}. II. \bold{</hi>} De la maniere de calculer\lwr l'épaiſſeur des Pié-droits \bold{<lb/>}\\
+ des Voutes en plain ceintre pour eſtre en équilibre par leur ré- \bold{<lb/>}\\
+ ſiſtance avec la pouſſée qu'ils ont à ſoûtenir. \bold{<ref>} 10\bold{</ref></item>}  \\
+\bold{</list>} \\
 \end{typeLatin}
 \end{sampleImage}
 
 
 \subsubsection{Large Spaces}
-
 \begin{mainrule}
-If a normal paragraph contains at least one large space, mark the paragraph by §#§ (i.e. §<p #>§) and mark each large space in the paragraph by §#§.
+If a normal paragraph contains larges spaces, mark them with \xms{space}.
 \end{mainrule}
 
 \begin{clarification}
-Before you use §<p #>§, make sure the paragraph is not part of a table, an index or a table of contents. In some texts the spaces after periods (“.”) is slightly larger than normal spaces; do not mark this.
+Before you use \xms{space}, make sure the paragraph is not part of a table, an index or a table of contents. In some texts the spaces after periods (“.”) is slightly larger than normal spaces; do not mark this.
 \end{clarification}
 
 \begin{sampleImageSmall}[ 2]{width=12cm}{Pappus_large_spaces}
 
 \begin{typeLatin}
-\bold{<p #>} \someText \\
-extrema ad axes \bold{#} angulorum@ continent autem hunc propoſitiones \\
-ferè exiſtentes vna multa, & varia theoremata, & linearum, & ſuperficie- \\
-rum, & ſolidorum omnia ſimul vna demonſtratione, & quæ nondum de- \\
-monſtrata ſunt, & quæ \bold{#} & in duodecimo libro horum elemento- \\
+\bold{<p>} \someText \\
+extrema ad axes \bold{<space/>} angulorum\bold{<gap/>} continent autem hunc propoſitiones \bold{<lb/>} \\
+ferè exiſtentes vna multa, &amp; varia theoremata, &amp; linearum, &amp;\lwr ſuperficie- \bold{<lb/>} \\
+rum, &amp; ſolidorum omnia ſimul vna demonſtratione, &amp; quæ nondum de- \bold{<lb/>} \\
+monſtrata ſunt, &amp; quæ \bold{<space/>} &amp; in duodecimo libro horum elemento- \bold{<lb/>} \\
 \someText \bold{</p>} \\
 \end{typeLatin}
 \end{sampleImageSmall}
@@ -559,11 +573,11 @@ Handwritten notes (\sect{section handwritten notes}) are not transcribed.
 \label{section marginal notes}
 
 \begin{mainrule}
-A note in the left margin is marked by §<mgl> </mgl>§, and a note in the right margin is marked by §<mgr> </mgr>§. Type the marginal note on separate lines, starting after the line it is closest to.
+A note in the  margins is marked by \xmlpair{note} and the attribute \attr{note}{place} with the value `margin left' or `margin right', depending on the side the note is on. Type the marginal note on separate lines, starting after the line it is closest to.
 \end{mainrule}
 
 \begin{clarification}
-Do not mark paragraphs within a marginal note, i.e. do not use §<p> </p>§.
+Do not mark paragraphs within a marginal note, i.e. do not use \xmlpair{p}.
 \end{clarification}
 
 \begin{crossref}
@@ -582,12 +596,12 @@ For anchored marginal notes see \sect{section anchored marginal notes}.
 
 \begin{typeLatin}
 \bold{<p>}
-Si ad aliquã rectã lineã * compare\li{tur} parallelogrãm\bs\tld{}u, defici\bs\tld{}es forma\\
-\bold{<mgr>}παραβληθῆ, \bold{_}ap\bold{_} \\
-\bold{_}ponatur, appli-\bold{_} \\
-\bold{_}cetur\bold{_</mgr>}\\
-quadrata, ipſum cõparat\bs\tld{}u æqu\bs\tld{}u eſt ei quod (cõtine\li{tur}) ſub ſegm\bs\tld{}etis\\
-rect\li{ae} line\li{ae}, qu\li{ae} ex ipſa cõparatione ſunt facta.
+Si ad aliquã rectã lineã * compare\xent{tr} parallelogrãm\bs\tld{}u, defici\bs\tld{}es forma\bold{<lb/>} \\
+\bold{<note place="margin right">}παραβληθῆ, \bold{<hi rend="emph">}ap \bold{<lb/>} \\
+ponatur, appli- \bold{<lb/>} \\
+cetur\bold{</hi></note>}\bold{<lb/>} \\
+quadrata, ipſum cõparat\bs\tld{}u æqu\bs\tld{}u eſt ei quod (cõtine\xent{tr}) ſub ſegm\bs\tld{}etis\bold{<lb/>} \\
+rect&ae; line&ae;, qu&ae; ex ipſa cõparatione ſunt facta.
 \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -597,7 +611,7 @@ rect\li{ae} line\li{ae}, qu\li{ae} ex ipſa cõparatione ſunt facta.
 \label{section footnotes}
 
 \begin{mainrule}
-Footnotes are marked by §<fn>§ and §</fn>§. Type the footnote where it appears on the page. Insert the footnote symbol or number in the §<fn>§ tag. The corresponding footnote symbol in the main text is marked by §<n>§. Insert the footnote symbol or number in the §<n>§ tag.
+Footnotes are marked by \xmlpair{note} and the attribute \attr{note}{place} with the value `bottom'. Type the footnote at the place of the footnote symbol or number and record that number in the \attr{note}{n} attribute.
 \end{mainrule}
 
 \begin{clarification}
@@ -607,22 +621,21 @@ Ignore the superscript of the footnote symbol. Use §<n>§ in the main text only
 \begin{tabelle}[: \, common footnote symbols]
 \begin{tabular}{llcccccc} \\
 symbol && * & † & ‡ & \§ & ‖ & ¶ \\[2mm]
-Unicode &&  \xs{U+002A} & \xs{U+2020} & \xs{U+2021} &\xs{U+00A7} & \xs{U+2016} & \xs{U+00B6} \\
+Unicode &&  \xs{\uc{002A}} & \xs{\uc{2020}} & \xs{\uc{2021}} &\xs{\uc{00A7}} & \xs{\uc{2016}} & \xs{\uc{00B6}} \\
 \end{tabular}
 \end{tabelle}
 
 \vspace{2mm}
 \begin{sampleImage}{montag_footnote2_euclid_264}
 \begin{typeLatin}
-\bold{<col 1>} \\
-\bold{<h><n} *\bold{>} LEMMA.\bold{</h>}\\
-\bold{<p>}Si fuerint tres rectæ lineæ in ratione aliqua,\\
-erit ut prima ad tertiam ita rectangulum conten-\bold{</col>}\\
-\bold{<col 2>} \\
-\bold{<h>}* ΛΗΜΜΑ.\bold{</h>} \\
-\bold{<p>}Εὰν ὦ\li{στι} τρ\li{εῖ}ς εὐθ\li{εῖ}\li{αι} \li{ἐν} λόγῳ \li{τι}νὶ, ἔ\li{σται} ὡς \\
-ἡ \li{πρ}ώ\li{τη} \li{πρ}ὸς τ\li{ὴν} τ\li{ρί}\li{την} \li{οὕ}τως \li{τὸ} \li{ὑπὸ} τῆς\bold{</col>}\\
-\bold{<fn} *\bold{>}Lemma hoc non agnoſcunt \bold{_}Codd. MSS.\bold{_</fn>}
+\bold{<cb n="1"/>} \\
+\bold{<head><note place="bottom" n="*">}Lemma hoc non agnoſcunt \bold{<hi rend="emph">}Codd.\lwr MSS.\bold{</hi></note>}LEMMA.\bold{</head>}\\
+\bold{<p>}Si fuerint tres rectæ lineæ in ratione aliqua,\bold{<lb/>} \\
+erit ut prima ad tertiam ita rectangulum conten-\\
+\bold{<cb n="2"/>} \\
+\bold{<head><note place="bottom" n="*">}Lemma hoc non agnoſcunt \bold{<hi rend="emph">}Codd.\lwr MSS.\bold{</hi></note>}ΛΗΜΜΑ.\bold{</head>}\\
+\bold{<p>}Εὰν ὦ\li{στι} τρ\li{εῖ}ς εὐθ\li{εῖ}\li{αι} \li{ἐν} λόγῳ \li{τι}νὶ, ἔ\li{σται} ὡς \bold{<lb/>} \\
+ἡ \li{πρ}ώ\li{τη} \li{πρ}ὸς τ\li{ὴν} τ\li{ρί}\li{την} \li{οὕ}τως \li{τὸ} \li{ὑπὸ} τῆς\bold{<lb/>} \\
 \end{typeLatin}
 \end{sampleImage}
 
@@ -631,63 +644,51 @@ For Greek ligatures see \sect{section greek ligatures}.
 \end{crossref}
 
 \begin{note}
-If the footnote continues on the next page, close the first part with §</fn>§ before you go on to the next page. Mark the second part on the next page with new §<fn> </fn>§ tags.
+If the footnote continues on the next page, type it in the \xml{note} element of the first page anyway.
 \end{note}
-
 
 \subsubsection{Anchored Marginal Notes}
 \label{section anchored marginal notes}
 
 \begin{mainruleLessImportant}
-An anchored marginal note is marked by §<mgl> </mgl>§ or §<mgr> </mgr>§ according to its position and typed on separate lines starting after the line it is closest to (just like a normal marginal note). In addition, the anchor is treated like a footnote symbol, i.e. it is marked by §<n>§ in the main text and it is typed inside the §<mgl>§ or §<mgr>§ tag.
+An anchored note in the margins is marked by \xmlpair{note} and the attribute \attr{note}{place} with the value `margin left' or `margin right', depending on the side the note is on. In addition, the anchor symbol is treated like a footnote symbol, i.e. it is marked by the attribute \attr{note}{n}.
 \end{mainruleLessImportant}
 
 \begin{sampleImage}{montag_mark_anchor_marg_} % Euclid of Clavius 1607, p.795
 \begin{typeLatin}
-\bold{<p it>} \someText \\
-circumferentiam datæ rectæ A, æqualem eſſe. Cùm enim ſit, vt E,\\
-ad A, ita B D, ad F G; hoc est, \bold{<n} \bold{_}a\bold{_}\bold{>} ita tota diameter circuli B C, ad\\
-\bold{<mgr} a\bold{>}15.\\
-\bold{_}quinti\bold{_}.\bold{</mgr>}\\
-totam diametrum circuli F H: Sit autem vt diameter ad diametrum,\\
-ita circumferentia B C, ad circumferentiam F H, vt Pappus demon- \\
+\bold{<p rend="emph">} \someText \\
+circumferentiam datæ rectæ A, æqualem eſſe. Cùm enim ſit, vt E,\bold{<lb/>} \\
+ad A, ita B D, ad F G; hoc est, \bold{<note place="margin right" n="a">}15.\bold{<lb/>}\lwr\bold{<hi rend="emph">}quinti.\bold{</hi></note>} ita tota diameter circuli B C, ad\bold{<lb/>} \\
+totam diametrum circuli F H: Sit autem vt diameter ad diametrum,\bold{<lb/>} \\
+ita circumferentia B C, ad circumferentiam F H, vt Pappus demon- \bold{<lb/>} \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
 
-
-
 \refstepcounter{subsubsection}
 \label{section anchored comments}
-
-
-
 
 \tocspace
 \subsection{Printed Images}
 
 \begin{note}
-Treat handwritten figures in the same way as handwritten notes (\sect{section handwritten notes}), i.e. simply mark them by §<hd>§.
+Treat handwritten figures in the same way as handwritten notes (\sect{section handwritten notes}), i.e. simply mark them by a note milestone \xmsatt{add}{rend}{handwritten}.
 \end{note}
-
 
 \subsubsection{Figures}
 \label{section figures}
 
 \begin{mainrule}
-Where a figure occurs in the text, type §<fig>§ on a separate line. If you can identify a caption of the figure, mark it by §<cap> </cap>§. Additional text that describes parts of the figure is marked by §<desc> </desc>§. Use a single §<var> </var>§ tag for variable names and numbers. Type a closing §</fig>§ tag on a separate line after all §<cap>§, §<desc>§ and §<var>§ tags.
+Where a figure occurs in the text, type \xmsatt{figure}{place}{here} on a separate line. If you can identify a caption that belongs to the figure, use \xmlatt{figure}{place}{here} and include the caption using \xmlpair{head}. Additional text that describes parts of the figure is marked by the \xml{ab} element and the attribute \attr{ab}{type="desc"}. Use another \xml{ab} element with the attribute \attr{ab}{type="var"} to record variable names and numbers.
 \end{mainrule}
 
 \begin{clarification}
-Type all §<cap>§, §<desc>§ and §<var>§ tags, in this order, on separate lines.
-%Type the caption on a separate line after <fig>.
 A figure may have more than one description.
-%Type each description on a separate line after <fig> and <cap>.
 If the same description is repeated in a figure, type it only once.
 %If the caption or a description is vertical, ignore this and type it as normal horizontal text.
-Separate the variable names and numbers in the §<var> </var>§ by spaces.
+Separate the variable names and numbers in the \xml{ab type="var"} element by spaces.
 %If there are variable names or numbers in the figure, type them all in a single §<var> </var>§ tag.
-Type §<fig/>§ instead of §<fig>§ and §</fig>§ to mark simple figures without §<cap>§, §<desc>§ or §<var>§ tags.
+Type \xms{figure} instead of \xmlpair{figure} to mark simple figures without captions, descriptions or variables.
 \end{clarification}
 
 %(The rule that a caption may be typed above or below the §<fig>§ tag has disappeared.)
@@ -698,11 +699,11 @@ Type §<fig/>§ instead of §<fig>§ and §</fig>§ to mark simple figures witho
 \begin{sampleImageSmall}[ 1: \, a simple figure without caption, descriptions or variables]{width=7cm}{fig_sans_3}
 \begin{typeLatin}
 \bold{<p>} \someText \\
-montre que vous placeriéz en cette façon \\
+montre que vous placeriéz en cette façon \bold{<lb/>} \\
 ſur une boule.\bold{</p>} \\
-\bold{<fig/>} \\
-\bold{<p>}Sous cette \bold{_}cornée\bold{_}, eſt \bold{_}l'iris\bold{_}, autre membrane, \\
-\someText \bold{<p>} \\
+\bold{<figure place="here"/>} \\
+\bold{<p>}Sous cette \bold{<hi rend="emph">}cornée\bold{</hi>}, eſt \bold{<hi rend="emph">}l'iris\bold{</hi>}, autre\lwr membrane, \bold{<lb/>} \\
+\someText \bold{</p>} \\
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -711,50 +712,49 @@ montre que vous placeriéz en cette façon \\
 \begin{typeLatin}
 \bold{<p>} \someText \\
 ſeſquipedem, circumagito, ut altera pars æquè caleſcat ab igni.\bold{</p>}\\
-\bold{<fig>} \\
-\bold{<cap it>}Paruus Vncus ferreus.\bold{</cap>}\\
-\bold{</fig>} \\
-\bold{<p>}Præterea ſi quando miſtura ſatis plumbi non habuerit, addito cum forci \\
+\bold{<figure place="here">} \\
+\bold{<head rend="emph">}Paruus Vncus ferreus.\bold{</head>}\\
+\bold{</figure>} \\
+\bold{<p>}Præterea ſi quando miſtura ſatis plumbi non habuerit, addito cum forci \bold{<lb/>} \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
 \begin{sampleImage}[ 3: \, figures with variables]{imageleftandright_4}
 \begin{typeLatin}
-\bold{<h it>_}E\bold{_}uclid. ex \bold{_}Z\bold{_}amb. \bold{_}T\bold{_}heorema \bold{_}68\bold{_}. \bold{_}P\bold{_}ropoſitio \bold{_}92\bold{_}.\bold{</h>} \\
-\bold{<p>}Si areola comprehenſa fuerit ſub rationali & apotome ſecunda\\
-\bold{<mgr>}92\bold{</mgr>}\\
+\bold{<head>}E\bold{<hi rend="emph">}uclid. ex \bold{</hi>}Z\bold{<hi rend="emph">}amb. \bold{</hi>}T\lwr\bold{<hi rend="emph">}heorema \bold{</hi>}68. P\lwr\bold{<hi rend="emph">}ropoſitio \bold{</hi>}92.\bold{</head>} \\
+\bold{<p>}Si areola comprehenſa fuerit ſub rationali &amp; apotome ſecunda\bold{<lb/>} \\
+\bold{<note place="margin right">}92\bold{</note>}\\
 quæ areolam poteſt, mediæ apotome eſt prima.\bold{</p>} \\
-\bold{<fig>} \\
-\bold{<var>}λ @ ο @ ν @ σ ξ χ @ τ μ\bold{</var>} \\
-\bold{</fig>} \\
-\bold{<p it>_}THEON\bold{_} ex \bold{_}Z\bold{_}ãb. \bold{_}A\bold{_}reola nãq; α β, \\
-\bold{<fig>}\\
-\bold{<var>}α @ @ ζ @ γ @ @ @ @\bold{</var>} \\
-\bold{</fig>} \\
-cõpreh\bs\tld{}edatur ſub ratiõali α γ, \& \bold{_}2\bold{_} a- \\
-potome α δ. \bold{_}D\bold{_}ico \li{quod} quæ α β, areolam\\
-poteſt, mediæ apotome eſt prima. \bold{_}E\bold{_}ſto\\
-enim (\li{per} 79 decimi) ipſi α δ cõgru\bs\tld{}es δ\\
+\bold{<figure>} \\
+\bold{<ab type="var">}λ \bold{<gap/>} ο \bold{<gap/>} ν \bold{<gap/>} σ ξ χ \bold{<gap/>} τ μ\bold{</ab>} \\
+\bold{</figure>} \\
+\bold{<figure>}\\
+\bold{<ab type="var">}α \bold{<gap/>} \bold{<gap/>} ζ \bold{<gap/>} γ \bold{<gap/>} \bold{<gap/>} \bold{<gap/>} \bold{<gap/>}\bold{</ab>} \\
+\bold{</figure>} \\
+\bold{<p rend="emph">}\bold{<hi rend="emph">}THEON\bold{</hi>} ex \bold{<hi rend="emph">}Z\bold{</hi>}ãb.\lwr \bold{<hi rend="emph">}A\bold{</hi>}reola nãq; α β, \\
+cõpreh\bs\tld{}edatur ſub ratiõali α γ, \&amp; \bold{<hi rend="emph">}2\bold{</hi>} a- \\
+potome α δ. \bold{<hi rend="emph">}D\bold{</hi>}ico \xent{qd} quæ α β, areolam\\
+poteſt, mediæ apotome eſt prima. \bold{<hi rend="emph">}E\bold{</hi>}ſto\\
+enim (\xent{pr} 79 decimi) ipſi α δ cõgru\bs\tld{}es δ\\
 \someText \bold{</p>}\\
 \end{typeLatin}
 \end{sampleImage}
 
 \begin{sampleImageSmall}[ 4: \, figure with descriptions and variables]{width=8cm}{voltaire_156}
 \begin{typeLatin}
-\bold{<fig>} \\
-\bold{<desc it>}Violet\bold{</desc>} \\
-\bold{<desc it>}Pourpre\bold{</desc>} \\
-\bold{<desc it>}Bleu\bold{</desc>} \\
-\bold{<desc it>}Verd\bold{</desc>} \\
-\bold{<desc it>}Jaune\bold{</desc>} \\
-\bold{<desc it>}Orange\bold{</desc>} \\
-\bold{<desc it>}Rouge\bold{</desc>} \\
-\bold{<var>}A B C\bold{</var>} \\
-\bold{</fig>} \\
+\bold{<figure>} \\
+\bold{<ab type="desc" rend="emph">}Violet\bold{</ab>} \\
+\bold{<ab type="desc" rend="emph">}Pourpre\bold{</ab>} \\
+\bold{<ab type="desc" rend="emph">}Bleu\bold{</ab>} \\
+\bold{<ab type="desc" rend="emph">}Verd\bold{</ab>} \\
+\bold{<ab type="desc" rend="emph">}Jaune\bold{</ab>} \\
+\bold{<ab type="desc" rend="emph">}Orange\bold{</ab>} \\
+\bold{<ab type="desc" rend="emph">}Rouge\bold{</ab>} \\
+\bold{<ab type="var">}A B C\bold{</ab>} \\
+\bold{</figure>} \\
 \end{typeLatin}
 \end{sampleImageSmall}
-
 
 \subsubsection{Drop Caps}
 \label{section drop caps}
@@ -764,14 +764,14 @@ Type a drop cap as an ordinary capital letter.
 \end{mainrule}
 
 \begin{clarification}
-Do not use a §<fig>§ tag (\sect{section figures}) for ornamental drop caps.
+Do not use a \xml{figure} tag (\sect{section figures}) for ornamental drop caps.
 \end{clarification}
 
 \vspace{2mm}
 \begin{sampleImage}[ 1: \, a simple drop cap]{montag_mark_dropcap_unorna}
 \begin{typeLatin}
-\bold{<p>}FErunt Ariſtipp\bs~u tempeſtate maris ad incognita littora delatum, cum in are-\\
-na vidiſſet quaſdã figuras geometricas delineatas exultant\bs\tld{}e l\li{ae}titia dixiſſe: Hæc\\
+\bold{<p>}FErunt Ariſtipp\bs~u tempeſtate maris ad incognita littora delatum, cum in are-\bold{<lb/>} \\
+na vidiſſet quaſdã figuras geometricas delineatas exultant\bs\tld{}e l&ae;titia\lwr dixiſſe: Hæc\bold{<lb/>} \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -779,11 +779,11 @@ na vidiſſet quaſdã figuras geometricas delineatas exultant\bs\tld{}e l\li{ae
 \begin{sampleImage}[ 2: \, an ornamental drop cap]{montag_mark_dropcap_orna}
 
 \begin{typeLatin}
-\bold{<p>}LV\bold{<sc>}MEN\bold{</sc>} Lunæ etiam ſi ſit lumen reflexum Solis ab ipſa Luna, ab ea tamen\\
-non ita reflectitur, vt à ſuperficie polita ſpeculi, c\bs\tld{}u eius luminis tantã quã\\
-titatem ſuper ipſum corpus lunare videamus, & eo modo terminatã quo\\
-conſpicimus. per ſe lumen, cauſa oculi eſt effectum, per accidens autem\\
-puta quod vis. Terra deinde nunquam lunari lumine (quãuis ſolaris reflexio exiſtat)\\
+\bold{<p>}LV\bold{<hi rend="sc">}MEN\bold{</hi>} Lunæ etiam ſi ſit lumen reflexum Solis ab ipſa Luna,\lwr ab ea tamen\bold{<lb/>} \\
+non ita reflectitur, vt à ſuperficie polita ſpeculi, c\bs\tld{}u eius luminis tantã quã\bold{<lb/>} \\
+titatem ſuper ipſum corpus lunare videamus, &amp; eo modo terminatã quo\bold{<lb/>} \\
+conſpicimus. per ſe lumen, cauſa oculi eſt effectum, per accidens autem\bold{<lb/>} \\
+puta quod vis. Terra deinde nunquam lunari lumine (quãuis ſolaris\lwr reflexio exiſtat)\bold{<lb/>} \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -791,32 +791,34 @@ puta quod vis. Terra deinde nunquam lunari lumine (quãuis ſolaris reflexio exi
 \vspace{-2mm}
 
 \begin{crossref}
-§<sc>§ marks small caps; see \sect{section small caps}. See also the example in \sect{Structural markup general example}.
+\xml{hi rend="sc"} marks small caps; see \sect{section small caps}. See also the example in \sect{Structural markup general example}.
 \end{crossref}
 
+\subsubsection{Figures drawn by hand}
+Treat figures drawn by hand in the same way as handwritten notes (\sect{section handwritten notes}), i.e. simply mark them by the milestone \xmsatt{add}{rend}{handwritten}.
 
 \tocspace
 \subsection{Handwritten Notes}
 \label{section handwritten notes}
 
 \begin{mainrule}
-Handwritten notes are marked by §<hd>§. Do not type the note itself.
+Handwritten notes are marked by the milestone element \xmsatt{add}{rend}{handwritten}. Do not type the note itself.
 \end{mainrule}
 
 \begin{clarification}
-Type §<hd>§ on a separate line, after the line of the main text the note is closest to.
+Type \xml{add rend="handwritten"} on a separate line, after the line of the main text the note is closest to.
 \end{clarification}
 
 \begin{sampleImage}[ 1: \, a handwritten note]{bsp_handwrittenmargin_2}
 
 \begin{typeLatin}
 \bold{<p>} \someText
-h. ſupponendo igitur in puncto. g. pondus, aut virtutem mouentem unius libræ, & in\\
-h. duarum librarum, abſ\li{que} dubio hæ duæ uirtutes in huiuſmodi diſtantijs à centro\\
-\li{ae}quales inuic\bs\tld{}e er\bs\tld{}ut, ob rationes prioribus capitibus iam allatas, & ſtatera orizontalis\\
-\bold{<hd>}\\
-manebit. Vnde clarum erit, \li{quod} quæuis etiam exigua virtus adiuncta ipſi. g. mouebit\\
-ſtateram extra orizontalem ſitum. Nunc ſi puncto. i. ex æquo medio inter. g. et. K.
+h. ſupponendo igitur in puncto. g. pondus, aut virtutem mouentem unius\lwr libræ, &amp; in\bold{<lb/>} \\
+h. duarum librarum, abſ\li{que} dubio hæ duæ uirtutes in huiuſmodi diſtantijs\lwr à centro\bold{<lb/>} \\
+&ae;quales inuic\bs\tld{}e er\bs\tld{}ut, ob rationes prioribus capitibus iam allatas, &amp;\lwr ſtatera orizontalis\bold{<lb/>} \\
+\bold{<add rend="handwritten"/>}\\
+manebit. Vnde clarum erit, \xent{qd} quæuis etiam exigua virtus adiuncta ipſi.\lwr g. mouebit\bold{<lb/>} \\
+ſtateram extra orizontalem ſitum. Nunc ſi puncto. i. ex æquo medio inter. g. et. K.\\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -825,7 +827,7 @@ manebit. Vnde clarum erit, \li{quod} quæuis etiam exigua virtus adiuncta ipſi.
 \begin{typeLatin}
 \bold{<p>} \someText \\
 ctè iuncta ad obtuſum angul\bs\tld{}u, à perp\bs\tld{}ediculari extrà depreh\bs\tld{}editur.\bold{</p>}\\
-\bold{<hd>}
+\bold{<add rend="handwritten"/>}
 \end{typeLatin}
 
 \end{sampleImage}
@@ -843,19 +845,20 @@ Example 2 contains a signature and a catchword (\sect{section catchwords and sig
 \label{section characters you are unsure about}
 
 \begin{mainrule}
-If you are not sure about a character, type §<?>§ after it. If you are unsure about a whole paragraph, type §<?>§ directly after the §<p>§ tag, i.e. §<p><?>§. A completely unreadable character is typed as §@§. If it is unclear how many characters are unreadable, use §<gap>§ instead of §@§.
+  If you are not sure about one or more characters, try to decipher them and surround the guessed characters by \xmlpair{unclear}. %If you are unsure about a whole paragraph, type \xml{unclear} after the \xml{p} tag, and \xmcl{unclear} before the \xmcl{p} tag.
+  A completely unreadable character is marked as \xms{gap}.
 \end{mainrule}
 
-\begin{clarification}
-Use one §@§ for each unreadable character, e.g. §unr@@dable§. If in doubt, use §<gap>§, e.g. §unr<gap>dable§. If you are unsure about a group of characters, for example a whole word, do not type §<?>§ repeatedly for every character, e.g. type §word<?>§ rather than §w<?>o<?>r<?>d<?>§.
-\end{clarification}
+% \begin{clarification}
+% Use one §@§ for each unreadable character, e.g. §unr@@dable§. If in doubt, use §<gap>§, e.g. §unr<gap>dable§. If you are unsure about a group of characters, for example a whole word, do not type §<?>§ repeatedly for every character, e.g. type §word<?>§ rather than §w<?>o<?>r<?>d<?>§.
+% \end{clarification}
 
 \vspace{2mm}
 \begin{sampleImage}[ 1: \, a stain]{bsp_gaptag_circumcised}
 \begin{typeLatin}
 \bold{<p>} \someText
-d & f ad quadratum f, ergo diſiunctim erit quadratum \bold{@} ad\\
-quadratum f, ergo b ad e ſicut d ad f, item per æquam pro-\\
+d &amp; f ad quadratum f, ergo diſiunctim erit quadratu\bold{<unclear>}m\bold{</unclear>}\lwr ad\bold{<lb/>} \\
+quadratum f, ergo b ad e ſicut d ad f, item per æquam pro-\bold{<lb/>} \\
 \someText \bold{</p>}
 \end{typeLatin}
 
@@ -865,9 +868,9 @@ quadratum f, ergo b ad e ſicut d ad f, item per æquam pro-\\
 
 \begin{typeLatin}
 \bold{<p>} \someText
-feſſore: cui acceptum feras quicquid hîc aut ad Gr\li{ae}cum exem\bold{<?>}plar, aut alio-\\
-qui doctè reſtitutum uideris. Adiecimus Phænomena, S\bold{@}ecularia, Pro-\\
-theoriam Marini, & Data, argumentorum ſimilitudine ind\bold{<?>}ucti. Quum\li{\bs´que}
+feſſore: cui acceptum feras quicquid hîc aut ad Gr&ae;cum\lwr exe\bold{<unclear>}m\bold{</unclear>}plar, aut alio-\bold{<lb/>} \\
+qui doctè reſtitutum uideris. Adiecimus Phænomena, S\bold{<gap/>}ecularia, Pro-\bold{<lb/>} \\
+theoriam Marini, &amp; Data, argumentorum ſimilitudine in\bold{<unclear>}d\bold{</unclear>}ucti.\lwr Quum\li{\bs´que}
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -883,7 +886,7 @@ For unknown rather than unreadable characters please refer to \sect{section unkn
 \begin{mainrule}
 If there is an unknown character in the text, add it to the numbered
 list of unknown characters. From then on, type its number whenever it
-occurs in the text, e.g. §<001>§. Keep a separate list for every
+occurs in the text, e.g. \xmsatt{g}{ref}{\#001}. Keep a separate list for every
 single text. Do not make one list for the whole work order.
 \end{mainrule}
 
@@ -897,12 +900,15 @@ Before you create a number for an unknown character, first check whether \\
  \end{clarification}
 
 \begin{clarification}
-If the character is indeed unknown: Assign the number §<001>§ to the first unknown character, §<002>§ to the second unknown character, and so on. Do not assign the same number twice. Use this number to type the unknown character. Always use the same number if the same unknown character occurs again.
+If the character is indeed unknown: Assign the number §001§ to the first unknown character, §002§ to the second unknown character, and so on and record them in the \attr{g}{ref} attribute of the \xms{g} tag, prefixed with the character §#§ . Do not assign the same number twice. Use this number to type the unknown character. Always use the same number if the same unknown character occurs again.
 \end{clarification}
 
 \begin{note}
-Make sure that for a given text there is a single list containing all unknown characters, and that everyone uses this list. When the text is sent back to us, we will need a copy of this list. (See also \sect{section file conventions}.)
+Make sure that for a given text there is a single list containing all unknown characters, and that everyone uses this list. When the text is sent back to us, we will need a copy of this list. (See also \sect{section file conventions}.) This list consists of a screenshot or a drawing of each unique unknown character and the code that you assigned to it.
 \end{note}
+
+\parbox{\linewidth}{{\htsc{Example}} \\[3mm] \includegraphics[width=\linewidth]{unknowncharacters}}
+
 
 \begin{crossref}
 For unreadable rather than unknown characters please refer to \sect{section characters you are unsure about}.
@@ -912,7 +918,7 @@ For unreadable rather than unknown characters please refer to \sect{section char
 \label{section obvious mistakes}
 
 \begin{mainrule}
-If you have reason to believe that there is a mistake in the text, use §<!>§.
+If you have reason to believe that there is a mistake in the text, surround it by \xmlpair{sic}, or if the mistake is encoded in an attribute, use a milestone tag, \xms{sic} after the element containing the mistake.
 \end{mainrule}
 
 \begin{clarification}
@@ -924,10 +930,10 @@ Do not silently correct the mistake.
 
 \vspace{-5mm}
 \begin{typeLatin}
-\bold{<mgl} a\bold{>} ... \bold{</mgl>} \\
-\bold{<mgl} b\bold{>} ... \bold{</mgl>} \\
-\bold{<mgl} c\bold{>} ... \bold{</mgl>} \\
-\bold{<mgl} e\bold{><!>} ... \bold{</mgl>} \\
+\bold{<note place="margin left" n="} a\bold{">} ... \bold{</note>} \\
+\bold{<note place="margin left" n="} b\bold{">} ... \bold{</note>} \\
+\bold{<note place="margin left" n="} c\bold{">} ... \bold{</note>} \\
+\bold{<note place="margin left" n="} e\bold{"><sic/>} ... \bold{</note>} \\
 \end{typeLatin}
 \end{example}
 
@@ -953,10 +959,10 @@ Ignore superfluous and missing spaces before and after punctuation marks and bra
 \vspace{2mm}
 \begin{sampleImage}[ 1: \, normal punctuation marks]{montag_punctuation}
 \begin{typeLatin}
-\bold{<p>}Exempli gratia, ſumemus quadratum. \bold{_}3\bold{_}. ſcilicet 9. quod in ſummam cum qua-\\
-drato. 4. colligemus, nempè. 1\bold{_}6\bold{_}. erit\bs'q; quadratum. 25. & ita quadratum. 6. hoc eſt.\\
-\bold{_}36\bold{_}. collectum cum quadrato. 8. nempè. \bold{_}6\bold{_}4. efficiet quadratum. 100. ita etiam qua-\\
-dratum. \bold{_}9\bold{_}. hoc eſt. 81. coniunctum quadrato. 12. nempè. 144. producet quadra- \\
+\bold{<p>}Exempli gratia, ſumemus quadratum. \bold{<hi rend="emph">}3\bold{</hi>}. ſcilicet 9. quod\lwr in ſummam cum qua-\bold{<lb/>} \\
+drato. 4. colligemus, nempè. 1\bold{<hi rend="emph">}6\bold{</hi>}. erit\bs'q; quadratum. 25. &amp;\lwr ita quadratum. 6. hoc eſt.\bold{<lb/>} \\
+\bold{<hi rend="emph">}36\bold{</hi>}. collectum cum quadrato. 8. nempè. \bold{<hi rend="emph">}6\bold{</hi>}4.\lwr efficiet quadratum. 100. ita etiam qua-\bold{<lb/>} \\
+dratum. \bold{<hi rend="emph">}9\bold{</hi>}. hoc eſt. 81. coniunctum quadrato. 12. nempè. 144.\lwr producet quadra- \bold{<lb/>} \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -964,9 +970,9 @@ dratum. \bold{_}9\bold{_}. hoc eſt. 81. coniunctum quadrato. 12. nempè. 144. p
 \begin{sampleImage}[ 2: \, unusual punctuation marks]{punktuation_2}
 \begin{typeLatin}
 \bold{<p>} \someText
-ſcindendus pannus uel tela: num id ſine cultro uel forfice faciet? num con-\\
-ſuet ullam ueſtem ſine acu? ne populus quidem tranſmarinus pennarum\\
-contextu corporis tegumentum faciet ſine \li{ij}ſdem inſtrumentis, nec pel-\\
+ſcindendus pannus uel tela: num id ſine cultro uel forfice faciet? num con-\bold{<lb/>} \\
+ſuet ullam ueſtem ſine acu? ne populus quidem tranſmarinus pennarum\bold{<lb/>} \\
+contextu corporis tegumentum faciet ſine &ij;ſdem inſtrumentis, nec pel-\bold{<lb/>} \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -1010,7 +1016,7 @@ Type the en dash – and the em dash — directly as Unicode characters.
 \end{mainrule}
 
 \begin{clarification}
-The en dash – (U+2013) is longer than the normal hyphen. The em dash — (U+2014) is longer than the hyphen and the en dash.
+The en dash – (\uc{2013}) is longer than the normal hyphen. The em dash — (\uc{2014}) is longer than the hyphen and the en dash.
 \end{clarification}
 
 \tocspace
@@ -1027,36 +1033,36 @@ If a character with diacritics can be easily typed and encoded as a single Unico
 
 \vspace{2mm}
 \begin{liste}[: \, characters that can be typed directly]
-ſ  \xs{(U+016F)}
+ſ  \xs{(\uc{016F})}
 \vspace{-4mm}
 \begin{longtable}[l]{c@{ }lc@{ }lc@{ }lc@{ }lc@{ }lc@{ }l}
 \multicolumn{12}{l}{\s Characters with acute accent} \\[2mm]
-á & \xs{(U+00E1)} & é & \xs{(U+00E9)} & í & \xs{(U+00ED)} & ó & \xs{(U+00F3)} & ú & \xs{(U+00FA)} && \\
-Á & \xs{(U+00C1)} & É & \xs{(U+00C9)} & Í & \xs{(U+00CD)} & Ó & \xs{(U+00D3)} & Ú & \xs{(U+00DA)} && \\
+á & \xs{(\uc{00E1})} & é & \xs{(\uc{00E9})} & í & \xs{(\uc{00ED})} & ó & \xs{(\uc{00F3})} & ú & \xs{(\uc{00FA})} && \\
+Á & \xs{(\uc{00C1})} & É & \xs{(\uc{00C9})} & Í & \xs{(\uc{00CD})} & Ó & \xs{(\uc{00D3})} & Ú & \xs{(\uc{00DA})} && \\
 \\
 \multicolumn{12}{l}{\s Characters with grave accent} \\[2mm]
-à & \xs{(U+00E0)} & è & \xs{(U+00E8)} & ì & \xs{(U+00EC)} & ò & \xs{(U+00F2)} & ù & \xs{(U+00F9)} && \\
-À & \xs{(U+00C0)} & È & \xs{(U+00C8)} & Ì & \xs{(U+00CC)} & Ò & \xs{(U+00D2)} & Ù & \xs{(U+00D9)} && \\
+à & \xs{(\uc{00E0})} & è & \xs{(\uc{00E8})} & ì & \xs{(\uc{00EC})} & ò & \xs{(\uc{00F2})} & ù & \xs{(\uc{00F9})} && \\
+À & \xs{(\uc{00C0})} & È & \xs{(\uc{00C8})} & Ì & \xs{(\uc{00CC})} & Ò & \xs{(\uc{00D2})} & Ù & \xs{(\uc{00D9})} && \\
 \\
 \multicolumn{12}{l}{\s Characters with circumflex accent} \\[2mm]
-â & \xs{(U+00E2)} & ê & \xs{(U+00EA)} & î & \xs{(U+00EE)} & ô & \xs{(U+00F4)} & û & \xs{(U+00FB)} && \\
-Â & \xs{(U+00C2)} & Ê & \xs{(U+00DA)} & Î & \xs{(U+00CE)} & Ô & \xs{(U+00D4)} & Û & \xs{(U+00DB)} && \\
+â & \xs{(\uc{00E2})} & ê & \xs{(\uc{00EA})} & î & \xs{(\uc{00EE})} & ô & \xs{(\uc{00F4})} & û & \xs{(\uc{00FB})} && \\
+Â & \xs{(\uc{00C2})} & Ê & \xs{(\uc{00DA})} & Î & \xs{(\uc{00CE})} & Ô & \xs{(\uc{00D4})} & Û & \xs{(\uc{00DB})} && \\
 \\
 \multicolumn{12}{l}{\s Characters with umlaut/diaeresis} \\[2mm]
-ä & \xs{(U+00E4)} & ë & \xs{(U+00EB)} & ï & \xs{(U+00EF)} & ö & \xs{(U+00F6)} & ü & \xs{(U+00FC)} & ÿ & \xs{(U+00FF)} \\
-Ä & \xs{(U+00C4)} & Ë & \xs{(U+00CB)} & Ï & \xs{(U+00CF)} & Ö & \xs{(U+00D6)} & Ü & \xs{(U+00DC)} & Ÿ & \xs{(U+0178)} \\
+ä & \xs{(\uc{00E4})} & ë & \xs{(\uc{00EB})} & ï & \xs{(\uc{00EF})} & ö & \xs{(\uc{00F6})} & ü & \xs{(\uc{00FC})} & ÿ & \xs{(\uc{00FF})} \\
+Ä & \xs{(\uc{00C4})} & Ë & \xs{(\uc{00CB})} & Ï & \xs{(\uc{00CF})} & Ö & \xs{(\uc{00D6})} & Ü & \xs{(\uc{00DC})} & Ÿ & \xs{(\uc{0178})} \\
 \\
 \multicolumn{12}{l}{\s Characters with tilde} \\[2mm]
-ã & \xs{(U+00E3)} & õ & \xs{(U+00F5)} & ñ & \xs{(U+00F1)} &&& \\
-Ã & \xs{(U+00C3)} & Õ & \xs{(U+00D5)} & Ñ & \xs{(U+00D1)} &&& \\
+ã & \xs{(\uc{00E3})} & õ & \xs{(\uc{00F5})} & ñ & \xs{(\uc{00F1})} &&& \\
+Ã & \xs{(\uc{00C3})} & Õ & \xs{(\uc{00D5})} & Ñ & \xs{(\uc{00D1})} &&& \\
 \\
 \multicolumn{12}{l}{\s Characters with cedilla} \\[2mm]
-ç & \xs{(U+00C7)} &&&&& \\
-Ç & \xs{(U+00E7)} \\
+ç & \xs{(\uc{00C7})} &&&&& \\
+Ç & \xs{(\uc{00E7})} \\
 \\
 \multicolumn{12}{l}{\s Common ligatures} \\[2mm]
-æ & \xs{(U+00C6)} & œ & \xs{(U+0153)} \\
-Æ & \xs{(U+00E6)} & Œ & \xs{(U+0152)} \\
+æ & \xs{(\uc{00C6})} & œ & \xs{(\uc{0153})} \\
+Æ & \xs{(\uc{00E6})} & Œ & \xs{(\uc{0152})} \\
 \end{longtable}
 \end{liste}
 
@@ -1122,26 +1128,27 @@ acute & grave & flex & diaeresis & tilde & cedilla &&& above & macron & breve \\
 \label{section italics}
 
 \begin{mainrule}
-Use underscores §_ _§ to mark the beginning and end of words or whole lines in italics. Encode only up to a few lines of text this way, enclosing each line in underscores. A whole paragraph in italics is marked by §it§ in the §<p>§ tag, i.e. §<p it>§. Also, be careful not to include punctuation marks.
+Use the element \xmlatt{hi}{rend}{emph} to mark words or whole lines in italics. Encode only up to a few lines of text this way. A whole paragraph in italics is marked by the \attr{p}{rend="emph"} in the \xml{p} tag. Also, be careful not to include punctuation marks.
 \end{mainrule}
 
 \begin{clarification}
-This applies not only to paragraphs (\sect{section paragraphs}), but also to tables (\sect{section tables}), i.e. §<tb it>§, and pages (\sect{section page breaks}), i.e. §<pb it>§. If you use §it§, do not mark the lines with additional §_ _§ to indicate italics. However, within a §<p it>§ paragraph you can use §_ _§ to mark single words in upright type (see §_THEON_§ in example 2 in \sect{section figures}).
+  This applies not only to paragraphs (\sect{section paragraphs}), but also to tables (\sect{section tables}), i.e. \xml{table rend="emph"}, and pages (\sect{section page breaks}), i.e. \xms{pb rend="emph"}. %If you use §it§, do not mark the lines with additional §_ _§ to indicate italics.
+  Within a larger \attr{p}{rend="emph"} structure like paragraph, table or page you can use \xmlpatt{hi}{rend}{emph} to mark single words in upright type (see §_THEON_§ in example 2 in \sect{section figures}).
 \end{clarification}
 
 \begin{sampleImageSmall}[ 1: \, a single word in italics]{scale=0.25}{montag_kursiv2}
 \begin{typeLatin}
-C\bold{<sc>}AMPANI\bold{</sc>} \bold{_}annotatio\bold{_}. Habito minimo, ſi cura eſt
+C\bold{<hi rend="sc">}AMPANI\bold{</hi>} \bold{<hi rend="emph">}annotatio\bold{</hi>}. Habito minimo, ſi cura eſt
 \end{typeLatin}
 \end{sampleImageSmall}
 
 \begin{sampleImage}[ 2: \, a phrase in italics, including a line break]{italics_intwolines}
 \begin{typeLatin}
 \bold{<p>} \someText\\
-bus, figuris vtar geometricis, ita enim in .2. libr. fecit Euclides, qui mo-\\
-dus, eo magis mihi arridet, quo minus eſt abſtractus, \bold{_}quoniam oportet in-\bold{_}\\
-\bold{_}telligentem phantaſmata ſpeculari\bold{_}, cum pr\li{ae}terea perſpicuum ſit, diſcretum\\
-omne, ex continui diuiſione aliquo modo oriri, ſiue actu, ſiue potentia.\\
+bus, figuris vtar geometricis, ita enim in .2. libr. fecit Euclides, qui mo-\bold{<lb/>} \\
+dus, eo magis mihi arridet, quo minus eſt abſtractus, \bold{<hi rend="emph">}quoniam\lwr oportet in-\bold{<lb/>} \\
+telligentem phantaſmata ſpeculari\bold{</hi>}, cum pr&ae;terea perſpicuum ſit, diſcretum\bold{<lb/>} \\
+omne, ex continui diuiſione aliquo modo oriri, ſiue actu, ſiue potentia.\bold{<lb/>} \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -1151,7 +1158,7 @@ omne, ex continui diuiſione aliquo modo oriri, ſiue actu, ſiue potentia.\\
 \label{section bold face}
 
 \begin{mainruleLessImportant}
-Use §<bf> </bf>§ to mark bold face.
+Use \xmlpatt{hi}{rend}{bold} to mark bold face.
 \end{mainruleLessImportant}
 
 \begin{example}
@@ -1160,7 +1167,7 @@ Use §<bf> </bf>§ to mark bold face.
 This is a \textbf{bold}  statement.
 
 \begin{typeLatin}
-This is a \bold{<bf>}bold\bold{</bf>} statement.
+This is a \bold{<hi rend="bold">}bold\bold{</hi>} statement.
 \end{typeLatin}
 \end{example}
 
@@ -1168,16 +1175,16 @@ This is a \bold{<bf>}bold\bold{</bf>} statement.
 \label{section small caps}
 
 \begin{mainrule}
-If you can identify capital letters as small caps, use §<sc> </sc>§.
+If you can identify capital letters as small caps, use \xmlpatt{hi}{rend}{sc}.
 \end{mainrule}
 
 \vspace{3mm}
 \begin{sampleImageSmall}{scale=0.2}{small_caps_euclid_515}
 
 \begin{typeLatin}
-\bold{<p>}C\bold{<sc>}AMPANVS\bold{</sc>}. Sit datus trigonus\\
-a: cui nos uolumus æquum quadra-\\
-tum deſcribere. Deſignabo ſuperfici\bs\tld{}e \\
+\bold{<p>}C\bold{<hi rend="sc">}AMPANVS\bold{</hi>}. Sit datus trigonus\bold{<lb/>} \\
+a: cui nos uolumus æquum quadra-\bold{<lb/>} \\
+tum deſcribere. Deſignabo ſuperfici\bs\tld{}e \bold{<lb/>} \\
 \someText \bold{</p>} \\
 \end{typeLatin}
 
@@ -1189,7 +1196,8 @@ tum deſcribere. Deſignabo ſuperfici\bs\tld{}e \\
 \label{section subscript and superscript}
 
 \begin{mainrule}
-Use §<_>§ and §</_>§ for subscript. Use §<^>§ and §</^>§ for superscript.
+Use \xmlpatt{hi}{rend}{sub} for subscript and \xmlpatt{hi}{rend}{sup} for superscript.
+
 \end{mainrule}
 
 \begin{example}[ 1: \, subscript]
@@ -1197,7 +1205,7 @@ Use §<_>§ and §</_>§ for subscript. Use §<^>§ and §</^>§ for superscript
 \vspace{-4mm}
 Assume that a$_1$ is negative.
 \begin{typeLatin}
-Assume that a\bold{<_>}1\bold{</_>} is negative.
+Assume that a\bold{<hi rend="sub">}1\bold{</hi>} is negative.
 \end{typeLatin}
 \end{example}
 
@@ -1206,7 +1214,7 @@ Assume that a\bold{<_>}1\bold{</_>} is negative.
 \vspace{-4mm}
 The square x$^2$ is always non-negative.
 \begin{typeLatin}
-The square x\bold{<^>}2\bold{</^>} is always non-negative.
+Assume that x\bold{<hi rend="sup">}2\bold{</hi>} is always non-negative.
 \end{typeLatin}
 \end{example}
 
@@ -1222,8 +1230,8 @@ Numbers or other symbols in superscript may indicate a footnote (\sect{section f
 \label{section underlines and overlines}
 
 \begin{mainrule}
-Underlines, i.e. lines below characters or words, are marked by §<ul> </ul>§.
-Overlines, i.e. lines above characters or words, are marked by §<ol> </ol>§.
+Underlines, i.e. lines below characters or words, are marked by \xmlpatt{hi}{rend}{ul}.
+Overlines, i.e. lines above characters or words, are marked by \xmlpair{hi}{rend}{ol}.
 \end{mainrule}
 
 % Examples (from the Formax questions: Cavalieri 1653: Special instruction was to use §{ 00 / }§ (p.0157) and §{ / 1 }§ (p.0354); now we tell them to use §<ol>§ and §<ul>§. But would this really be a good idea in a situation as in Cavalieri? The idea of overlines and underlines is that the letters look normal and there is simply a line added above or below the letters. In Cavalieri, however, the lines make the characters move up or down. $\to$ still a Special Instruction, and not a good example here.)
@@ -1236,14 +1244,14 @@ In this sentence, \underline{two words} are underlined.
 
 \vspace{-3mm}
 \begin{typeLatin}
-In this sentence, \bold{<ul>}two words\bold{</ul>} are underlined. \\
+In this sentence, \bold{<hi rend="ul">}two words\bold{</hi>} are underlined. \\
 \end{typeLatin}
 \end{example}
 
 \begin{sampleImageSmall}[ 2: \, overlines]{height=8mm}{overlines}
 
 \begin{typeLatin}
-\bold{<ol>}D E\bold{</ol><^>}3\bold{</^>} ad \bold{<ol>}A C\bold{</ol><^>}3\bold{</^>}, ita Cohærentia \\
+\bold{<hi rend="ol">}D E\bold{</hi><hi rend="sup">}3\bold{</hi>} ad \bold{<hi rend="ol">}A C\bold{</hi>}\lwr\bold{<hi rend="sup">}3\bold{</hi>}, ita Cohærentia \\
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -1256,17 +1264,17 @@ In mathematical formulas, an overline may also indicate a root (see \sect{sectio
 \label{section text in red}
 
 \begin{mainruleLessImportant}
-Text in red is marked by §<red>§ and §</red>§.
+Text in red is marked by \xmlpatt{hi}{rend}{red}.
 \end{mainruleLessImportant}
 
 \vspace{3mm}
 \begin{sampleImageSmall}{width=12cm}{red_euclid_5enhanced}
 
 \begin{typeLatin}
-\bold{<h it><red>}OMNES PERSPICVIS DEMONSTRA-\bold{</red>} \\
-tionibus, accuratiſque ſcholi\li{is} illuſtrati: nunc quartò editi, \\
-ac multarum rerum acce\li{ſs}ione post primam \\
-editionem locupletati.\bold{</h>} \\
+\bold{<head rend="emph"><hi emph="red">}OMNES PERSPICVIS DEMONSTRA-\bold{</hi>} \bold{<lb/>} \\
+tionibus, accuratiſque ſcholi&is; illuſtrati: nunc quartò editi, \bold{<lb/>} \\
+ac multarum rerum acce&sz;ione post primam \bold{<lb/>} \\
+editionem locupletati.\bold{</head>} \\
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -1286,7 +1294,7 @@ For an example of vertical text see the example in \sect{section large horizonta
 \label{section latin ligatures}
 
 \begin{mainrule}
-Resolve easy ligatures silently. Resolve difficult ligatures too, but type §{§ and §}§ around them.
+Resolve easy ligatures silently. For difficult ligatures, type the supplied entities instead.
 \end{mainrule}
 
 \begin{crossref}
@@ -1306,10 +1314,10 @@ italics & \lig{\textit{ff}} & \lig{\textit{fi}} & \lig{\textit{fl}} & \lig{\text
 \begin{liste}[ 2: \, difficult letter ligatures]
 \begin{tabular}{lllllllllll}
 \\
-\includegraphics[height=8mm]{ij_ligatur} & §{ij}§ &&
-\includegraphics[height=8mm]{is_ligature} & §{is}§ &&
+\includegraphics[height=8mm]{ij_ligatur} & \xent{ij} && %ij
+\includegraphics[height=8mm]{is_ligature} & \xent{is} && %is
 %\includegraphics[height=8mm]{ss_ligature} &
-{\Large ß} & \textit{\Large ß} & §{ſs}§
+{\Large ß} & \textit{\Large ß} & \xent{sz} %$s
 \\ \\
 \end{tabular}
 \end{liste}
@@ -1318,36 +1326,36 @@ italics & \lig{\textit{ff}} & \lig{\textit{fi}} & \lig{\textit{fl}} & \lig{\text
 
 \begin{liste}[ 3: \, difficult complex ligatures]
 \begin{longtable}[l]{lllllllllll}
-\includegraphics[height=8mm]{eogonek} & §{ae}§ \\ \\
-\includegraphics[height=8mm]{colnr} & §{con}§
+\includegraphics[height=8mm]{eogonek} & \xent{ae} \\ \\ %ae
+\includegraphics[height=8mm]{colnr} & \xent{cn} %con
 \\ \\
-\includegraphics[height=8mm]{q3} & §{que}§
+\includegraphics[height=8mm]{q3} & \xent{q3} %que
 &
-\includegraphics[height=8mm]{q3tilde} & §{quam}§
+\includegraphics[height=8mm]{q3tilde} & \xent{qm} %quam
 &&
-\includegraphics[height=8mm]{qmitslash} & §{quis}§
+\includegraphics[height=8mm]{qmitslash} & \xent{qd} %quod
 &&
-\includegraphics[height=8mm]{qmitkreis} & §{quo}§
+\includegraphics[height=8mm]{qmitkreis} & \xent{qo} %quo
 \\ \\
-\includegraphics[height=8mm]{p_stroke} & §{per}§
+\includegraphics[height=8mm]{p_stroke} & \xent{pr} %per
 \\ \\
-\includegraphics[height=8mm]{p} & §{pro}§
+\includegraphics[height=8mm]{p} & \xent{po} %pro
 \\ \\
-\includegraphics[height=8mm]{longs_p_slash} & §{secundu}§
+\includegraphics[height=8mm]{longs_p_slash} & \xent{sec} %secundu
 \\ \\
-\includegraphics[height=8mm]{t_with_curly_bar} & §{tur}§
+\includegraphics[height=8mm]{t_with_curly_bar} & \xent{tr} %tur
 \end{longtable}
 \end{liste}
 
 \begin{example}[ 1: \, words containing easy ligatures]
 
 \includegraphics[height=8mm]{neulig_fi} \quad
-\includegraphics[height=8mm]{neulig_st} \quad
+\includegraphics[height=8mm]{neulig_st} \hspace{40mm}
 \includegraphics[height=8mm]{neulig_ct}
 
 \vspace{-3mm}
 \begin{typeLatin}
-ſcientificè     \bold{_}stater\bold{_}     effectibus
+ſcientificè     \bold{<hi rend="emph">}stater\bold{</hi>}     effectibus
 \end{typeLatin}
 
 \includegraphics[height=8mm]{bsp_ligst_benedetti_13} \quad
@@ -1368,7 +1376,7 @@ poſteris        occaſione          eſſe     Sereniſſimo
 
 \vspace{-3mm}
 \begin{typeLatin}
-\bold{_}acce\li{ſs}ione\bold{_}
+\bold{<hi rend="emph">}acce\&sz;ione\bold{</hi>}
 \end{typeLatin}
 
 \includegraphics[height=8mm]{neulig_que} \quad
@@ -1381,7 +1389,7 @@ poſteris        occaſione          eſſe     Sereniſſimo
 
 \vspace{-3mm}
 \begin{typeLatin}
-utriuſ\li{que}    duo'\li{que}   \li{quo}d  qu\li{ae}    \li{con}tinuo      \li{pro}bo   \li{secundu}m
+utriuſ\xent{q3}     duo'\xent{q3}   \xent{qo}d   qu\xent{ae}    \xent{cn}tinuo      \xent{po}bo     \xent{sec}m
 \end{typeLatin}
 
 \end{example}
@@ -1402,14 +1410,14 @@ In German text, type the characters ä, ö, ü and ß directly as Unicode charac
 \vspace{-1mm}
 \begin{tabular}{@{}lccclc}
 small letters \hspace{8mm} & ä & ö & ü && ß \\[2mm]
-Unicode & \xs{U+00E4} & \xs{U+00F6} & \xs{U+00FC} && \xs{U+00DF} \\[4mm]
+Unicode & \xs{\uc{00E4}} & \xs{\uc{00F6}} & \xs{\uc{00FC}} && \xs{\uc{00DF}} \\[4mm]
 capital letters \hspace{8mm} & Ä & Ö & Ü \\[2mm]
-Unicode & \xs{U+00C4} & \xs{U+00D6} & \xs{U+00DC} \\[3mm]
+Unicode & \xs{\uc{00C4}} & \xs{\uc{00D6}} & \xs{\uc{00DC}} \\[3mm]
 \end{tabular}
 \end{tabelle}
 
 \begin{note}
-The umlauts ä, ö, and ü are already supposed to be typed directly; see the list in \sect{section characters to be typed directly}. Only the character ß is new here. In non-German text you can still type it as §{ſs}§, see \sect{section latin ligatures}.
+The umlauts ä, ö, and ü are already supposed to be typed directly; see the list in \sect{section characters to be typed directly}. Only the character ß is new here. In non-German text you can still type it as \xent{sz}, see \sect{section latin ligatures}.
 \end{note}
 
 \begin{crossref}
@@ -1427,7 +1435,7 @@ Type Greek characters directly as Unicode characters.
 \end{mainrule}
 
 \begin{clarification}
-Type characters with diacritics as precomposed characters from the Unicode Greek Extended block, i.e. §ἀ§ as the Unicode character U+1F00, etc.
+Type characters with diacritics as precomposed characters from the Unicode Greek Extended block, i.e. §ἀ§ as the Unicode character \uc{1F00}, etc.
 \end{clarification}
 
 
@@ -1440,7 +1448,7 @@ The rules for Latin punctuation apply. In addition, type the mid-dot §·§ dire
 \end{mainrule}
 
 \begin{clarification}
-The mid-dot §·§ (Greek ano teleia) has the Unicode codepoint U+0387.
+The mid-dot §·§ (Greek ano teleia) has the Unicode codepoint \uc{0387}.
 \end{clarification}
 
 \begin{crossref}
@@ -1468,7 +1476,7 @@ The acute accent above §ι§, e.g. in §{τί}§, may be vertical; in this case
 
 \vspace{-3mm}
 \begin{tabular}{ccccc}
-{\Large ϐ} && {\Large ϖ} && {\fontspec{Rgreekl2} \large õ} \\[2mm] % U+03D0, U+03D6
+{\Large ϐ} && {\Large ϖ} && {\fontspec{Rgreekl2} \large õ} \\[2mm] % \uc{03D0}, \uc{03D6}
 §β§ && §π§ && §τ§ \\[2mm]
 \end{tabular}
 \end{liste}
@@ -1582,12 +1590,12 @@ Some two-letter ligatures have different shapes within a word and as a separate 
 
 \begin{sampleImage}{greek_text_with_ligatures}
 \begin{typeGreek}
-\bold{<h>}Πάππ\li{ου} τ\li{οῦ} Αλεξαν\li{δρ}έως Σ\li{υν}α\li{γω}\li{γῆ}ς \\
-ἕβ\li{δο}\li{μο}ν.\bold{</h>} \\
+\bold{<head>}Πάππ\li{ου} τ\li{οῦ} Αλεξαν\li{δρ}έως Σ\li{υν}α\li{γω}\li{γῆ}ς \bold{<lb/>} \\
+ἕβ\li{δο}\li{μο}ν.\bold{</head>} \\
 \bold{<p>}Πε\li{ρι}έχ\li{ει} δὲ λήμμα\li{τα} τ\li{οῦ} ἀναλυο\li{μέν}\li{ου} \li{τό}\li{πο}υ.\bold{</p>} \\
-\bold{<p>}Ο καλ\li{ού}\li{μεν}ος ἀναλυό\li{μεν}ος, Ερμόδωρε \li{τέ}κνον, \\
-κα\li{τὰ} σύ\li{λλ}η\li{ψι}ν ἰ\li{δί}α \li{τί}ς ἐ\li{στι}ν ὕλη \li{πα}ρε\li{σκ}\li{ευ}ασ\li{μέν}η, \\
-\li{μετὰ} τ\li{ὴν} \li{τῶν} \li{κο}ινῶν \li{στο}ιχ\li{εί}ων \li{πο}ίη\li{σι}ν, \li{το}ῖς β\li{ου}λομένοις \\
+\bold{<p>}Ο καλ\li{ού}\li{μεν}ος ἀναλυό\li{μεν}ος, Ερμόδωρε \li{τέ}κνον, \bold{<lb/>} \\
+κα\li{τὰ} σύ\li{λλ}η\li{ψι}ν ἰ\li{δί}α \li{τί}ς ἐ\li{στι}ν ὕλη \li{πα}ρε\li{σκ}\li{ευ}ασ\li{μέν}η, \bold{<lb/>} \\
+\li{μετὰ} τ\li{ὴν} \li{τῶν} \li{κο}ινῶν \li{στο}ιχ\li{εί}ων \li{πο}ίη\li{σι}ν, \li{το}ῖς β\li{ου}λομένοις \bold{<lb/>} \\
 \someText \bold{</p>}
 \end{typeGreek}
 \end{sampleImage}
@@ -1603,7 +1611,7 @@ Some two-letter ligatures have different shapes within a word and as a separate 
 %(Note: This font ist Walden's recreation of Breitkopf Fraktur. As soon as I can use it with XeTeX, I will add a second Fraktur/Schwabacher font, probably Unger Fraktur. Variations: slimmer letters, umlaut with normal dots (ö) or lines (ő), proper capital umlauts (Breitkopf uses Ae where the letters are closer than normal A and e, etc.), capital J. Letter variation z with and without closed circle. Or is a second font unnecessary? An alternative would be to include real examples in different Fraktur fonts, for instance in the “alphabet” subsection, or even Special Instructions for \emph{each} text in Fraktur, which only shows a few lines of text plus transcription.)
 
 \begin{mainrule}
-Mark single words or lines in Fraktur by §<fr> </fr>§. Mark paragraphs in Fraktur by §<p fr>§. Mark whole pages in Fraktur by §<pb fr>§. If the whole book is in Fraktur or mostly in Fraktur, simply type §<fr>§ at the beginning of the text before the first §<pb>§ tag. Type letters in Fraktur as normal roman characters.
+Mark single words or lines in Fraktur by \xmlpatt{hi}{rend}{fr}. Mark paragraphs in Fraktur by \xml{p rend="fr"}. Mark whole pages in Fraktur by \xms{pb rend="fr"}. If the whole book is in Fraktur or mostly in Fraktur, add the \attr{body}{rend="fr"} attribute to the \xml{body} tag. Type letters in Fraktur as normal roman characters.
 \end{mainrule}
 
 \vspace{2mm}
@@ -1621,7 +1629,7 @@ capital letters & \fraktur{A} & \fraktur{B} & \fraktur{C} & \fraktur{D} & \frakt
 \begin{tabular}{@{}lccclc}
 umlaut \hspace{8mm} & \fraktur{ä} & \fraktur{ö} & \fraktur{ü} & \hspace{30mm} sharp s  & \fraktur{ß} \\[2mm]
 & §ä§ & §ö§ & §ü§ && §ß§ \\[1mm]
-& \xs{U+00E4} & \xs{U+00F6} & \xs{U+00FC} && \xs{U+00DF} \\ \\
+& \xs{\uc{00E4}} & \xs{\uc{00F6}} & \xs{\uc{00FC}} && \xs{\uc{00DF}} \\ \\
 \end{tabular}
 
 \begin{note}
@@ -1629,7 +1637,7 @@ Umlaut may also be indicated by two dots above the letter as in normal roman fon
 \end{note}
 
 \begin{crossref}
-If a paragraph in Fraktur contains single words in roman characters, they are marked by §<rom> </rom>§ (see \sect{section words in roman characters})
+If a paragraph in Fraktur contains single words in roman characters, they are marked by \xmlpatt{hi}{rend}{rom} (see \sect{section words in roman characters})
 \end{crossref}
 
 
@@ -1682,12 +1690,12 @@ Prieſter-Deſpotie      . , : ; ! ? ( )
 
 \begin{sampleImageSmall}[ 1]{width=12cm}{bernstein1216_672}
 \begin{typeLatin}
-\bold{<p fr>}Newton hat aber noch mehr entdeckt. Er hat durch Rech- \\
-nungen nachgewieſen, daß man genau aus der Umlaufszeit \\
-eines Planeten beweiſen kann, wie ſtark die Anziehungskraft \\
-der Sonne auf ihn wirkt. Iſt nämlich die Anziehungskraft \\
-ſtark, ſo wird ſein Umlauf ſchnell ſein; iſt die Anziehungs- \\
-kraft ſchwach, ſo wird ein Planet langſamer um die Sonne \\
+\bold{<p rend="fr">}Newton hat aber noch mehr entdeckt. Er hat durch Rech- \bold{<lb/>} \\
+nungen nachgewieſen, daß man genau aus der Umlaufszeit \bold{<lb/>} \\
+eines Planeten beweiſen kann, wie ſtark die Anziehungskraft \bold{<lb/>} \\
+der Sonne auf ihn wirkt. Iſt nämlich die Anziehungskraft \bold{<lb/>} \\
+ſtark, ſo wird ſein Umlauf ſchnell ſein; iſt die Anziehungs- \bold{<lb/>} \\
+kraft ſchwach, ſo wird ein Planet langſamer um die Sonne \bold{<lb/>} \\
 laufen.\bold{</p>} \\
 \end{typeLatin}
 \end{sampleImageSmall}
@@ -1696,29 +1704,29 @@ laufen.\bold{</p>} \\
 
 \begin{sampleImageSmall}[ 2]{width=12cm}{adams_29}
 \begin{typeLatin}
-\bold{<p fr>}Der innere weſentliche Unterſchied zwiſchen elektri- \\
-ſchen und nicht-elektriſchen Körpern gehört zu den noch \\
-unentdeckten Geheimniſſen der Natur. Nur ſoviel iſt \\
-ausgemacht, daß das leitende Vermögen der Körper eini- \\
-germaßen von der Wärme abhängt, oder durch dieſelbe \\
-verändert wird. Glas, Harz und viele andere elektrische \\
-Körper werden durch die Hitze in Leiter verwandlet; da \\
-hingegen die Kälte, wenn nur keine Feuchtigkeit dabey \\
-iſt, alle elektriſche Subſtanzen noch ſtärker elektriſch \\
+\bold{<p rend="fr">}Der innere weſentliche Unterſchied zwiſchen elektri- \bold{<lb/>} \\
+ſchen und nicht-elektriſchen Körpern gehört zu den noch \bold{<lb/>} \\
+unentdeckten Geheimniſſen der Natur. Nur ſoviel iſt \bold{<lb/>} \\
+ausgemacht, daß das leitende Vermögen der Körper eini- \bold{<lb/>} \\
+germaßen von der Wärme abhängt, oder durch dieſelbe \bold{<lb/>} \\
+verändert wird. Glas, Harz und viele andere elektrische \bold{<lb/>} \\
+Körper werden durch die Hitze in Leiter verwandlet; da \bold{<lb/>} \\
+hingegen die Kälte, wenn nur keine Feuchtigkeit dabey \bold{<lb/>} \\
+iſt, alle elektriſche Subſtanzen noch ſtärker elektriſch \bold{<lb/>} \\
 macht.\bold{</p>} \\
 \end{typeLatin}
 \end{sampleImageSmall}
 
 \begin{sampleImage}[ 3]{cardano_226}
 \begin{typeLatin}
-\bold{<p fr>}Die weil aber nitt geleich volget wann ſie geberen/ daß ſie auch einerley \\
-thier ſeyend/ als in den roſſen vnd eſſlen beſchicht/ wöllen wir l\li{uo}gen ob die \\
-ſo gehoren ſeind/ etwas verletzet werden/ wie die maul thier. dañ ſie werden \\
-auß zweyerley arten geboren. Wölche aber wider geberen/ die ſeind auß ge \\
-leicher art geboren/ als auß einem hund vnd fuchs. Wir müſſend auch die \\
-beſondere würckungen ergründen/ als wann ein hund ein beſondere nei- \\
-gung z\li{uo} dem menschen/ daß roß hatt ſein beſonder geſchrey/ der pfauw ri- \\
-chtet ſein ſchwantz auff in ein ring/ der menſch iſt allein mitt vernunfft be- \\
+\bold{<p rend="fr">}Die weil aber nitt geleich volget wann ſie geberen/ daß ſie auch\lwr einerley \bold{<lb/>} \\
+thier ſeyend/ als in den roſſen vnd eſſlen beſchicht/ wöllen wir l\li{uo}gen ob die \bold{<lb/>} \\
+ſo gehoren ſeind/ etwas verletzet werden/ wie die maul thier. dañ ſie werden \bold{<lb/>} \\
+auß zweyerley arten geboren. Wölche aber wider geberen/ die ſeind auß ge \bold{<lb/>} \\
+leicher art geboren/ als auß einem hund vnd fuchs. Wir müſſend auch die \bold{<lb/>} \\
+beſondere würckungen ergründen/ als wann ein hund ein beſondere nei- \bold{<lb/>} \\
+gung z\li{uo} dem menschen/ daß roß hatt ſein beſonder geſchrey/ der pfauw ri- \bold{<lb/>} \\
+chtet ſein ſchwantz auff in ein ring/ der menſch iſt allein mitt vernunfft be- \bold{<lb/>} \\
 gabt.\bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -1736,7 +1744,7 @@ The last example has a few peculiarities: There is a letter variation of the let
 \label{section sperrung}
 
 \begin{mainrule}
-Words or groups of words in Sperrung, i.e. words with extra space between each letter, are marked by §<sp> </sp>§.
+Words or groups of words in Sperrung, i.e. words with extra space between each letter, are marked by \xmlpatt{hi}{rend}{sp}.
 \end{mainrule}
 
 \begin{clarification}
@@ -1746,11 +1754,11 @@ Do not type the spaces in the words in Sperrung.
 \vspace{3mm}
 \begin{sampleImageSmall}{width=12cm}{sperrung}
 \begin{typeLatin}
-\bold{<p fr>}Das Meiſterwerk, das der Menſch mit zur Welt bringt, \\
-iſt das \bold{<sp>}Auge\bold{</sp>}; das Kunſtwerk, das er dem Auge ähnlich her- \\
-vorbringt, iſt die \bold{<sp>}Kamera-Obscura\bold{</sp>}. Wir wollen ſie nun \\
-beide näher kennen lernen, um ſie vergleichend neben einander \\
-ſtellen zu können.\bold{<p fr>}
+\bold{<p rend="fr">}Das Meiſterwerk, das der Menſch mit zur Welt bringt, \bold{<lb/>} \\
+iſt das \bold{<hi rend="sp">}Auge\bold{</hi>}; das Kunſtwerk, das er dem Auge ähnlich her- \bold{<lb/>} \\
+vorbringt, iſt die \bold{<hi rend="sp">}Kamera-Obscura\bold{</hi>}. Wir wollen ſie nun \bold{<lb/>} \\
+beide näher kennen lernen, um ſie vergleichend neben einander \bold{<lb/>} \\
+ſtellen zu können.\bold{</p>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -1759,7 +1767,7 @@ beide näher kennen lernen, um ſie vergleichend neben einander \\
 \label{section words in roman characters}
 
 \begin{mainrule}
-Within a paragraph or whole page in Fraktur, single words in roman characters are marked by  §<rom> </rom>§. A whole paragraph in roman characters is marked by §<p rom>§.
+Within a paragraph or whole page in Fraktur, single words in roman characters are marked by \xmlpatt{hi}{rend}{rom}. A whole paragraph in roman characters is marked by \xml{p rend="rom"}.
 \end{mainrule}
 
 \begin{clarification}
@@ -1769,8 +1777,8 @@ Words in Greek are not explicitly marked.
 \vspace{3mm}
 \begin{sampleImageSmall}{width=8cm}{rom_tag_3}
 \begin{typeLatin}
-\bold{<p fr>}Blume der Wieſen-Salbei \bold{<rom>}(Salvia \\
-pratensis)\bold{</rom>} ſchwach vergrößert.\bold{</p>} \\
+\bold{<p rend="fr">}Blume der Wieſen-Salbei \bold{<hi rend="rom">}(Salvia \bold{<lb/>} \\
+pratensis)\bold{</hi>} ſchwach vergrößert.\bold{</p>} \\
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -1788,12 +1796,12 @@ Type common mathematical symbol directly as Unicode characters.
 \begin{tabelle}[: \, common mathematical symbols]
 \begin{tabular}{@{}lc@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c} \\
 symbol & ′ & ″ & ± & \unicode{∴} & ° & ∞ & · & ÷ & √ & Ŗ \\[2mm]
-Unicode & \xs{U+2032} & \xs{U+2033} & \xs{U+00B1} & \xs{U+2234} & \xs{U+00B0} & \xs{U+221E} & \xs{U+00F7} & \xs{U+00B7} & \xs{U+221A} & \xs{U+0156} \\[2mm]
+Unicode & \xs{\uc{2032}} & \xs{\uc{2033}} & \xs{\uc{00B1}} & \xs{\uc{2234}} & \xs{\uc{00B0}} & \xs{\uc{221E}} & \xs{\uc{00F7}} & \xs{\uc{00B7}} & \xs{\uc{221A}} & \xs{\uc{0156}} \\[2mm]
 \end{tabular}
 \end{tabelle}
 
 \begin{note}
-Type the Greek punctuation mark §·§ directly as Unicode character U+0387 (see \sect{section greek punctuation}).
+Type the Greek punctuation mark §·§ directly as Unicode character \uc{0387} (see \sect{section greek punctuation}).
 \end{note}
 
 \tocspace
@@ -1801,22 +1809,26 @@ Type the Greek punctuation mark §·§ directly as Unicode character U+0387 (see
 \label{section fractions}
 
 \begin{mainrule}
-Type fractions in one line. Use § {  /  } § to mark beginning, fraction line and ending.
+Type fractions in one line. Use \xmex{<formula> / </formula>} to mark beginning, fraction line and ending.
 \end{mainrule}
 
 \begin{sampleImageSmall}{height=15mm}{fraction}
 
 \begin{typeMath}
-à 3 \{1417203/9999999\}.
+à 3 <formula>1417203/9999999</formula>.
 \end{typeMath}
 
 If you are unsure whether this is a single fraction $\frac{1417203}{9999999}$, type it as separate fractions:
 
 \begin{typeMath}
-à 3 \{1/9\} \{4/9\} \{1/9\} \{7/9\} \{2/9\} \{0/9\} \{3/9\}.
+à 3 <formula>1/9</formula> <formula>4/9</formula> \lwr<formula>1/9</formula> <formula>7/9</formula>\lwr <formula>2/9</formula> <formula>0/9</formula>\lwr <formula>3/9</formula>.
 \end{typeMath}
 
 \end{sampleImageSmall}
+
+\begin{note}
+If there is another construct in a fraction that should also be surrounded by \xmlpair{formula}, leave those tags out. Just type the outer \xml{formula} tags.
+\end{note}
 
 
 \tocspace
@@ -1824,17 +1836,17 @@ If you are unsure whether this is a single fraction $\frac{1417203}{9999999}$, t
 \label{section roots}
 
 \begin{mainrule}
-Roots are marked by §√{ }§. If there is a number or letter above the root symbol, type it in square brackets after after the §√§, e.g. §√[3]§.
+Roots are surrounded by \xmlpair{formula}, prefixed by §√§ and the term of the root surrounded by §{ }§. If there is a number or letter above the root symbol, type it in square brackets after after the §√§, e.g. §√[3]§.
 \end{mainrule}
 
 \begin{clarification}
-The root symbol §√§ has the Unicode codepoint U+221A.
+The root symbol §√§ has the Unicode codepoint \uc{221A}.
 \end{clarification}
 
 \begin{clarification}
 Roots consist of a root symbol followed by an overlined mathematical term. The overline may or may not be connected to the root symbol.
 If the overline is missing, type only the root symbol without §{ }§.
-If there is no root symbol but you can still identify the overline as a root, insert §√§. If you are not sure whether the overline is part of a root, do not insert §√§ and use §<ol> </ol>§ for the overline (see \sect{section underlines and overlines}).
+If there is no root symbol but you can still identify the overline as a root, insert §√§. If you are not sure whether the overline is part of a root, do not insert §√§ and use §<hi rend="ol"> </ol>§ for the overline (see \sect{section underlines and overlines}).
 \end{clarification}
 
 %\newpage
@@ -1846,21 +1858,21 @@ If there is no root symbol but you can still identify the overline as a root, in
 root symbol & overline & & \\[2mm]
 yes & yes & §√{ }§ & (see example 1) \\[1mm]
 yes & no & §√§ & (see example 2) \\[1mm]
-no & yes & §√{ }§ or § <ol> </ol>§ & (see example 3) \\
+no & yes & §√{ }§ or § <hi rend="ol"> </ol>§ & (see example 3) \\
 \end{tabular}
 \end{tabelle}
 
 \vspace{7mm}
 \begin{sampleImageSmall}[ 1: \, root symbol with unconnected overline]{width=10cm}{root_huygens2_218}
 \begin{typeLatin}
-√\bold{\{_}mm\bold{_} - \bold{_}o x\bold{_} + \bold{\{_}ppxx\bold{_} / \bold{_}gg\bold{_\} \}}, ut oportebat. \\
+\bold{<formula>}√\bold{\{<hi rend="emph">}mm\bold{</hi>} - \bold{<hi rend="emph">}o x\bold{</hi>} + \bold{<hi rend="emph">}\lwr ppxx\bold{</hi>} / \bold{<hi rend="emph">}gg\bold{</hi></formula>}, ut oportebat. \\
 \end{typeLatin}
 \end{sampleImageSmall}
 
 \vspace{3mm}
 \begin{sampleImageSmall}[ 2: \, root symbol without overline]{width=5cm}{root_belidor_p161}
 \begin{typeLatin}
-MP = y = \bold{\{} √ bb; \bold{/} 2 \bold{\}} \\
+MP = y = \bold{<formula>} √ \bold{\{}bb;\bold{\}} \bold{/} 2 \bold{</formula>} \\
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -1872,23 +1884,27 @@ MP = y = \bold{\{} √ bb; \bold{/} 2 \bold{\}} \\
 \begin{sampleImage}[ 3: \, overline without and with root symbol]{root_musschen_625}
 \begin{typeLatin}
 \bold{<p>} \someText
-cetur AD aut DB, \bold{_}r\bold{_}. BG ſit = \bold{_}x\bold{_}. eritque FG\bold{<^>}q\bold{</^>} = 2 \bold{_}r x\bold{_} - \bold{_}x x\bold{_}, unde \\
-Cubus FG = √\bold{\{}2 \bold{_}rx\bold{_} - \bold{_}xx\bold{_}\bold{\}} \bold{<001>} √\bold{\{}2 \bold{_}rx\bold{_} - \bold{_}xx\bold{_}.\bold{\}} & Cubus AD = \bold{_}r\bold{_<^>}3\bold{</^>}. qua- \\
-re Cohærentia baſeos ADC eſt ad eam baſeos FGE uti \bold{_}r\bold{_}\bold{<^>}3\bold{</^>} ad \\
+cetur AD aut DB, \bold{<hi rend="emph">}r\bold{</hi>}. BG ſit = \bold{<hi rend="emph">}x\bold{</hi>}.\lwr eritque FG\bold{<hi rend="sup">}q\bold{</hi>} = 2 \bold{<hi rend="emph">}r x\bold{</hi>} - \bold{<hi rend="emph">}x\lwr x\bold{</hi>}, unde \bold{<lb/>} \\
+Cubus FG = \bold{<formula>}√\bold{\{}2 \bold{<hi rend="emph">}rx\bold{</hi>} - \bold{<hi rend="emph">}xx\bold{</hi>}\bold{\}</formula>}\lwr \bold{<g ref="\#001"/>} \bold{<formula>}√\bold{\{}2 \bold{<hi rend="emph">}rx\bold{</hi>} - \bold{<hi rend="emph">}xx\bold{</hi>}.\bold{\}}\lwr\bold{</formula>} &amp; Cubus AD = \bold{<hi rend="emph">}r\bold{</hi><hi rend="sup">}3\bold{</hi>}. qua- \bold{<lb/>}\\
+re Cohærentia baſeos ADC eſt ad eam baſeos FGE uti \bold{<hi rend="emph">}r\bold{</hi>}\lwr\bold{<hi rend="sup">}3\bold{</hi>} ad \bold{<lb/>}\\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
 
 \begin{note}
-If you are not sure whether the first overline is part of a root, type §<ol>2 _rx_ - _xx_</ol>§.
+If you are not sure whether the first overline is part of a root, type \xmex{<hi rend="ol">2 <hi rend="emph">rx</hi> - <hi rend="emph">xx</hi></hi>}.
 \end{note}
 
 \vspace{3mm}
 \begin{sampleImageSmall}[ 4: \, third root]{width=5cm}{root3_bernoulli_216}
 \begin{typeLatin}
-D √[3] \bold{_}s\bold{_} - \bold{_}d\bold{_} ad D - \bold{_}d\bold{_}
+D \bold{<formula>}√[3] \bold{\{<hi rend="emph">}s\bold{</hi>\}</formula>} - \bold{<hi rend="emph">}d\bold{</hi>} ad D - \lwr\bold{<hi rend="emph">}d\bold{</hi>}
 \end{typeLatin}
 \end{sampleImageSmall}
+
+\begin{note}
+If there is another construct in a root that should also be surrounded by \xmlpair{formula}, leave those tags out. Just type the outer \xml{formula} tags.
+\end{note}
 
 
 
@@ -1908,7 +1924,7 @@ Type common symbols directly as Unicode characters.
 \vspace{-7mm}
 \begin{tabular}{@{}lc@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c} \\
 symbol & \unicode{☿} & \unicode{♀} & \unicode{♁} & \unicode{♂} & \unicode{♃} & \unicode{♄} \\[2mm]
-Unicode & \xs{U+263F} & \xs{U+2640} & \xs{U+2641} & \xs{U+2642} & \xs{U+2643} & \xs{U+2644} \\[2mm]
+Unicode & \xs{\uc{263F}} & \xs{\uc{2640}} & \xs{\uc{2641}} & \xs{\uc{2642}} & \xs{\uc{2643}} & \xs{\uc{2644}} \\[2mm]
 \end{tabular}
 \end{tabelle}
 
@@ -1918,9 +1934,9 @@ Unicode & \xs{U+263F} & \xs{U+2640} & \xs{U+2641} & \xs{U+2642} & \xs{U+2643} & 
 \vspace{-7mm}
 \begin{tabular}{@{}lc@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c} \\
 symbol & \unicode{♈} & \unicode{♉} & \unicode{♊} & \unicode{♋} & \unicode{♌} & \unicode{♍} \\[2mm]
-Unicode & \xs{U+2648} & \xs{U+2649} & \xs{U+264A} & \xs{U+264B} & \xs{U+264C} & \xs{U+264D} \\[4mm]
+Unicode & \xs{\uc{2648}} & \xs{\uc{2649}} & \xs{\uc{264A}} & \xs{\uc{264B}} & \xs{\uc{264C}} & \xs{\uc{264D}} \\[4mm]
 symbol & \unicode{♎} & \unicode{♏} & \unicode{♐} & \unicode{♑} & \unicode{♒} & \unicode{♓} \\[2mm]
-Unicode & \xs{U+264E} & \xs{U+264F} & \xs{U+2650} & \xs{U+2651} & \xs{U+2652} & \xs{U+2653} \\[2mm]
+Unicode & \xs{\uc{264E}} & \xs{\uc{264F}} & \xs{\uc{2650}} & \xs{\uc{2651}} & \xs{\uc{2652}} & \xs{\uc{2653}} \\[2mm]
 \end{tabular}
 \end{tabelle}
 
@@ -1934,6 +1950,6 @@ Unicode & \xs{U+264E} & \xs{U+264F} & \xs{U+2650} & \xs{U+2651} & \xs{U+2652} & 
 \vspace{-7mm}
 \begin{tabular}{@{}lc@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c@{\, }c} \\
 symbol & \unicode{℞} \\[2mm]
-Unicode & \xs{U+211E} \\[2mm]
+Unicode & \xs{\uc{211E}} \\[2mm]
 \end{tabular}
 \end{tabelle}
