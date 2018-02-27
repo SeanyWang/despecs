@@ -45,6 +45,13 @@ Since this the expected result is a valid XML file, at least the charaters \& an
 \section{General Markup}
 
 \tocspace
+\subsection{Book}
+\label{booklevel}
+\begin{mainrule}
+Enclose the whole transcription within the tags \xmlpair{body}. All other tags belong between the opening \xml{body} and closing \xmcl{body}.
+\end{mainrule}
+
+
 \subsection{Pages}
 
 \begin{mainrule}
@@ -67,7 +74,7 @@ The position of the page number, e.g. at the top or bottom of the page, will not
 
 \begin{typeLatin}
 \bold{<pb n="2"/><fw type="head">}GEOMET. ELEMENT. EVCLIDIS\bold{</fw>} \\
-ſunt ӕquales. 16 Et hic quidem punctus, centrum circuli dicitur.\bold{</p>} \\
+\bold{<lb/>}ſunt ӕquales. 16 Et hic quidem punctus, centrum circuli dicitur.\bold{</p>} \\
 \untranscribedText
 \end{typeLatin}
 \end{sampleImage}
@@ -114,7 +121,7 @@ The left rectangle contains the signature (§Ec 2§) and the right rectangle the
 \subsection{Text Blocks}
 \label{textblocks}
 \begin{mainrule}
-Type a \xms{lb} element after each line of the printed page, except for the last line of a paragraph.
+Type an \xms{lb} element at the beginning of each line of text of the printed page. Exceptions are the elements \xmlatt{p}{type}{footer}, \xml{head}, \xml{item}, \xml{cell}, \xml{note} and \xml{ab} if the contained text is not longer than one line.
 \end{mainrule}
 
 \begin{clarification}
@@ -134,9 +141,9 @@ All headings are tagged in the same way, regardless of the font size. Do not typ
 
 \begin{sampleImageSmall}{width=.7\linewidth}{montag_headings_euclid_233}
 \begin{typeLatin}
-\bold{<head>}EUCLIDIS\bold{<lb/>} \\
-ELEMENTORUM\bold{<lb/>} \\
-LIBER DECIMUS.\bold{</head>}
+\bold{<head>}\bold{<lb/>}EUCLIDIS \\
+\bold{<lb/>}ELEMENTORUM \\
+\bold{<lb/>}LIBER DECIMUS.\bold{</head>}
 \end{typeLatin}
 or alternatively, if you are unsure whether each line is a separate heading:
 \begin{typeLatin}
@@ -163,16 +170,16 @@ If the first line of the paragraph is indented, this will not be encoded. If the
 \begin{sampleImage}{paragraph_benedetti_299}
 \begin{typeLatin}
 \untranscribedText \bold{</p>} \\
-\bold{<p>}Secunda cauſa eſt, quia quoduis graue corpus, aut per naturam, aut per vim mo-\bold{<lb/>} \\
-tum, rectitudinem itineris naturaliter appetat, quod clarè cognoſcere poſſumus,\bold{<lb/>} \\
-proijciendo lapides funda, &amp; circunducentes brachium, nam funes tanto maius\bold{<lb/>} \\
-pondus acquirunt, &amp; manum tanto magis onerant, quanto velocius voluitur funda,\bold{<lb/>} \\
-&amp; incitatur motus, quod ab appetitu naturali inſito ei corpori per lineã rectam\lwr pro-\bold{<lb/>} \\
-grediendi procedit. Vnde fit, vt pondus circunferentiæ ipſius rotæ, tanto facilius\lwr cir-\bold{<lb/>} \\
-cunuoluatur, &amp; ex ſeipſo tanto longiori tempore moueatur, quanto longius diſtat\lwr  à\bold{<lb/>} \\
-centro, cum eius iter tanto minus ſit curuum. Hanc igitur ob cauſam, rota, quanto\bold{<lb/>} \\
-maior erit, eiuſ\bs´q; pondus tanto magis vicinum circunferentiæ, tanto magis\lwr durabit\bold{<lb/>} \\
-impetus motus aſſumptus.\bold{</p>} \\
+\bold{<p>}\bold{<lb/>}Secunda cauſa eſt, quia quoduis graue corpus, aut per naturam, aut per vim mo- \\
+\bold{<lb/>}tum, rectitudinem itineris naturaliter appetat, quod clarè cognoſcere poſſumus, \\
+\bold{<lb/>}proijciendo lapides funda, &amp; circunducentes brachium, nam funes tanto maius \\
+\bold{<lb/>}pondus acquirunt, &amp; manum tanto magis onerant, quanto velocius voluitur funda, \\
+\bold{<lb/>}&amp; incitatur motus, quod ab appetitu naturali inſito ei corpori per lineã rectam\lwr pro- \\
+\bold{<lb/>}grediendi procedit. Vnde fit, vt pondus circunferentiæ ipſius rotæ, tanto facilius\lwr cir- \\
+\bold{<lb/>}cunuoluatur, &amp; ex ſeipſo tanto longiori tempore moueatur, quanto longius diſtat\lwr  à \\
+\bold{<lb/>}centro, cum eius iter tanto minus ſit curuum. Hanc igitur ob cauſam, rota, quanto \\
+\bold{<lb/>}maior erit, eiuſ\bs´q; pondus tanto magis vicinum circunferentiæ, tanto magis\lwr durabit \\
+\bold{<lb/>}impetus motus aſſumptus.\bold{</p>} \\
 \bold{<p>} \untranscribedText
 \end{typeLatin}
 \end{sampleImage}
@@ -199,15 +206,15 @@ The \xmlpair{quote} replace the \xmlpair{p} tags.
 
 \begin{sampleImage}{quotation_2.jpg}
 \begin{typeLatin}
-\bold{<p>}Nec non vbi ita inquit.\bold{</p>}\\
-\bold{<quote>}Et ſi (modo credimus) vnum\bold{<lb/>} \\
-Iſſe diem ſine Sole ferunt, incendia lumen\bold{<lb/>} \\
-Præbebant.\bold{</quote>}\\
-\bold{<p>}Quod autem à Patre inſtruatur etiam de curſu annuali,\bold{<lb/>} \\
-videbitur vbi ita dicit.\bold{</p>}\\
-\bold{<quote>}Nitor in aduerſum, nec me, qui cætera vincit.\bold{<lb/>} \\
-Impetus, &amp; rapido contrarius euehor orbi.\bold{</quote>} \\
-\bold{<p>}Et vbi ita loquitur.\bold{</p>}
+\bold{<p>}\bold{<lb/>}Nec non vbi ita inquit.\bold{</p>}\\
+\bold{<quote>}\bold{<lb/>}Et ſi (modo credimus) vnum \\
+\bold{<lb/>}Iſſe diem ſine Sole ferunt, incendia lumen \\
+\bold{<lb/>}Præbebant.\bold{</quote>}\\
+\bold{<p>}\bold{<lb/>}Quod autem à Patre inſtruatur etiam de curſu annuali, \\
+\bold{<lb/>}videbitur vbi ita dicit.\bold{</p>}\\
+\bold{<quote>}\bold{<lb/>}Nitor in aduerſum, nec me, qui cætera vincit. \\
+\bold{<lb/>}Impetus, &amp; rapido contrarius euehor orbi.\bold{</quote>} \\
+\bold{<p>}\bold{<lb/>}Et vbi ita loquitur.\bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
 
@@ -229,10 +236,10 @@ If you can identify a paragraph as a footer, use \xmlpair{p}, and add the attrib
 \begin{sampleImage}{mkbsp_footer_benedetti.jpg}
 \begin{typeLatin}
 \bold{<p>} \someText \\
-quem quidem tractatum cum quibuſdam alijs meis ſpeculationibus in lucem prode\bold{<lb/>} \\
-re cupio, ſi fieri poterit, antequam ad directionem mei Horoſcopi cum corpore\bold{<lb/>} \\
-Martis An&ae;ret&ae; perueniam, qu&ae; quidem directio circa annum milleſimum\lwr quin-\bold{<lb/>} \\
-genteſimum nonageſimum ſecundum eueniet.\bold{</p>}\\
+\bold{<lb/>}quem quidem tractatum cum quibuſdam alijs meis ſpeculationibus in lucem prode \\
+\bold{<lb/>}re cupio, ſi fieri poterit, antequam ad directionem mei Horoſcopi cum corpore \\
+\bold{<lb/>}Martis An&ae;ret&ae; perueniam, qu&ae; quidem directio circa annum milleſimum\lwr quin- \\
+\bold{<lb/>}genteſimum nonageſimum ſecundum eueniet.\bold{</p>}\\
 \bold{<p type="footer''>}FINIS.\bold{</p>}
 \end{typeLatin}
 
@@ -268,11 +275,11 @@ Note that the page number and the running head are not part of a column.}
 \parbox[t]{4cm}{ \vspace{-3mm}
 \begin{typeLatin}
 \bold{<cb n=``1''/>} \\
-\bold{<p>}This is one \\ column ...\bold{</p>} \\
+\bold{<p>}\bold{<lb/>}This is one \\ \bold{<lb/>}column ...\bold{</p>} \\
 \bold{<cb n=''2''/>} \\
-\bold{<p>}This is \\ another \\ column.\bold{</p>} \\
+\bold{<p>}\bold{<lb/>}This is \\\bold{<lb/>} another \\\bold{<lb/>} column.\bold{</p>} \\
 \bold{<cb n=''3''/>} \\
-\bold{<p>}And there \\ might be \\ yet another \\ column.\bold{</p>} \\
+\bold{<p>}\bold{<lb/>}And there \\ \bold{<lb/>}might be \\ \bold{<lb/>}yet another \\ \bold{<lb/>}column.\bold{</p>} \\
 \end{typeLatin}}
 \end{tabular}
 
@@ -369,7 +376,7 @@ For \attr{table}{rend=''emph''} see \sect{section italics}.
 
 \vspace{3mm}
 \begin{mainrule}
-Rule 2: Within table cells, if text is broken into separate lines, use \xms{lb} to mark the line break.
+Rule 2: Within table cells, if text is broken into separate lines, use \xms{lb} to mark the beginning of each line.
 \end{mainrule}
 
 \vspace{3mm}
@@ -381,25 +388,25 @@ Rule 3: If a table element spans the whole table width, type it as header/footer
 
 \begin{typeLatin}
 \bold{<table>} \\
-\bold{<head>}Tabula ad inueniendam qualitatem \bold{<lb/>} \\
-Auri, ex grauitate quam ha- \bold{<lb/>} \\
-bet in aere &amp; aqua.\bold{</head>}  \\
-\bold{<row><cell>}Qualitas \bold{<lb/>} Auri. \bold{</cell><cell cols="4">} Grauitas Auri \bold{<lb/>}\lwr in aere. \bold{</cell>}\bold{<cell>} Miſt\~u ... ære.\bold{</cell></row>} \\
+\bold{<head>}\bold{<lb/>}Tabula ad inueniendam qualitatem  \\
+\bold{<lb/>}Auri, ex grauitate quam ha-  \\
+\bold{<lb/>}bet in aere &amp; aqua.\bold{</head>}  \\
+\bold{<row><cell>}\bold{<lb/>}Qualitas \bold{<lb/>} Auri. \bold{</cell><cell cols="4">} \bold{<lb/>}Grauitas Auri \bold{<lb/>}\lwr in aere. \bold{</cell>}\bold{<cell>} Miſt\~u ... ære.\bold{</cell></row>} \\
 \bold{<row><cell>}Part. \bold{</cell><cell>} Lib. \bold{</cell><cell>} Vnc. \bold{</cell><cell>} Scrup. \bold{</cell>}\lwr\bold{<cell>} Gran. \bold{</cell><cell>} Num. Fract. \bold{</cell><cell>} Part.\bold{</cell></row>} \\
 \bold{<row><cell>}24 \bold{</cell><cell>} 1 \bold{</cell><cell>} 11. \bold{</cell><cell>} 8. \bold{</cell>}\lwr\bold{<cell>} 20. \bold{</cell><cell>} 372 \bold{</cell><cell>} 0\bold{</cell></row>} \\
 \bold{<row><cell>}23 \bold{</cell><cell>} 1 \bold{</cell><cell>} 11. \bold{</cell><cell>} 8. \bold{</cell>}\lwr\bold{<cell>} 5. \bold{</cell><cell>} 765 \bold{</cell><cell>} 1\bold{</cell></row>} \\
 \someText \\
 \bold{</table>} \\
 \bold{<table>} \\
-\bold{<head>}Tabella Partis pro \bold{<lb/>} \\
-portionalis Deno- \bold{<lb/>} \\
-minatorum Auri.\bold{</head>} \\
-\bold{<row><cell>}Pars proportio \bold{<lb/>} nalis Auri in \bold{<lb/>} partibus. 24. \bold{</cell>}\lwr\bold{<cell cols="2">} Differ\~etia ... aqua.\bold{</cell></row>} \\
+\bold{<head>}\bold{<lb/>}Tabella Partis pro  \\
+\bold{<lb/>}portionalis Deno-  \\
+\bold{<lb/>}minatorum Auri.\bold{</head>} \\
+\bold{<row><cell>}\bold{<lb/>}Pars proportio \bold{<lb/>} nalis Auri in \bold{<lb/>} partibus. 24. \bold{</cell>}\lwr\bold{<cell cols="2">} Differ\~etia ... aqua.\bold{</cell></row>} \\
 \bold{<row><cell>}Part. \bold{</cell><cell>} Gran. \bold{</cell><cell>} Num: Fract.\bold{</cell></row>} \\
 \bold{<row><cell>}1 \bold{</cell><cell>} 0. \bold{</cell><cell>} 1088\bold{</cell></row>} \\
 \bold{<row><cell>}2 \bold{</cell><cell>} 1. \bold{</cell><cell>} 409\bold{</cell></row>} \\
 \someText \\
-\bold{</table>} \\
+\bold{</table>}
 \end{typeLatin}
 
 \end{sampleImage}
@@ -416,13 +423,13 @@ Rule 4: If a table element vertically spans more than one cell, type its content
 \begin{sampleImageSmall}{width=6cm}{ghetaldi_table}
 \begin{typeLatin}
 \bold{<table>} \\
-\bold{<row><cell rows="2">}Diametri \bold{<lb/>} magnitu- \bold{<lb/>} do. \bold{</cell>}\lwr\bold{<cell cols="4">} Aureæ ſpheræ \bold{<lb/>} grauitas.\bold{</cell></row>} \\
+\bold{<row><cell rows="2">}\bold{<lb/>}Diametri \bold{<lb/>} magnitu- \bold{<lb/>} do. \bold{</cell>}\lwr\bold{<cell cols="4">}\bold{<lb/>} Aureæ ſpheræ \bold{<lb/>} grauitas.\bold{</cell></row>} \\
 \bold{<row><cell>} Lib. \bold{</cell><cell>} Vn. \bold{</cell><cell>} Scru. \bold{</cell><cell>} Gra.\bold{</cell></row>} \\
 \bold{<row><cell><formula>} 1/4 \bold{</formula></cell><cell>} 0 \bold{</cell><cell>} 0 \bold{</cell>}\lwr\bold{<cell>} 2 \bold{</cell><cell><formula>} 29/37 \bold{</formula></cell></row>}\\
 \bold{<row><cell><formula>} 1/2 \bold{</formula></cell><cell>} 0 \bold{</cell><cell>} 0 \bold{</cell>}\lwr\bold{<cell>} 16 \bold{</cell><cell>} 6 \bold{<formula>} 10/37 \bold{</formula></cell></row>}\\
 \bold{<row><cell><formula>} 3/4 \bold{</formula></cell><cell>} 0 \bold{</cell><cell>} 2 \bold{</cell>}\lwr\bold{<cell>} 6 \bold{</cell><cell>} 21 \bold{<formula>} 6/37 \bold{</formula></cell></row>} \\
 \bold{<row><cell>}1 \bold{</cell><cell>} 0 \bold{</cell><cell>} 5 \bold{</cell><cell>} 10  \bold{</cell>}\lwr\bold{<cell>} 2 \bold{<formula>} 6/37\bold{</formula></cell></row>}\\
-\bold{</table>} \\
+\bold{</table>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -447,7 +454,7 @@ If the table elements vertically span the whole table and contain running text, 
 \label{section indexes}
 
 \begin{mainrule}
-  The whole index is marked by \xmlpatt{list}{type}{index}. Enclose each entry with \xmlpair{item}.
+  The whole index is marked by \xmlpatt{list}{type}{index}. Enclose each entry with \xmlpair{item}. Insert line break tags (\xms{lb}) only if an entry is longer than one line.
 
   If you can identify the page number (or \emph{ibid.} at the end of the line, enclose it in \xmlpair{ref} and ignore textual features like italics. Type a return after each row.
 \end{mainrule}
@@ -461,8 +468,8 @@ If the table elements vertically span the whole table and contain running text, 
 \bold{<list rend="emph" type="index">} \\
 \bold{<item>}Caterpillars  \bold{<ref>}153\bold{</ref>}\bold{</item>} \\
 \bold{<item>}Cements that grow hard  \bold{<ref>}183\bold{</ref>}\bold{</item>} \\
-\bold{<item>}Chalk, a good compoſt, \bold{<ref>}122, 123\bold{</ref>}. Good for\bold{<lb/>} \\
-Paſture, as well as for Arable  \bold{<ref>}ibid\bold{</ref>}. \bold{</item>}\\
+\bold{<item>}\bold{<lb/>}Chalk, a good compoſt, \bold{<ref>}122, 123\bold{</ref>}. Good for \\
+\bold{<lb/>}Paſture, as well as for Arable  \bold{<ref>}ibid\bold{</ref>}. \bold{</item>}\\
 \bold{<item>}Chameleons, \bold{<ref>}80\bold{</ref>}. Their nouriſhment,  \bold{<ref>}ibid\bold{</ref>}. \bold{</item>}\\
 \bold{<item>}A fond Tradition of them \bold{<ref>}ibid\bold{</ref>}. \bold{</item>}\\
 \bold{</list>}
@@ -480,18 +487,18 @@ Paſture, as well as for Arable  \bold{<ref>}ibid\bold{</ref>}. \bold{</item>}\\
 \bold{<cb n="1"/>} \\
 \someText \\
 \bold{<item>}Diligenza ſoverchia, quale. \bold{<ref>} 49 \bold{</ref></item>}\\
-\bold{<item>}Diminuzione di groſſezze, come deb- \bold{<lb/>}\\
- ba condurſi. \bold{<ref>} 56 \bold{</ref></item>}\\
+\bold{<item>}\bold{<lb/>}Diminuzione di groſſezze, come deb- \\
+\bold{<lb/>} ba condurſi. \bold{<ref>} 56 \bold{</ref></item>}\\
 \bold{<item><hi rend="emph">}Diocleziano\bold{</hi>}. Sue Terme. \bold{<ref>} 51 \bold{</ref></item>} \\
 \someText \\
 \bold{<cb n="2"/>} \\
 \someText \\
-\bold{<item>}Errori di queſto genere, cagione di \bold{<lb/>}\\
- tutti gli errori. \bold{<ref>} 18. 19 \bold{</ref></item>}\\
-\bold{<item>} Provvedimenti dei Romani con-\bold{<lb/>} \\
- tro a queſti errori. \bold{<ref>} 19 \bold{</ref></item>}\\
+\bold{<item>}\bold{<lb/>}Errori di queſto genere, cagione di \\
+\bold{<lb/>} tutti gli errori. \bold{<ref>} 18. 19 \bold{</ref></item>}\\
+\bold{<item>}\bold{<lb/>} Provvedimenti dei Romani con- \\
+\bold{<lb/>} tro a queſti errori. \bold{<ref>} 19 \bold{</ref></item>}\\
 \someText \\
-\bold{</list>} \\
+\bold{</list>}
 \end{typeLatin}
 \end{sampleImage}
 
@@ -509,8 +516,8 @@ Paſture, as well as for Arable  \bold{<ref>}ibid\bold{</ref>}. \bold{</item>}\\
 
 \begin{typeLatin}
 \bold{<list rend="emph" type="toc">} \\
-\bold{<item>}Cap. 1. \bold{<space/>} De Chorographia generatim: quid ſit, &amp; que ad eam In-\bold{<lb/>}\\
- ſtrumenta poti{ſs}imùm requiſita, \bold{<ref>} pag. 1.\bold{</ref></item>} \\
+\bold{<item>}\bold{<lb/>}Cap. 1. \bold{<space/>} De Chorographia generatim: quid ſit, &amp; que ad eam In-\\
+\bold{<lb/>} ſtrumenta poti{ſs}imùm requiſita, \bold{<ref>} pag. 1.\bold{</ref></item>} \\
 \bold{<item>}II. \bold{<space/>} De Inſtrumenti fabricâ, \bold{<ref>} 2 \bold{</ref></item>}\\
 \bold{<item>}III. \bold{<space/>} De Triangul{is}, omnium dimenſionum fundamento, \bold{<ref>} 5 \bold{</ref></item>}\\
 \someText \\
@@ -523,13 +530,13 @@ Paſture, as well as for Arable  \bold{<ref>}ibid\bold{</ref>}. \bold{</item>}\\
 
 \begin{typeLatin}
 \bold{<list rend="emph" type="toc">} \\
-\bold{<item><hi rend="emph">}CH\bold{<hi rend="sc">}APITRE\bold{</hi>} I.\bold{</hi>} Où l'on enſeigne comme ſe\lwr fait la pouſſée des\bold{<lb/>} \\
- Voutes, &amp; où l'on raporte quelques principes tirés de la méca-\bold{<lb/>} \\
- nique pour en faciliter l'intelligence \bold{<ref>} 2 \bold{</ref></item>}\\
-\bold{<item><hi rend="emph">}C\bold{<hi rend="sc">}HAP\bold{</hi>}. II. \bold{</hi>} De la maniere de calculer\lwr l'épaiſſeur des Pié-droits \bold{<lb/>}\\
- des Voutes en plain ceintre pour eſtre en équilibre par leur ré- \bold{<lb/>}\\
- ſiſtance avec la pouſſée qu'ils ont à ſoûtenir. \bold{<ref>} 10\bold{</ref></item>}  \\
-\bold{</list>} \\
+\bold{<item>\bold{<lb/>}<hi rend="emph">}CH\bold{<hi rend="sc">}APITRE\bold{</hi>} I.\bold{</hi>} Où l'on enſeigne comme\lwr ſe fait la pouſſée des \\
+\bold{<lb/>} Voutes, &amp; où l'on raporte quelques principes tirés de la méca- \\
+\bold{<lb/>} nique pour en faciliter l'intelligence \bold{<ref>} 2 \bold{</ref></item>}\\
+\bold{<item>\bold{<lb/>}<hi rend="emph">}C\bold{<hi rend="sc">}HAP\bold{</hi>}. II. \bold{</hi>} De la maniere de calculer\lwr l'épaiſſeur des Pié-droits \\
+\bold{<lb/>} des Voutes en plain ceintre pour eſtre en équilibre par leur ré- \\
+\bold{<lb/>} ſiſtance avec la pouſſée qu'ils ont à ſoûtenir. \bold{<ref>} 10\bold{</ref></item>}  \\
+\bold{</list>}
 \end{typeLatin}
 \end{sampleImage}
 
@@ -547,11 +554,11 @@ Before you use \xms{space}, make sure the paragraph is not part of a table, an i
 
 \begin{typeLatin}
 \bold{<p>} \someText \\
-extrema ad axes \bold{<space/>} angulorum\bold{<gap/>} continent autem hunc propoſitiones \bold{<lb/>} \\
-ferè exiſtentes vna multa, &amp; varia theoremata, &amp; linearum, &amp;\lwr ſuperficie- \bold{<lb/>} \\
-rum, &amp; ſolidorum omnia ſimul vna demonſtratione, &amp; quæ nondum de- \bold{<lb/>} \\
-monſtrata ſunt, &amp; quæ \bold{<space/>} &amp; in duodecimo libro horum elemento- \bold{<lb/>} \\
-\someText \bold{</p>} \\
+\bold{<lb/>}extrema ad axes \bold{<space/>} angulorum\bold{<gap/>} continent autem hunc propoſitiones  \\
+\bold{<lb/>}ferè exiſtentes vna multa, &amp; varia theoremata, &amp; linearum, &amp;\lwr ſuperficie-  \\
+\bold{<lb/>}rum, &amp; ſolidorum omnia ſimul vna demonſtratione, &amp; quæ nondum de-  \\
+\bold{<lb/>}monſtrata ſunt, &amp; quæ \bold{<space/>} &amp; in duodecimo libro horum elemento-  \\
+\someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -596,12 +603,12 @@ For anchored marginal notes see \sect{section anchored marginal notes}.
 
 \begin{typeLatin}
 \bold{<p>}
-Si ad aliquã rectã lineã * compare\xent{tr} parallelogrãm\bs\tld{}u, defici\bs\tld{}es forma\bold{<lb/>} \\
-\bold{<note place="margin right">}παραβληθῆ, \bold{<hi rend="emph">}ap \bold{<lb/>} \\
-ponatur, appli- \bold{<lb/>} \\
-cetur\bold{</hi></note>}\bold{<lb/>} \\
-quadrata, ipſum cõparat\bs\tld{}u æqu\bs\tld{}u eſt ei quod (cõtine\xent{tr}) ſub ſegm\bs\tld{}etis\bold{<lb/>} \\
-rect&ae; line&ae;, qu&ae; ex ipſa cõparatione ſunt facta.
+\bold{<lb/>}Si ad aliquã rectã lineã * compare\xent{tr} parallelogrãm\bs\tld{}u, defici\bs\tld{}es forma \\
+\bold{<note place="margin right">}\bold{<lb/>}παραβληθῆ, \bold{<hi rend="emph">}ap  \\
+\bold{<lb/>}ponatur, appli-  \\
+\bold{<lb/>}cetur\bold{</hi></note>} \\
+\bold{<lb/>}quadrata, ipſum cõparat\bs\tld{}u æqu\bs\tld{}u eſt ei quod (cõtine\xent{tr}) ſub ſegm\bs\tld{}etis \\
+\bold{<lb/>}rect&ae; line&ae;, qu&ae; ex ipſa cõparatione ſunt facta.
 \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -630,12 +637,12 @@ Unicode &&  \xs{\uc{002A}} & \xs{\uc{2020}} & \xs{\uc{2021}} &\xs{\uc{00A7}} & \
 \begin{typeLatin}
 \bold{<cb n="1"/>} \\
 \bold{<head><note place="bottom" n="*">}Lemma hoc non agnoſcunt \bold{<hi rend="emph">}Codd.\lwr MSS.\bold{</hi></note>}LEMMA.\bold{</head>}\\
-\bold{<p>}Si fuerint tres rectæ lineæ in ratione aliqua,\bold{<lb/>} \\
-erit ut prima ad tertiam ita rectangulum conten-\\
+\bold{<p>}\bold{<lb/>}Si fuerint tres rectæ lineæ in ratione aliqua, \\
+\bold{<lb/>}erit ut prima ad tertiam ita rectangulum conten-\\
 \bold{<cb n="2"/>} \\
 \bold{<head><note place="bottom" n="*">}Lemma hoc non agnoſcunt \bold{<hi rend="emph">}Codd.\lwr MSS.\bold{</hi></note>}ΛΗΜΜΑ.\bold{</head>}\\
-\bold{<p>}Εὰν ὦ\li{στι} τρ\li{εῖ}ς εὐθ\li{εῖ}\li{αι} \li{ἐν} λόγῳ \li{τι}νὶ, ἔ\li{σται} ὡς \bold{<lb/>} \\
-ἡ \li{πρ}ώ\li{τη} \li{πρ}ὸς τ\li{ὴν} τ\li{ρί}\li{την} \li{οὕ}τως \li{τὸ} \li{ὑπὸ} τῆς\bold{<lb/>} \\
+\bold{<p>}\bold{<lb/>}Εὰν ὦ\li{στι} τρ\li{εῖ}ς εὐθ\li{εῖ}\li{αι} \li{ἐν} λόγῳ \li{τι}νὶ, ἔ\li{σται} ὡς  \\
+\bold{<lb/>}ἡ \li{πρ}ώ\li{τη} \li{πρ}ὸς τ\li{ὴν} τ\li{ρί}\li{την} \li{οὕ}τως \li{τὸ} \li{ὑπὸ} τῆς
 \end{typeLatin}
 \end{sampleImage}
 
@@ -657,10 +664,10 @@ An anchored note in the margins is marked by \xmlpair{note} and the attribute \a
 \begin{sampleImage}{montag_mark_anchor_marg_} % Euclid of Clavius 1607, p.795
 \begin{typeLatin}
 \bold{<p rend="emph">} \someText \\
-circumferentiam datæ rectæ A, æqualem eſſe. Cùm enim ſit, vt E,\bold{<lb/>} \\
-ad A, ita B D, ad F G; hoc est, \bold{<note place="margin right" n="a">}15.\bold{<lb/>}\lwr\bold{<hi rend="emph">}quinti.\bold{</hi></note>} ita tota diameter circuli B C, ad\bold{<lb/>} \\
-totam diametrum circuli F H: Sit autem vt diameter ad diametrum,\bold{<lb/>} \\
-ita circumferentia B C, ad circumferentiam F H, vt Pappus demon- \bold{<lb/>} \\
+\bold{<lb/>}circumferentiam datæ rectæ A, æqualem eſſe. Cùm enim ſit, vt E, \\
+\bold{<lb/>}ad A, ita B D, ad F G; hoc est, \bold{<note place="margin right" n="a">}\bold{<lb/>}15.\bold{<lb/>}\lwr\bold{<hi rend="emph">}quinti.\bold{</hi></note>} ita tota diameter circuli B C, ad \\
+\bold{<lb/>}totam diametrum circuli F H: Sit autem vt diameter ad diametrum, \\
+\bold{<lb/>}ita circumferentia B C, ad circumferentiam F H, vt Pappus demon-  \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -699,11 +706,11 @@ Type \xms{figure} instead of \xmlpair{figure} to mark simple figures without cap
 \begin{sampleImageSmall}[ 1: \, a simple figure without caption, descriptions or variables]{width=7cm}{fig_sans_3}
 \begin{typeLatin}
 \bold{<p>} \someText \\
-montre que vous placeriéz en cette façon \bold{<lb/>} \\
-ſur une boule.\bold{</p>} \\
+\bold{<lb/>}montre que vous placeriéz en cette façon  \\
+\bold{<lb/>}ſur une boule.\bold{</p>} \\
 \bold{<figure place="here"/>} \\
-\bold{<p>}Sous cette \bold{<hi rend="emph">}cornée\bold{</hi>}, eſt \bold{<hi rend="emph">}l'iris\bold{</hi>}, autre\lwr membrane, \bold{<lb/>} \\
-\someText \bold{</p>} \\
+\bold{<p>}\bold{<lb/>}Sous cette \bold{<hi rend="emph">}cornée\bold{</hi>}, eſt \bold{<hi rend="emph">}l'iris\bold{</hi>}, autre\lwr membrane,  \\
+\someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -711,11 +718,11 @@ montre que vous placeriéz en cette façon \bold{<lb/>} \\
 \begin{sampleImageSmall}[ 2: \, a figure with a caption]{width=12cm}{montag_imagewcaption}
 \begin{typeLatin}
 \bold{<p>} \someText \\
-ſeſquipedem, circumagito, ut altera pars æquè caleſcat ab igni.\bold{</p>}\\
+\bold{<lb/>}ſeſquipedem, circumagito, ut altera pars æquè caleſcat ab igni.\bold{</p>}\\
 \bold{<figure place="here">} \\
 \bold{<head rend="emph">}Paruus Vncus ferreus.\bold{</head>}\\
 \bold{</figure>} \\
-\bold{<p>}Præterea ſi quando miſtura ſatis plumbi non habuerit, addito cum forci \bold{<lb/>} \\
+\bold{<p>}\bold{<lb/>}Præterea ſi quando miſtura ſatis plumbi non habuerit, addito cum forci  \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImageSmall}
@@ -723,21 +730,21 @@ montre que vous placeriéz en cette façon \bold{<lb/>} \\
 \begin{sampleImage}[ 3: \, figures with variables]{imageleftandright_4}
 \begin{typeLatin}
 \bold{<head>}E\bold{<hi rend="emph">}uclid. ex \bold{</hi>}Z\bold{<hi rend="emph">}amb. \bold{</hi>}T\lwr\bold{<hi rend="emph">}heorema \bold{</hi>}68. P\lwr\bold{<hi rend="emph">}ropoſitio \bold{</hi>}92.\bold{</head>} \\
-\bold{<p>}Si areola comprehenſa fuerit ſub rationali &amp; apotome ſecunda\bold{<lb/>} \\
+\bold{<p>}\bold{<lb/>}Si areola comprehenſa fuerit ſub rationali &amp; apotome ſecunda \\
 \bold{<note place="margin right">}92\bold{</note>}\\
-quæ areolam poteſt, mediæ apotome eſt prima.\bold{</p>} \\
+\bold{<lb/>}quæ areolam poteſt, mediæ apotome eſt prima.\bold{</p>} \\
 \bold{<figure>} \\
 \bold{<ab type="var">}λ \bold{<gap/>} ο \bold{<gap/>} ν \bold{<gap/>} σ ξ χ \bold{<gap/>} τ μ\bold{</ab>} \\
 \bold{</figure>} \\
 \bold{<figure>}\\
 \bold{<ab type="var">}α \bold{<gap/>} \bold{<gap/>} ζ \bold{<gap/>} γ \bold{<gap/>} \bold{<gap/>} \bold{<gap/>} \bold{<gap/>}\bold{</ab>} \\
 \bold{</figure>} \\
-\bold{<p rend="emph">}\bold{<hi rend="emph">}THEON\bold{</hi>} ex \bold{<hi rend="emph">}Z\bold{</hi>}ãb.\lwr \bold{<hi rend="emph">}A\bold{</hi>}reola nãq; α β, \\
-cõpreh\bs\tld{}edatur ſub ratiõali α γ, \&amp; \bold{<hi rend="emph">}2\bold{</hi>} a- \\
-potome α δ. \bold{<hi rend="emph">}D\bold{</hi>}ico \xent{qd} quæ α β, areolam\\
-poteſt, mediæ apotome eſt prima. \bold{<hi rend="emph">}E\bold{</hi>}ſto\\
-enim (\xent{pr} 79 decimi) ipſi α δ cõgru\bs\tld{}es δ\\
-\someText \bold{</p>}\\
+\bold{<p rend="emph">}\bold{<lb/>}\bold{<hi rend="emph">}THEON\bold{</hi>} ex \bold{<hi rend="emph">}Z\bold{</hi>}ãb.\lwr \bold{<hi rend="emph">}A\bold{</hi>}reola nãq; α β, \\
+\bold{<lb/>}cõpreh\bs\tld{}edatur ſub ratiõali α γ, \&amp; \bold{<hi rend="emph">}2\bold{</hi>} a- \\
+\bold{<lb/>}potome α δ. \bold{<hi rend="emph">}D\bold{</hi>}ico \xent{qd} quæ α β, areolam\\
+\bold{<lb/>}poteſt, mediæ apotome eſt prima. \bold{<hi rend="emph">}E\bold{</hi>}ſto\\
+\bold{<lb/>}enim (\xent{pr} 79 decimi) ipſi α δ cõgru\bs\tld{}es δ\\
+\someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
 
@@ -752,7 +759,7 @@ enim (\xent{pr} 79 decimi) ipſi α δ cõgru\bs\tld{}es δ\\
 \bold{<ab type="desc" rend="emph">}Orange\bold{</ab>} \\
 \bold{<ab type="desc" rend="emph">}Rouge\bold{</ab>} \\
 \bold{<ab type="var">}A B C\bold{</ab>} \\
-\bold{</figure>} \\
+\bold{</figure>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -770,8 +777,8 @@ Do not use a \xml{figure} tag (\sect{section figures}) for ornamental drop caps.
 \vspace{2mm}
 \begin{sampleImage}[ 1: \, a simple drop cap]{montag_mark_dropcap_unorna}
 \begin{typeLatin}
-\bold{<p>}FErunt Ariſtipp\bs~u tempeſtate maris ad incognita littora delatum, cum in are-\bold{<lb/>} \\
-na vidiſſet quaſdã figuras geometricas delineatas exultant\bs\tld{}e l&ae;titia\lwr dixiſſe: Hæc\bold{<lb/>} \\
+\bold{<p>}\bold{<lb/>}FErunt Ariſtipp\bs~u tempeſtate maris ad incognita littora delatum, cum in are- \\
+\bold{<lb/>}na vidiſſet quaſdã figuras geometricas delineatas exultant\bs\tld{}e l&ae;titia\lwr dixiſſe: Hæc \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -779,11 +786,11 @@ na vidiſſet quaſdã figuras geometricas delineatas exultant\bs\tld{}e l&ae;ti
 \begin{sampleImage}[ 2: \, an ornamental drop cap]{montag_mark_dropcap_orna}
 
 \begin{typeLatin}
-\bold{<p>}LV\bold{<hi rend="sc">}MEN\bold{</hi>} Lunæ etiam ſi ſit lumen reflexum Solis ab ipſa Luna,\lwr ab ea tamen\bold{<lb/>} \\
-non ita reflectitur, vt à ſuperficie polita ſpeculi, c\bs\tld{}u eius luminis tantã quã\bold{<lb/>} \\
-titatem ſuper ipſum corpus lunare videamus, &amp; eo modo terminatã quo\bold{<lb/>} \\
-conſpicimus. per ſe lumen, cauſa oculi eſt effectum, per accidens autem\bold{<lb/>} \\
-puta quod vis. Terra deinde nunquam lunari lumine (quãuis ſolaris\lwr reflexio exiſtat)\bold{<lb/>} \\
+\bold{<p>}\bold{<lb/>}LV\bold{<hi rend="sc">}MEN\bold{</hi>} Lunæ etiam ſi ſit lumen reflexum Solis ab ipſa Luna,\lwr ab ea tamen \\
+\bold{<lb/>}non ita reflectitur, vt à ſuperficie polita ſpeculi, c\bs\tld{}u eius luminis tantã quã \\
+\bold{<lb/>}titatem ſuper ipſum corpus lunare videamus, &amp; eo modo terminatã quo \\
+\bold{<lb/>}conſpicimus. per ſe lumen, cauſa oculi eſt effectum, per accidens autem \\
+\bold{<lb/>}puta quod vis. Terra deinde nunquam lunari lumine (quãuis ſolaris\lwr reflexio exiſtat) \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -806,19 +813,19 @@ Handwritten notes are marked by the milestone element \xmsatt{add}{rend}{handwri
 \end{mainrule}
 
 \begin{clarification}
-Type \xml{add rend="handwritten"} on a separate line, after the line of the main text the note is closest to.
+Type \xms{add rend="handwritten"} on a separate line, after the line of the main text the note is closest to.
 \end{clarification}
 
 \begin{sampleImage}[ 1: \, a handwritten note]{bsp_handwrittenmargin_2}
 
 \begin{typeLatin}
 \bold{<p>} \someText
-h. ſupponendo igitur in puncto. g. pondus, aut virtutem mouentem unius\lwr libræ, &amp; in\bold{<lb/>} \\
-h. duarum librarum, abſ\li{que} dubio hæ duæ uirtutes in huiuſmodi diſtantijs\lwr à centro\bold{<lb/>} \\
-&ae;quales inuic\bs\tld{}e er\bs\tld{}ut, ob rationes prioribus capitibus iam allatas, &amp;\lwr ſtatera orizontalis\bold{<lb/>} \\
+\bold{<lb/>}h. ſupponendo igitur in puncto. g. pondus, aut virtutem mouentem unius\lwr libræ, &amp; in \\
+\bold{<lb/>}h. duarum librarum, abſq; dubio hæ duæ uirtutes in huiuſmodi diſtantijs\lwr à centro \\
+\bold{<lb/>}&ae;quales inuic\bs\tld{}e er\bs\tld{}ut, ob rationes prioribus capitibus iam allatas, &amp;\lwr ſtatera orizontalis \\
 \bold{<add rend="handwritten"/>}\\
-manebit. Vnde clarum erit, \xent{qd} quæuis etiam exigua virtus adiuncta ipſi.\lwr g. mouebit\bold{<lb/>} \\
-ſtateram extra orizontalem ſitum. Nunc ſi puncto. i. ex æquo medio inter. g. et. K.\\
+\bold{<lb/>}manebit. Vnde clarum erit, \xent{qd} quæuis etiam exigua virtus adiuncta ipſi.\lwr g. mouebit \\
+\bold{<lb/>}ſtateram extra orizontalem ſitum. Nunc ſi puncto. i. ex æquo medio inter. g. et. K.\\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -826,7 +833,7 @@ manebit. Vnde clarum erit, \xent{qd} quæuis etiam exigua virtus adiuncta ipſi.
 \begin{sampleImage}[ 2: \, a handwritten note with a drawing]{mkbsp_handdrawing_euclid_515.jpg}
 \begin{typeLatin}
 \bold{<p>} \someText \\
-ctè iuncta ad obtuſum angul\bs\tld{}u, à perp\bs\tld{}ediculari extrà depreh\bs\tld{}editur.\bold{</p>}\\
+\bold{<lb/>}ctè iuncta ad obtuſum angul\bs\tld{}u, à perp\bs\tld{}ediculari extrà depreh\bs\tld{}editur.\bold{</p>}\\
 \bold{<add rend="handwritten"/>}
 \end{typeLatin}
 
@@ -857,8 +864,8 @@ Example 2 contains a signature and a catchword (\sect{section catchwords and sig
 \begin{sampleImage}[ 1: \, a stain]{bsp_gaptag_circumcised}
 \begin{typeLatin}
 \bold{<p>} \someText
-d &amp; f ad quadratum f, ergo diſiunctim erit quadratu\bold{<unclear>}m\bold{</unclear>}\lwr ad\bold{<lb/>} \\
-quadratum f, ergo b ad e ſicut d ad f, item per æquam pro-\bold{<lb/>} \\
+\bold{<lb/>}d &amp; f ad quadratum f, ergo diſiunctim erit quadratu\bold{<unclear>}m\bold{</unclear>}\lwr ad \\
+\bold{<lb/>}quadratum f, ergo b ad e ſicut d ad f, item per æquam pro- \\
 \someText \bold{</p>}
 \end{typeLatin}
 
@@ -868,9 +875,9 @@ quadratum f, ergo b ad e ſicut d ad f, item per æquam pro-\bold{<lb/>} \\
 
 \begin{typeLatin}
 \bold{<p>} \someText
-feſſore: cui acceptum feras quicquid hîc aut ad Gr&ae;cum\lwr exe\bold{<unclear>}m\bold{</unclear>}plar, aut alio-\bold{<lb/>} \\
-qui doctè reſtitutum uideris. Adiecimus Phænomena, S\bold{<gap/>}ecularia, Pro-\bold{<lb/>} \\
-theoriam Marini, &amp; Data, argumentorum ſimilitudine in\bold{<unclear>}d\bold{</unclear>}ucti.\lwr Quum\li{\bs´que}
+\bold{<lb/>}feſſore: cui acceptum feras quicquid hîc aut ad Gr&ae;cum\lwr exe\bold{<unclear>}m\bold{</unclear>}plar, aut alio- \\
+\bold{<lb/>}qui doctè reſtitutum uideris. Adiecimus Phænomena, S\bold{<gap/>}ecularia, Pro- \\
+\bold{<lb/>}theoriam Marini, &amp; Data, argumentorum ſimilitudine in\bold{<unclear>}d\bold{</unclear>}ucti.\lwr Quum\bs´&q3;
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -900,8 +907,16 @@ Before you create a number for an unknown character, first check whether \\
  \end{clarification}
 
 \begin{clarification}
-If the character is indeed unknown: Assign the number §001§ to the first unknown character, §002§ to the second unknown character, and so on and record them in the \attr{g}{ref} attribute of the \xms{g} tag, prefixed with the character §#§ . Do not assign the same number twice. Use this number to type the unknown character. Always use the same number if the same unknown character occurs again.
+If the character is indeed unknown: Assign the number §001§ to the first unknown character, §002§ to the second unknown character, and so on and record them in the \attr{g}{ref} attribute of the \xms{g} tag, prefixed with the character §#§. Do not assign the same number twice. Use this number to type the unknown character. Always use the same number if the same unknown character occurs again.
 \end{clarification}
+
+\begin{typeLatin}
+ ... \bold{<g ref="#001"/>} ...  \\
+ ... \bold{<g ref="#002"/>} ...  \\
+ ... \bold{<g ref="#003"/>} ...  \\
+ ... \bold{<g ref="#004"/>} ...
+\end{typeLatin}
+
 
 \begin{note}
 Make sure that for a given text there is a single list containing all unknown characters, and that everyone uses this list. When the text is sent back to us, we will need a copy of this list. (See also \sect{section file conventions}.) This list consists of a screenshot or a drawing of each unique unknown character and the code that you assigned to it.
@@ -933,7 +948,7 @@ Do not silently correct the mistake.
 \bold{<note place="margin left" n="} a\bold{">} ... \bold{</note>} \\
 \bold{<note place="margin left" n="} b\bold{">} ... \bold{</note>} \\
 \bold{<note place="margin left" n="} c\bold{">} ... \bold{</note>} \\
-\bold{<note place="margin left" n="} e\bold{"><sic/>} ... \bold{</note>} \\
+\bold{<note place="margin left" n="} e\bold{"><sic/>} ... \bold{</note>}
 \end{typeLatin}
 \end{example}
 
@@ -959,10 +974,10 @@ Ignore superfluous and missing spaces before and after punctuation marks and bra
 \vspace{2mm}
 \begin{sampleImage}[ 1: \, normal punctuation marks]{montag_punctuation}
 \begin{typeLatin}
-\bold{<p>}Exempli gratia, ſumemus quadratum. \bold{<hi rend="emph">}3\bold{</hi>}. ſcilicet 9. quod\lwr in ſummam cum qua-\bold{<lb/>} \\
-drato. 4. colligemus, nempè. 1\bold{<hi rend="emph">}6\bold{</hi>}. erit\bs'q; quadratum. 25. &amp;\lwr ita quadratum. 6. hoc eſt.\bold{<lb/>} \\
-\bold{<hi rend="emph">}36\bold{</hi>}. collectum cum quadrato. 8. nempè. \bold{<hi rend="emph">}6\bold{</hi>}4.\lwr efficiet quadratum. 100. ita etiam qua-\bold{<lb/>} \\
-dratum. \bold{<hi rend="emph">}9\bold{</hi>}. hoc eſt. 81. coniunctum quadrato. 12. nempè. 144.\lwr producet quadra- \bold{<lb/>} \\
+\bold{<p>}\bold{<lb/>}Exempli gratia, ſumemus quadratum. \bold{<hi rend="emph">}3\bold{</hi>}. ſcilicet 9. quod\lwr in ſummam cum qua- \\
+\bold{<lb/>}drato. 4. colligemus, nempè. 1\bold{<hi rend="emph">}6\bold{</hi>}. erit\bs'q; quadratum. 25. &amp;\lwr ita quadratum. 6. hoc eſt. \\
+\bold{<lb/>}\bold{<hi rend="emph">}36\bold{</hi>}. collectum cum quadrato. 8. nempè. \bold{<hi rend="emph">}6\bold{</hi>}4.\lwr efficiet quadratum. 100. ita etiam qua- \\
+\bold{<lb/>}dratum. \bold{<hi rend="emph">}9\bold{</hi>}. hoc eſt. 81. coniunctum quadrato. 12. nempè. 144.\lwr producet quadra-  \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -970,9 +985,9 @@ dratum. \bold{<hi rend="emph">}9\bold{</hi>}. hoc eſt. 81. coniunctum quadrato.
 \begin{sampleImage}[ 2: \, unusual punctuation marks]{punktuation_2}
 \begin{typeLatin}
 \bold{<p>} \someText
-ſcindendus pannus uel tela: num id ſine cultro uel forfice faciet? num con-\bold{<lb/>} \\
-ſuet ullam ueſtem ſine acu? ne populus quidem tranſmarinus pennarum\bold{<lb/>} \\
-contextu corporis tegumentum faciet ſine &ij;ſdem inſtrumentis, nec pel-\bold{<lb/>} \\
+\bold{<lb/>}ſcindendus pannus uel tela: num id ſine cultro uel forfice faciet? num con- \\
+\bold{<lb/>}ſuet ullam ueſtem ſine acu? ne populus quidem tranſmarinus pennarum \\
+\bold{<lb/>}contextu corporis tegumentum faciet ſine &ij;ſdem inſtrumentis, nec pel- \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -992,19 +1007,19 @@ Hyphens at the end of a line can have different shapes. Always type a normal hyp
 \vspace{2mm}
 \begin{sampleImage}[ 1: \, normal hyphen]{hyphen_normal}
 \begin{typeLatin}
-Oportet autem arcum in maiore circulo datum non eſ-
+\bold{<lb/>}Oportet autem arcum in maiore circulo datum non eſ-
 \end{typeLatin}
 \end{sampleImage}
 
 \begin{sampleImage}[ 2: \, slanted hyphen]{montag_hyphen_single_slanted}
 \begin{typeLatin}
-æqualia. 4 Et ſi ab inæqualibus æqualia demas, quæ relinquun-
+\bold{<lb/>}æqualia. 4 Et ſi ab inæqualibus æqualia demas, quæ relinquun-
 \end{typeLatin}
 \end{sampleImage}
 
 \begin{sampleImage}[ 3: \, slanted double hyphen]{hyphen_doppelt_schraeg}
 \begin{typeLatin}
-RENSIS CLARISSIMI PHILOSOPHI, MATHEMA-
+\bold{<lb/>}RENSIS CLARISSIMI PHILOSOPHI, MATHEMA-ů
 \end{typeLatin}
 \end{sampleImage}
 
@@ -1074,7 +1089,7 @@ The small letter i sometimes occurs without the dot above. Type it as a normal �
 \vspace{2mm}
 \begin{sampleImageSmall}[: \, long s, dotless i]{height=8mm}{dotlessi_euclidclavius_13}
 \begin{typeLatin}
-oſtendit \\
+oſtendit
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -1132,8 +1147,8 @@ Use the element \xmlatt{hi}{rend}{emph} to mark words or whole lines in italics.
 \end{mainrule}
 
 \begin{clarification}
-  This applies not only to paragraphs (\sect{section paragraphs}), but also to tables (\sect{section tables}), i.e. \xml{table rend="emph"}, and pages (\sect{section page breaks}), i.e. \xms{pb rend="emph"}. %If you use §it§, do not mark the lines with additional §_ _§ to indicate italics.
-  Within a larger \attr{p}{rend="emph"} structure like paragraph, table or page you can use \xmlpatt{hi}{rend}{emph} to mark single words in upright type (see §_THEON_§ in example 2 in \sect{section figures}).
+  This applies not only to paragraphs (\sect{section paragraphs}), but also to tables (\sect{section tables}), i.e. \xml{table rend="emph"}.
+  Within a larger \attr{p}{rend="emph"} structure like paragraph or table you can use \xmlpatt{hi}{rend}{emph} to mark single words in upright type (see §_THEON_§ in example 2 in \sect{section figures}).
 \end{clarification}
 
 \begin{sampleImageSmall}[ 1: \, a single word in italics]{scale=0.25}{montag_kursiv2}
@@ -1145,10 +1160,10 @@ C\bold{<hi rend="sc">}AMPANI\bold{</hi>} \bold{<hi rend="emph">}annotatio\bold{<
 \begin{sampleImage}[ 2: \, a phrase in italics, including a line break]{italics_intwolines}
 \begin{typeLatin}
 \bold{<p>} \someText\\
-bus, figuris vtar geometricis, ita enim in .2. libr. fecit Euclides, qui mo-\bold{<lb/>} \\
-dus, eo magis mihi arridet, quo minus eſt abſtractus, \bold{<hi rend="emph">}quoniam\lwr oportet in-\bold{<lb/>} \\
-telligentem phantaſmata ſpeculari\bold{</hi>}, cum pr&ae;terea perſpicuum ſit, diſcretum\bold{<lb/>} \\
-omne, ex continui diuiſione aliquo modo oriri, ſiue actu, ſiue potentia.\bold{<lb/>} \\
+\bold{<lb/>}bus, figuris vtar geometricis, ita enim in .2. libr. fecit Euclides, qui mo- \\
+\bold{<lb/>}dus, eo magis mihi arridet, quo minus eſt abſtractus, \bold{<hi rend="emph">}quoniam\lwr oportet in- \\
+\bold{<lb/>}telligentem phantaſmata ſpeculari\bold{</hi>}, cum pr&ae;terea perſpicuum ſit, diſcretum \\
+\bold{<lb/>}omne, ex continui diuiſione aliquo modo oriri, ſiue actu, ſiue potentia. \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
@@ -1182,10 +1197,10 @@ If you can identify capital letters as small caps, use \xmlpatt{hi}{rend}{sc}.
 \begin{sampleImageSmall}{scale=0.2}{small_caps_euclid_515}
 
 \begin{typeLatin}
-\bold{<p>}C\bold{<hi rend="sc">}AMPANVS\bold{</hi>}. Sit datus trigonus\bold{<lb/>} \\
-a: cui nos uolumus æquum quadra-\bold{<lb/>} \\
-tum deſcribere. Deſignabo ſuperfici\bs\tld{}e \bold{<lb/>} \\
-\someText \bold{</p>} \\
+\bold{<p>}\bold{<lb/>}C\bold{<hi rend="sc">}AMPANVS\bold{</hi>}. Sit datus trigonus \\
+\bold{<lb/>}a: cui nos uolumus æquum quadra- \\
+\bold{<lb/>}tum deſcribere. Deſignabo ſuperfici\bs\tld{}e  \\
+\someText \bold{</p>}
 \end{typeLatin}
 
 \end{sampleImageSmall}
@@ -1244,14 +1259,14 @@ In this sentence, \underline{two words} are underlined.
 
 \vspace{-3mm}
 \begin{typeLatin}
-In this sentence, \bold{<hi rend="ul">}two words\bold{</hi>} are underlined. \\
+In this sentence, \bold{<hi rend="ul">}two words\bold{</hi>} are underlined.
 \end{typeLatin}
 \end{example}
 
 \begin{sampleImageSmall}[ 2: \, overlines]{height=8mm}{overlines}
 
 \begin{typeLatin}
-\bold{<hi rend="ol">}D E\bold{</hi><hi rend="sup">}3\bold{</hi>} ad \bold{<hi rend="ol">}A C\bold{</hi>}\lwr\bold{<hi rend="sup">}3\bold{</hi>}, ita Cohærentia \\
+\bold{<hi rend="ol">}D E\bold{</hi><hi rend="sup">}3\bold{</hi>} ad \bold{<hi rend="ol">}A C\bold{</hi>}\lwr\bold{<hi rend="sup">}3\bold{</hi>}, ita Cohærentia
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -1271,10 +1286,10 @@ Text in red is marked by \xmlpatt{hi}{rend}{red}.
 \begin{sampleImageSmall}{width=12cm}{red_euclid_5enhanced}
 
 \begin{typeLatin}
-\bold{<head rend="emph"><hi emph="red">}OMNES PERSPICVIS DEMONSTRA-\bold{</hi>} \bold{<lb/>} \\
-tionibus, accuratiſque ſcholi&is; illuſtrati: nunc quartò editi, \bold{<lb/>} \\
-ac multarum rerum acce&sz;ione post primam \bold{<lb/>} \\
-editionem locupletati.\bold{</head>} \\
+\bold{<head rend="emph">\bold{<lb/>}<hi emph="red">}OMNES PERSPICVIS DEMONSTRA-\bold{</hi>}  \\
+\bold{<lb/>}tionibus, accuratiſque ſcholi&is; illuſtrati: nunc quartò editi,  \\
+\bold{<lb/>}ac multarum rerum acce&sz;ione post primam  \\
+\bold{<lb/>}editionem locupletati.\bold{</head>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -1590,12 +1605,12 @@ Some two-letter ligatures have different shapes within a word and as a separate 
 
 \begin{sampleImage}{greek_text_with_ligatures}
 \begin{typeGreek}
-\bold{<head>}Πάππ\li{ου} τ\li{οῦ} Αλεξαν\li{δρ}έως Σ\li{υν}α\li{γω}\li{γῆ}ς \bold{<lb/>} \\
-ἕβ\li{δο}\li{μο}ν.\bold{</head>} \\
-\bold{<p>}Πε\li{ρι}έχ\li{ει} δὲ λήμμα\li{τα} τ\li{οῦ} ἀναλυο\li{μέν}\li{ου} \li{τό}\li{πο}υ.\bold{</p>} \\
-\bold{<p>}Ο καλ\li{ού}\li{μεν}ος ἀναλυό\li{μεν}ος, Ερμόδωρε \li{τέ}κνον, \bold{<lb/>} \\
-κα\li{τὰ} σύ\li{λλ}η\li{ψι}ν ἰ\li{δί}α \li{τί}ς ἐ\li{στι}ν ὕλη \li{πα}ρε\li{σκ}\li{ευ}ασ\li{μέν}η, \bold{<lb/>} \\
-\li{μετὰ} τ\li{ὴν} \li{τῶν} \li{κο}ινῶν \li{στο}ιχ\li{εί}ων \li{πο}ίη\li{σι}ν, \li{το}ῖς β\li{ου}λομένοις \bold{<lb/>} \\
+\bold{<head>}\bold{<lb/>}Πάππ\li{ου} τ\li{οῦ} Αλεξαν\li{δρ}έως Σ\li{υν}α\li{γω}\li{γῆ}ς  \\
+\bold{<lb/>}ἕβ\li{δο}\li{μο}ν.\bold{</head>} \\
+\bold{<p>}\bold{<lb/>}Πε\li{ρι}έχ\li{ει} δὲ λήμμα\li{τα} τ\li{οῦ} ἀναλυο\li{μέν}\li{ου} \li{τό}\li{πο}υ.\bold{</p>} \\
+\bold{<p>}\bold{<lb/>}Ο καλ\li{ού}\li{μεν}ος ἀναλυό\li{μεν}ος, Ερμόδωρε \li{τέ}κνον,  \\
+\bold{<lb/>}κα\li{τὰ} σύ\li{λλ}η\li{ψι}ν ἰ\li{δί}α \li{τί}ς ἐ\li{στι}ν ὕλη \li{πα}ρε\li{σκ}\li{ευ}ασ\li{μέν}η,  \\
+\bold{<lb/>}\li{μετὰ} τ\li{ὴν} \li{τῶν} \li{κο}ινῶν \li{στο}ιχ\li{εί}ων \li{πο}ίη\li{σι}ν, \li{το}ῖς β\li{ου}λομένοις  \\
 \someText \bold{</p>}
 \end{typeGreek}
 \end{sampleImage}
@@ -1611,7 +1626,7 @@ Some two-letter ligatures have different shapes within a word and as a separate 
 %(Note: This font ist Walden's recreation of Breitkopf Fraktur. As soon as I can use it with XeTeX, I will add a second Fraktur/Schwabacher font, probably Unger Fraktur. Variations: slimmer letters, umlaut with normal dots (ö) or lines (ő), proper capital umlauts (Breitkopf uses Ae where the letters are closer than normal A and e, etc.), capital J. Letter variation z with and without closed circle. Or is a second font unnecessary? An alternative would be to include real examples in different Fraktur fonts, for instance in the “alphabet” subsection, or even Special Instructions for \emph{each} text in Fraktur, which only shows a few lines of text plus transcription.)
 
 \begin{mainrule}
-Mark single words or lines in Fraktur by \xmlpatt{hi}{rend}{fr}. Mark paragraphs in Fraktur by \xml{p rend="fr"}. Mark whole pages in Fraktur by \xms{pb rend="fr"}. If the whole book is in Fraktur or mostly in Fraktur, add the \attr{body}{rend="fr"} attribute to the \xml{body} tag. Type letters in Fraktur as normal roman characters.
+Mark single words or lines in Fraktur by \xmlpatt{hi}{rend}{fr}. Mark paragraphs in Fraktur by \xml{p rend="fr"}. If the whole book is in Fraktur or mostly in Fraktur, add the \attr{body}{rend="fr"} attribute to the \xml{body} tag. Type letters in Fraktur as normal roman characters.
 \end{mainrule}
 
 \vspace{2mm}
@@ -1690,13 +1705,13 @@ Prieſter-Deſpotie      . , : ; ! ? ( )
 
 \begin{sampleImageSmall}[ 1]{width=12cm}{bernstein1216_672}
 \begin{typeLatin}
-\bold{<p rend="fr">}Newton hat aber noch mehr entdeckt. Er hat durch Rech- \bold{<lb/>} \\
-nungen nachgewieſen, daß man genau aus der Umlaufszeit \bold{<lb/>} \\
-eines Planeten beweiſen kann, wie ſtark die Anziehungskraft \bold{<lb/>} \\
-der Sonne auf ihn wirkt. Iſt nämlich die Anziehungskraft \bold{<lb/>} \\
-ſtark, ſo wird ſein Umlauf ſchnell ſein; iſt die Anziehungs- \bold{<lb/>} \\
-kraft ſchwach, ſo wird ein Planet langſamer um die Sonne \bold{<lb/>} \\
-laufen.\bold{</p>} \\
+\bold{<p rend="fr">}\bold{<lb/>}Newton hat aber noch mehr entdeckt. Er hat durch Rech-  \\
+\bold{<lb/>}nungen nachgewieſen, daß man genau aus der Umlaufszeit  \\
+\bold{<lb/>}eines Planeten beweiſen kann, wie ſtark die Anziehungskraft  \\
+\bold{<lb/>}der Sonne auf ihn wirkt. Iſt nämlich die Anziehungskraft  \\
+\bold{<lb/>}ſtark, ſo wird ſein Umlauf ſchnell ſein; iſt die Anziehungs-  \\
+\bold{<lb/>}kraft ſchwach, ſo wird ein Planet langſamer um die Sonne  \\
+\bold{<lb/>}laufen.\bold{</p>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -1704,35 +1719,35 @@ laufen.\bold{</p>} \\
 
 \begin{sampleImageSmall}[ 2]{width=12cm}{adams_29}
 \begin{typeLatin}
-\bold{<p rend="fr">}Der innere weſentliche Unterſchied zwiſchen elektri- \bold{<lb/>} \\
-ſchen und nicht-elektriſchen Körpern gehört zu den noch \bold{<lb/>} \\
-unentdeckten Geheimniſſen der Natur. Nur ſoviel iſt \bold{<lb/>} \\
-ausgemacht, daß das leitende Vermögen der Körper eini- \bold{<lb/>} \\
-germaßen von der Wärme abhängt, oder durch dieſelbe \bold{<lb/>} \\
-verändert wird. Glas, Harz und viele andere elektrische \bold{<lb/>} \\
-Körper werden durch die Hitze in Leiter verwandlet; da \bold{<lb/>} \\
-hingegen die Kälte, wenn nur keine Feuchtigkeit dabey \bold{<lb/>} \\
-iſt, alle elektriſche Subſtanzen noch ſtärker elektriſch \bold{<lb/>} \\
-macht.\bold{</p>} \\
+\bold{<p rend="fr">}\bold{<lb/>}Der innere weſentliche Unterſchied zwiſchen elektri- \\
+\bold{<lb/>}ſchen und nicht-elektriſchen Körpern gehört zu den noch  \\
+\bold{<lb/>}unentdeckten Geheimniſſen der Natur. Nur ſoviel iſt  \\
+\bold{<lb/>}ausgemacht, daß das leitende Vermögen der Körper eini-  \\
+\bold{<lb/>}germaßen von der Wärme abhängt, oder durch dieſelbe  \\
+\bold{<lb/>}verändert wird. Glas, Harz und viele andere elektrische  \\
+\bold{<lb/>}Körper werden durch die Hitze in Leiter verwandlet; da  \\
+\bold{<lb/>}hingegen die Kälte, wenn nur keine Feuchtigkeit dabey  \\
+\bold{<lb/>}iſt, alle elektriſche Subſtanzen noch ſtärker elektriſch  \\
+\bold{<lb/>}macht.\bold{</p>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
 \begin{sampleImage}[ 3]{cardano_226}
 \begin{typeLatin}
-\bold{<p rend="fr">}Die weil aber nitt geleich volget wann ſie geberen/ daß ſie auch\lwr einerley \bold{<lb/>} \\
-thier ſeyend/ als in den roſſen vnd eſſlen beſchicht/ wöllen wir l\li{uo}gen ob die \bold{<lb/>} \\
-ſo gehoren ſeind/ etwas verletzet werden/ wie die maul thier. dañ ſie werden \bold{<lb/>} \\
-auß zweyerley arten geboren. Wölche aber wider geberen/ die ſeind auß ge \bold{<lb/>} \\
-leicher art geboren/ als auß einem hund vnd fuchs. Wir müſſend auch die \bold{<lb/>} \\
-beſondere würckungen ergründen/ als wann ein hund ein beſondere nei- \bold{<lb/>} \\
-gung z\li{uo} dem menschen/ daß roß hatt ſein beſonder geſchrey/ der pfauw ri- \bold{<lb/>} \\
-chtet ſein ſchwantz auff in ein ring/ der menſch iſt allein mitt vernunfft be- \bold{<lb/>} \\
-gabt.\bold{</p>}
+\bold{<p rend="fr">}\bold{<lb/>}Die weil aber nitt geleich volget wann ſie geberen/ daß ſie auch\lwr einerley \\
+\bold{<lb/>}thier ſeyend/ als in den roſſen vnd eſſlen beſchicht/ wöllen wir l\xent{uo}gen ob die  \\
+\bold{<lb/>}ſo gehoren ſeind/ etwas verletzet werden/ wie die maul thier. dañ ſie werden  \\
+\bold{<lb/>}auß zweyerley arten geboren. Wölche aber wider geberen/ die ſeind auß ge  \\
+\bold{<lb/>}leicher art geboren/ als auß einem hund vnd fuchs. Wir müſſend auch die  \\
+\bold{<lb/>}beſondere würckungen ergründen/ als wann ein hund ein beſondere nei-  \\
+\bold{<lb/>}gung z\xent{uo} dem menschen/ daß roß hatt ſein beſonder geſchrey/ der pfauw ri-  \\
+\bold{<lb/>}chtet ſein ſchwantz auff in ein ring/ der menſch iſt allein mitt vernunfft be-  \\
+\bold{<lb/>}gabt.\bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
 
 \begin{note}
-The last example has a few peculiarities: There is a letter variation of the letter r in “gehoren” in the third line. The text contains both \textswab{\Large  *u} and \textswab{\Large  "u}, which are both transcribed as §ü§, whereas the “u with o above” is transcribed as §{uo}§. The slash “§/§” stands for the comma, thus there is a space after §/§ but no space before §/§ in the transcription.
+The last example has a few peculiarities: There is a letter variation of the letter r in “gehoren” in the third line. The text contains both \textswab{\Large  *u} and \textswab{\Large  "u}, which are both transcribed as §ü§, whereas the “u with o above” is transcribed as \xent{uo}. The slash “§/§” stands for the comma, thus there is a space after §/§ but no space before §/§ in the transcription.
 \end{note}
 
 
@@ -1754,11 +1769,11 @@ Do not type the spaces in the words in Sperrung.
 \vspace{3mm}
 \begin{sampleImageSmall}{width=12cm}{sperrung}
 \begin{typeLatin}
-\bold{<p rend="fr">}Das Meiſterwerk, das der Menſch mit zur Welt bringt, \bold{<lb/>} \\
-iſt das \bold{<hi rend="sp">}Auge\bold{</hi>}; das Kunſtwerk, das er dem Auge ähnlich her- \bold{<lb/>} \\
-vorbringt, iſt die \bold{<hi rend="sp">}Kamera-Obscura\bold{</hi>}. Wir wollen ſie nun \bold{<lb/>} \\
-beide näher kennen lernen, um ſie vergleichend neben einander \bold{<lb/>} \\
-ſtellen zu können.\bold{</p>}
+\bold{<p rend="fr">}\bold{<lb/>}Das Meiſterwerk, das der Menſch mit zur Welt bringt,  \\
+\bold{<lb/>}iſt das \bold{<hi rend="sp">}Auge\bold{</hi>}; das Kunſtwerk, das er dem Auge ähnlich her-  \\
+\bold{<lb/>}vorbringt, iſt die \bold{<hi rend="sp">}Kamera-Obscura\bold{</hi>}. Wir wollen ſie nun  \\
+\bold{<lb/>}beide näher kennen lernen, um ſie vergleichend neben einander  \\
+\bold{<lb/>}ſtellen zu können.\bold{</p>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -1777,8 +1792,8 @@ Words in Greek are not explicitly marked.
 \vspace{3mm}
 \begin{sampleImageSmall}{width=8cm}{rom_tag_3}
 \begin{typeLatin}
-\bold{<p rend="fr">}Blume der Wieſen-Salbei \bold{<hi rend="rom">}(Salvia \bold{<lb/>} \\
-pratensis)\bold{</hi>} ſchwach vergrößert.\bold{</p>} \\
+\bold{<p rend="fr">}\bold{<lb/>}Blume der Wieſen-Salbei \bold{<hi rend="rom">}(Salvia  \\
+\bold{<lb/>}pratensis)\bold{</hi>} ſchwach vergrößert.\bold{</p>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -1865,14 +1880,14 @@ no & yes & §√{ }§ or § <hi rend="ol"> </ol>§ & (see example 3) \\
 \vspace{7mm}
 \begin{sampleImageSmall}[ 1: \, root symbol with unconnected overline]{width=10cm}{root_huygens2_218}
 \begin{typeLatin}
-\bold{<formula>}√\bold{\{<hi rend="emph">}mm\bold{</hi>} - \bold{<hi rend="emph">}o x\bold{</hi>} + \bold{<hi rend="emph">}\lwr ppxx\bold{</hi>} / \bold{<hi rend="emph">}gg\bold{</hi></formula>}, ut oportebat. \\
+\bold{<formula>}√\bold{\{<hi rend="emph">}mm\bold{</hi>} - \bold{<hi rend="emph">}o x\bold{</hi>} + \bold{<hi rend="emph">}\lwr ppxx\bold{</hi>} / \bold{<hi rend="emph">}gg\bold{</hi></formula>}, ut oportebat.
 \end{typeLatin}
 \end{sampleImageSmall}
 
 \vspace{3mm}
 \begin{sampleImageSmall}[ 2: \, root symbol without overline]{width=5cm}{root_belidor_p161}
 \begin{typeLatin}
-MP = y = \bold{<formula>} √ \bold{\{}bb;\bold{\}} \bold{/} 2 \bold{</formula>} \\
+MP = y = \bold{<formula>} √ \bold{\{}bb;\bold{\}} \bold{/} 2 \bold{</formula>}
 \end{typeLatin}
 \end{sampleImageSmall}
 
@@ -1884,9 +1899,9 @@ MP = y = \bold{<formula>} √ \bold{\{}bb;\bold{\}} \bold{/} 2 \bold{</formula>}
 \begin{sampleImage}[ 3: \, overline without and with root symbol]{root_musschen_625}
 \begin{typeLatin}
 \bold{<p>} \someText
-cetur AD aut DB, \bold{<hi rend="emph">}r\bold{</hi>}. BG ſit = \bold{<hi rend="emph">}x\bold{</hi>}.\lwr eritque FG\bold{<hi rend="sup">}q\bold{</hi>} = 2 \bold{<hi rend="emph">}r x\bold{</hi>} - \bold{<hi rend="emph">}x\lwr x\bold{</hi>}, unde \bold{<lb/>} \\
-Cubus FG = \bold{<formula>}√\bold{\{}2 \bold{<hi rend="emph">}rx\bold{</hi>} - \bold{<hi rend="emph">}xx\bold{</hi>}\bold{\}</formula>}\lwr \bold{<g ref="\#001"/>} \bold{<formula>}√\bold{\{}2 \bold{<hi rend="emph">}rx\bold{</hi>} - \bold{<hi rend="emph">}xx\bold{</hi>}.\bold{\}}\lwr\bold{</formula>} &amp; Cubus AD = \bold{<hi rend="emph">}r\bold{</hi><hi rend="sup">}3\bold{</hi>}. qua- \bold{<lb/>}\\
-re Cohærentia baſeos ADC eſt ad eam baſeos FGE uti \bold{<hi rend="emph">}r\bold{</hi>}\lwr\bold{<hi rend="sup">}3\bold{</hi>} ad \bold{<lb/>}\\
+\bold{<lb/>}cetur AD aut DB, \bold{<hi rend="emph">}r\bold{</hi>}. BG ſit = \bold{<hi rend="emph">}x\bold{</hi>}.\lwr eritque FG\bold{<hi rend="sup">}q\bold{</hi>} = 2 \bold{<hi rend="emph">}r x\bold{</hi>} - \bold{<hi rend="emph">}x\lwr x\bold{</hi>}, unde  \\
+\bold{<lb/>}Cubus FG = \bold{<formula>}√\bold{\{}2 \bold{<hi rend="emph">}rx\bold{</hi>} - \bold{<hi rend="emph">}xx\bold{</hi>}\lwr\bold{\}</formula>} \bold{<g ref="\#001"/>} \bold{<formula>}√\bold{\{}2 \bold{<hi rend="emph">}rx\bold{</hi>} - \bold{<hi rend="emph">}\lwr xx\bold{</hi>}.\bold{\}}\bold{</formula>} &amp; Cubus AD = \bold{<hi rend="emph">}r\bold{</hi><hi rend="sup">}3\bold{</hi>}.\lwr qua- \\
+\bold{<lb/>}re Cohærentia baſeos ADC eſt ad eam baſeos FGE uti \bold{<hi rend="emph">}r\bold{</hi>}\lwr\bold{<hi rend="sup">}3\bold{</hi>} ad \\
 \someText \bold{</p>}
 \end{typeLatin}
 \end{sampleImage}
