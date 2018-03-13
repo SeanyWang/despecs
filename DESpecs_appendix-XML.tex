@@ -3,7 +3,6 @@
 %!TEX root = DESpecs.tex
 
 
-\newpage
 \appendix
 
 \section{List of All Tags}
@@ -15,8 +14,8 @@
 \begin{longtable}[l]{@{}llp{4cm}p{4cm}@{}l@{}}
 %\begin{tabular}{@{}llll@{}}
 section & tag & name & attributes \\[1mm]
-\ref{booklevel} & \xmlpair*{body} & root element &  \attr{body}{rend} & \eins \\
 \hline \\
+\ref{booklevel} & \xmlpair*{body} & root element &  \attr{body}{rend} & \eins \\
 \ref{section page breaks} & \xms{pb} & page break &  \attr{pb}{n} & \\
 \ref{section page breaks} & \xmlpair*{fw} & running head &\attr{fw}{type="head"}, \attr{pb}{rend}& \eins \\
 \\
@@ -77,17 +76,14 @@ section & tag & name & attributes \\[1mm]
 \\
 % \ref{section latin ligatures} & §{quo}d§, etc. & resolved ligature & \\
 %\ref{section greek ligatures} & §{μεν}§ etc. & Greek ligature & \\
-\\
 \hline \\
 \ref{section fraktur alphabet} & \xmlpair*{hi} & words in Fraktur &\attr{hi}{rend="fr"} \\
 \ref{section sperrung} & \xmlpair*{hi} & Sperrung &\attr{hi}{rend="sp"} \\
 \ref{section words in roman characters} &\xmlpair*{hi}  & words in roman chars &\attr{hi}{rend="rom"} \\
-\\
 \hline \\
 \ref{section fractions} &\xmlpair*{formula}  & fraction & \\
 \ref{section roots} & \xmlpair*{formula}  & root &&  \\
-\\
-\hline \\
+
 %\end{tabular}
 \end{longtable}
 
@@ -122,9 +118,7 @@ section & tag & name & attributes \\[1mm]
 % Mark single words or lines in Fraktur by \xmlpatt{hi}{rend}{fr}. Mark paragraphs in Fraktur by \xml{p rend="fr"}. Mark whole pages in Fraktur by \xms{pb rend="fr"}. If the whole book is in Fraktur or mostly in Fraktur, add the \attr{body}{rend="fr"} attribute to the \xml{body} tag. Type letters in Fraktur as normal roman characters.
 % \end{longtable}
 
-
 \newpage
-
 \section{List of All Symbols}
 \label{appendix list of all symbols}
 
@@ -186,11 +180,9 @@ Unicode & \xs{U+211E} \\[2mm]
 \end{tabular}
 \end{tabelle}
 
-
-\newpage
 \section{Example Transcriptions}
 
-\tocspace
+% \tocspace
 \subsection{Latin Example}
 \label{Structural markup general example}
 
