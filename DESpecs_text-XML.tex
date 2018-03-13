@@ -39,7 +39,7 @@ Save the text in XML format (§.xml§) with Unicode §utf-8§ encoding.
 We will also need the list of unknown characters (see \sect{section unknown characters}). If the list is handwritten, scan it and save it as PDF file.
 \end{mainruleLessImportant}
 
-Since this the expected result is a valid XML file, at least the charaters \& and < must not be written as such. Instead, \& needs to be typed as \&amp; and < needs to be written as \&lt;.
+Since this the expected result is a well-formed XML file, at least the charaters \xmex{\&} and \xmex{<} must not be written as such. Instead, \xmex{\&} must be typed as \xmex{\&amp;} and \xmex{<} must be written as \xmex{\&lt;}.
 
 
 \section{General Markup}
@@ -125,7 +125,7 @@ Type an \xms{lb} element at the beginning of each line of text of the printed pa
 \end{mainrule}
 
 \begin{clarification}
-Do not insert a space at the end of the line.
+Also type a hard return at the end of a line so that one line in the digitized text equals the line on the image. Do not insert a space at the end of the line.
 \end{clarification}
 
 \subsubsection{Headings}
@@ -174,9 +174,9 @@ If the first line of the paragraph is indented, this will not be encoded. If the
 \bold{<lb/>}tum, rectitudinem itineris naturaliter appetat, quod clarè cognoſcere poſſumus, \\
 \bold{<lb/>}proijciendo lapides funda, &amp; circunducentes brachium, nam funes tanto maius \\
 \bold{<lb/>}pondus acquirunt, &amp; manum tanto magis onerant, quanto velocius voluitur funda, \\
-\bold{<lb/>}&amp; incitatur motus, quod ab appetitu naturali inſito ei corpori per lineã rectam\lwr pro- \\
+\bold{<lb/>}&amp; incitatur motus, quod ab appetitu naturali inſito ei corpori per lineã\lwr rectampro- \\
 \bold{<lb/>}grediendi procedit. Vnde fit, vt pondus circunferentiæ ipſius rotæ, tanto facilius\lwr cir- \\
-\bold{<lb/>}cunuoluatur, &amp; ex ſeipſo tanto longiori tempore moueatur, quanto longius diſtat\lwr  à \\
+\bold{<lb/>}cunuoluatur, &amp; ex ſeipſo tanto longiori tempore moueatur, quanto longius\lwr diſtat à \\
 \bold{<lb/>}centro, cum eius iter tanto minus ſit curuum. Hanc igitur ob cauſam, rota, quanto \\
 \bold{<lb/>}maior erit, eiuſ\bs´q; pondus tanto magis vicinum circunferentiæ, tanto magis\lwr durabit \\
 \bold{<lb/>}impetus motus aſſumptus.\bold{</p>} \\
