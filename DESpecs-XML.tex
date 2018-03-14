@@ -18,14 +18,47 @@ numbers=noenddot]{scrartcl}
 \setmonofont[Scale=1.0]{Courier New}
 
 \makeatletter
+\def\@version{}
+\newcommand{\version}[1]{%
+  \def\@version{%
+   {\large
+     Version #1
+  }}
+}
+\makeatother
+
+\makeatletter
+\def\@affiliation{}
+\newcommand{\affiliation}[1]{%
+  \def\@affiliation{%
+   {\large #1
+  }}
+}
+\makeatother
+
+\makeatletter
+\def\@email{}
+\newcommand{\email}[1]{%
+  \def\@email{%
+   {\large
+     \href{mailto:#1}{#1}
+  }}
+}
+\makeatother
+
+\makeatletter
     \def\maketitle{%
     \begin{center}
     \setlength{\baselineskip}{30pt}
     {\Huge{\textbf{\@title}}}\par%
-    {\Large{\@author}}\par
-    {\large{\@date}}
     \end{center}
-    \medskip
+    \vspace{15ex}
+    {\large{\@author}}\par
+    {\@email}\par
+    {\@affiliation}\par
+    {\@version}\par
+    {\@date}
+    % \medskip
     }
 \makeatother
 
@@ -42,19 +75,18 @@ numbers=noenddot]{scrartcl}
 
 \usepackage{yfonts}
 
-\usepackage[%obeyDraft,
-  german, colorinlistoftodos]{todonotes}
-  \newcommand{\frage}[1]{\todo[color=green, caption={Frage}]{#1}}
+% \usepackage[%obeyDraft,
+%   german, colorinlistoftodos]{todonotes}
+%   \newcommand{\frage}[1]{\todo[color=green, caption={Frage}]{#1}}
+
+
+\usepackage{hyperref}
 
 \input{./abbreviations}
-
-\title{XML Data Entry Specs 1.0}
-\author{Klaus Thoden}
-\date{\today}
-
+\input{./titledata}
 %%%
 \begin{document}
-\pagestyle{empty}
+
 \input{./titlepage}
 
 \pagestyle{plain}
