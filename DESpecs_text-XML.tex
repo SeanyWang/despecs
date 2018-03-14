@@ -249,46 +249,6 @@ If you can identify a paragraph as a footer, use \xmlpair{p}, and add the attrib
 For §{ae}§ see \sect{section latin ligatures}.
 \end{crossref}
 
-\tocspace
-\subsection{Columns}
-\label{section columns}
-\begin{mainrule}
-If the page layout consists of two or more columns, mark the beginning of each column with the milestone tag \xms{cb} together with the attribute \attr{cb}{n} denoting the number of each column, counted from left to right.
-\end{mainrule}
-
-\begin{clarification}
-Type the \xms{cb} tag on a separate line.
-\end{clarification}
-
-% \mehrzeilen
-
-\begin{mainruleLessImportant}
-
-\begin{tabular}{@{}llll}
-\htsc{Example 1: \, a real page} &&& \htsc{Example 2: \, how to type columns} \\
-\includegraphics[scale=0.6]{wholepagecolumns2}  &&
-\multicolumn{2}{l}{\includegraphics[scale=0.63]{three_columns}} \\
-\parbox[t]{4.5cm}{\small \vspace{1mm}
-\notTranscribed \\[2mm]
-}
-&&&
-\parbox[t]{5cm}{ \vspace{-3mm}
-\begin{typeLatin}
-\bold{<cb n=``1''/>} \\
-\bold{<p>}\bold{<lb/>}This is one \\ \bold{<lb/>}column ...\bold{</p>} \\
-\bold{<cb n=''2''/>} \\
-\bold{<p>}\bold{<lb/>}This is \\\bold{<lb/>} another \\\bold{<lb/>} column.\bold{</p>} \\
-\bold{<cb n=''3''/>} \\
-\bold{<p>}\bold{<lb/>}And there \\ \bold{<lb/>}might be \\ \bold{<lb/>}yet another \\ \bold{<lb/>}column.\bold{</p>} \\
-\end{typeLatin}}
-\end{tabular}
-
-\end{mainruleLessImportant}
-
-\begin{note}
-If there is no running text in the columns, they may not be separate columns, but a table (\sect{section tables}). If in doubt, check the example there. Also note that in Example 1 above, the page number and the running head are not part of a column.
-\end{note}
-
 
 \tocspace
 \subsection{Tables}
@@ -359,6 +319,39 @@ If you are unsure whether the table in the example is divided into two text colu
 % For \attr{table}{rend=''emph''} see \sect{section italics}.
 % \end{crossref}
 
+
+\subsubsection{Large Vertical Table Elements}
+\label{section large vertical table elements}
+
+\begin{mainrule}
+Rule 4: If a table element vertically spans more than one cell, type its content in its uppermost cell. Use the attribute \attr{cell}{rows} to mark how many rows the cell spans.
+\end{mainrule}
+
+\vspace{3mm}
+\begin{sampleImageSmall}{width=6cm}{ghetaldi_table}
+\begin{typeLatin}
+\bold{<table>} \\
+\bold{<row><cell rows="2">}\bold{<lb/>}Diametri \bold{<lb/>} magnitu- \bold{<lb/>} do. \bold{</cell>}\lwr\bold{<cell cols="4">}\bold{<lb/>} Aureæ ſpheræ \bold{<lb/>} grauitas.\bold{</cell></row>} \\
+\bold{<row><cell>} Lib. \bold{</cell><cell>} Vn. \bold{</cell><cell>} Scru. \bold{</cell><cell>} Gra.\bold{</cell></row>} \\
+\bold{<row><cell><formula>} 1/4 \bold{</formula></cell><cell>} 0 \bold{</cell><cell>} 0 \bold{</cell>}\lwr\bold{<cell>} 2 \bold{</cell><cell><formula>} 29/37 \bold{</formula></cell></row>}\\
+\bold{<row><cell><formula>} 1/2 \bold{</formula></cell><cell>} 0 \bold{</cell><cell>} 0 \bold{</cell>}\lwr\bold{<cell>} 16 \bold{</cell><cell>} 6 \bold{<formula>} 10/37 \bold{</formula></cell></row>}\\
+\bold{<row><cell><formula>} 3/4 \bold{</formula></cell><cell>} 0 \bold{</cell><cell>} 2 \bold{</cell>}\lwr\bold{<cell>} 6 \bold{</cell><cell>} 21 \bold{<formula>} 6/37 \bold{</formula></cell></row>} \\
+\bold{<row><cell>}1 \bold{</cell><cell>} 0 \bold{</cell><cell>} 5 \bold{</cell><cell>} 10  \bold{</cell>}\lwr\bold{<cell>} 2 \bold{<formula>} 6/37\bold{</formula></cell></row>}\\
+\bold{</table>}
+\end{typeLatin}
+\end{sampleImageSmall}
+
+% \vspace{-5mm}
+\begin{crossref}
+For fractions such as \xmex{<formula>1/4</formula>} see \sect{section fractions}.
+\end{crossref}
+
+\vspace{3mm}
+\begin{note}
+If the table elements vertically span the whole table and contain running text, they may not be table elements, but text columns (\sect{section columns}). If in doubt, check the example there.
+\end{note}
+
+% Rule about large curly braces? MH: nein
 \subsubsection{Large Horizontal Table Elements}
 \label{section large horizontal table elements}
 \begin{mainrule}
@@ -411,39 +404,48 @@ Rule 3: If a table element spans the whole table width, type it as header/footer
 
 \end{sampleImage}
 
+\clearpage
 
-\subsubsection{Large Vertical Table Elements}
-\label{section large vertical table elements}
-
+\tocspace
+\subsection{Columns}
+\label{section columns}
 \begin{mainrule}
-Rule 4: If a table element vertically spans more than one cell, type its content in its uppermost cell. Use the attribute \attr{cell}{rows} to mark how many rows the cell spans.
+If the page layout consists of two or more columns, mark the beginning of each column with the milestone tag \xms{cb} together with the attribute \attr{cb}{n} denoting the number of each column, counted from left to right.
 \end{mainrule}
 
-\vspace{3mm}
-\begin{sampleImageSmall}{width=6cm}{ghetaldi_table}
+\begin{clarification}
+Type the \xms{cb} tag on a separate line.
+\end{clarification}
+
+% \mehrzeilen
+
+\begin{mainruleLessImportant}
+
+\begin{tabular}{@{}llll}
+\htsc{Example 1: \, a real page} &&& \htsc{Example 2: \, how to type columns} \\
+\includegraphics[scale=0.6]{wholepagecolumns2}  &&
+\multicolumn{2}{l}{\includegraphics[scale=0.63]{three_columns}} \\
+\parbox[t]{4.5cm}{\small \vspace{1mm}
+\notTranscribed \\[2mm]
+}
+&&&
+\parbox[t]{5cm}{ \vspace{-3mm}
 \begin{typeLatin}
-\bold{<table>} \\
-\bold{<row><cell rows="2">}\bold{<lb/>}Diametri \bold{<lb/>} magnitu- \bold{<lb/>} do. \bold{</cell>}\lwr\bold{<cell cols="4">}\bold{<lb/>} Aureæ ſpheræ \bold{<lb/>} grauitas.\bold{</cell></row>} \\
-\bold{<row><cell>} Lib. \bold{</cell><cell>} Vn. \bold{</cell><cell>} Scru. \bold{</cell><cell>} Gra.\bold{</cell></row>} \\
-\bold{<row><cell><formula>} 1/4 \bold{</formula></cell><cell>} 0 \bold{</cell><cell>} 0 \bold{</cell>}\lwr\bold{<cell>} 2 \bold{</cell><cell><formula>} 29/37 \bold{</formula></cell></row>}\\
-\bold{<row><cell><formula>} 1/2 \bold{</formula></cell><cell>} 0 \bold{</cell><cell>} 0 \bold{</cell>}\lwr\bold{<cell>} 16 \bold{</cell><cell>} 6 \bold{<formula>} 10/37 \bold{</formula></cell></row>}\\
-\bold{<row><cell><formula>} 3/4 \bold{</formula></cell><cell>} 0 \bold{</cell><cell>} 2 \bold{</cell>}\lwr\bold{<cell>} 6 \bold{</cell><cell>} 21 \bold{<formula>} 6/37 \bold{</formula></cell></row>} \\
-\bold{<row><cell>}1 \bold{</cell><cell>} 0 \bold{</cell><cell>} 5 \bold{</cell><cell>} 10  \bold{</cell>}\lwr\bold{<cell>} 2 \bold{<formula>} 6/37\bold{</formula></cell></row>}\\
-\bold{</table>}
-\end{typeLatin}
-\end{sampleImageSmall}
+\bold{<cb n=``1''/>} \\
+\bold{<p>}\bold{<lb/>}This is one \\ \bold{<lb/>}column ...\bold{</p>} \\
+\bold{<cb n=''2''/>} \\
+\bold{<p>}\bold{<lb/>}This is \\\bold{<lb/>} another \\\bold{<lb/>} column.\bold{</p>} \\
+\bold{<cb n=''3''/>} \\
+\bold{<p>}\bold{<lb/>}And there \\ \bold{<lb/>}might be \\ \bold{<lb/>}yet another \\ \bold{<lb/>}column.\bold{</p>} \\
+\end{typeLatin}}
+\end{tabular}
 
-% \vspace{-5mm}
-\begin{crossref}
-For fractions such as \xmex{<formula>1/4</formula>} see \sect{section fractions}.
-\end{crossref}
+\end{mainruleLessImportant}
 
-\vspace{3mm}
 \begin{note}
-If the table elements vertically span the whole table and contain running text, they may not be table elements, but text columns (\sect{section columns}). If in doubt, check the example there.
+If there is no running text in the columns, they may not be separate columns, but a table (\sect{section tables}). If in doubt, check the example there. Also note that in Example 1 above, the page number and the running head are not part of a column.
 \end{note}
 
-% Rule about large curly braces? MH: nein
 
 
 \tocspace
@@ -541,6 +543,7 @@ If the table elements vertically span the whole table and contain running text, 
 \end{sampleImage}
 
 
+
 \subsubsection{Large Spaces}
 \begin{mainrule}
 If a normal paragraph contains large spaces, mark them with \xms{space}.
@@ -567,7 +570,6 @@ Before you use \xms{space}, make sure the paragraph is not part of a table, a he
 %Alternative: Section “Leading”, where leading is explained, with example. Then: toc's and indexes.
 %One (weird) example would be Biancani 1635, p.195.
 %Another semi-weird example: modern-style quotations. Alternatively in the block quotation section, or no rule at all.
-
 
 \tocspace
 \subsection{Notes}
