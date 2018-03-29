@@ -1,0 +1,125 @@
+<?xml encoding="UTF-8"?>
+<!--
+    DTD for XML data entry specs
+
+    Klaus Thoden, kthoden@mpiwg-berlin.mpg.de
+    Max Planck Institute for the History of Science, Berlin, Germany
+    Version 1.0
+    29th March 2018
+
+    This work is licensed under the Creative Commons Attribution 4.0
+    International License. To view a copy of this license, visit
+    http://creativecommons.org/licenses/by/4.0/ or send a letter to
+    Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+-->
+
+<!ENTITY ij "ij">
+<!ENTITY is "is">
+<!ENTITY sz "ß">
+<!ENTITY ae "ę">
+<!ENTITY cn "con">
+<!ENTITY q3 "qꝫ">
+<!ENTITY qm "q̃ꝫ">
+<!ENTITY qd "ꝙ">
+<!ENTITY qo "q̊">
+<!ENTITY pr "ꝑ">
+<!ENTITY po  "ꝓ">
+<!ENTITY sec "ẜ">
+<!ENTITY uo  "ů">
+<!ENTITY tr "t̃">
+
+<!ELEMENT body (cb|head|pb|figure|fw|list|p|quote|table)+>
+<!ATTLIST body
+  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED>
+
+<!ELEMENT figure (head?,ab*)>
+<!ATTLIST figure
+  place (here) #IMPLIED>
+
+<!ELEMENT fw (hi)>
+<!ATTLIST fw
+  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED
+  type (head) #REQUIRED>
+
+<!ELEMENT list (cb|item|pb)+>
+<!ATTLIST list
+  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED
+  type (index|toc) #REQUIRED>
+
+<!ELEMENT p (#PCDATA|formula|gap|hi|lb|pb|unclear|add|g|note|sic|space)*>
+<!ATTLIST p
+  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED
+  type (footer) #IMPLIED>
+
+<!ELEMENT quote (#PCDATA|formula|gap|hi|lb|pb|unclear|add|g|note|sic|space)*>
+<!ATTLIST quote
+  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED
+  type NMTOKEN #IMPLIED>
+
+<!ELEMENT cell (#PCDATA|formula|gap|hi|lb|unclear|add|g|note|sic|space)*>
+<!ATTLIST cell
+  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED
+  cols CDATA #IMPLIED
+  rows CDATA #IMPLIED>
+
+<!ELEMENT table ((cb|head)*,row+)>
+<!ATTLIST table
+  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED>
+
+<!ELEMENT ab (#PCDATA|formula|gap|hi|lb|unclear|add|g|note|sic|space)*>
+<!ATTLIST ab
+  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED
+  type (desc|var) #REQUIRED>
+
+<!ELEMENT item (#PCDATA|hi|lb|ref|formula|gap|unclear|g|sic|space|add|note)*>
+<!ATTLIST item
+  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED>
+
+
+<!ELEMENT note (#PCDATA|hi|lb|formula|gap|unclear|add|g|sic|space)*>
+<!ATTLIST note
+  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED
+  n CDATA #IMPLIED
+  place CDATA #REQUIRED >
+
+<!ELEMENT sic (#PCDATA)>
+
+<!ELEMENT row (cell)+>
+<!ATTLIST row
+  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED>
+
+<!ELEMENT ref (#PCDATA)>
+
+<!ELEMENT head (#PCDATA|hi|lb|formula|gap|unclear|add|g|note|sic|space)*>
+<!ATTLIST head
+  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED>
+
+<!ELEMENT formula (#PCDATA|hi|lb|gap|unclear|add|g|note|sic|space)*>
+
+<!ELEMENT hi (#PCDATA|gap|hi|lb|pb|cb|unclear|add|note|sic|space|g)*>
+<!ATTLIST hi
+  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #REQUIRED>
+
+<!ELEMENT unclear (#PCDATA)>
+
+<!ELEMENT space EMPTY>
+
+<!ELEMENT gap EMPTY>
+
+<!ELEMENT lb EMPTY>
+
+<!ELEMENT pb EMPTY>
+<!ATTLIST pb
+  n CDATA #IMPLIED>
+
+<!ELEMENT cb EMPTY>
+<!ATTLIST cb
+  n CDATA #REQUIRED>
+
+<!ELEMENT add EMPTY>
+<!ATTLIST add
+  rend (handwritten) #REQUIRED>
+
+<!ELEMENT g EMPTY>
+<!ATTLIST g
+  ref CDATA #REQUIRED>
