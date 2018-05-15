@@ -121,7 +121,7 @@ The left rectangle contains the signature (§Ec 2§) and the right rectangle the
 \subsection{Text Blocks}
 \label{textblocks}
 \begin{mainrule}
-Type an \xms{lb} element at the beginning of each line of text of the printed page. Exceptions are the elements \xmlatt{p}{type}{footer}, \xml{head}, \xml{item}, \xml{cell}, \xml{note} and \xml{ab} if the contained text is not longer than one line.
+Type an \xms{lb} element at the beginning of each line of text of the printed page. Exceptions are the elements \xml{trailer}, \xml{head}, \xml{item}, \xml{cell}, \xml{note} and \xml{ab} if the contained text is not longer than one line.
 \end{mainrule}
 
 \begin{clarification}
@@ -226,7 +226,7 @@ For inline quotations within a paragraph, type the quotation marks exactly as th
 \label{footers}
 
 \begin{mainruleLessImportant}
-If you can identify a paragraph as a footer, use \xmlpair{p}, and add the attribute \attr{p}{type="footer"}.
+If you can identify a paragraph as a footer, use \xmlpair{trailer}.
 \end{mainruleLessImportant}
 
 \begin{crossref}
@@ -240,7 +240,7 @@ If you can identify a paragraph as a footer, use \xmlpair{p}, and add the attrib
 \bold{<lb/>}re cupio, ſi fieri poterit, antequam ad directionem mei Horoſcopi cum corpore \\
 \bold{<lb/>}Martis An\xent{ae}ret\xent{ae} perueniam, qu\xent{ae} quidem directio circa annum milleſimum\lwr quin- \\
 \bold{<lb/>}genteſimum nonageſimum ſecundum eueniet.\bold{</p>}\\
-\bold{<p type="footer''>}FINIS.\bold{</p>}
+\bold{<trailer>}FINIS.\bold{</trailer>}
 \end{typeLatin}
 
 \end{sampleImage}

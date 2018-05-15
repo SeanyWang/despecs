@@ -28,7 +28,7 @@
 <!ENTITY uo  "ů">
 <!ENTITY tr "t̃">
 
-<!ELEMENT body (cb|head|pb|figure|fw|list|p|quote|table)+>
+<!ELEMENT body (cb|head|pb|figure|fw|list|p|quote|table|trailer)+>
 <!ATTLIST body
   rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED>
 
@@ -48,8 +48,11 @@
 
 <!ELEMENT p (#PCDATA|formula|gap|hi|lb|pb|unclear|add|g|note|sic|space)*>
 <!ATTLIST p
-  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED
-  type (footer) #IMPLIED>
+  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED>
+
+<!ELEMENT trailer (#PCDATA|formula|gap|hi|lb|pb|unclear|add|g|note|sic|space)*>
+<!ATTLIST trailer
+  rend (emph|bold|sc|sub|sup|ul|ol|fr|rom|red|sp) #IMPLIED>
 
 <!ELEMENT quote (#PCDATA|formula|gap|hi|lb|pb|unclear|add|g|note|sic|space)*>
 <!ATTLIST quote
