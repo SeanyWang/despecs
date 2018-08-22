@@ -15,17 +15,61 @@ Make use of the complete character repertoire found in Unicode version 5.1. This
 
 At this point, do not make use of the characters in Extension C or D.
 
-We will also need the list of unknown characters (see \sect{section unknown characters}) and the list of character variants (see \sect{section character variants}). Please send each list in two versions, namely in the original file format (e.g. RTF, DOC, XLS) and as PDF.
+We will also need the list of unknown characters and symbols. Please send the list in two versions, both in the original file format (e.g. RTF, DOC, XLS) and as PDF.
 
-# General markup
+Every file should begin with `<book>` and end with `</book>`. All transcription and other tags should be placed between the `<book>` tags.
 
-Start typing from the table of contents. METADATA??? TABLE OF CONTENTS???
+The file structure should look as follows:
+```
+<book>
+  <meta>
+  ...
+  </meta>
+  <content>
+  ...
+  </content>
+</book>
+```
 
-Begin every page with `<page>` and end with `</page>`. Type the page's entire content in one line between the two brackets `<page>` and `</page>`. Ignore line breaks in the text.
+## Metadata
+
+Each gazetteer file corresponds to a catalog record from the Harvard-Yenching Library's [Chinese Rare Local Gazetteers collection](https://hollis.harvard.edu/primo-explore/search?query=any,contains,Harvard-Yenching%20Library%20Chinese%20Local%20Gazetteers%20Project%22&tab=everything&search_scope=everything&vid=HVD2&lang=en_US&offset=0&fromRedirectFilter=true). Type metadata information in the file between the `<meta>` and `</meta>` tags, using fields provided in catalog records.
+
+For example:
+```
+<meta>
+  <title>TITLE</title>
+  <attribution>ATTRIBUTION</attribution>
+  <author>AUTHOR</author>
+  <published>PUBLISHED DATE</published>
+  <description>DESCRIPTION</description>
+  <notes>NOTES</notes>
+  <subjects>SUBJECTS</subjects>
+  <created>CREATION DATE</created>
+  <hollis>HOLLIS NUMBER</hollis>
+  <url>PERMALINK</url>
+  <source>SOURCE</source>
+</meta>
+```
+
+# Contents
+
+Type all contents of each gazetteer between the `<content>` and `</content>` tags. Always start typing from the table of contents.
+
+Begin every page with `<page>` and end with `</page>`. Type the page's entire content in one line between the two brackets `<page>` and `</page>`. Ignore line breaks in the text. *However*, if there are any spaces in the text other than line breaks, type one single space to represent them regardless of the length of space(s).
 
 If there are blank pages in between texts, rather than at the very beginning (i.e. before the table of contents) or the very end of each gazetteer, still type the `<page>` and `</page>` tags but nothing in between them to indicate a blank page.
 
 **Please note:** In the digitization of the gazetteers, two pages may be on the same scan or on two consecutive scans.
+
+For example:
+```
+<content>
+  <page>TEXTS</page>
+  <page></page>
+  <page>TEXTS</page>
+</content>
+```
 
 ## Fontsize
 
@@ -33,13 +77,17 @@ Sometimes there are changes in fontsize, e.g. subscripts, or small-fonts arrange
 
 # Tables and Lists
 
-Continue typing in one single line per page and use a single space as field separators.
+Continue typing in one single line per page and use a single space as field separators between the .
 
 **Please note:** If you can identify a single space within a name etc. as a decorative space to make the table layout optically more pleasing, do not type it.
 
 # Images
 
-Use `<img>` and `</img>` tags to mark any images. If there is a caption available or if the image has texts embedded, type the texts in between the `<img>` tags. Otherwise, leave a single space between the the `<img>` tags.
+Use the `<img />` tag to mark any images without any caption/title or texts embedded within it.
+
+* If there is a caption/title available, include it inside the tag, i.e. `<img title="CAPTION" />`.
+* If the image has texts embedded within, type the texts in between the `<img>` tags, i.e. `<img>TEXTS</img>`.
+* If the image has both a caption and texts embedded within, combine the two protocols above, i.e. `<img title="CAPTION">TEXTS</img>`.
 
 ## Stamps
 
@@ -49,7 +97,7 @@ Ignore stamps and other images that are not part of the actual gazetteer content
 
 ## Unreadable Characters
 
-If there is a unreadable character in the text, type the symbol `@` as substitute. Use one `@` for each unreadable character, e.g. `unr@@dable`.
+If there is a unreadable character in the text, type the symbol `@` as substitute. Use one `@` for each unreadable character, e.g. `UNR@@DABLE`.
 
 ## Unknown Characters
 
@@ -61,4 +109,4 @@ Before you create a number for an unknown character, first check whether it is a
 
 ## Symbols
 
-There are sometimes symbols (excluding punctuation marks) in the texts, e.g. circles. Treat these symbols as unknown characters and follow the same protocol.
+There are sometimes symbols (excluding punctuation marks) in the texts, e.g. circles. Treat these symbols as unknown characters and follow the same protocol above.
