@@ -60,7 +60,7 @@ Begin every page with `<page>` and end with `</page>`. Type the page's entire co
 
 If there are blank pages in between texts, rather than at the very beginning (i.e. before the table of contents) or the very end of each gazetteer, still type the `<page>` and `</page>` tags but nothing in between them to indicate a blank page.
 
-**Please note:** In the digitization of the gazetteers, two pages may be on the same scan or on two consecutive scans.
+**Note:** In the digitization of the gazetteers, two pages may be on the same scan or on two consecutive scans.
 
 For example:
 ```
@@ -79,7 +79,7 @@ Sometimes there are changes in fontsize, e.g. subscripts, or small-fonts arrange
 
 Continue typing in one single line per page and use a single space as field separators between the .
 
-**Please note:** If you can identify a single space within a name etc. as a decorative space to make the table layout optically more pleasing, do not type it.
+**Note:** If you can identify a single space within a name etc. as a decorative space to make the table layout optically more pleasing, do not type it.
 
 # Images
 
@@ -93,11 +93,8 @@ For example:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/fig1.jpg" width="350"> | `<page><img /></page>`
-<img src="lgimg/fig2.jpg" width="350"> | `<page><img title="學宮<001>">東 訓導 儒學 教諭宅 東廡 名宦祠</img></page>`
-
-**Note:** Do not type any repetitive marginalia, e.g. book title and page numbers.
-
+<img src="lgimg/fig1.jpg" width="350"> | `<page><img /></page>`<br />**Note:** Do not type any repetitive marginalia, e.g. book title and page numbers.
+<img src="lgimg/fig2.jpg" width="350"> | `<page><img title="學宮<001>">東 訓導 儒學 教諭宅 東廡 名宦祠</img></page>`<br />**Note:** This image caption contains an unknown (i.e. untypable) character and the code makes use of the corresponding protocol (see below).
 
 ## Stamps
 
