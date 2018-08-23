@@ -93,7 +93,7 @@ For example:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/fig1.jpg" width="100"> | ```<page><img /></page>```
+<img src="lgimg/fig1.jpg" width="350"> | ```<page><img /></page>```
 
 ## Stamps
 
