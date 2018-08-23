@@ -93,8 +93,9 @@ For example:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/fig1.jpg" width="500"> | `<page><img /></page>`<br />**Note:** Do not type any repetitive marginalia, e.g. book title and page numbers.
-<img src="lgimg/fig2.jpg" width="500"> | `<page><img title="學宮<001>">東 訓導 儒學 教諭宅 東廡 名宦祠</img></page>`<br />**Note:** This image caption contains an unknown (i.e. untypable) character and the code makes use of the corresponding protocol (see below).
+<img src="lgimg/fig1.jpg" width="650"> | `<page><img /></page>`<br />**Note:** Do not type any repetitive marginalia, e.g. book title and page numbers.
+<img src="lgimg/fig2.jpg" width="650"> | `<page><img title="學宮<001>">東 訓導 儒學 教諭宅 東廡 名宦祠</img></page>`<br />**Note:** This image caption contains an unknown (i.e. untypable) character and the code makes use of the corresponding protocol (see below).
+<img src="lgimg/fig3.jpg" width="650"> | `<page><img title="東西哲陳設圖">栗 鹿脯 鹽 棗 燭 [continue typing all texts]</img></page>`<br />**Note:** This is a list-figure with a title, so combine the list and image protocols.
 
 ## Stamps
 
