@@ -93,8 +93,8 @@ For example:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/fig1.jpg" width="350"> | ```<page><img /></page>```
-<img src="lgimg/fig2.jpg" width="350"> | ```<page><img title="學宮<001>">東 訓導 儒學 教諭宅 東廡 名宦祠</img>```
+<img src="lgimg/fig1.jpg" width="350"> | `<page><img /></page>`
+<img src="lgimg/fig2.jpg" width="350"> | `<page><img title="學宮<001>">東 訓導 儒學 教諭宅 東廡 名宦祠</img></page>`
 
 **Note:** Do not type any repetitive marginalia, e.g. book title and page numbers.
 
