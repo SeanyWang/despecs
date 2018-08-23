@@ -96,7 +96,7 @@ Image | Markup
 <img src="lgimg/fig1.jpg" width="700"> | `<page><img /></page>`<br />**Note:** Do not type any repetitive marginalia, e.g. book title and page numbers.
 <img src="lgimg/fig2.jpg" width="700"> | `<page><img title="學宮<001>">東 訓導 儒學 教諭宅 東廡 名宦祠</img></page>`<br />**Note:** This image caption contains an unknown (i.e. untypable) character and the code makes use of the corresponding protocol (see below).
 <img src="lgimg/fig3.jpg" width="700"> | `<page><img title="東西哲陳設圖">栗 鹿脯 鹽 棗 燭 [continue typing all texts]</img></page>`<br />**Note:** This is a list-figure with a title, so combine the list and image protocols.
-<img src="lgimg/fig4.jpg" width="700"> | `<page><img title="南朝都建康圖">建興郡 句容縣 [continue typing all texts]</img></page>`<br />`<page><img>親康宮 @@ [continue typing all texts]</img></page>`<br />**Note:** Although this map spans two pages, its caption (in its entirety) appears only on the first page. Thus, treat the first page as an image with both caption and texts embedded within, and the second page as an image with only texts embedded within. Also, the second page contains unreadable characters and the code makes use of the corresponding protocol (see below).
+<img src="lgimg/fig4.jpg" width="700px"> | `<page><img title="南朝都建康圖">建興郡 句容縣 [continue typing all texts]</img></page>`<br />`<page><img>親康宮 @@ [continue typing all texts]</img></page>`<br />**Note:** Although this map spans two pages, its caption (in its entirety) appears only on the first page. Thus, treat the first page as an image with both caption and texts embedded within, and the second page as an image with only texts embedded within. Also, the second page contains unreadable characters and the code makes use of the corresponding protocol (see below).
 
 ## Stamps
 
