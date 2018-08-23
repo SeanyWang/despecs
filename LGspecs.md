@@ -56,11 +56,11 @@ For example:
 
 Type all contents of each gazetteer between the `<content>` and `</content>` tags. Always start typing from the table of contents.
 
-Begin every page with `<page>` and end with `</page>`. Type the page's entire content in one line between the two brackets `<page>` and `</page>`. Do not type any repetitive marginalia, e.g. book title and page numbers. Ignore line breaks in the text if they are part of the same paragraph. *However*, if there are any spaces in the text other than line breaks (e.g. paragraph breaks or spaces within a line), type one single space to represent them regardless of the length of space(s). For example:
+Begin every page with `<page>` and end with `</page>`. Type the page's entire content in one line between the two brackets `<page>` and `</page>`. Do not type any repetitive marginalia, e.g. book title and page numbers. Ignore line changes in the text if the lines are part of the same paragraph. *However*, if there are any in-line spaces in the text or line breaks (e.g. spaces within a line or paragraph breaks), type one single space to represent them regardless of the length of space(s). For example:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/txt2.jpg"> | `<page>務張之[...]以蘇辛未移疾[...]幽獨中</page>`<br />**Note:** There are no in-line spaces or paragraph changes, so ignore line breaks and type the entire page in one line.
+<img src="lgimg/txt2.jpg"> | `<page>務張之[...]以蘇辛未移疾[...]幽獨中</page>`<br />**Note:** There are no in-line spaces or paragraph changes, so ignore line changes and type the entire page in one line.
 <img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人<001>心療母母子俱全王弟[...]</page>`<br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below).
 
 If there are blank pages in between texts, rather than at the very beginning (i.e. before the table of contents) or the very end of each gazetteer, still type the `<page>` and `</page>` tags but nothing in between them to indicate a blank page.
@@ -116,7 +116,7 @@ Image | Markup
 <img src="lgimg/fig2.jpg"> | `<page><img title="學宮<002>">東 訓導 儒學 教諭宅 東廡 名宦祠</img></page>`<br />**Note:** This image caption contains an unknown (i.e. untypable) character and the code makes use of the corresponding protocol (see below).
 <img src="lgimg/fig3.jpg"> | `<page><img title="東西哲陳設圖">栗 鹿脯 鹽 棗 燭 [continue typing all texts]</img></page>`<br />**Note:** This is a list-figure with a title, so combine the list and image protocols.
 <img src="lgimg/fig4.jpg"> | `<page><img title="南朝都建康圖">建興郡 句容縣 [continue typing all texts]</img></page>`<br />`<page><img>親康宮 @@ [continue typing all texts]</img></page>`<br />**Note:** Although this map spans two pages, its caption (in its entirety) appears only on the first page. Thus, treat the first page as an image with both caption and texts embedded within, and the second page as an image with only texts embedded within. Also, the second page contains unreadable characters and the code makes use of the corresponding protocol (see below).
-<img src="lgimg/fig6.jpg"> | `<page><img /></page>`<br />`<page><img title="天印山">在城南四十里高[continue typing all texts without line breaks]</img></page>`<br />**Note:** Same as above, except that the caption is on the second page.
+<img src="lgimg/fig6.jpg"> | `<page><img /></page>`<br />`<page><img title="天印山">在城南四十里高[continue typing all texts without line changes]</img></page>`<br />**Note:** Same as above, except that the caption is on the second page.
 <img src="lgimg/fig5.jpg"> | `<page><img title="城圖-1">東 太山行宮 [continue typing all texts]</img></page>`<br />`<page><img title="城圖-2">大士閣 @洞 北 [continue typing all texts]</img></page>`<br />**Note:** This map spans two pages and its caption ("城圖") also spans the two pages. In this case, type the entire caption inside every page's `<img title="">` tag and add `-[number of page]` to the caption, i.e. `<img title="城圖-1">`.
 <img src="lgimg/fig7.jpg"> | `<page><img title="星野圖">東 危 北 南 虛 西</img></page>`<br />**Note:** This image's caption is embedded within.
 
