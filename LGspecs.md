@@ -56,7 +56,12 @@ For example:
 
 Type all contents of each gazetteer between the `<content>` and `</content>` tags. Always start typing from the table of contents.
 
-Begin every page with `<page>` and end with `</page>`. Type the page's entire content in one line between the two brackets `<page>` and `</page>`. Ignore line breaks in the text. *However*, if there are any spaces in the text other than line breaks, type one single space to represent them regardless of the length of space(s).
+Begin every page with `<page>` and end with `</page>`. Type the page's entire content in one line between the two brackets `<page>` and `</page>`. Do not type any repetitive marginalia, e.g. book title and page numbers. Ignore line breaks in the text if they are part of the same paragraph. *However*, if there are any spaces in the text other than line breaks (e.g. paragraph breaks or spaces within a line), type one single space to represent them regardless of the length of space(s). For example:
+
+Image | Markup
+----- | ------
+<img src="lgimg/txt2.jpg"> | `<page>務張之[...]以蘇辛未移疾[...]幽獨中</page>`<br />**Note:** There are no in-line spaces or paragraph changes, so ignore line breaks and type the entire page in one line.
+<img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人<001>心療母母子俱全王弟[...]</page>`<br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below).
 
 If there are blank pages in between texts, rather than at the very beginning (i.e. before the table of contents) or the very end of each gazetteer, still type the `<page>` and `</page>` tags but nothing in between them to indicate a blank page.
 
@@ -73,13 +78,27 @@ For example:
 
 ## Fontsize
 
-Sometimes there are changes in fontsize, e.g. subscripts, or small-fonts arranged in parallel in one line. Simply disregard these fontsize changes and continue typing the texts *in the order of text flows*.
+Sometimes there are changes in fontsize, e.g. subscripts, or small-fonts arranged in parallel in one line. Simply disregard these fontsize changes and continue typing the texts *in the order of text flows*. For example:
+
+Image | Markup
+----- | ------
+<img src="lgimg/txt3.jpg"> | `<page>恍惚[...]心也陸文定[...]急流勇退[...]不知何如也遠近[...]間 張祥[...]</page>`<br />**Note:** Ignore the single space at the end of the parallel-line, as it does not represent a paragraph change and instead results from having an odd number of characters in the parallel-line section.
+<img src="lgimg/txt4.jpg"> | `<page>水注[...]即此江總[...]西峰石壁[...]</page>`<br />`<page>中一碑[...]</page>`
 
 # Tables and Lists
 
-Continue typing in one single line per page and use a single space as field separators between the .
+Continue typing in one single line per page and use a single space as field separators between the table cells.
 
-**Note:** If you can identify a single space within a name etc. as a decorative space to make the table layout optically more pleasing, do not type it.
+**Note:** If you can identify a single space within a name etc. as a decorative space to make the table layout optically more pleasing, do not type it. For example:
+
+Image | Markup
+----- | ------
+<img src="lgimg/tab1.jpg"> | `<page>楊家坊 李家口 [...] 西稍門 以上西鄉共八十五庄</page>`
+<img src="lgimg/tab2.jpg"> | `<page>監察御史鄭智 監察御史曾鳳韶 監察御史王彬 [...]</page>`
+<img src="lgimg/tab3.jpg"> | `<page>十六年 楚 棠邑 平陵邑 敬王三十四年 吳 棠邑 平陵邑 元王二年 楚 棠邑 越 平陵邑 [...]</page>`<br />**Note:** See protocol for parallel-line texts above.
+<img src="lgimg/tab4.jpg"> | `<page>興教寺 在東[...]記 觀音寺 在西門[...]省志 [...]</page>`<br />**Note:** Ignore blank line and treat it as a regular paragraph break, i.e. represent it with a single space.
+<img src="lgimg/tab5.jpg"> | `<page>庚辰 [...] 嘉靖壬午 [...]</page>`<br />**Note:** Be careful with parallel-line texts that only have one character in each line.
+<img src="lgimg/tab6.jpg"> | `<page>歷官表上 卷之十六 [...] 卷之二十</page>`<br />`<page>人物傳一 卷之二十一 [...] 卷之二十五</page>`<br />**Note:** This is a typical gazetteer table of contents.
 
 # Images
 
@@ -93,8 +112,8 @@ For example:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/fig1.jpg"> | `<page><img /></page>`<br />**Note:** Do not type any repetitive marginalia, e.g. book title and page numbers.
-<img src="lgimg/fig2.jpg"> | `<page><img title="學宮<001>">東 訓導 儒學 教諭宅 東廡 名宦祠</img></page>`<br />**Note:** This image caption contains an unknown (i.e. untypable) character and the code makes use of the corresponding protocol (see below).
+<img src="lgimg/fig1.jpg"> | `<page><img /></page>`
+<img src="lgimg/fig2.jpg"> | `<page><img title="學宮<002>">東 訓導 儒學 教諭宅 東廡 名宦祠</img></page>`<br />**Note:** This image caption contains an unknown (i.e. untypable) character and the code makes use of the corresponding protocol (see below).
 <img src="lgimg/fig3.jpg"> | `<page><img title="東西哲陳設圖">栗 鹿脯 鹽 棗 燭 [continue typing all texts]</img></page>`<br />**Note:** This is a list-figure with a title, so combine the list and image protocols.
 <img src="lgimg/fig4.jpg"> | `<page><img title="南朝都建康圖">建興郡 句容縣 [continue typing all texts]</img></page>`<br />`<page><img>親康宮 @@ [continue typing all texts]</img></page>`<br />**Note:** Although this map spans two pages, its caption (in its entirety) appears only on the first page. Thus, treat the first page as an image with both caption and texts embedded within, and the second page as an image with only texts embedded within. Also, the second page contains unreadable characters and the code makes use of the corresponding protocol (see below).
 <img src="lgimg/fig6.jpg"> | `<page><img /></page>`<br />`<page><img title="天印山">在城南四十里高[continue typing all texts without line breaks]</img></page>`<br />**Note:** Same as above, except that the caption is on the second page.
@@ -103,7 +122,7 @@ Image | Markup
 
 ## Stamps
 
-Ignore stamps and other images that are not part of the actual gazetteer contents.
+Ignore stamps and other images that are not part of the actual gazetteer contents (see also marginalia protocol above).
 
 # Miscellaneous Characters
 
