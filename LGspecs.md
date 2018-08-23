@@ -90,9 +90,10 @@ Use the `<img />` tag to mark any images without any caption/title or texts embe
 * If the image has both a caption and texts embedded within, combine the two protocols above, i.e. `<img title="CAPTION">TEXTS</img>`.
 
 For example:
+
 Image | Markup
 ----- | ------
-![image w/o caption or text](lgimg/fig1.jpg) | `<page><img /></page>`
+![image w/o caption or text](lgimg/fig1.jpg | width=100) | `<page><img /></page>`
 
 ## Stamps
 
