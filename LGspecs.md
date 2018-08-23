@@ -33,7 +33,7 @@ The file structure should look as follows:
 
 ## Metadata
 
-Each gazetteer file corresponds to a catalog record from the Harvard-Yenching Library's [Chinese Rare Local Gazetteers collection](https://hollis.harvard.edu/primo-explore/search?query=any,contains,Harvard-Yenching%20Library%20Chinese%20Local%20Gazetteers%20Project%22&tab=everything&search_scope=everything&vid=HVD2&lang=en_US&offset=0&fromRedirectFilter=true). Type metadata information in the file between the `<meta>` and `</meta>` tags, using fields provided in catalog records.
+Each gazetteer file corresponds to a catalog record from the Harvard-Yenching Library's [Chinese Rare Local Gazetteers collection](https://hollis.harvard.edu/primo-explore/search?query=any,contains,Harvard-Yenching%20Library%20Chinese%20Local%20Gazetteers%20Project%22&tab=everything&search_scope=everything&vid=HVD2&lang=en_US&offset=0&fromRedirectFilter=true). Type metadata information in the file between the `<meta>` and `</meta>` tags, using fields provided in each individual catalog record.
 
 For example:
 ```
@@ -65,8 +65,6 @@ Image | Markup
 
 If there are blank pages in between texts, rather than at the very beginning (i.e. before the table of contents) or the very end of each gazetteer, still type the `<page>` and `</page>` tags but nothing in between them to indicate a blank page.
 
-**Note:** In the digitization of the gazetteers, two pages may be on the same scan or on two consecutive scans.
-
 For example:
 ```
 <content>
@@ -75,6 +73,8 @@ For example:
   <page>TEXTS</page>
 </content>
 ```
+
+**Note:** In the digitization of the gazetteers, two pages may be on the same scan or on two consecutive scans.
 
 ## Fontsize
 
