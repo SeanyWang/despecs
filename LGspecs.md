@@ -56,12 +56,16 @@ For example:
 
 Type all contents of each gazetteer between the `<content>` and `</content>` tags. Always start typing from the table of contents.
 
-Begin every page with `<page>` and end with `</page>`. Type the page's entire content in one line between the two brackets `<page>` and `</page>`. Do not type any repetitive marginalia, e.g. book title and page numbers. Ignore line changes in the text if the lines are part of the same paragraph. *However*, if there are any in-line spaces in the text or line breaks (e.g. spaces within a line or paragraph breaks), type one single space to represent them regardless of the length of space(s). For example:
+Begin every page with `<page>` and end with `</page>`. Type the page's entire content in one line between the two brackets `<page>` and `</page>`.
+
+Ignore line changes in the text if the lines are part of the same paragraph. *However*, if there are any in-line spaces in the text or line breaks (e.g. spaces within a line or paragraph breaks), type one single space to represent them regardless of the length of space(s). For example:
 
 Image | Markup
 ----- | ------
 <img src="lgimg/txt2.jpg"> | `<page>務張之[...]以蘇辛未移疾[...]幽獨中</page>`<br />**Note:** There are no in-line spaces or paragraph changes, so ignore line changes and type the entire page in one line.
 <img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人<001>心療母母子俱全王弟[...]</page>`<br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below).
+
+Do not type any repetitive marginalia, e.g. book title and page numbers. 
 
 If there are blank pages in between texts, rather than at the very beginning (i.e. before the table of contents) or the very end of each gazetteer, still type the `<page>` and `</page>` tags but nothing in between them to indicate a blank page.
 
