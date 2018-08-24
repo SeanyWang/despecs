@@ -90,14 +90,12 @@ Image | Markup
 
 # Tables and Lists
 
-Continue typing in one single line per page and use a single space as field separators between the table cells.
-
-**Note:** If you can identify a single space within a name etc. as a decorative space to make the table layout optically more pleasing, do not type it. For example:
+Continue typing in one single line per page and use a single space as field separators between the table cells. For example:
 
 Image | Markup
 ----- | ------
 <img src="lgimg/tab1.jpg"> | `<page>楊家坊 李家口 [...] 西稍門 以上西鄉共八十五庄</page>`
-<img src="lgimg/tab2.jpg"> | `<page>監察御史鄭智 監察御史曾鳳韶 監察御史王彬 [...]</page>`
+<img src="lgimg/tab2.jpg"> | `<page>監察御史鄭智 監察御史曾鳳韶 監察御史王彬 [...]</page>`<br />**Note:** If you can identify a single space within a name etc. as a decorative space to make the table layout optically more pleasing, do not type it.
 <img src="lgimg/tab3.jpg"> | `<page>十六年 楚 棠邑 平陵邑 敬王三十四年 吳 棠邑 平陵邑 元王二年 楚 棠邑 越 平陵邑 [...]</page>`<br />**Note:** See protocol for parallel-line texts above.
 <img src="lgimg/tab4.jpg"> | `<page>興教寺 在東[...]記 觀音寺 在西門[...]省志 [...]</page>`<br />**Note:** Ignore blank line and treat it as a regular paragraph break, i.e. represent it with a single space.
 <img src="lgimg/tab5.jpg"> | `<page>庚辰 [...] 嘉靖壬午 [...]</page>`<br />**Note:** Be careful with parallel-line texts that only have one character in each line.
