@@ -151,7 +151,11 @@ Image | Markup
 
 ## Unreadable Characters
 
-If there is a unreadable character in the text, represent it with `<unr />`. Use one `<unr />` tag for each unreadable character, e.g. `UNR<unr /><unr />DABLE`.
+If there is a unreadable character in the text, represent it with `<unr />`. Use one `<unr />` tag for each unreadable character. For example:
+
+Image | Markup
+----- | ------
+<img src="bilder/chinese/unreadable.jpg"> | `上戊其日<unr /><unr />禮<unr /><unr />陳尚明率元儒姬紹周`
 
 ## Unknown Characters
 
