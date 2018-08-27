@@ -136,10 +136,16 @@ Image | Markup
 <img src="lgimg/fig6.jpg"> | `<page><img /></page>`<br /><br />`<page><img><caption>天印山</caption><text>在城南四十里高[continue typing all texts without line changes]</text></img></page>`<br /><br />**Note:** Same as above, except that the caption is on the second page.
 <img src="lgimg/fig5.jpg"> | `<page><img><caption>城圖-1</caption><text>東 太山行宮 [continue typing all texts]</text></img></page>`<br /><br />`<page><img><caption>城圖-2</caption><text>大士閣 <unr />洞 北 [continue typing all texts]</text></img></page>`<br /><br />**Note:** This map spans two pages and its caption (*城圖*) also spans the two pages. In this case, type the entire caption between every page's `<caption>` tags and add *-[number of page]* to the caption, i.e. `<caption>城圖-1</caption>`.
 <img src="lgimg/fig7.jpg"> | `<page><img><caption>星野圖</caption><text>東 危 北 南 虛 西</text></img></page>`<br /><br />**Note:** This image's caption is embedded within.
+<img src="lgimg/fig8.jpg"><br /><br /><img src="lgimg/fig9.jpg"> | `<page>衛河道 [...] 杜家[...]河道</page>`<br /><br />`<page>以上[...]地方<img><text>[...]</text></img></page>`<br /><br />`<page><img><text>[...]</text></img></page>`<br /><br />`<page>以上[...]地方<img><text>[...]</text></img></page>`<br /><br />**Note:** Some pages here contain a mix of regular texts, images, and texts embedded within images. Note that some image-embedded texts here are blurry enough that the use of unreadable characters tag (i.e. `<unr />`) would be appropriate.
 
 ## Stamps
 
-Ignore stamps and other images that are not part of the actual gazetteer contents (see also marginalia protocol above).
+Ignore stamps and other images that are not part of the actual gazetteer contents (see also marginalia protocol above). For example:
+
+Image | Markup
+----- | ------
+<img src="lgimg/stmp1.jpg"> | `<page>祖彭序</page>`
+<img src="lgimg/stmp2.jpg"> | `<page>德州志卷之一 封域志第一 [...] 戰國[...]陸鄉而</page>`
 
 # Miscellaneous Characters
 
