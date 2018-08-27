@@ -22,10 +22,12 @@ The file structure should look as follows:
 ```
 <book>
   <meta>
-  ...
+    ...
   </meta>
   <content>
-  ...
+    <page>...</page>
+    ...
+    <page>...</page>
   </content>
 </book>
 ```
