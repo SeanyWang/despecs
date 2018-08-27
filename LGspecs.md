@@ -61,7 +61,7 @@ Ignore line changes in the text if the lines are part of the same paragraph. *Ho
 
 Image | Markup
 ----- | ------
-<img src="lgimg/txt2.jpg"> | `<page>務張之[...]以蘇辛未移疾[...]幽獨中</page>`<br />**Note:** There are no in-line spaces or paragraph changes, so ignore line changes and type the entire page in one line.
+<img src="lgimg/txt2.jpg"> | `<page>務張之[...]以蘇辛未移疾[...]幽獨中</page>`<br /><br />**Note:** There are no in-line spaces or paragraph changes, so ignore line changes and type the entire page in one line.
 <img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人<char no="001" />心療母母子俱全王弟[...]</page>`<br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below).
 
 Do not type any repetitive marginalia, e.g. book title and page numbers.
@@ -118,7 +118,7 @@ Image | Markup
 <img src="lgimg/fig3.jpg"> | `<page><img><caption>東西哲陳設圖</caption><text>栗 鹿脯 鹽 棗 燭 [continue typing all texts]</text></img></page>`<br />**Note:** This is a list-figure with a title, so combine the list and image protocols.
 <img src="lgimg/fig4.jpg"> | `<page><img><caption>南朝都建康圖</caption><text>建興郡 句容縣 [continue typing all texts]</text></img></page>`<br />`<page><img><text>親康宮 <unr /><unr /> [continue typing all texts]</text></img></page>`<br />**Note:** Although this map spans two pages, its caption (in its entirety) appears only on the first page. Thus, treat the first page as an image with both caption and texts embedded within, and the second page as an image with only texts embedded within. Also, the second page contains unreadable characters and the code makes use of the corresponding protocol (see below).
 <img src="lgimg/fig6.jpg"> | `<page><img /></page>`<br />`<page><img><caption>天印山</caption><text>在城南四十里高[continue typing all texts without line changes]</text></img></page>`<br />**Note:** Same as above, except that the caption is on the second page.
-<img src="lgimg/fig5.jpg"> | `<page><img><caption>城圖-1</caption><text>東 太山行宮 [continue typing all texts]</text></img></page>`<br />`<page><img><caption>城圖-2</caption><text>大士閣 @洞 北 [continue typing all texts]</text></img></page>`<br />**Note:** This map spans two pages and its caption (*城圖*) also spans the two pages. In this case, type the entire caption between every page's `<caption>` tags and add *-[number of page]* to the caption, i.e. `<caption>城圖-1</caption>`.
+<img src="lgimg/fig5.jpg"> | `<page><img><caption>城圖-1</caption><text>東 太山行宮 [continue typing all texts]</text></img></page>`<br />`<page><img><caption>城圖-2</caption><text>大士閣 <unr />洞 北 [continue typing all texts]</text></img></page>`<br />**Note:** This map spans two pages and its caption (*城圖*) also spans the two pages. In this case, type the entire caption between every page's `<caption>` tags and add *-[number of page]* to the caption, i.e. `<caption>城圖-1</caption>`.
 <img src="lgimg/fig7.jpg"> | `<page><img><caption>星野圖</caption><text>東 危 北 南 虛 西</text></img></page>`<br />**Note:** This image's caption is embedded within.
 
 ## Stamps
