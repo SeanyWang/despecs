@@ -155,7 +155,7 @@ If there is an unreadable character in the text, represent it with `<unr />`. Us
 
 Image | Markup
 ----- | ------
-<img src="bilder/chinese/unreadable.jpg"> | `上戊其日<unr />事禮成<unr />陳尚明率元儒姬紹周`
+<img src="bilder/chinese/unreadable.jpg"> | `上戊其日<unr /><unr />禮<unr /><unr />陳尚明率元儒姬紹周`
 
 ## Unknown Characters
 
