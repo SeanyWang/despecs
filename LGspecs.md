@@ -14,7 +14,7 @@ Make use of the complete character repertoire found in Unicode version 5.1. This
 
 At this point, do not make use of the characters in Extension C or D.
 
-We will also need the list of unknown characters and symbols. Please send the list in two versions, both in the original file format (e.g. RTF, DOC, XLS) and as PDF.
+We will also need the list of unknown characters and symbols (see "unknown characters" below). Please send the list in two versions, both in the original file format of your choice (e.g. RTF, DOC, XLS) and as PDF.
 
 Every file should begin with `<book>` and end with `</book>`. All transcription and other tags should be placed between the `<book>` tags.
 
@@ -62,7 +62,7 @@ Ignore line changes in the text if the lines are part of the same paragraph. *Ho
 Image | Markup
 ----- | ------
 <img src="lgimg/txt2.jpg"> | `<page>務張之[...]以蘇辛未移疾[...]幽獨中</page>`<br />**Note:** There are no in-line spaces or paragraph changes, so ignore line changes and type the entire page in one line.
-<img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人<001>心療母母子俱全王弟[...]</page>`<br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below).
+<img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人<char no="001" />心療母母子俱全王弟[...]</page>`<br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below).
 
 Do not type any repetitive marginalia, e.g. book title and page numbers.
 
@@ -105,21 +105,21 @@ Image | Markup
 
 Use the `<img />` tag to mark any images without any caption/title or texts embedded within it.
 
-* If there is a caption/title available, include it inside the tag, i.e. `<img title="CAPTION" />`.
-* If the image has texts embedded within, type the texts in between the `<img>` tags, i.e. `<img>TEXTS</img>`.
-* If the image has both a caption and texts embedded within, combine the two protocols above, i.e. `<img title="CAPTION">TEXTS</img>`.
+* If there is a caption/title available, include it with a pair of nested `<caption>` tags, i.e. `<img><caption>CAPTION</caption></img>`.
+* If the image has texts embedded within, include the texts with a pair of nested `<text>` tags, i.e. `<img><text>TEXTS</text></img>`.
+* If the image has both a caption and texts embedded within, combine the two protocols above, i.e. `<img><caption>CAPTION</caption><text>TEXTS</text></img>`.
 
 For example:
 
 Image | Markup
 ----- | ------
 <img src="lgimg/fig1.jpg"> | `<page><img /></page>`
-<img src="lgimg/fig2.jpg"> | `<page><img title="學宮<002>">東 訓導 儒學 教諭宅 東廡 名宦祠</img></page>`<br />**Note:** This image caption contains an unknown (i.e. untypable) character and the code makes use of the corresponding protocol (see below).
-<img src="lgimg/fig3.jpg"> | `<page><img title="東西哲陳設圖">栗 鹿脯 鹽 棗 燭 [continue typing all texts]</img></page>`<br />**Note:** This is a list-figure with a title, so combine the list and image protocols.
-<img src="lgimg/fig4.jpg"> | `<page><img title="南朝都建康圖">建興郡 句容縣 [continue typing all texts]</img></page>`<br />`<page><img>親康宮 @@ [continue typing all texts]</img></page>`<br />**Note:** Although this map spans two pages, its caption (in its entirety) appears only on the first page. Thus, treat the first page as an image with both caption and texts embedded within, and the second page as an image with only texts embedded within. Also, the second page contains unreadable characters and the code makes use of the corresponding protocol (see below).
-<img src="lgimg/fig6.jpg"> | `<page><img /></page>`<br />`<page><img title="天印山">在城南四十里高[continue typing all texts without line changes]</img></page>`<br />**Note:** Same as above, except that the caption is on the second page.
-<img src="lgimg/fig5.jpg"> | `<page><img title="城圖-1">東 太山行宮 [continue typing all texts]</img></page>`<br />`<page><img title="城圖-2">大士閣 @洞 北 [continue typing all texts]</img></page>`<br />**Note:** This map spans two pages and its caption (*城圖*) also spans the two pages. In this case, type the entire caption inside every page's `<img title="">` tag and add *-[number of page]* to the caption, i.e. `<img title="城圖-1">`.
-<img src="lgimg/fig7.jpg"> | `<page><img title="星野圖">東 危 北 南 虛 西</img></page>`<br />**Note:** This image's caption is embedded within.
+<img src="lgimg/fig2.jpg"> | `<page><img><caption>學宮<char no="002" /></caption><text>東 訓導 儒學 教諭宅 東廡 名宦祠</text></img></page>`<br />**Note:** This image caption contains an unknown (i.e. untypable) character and the code makes use of the corresponding protocol (see below).
+<img src="lgimg/fig3.jpg"> | `<page><img><caption>東西哲陳設圖</caption><text>栗 鹿脯 鹽 棗 燭 [continue typing all texts]</text></img></page>`<br />**Note:** This is a list-figure with a title, so combine the list and image protocols.
+<img src="lgimg/fig4.jpg"> | `<page><img><caption>南朝都建康圖</caption><text>建興郡 句容縣 [continue typing all texts]</text></img></page>`<br />`<page><img><text>親康宮 <unr /><unr /> [continue typing all texts]</text></img></page>`<br />**Note:** Although this map spans two pages, its caption (in its entirety) appears only on the first page. Thus, treat the first page as an image with both caption and texts embedded within, and the second page as an image with only texts embedded within. Also, the second page contains unreadable characters and the code makes use of the corresponding protocol (see below).
+<img src="lgimg/fig6.jpg"> | `<page><img /></page>`<br />`<page><img><caption>天印山</caption><text>在城南四十里高[continue typing all texts without line changes]</text></img></page>`<br />**Note:** Same as above, except that the caption is on the second page.
+<img src="lgimg/fig5.jpg"> | `<page><img><caption>城圖-1</caption><text>東 太山行宮 [continue typing all texts]</text></img></page>`<br />`<page><img><caption>城圖-2</caption><text>大士閣 @洞 北 [continue typing all texts]</text></img></page>`<br />**Note:** This map spans two pages and its caption (*城圖*) also spans the two pages. In this case, type the entire caption between every page's `<caption>` tags and add *-[number of page]* to the caption, i.e. `<caption>城圖-1</caption>`.
+<img src="lgimg/fig7.jpg"> | `<page><img><caption>星野圖</caption><text>東 危 北 南 虛 西</text></img></page>`<br />**Note:** This image's caption is embedded within.
 
 ## Stamps
 
@@ -129,15 +129,20 @@ Ignore stamps and other images that are not part of the actual gazetteer content
 
 ## Unreadable Characters
 
-If there is a unreadable character in the text, type the symbol `@` as substitute. Use one `@` for each unreadable character, e.g. `UNR@@DABLE`.
+If there is a unreadable character in the text, represent it with `<unr />`. Use one `<unr />` tag for each unreadable character, e.g. `UNR<unr /><unr />DABLE`.
 
 ## Unknown Characters
 
-If there is an unknown character in the text, i.e. a character variant which is readable but where you cannot identify the standard character or cannot type it, add it to the numbered list of unknown characters. From then on, type its number whenever it occurs in the text, e.g. `<001>`.
+If there is an unknown character in the text, i.e. a character variant which is readable but where you cannot identify the standard character or cannot type it, add it to the numbered list of unknown characters. From then on, type its number inside the `<char>` tag whenever it occurs in the text, e.g. `<char no="001" />`.
 
-Before you create a number for an unknown character, first check whether it is already on the list of unknown characters. Assign the number `<001>` to the first unknown character, `<002>` to the second unknown character, and so on. Do not assign the same number twice. Use this number to type the unknown character. Always use the same number if the same unknown character occurs again.
+Before you create a number for an unknown character, first check whether it is already on the list of unknown characters. Assign the number `001` to the first unknown character, `002` to the second unknown character, and so on. Do not assign the same number twice. Use this number to type the unknown character. Always use the same number if the same unknown character occurs again.
 
-**Please note:** Make sure that for a given gazetteer title there is a single list containing all unknown characters, and that everyone uses this list. When the text is sent back to us, we will need a copy of this list.
+**Please note:** Make sure that for a given gazetteer title there is a single list containing images of all unknown characters and the corresponding numbers, and that everyone uses this list. When the text is sent back to us, we will need a copy of this list. For example:
+
+Number | Character
+------ | ---------
+001 | <img src="lgimg/char1.jpg">
+002 | <img src="lgimg/char2.jpg">
 
 ## Symbols
 
