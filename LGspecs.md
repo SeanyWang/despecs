@@ -57,9 +57,7 @@ For example:
 
 Type all contents of each gazetteer between the `<content>` and `</content>` tags. Always start typing from the table of contents.
 
-Begin every page with `<page>` and end with `</page>`. Type the page's entire content in one line between the two brackets `<page>` and `</page>`.
-
-Ignore line changes in the text if the lines are part of the same paragraph. *However*, if there are any in-line spaces in the text or line breaks (e.g. spaces within a line or paragraph breaks), type one single space to represent them regardless of the length of space(s). For example:
+Begin every page with `<page>` and end with `</page>`. Ignore line changes in the text if the lines are part of the same paragraph. *However*, if there are any in-line spaces in the text or line breaks (e.g. spaces within a line or paragraph breaks), type one single space to represent them regardless of the length of space(s). For example:
 
 Image | Markup
 ----- | ------
@@ -107,7 +105,12 @@ Image | Markup
 
 Use the `<img />` tag to mark any images without any caption/title or texts embedded within it.
 
-* If there is a caption/title available, include it with a pair of nested `<caption>` tags, i.e. `<img><caption>CAPTION</caption></img>`.
+* If there is a caption/title available, include it with a pair of nested `<caption>` tags, i.e.
+```
+<img>
+  <caption>CAPTION</caption>
+</img>
+```
 * If the image has texts embedded within, include the texts with a pair of nested `<text>` tags, i.e. `<img><text>TEXTS</text></img>`.
 * If the image has both a caption and texts embedded within, combine the two protocols above, i.e. `<img><caption>CAPTION</caption><text>TEXTS</text></img>`.
 
