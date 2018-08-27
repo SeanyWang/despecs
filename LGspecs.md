@@ -101,7 +101,7 @@ Image | Markup
 <img src="lgimg/tab3.jpg"> | `<page>十六年 楚 棠邑 平陵邑 敬王三十四年 吳 棠邑 平陵邑 元王二年 楚 棠邑 越 平陵邑 [...]</page>`<br /><br />**Note:** See protocol for parallel-line texts above.
 <img src="lgimg/tab4.jpg"> | `<page>興教寺 在東[...]記 觀音寺 在西門[...]省志 [...]</page>`<br /><br />**Note:** Ignore blank line and treat it as a regular paragraph break, i.e. represent it with a single space.
 <img src="lgimg/tab5.jpg"> | `<page>庚辰 [...] 嘉靖壬午 [...]</page>`<br /><br />**Note:** Be careful with parallel-line texts that only have one character in each line.
-<img src="lgimg/tab6.jpg"> | `<page>歷官表上 卷之十六 [...] 卷之二十</page>`<br />`<page>人物傳一 卷之二十一 [...] 卷之二十五</page>`<br /><br />**Note:** This is a typical gazetteer table of contents.
+<img src="lgimg/tab6.jpg"> | `<page>歷官表上 卷之十六 [...] 卷之二十</page>`<br /><br />`<page>人物傳一 卷之二十一 [...] 卷之二十五</page>`<br /><br />**Note:** This is a typical gazetteer table of contents.
 
 # Images
 
