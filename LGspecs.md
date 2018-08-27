@@ -151,7 +151,7 @@ Image | Markup
 
 ## Unreadable Characters
 
-If there is a unreadable character in the text, represent it with `<unr />`. Use one `<unr />` tag for each unreadable character. For example:
+If there is an unreadable character in the text, represent it with `<unr />`. Use one `<unr />` tag for each unreadable character. For example:
 
 Image | Markup
 ----- | ------
