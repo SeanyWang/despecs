@@ -62,7 +62,7 @@ Begin every page with `<page>` and end with `</page>`. Ignore line changes in th
 Image | Markup
 ----- | ------
 <img src="lgimg/txt2.jpg"> | `<page>務張之[...]以蘇辛未移疾[...]幽獨中</page>`<br /><br />**Note:** There are no in-line spaces or paragraph changes, so ignore line changes and type the entire page in one line.
-<img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人<char no="001" />心療母母子俱全 王弟[...]</page>`<br /><br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below).
+<img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人 <char no="001" />心療母母子俱全 王弟[...]</page>`<br /><br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below).
 
 Do not type any repetitive marginalia, e.g. book title and page numbers.
 
@@ -81,12 +81,12 @@ For example:
 
 ## Fontsize
 
-Sometimes there are changes in fontsize, e.g. subscripts, or small-fonts arranged in parallel in one line. Simply disregard these fontsize changes and continue typing the texts *in the order of text flows*. For example:
+Sometimes there are changes in fontsize, e.g. subscripts, or small-fonts arranged in parallel in one line. Use one single space to denote changes between font sizes, and continue typing the texts *in the order of text flows*. For example:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/txt3.jpg"> | `<page>恍惚[...]心也陸文定[...]急流勇退[...]不知何如也遠近[...]間 張祥[...]</page>`<br /><br />**Note:** Ignore the single space at the end of the parallel-line, as it does not represent a paragraph change and instead results from having an odd number of characters in the parallel-line section.
-<img src="lgimg/txt4.jpg"> | `<page>水注[...]即此江總[...]西峰石壁[...]</page>`<br /><br />`<page>中一碑[...]</page>`
+<img src="lgimg/txt3.jpg"> | `<page>恍惚[...]心也 陸文定[...]急流勇退[...]不知何如也 遠近[...]間 張祥[...]</page>`<br /><br />**Note:** Ignore the single space at the end of the parallel-line, as it does not represent a paragraph change and instead results from having an odd number of characters in the parallel-line section.
+<img src="lgimg/txt4.jpg"> | `<page>水注[...]即此 江總[...]西峰石壁[...]</page>`<br /><br />`<page>中一碑[...]</page>`
 
 # Tables and Lists
 
@@ -96,9 +96,9 @@ Image | Markup
 ----- | ------
 <img src="lgimg/tab1.jpg"> | `<page>楊家坊 李家口 [...] 西稍門 以上西鄉共八十五庄</page>`
 <img src="lgimg/tab2.jpg"> | `<page>監察御史鄭智 監察御史曾鳳韶 監察御史王彬 [...]</page>`<br /><br />**Note:** If you can identify a single space within a name etc. as a decorative space to make the table layout optically more pleasing, do not type it.
-<img src="lgimg/tab3.jpg"> | `<page>十六年 楚 棠邑 平陵邑 敬王三十四年 吳 棠邑 平陵邑 元王二年 楚 棠邑 越 平陵邑 [...]</page>`<br /><br />**Note:** See protocol for parallel-line texts above.
+<img src="lgimg/tab3.jpg"> | `<page>十六年 楚 棠邑 平陵邑 敬王 三十四年 吳 棠邑 平陵邑 元王 二年 楚 棠邑 越 平陵邑 [...]</page>`<br /><br />**Note:** See protocol for parallel-line texts above.
 <img src="lgimg/tab4.jpg"> | `<page>興教寺 在東[...]記 觀音寺 在西門[...]省志 [...]</page>`<br /><br />**Note:** Ignore blank line and treat it as a regular paragraph break, i.e. represent it with a single space.
-<img src="lgimg/tab5.jpg"> | `<page>庚辰 [...] 嘉靖壬午 [...]</page>`<br /><br />**Note:** Be careful with parallel-line texts that only have one character in each line.
+<img src="lgimg/tab5.jpg"> | `<page>庚辰 [...] 嘉靖 壬午 [...]</page>`<br /><br />**Note:** Be careful with parallel-line texts that only have one character in each line.
 <img src="lgimg/tab6.jpg"> | `<page>歷官表上 卷之十六 [...] 卷之二十</page>`<br /><br />`<page>人物傳一 卷之二十一 [...] 卷之二十五</page>`<br /><br />**Note:** This is a typical gazetteer table of contents.
 
 # Images
@@ -145,7 +145,7 @@ Ignore stamps and other images that are not part of the actual gazetteer content
 Image | Markup
 ----- | ------
 <img src="lgimg/stmp1.jpg"> | `<page>祖彭序</page>`
-<img src="lgimg/stmp2.jpg"> | `<page>德州志卷之一 封域志第一 [...] 戰國[...]陸鄉而</page>`
+<img src="lgimg/stmp2.jpg"> | `<page>德州志卷之一 封域志第一 [...] 陸鄉而</page>`
 
 # Miscellaneous Characters
 
