@@ -62,7 +62,7 @@ Begin every page with `<page>` and end with `</page>`. Ignore line changes in th
 Image | Markup
 ----- | ------
 <img src="lgimg/txt2.jpg"> | `<page>務張之[...]以蘇辛未移疾[...]幽獨中</page>`<br /><br />**Note:** There are no in-line spaces or paragraph changes, so ignore line changes and type the entire page in one line.
-<img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人<char no="001" />心療母母子俱全王弟[...]</page>`<br /><br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below).
+<img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人<char no="001" />心療母母子俱全 王弟[...]</page>`<br /><br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below).
 
 Do not type any repetitive marginalia, e.g. book title and page numbers.
 
