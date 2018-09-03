@@ -9,10 +9,10 @@ Save the text in plain text format (`.txt`) with Unicode `utf-8` encoding. Each 
 
 Make use of the complete character repertoire found in Unicode version 5.1. This includes characters in the following Unicode blocks when applicable:
 
-* CJK Unified Ideographs Extension A (U+3400 -- U+4DFF)
-* CJK Unified Ideographs Extension B (U+20000 -- U+2A6DF)
+* CJK Unified Ideographs [Extension A](https://en.wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_A) (U+3400 -- U+4DFF)
+* CJK Unified Ideographs [Extension B](https://en.wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_B) (U+20000 -- U+2A6DF)
 
-At this point, do not make use of the characters in Extension C or D.
+At this point, do not make use of the characters in Extension C, D, or E.
 
 We will also need the list of unknown characters and symbols (see "unknown characters" below). Please send the list in two versions, both in the original file format of your choice (e.g. RTF, DOC, XLS) and as PDF.
 
