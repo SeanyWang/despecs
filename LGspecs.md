@@ -70,8 +70,8 @@ Ignore line changes in the text if the lines are part of the same paragraph. Typ
 
 Image | Markup
 ----- | ------
-<img src="lgimg/seq5.jpg"> | `<page seq="x">重輯[...]念奉 命督[...]揮毫<pb />[...]</page>`
-<img src="lgimg/seq6.jpg"> | `<page seq="x">[...]<pb />[...]</page>`<br /><br />**Note:** There are no paragraph changes, so ignore line changes and type the entire page in one line.
+<img src="lgimg/seq5.jpg"> | `<page seq="x">重輯[...]念奉 命督[...]揮毫<pb />TEXTS</page>`
+<img src="lgimg/seq6.jpg"> | `<page seq="x">TEXTS<pb />TEXTS</page>`<br /><br />**Note:** There are no paragraph changes, so ignore line changes and type the entire page in one line.
 <!-- <img src="lgimg/txt2.jpg"> | `<page>務張之[...]以蘇辛未移疾[...]幽獨中</page>`<br /><br />**Note:** There are no in-line spaces or paragraph changes, so ignore line changes and type the entire page in one line.
 <img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人 <char no="001" />心療母母子俱全 王弟[...]</page>`<br /><br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below). -->
 
@@ -79,12 +79,12 @@ Image | Markup
 
 ## Fontsize
 
-Sometimes there are changes in fontsize, e.g. subscripts, or small-fonts arranged in parallel in one line. Use one single space to denote changes between font sizes, and continue typing the texts *in the order of text flows*. For example:
+Sometimes there are changes in fontsize, e.g. subscripts or small-fonts arranged in parallel. Use one single space to denote changes between font sizes, and continue typing the texts *in the order of text flows*. For example:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/txt3.jpg"> | `<page>恍惚[...]心也 陸文定[...]急流勇退[...]不知何如也 遠近[...]間 張祥[...]</page>`<br /><br />**Note:** Ignore the single space at the end of the parallel-line, as it does not represent a paragraph change and instead results from having an odd number of characters in the parallel-line section.
-<img src="lgimg/txt4.jpg"> | `<page>水注[...]即此 江總[...]西峰石壁[...]</page>`<br /><br />`<page>中一碑[...]</page>`
+<img src="lgimg/seq7.jpg"> | `<page seq="x">TEXTS<pb />恍惚[...]心也 陸文[...]急流勇退[...]如也 遠近[...]序間 張祥[...]</page>`<!-- <br /><br />**Note:** Ignore the single space at the end of the parallel-line, as it does not represent a paragraph change and instead results from having an odd number of characters in the parallel-line section. -->
+<img src="lgimg/seq8.png"> | `<page seq="x">水注[...]即此 江總[...]西峰石壁[...]<pb />中一[...]</page>`
 
 # Tables and Lists
 
