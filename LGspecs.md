@@ -63,7 +63,7 @@ For example:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/seq1.jpeg"> | `<page seq="1"></page>`<br /><br />**Note:** Treat book cover as a textless page.
+<img src="lgimg/seq1.jpeg"> | `<page seq="1" />`<br /><br />**Note:** Treat book cover as a textless page.
 <img src="lgimg/seq2.jpeg"> | `<page seq="2"><pb />TEXTS</page>`<br /><br />**Note:** For sequences immediately following a cover page, there is often a blank half-page. Still denote the natural break from the book spine where it occurs and place the typed texts accordingly.
 <img src="lgimg/seq3.jpeg"> | `<page seq="3">TEXTS<pb />TEXTS</page>`
 <img src="lgimg/seq4.jpeg"> | `<page seq="64">TEXTS<pb /></page>`<br /><br />**Note:** For sequences at the end of a title/volume or immediately before a cover page, there is often a blank half-page. Still denote the natural break from the book spine where it occurs and place the typed texts accordingly.
