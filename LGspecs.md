@@ -57,36 +57,51 @@ For example:
 
 Type all contents of each gazetteer between the `<content>` and `</content>` tags.
 
-A page should correspond to a "sequence" in Harvard-Yenching Library's individual title viewer (e.g., [here](http://id.lib.harvard.edu/alma/990074670640203941/catalog) is the catalog entry for 江寧府志 and its "View Online" link opens up the corresponding [viewer](http://nrs.harvard.edu/urn-3:FHCL:14071862)). Begin every page with `<page seq="SEQUENCE NO.">` and end with `</page>`, and always type in the corresponding sequence number in the opening `<page>` tag. Ignore volume numbers (if any). Except the book cover, all sequences have two halves that correspond to natural breaks from the book spine. When typing, always use `<pb />` to indicate such natural breaks. For example:
+Harvard-Yenching Library defines each individual scan as a "sequence" and all scans for a gazetteer title are numbered sequentially across volumes; e.g., [here](http://id.lib.harvard.edu/alma/990074670640203941/catalog) is the catalog entry for 江寧府志 and its "View Online" link opens up the corresponding [viewer](http://nrs.harvard.edu/urn-3:FHCL:14071862), where every scan's sequence number is clearly indicated. Begin typing the content of every sequence with `<page seq="SEQUENCE NO.">` and end with `</page>`, and always type in the corresponding sequence number in the opening `<page>` tag. Ignore volume numbers (if any). Except the book cover, all sequences have two halves that correspond to natural breaks from the book spine. When typing, always use `<pb />` to indicate such natural breaks. For example:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/seq1.jpeg"> | `<page seq="1" />`<br /><br />**Note:** Treat book cover as a textless page.
-<img src="lgimg/seq2.jpeg"> | `<page seq="2"><pb />TEXTS</page>`<br /><br />**Note:** For sequences immediately following a cover page, there is often a blank half-page. Still denote the natural break from the book spine where it occurs and place the typed texts accordingly.
+<img src="lgimg/seq1.jpeg"> | `<page seq="1" />`<br /><br />**Note:** Treat book cover as a textless sequence.
+<img src="lgimg/seq2.jpeg"> | `<page seq="2"><pb />TEXTS</page>`<br /><br />**Note:** For sequences immediately following a book cover sequence, there is often a blank half-sequence. Still denote the natural break from the book spine where it occurs and place the typed texts accordingly.
 <img src="lgimg/seq3.jpeg"> | `<page seq="3">TEXTS<pb />TEXTS</page>`
-<img src="lgimg/seq4.jpeg"> | `<page seq="64">TEXTS<pb /></page>`<br /><br />**Note:** For sequences at the end of a title/volume or immediately before a cover page, there is often a blank half-page. Still denote the natural break from the book spine where it occurs and place the typed texts accordingly.
+<img src="lgimg/seq4.jpeg"> | `<page seq="64">TEXTS<pb /></page>`<br /><br />**Note:** For sequences at the end of a title/volume or immediately before a book cover sequence, there is often a blank half-sequence. Still denote the natural break from the book spine where it occurs and place the typed texts accordingly.
 
 Ignore line changes in the text if the lines are part of the same paragraph. Type one single space to indicate a paragraph change. For example:
 
 Image | Markup
 ----- | ------
 <img src="lgimg/seq5.jpg"> | `<page seq="x">重輯[...]念奉 命督[...]揮毫<pb />TEXTS</page>`
-<img src="lgimg/seq6.jpg"> | `<page seq="x">TEXTS<pb />TEXTS</page>`<br /><br />**Note:** There are no paragraph changes, so ignore line changes and type the entire page in one line.
+<img src="lgimg/seq6.jpg"> | `<page seq="x">TEXTS<pb />TEXTS</page>`<br /><br />**Note:** There are no paragraph changes, so ignore line changes and type the entire sequence in one line.
 <!-- <img src="lgimg/txt2.jpg"> | `<page>務張之[...]以蘇辛未移疾[...]幽獨中</page>`<br /><br />**Note:** There are no in-line spaces or paragraph changes, so ignore line changes and type the entire page in one line.
 <img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人 <char no="001" />心療母母子俱全 王弟[...]</page>`<br /><br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below). -->
 
-**Note:** Do not type any repetitive marginalia, e.g. book title and page numbers.
+**Note:** Do not type any repetitive marginalia (e.g., book title and pagination).
 
-## Fontsize
+## Font sizes
 
-Sometimes there are changes in fontsize, e.g. subscripts or small-fonts arranged in parallel. Use one single space to denote changes between font sizes, and continue typing the texts *in the order of text flows*. For example:
+Sometimes there are changes in font size, e.g. subscripts or small-fonts arranged in parallel. Use one single space to denote changes between font sizes, and continue typing the texts in the order of text flows. For example:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/seq7.jpg"> | `<page seq="x">TEXTS<pb />恍惚[...]心也 陸文[...]急流勇退[...]如也 遠近[...]序間 張祥[...]</page>`<!-- <br /><br />**Note:** Ignore the single space at the end of the parallel-line, as it does not represent a paragraph change and instead results from having an odd number of characters in the parallel-line section. -->
+<img src="lgimg/seq7.jpg"> | `<page seq="x">TEXTS<pb />恍惚[...]心也 陸文[...]急流勇退[...]如也 遠近[...]序間 張祥[...]</page>`
 <img src="lgimg/seq8.png"> | `<page seq="x">水注[...]即此 江總[...]西峰石壁[...]<pb />中一[...]</page>`
 
-# Tables and Lists
+# Tables
+
+Tables are defined by the presence of horizontal lines that divide up the sequence into table cells. If something looks like a table but there are no horizontal lines, it is most likely a list (see the *Lists* section below).
+
+To indicate a table within the `<page>` tags, type `<table>` at the beginning of it and `</table>` at the end. If a table stretches over multiple sequences, treat its parts in different sequences as a new table, so that every `<table></table>` pair exists wholly between a pair of `<page seq="x">` and `</page>`.
+
+Within a table, type a tab stop (i.e., hit the tab key once) to indicate the break between individual cells (i.e., when encountering a horizontal line). Unlike in regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate a line change (c.f., the *Contents* section above).
+
+**Note:** Please make sure that, in your typing editor, hitting the tab key produces a proper tab stop rather than multiple spaces.
+
+For example:
+
+Image | Markup
+----- | ------
+<img src="lgimg/tab1.png"> | `<page seq="x"><table>十六年楚棠邑 平陵邑 敬王 三十四年 吳 棠邑 平陵邑 元王 二年 楚 棠邑 越 平陵邑 [...]</page>`<br /><br />**Note:** See protocol for parallel-line texts above.
+<img src="lgimg/tab5.jpg"> | `<page>庚辰 [...] 嘉靖 壬午 [...]</page>`<br /><br />**Note:** Be careful with parallel-line texts that only have one character in each line.
 
 Continue typing in one single line per page and use a single space as field separators between the table cells. For example:
 
@@ -94,9 +109,7 @@ Image | Markup
 ----- | ------
 <img src="lgimg/tab1.jpg"> | `<page>楊家坊 李家口 [...] 西稍門 以上西鄉共八十五庄</page>`
 <img src="lgimg/tab2.jpg"> | `<page>監察御史鄭智 監察御史曾鳳韶 監察御史王彬 [...]</page>`<br /><br />**Note:** If you can identify a single space within a name etc. as a decorative space to make the table layout optically more pleasing, do not type it.
-<img src="lgimg/tab3.jpg"> | `<page>十六年 楚 棠邑 平陵邑 敬王 三十四年 吳 棠邑 平陵邑 元王 二年 楚 棠邑 越 平陵邑 [...]</page>`<br /><br />**Note:** See protocol for parallel-line texts above.
 <img src="lgimg/tab4.jpg"> | `<page>興教寺 在東[...]記 觀音寺 在西門[...]省志 [...]</page>`<br /><br />**Note:** Ignore blank line and treat it as a regular paragraph break, i.e. represent it with a single space.
-<img src="lgimg/tab5.jpg"> | `<page>庚辰 [...] 嘉靖 壬午 [...]</page>`<br /><br />**Note:** Be careful with parallel-line texts that only have one character in each line.
 <img src="lgimg/tab6.jpg"> | `<page>歷官表上 卷之十六 [...] 卷之二十</page>`<br /><br />`<page>人物傳一 卷之二十一 [...] 卷之二十五</page>`<br /><br />**Note:** This is a typical gazetteer table of contents.
 
 # Images
