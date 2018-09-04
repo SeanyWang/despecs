@@ -1,5 +1,5 @@
 ---
-title: Typing Specifications for Chinese Local Gazetteers, v.1
+title: Typing Specifications for Chinese Local Gazetteers, v.2
 author: Sean Wang
 ---
 
@@ -12,7 +12,7 @@ Make use of the complete character repertoire found in Unicode version 5.1. This
 * CJK Unified Ideographs [Extension A](https://en.wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_A) (U+3400 -- U+4DFF)
 * CJK Unified Ideographs [Extension B](https://en.wikipedia.org/wiki/CJK_Unified_Ideographs_Extension_B) (U+20000 -- U+2A6DF)
 
-At this point, do not make use of the characters in Extension C, D, or E.
+At this point, do not make use of the characters in Extensions C, D, or E.
 
 We will also need the list of unknown characters and symbols (see "unknown characters" below). Please send the list in two versions, both in the original file format of your choice (e.g. RTF, DOC, XLS) and as PDF.
 
@@ -25,9 +25,9 @@ The file structure should look as follows:
     ...
   </meta>
   <content>
-    <page>...</page>
+    <page seq="1">...</page>
     ...
-    <page>...</page>
+    <page seq="xxx">...</page>
   </content>
 </book>
 ```
@@ -55,9 +55,20 @@ For example:
 
 # Contents
 
-Type all contents of each gazetteer between the `<content>` and `</content>` tags. Always start typing from the table of contents.
+Type all contents of each gazetteer between the `<content>` and `</content>` tags.
 
-Begin every page with `<page>` and end with `</page>`. Ignore line changes in the text if the lines are part of the same paragraph. *However*, if there are any in-line spaces in the text or line breaks (e.g. spaces within a line or paragraph breaks), type one single space to represent them regardless of the length of space(s). For example:
+A page should correspond to a "sequence" in Harvard-Yenching Library's individual title viewer (e.g., [here](http://id.lib.harvard.edu/alma/990074670640203941/catalog) is the catalog entry for 江寧府志 and its "View Online" link opens up the corresponding [viewer](http://nrs.harvard.edu/urn-3:FHCL:14071862)). Begin every page with `<page seq="SEQUENCE NO.">` and end with `</page>`, and always type in the corresponding sequence number in the opening `<page>` tag. Ignore volume numbers (if any). Except the book cover, all sequences have two halves that correspond to natural breaks from the book spine. When typing, always use `<pb />` to indicate such natural breaks.
+
+For example:
+
+Image | Markup
+----- | ------
+<img src="lgimg/seq1.jpeg"> | `<page seq="1"></page>`<br /><br />**Note:** Treat book cover as a textless page.
+<img src="lgimg/seq2.jpeg"> | `<page seq="2"><pb />TEXTS</page>`<br /><br />**Note:** For sequences immediately following a cover page, there is often a blank half-page. Still denote the natural break from the book spine where it occurs and place the typed texts accordingly.
+<img src="lgimg/seq3.jpeg"> | `<page seq="3">TEXTS<pb />TEXTS</page>`
+<img src="lgimg/seq4.jpeg"> | `<page seq="64">TEXTS<pb /></page>`<br /><br />**Note:** For sequences at the end of a title/volume or immediately before a cover page, there is often a blank half-page. Still denote the natural break from the book spine where it occurs and place the typed texts accordingly.
+
+Ignore line changes in the text if the lines are part of the same paragraph. *However*, if there are any in-line spaces in the text or line breaks (e.g. spaces within a line or paragraph breaks), type one single space to represent them regardless of the length of space(s). For example:
 
 Image | Markup
 ----- | ------
