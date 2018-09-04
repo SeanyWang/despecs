@@ -57,9 +57,7 @@ For example:
 
 Type all contents of each gazetteer between the `<content>` and `</content>` tags.
 
-A page should correspond to a "sequence" in Harvard-Yenching Library's individual title viewer (e.g., [here](http://id.lib.harvard.edu/alma/990074670640203941/catalog) is the catalog entry for 江寧府志 and its "View Online" link opens up the corresponding [viewer](http://nrs.harvard.edu/urn-3:FHCL:14071862)). Begin every page with `<page seq="SEQUENCE NO.">` and end with `</page>`, and always type in the corresponding sequence number in the opening `<page>` tag. Ignore volume numbers (if any). Except the book cover, all sequences have two halves that correspond to natural breaks from the book spine. When typing, always use `<pb />` to indicate such natural breaks.
-
-For example:
+A page should correspond to a "sequence" in Harvard-Yenching Library's individual title viewer (e.g., [here](http://id.lib.harvard.edu/alma/990074670640203941/catalog) is the catalog entry for 江寧府志 and its "View Online" link opens up the corresponding [viewer](http://nrs.harvard.edu/urn-3:FHCL:14071862)). Begin every page with `<page seq="SEQUENCE NO.">` and end with `</page>`, and always type in the corresponding sequence number in the opening `<page>` tag. Ignore volume numbers (if any). Except the book cover, all sequences have two halves that correspond to natural breaks from the book spine. When typing, always use `<pb />` to indicate such natural breaks. For example:
 
 Image | Markup
 ----- | ------
@@ -68,27 +66,16 @@ Image | Markup
 <img src="lgimg/seq3.jpeg"> | `<page seq="3">TEXTS<pb />TEXTS</page>`
 <img src="lgimg/seq4.jpeg"> | `<page seq="64">TEXTS<pb /></page>`<br /><br />**Note:** For sequences at the end of a title/volume or immediately before a cover page, there is often a blank half-page. Still denote the natural break from the book spine where it occurs and place the typed texts accordingly.
 
-Ignore line changes in the text if the lines are part of the same paragraph. *However*, if there are any in-line spaces in the text or line breaks (e.g. spaces within a line or paragraph breaks), type one single space to represent them regardless of the length of space(s). For example:
+Ignore line changes in the text if the lines are part of the same paragraph. Type one single space to indicate a paragraph change. For example:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/txt2.jpg"> | `<page>務張之[...]以蘇辛未移疾[...]幽獨中</page>`<br /><br />**Note:** There are no in-line spaces or paragraph changes, so ignore line changes and type the entire page in one line.
-<img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人 <char no="001" />心療母母子俱全 王弟[...]</page>`<br /><br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below).
+<img src="lgimg/seq5.jpg"> | `<page seq="x">重輯[...]念奉 命督[...]揮毫<pb />[...]</page>`
+<img src="lgimg/seq6.jpg"> | `<page seq="x">[...]<pb />[...]</page>`<br /><br />**Note:** There are no paragraph changes, so ignore line changes and type the entire page in one line.
+<!-- <img src="lgimg/txt2.jpg"> | `<page>務張之[...]以蘇辛未移疾[...]幽獨中</page>`<br /><br />**Note:** There are no in-line spaces or paragraph changes, so ignore line changes and type the entire page in one line.
+<img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人 <char no="001" />心療母母子俱全 王弟[...]</page>`<br /><br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below). -->
 
-Do not type any repetitive marginalia, e.g. book title and page numbers.
-
-If there are blank pages in between texts, rather than at the very beginning (i.e. before the table of contents) or the very end of each gazetteer, still type the `<page>` and `</page>` tags but nothing in between them to indicate a blank page.
-
-For example:
-```
-<content>
-  <page>TEXTS</page>
-  <page></page>
-  <page>TEXTS</page>
-</content>
-```
-
-**Note:** In the digitization of the gazetteers, two pages may be on the same scan or on two consecutive scans.
+**Note:** Do not type any repetitive marginalia, e.g. book title and page numbers.
 
 ## Fontsize
 
