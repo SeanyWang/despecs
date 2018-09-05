@@ -90,17 +90,25 @@ Image | Markup
 
 Tables are defined by the presence of horizontal lines that divide up the sequence into table cells. If something looks like a table but there are no horizontal lines, it is most likely a list (see the *Lists* section below).
 
-To indicate a table within the `<page>` tags, type `<table>` at the beginning of it and `</table>` at the end. If a table stretches over multiple sequences, treat its parts in different sequences as a new table, so that every `<table></table>` pair exists wholly between a pair of `<page seq="x">` and `</page>`.
+To indicate a table within the `<page>` tags, type `<table>` at the beginning of it and `</table>` at the end. If a table stretches over multiple sequences, treat its parts in different sequences as a new table, so that every `<table></table>` pair exists wholly between a pair of `<page seq="x">` and `</page>`. In case that a table spans across the natural break from the book spine within a sequence, still type `<pb />` where it occurs between the `<table>` tags.
 
 Within a table, type a tab stop (i.e., hit the tab key once) to indicate the break between individual cells (i.e., when encountering a horizontal line). Unlike in regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate a line change (c.f., the *Contents* section above).
 
+A typical sequence including a table would have the following code structure:
+```
+<page seq="x"><table>TEXTS	TEXTS
+TEXTS	TEXTS
+<pb />
+TEXTS	TEXTS</table></page>
+```
+
 **Note:** Please make sure that, in your typing editor, hitting the tab key produces a proper tab stop rather than multiple spaces.
 
-For example:
+Some additional examples of table markups:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/tab1.png"> | `<page seq="x"><table>十六年楚棠邑 平陵邑 敬王 三十四年 吳 棠邑 平陵邑 元王 二年 楚 棠邑 越 平陵邑 [...]</page>`<br /><br />**Note:** See protocol for parallel-line texts above.
+<img src="lgimg/tab1.png"> | `<page seq="x"><table>十六年	楚		棠邑 平陵邑`<br /><br />`敬王 三十四年	吳		棠邑 平陵邑`<br /><br />`元王 二年	楚		棠邑`<br /><br />`	越		平陵邑`<br /><br />`顯王 三十七年	楚		棠邑 平陵邑 金陵邑`<br /><br />`秦`<br /><br />`始皇 二十六年		鄣郡	秣陵 </page>`<br /><br />**Note:** See protocol for parallel-line texts above.
 <img src="lgimg/tab5.jpg"> | `<page>庚辰 [...] 嘉靖 壬午 [...]</page>`<br /><br />**Note:** Be careful with parallel-line texts that only have one character in each line.
 
 Continue typing in one single line per page and use a single space as field separators between the table cells. For example:
