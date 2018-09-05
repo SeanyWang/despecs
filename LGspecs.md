@@ -124,7 +124,7 @@ would be typed as such:
 元狩元年|江都國|鄣郡|丹陽 江乘 溧陽 句容</tbl></page>
 ```
 
-where each line of markup code represents a vertical column in the sequence, and each pipe represents a horizontal line dividing table cells.
+, where each line of markup code represents a vertical column in the sequence, and each pipe represents a horizontal line dividing table cells.
 
 This example is instructive because it demonstrates several important principles for typing tables:
 
