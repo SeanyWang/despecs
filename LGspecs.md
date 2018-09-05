@@ -79,7 +79,7 @@ Image | Markup
 
 ## Font sizes
 
-Sometimes there are changes in font size, e.g. subscripts or small-fonts arranged in parallel. Use one single space to denote changes between font sizes, and continue typing the texts in the order of text flows. For example:
+Sometimes there are changes in font size (e.g., subscripts or small-fonts arranged in parallel). Use one single space to denote changes between font sizes, and continue typing the texts in the order of text flows. For example:
 
 Image | Markup
 ----- | ------
@@ -94,20 +94,9 @@ To indicate a table within the `<page>` tags, type `<tbl>` at the beginning of i
 
 Within a table, type a pipe (i.e., `|`) to indicate the break between individual cells (i.e., every time you encounter a horizontal line, type a pipe). Unlike in regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate a line change (c.f., the *Contents* section above).
 
-<!-- A typical sequence including a table would have the following code structure:
-```
-<page seq="x"><tbl>TEXTS|TEXTS
-TEXTS|TEXTS
-<pb />
-TEXTS|TEXTS
-TEXTS|TEXTS</tbl></page>
-```
-
-Below are some additional examples of table markups:
--->
 For example, this sequence below:
 
-![sequence with tables](lgimg/tab1.png)
+![sequence with tables](lgimg/tbl1.png)
 
 would be typed as such:
 
@@ -141,18 +130,36 @@ This example is instructive because it demonstrates several important principles
 
 - A `<tbl>` and `</tbl>` pair would always exist wholly between a pair of `<page seq="x">` and `</page>` tags, but it can encompass a `<pb />` tag in between.
 - A table is defined by the presence of horizontal lines, and each instance of those horizontal lines is clearly marked by a `|` (even when there are "empty cells").
-  - Relatedly, this definition of table is why there are two `<tbl>` and `</tbl>` pairs (i.e., two tables) in this sequence. Because the vertical column that begins with `秦` does not have horizontal lines, it is treated as regular texts and no longer part of a table. Therefore, one must end the previous table before `秦` and begin a new table from the next vertical column. Although similar in appearance, the first vertical column after `<pb />` remains part of a table because horizontal lines still divide it into multiple cells.
-- Unlike typing regular texts, line changes in tables *are* typed as line breaks.
+  - Relatedly, this definition of table is why there are two `<tbl>` and `</tbl>` pairs (i.e., two tables) in this sequence. Since the vertical column that begins with `秦` does not have horizontal lines, it is treated as regular texts and no longer part of a table. Therefore, one must end the previous table before `秦` and begin a new table from the next vertical column. Although similar in appearance, the first vertical column after `<pb />` remains part of a table because horizontal lines still divide it into multiple cells.
+- Unlike for regular texts, line changes in tables *are* typed as line breaks.
 - All other protocols from typing regular texts still apply (e.g., type a single space to indicate changes between font sizes).
 
-<!--
-Image | Markup
------ | ------
-<img src="lgimg/tab1.png"> | `<page seq="x"><tbl>十六年|楚||棠邑 平陵邑`<br /><br />`敬王 三十四年|吳||棠邑 平陵邑`<br /><br />`元王 二年|楚||棠邑`<br /><br />`|越||平陵邑`<br /><br />`顯王 三十七年|楚||棠邑 平陵邑 金陵邑`<br /><br />`秦`<br /><br />`始皇 二十六年||鄣郡|秣陵 溧陽`<br /><br />`||九江郡|棠邑`<br /><br />`三十七年||鄣郡|秣陵 丹陽 江乘 溧陽`<br /><br />`||九江郡|棠邑`<br /><br />`<pb />`<br /><br />`漢|||`<br /><br />`高帝 六年|荆國|鄣郡|秣陵 丹陽 江乘 溧陽`<br /><br />`|||棠邑侯國`<br /><br />`十二年|吳國|鄣郡|秣陵 丹陽 江乘 溧陽`<br /><br />`|||棠邑侯國`<br /><br />`武帝 元光六年|江都國|鄣郡|秣陵 丹陽 江乘 溧陽`<br /><br />`|||棠邑侯國 句容侯國`<br /><br />`元朔元年|江都國|鄣郡|江乘 溧陽 句容`<br /><br />`|||棠邑侯國 丹陽侯國 湖熟侯國 秣陵侯國`<br /><br />`元狩元年|江都國|鄣郡|丹陽 江乘 溧陽 句容</tbl></page>`<br /><br />**Note:** See protocol for parallel-line texts above.
-<img src="lgimg/tab5.jpg"> | `<page>庚辰 [...] 嘉靖 壬午 [...]</page>`<br /><br />**Note:** Be careful with parallel-line texts that only have one character in each line.
--->
+Some gazetteers do not have vertical lines to separate every vertical column. In those cases, especially in tables, take extra care with typing parallel-line texts. For example, this sequence below:
 
-Continue typing in one single line per page and use a single space as field separators between the table cells. For example:
+![sequence without vertical lines](lgimg/tbl2.jpg)
+
+would be typed as such:
+
+```
+<page seq="x"><tbl>庚辰|||鄒蘭 輔之子上|孫相 餘姚簿
+|||林錄事|
+辛巳|||解盛 延年子沐|
+|||陽簿|
+嘉靖 壬午||林翰邦 恂之子|林桂|衣守智 淮安經
+癸未|||丁鉞 瑄之子知|
+|||五河縣見人物|萬一原
+甲申|||曲評 麟之子|
+丙戌|||孫佳|
+<pb />
+[...]
+</tbl></page>
+```
+
+Besides parallel-line texts within the table, note that - as in typing regular texts – single space is used to indicate change in font sizes or paragraphs. If you can identify a single space within a name etc. as a decorative space to make the table layout optically more pleasing, do not type it. There are multiple instances of decorative spaces in the sequence above.
+
+# Lists
+
+For example:
 
 Image | Markup
 ----- | ------
