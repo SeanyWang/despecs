@@ -90,7 +90,7 @@ Image | Markup
 
 Tables are defined by the presence of horizontal lines that divide up the sequence into table cells. If something looks like a table but there are no horizontal lines, it is most likely a list (see the *Lists* section below).
 
-To indicate a table within the `<page>` tags, type `<tbl>` at the beginning of it and `</tbl>` at the end. If a table stretches over multiple sequences, treat its parts in different sequences as a new table, so that every `<tbl></tbl>` pair exists wholly between a pair of `<page seq="x">` and `</page>`. In case that a table spans across the natural break from the book spine within a sequence, still type `<pb />` where it occurs between the `<tbl>` tags.
+To indicate a table within the `<page>` tags, type `<tbl>` at the beginning of it and `</tbl>` at the end. If a table stretches over multiple sequences, treat its parts in different sequences as a new table, so that every `<tbl> </tbl>` pair exists wholly between a pair of `<page seq="x">` and `</page>`. In case that a table spans across the natural break from the book spine within a sequence, still type `<pb />` where it occurs between the `<tbl>` tags.
 
 Within a table, type a pipe (i.e., `|`) to indicate the break between individual cells (i.e., every time you encounter a horizontal line, type a pipe). Unlike in regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate a line change (c.f., the *Contents* section above).
 
@@ -107,7 +107,7 @@ Below are some additional examples of table markups:
 -->
 For example, this sequence below:
 
-![sequence with table](lgimg/tab1.png)
+![sequence with tables](lgimg/tab1.png)
 
 would be typed as such:
 
@@ -116,9 +116,9 @@ would be typed as such:
 敬王 三十四年|吳||棠邑 平陵邑
 元王 二年|楚||棠邑
 |越||平陵邑
-顯王 三十七年|楚||棠邑 平陵邑 金陵邑
+顯王 三十七年|楚||棠邑 平陵邑 金陵邑</tbl>
 秦
-始皇 二十六年||鄣郡|秣陵 溧陽
+<tbl>始皇 二十六年||鄣郡|秣陵 溧陽
 ||九江郡|棠邑
 三十七年||鄣郡|秣陵 丹陽 江乘 溧陽
 ||九江郡|棠邑
@@ -134,6 +134,17 @@ would be typed as such:
 |||棠邑侯國 丹陽侯國 湖熟侯國 秣陵侯國
 元狩元年|江都國|鄣郡|丹陽 江乘 溧陽 句容</tbl></page>
 ```
+
+where each line of markup code represents a vertical column in the sequence, and each pipe represents a horizontal line dividing table cells.
+
+This example is instructive because it demonstrates several important principles for typing tables:
+
+- A `<tbl>` and `</tbl>` pair would always exist wholly between a pair of `<page seq="x">` and `</page>` tags, but it can encompass a `<pb />` tag in between.
+- A table is defined by the presence of horizontal lines, and each instance of those horizontal lines is clearly marked by a `|` (even when there are "empty cells").
+  - Relatedly, this definition of table is why there are two `<tbl>` and `</tbl>` pairs (i.e., two tables) in this sequence. Because the vertical column that begins with `秦` does not have horizontal lines, it is treated as regular texts and no longer part of a table. Therefore, one must end the previous table before `秦` and begin a new table from the next vertical column. Although similar in appearance, the first vertical column after `<pb />` remains part of a table because horizontal lines still divide it into multiple cells.
+- Unlike typing regular texts, line changes in tables *are* typed as line breaks.
+- All other protocols from typing regular texts still apply (e.g., type a single space to indicate changes between font sizes).
+
 <!--
 Image | Markup
 ----- | ------
