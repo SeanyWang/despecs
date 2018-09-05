@@ -155,7 +155,7 @@ would be typed as such:
 </tbl></page>
 ```
 
-Besides parallel-line texts within the table, note that, as in typing regular texts, single space is only used to indicate change in font sizes or paragraphs. If you can identify a single space within a name etc. as a decorative space to make the table layout optically more pleasing, do not type it. There are multiple instances of decorative spaces in the sequence above.
+Besides parallel-line texts within the table, note that, as in typing regular texts, single space is only used to indicate change in font sizes or paragraphs. If you can identify a single space within a name etc. as a decorative space to make the table layout optically more pleasing, do not type it. There are multiple instances of decorative spaces in the sequence above; do not type them.
 
 # Lists
 
