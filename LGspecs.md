@@ -94,7 +94,7 @@ To indicate a table within the `<page>` tags, type `<tbl>` at the beginning of i
 
 Within a table, type a pipe (i.e., `|`) to indicate the break between individual cells (i.e., every time you encounter a horizontal line, type a pipe). Unlike in regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate a line change (c.f., the *Contents* section above).
 
-A typical sequence including a table would have the following code structure:
+<!-- A typical sequence including a table would have the following code structure:
 ```
 <page seq="x"><tbl>TEXTS|TEXTS
 TEXTS|TEXTS
@@ -103,12 +103,43 @@ TEXTS|TEXTS
 TEXTS|TEXTS</tbl></page>
 ```
 
-Below are some additional examples of table markups :
+Below are some additional examples of table markups:
+-->
+For example, this sequence below:
 
+![sequence with table](lgimg/tab1.png)
+
+would be typed as such:
+
+```
+<page seq="x"><tbl>十六年|楚||棠邑 平陵邑
+敬王 三十四年|吳||棠邑 平陵邑
+元王 二年|楚||棠邑
+|越||平陵邑
+顯王 三十七年|楚||棠邑 平陵邑 金陵邑
+秦
+始皇 二十六年||鄣郡|秣陵 溧陽
+||九江郡|棠邑
+三十七年||鄣郡|秣陵 丹陽 江乘 溧陽
+||九江郡|棠邑
+<pb />
+漢|||
+高帝 六年|荆國|鄣郡|秣陵 丹陽 江乘 溧陽
+|||棠邑侯國
+十二年|吳國|鄣郡|秣陵 丹陽 江乘 溧陽
+|||棠邑侯國
+武帝 元光六年|江都國|鄣郡|秣陵 丹陽 江乘 溧陽
+|||棠邑侯國 句容侯國
+元朔元年|江都國|鄣郡|江乘 溧陽 句容
+|||棠邑侯國 丹陽侯國 湖熟侯國 秣陵侯國
+元狩元年|江都國|鄣郡|丹陽 江乘 溧陽 句容</tbl></page>
+```
+<!--
 Image | Markup
 ----- | ------
 <img src="lgimg/tab1.png"> | `<page seq="x"><tbl>十六年|楚||棠邑 平陵邑`<br /><br />`敬王 三十四年|吳||棠邑 平陵邑`<br /><br />`元王 二年|楚||棠邑`<br /><br />`|越||平陵邑`<br /><br />`顯王 三十七年|楚||棠邑 平陵邑 金陵邑`<br /><br />`秦`<br /><br />`始皇 二十六年||鄣郡|秣陵 溧陽`<br /><br />`||九江郡|棠邑`<br /><br />`三十七年||鄣郡|秣陵 丹陽 江乘 溧陽`<br /><br />`||九江郡|棠邑`<br /><br />`<pb />`<br /><br />`漢|||`<br /><br />`高帝 六年|荆國|鄣郡|秣陵 丹陽 江乘 溧陽`<br /><br />`|||棠邑侯國`<br /><br />`十二年|吳國|鄣郡|秣陵 丹陽 江乘 溧陽`<br /><br />`|||棠邑侯國`<br /><br />`武帝 元光六年|江都國|鄣郡|秣陵 丹陽 江乘 溧陽`<br /><br />`|||棠邑侯國 句容侯國`<br /><br />`元朔元年|江都國|鄣郡|江乘 溧陽 句容`<br /><br />`|||棠邑侯國 丹陽侯國 湖熟侯國 秣陵侯國`<br /><br />`元狩元年|江都國|鄣郡|丹陽 江乘 溧陽 句容</tbl></page>`<br /><br />**Note:** See protocol for parallel-line texts above.
 <img src="lgimg/tab5.jpg"> | `<page>庚辰 [...] 嘉靖 壬午 [...]</page>`<br /><br />**Note:** Be careful with parallel-line texts that only have one character in each line.
+-->
 
 Continue typing in one single line per page and use a single space as field separators between the table cells. For example:
 
