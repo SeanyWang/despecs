@@ -90,7 +90,7 @@ Image | Markup
 
 Tables are defined by the presence of horizontal lines that divide up the sequence into table cells. If something looks like a table but there are no horizontal lines, it is most likely a list (see the *Lists* section below).
 
-To indicate a table within the `<page>` tags, type `<tb>` at the beginning of it and `</tb>` at the end. If a table stretches over multiple sequences, treat its parts in different sequences as a new table, so that every `<tb> </tb>` pair exists wholly between a pair of `<page seq="x">` and `</page>`. In case that a table spans across the natural break from the book spine within a sequence, still type `<pb />` where it occurs between the `<tb>` tags.
+To indicate a table within the `<page>` tags, type `<tb>` at the beginning of it and `</tb>` at the end. In case that a table spans across the natural break from the book spine within a sequence, still type `<pb />` where it occurs between the `<tb>` and `</tb>` tags. If a table stretches over multiple sequences, treat its parts in different sequences as a new table, so that every pair of `<tb>` and `</tb>` exists wholly between a pair of `<page seq="x">` and `</page>`.
 
 Within a table, type a pipe (i.e., `|`) to indicate the break between individual cells (i.e., every time you encounter a horizontal line, type a pipe). Unlike for regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate a line change (c.f., the *Contents* section above).
 
@@ -161,7 +161,7 @@ Besides parallel-line texts within the table, note that, as in typing regular te
 
 Many lists look similar to tables in that they have multiple obvious breaks within a vertical column, but lists do not have horizontal lines (see *Tables* section above). Lists also have consistent and repetitive structure from one vertical column to the next.
 
-To indicate a list within the `<page>` tags, type `<ls>` at the beginning of it and `</ls>` at the end. If a list stretches over multiple sequences, treat its parts in different sequences as a new list, so that every `<ls> </ls>` pair exists wholly between a pair of `<page seq="x">` and `</page>`. In case that a list spans across the natural break from the book spine within a sequence, still type `<pb />` where it occurs between the `<ls>` tags.
+To indicate a list within the `<page>` tags, type `<ls>` at the beginning of it and `</ls>` at the end. In case that a list spans across the natural break from the book spine within a sequence, still type `<pb />` where it occurs between the `<ls>` and `</ls>` tags. If a list stretches over multiple sequences, treat its parts in different sequences as a new list, so that every pair of `<ls>` and `</ls>` exists wholly between a pair of `<page seq="x">` and `</page>`.
 
 Within a list, type a single space to indicate the break between individual list items. Unlike for regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate a line change (c.f., the *Contents* section above).
 
@@ -222,9 +222,13 @@ would be typed as such:
 
 # Images
 
-Use the `<img />` tag to mark any images without any caption/title or texts embedded within it.
+Use the `<img />` tag to mark images without any caption, title, or embedded texts.
 
-* If there is a caption/title available, include it with a pair of nested `<caption>` tags, i.e.
+If an image spans across the natural break from the book spine within a sequence, type `<img>` where the image begins in the first half-sequence, `<pb />` where the natural break occurs, and `</img>` where the image ends in the second half-sequence. If an image stretches over multiple sequences, treat its parts in different sequences as a new image, so that every pair of `<img>` and `</img>` exists wholly between a pair of `<page seq="x">` and `</page>`.
+
+If an image has a caption, a title, or any other embedded texts, type the texts where they occur between the `<img>` and `</img>` tags in one line. Follow all protocols for typing regular texts (e.g., use single space as separators).
+
+<!-- * If there is a caption/title available, include it with a pair of nested `<caption>` tags, i.e.
 ```
 <img>
   <caption>CAPTION</caption>
@@ -243,12 +247,12 @@ Use the `<img />` tag to mark any images without any caption/title or texts embe
   <text>TEXTS</text>
 </img>
 ```
-
+-->
 For example:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/fig1.jpg"> | `<page><img /></page>`
+<img src="lgimg/fig1.jpg"> | `<page seq="x"><img>秦秣陵縣圖 青龍山 天印山 鍾山 秣陵縣<pb />覆舟山 聚寶山 雞籠山 越城 冶山 江乘縣 石頭 盧能山 大江 三山</img></page>`
 <img src="lgimg/fig2.jpg"> | `<page><img><caption>學宮<char no="002" /></caption><text>東 訓導 儒學 教諭宅 東廡 名宦祠</text></img></page>`<br /><br />**Note:** This image caption contains an unknown (i.e. untypable) character and the code makes use of the corresponding protocol (see below).
 <img src="lgimg/fig3.jpg"> | `<page><img><caption>東西哲陳設圖</caption><text>栗 鹿脯 鹽 棗 燭 [continue typing all texts]</text></img></page>`<br /><br />**Note:** This is a list-figure with a title, so combine the list and image protocols.
 <img src="lgimg/fig4.jpg"> | `<page><img><caption>南朝都建康圖</caption><text>建興郡 句容縣 [continue typing all texts]</text></img></page>`<br /><br />`<page><img><text>親康宮 <unr /><unr /> [continue typing all texts]</text></img></page>`<br /><br />**Note:** Although this map spans two pages, its caption (in its entirety) appears only on the first page. Thus, treat the first page as an image with both caption and texts embedded within, and the second page as an image with only texts embedded within. Also, the second page contains unreadable characters and the code makes use of the corresponding protocol (see below).
