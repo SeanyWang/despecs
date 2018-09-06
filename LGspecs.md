@@ -90,9 +90,9 @@ Image | Markup
 
 Tables are defined by the presence of horizontal lines that divide up the sequence into table cells. If something looks like a table but there are no horizontal lines, it is most likely a list (see the *Lists* section below).
 
-To indicate a table within the `<page>` tags, type `<tbl>` at the beginning of it and `</tbl>` at the end. If a table stretches over multiple sequences, treat its parts in different sequences as a new table, so that every `<tbl> </tbl>` pair exists wholly between a pair of `<page seq="x">` and `</page>`. In case that a table spans across the natural break from the book spine within a sequence, still type `<pb />` where it occurs between the `<tbl>` tags.
+To indicate a table within the `<page>` tags, type `<tb>` at the beginning of it and `</tb>` at the end. If a table stretches over multiple sequences, treat its parts in different sequences as a new table, so that every `<tb> </tb>` pair exists wholly between a pair of `<page seq="x">` and `</page>`. In case that a table spans across the natural break from the book spine within a sequence, still type `<pb />` where it occurs between the `<tb>` tags.
 
-Within a table, type a pipe (i.e., `|`) to indicate the break between individual cells (i.e., every time you encounter a horizontal line, type a pipe). Unlike in regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate a line change (c.f., the *Contents* section above).
+Within a table, type a pipe (i.e., `|`) to indicate the break between individual cells (i.e., every time you encounter a horizontal line, type a pipe). Unlike for regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate a line change (c.f., the *Contents* section above).
 
 For example, this sequence below:
 
@@ -101,13 +101,13 @@ For example, this sequence below:
 would be typed as such:
 
 ```
-<page seq="x"><tbl>十六年|楚||棠邑 平陵邑
+<page seq="x"><tb>十六年|楚||棠邑 平陵邑
 敬王 三十四年|吳||棠邑 平陵邑
 元王 二年|楚||棠邑
 |越||平陵邑
-顯王 三十七年|楚||棠邑 平陵邑 金陵邑</tbl>
+顯王 三十七年|楚||棠邑 平陵邑 金陵邑</tb>
 秦
-<tbl>始皇 二十六年||鄣郡|秣陵 溧陽
+<tb>始皇 二十六年||鄣郡|秣陵 溧陽
 ||九江郡|棠邑
 三十七年||鄣郡|秣陵 丹陽 江乘 溧陽
 ||九江郡|棠邑
@@ -121,16 +121,16 @@ would be typed as such:
 |||棠邑侯國 句容侯國
 元朔元年|江都國|鄣郡|江乘 溧陽 句容
 |||棠邑侯國 丹陽侯國 湖熟侯國 秣陵侯國
-元狩元年|江都國|鄣郡|丹陽 江乘 溧陽 句容</tbl></page>
+元狩元年|江都國|鄣郡|丹陽 江乘 溧陽 句容</tb></page>
 ```
 
 , where each line of markup code represents a vertical column in the sequence, and each pipe represents a horizontal line dividing table cells.
 
 This example is instructive because it demonstrates several important principles for typing tables:
 
-- A `<tbl>` and `</tbl>` pair would always exist wholly between a pair of `<page seq="x">` and `</page>` tags, but it can encompass a `<pb />` tag in between.
+- A `<tb>` and `</tb>` pair would always exist wholly between a pair of `<page seq="x">` and `</page>` tags, but it can encompass a `<pb />` tag in between.
 - A table is defined by the presence of horizontal lines, and each instance of those horizontal lines is clearly marked by a `|` (even when there are "empty cells").
-  - Relatedly, this definition of table is why there are two `<tbl>` and `</tbl>` pairs (i.e., two tables) in this sequence. Since the vertical column that begins with `秦` does not have horizontal lines, it is treated as regular texts and no longer part of a table. Therefore, one must end the previous table before `秦` and begin a new table from the next vertical column. Although similar in appearance, the first vertical column after `<pb />` remains part of a table because horizontal lines still divide it into multiple cells.
+  - Relatedly, this definition of table is why there are two `<tb>` and `</tb>` pairs (i.e., two tables) in this sequence. Since the vertical column that begins with `秦` does not have horizontal lines, it is treated as regular texts and no longer part of a table. Therefore, one must end the previous table before `秦` and begin a new table from the next vertical column. Although similar in appearance, the first vertical column after `<pb />` remains part of a table because horizontal lines still divide it into multiple cells.
 - Unlike for regular texts, line changes in tables *are* typed as line breaks.
 - All other protocols from typing regular texts still apply (e.g., type a single space to indicate changes between font sizes).
 
@@ -141,7 +141,7 @@ Some gazetteers do not have vertical lines to separate every vertical column. In
 would be typed as such:
 
 ```
-<page seq="x"><tbl>庚辰|||鄒蘭 輔之子上|孫相 餘姚簿
+<page seq="x"><tb>庚辰|||鄒蘭 輔之子上|孫相 餘姚簿
 |||林錄事|
 辛巳|||解盛 延年子沐|
 |||陽簿|
@@ -152,21 +152,73 @@ would be typed as such:
 丙戌|||孫佳|
 <pb />
 [...]
-</tbl></page>
+</tb></page>
 ```
 
 Besides parallel-line texts within the table, note that, as in typing regular texts, single space is only used to indicate change in font sizes or paragraphs. If you can identify a single space within a name etc. as a decorative space to make the table layout optically more pleasing, do not type it. There are multiple instances of decorative spaces in the sequence above; do not type them.
 
 # Lists
 
-For example:
+Many lists look similar to tables in that they have multiple obvious breaks within a vertical column, but lists do not have horizontal lines (see *Tables* section above). Lists also have consistent and repetitive structure from one vertical column to the next.
 
-Image | Markup
------ | ------
-<img src="lgimg/tab1.jpg"> | `<page>楊家坊 李家口 [...] 西稍門 以上西鄉共八十五庄</page>`
-<img src="lgimg/tab2.jpg"> | `<page>監察御史鄭智 監察御史曾鳳韶 監察御史王彬 [...]</page>`<br /><br />**Note:** If you can identify a single space within a name etc. as a decorative space to make the table layout optically more pleasing, do not type it.
-<img src="lgimg/tab4.jpg"> | `<page>興教寺 在東[...]記 觀音寺 在西門[...]省志 [...]</page>`<br /><br />**Note:** Ignore blank line and treat it as a regular paragraph break, i.e. represent it with a single space.
-<img src="lgimg/tab6.jpg"> | `<page>歷官表上 卷之十六 [...] 卷之二十</page>`<br /><br />`<page>人物傳一 卷之二十一 [...] 卷之二十五</page>`<br /><br />**Note:** This is a typical gazetteer table of contents.
+To indicate a list within the `<page>` tags, type `<ls>` at the beginning of it and `</ls>` at the end. If a list stretches over multiple sequences, treat its parts in different sequences as a new list, so that every `<ls> </ls>` pair exists wholly between a pair of `<page seq="x">` and `</page>`. In case that a list spans across the natural break from the book spine within a sequence, still type `<pb />` where it occurs between the `<ls>` tags.
+
+Within a list, type a single space to indicate the break between individual list items. Unlike for regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate a line change (c.f., the *Contents* section above).
+
+**Note:** In general, the protocol for typing lists is very similar to the one for tables. The main difference is that for lists, one uses single space as separators rather than pipes.
+
+For example, this sequence below:
+
+![sequence with list 1](lgimg/ls1.jpg)
+
+would be typed as such:
+
+```
+<page seq="x"><ls>太常寺卿黃子澄 僉都御史周濬
+僉都御史司中 大理寺少卿胡潤
+太常少卿盧原質 太常寺少卿廖昇
+[...]
+<pb />
+[...]
+</ls></page>
+```
+; and another like this sequence below:
+
+![sequence with list 2](lgimg/ls2.png)
+
+would be typed as such:
+
+```
+<page seq="x"><ls>賈顯 詳名宦 溫璿 山西嵐縣人
+溫玉 山西大同人 李尚璣 浙江 昌吏目
+[...]
+<pb />
+[...]
+</ls></page>
+```
+
+In these examples, line changes are preserved when typing lists. Single space is used as separators and, as in typing regular texts, to denote change in font sizes. Note that both sequences have multiple instances of decorative spaces; do not type them.
+
+## Table of contents
+
+Treat tables of contents as lists and follow the protocol for typing lists accordingly. For example, this sequence below:
+
+![table of contents](lgimg/ls3.jpg)
+
+would be typed as such:
+
+```
+<page seq="x"><ls>歷官表上
+卷之十六
+歷官表中
+卷之十七
+歷官表下 封爵附
+卷之十八
+[...]
+<pb />
+[...]
+</ls></page>
+```
 
 # Images
 
