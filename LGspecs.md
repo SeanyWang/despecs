@@ -290,8 +290,7 @@ Ignore stamps and other images that are not part of the actual gazetteer content
 
 Image | Markup
 ----- | ------
-<img src="lgimg/stmp1.jpg"> | `<page>祖彭序</page>`
-<img src="lgimg/stmp2.jpg"> | `<page>德州志卷之一 封域志第一 [...] 陸鄉而</page>`
+<img src="lgimg/stmp1.jpg"> | `祖彭序`
 
 # Miscellaneous Characters
 
@@ -313,7 +312,7 @@ Before you create a number for an unknown character, first check whether it is a
 
 Number | Character
 ------ | ---------
-1 | <img src="lgimg/char1.jpg">
+1 | <img src="lgimg/char.jpg">
 2 | <img src="lgimg/char2.jpg">
 
 ## Symbols
