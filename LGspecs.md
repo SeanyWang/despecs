@@ -66,24 +66,24 @@ Image | Markup
 <img src="lgimg/seq3.jpeg"> | `<page seq="3">TEXTS<pb />TEXTS</page>`
 <img src="lgimg/seq4.jpeg"> | `<page seq="64">TEXTS<pb /></page>`<br /><br />**Note:** For sequences at the end of a title/volume or immediately before a book cover sequence, there is often a blank half-sequence. Still denote the natural break from the book spine where it occurs and place the typed texts accordingly.
 
-Ignore line changes in the text if the lines are part of the same paragraph. Type one single space to indicate a paragraph change. For example:
+Ignore line changes in the text if the lines are part of the same paragraph. If a line change indicates a paragraph change, type a line break (i.e., hit the enter or return key once). For example:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/seq5.jpg"> | `<page seq="x">重輯[...]念奉 命督[...]揮毫<pb />TEXTS</page>`
+<img src="lgimg/seq5.jpg"> | `<page seq="x">重輯[...]念奉`<br /><br />`命督[...]揮毫<pb />TEXTS</page>`
 <img src="lgimg/seq6.jpg"> | `<page seq="x">TEXTS<pb />TEXTS</page>`<br /><br />**Note:** There are no paragraph changes, so ignore line changes and type the entire sequence in one line.
 <!-- <img src="lgimg/txt2.jpg"> | `<page>務張之[...]以蘇辛未移疾[...]幽獨中</page>`<br /><br />**Note:** There are no in-line spaces or paragraph changes, so ignore line changes and type the entire page in one line.
 <img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人 <char no="001" />心療母母子俱全 王弟[...]</page>`<br /><br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below). -->
 
 **Note:** Do not type any repetitive marginalia (e.g., book title and pagination).
 
-## Font sizes
+## Font Sizes
 
 Sometimes there are changes in font size (e.g., subscripts or small-fonts arranged in parallel). Use one single space to denote changes between font sizes, and continue typing the texts in the order of text flows. For example:
 
 Image | Markup
 ----- | ------
-<img src="lgimg/seq7.jpg"> | `<page seq="x">TEXTS<pb />恍惚[...]心也 陸文[...]急流勇退[...]如也 遠近[...]序間 張祥[...]</page>`
+<img src="lgimg/seq7.jpg"> | `<page seq="x">TEXTS<pb />恍惚[...]心也 陸文[...]急流勇退[...]如也 遠近[...]序間`<br /><br />`張祥[...]</page>`
 <img src="lgimg/seq8.png"> | `<page seq="x">水注[...]即此 江總[...]西峰石壁[...]<pb />中一[...]</page>`
 
 # Tables
@@ -92,7 +92,7 @@ Tables are defined by the presence of horizontal lines that divide up the sequen
 
 To indicate a table within the `<page>` tags, type `<tb>` at the beginning of it and `</tb>` at the end. In case that a table spans across the natural break from the book spine within a sequence, still type `<pb />` where it occurs between the `<tb>` and `</tb>` tags. If a table stretches over multiple sequences, treat its parts in different sequences as a new table, so that every pair of `<tb>` and `</tb>` exists wholly between a pair of `<page seq="x">` and `</page>`.
 
-Within a table, type a pipe (i.e., `|`) to indicate the break between individual cells (i.e., every time you encounter a horizontal line, type a pipe). Unlike for regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate a line change (c.f., the *Contents* section above).
+Within a table, type a pipe (i.e., `|`) to indicate the break between individual cells (i.e., every time you encounter a horizontal line, type a pipe). Unlike for regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate every line change (c.f., the *Contents* section above).
 
 For example, this sequence below:
 
@@ -163,7 +163,7 @@ Many lists look similar to tables in that they have multiple obvious breaks with
 
 To indicate a list within the `<page>` tags, type `<ls>` at the beginning of it and `</ls>` at the end. In case that a list spans across the natural break from the book spine within a sequence, still type `<pb />` where it occurs between the `<ls>` and `</ls>` tags. If a list stretches over multiple sequences, treat its parts in different sequences as a new list, so that every pair of `<ls>` and `</ls>` exists wholly between a pair of `<page seq="x">` and `</page>`.
 
-Within a list, type a single space to indicate the break between individual list items. Unlike for regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate a line change (c.f., the *Contents* section above).
+Within a list, type a single space to indicate the break between individual list items. Unlike for regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate every line change (c.f., the *Contents* section above).
 
 **Note:** In general, the protocol for typing lists is very similar to the one for tables. The main difference is that for lists, one uses single space as separators rather than pipes.
 
@@ -199,7 +199,7 @@ would be typed as such:
 
 In these examples, line changes are preserved when typing lists. Single space is used as separators and, as in typing regular texts, to denote change in font sizes. Note that both sequences have multiple instances of decorative spaces; do not type them.
 
-## Table of contents
+## Table of Contents
 
 Treat tables of contents as lists and follow the protocol for typing lists accordingly. For example, this sequence below:
 
@@ -254,16 +254,39 @@ Image | Markup
 ----- | ------
 <img src="lgimg/fig1.jpg"> | `<page seq="x"><img>秦秣陵縣圖 青龍山 天印山 鍾山 秣陵縣<pb />覆舟山 聚寶山 雞籠山 越城 冶山 江乘縣 石頭 盧能山 大江 三山</img></page>`
 <img src="lgimg/fig3.jpg"> | `<page seq="x"><img>四配陳設圖 菱 [...]</img><pb /><img>東西哲陳設圖 栗 鹿脯 鹽 棗 燭 [...]</img></page>`<br /><br />**Note:** Be careful with identifying horizontal texts and typing them properly.
-<img src="lgimg/fig8.jpg"><br /><br /><img src="lgimg/fig9.jpg"> | `<page>衛河道 [...] 杜家[...]河道</page>`<br /><br />`<page>以上[...]地方<img><text>[...]</text></img></page>`<br /><br />`<page><img><text>[...]</text></img></page>`<br /><br />`<page>以上[...]地方<img><text>[...]</text></img></page>`<br /><br />**Note:** Some pages here contain a mix of regular texts, images, and texts embedded within images. Note that some image-embedded texts here are blurry enough that the use of unreadable characters tag (i.e. `<unr />`) would be appropriate.
 <!-- <img src="lgimg/fig2.jpg"> | `<page><img><caption>學宮<char no="002" /></caption><text>東 訓導 儒學 教諭宅 東廡 名宦祠</text></img></page>`<br /><br />**Note:** This image caption contains an unknown (i.e. untypable) character and the code makes use of the corresponding protocol (see below).
 <img src="lgimg/fig4.jpg"> | `<page><img><caption>南朝都建康圖</caption><text>建興郡 句容縣 [continue typing all texts]</text></img></page>`<br /><br />`<page><img><text>親康宮 <unr /><unr /> [continue typing all texts]</text></img></page>`<br /><br />**Note:** Although this map spans two pages, its caption (in its entirety) appears only on the first page. Thus, treat the first page as an image with both caption and texts embedded within, and the second page as an image with only texts embedded within. Also, the second page contains unreadable characters and the code makes use of the corresponding protocol (see below).
 <img src="lgimg/fig6.jpg"> | `<page><img /></page>`<br /><br />`<page><img><caption>天印山</caption><text>在城南四十里高[continue typing all texts without line changes]</text></img></page>`<br /><br />**Note:** Same as above, except that the caption is on the second page.
 <img src="lgimg/fig5.jpg"> | `<page><img><caption>城圖-1</caption><text>東 太山行宮 [continue typing all texts]</text></img></page>`<br /><br />`<page><img><caption>城圖-2</caption><text>大士閣 <unr />洞 北 [continue typing all texts]</text></img></page>`<br /><br />**Note:** This map spans two pages and its caption (*城圖*) also spans the two pages. In this case, type the entire caption between every page's `<caption>` tags and add *-[number of page]* to the caption, i.e. `<caption>城圖-1</caption>`.
 <img src="lgimg/fig7.jpg"> | `<page><img><caption>星野圖</caption><text>東 危 北 南 虛 西</text></img></page>`<br /><br />**Note:** This image's caption is embedded within. -->
 
+The following is a more complicated scenario, featuring an image that spans two sequences, mixed in with regular texts and lists:
+
+![multi-seq image 1](lgimg/fig8.jpg)
+
+![multi-seq image 2](lgimg/fig9.jpg)
+
+They would be typed as such:
+
+```
+<page seq="x"><ls>衛河道
+小西門城角起至三皇廟南扇止 長一百二十九步係左位河道
+[...]
+杜家墳起至下八里堂止 長一里係德州河道</ls><pb />以上截斷分管本州爭管河道一十五里零五十四步北接吳橋地方<img>□<char no="1" />馹 桑园 第□ 墩台 □□□ □□屯 第三屯 □□□ □□□ □□凹</img></page>
+<page seq="y"><img>第□屯 □□□ □□ □□□ 新□ □家□ □□□</img><pb />以上截斷分管本州爭管河道一十五里零丨西步北接□橋縣地方<img>良店馹 桑園鎮 第六屯 德州 第三屯 八□堂 □米□ 第一屯 浮橋口 老君堂 白□ 四</img></page>
+```
+
+This complicated scenario has a few particular protocols of note:
+
+- Always use the definitions provided in this document to determine regular texts (and paragraph changes), tables, lists, and images. If the definitions here do not provide conclusive evidence for where a string of texts should go, type them as regular texts and follow regular texts protocol accordingly. For example, in the second-half of the first sequence above, the string of texts that begins with `以上截斷` could be either a continuation of the list from the first-half or regular texts, and the third line of this string (`吳橋地方`) could be either a continuing part of this string, a part of this string but *with* a paragraph change, or the title of the image. Since there is no conclusive evidence, treat all three lines of the string as regular texts and type accordingly.
+  - The same situation arises in the second-half of the second sequence above. Note that, because we treated that string of texts as regular texts, we must then define the second sequence as two separate images (one in the first-half and another in the second-half) and type them accordingly.
+- Normally in lists, every line change (or vertical column change) is typed as a line break. Do not type a line break between the second and third vertical columns in the first-half of the first sequence above, however, because it is clear that they belong to the same list item and a line change only happened due to limited space. One can imagine that the same issue occurred before the first vertical column as well; however, since that line item spans two sequences, one must separate it into two parts.
+- Images often have embedded texts that are in many different orientations. As long as all of those texts are typed properly, their order is not very important.
+- There are some unreadable and unknown characters in the two sequences above. Please see the *Unreadable Characters* and *Unknown Characters* sections below for the complete mark-up protocol.
+
 ## Stamps
 
-Ignore stamps and other images that are not part of the actual gazetteer contents (see also marginalia protocol above). For example:
+Ignore stamps and other images that are not part of the actual gazetteer contents (see also the marginalia protocol above). For example:
 
 Image | Markup
 ----- | ------
@@ -274,24 +297,24 @@ Image | Markup
 
 ## Unreadable Characters
 
-If there is an unreadable character in the text, represent it with `<unr />`. Use one `<unr />` tag for each unreadable character. For example:
+If there is an unreadable character in the text, represent it with the symbol `□` ([U+25A1](https://www.fileformat.info/info/unicode/char/25a1/index.htm)). Type one `□` for each unreadable character. For example:
 
 Image | Markup
 ----- | ------
-<img src="bilder/chinese/unreadable.jpg"> | `上戊其日<unr /><unr />禮<unr /><unr />陳尚明率元儒姬紹周`
+<img src="bilder/chinese/unreadable.jpg"> | `上戊其日□□禮□□陳尚明率元儒姬紹周`
 
 ## Unknown Characters
 
-If there is an unknown character in the text, i.e. a character variant which is readable but where you cannot identify the standard character or cannot type it, add it to the numbered list of unknown characters. From then on, type its number inside the `<char>` tag whenever it occurs in the text, e.g. `<char no="001" />`.
+If there is an unknown character in the text, i.e. a character variant which is readable but where you cannot identify the standard character or cannot type it, add it to the numbered list of unknown characters. From then on, type its number inside the `<char>` tag whenever it occurs in the text, e.g. `<char no="1" />`.
 
-Before you create a number for an unknown character, first check whether it is already on the list of unknown characters. Assign the number `001` to the first unknown character, `002` to the second unknown character, and so on. Do not assign the same number twice. Use this number to type the unknown character. Always use the same number if the same unknown character occurs again.
+Before you create a number for an unknown character, first check whether it is already on the list of unknown characters. Assign the number `1` to the first unknown character, `2` to the second unknown character, and so on. Do not assign the same number twice. Use this number to type the unknown character. Always use the same number if the same unknown character occurs again.
 
 **Please note:** Make sure that for a given gazetteer title there is a single list containing images of all unknown characters and the corresponding numbers, and that everyone uses this list. When the text is sent back to us, we will need a copy of this list. For example:
 
 Number | Character
 ------ | ---------
-001 | <img src="lgimg/char1.jpg">
-002 | <img src="lgimg/char2.jpg">
+1 | <img src="lgimg/char1.jpg">
+2 | <img src="lgimg/char2.jpg">
 
 ## Symbols
 
