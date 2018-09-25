@@ -103,9 +103,9 @@ would be typed as such:
 敬王 三十四年|吳||棠邑 平陵邑
 元王 二年|楚||棠邑
 |越||平陵邑
-顯王 三十七年|楚||棠邑 平陵邑 金陵邑</tb>
+顯王 三十七年|楚||棠邑 平陵邑 金陵邑
 秦
-<tb>始皇 二十六年||鄣郡|秣陵 溧陽
+始皇 二十六年||鄣郡|秣陵 溧陽
 ||九江郡|棠邑
 三十七年||鄣郡|秣陵 丹陽 江乘 溧陽
 ||九江郡|棠邑
@@ -128,7 +128,7 @@ This example is instructive because it demonstrates several important principles
 
 - A `<tb>` and `</tb>` pair would always exist wholly between a pair of `<page seq="x">` and `</page>` tags, but it can encompass a `<pb />` tag in between.
 - A table is defined by the presence of horizontal lines, and each instance of those horizontal lines is clearly marked by a `|` (even when there are "empty cells").
-  - Relatedly, this definition of table is why there are two `<tb>` and `</tb>` pairs (i.e., two tables) in this sequence. Since the vertical column that begins with `秦` does not have horizontal lines, it is treated as regular texts and no longer part of a table. Therefore, one must end the previous table before `秦` and begin a new table from the next vertical column. Although similar in appearance, the first vertical column after `<pb />` remains part of a table because horizontal lines still divide it into multiple cells.
+  - While the vertical column that begins with `秦` does not have horizontal lines, it is still treated as part of a table based on intuition.
 - Unlike for regular texts, line changes in tables *are* typed as line breaks.
 - All other protocols from typing regular texts still apply (e.g., type a single space to indicate changes between font sizes).
 
