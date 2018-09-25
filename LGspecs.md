@@ -57,7 +57,7 @@ For example:
 
 Type all contents of each gazetteer between the `<content>` and `</content>` tags.
 
-Harvard-Yenching Library defines each individual scan as a "sequence" and all scans for a gazetteer title are numbered sequentially across volumes; e.g., [here](http://id.lib.harvard.edu/alma/990074670640203941/catalog) is the catalog entry for 江寧府志 and its "View Online" link opens up the corresponding [viewer](http://nrs.harvard.edu/urn-3:FHCL:14071862), where every scan's sequence number is clearly indicated. Begin typing the content of every sequence with `<page seq="SEQUENCE NO.">` and end with `</page>`, and always type in the corresponding sequence number in the opening `<page>` tag. Ignore volume numbers (if any). Except the book cover, all sequences have two halves that correspond to natural breaks from the book spine. When typing, always use `<pb />` to indicate such natural breaks. For example:
+Harvard-Yenching Library defines each individual scan as a "sequence" and all scans for a gazetteer title are numbered sequentially across volumes; e.g., [here](http://id.lib.harvard.edu/alma/990074670640203941/catalog) is the catalog entry for 江寧府志 and its "View Online" link opens up the corresponding [viewer](http://nrs.harvard.edu/urn-3:FHCL:14071862), where every scan's sequence number is clearly indicated. Begin typing the content of every sequence with `<page seq="SEQUENCE NO.">` and end with `</page>`, and always type in the corresponding sequence number in the opening `<page>` tag. Ignore volume numbers (if any). Do not type any repetitive marginalia (e.g., book title and pagination). Except the book cover, all sequences have two halves that correspond to natural breaks from the book spine. When typing, always use `<pb />` to indicate such natural breaks. For example:
 
 Image | Markup
 ----- | ------
@@ -75,8 +75,6 @@ Image | Markup
 <!-- <img src="lgimg/txt2.jpg"> | `<page>務張之[...]以蘇辛未移疾[...]幽獨中</page>`<br /><br />**Note:** There are no in-line spaces or paragraph changes, so ignore line changes and type the entire page in one line.
 <img src="lgimg/txt1.jpg"> | `<page>大清[...]生 王三[...]人 割股[...]人 宋史思賢[...]人 <char no="001" />心療母母子俱全 王弟[...]</page>`<br /><br />**Note:** Use one single space to represent any in-line spaces (regardless of length) and paragraph changes. This text contains parallel lines and an unknown (i.e. untypable) character, and the markup code makes use of the corresponding protocols (see below). -->
 
-**Note:** Do not type any repetitive marginalia (e.g., book title and pagination).
-
 ## Font Sizes
 
 Sometimes there are changes in font size (e.g., subscripts or small-fonts arranged in parallel). Use one single space to denote changes between font sizes, and continue typing the texts in the order of text flows. For example:
@@ -92,7 +90,7 @@ Tables are defined by the presence of horizontal lines that divide up the sequen
 
 To indicate a table within the `<page>` tags, type `<tb>` at the beginning of it and `</tb>` at the end. In case that a table spans across the natural break from the book spine within a sequence, still type `<pb />` where it occurs between the `<tb>` and `</tb>` tags. If a table stretches over multiple sequences, treat its parts in different sequences as a new table, so that every pair of `<tb>` and `</tb>` exists wholly between a pair of `<page seq="x">` and `</page>`.
 
-Within a table, type a pipe (i.e., `|`) to indicate the break between individual cells (i.e., every time you encounter a horizontal line, type a pipe). Unlike for regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate every line change (c.f., the *Contents* section above).
+Within a table, type a pipe (i.e., `|`) to indicate the break between individual cells (i.e., every time you encounter a horizontal line, type a pipe). Unlike for regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate every line change (see also the *Contents* section above).
 
 For example, this sequence below:
 
@@ -163,7 +161,7 @@ Many lists look similar to tables in that they have multiple obvious breaks with
 
 To indicate a list within the `<page>` tags, type `<ls>` at the beginning of it and `</ls>` at the end. In case that a list spans across the natural break from the book spine within a sequence, still type `<pb />` where it occurs between the `<ls>` and `</ls>` tags. If a list stretches over multiple sequences, treat its parts in different sequences as a new list, so that every pair of `<ls>` and `</ls>` exists wholly between a pair of `<page seq="x">` and `</page>`.
 
-Within a list, type a single space to indicate the break between individual list items. Unlike for regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate every line change (c.f., the *Contents* section above).
+Within a list, type a single space to indicate the break between individual list items. Unlike for regular texts in paragraphs, type a line break (i.e., hit the enter or return key once) to indicate every line change (see also the *Contents* section above).
 
 **Note:** In general, the protocol for typing lists is very similar to the one for tables. The main difference is that for lists, one uses single space as separators rather than pipes.
 
@@ -260,7 +258,7 @@ Image | Markup
 <img src="lgimg/fig5.jpg"> | `<page><img><caption>城圖-1</caption><text>東 太山行宮 [continue typing all texts]</text></img></page>`<br /><br />`<page><img><caption>城圖-2</caption><text>大士閣 <unr />洞 北 [continue typing all texts]</text></img></page>`<br /><br />**Note:** This map spans two pages and its caption (*城圖*) also spans the two pages. In this case, type the entire caption between every page's `<caption>` tags and add *-[number of page]* to the caption, i.e. `<caption>城圖-1</caption>`.
 <img src="lgimg/fig7.jpg"> | `<page><img><caption>星野圖</caption><text>東 危 北 南 虛 西</text></img></page>`<br /><br />**Note:** This image's caption is embedded within. -->
 
-The following is a more complicated scenario, featuring an image that spans two sequences, mixed in with regular texts and lists:
+The following is a more complicated scenario, featuring an image that spans two sequences, mixed with regular texts and lists:
 
 ![multi-seq image 1](lgimg/fig8.jpg)
 
