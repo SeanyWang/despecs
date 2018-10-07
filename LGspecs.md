@@ -7,9 +7,9 @@ author: Sean Wang
 
 Each title of local gazetteers corresponds to a catalog record from the Harvard-Yenching Library's [Chinese Rare Local Gazetteers collection](https://hollis.harvard.edu/primo-explore/search?query=any,contains,Harvard-Yenching%20Library%20Chinese%20Local%20Gazetteers%20Project%22&tab=everything&search_scope=everything&vid=HVD2&lang=en_US&offset=0&fromRedirectFilter=true). We will provide a spreadsheet of all the titles to be typed in this project, containing the following three column of information:
 
-* HOLLIS number: this is the unique record identifier used by Harvard-Yenching Library.
-* Title
-* URL: this points to Harvard-Yenching Library's online catalog, where the **View Online** link on the page opens up the scanned gazetteer images.
+* *HOLLIS number*: this is the unique record identifier used by Harvard-Yenching Library.
+* *Title*
+* *URL*: this points to Harvard-Yenching Library's online catalog, where the **View Online** link on the page opens up the scanned gazetteer images.
 
 Save the text in plain text format (`.txt`) with Unicode `utf-8` encoding. Each Chinese local gazetteer title is saved in its own `.txt` file. Name the file with the HOLLIS number provided in the spreadsheet (e.g., `07453713.txt`). Create a `.zip` archive of all files.
 
