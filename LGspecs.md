@@ -9,7 +9,7 @@ Each title of local gazetteers corresponds to a catalog record from the Harvard-
 
 * HOLLIS number: this is the unique record identifier used by Harvard-Yenching Library.
 * Title
-* URL: this points to Harvard-Yenching Library's online catalog, where the **View Online** link on the page opens the image viewer for typing.
+* URL: this points to Harvard-Yenching Library's online catalog, where the **View Online** link on the page opens up the scanned gazetteer images.
 
 Save the text in plain text format (`.txt`) with Unicode `utf-8` encoding. Each Chinese local gazetteer title is saved in its own `.txt` file. Name the file with the HOLLIS number provided in the spreadsheet (e.g., `07453713.txt`). Create a `.zip` archive of all files.
 
