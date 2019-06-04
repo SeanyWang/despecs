@@ -143,7 +143,7 @@ From browsing the scanned pages, one can see that the table of contents begins a
 2 | 第一百六十二卷
 ```
 
-Once this is done, then one must go through the files and locate the start and end sequence numbers of each section. Since this table of content covers multiple files, please add the file prefix before the specific sequence numbers. A tip: it is much easier to search for section headings based on keywords (e.g., 江西通志卷第三).
+Once this is done, then one must go through the files and locate the start and end sequence numbers of each section. Since this table of content covers multiple files, please add the file prefix before the specific sequence numbers. A tip: it is much easier to search for section headings based on keywords (e.g., 江西通志卷第三); try only using the image viewer for copying the URLs or for verification when the typed texts are unclear.
 
 ```
 1 | 上諭 | 01-57 | 02-91
@@ -179,46 +179,47 @@ Once this is done, then one must go through the files and locate the start and e
 2 | 第十九卷 | 10-46 | 10-95
 2 | 第二十卷 | 11-2 | 11-44
 [...]
-1 | 藝文 | 55-81
-2 | 詔敕表箋 | 55-81
-3 | 第一百十四卷 | 55-81
-2 | 劄子奏疏
-3 | 第一百十五卷
+1 | 藝文 | 55-81 | 78-66
+2 | 詔敕表箋 | 55-81 | 55-104
+3 | 第一百十四卷 | 55-81 | 55-104
+2 | 劄子奏疏 | 56-2 | 57-81
+3 | 第一百十五卷 | 56-2 | 56-33
 [...]
-3 | 一百十八卷
-2 | 狀議
-3 | 第一百十九卷
-2 | 碑碣墓表
-3 | 第一百二十
-3 | 第一百二十一卷
-2 | 記
-3 | 第一百二十二卷
+3 | 第一百十八卷 | 57-44 | 57-81
 [...]
-3 | 一百三十五卷
-2 | 序
-3 | 第一百三十六卷
+2 | 詩 | 73-2 | 78-66
+3 | 第一百四十七卷 | 73-2 | 73-28
 [...]
-3 | 一百三十九卷
-2 | 書啟
-3 | 第一百四十卷
-2 | 論辨說考疏引
-3 | 第一百四十一卷
-2 | 傳贊頌銘
-3 | 第一百四十二卷
-2 | 題跋志書記畧
-3 | 第一百四十三卷
-2 | 文青詞
-3 | 第一百四十四卷
-2 | 教策講義語録文牒牌檄告約
-3 | 第一百四十五卷
-2 | 辭賦
-3 | 第一百四十六卷
-2 | 詩
-3 | 第一百四十七卷
+3 | 第一百五十八卷 詩餘附末 | 78-38 | 78-66
+1 | 雜記 | 79-2 | 80-77
+2 | 第一百五十九卷 | 79-2 | 79-48
 [...]
-3 | 一百五十八卷 詩餘附末
-1 | 雜記
-2 | 第一百五十九卷
-[...]
-2 | 第一百六十二卷
+2 | 第一百六十二卷 | 80-39 | 80-77
 ```
+
+Putting this all together, the metadata section for the first file (`07468498-01.txt`) in this collection would look like the following:
+
+```
+<meta>
+<hollis>07468498-01</hollis>
+<title>［雍正］江西通志162卷首3卷</title>
+<url>https://iiif.lib.harvard.edu/manifests/view/drs:428490607$1i</url>
+<toc>
+1 | 上諭 | 01-57 | 02-91
+[...]
+2 | 第一百六十二卷 | 80-39 | 80-77
+</toc>
+</meta>
+```
+
+And because the entire table of contents information is included with the first file, subsequent files from the second one onward will not have `<toc>` in the metadata, just the file's specific image viewer `<url>`. For example, the metadata section for the file `07468498-02.txt` would look like the following:
+
+```
+<meta>
+<hollis>07468498-02</hollis>
+<title>［雍正］江西通志162卷首3卷</title>
+<url>https://iiif.lib.harvard.edu/manifests/view/drs:54470198$1i</url>
+</meta>
+```
+
+## Scenario 2
