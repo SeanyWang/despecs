@@ -5,7 +5,7 @@ author: Sean Wang
 
 # Preamble
 
-Since 2018, several hundred titles of local gazetteers from the Harvard-Yenching Library have been typed, currently totaling 707 files. In this round, we plan to add table-of-contents and related metadata to the files, in order to enrich its utility to our scholars. We will provide a spreadsheet of all the files to be amended in this round.
+Since 2018, several hundred titles of local gazetteers from the Harvard-Yenching Library have been typed, currently totaling 707 files. In this round, we plan to add table-of-contents and related metadata to the files, in order to enrich its utility to our scholars. We will provide a spreadsheet listing all the files to be amended in this round.
 
 Each file already contains the following structure:
 ```
@@ -37,9 +37,9 @@ We now add the following two fields of metadata, `<url>` and `<toc>`, so that th
 
 # Image viewer URL
 
-Please copy and paste the URL of the image viewer into the metadata. For example, the file `07453713.txt` links to the catalog record [五涼考治六德集全誌](http://id.lib.harvard.edu/alma/990074537130203941/catalog). After clicking on 'View Online,' the image viewer will open. Please enter the URL as `<url>https://iiif.lib.harvard.edu/manifests/view/drs:49827457$1i</url>`.
+Please copy and paste the URL of the image viewer into the metadata. For example, from the spreadsheet the file `07453713.txt` links to the catalog record [五涼考治六德集全誌](http://id.lib.harvard.edu/alma/990074537130203941/catalog). After clicking on 'View Online,' the image viewer will open. Please enter the URL as `<url>https://iiif.lib.harvard.edu/manifests/view/drs:49827457$1i</url>`.
 
-![DRS number from the image viewer](lgimg/drs1.png)
+![URL from the image viewer](lgimg/drs1.png)
 
 # Table of contents
 
@@ -201,14 +201,14 @@ Putting this all together, the metadata section for the first file (`07468498-01
 
 ```
 <meta>
-<hollis>07468498-01</hollis>
-<title>［雍正］江西通志162卷首3卷</title>
-<url>https://iiif.lib.harvard.edu/manifests/view/drs:428490607$1i</url>
-<toc>
-1 | 上諭 | 01-57 | 02-91
-[...]
-2 | 第一百六十二卷 | 80-39 | 80-77
-</toc>
+  <hollis>07468498-01</hollis>
+  <title>［雍正］江西通志162卷首3卷</title>
+  <url>https://iiif.lib.harvard.edu/manifests/view/drs:428490607$1i</url>
+  <toc>
+    1 | 上諭 | 01-57 | 02-91
+    [...]
+    2 | 第一百六十二卷 | 80-39 | 80-77
+  </toc>
 </meta>
 ```
 
@@ -216,10 +216,115 @@ And because the entire table of contents information is included with the first 
 
 ```
 <meta>
-<hollis>07468498-02</hollis>
-<title>［雍正］江西通志162卷首3卷</title>
-<url>https://iiif.lib.harvard.edu/manifests/view/drs:54470198$1i</url>
+  <hollis>07468498-02</hollis>
+  <title>［雍正］江西通志162卷首3卷</title>
+  <url>https://iiif.lib.harvard.edu/manifests/view/drs:54470198$1i</url>
 </meta>
 ```
 
 ## Scenario 2
+
+Files named as `HOLLIS#.txt` could be in either Scenarios 2 or 3 (though most of them will be in Scenario 2). Therefore for those files, the first thing to do, after `<url>` has been entered, is to collapse and expand all the navigational sections on the left-hand side of the image viewer and see how many times 目錄 appears. If 目錄 only appears only once, then this file falls under Scenario 2; if 目錄 appears more than once, then this file falls under Scenario 3.
+
+Let's take `07486999.txt` (絳州志) as an example. From its [catalog record](http://id.lib.harvard.edu/alma/990074869990203941/catalog), we can link to its corresponding [image viewer](https://iiif.lib.harvard.edu/manifests/view/drs:49374947$1i) and copy the URL into the file's metadata in `<url>`. One can see below that the image viewer always opens to sequence 1 and has the first navigational section expanded on the left.
+
+![locating TOC from the image viewer](lgimg/toc2.png)
+
+First collapse the first navigational section to see the entire list. Usually the navigational section titles will have 目錄 indicated already. But to be sure, now expand every navigational section one by one to see how many sequence(s) have 目錄 indicated. If there is only one, then you can be sure that this file falls under Scenario 2.
+
+![locating TOC from the image viewer](lgimg/toc3.png)
+
+After expanding all navigational sections, we can confirm that this file only has one 目錄 on sequence 14. Therefore, this file falls under Scenario 2.
+
+![locating TOC from the image viewer](lgimg/toc4.png)
+
+Similar to Scenario 1, from the image viewer we can see that the table of contents information are on sequences 14 and 15. Therefore, navigate to those sequences in the file to copy and paste the entire table of contents texts already typed to the metadata section. Then, organize them into section headings (up to three section levels) as below:
+
+```
+1 | 卷一
+2 | 地理
+3 | 建置
+3 | 星野
+3 | 形勝
+3 | 疆域
+3 | 城池
+3 | 坊郷
+3 | 堡墩
+3 | 山川
+3 | 水利
+3 | 氷窑
+3 | 橋梁
+3 | 古蹟
+3 | 風俗
+3 | 節序
+2 | 廨宇
+3 | 官治
+3 | 學校
+3 | 祭噐
+3 | 公署
+3 | 堂閣
+3 | 壇壝
+3 | 祠廟
+3 | 寺觀
+3 | 陵墓
+3 | 舖舎
+2 | 食貨
+3 | 戶口
+3 | 田賦
+3 | 課程
+3 | 物産
+2 | 帝系
+3 | 王侯
+1 | 卷二
+2 | 職官
+3 | 官秩
+3 | 官師
+3 | 名宦
+2 | 人物
+3 | 鄉賢
+3 | 科貢 㧞貢准貢例授考授附
+3 | 例貢 特貢附
+3 | 武弁
+3 | 武科
+3 | 掾官
+3 | 薦辟
+3 | 封䕃
+1 | 卷三
+3 | 孝義
+3 | 流寓
+3 | 隠逸
+3 | 貞烈
+3 | 祥異 僊釋附
+2 | 藝文
+3 | 風
+3 | 謡
+3 | 賦
+3 | 詩 雜體附
+3 | 序
+1 | 卷四
+3 | 記 碑附
+3 | 䟽
+3 | 議
+3 | 說
+3 | 引
+3 | 志
+3 | 傳
+3 | 墓志銘
+3 | 墓表
+3 | 法書
+3 | 藏書
+3 | 篇目
+3 | 廣彚 附異附餘附續
+```
+
+As before, one must determine the appropriate section levels based on the scanned pages on the image viewer and the overall structure of the specific local gazetteer title.
+
+Then, one can begin entering the starting and ending sequence numbers of each section heading.
+
+## Scenario 3
+
+Scenario 3 is when one single image viewer has multiple 目錄. It indicates that the corresponding file contains more than one local gazetteer title. For these files, the process of entering table of contents information is largely the same as Scenario 2, except that we use the notation `<toc index="x">` to note the multiple tables of contents.
+
+Let's use the file `07453713.txt` as example. After consulting the navigational section on the left-hand side of the image viewer, one can see that this file actually contains five different titles of local gazetteers, with five different 目錄 indicated on sequences 10, 114, 181, 236, and 296.
+
+![locating TOC from the image viewer](lgimg/toc5.png)
