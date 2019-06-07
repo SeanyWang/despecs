@@ -321,6 +321,36 @@ As before, one must determine the appropriate section levels based on the scanne
 
 Then, one can begin entering the starting and ending sequence numbers of each section heading.
 
+```
+1 | 卷一 | 24 | 79
+2 | 地理 | 24 | 47
+3 | 建置 | 24 | 26
+3 | 星野 | 26 | 29
+[...]
+3 | 節序 | 46 | 47
+[...]
+1 | 卷二 | 82 | 164
+[...]
+2 | 人物 | 119 | 190
+3 | 鄉賢 | 119 | 140
+3 | 科貢 㧞貢准貢例授考授附 | 140 | 152
+3 | 例貢 特貢附 | 153 | 155
+[...]
+3 | 封䕃 | 163 | 164
+1 | 卷三 | 167 | 247
+3 | 孝義 | 167 | 174
+[...]
+3 | 祥異 僊釋附 | 184 | 190
+2 | 藝文 | 190 | 342
+[...]
+3 | 序 | 228 | 247
+1 | 卷四 | 251 | 342
+[...]
+3 | 廣彚 附異附餘附續 | 323 | 342
+```
+
+Please note that some degree of independent research between the typed files and the image viewer back and forth is necessary to get the sequence numbers of every section correctly. Due to the unique structure of local gazetteers, the three section levels may not always stack up perfectly in hierarchy.
+
 ## Scenario 3
 
 Scenario 3 is when one single image viewer has multiple 目錄. It indicates that the corresponding file contains more than one local gazetteer title. For these files, the process of entering table of contents information is largely the same as Scenario 2, except that we use the notation `<toc index="x">` to note the multiple tables of contents.
