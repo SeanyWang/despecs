@@ -351,10 +351,116 @@ Then, one can begin entering the starting and ending sequence numbers of each se
 
 Please note that some degree of independent research between the typed files and the image viewer back and forth is necessary to get the sequence numbers of every section correctly. Due to the unique structure of local gazetteers, the three section levels may not always stack up in perfect hierarchy.
 
+Therefore, the full metadata section for the file `07486999.txt` will look like the following at the end:
+
+```
+<meta>
+  <hollis>07486999</hollis>
+  <title>[康熙]絳州志四卷</title>
+  <url>https://iiif.lib.harvard.edu/manifests/view/drs:49374947$1i</url>
+  <toc>
+    1 | 卷一 | 24 | 79
+    [...]
+    3 | 廣彚 附異附餘附續 | 323 | 342
+  </toc>
+</meta>
+```
+
 ## Scenario 3
 
-Scenario 3 is when one single image viewer has multiple 目錄. It indicates that the corresponding file contains more than one local gazetteer title. For these files, the process of entering table of contents information is largely the same as Scenario 2, except that we use the notation `<toc index="x">` to note the multiple tables of contents.
+Scenario 3 is when one single image viewer has multiple 目錄. It indicates that the corresponding file contains more than one local gazetteer title. For these files, the process of entering table of contents information is largely the same as Scenario 2, except that we use the notation `<toc index=x name="BOOK NAME" seq="beginning-end sequence #s">` to note the multiple titles and their respective tables of contents.
 
-Let's use the file `07453713.txt` as example. After consulting the navigational section on the left-hand side of the image viewer, one can see that this file actually contains five different titles of local gazetteers, with five different 目錄 indicated on sequences 10, 114, 181, 236, and 296.
+Let's use the file `07453713.txt` as example. From the spreadsheet, one first links to its [catalog record](http://id.lib.harvard.edu/alma/990074537130203941/catalog) and opens its [image viewer](https://iiif.lib.harvard.edu/manifests/view/drs:49827457$1i). After consulting the navigational section on the left-hand side of the image viewer, one can see that this file actually contains five different titles of local gazetteers, with five different 目錄 indicated on sequences 10, 114, 181, 236, and 296.
 
 ![locating TOC from the image viewer](lgimg/toc5.png)
+
+For the first table of contents, first enter the notation including the index and the name of the specific title. Then, navigate to sequence 10, copy the table-of-contents texts, and arrange them into the appropriate section levels as below:
+
+```
+<toc index=1 name="武威縣志">
+  1 | 地里誌
+  2 | 星野
+  2 | 沿革
+  2 | 疆域圖并説
+  2 | 里至
+  2 | 山川
+  2 | 村社
+  2 | 户口
+  2 | 保甲
+  2 | 田畒
+  2 | 賦則
+  2 | 物産
+  2 | 水利圖并說
+  2 | 井泉撟梁附
+  2 | 古蹟
+  2 | 祥異
+  1 | 建置誌
+  2 | 城郭
+  2 | 公署
+  2 | 壇壝
+  2 | 學校
+  2 | 驛傅
+  2 | 寺觀
+  1 | 風俗誌
+  2 | 士農工商執業
+  2 | 婚姻祭祀丧葬賓師嵗時伏臘禮儀
+  2 | 畨彛回類附
+  2 | 仙釋附畨彛回類在疆域中仙釋非儒者人物前軰多附於風俗一道德而大同之也
+  1 | 官師誌
+  2 | 官秩
+  2 | 名宦
+  1 | 兵防誌
+  2 | 營堡
+  2 | 闗隘
+  2 | 烽墩
+  2 | 軍制
+  2 | 馬匹戎噐附
+  2 | 糧餉
+  1 | 人物誌
+  2 | 鄉賢
+  2 | 忠孝
+  2 | 節義
+  2 | 選舉
+  2 | 流寓附
+  1 | 文藝誌
+  2 | 議疏
+  2 | 碑記
+  2 | 詩歌
+  2 | 技能附
+</toc>
+```
+
+Then, fill in the sequence numbers for all section headings in the same way as Scenario 2. Once this is done, proceed to do the same for the next four tables of contents.
+
+When all five tables of contents are completed, the entire metadata section for this file will look like the following:
+
+```
+<meta>
+  <hollis>07453713</hollis>
+  <title>［乾隆］五涼考治六德集全誌5卷</title>
+  <url>https://iiif.lib.harvard.edu/manifests/view/drs:49827457$1i</url>
+  <toc index=1 name="武威縣志" seq="1-109">
+    1 | 地里誌 | 11 | 28
+    [...]
+    2 | 技能附 | 107 | 107
+  </toc>
+  <toc index=2 name="鎮番縣志" seq="110-175">
+    1 | 蒙漢界址記 | 171 | 174
+    1 | 地里誌 | 115 | 130
+    2 | 星野 | 115 | 115
+    2 | 沿革 | 115 | 115
+    2 | 疆域圖弁說 | 116 | 118
+    [...]
+    2 | 詩歌 | 164 | 170
+  </toc>
+  <toc index=3 name="永昌縣志" seq="176-230">
+    [...]
+  </toc>
+  <toc index=4 name="古浪縣志" seq="231-288">
+    [...]
+  </toc>
+  <toc index=5 name="平番縣志" seq="289-352">
+    [...]
+  </toc>
+</meta>
+```
