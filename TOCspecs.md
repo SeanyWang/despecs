@@ -349,7 +349,7 @@ Then, one can begin entering the starting and ending sequence numbers of each se
 3 | 廣彚 附異附餘附續 | 323 | 342
 ```
 
-Please note that some degree of independent research between the typed files and the image viewer back and forth is necessary to get the sequence numbers of every section correctly. Due to the unique structure of local gazetteers, the three section levels may not always stack up perfectly in hierarchy.
+Please note that some degree of independent research between the typed files and the image viewer back and forth is necessary to get the sequence numbers of every section correctly. Due to the unique structure of local gazetteers, the three section levels may not always stack up in perfect hierarchy.
 
 ## Scenario 3
 
