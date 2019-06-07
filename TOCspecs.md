@@ -377,7 +377,7 @@ Let's use the file `07453713.txt` as example. From the spreadsheet, one first li
 For the first table of contents, first enter the notation including the index and the name of the specific title. Then, navigate to sequence 10, copy the table-of-contents texts, and arrange them into the appropriate section levels as below:
 
 ```
-<toc index=1 name="武威縣志">
+<toc index=1 name="武威縣志" seq="1-109">
   1 | 地里誌
   2 | 星野
   2 | 沿革
