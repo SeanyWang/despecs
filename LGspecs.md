@@ -1,17 +1,17 @@
 ---
-title: Typing Specifications for Chinese Local Gazetteers, v.2
+title: Typing Specifications for Chinese Local Gazetteers, v.3
 author: Sean Wang
 ---
 
 # File conventions
 
-Each title of local gazetteers corresponds to a catalog record from the Harvard-Yenching Library's [Chinese Rare Local Gazetteers collection](https://hollis.harvard.edu/primo-explore/search?query=any,contains,Harvard-Yenching%20Library%20Chinese%20Local%20Gazetteers%20Project%22&tab=everything&search_scope=everything&vid=HVD2&lang=en_US&offset=0&fromRedirectFilter=true). We will provide a spreadsheet of all the titles to be typed in this project, containing the following three column of information:
+Each title of local gazetteers corresponds to a catalog record from the Harvard-Yenching Library's collections of Chinese local gazetteers. We will provide a spreadsheet of all the titles to be typed in this project, containing the following three columns of information:
 
 * *HOLLIS number*: this is the unique record identifier used by Harvard-Yenching Library.
 * *Title*
 * *URL*: this points to Harvard-Yenching Library's online catalog, where the **View Online** link on the page opens up the scanned gazetteer images.
 
-Save the text in plain text format (`.txt`) with Unicode `utf-8` encoding. Each Chinese local gazetteer title is saved in its own `.txt` file. Name the file with the HOLLIS number provided in the spreadsheet (e.g., `07453713.txt`). Create a `.zip` archive of all files.
+Save the text in plain text format (`.txt`) with Unicode `utf-8` encoding. Each Chinese local gazetteer title is saved in its own `.txt` file. Name the file with the HOLLIS number provided in the spreadsheet (e.g., `07453713.txt`).
 
 Make use of the complete character repertoire found in Unicode version 5.1. This includes characters in the following Unicode blocks when applicable:
 
@@ -22,14 +22,18 @@ At this point, do not make use of the characters in Extensions C, D, or E.
 
 We will also need the list of unknown characters and symbols (see "unknown characters" below). Please send the list in two versions, both in the original file format of your choice (e.g. RTF, DOC, XLS) and as PDF.
 
-Every file should begin with `<book>` and end with `</book>`. Include HOLLIS number and title between the `<meta>` and `</meta>` tags, using information provided in the spreadsheet. All content transcription and other tags should be placed between the `<content>` tags.
+Every file should begin with `<book>` and end with `</book>`. Include HOLLIS number and title between the `<meta>` and `</meta>` tags, as well as image viewer URL and table of contents information. **Note:** For full description on how to enter image viewer URL and table of contents information, please see instructions [here](TOCspecs.md). All content transcription and other tags should be placed between the `<content>` tags.
 
-The file structure should look as follows:
+For the majority of files, the file structure should look as follows:
 ```
 <book>
   <meta>
     <hollis>HOLLIS NUMBER</hollis>
     <title>TITLE</title>
+    <url>IMAGE VIEWER URL</url>
+    <toc>
+      TABLE OF CONTENTS INFORMATION
+    </toc>
   </meta>
   <content>
     <page seq="1">...</page>
