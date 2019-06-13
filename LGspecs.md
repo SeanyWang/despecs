@@ -1,17 +1,17 @@
 ---
-title: Typing Specifications for Chinese Local Gazetteers, v.2
+title: Typing Specifications for Chinese Local Gazetteers, v.3
 author: Sean Wang
 ---
 
 # File conventions
 
-Each title of local gazetteers corresponds to a catalog record from the Harvard-Yenching Library's [Chinese Rare Local Gazetteers collection](https://hollis.harvard.edu/primo-explore/search?query=any,contains,Harvard-Yenching%20Library%20Chinese%20Local%20Gazetteers%20Project%22&tab=everything&search_scope=everything&vid=HVD2&lang=en_US&offset=0&fromRedirectFilter=true). We will provide a spreadsheet of all the titles to be typed in this project, containing the following three column of information:
+Each title of local gazetteers corresponds to a catalog record from the Harvard-Yenching Library's collections of Chinese local gazetteers. We will provide a spreadsheet of all the titles to be typed in this project, containing the following three columns of information:
 
 * *HOLLIS number*: this is the unique record identifier used by Harvard-Yenching Library.
 * *Title*
 * *URL*: this points to Harvard-Yenching Library's online catalog, where the **View Online** link on the page opens up the scanned gazetteer images.
 
-Save the text in plain text format (`.txt`) with Unicode `utf-8` encoding. Each Chinese local gazetteer title is saved in its own `.txt` file. Name the file with the HOLLIS number provided in the spreadsheet (e.g., `07453713.txt`). Create a `.zip` archive of all files.
+Save the text in plain text format (`.txt`) with Unicode `utf-8` encoding. Each Chinese local gazetteer title is saved in its own `.txt` file. Name the file with the HOLLIS number provided in the spreadsheet (e.g., `07453713.txt`). **Note:** Some titles are sorted into multiple image viewers. In those cases, content from each image viewer gets its own file, and the files are organized by numbered suffixes (e.g., `07468498-1.txt`, `07468498-2.txt`... `07468498-80.txt`, etc.).
 
 Make use of the complete character repertoire found in Unicode version 5.1. This includes characters in the following Unicode blocks when applicable:
 
@@ -22,14 +22,18 @@ At this point, do not make use of the characters in Extensions C, D, or E.
 
 We will also need the list of unknown characters and symbols (see "unknown characters" below). Please send the list in two versions, both in the original file format of your choice (e.g. RTF, DOC, XLS) and as PDF.
 
-Every file should begin with `<book>` and end with `</book>`. Include HOLLIS number and title between the `<meta>` and `</meta>` tags, using information provided in the spreadsheet. All content transcription and other tags should be placed between the `<content>` tags.
+Every file should begin with `<book>` and end with `</book>`. Include HOLLIS number and title between the `<meta>` and `</meta>` tags, as well as image viewer URL and table of contents information. **Note:** For full description on how to enter image viewer URL and table of contents information, please see instructions [here](TOCspecs.md). All content transcription and other tags should be placed between the `<content>` tags.
 
-The file structure should look as follows:
+For the majority of files, the file structure should look as follows:
 ```
 <book>
   <meta>
     <hollis>HOLLIS NUMBER</hollis>
     <title>TITLE</title>
+    <url>IMAGE VIEWER URL</url>
+    <toc>
+      TABLE OF CONTENTS INFORMATION
+    </toc>
   </meta>
   <content>
     <page seq="1">...</page>
@@ -43,7 +47,7 @@ The file structure should look as follows:
 
 Type all contents of each gazetteer between the `<content>` and `</content>` tags.
 
-Harvard-Yenching Library defines each individual scan as a "sequence" and all scans for a gazetteer title are numbered sequentially across volumes; e.g., [here](http://id.lib.harvard.edu/alma/990074670640203941/catalog) is the catalog entry for 江寧府志 and its "View Online" link opens up the corresponding [viewer](http://nrs.harvard.edu/urn-3:FHCL:14071862), where every scan's sequence number is clearly indicated. Begin typing the content of every sequence with `<page seq="SEQUENCE NO.">` and end with `</page>`, and always type in the corresponding sequence number in the opening `<page>` tag. Ignore volume numbers (if any). Do not type any repetitive marginalia (e.g., book title and pagination). Except the book cover, all sequences have two halves that correspond to natural breaks from the book spine. When typing, always use `<pb />` to indicate such natural breaks. For example:
+Harvard-Yenching Library defines each individual scan as a "sequence" and all scans for a gazetteer title are numbered sequentially across volumes; e.g., [here](http://id.lib.harvard.edu/alma/990074670640203941/catalog) is the catalog entry for 江寧府志 and its "View Online" link opens up the corresponding [viewer](http://nrs.harvard.edu/urn-3:FHCL:14071862), where every scan's sequence number is clearly indicated. Begin typing the content of every sequence with `<page seq="SEQUENCE NO.">` and end with `</page>`, and always type in the corresponding sequence number in the opening `<page>` tag. Ignore volume numbers (if any). Do not type any repetitive marginalia (e.g., book title and pagination, or any 眉批 texts). Except the book cover, all sequences have two halves that correspond to natural breaks from the book spine. When typing, always use `<pb />` to indicate such natural breaks. For example:
 
 Image | Markup
 ----- | ------
@@ -204,6 +208,8 @@ would be typed as such:
 </ls></page>
 ```
 
+Once table of contents texts are typed in their original sequence location, please remember to copy them to the file's `<meta>` section too and organize into the format specified [here](TOCspecs.md).
+
 # Images
 
 Type `<img />` to mark the location of an image without any caption, title, or embedded texts.
@@ -285,6 +291,13 @@ If there is an unreadable character in the text, represent it with the symbol `�
 Image | Markup
 ----- | ------
 <img src="bilder/chinese/unreadable.jpg"> | `上戊其日□□禮□□陳尚明率元儒姬紹周`
+
+### Affixes
+
+Sometimes there are affixes that obscure the main body of texts. In these cases, please type the obscured texts as multiple unreadable characters in their natural locations. If there are any texts on the affixes themselves, type those texts between the tags `<note>` and `</note>` at the end of the page (i.e., before `<pb />` or before `</page>`).
+
+![Example of affix](lgimg/afx1.jpeg)
+![Example of affix](lgimg/afx2.jpg)
 
 ## Unknown Characters
 
