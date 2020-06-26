@@ -290,7 +290,7 @@ If there is an unreadable character in the text, represent it with the symbol `�
 
 Image | Markup
 ----- | ------
-<img src="bilder/chinese/unreadable.jpg"> | `上戊其日□□禮□□陳尚明率元儒姬紹周`
+<img src="lgimg/unreadable.jpg"> | `上戊其日□□禮□□陳尚明率元儒姬紹周`
 
 ### Affixes
 
